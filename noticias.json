@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:19:37.822116+00:00",
+  "generated_at": "2026-09-02T18:43:29.984329+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -16,11 +16,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 16:23:31 -0000"
     },
     {
@@ -38,11 +39,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 14:11:41 -0000"
     },
     {
@@ -60,35 +62,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 13:37:49 -0000"
-    },
-    {
-      "id": "2efb205d41f5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Sabatinas: Lula tem maior audiência, seguido por Flávio Bolsonaro e Romeu Zema, empatados",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/sabatinas-lula-tem-maior-audiencia-seguido-por-flavio-bolsonaro-e-romeu-zema-empatados.shtml",
-      "summary": "A sequência de entrevistas com candidatos à Presidência da República, exibida entre os dias 24 e 29 de agosto pela Globo e pela GloboNews, alcançou mais de 60 milhões de telespectadores, segundo dados do Ibope.\nLeia mais (09/02/2026 - 13h54)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Romeu Zema",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "02 Sep 2026 13:54:00 -0300"
     },
     {
       "id": "0eda2bf110b7",
@@ -104,12 +84,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
     },
     {
@@ -128,6 +109,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -158,11 +140,56 @@
       "publishedRaw": "Wed, 02 Sep 2026 14:01:13 -0000"
     },
     {
+      "id": "4aa3559ba14d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula discute com líderes no Congresso proibição de apostas online e pode até recorrer ao STF",
+      "link": "https://www.estadao.com.br/economia/lula-discute-com-lideres-no-congresso-proibicao-de-apostas-online-e-pode-ate-recorrer-ao-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Congresso",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 02 Sep 2026 18:01:04 +0000"
+    },
+    {
+      "id": "8cdcb0d0d522",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro chama encontro de Mendonça com Vorcaro de cortina de fumaça e diz que Moraes é 'laranja podre'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-encontro-de-mendonca-com-vorcaro-de-cortina-de-fumaca-e-diz-que-moraes-e-laranja-podre.shtml",
+      "summary": "O candidato à Presidência Flávio Bolsonaro (PL) chamou a revelação de uma conversa entre o banqueiro Daniel Vorcaro e o ministro do STF (Supremo Tribunal Federal) André Mendonça de \"cortina de fumaça\" para desviar o foco das revelações sobre os contatos entre o ex-banqueiro e o também ministro Alexandre de Moraes.\nLeia mais (09/02/2026 - 15h27)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "02 Sep 2026 15:27:00 -0300"
+    },
+    {
       "id": "6a00ef518232",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "A mancada de Flávio Bolsonaro ao ‘indicar’ seu ministro da Saúde",
+      "title": "A mancada de Flávio Bolsonaro ao ‘indicar’ ministro da Saúde e o eventual apoio de Cury no 2º turno",
       "link": "https://www.estadao.com.br/politica/coluna-do-estadao/a-mancada-de-flavio-bolsonaro-ao-indicar-seu-ministro-da-saude/",
       "summary": "",
       "tags": [
@@ -177,6 +204,27 @@
       ],
       "score": 91,
       "publishedRaw": "Wed, 02 Sep 2026 16:35:35 +0000"
+    },
+    {
+      "id": "74c4000c4ad3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro minimiza encontro de Mendonça com Vorcaro e chama episódio de ‘cortina de fumaça’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-minimiza-encontro-de-mendonca-com-vorcaro-e-chama-episodio-de-cortina-de-fumaca/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Wed, 02 Sep 2026 18:01:10 +0000"
     },
     {
       "id": "021388c9f4e9",
@@ -221,25 +269,193 @@
       "publishedRaw": "Wed, 02 Sep 2026 17:45:13 +0000"
     },
     {
-      "id": "81a932e9a010",
-      "source": "Estadão",
+      "id": "305d1bb05912",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE define critérios para deepfake em campanha, mas não vê ilícito em IA de Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-define-criterios-para-deepfake-em-campanha-mas-nao-ve-ilicito-em-ia-de-bolsonaro/",
-      "summary": "",
+      "title": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
+      "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
+      "summary": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empregador rural pessoa física sobre a receita bruta da comercialização da produção rural. O plenário do STF se reúne hoje um dia após a revelação de mensagens enviadas por Daniel Vorcaro a número atribuído a Alexandre de Moraes.. Segundo a PF, o banqueiro ofereceu contratos milionários, experiências de luxo e viagem a Londres ao ministro do STF. Eles também teriam se encontrado 8 vezes.. A revelação arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte; leia no blog da Sadi.. Já o relator do caso Master no STF afirmou que  recebeu Vorcaro uma 'única vez' para tratar de ação sobre precatórios e apenas se limitou a ouvi-lo.. Já o presidente da Corte, Edson Fachin, diz que analisará fatos e promete anunciar medidas nos próximos dias.",
       "tags": [
-        "Bolsonaro",
-        "TSE"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 17:37:00 -0000"
+    },
+    {
+      "id": "cff8852cc398",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que \nplenário do STF analise mensagens entre Moraes e Vorcaro",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
+      "summary": "Mesmo com o pedido da Procuradoria-Geral da República (PGR) para arquivamento, o relator do caso Master no Supremo Tribunal Federal (STF), ministro André Mendonça, vai insistir que o plenário da corte avalie as informações trazidas em relatório da Polícia Federal que citam o também ministro e vice-presidente da corte, Alexandre de Moraes, em conversas do banqueiro Daniel Vorcaro, do banco Master.\nA informação foi apurada pelo blog junto a fontes no STF. \nO pedido da PGR é assinado pelo procurador-geral, Paulo Gonet, que também é citado nas conversas.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nPGR diz que é nula apuração que apontou relação de Vorcaro e Moraes\nEm relação ao ministro Alexandre de Moraes, o relatório da PF indica troca de mensagens e encontros entre ele e Vorcaro desde 2024. Ha também novas informações sobre contratos do Master com o escritório da mulher de Moraes, Viviane Barci de Moraes.\nEm pedido ao presidente do STF, Édson Fachin, Mendonça havia solicitado que o caso fosse enviado ao plenário do STF, para decidir se os integrantes da corte autorizam ou não abertura de investigação.\nGonet diz que investigação é 'nula'\nA Procuradoria-Geral da República (PGR) manifestou nesta terça-feira (1) pela nulidade da investigação comandada por André Mendonça, do Supremo Tribunal Federal (STF), que apontou relação entre o ministro Alexandre de Moraes e Daniel Vorcaro.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nOs diálogos estão em um relatório enviado pela PF ao STF, que teve o sigilo retirado pelo ministro André Mendonça. O material também foi enviado para manifestação da PGR, agora divulgada.\nAndré Mendonça\nRosinei Coutinho/STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 88,
-      "publishedRaw": "Wed, 02 Sep 2026 00:56:56 +0000"
+      "score": 90,
+      "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
+    },
+    {
+      "id": "c43c8f95b659",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com Moraes e Mendonça lado a lado, STF ignora caso Master em 1ª sessão após novas mensagens de Vorcaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/com-moraes-e-mendonca-lado-a-lado-stf-ignora-caso-master-em-1a-sessao-apos-novas-mensagens-de-vorcaro.shtml",
+      "summary": "Os ministros Alexandre de Moraes e André Mendonça se encontraram no plenário do STF (Supremo Tribunal Federal) nesta quarta-feira (2) pela primeira vez depois de as mensagens de Daniel Vorcaro a Moraes serem tornadas públicas, por determinação do relator do caso do Banco Master.\nLeia mais (09/02/2026 - 15h34)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "02 Sep 2026 15:34:00 -0300"
+    },
+    {
+      "id": "7b07f9e5412e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF faz 1ª sessão após revelações sobre Moraes e Vorcaro; assista",
+      "link": "https://www.estadao.com.br/politica/ao-vivo-stf-faz-1-sessao-apos-revelacoes-sobre-moraes-e-vorcaro/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
+    },
+    {
+      "id": "d8d52eeba6ee",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'",
+      "link": "https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Para Ivar Hartmann, doutor em Direito e professor associado do Insper, corporativismo da Corte tende a brecar avanço da apuração sobre ministro e escândalo do Master.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 16:37:26 GMT"
+    },
+    {
+      "id": "0db26d6fd1db",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Decisão de Mendonça de retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Alexandre de Moraes expôs  uma rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
+    },
+    {
+      "id": "895360767a95",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
+      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
+    },
+    {
+      "id": "2dfaeef4249a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'",
+      "link": "https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Em comunicado, presidente do STF afirma ainda que em momentos de especial gravidade 'é dever de todos preservar a integridade' da Corte.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 13:46:07 GMT"
+    },
+    {
+      "id": "b0bb6e2f7ca6",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tarcísio diz que STF está “sob suspeição” e que isso é “muito grave”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-diz-que-stf-esta-sob-suspeicao-e-que-isso-e-muito-grave/",
+      "summary": "Governador de SP defende investigação sobre o ministro e afirma que \"ninguém está acima da lei\"",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 18:39:07 +0000"
     },
     {
       "id": "6387a1c804c9",
@@ -263,137 +479,25 @@
       "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
     },
     {
-      "id": "305d1bb05912",
+      "id": "ed7202230a08",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
-      "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
-      "summary": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empregador rural pessoa física sobre a receita bruta da comercialização da produção rural. O plenário do STF se reúne hoje um dia após a revelação de mensagens enviadas por Daniel Vorcaro a número atribuído a Alexandre de Moraes.. Segundo a PF, o banqueiro ofereceu contratos milionários, experiências de luxo e viagem a Londres ao ministro do STF. Eles também teriam se encontrado 8 vezes.. A revelação arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte; leia no blog da Sadi.. Já o relator do caso Master no STF afirmou que  recebeu Vorcaro uma 'única vez' para tratar de ação sobre precatórios e apenas se limitou a ouvi-lo.. Já o presidente da Corte, Edson Fachin, diz que analisará fatos e promete anunciar medidas nos próximos dias.",
+      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nO encontro iniciou por volta das 13h e, conforme a agenda de Janja, o ator está acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\nDiCaprio foi alvo de ataques de Bolsonaro\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
       "tags": [
-        "STF"
+        "Palácio do Planalto",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 17:37:00 -0000"
-    },
-    {
-      "id": "cff8852cc398",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que \nplenário do STF analise mensagens entre Moraes e Vorcaro",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
-      "summary": "Mesmo com o pedido da Procuradoria-Geral da República (PGR) para arquivamento, o relator do caso Master no Supremo Tribunal Federal (STF), ministro André Mendonça, vai insistir que o plenário da corte avalie as informações trazidas em relatório da Polícia Federal que citam o também ministro e vice-presidente da corte, Alexandre de Moraes, em conversas do banqueiro Daniel Vorcaro, do banco Master.\nA informação foi apurada pelo blog junto a fontes no STF. \nO pedido da PGR é assinado pelo procurador-geral, Paulo Gonet, que também é citado nas conversas.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nPGR diz que é nula apuração que apontou relação de Vorcaro e Moraes\nEm relação ao ministro Alexandre de Moraes, o relatório da PF indica troca de mensagens e encontros entre ele e Vorcaro desde 2024. Ha também novas informações sobre contratos do Master com o escritório da mulher de Moraes, Viviane Barci de Moraes.\nEm pedido ao presidente do STF, Édson Fachin, Mendonça havia solicitado que o caso fosse enviado ao plenário do STF, para decidir se os integrantes da corte autorizam ou não abertura de investigação.\nGonet diz que investigação é 'nula'\nA Procuradoria-Geral da República (PGR) manifestou nesta terça-feira (1) pela nulidade da investigação comandada por André Mendonça, do Supremo Tribunal Federal (STF), que apontou relação entre o ministro Alexandre de Moraes e Daniel Vorcaro.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nOs diálogos estão em um relatório enviado pela PF ao STF, que teve o sigilo retirado pelo ministro André Mendonça. O material também foi enviado para manifestação da PGR, agora divulgada.\nAndré Mendonça\nRosinei Coutinho/STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
-    },
-    {
-      "id": "7b07f9e5412e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF faz 1ª sessão após revelações sobre Moraes e Vorcaro; assista",
-      "link": "https://www.estadao.com.br/politica/ao-vivo-stf-faz-1-sessao-apos-revelacoes-sobre-moraes-e-vorcaro/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
-    },
-    {
-      "id": "d8d52eeba6ee",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'",
-      "link": "https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Para Ivar Hartmann, doutor em Direito e professor associado do Insper, corporativismo da Corte tende a brecar avanço da apuração sobre ministro e escândalo do Master.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 16:37:26 GMT"
-    },
-    {
-      "id": "0db26d6fd1db",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "summary": "Decisão de Mendonça de retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Alexandre de Moraes expôs  uma rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
-    },
-    {
-      "id": "895360767a95",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
-      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "id": "2dfaeef4249a",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'",
-      "link": "https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Em comunicado, presidente do STF afirma ainda que em momentos de especial gravidade 'é dever de todos preservar a integridade' da Corte.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 13:46:07 GMT"
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
     },
     {
       "id": "760e083232b1",
@@ -408,31 +512,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 15:03:47 -0000"
-    },
-    {
-      "id": "ed7202230a08",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nO encontro iniciou por volta das 13h e, conforme a agenda de Janja, o ator está acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\nDiCaprio foi alvo de ataques de Bolsonaro\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
-      "tags": [
-        "Palácio do Planalto",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
     },
     {
       "id": "705c5a954cec",
@@ -447,11 +532,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 13:16:54 -0000"
+    },
+    {
+      "id": "0c928e52285e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tenta “colar” desgaste de Alexandre de Moraes em Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-tenta-colar-desgaste-de-alexandre-de-moraes-em-lula/",
+      "summary": "Segundo apuração de Tainá Falcão para o Bastidores CNN, estratégia prevê uso de fotos, vídeos e declarações para reforçar proximidade entre o ministro do STF e o candidato petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 18:12:59 +0000"
     },
     {
       "id": "e1974aea0e2c",
@@ -466,10 +572,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 15:35:30 +0000"
     },
     {
@@ -485,10 +592,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 16:10:37 +0000"
     },
     {
@@ -504,11 +612,52 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 13:21:14 +0000"
+    },
+    {
+      "id": "e980c44f6838",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em vitória de Lula, comissão do Senado aprova fim da escala 6 X 1",
+      "link": "https://www.poder360.com.br/poder-congresso/em-vitoria-de-lula-comissao-do-senado-aprova-fim-da-escala-6-x-1/",
+      "summary": "Expectativa é que proposta vá a plenário ainda nesta 4ª feira (2.set); se aprovada, entra em vigor 60 dias após a promulgação",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 13:21:14 +0000"
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 18:24:16 +0000"
+    },
+    {
+      "id": "eec2e9107479",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
       "id": "751edee38e35",
@@ -523,47 +672,24 @@
         "segurança pública",
         "eleições 2026"
       ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 76,
+      "crossOutlets": [],
+      "score": 72,
       "publishedRaw": "Wed, 02 Sep 2026 17:37:00 +0000"
     },
     {
-      "id": "eec2e9107479",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
-    },
-    {
-      "id": "4b0037fc27ba",
-      "source": "Poder360",
+      "id": "67d81a95fe21",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Marco de concessões e blindagem de agências podem avançar pós-eleições",
-      "link": "https://www.poder360.com.br/poder-congresso/marco-de-concessoes-e-blindagem-de-agencias-podem-avancar-pos-eleicoes/",
-      "summary": "Setor de logística articula no Congresso análise de texto que altera regras para contratos de infraestrutura e defende aprovação de projeto que blinda orçamento de agências",
+      "title": "Líder do PL diz que cobrará Alcolumbre diariamente para abrir processo de impeachment de Moraes",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lider-do-pl-diz-que-cobrara-alcolumbre-diariamente-para-abrir-processo-de-impeachment-de-moraes/",
+      "summary": "",
       "tags": [
-        "eleições"
+        "impeachment"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 74,
-      "publishedRaw": "Wed, 02 Sep 2026 17:05:41 +0000"
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Wed, 02 Sep 2026 18:22:46 +0000"
     },
     {
       "id": "c6f7b57d37cd",
