@@ -31,16 +31,6 @@ import feedparser
 # ---------------------------------------------------------------------
 # 1) FONTES
 # ---------------------------------------------------------------------
-# Cada entrada é um feed RSS real. Se "url" estiver como None, o crawler
-# pula essa fonte e avisa no log — ele não trava por causa disso.
-#
-# Feeds marcados como None ainda precisam ser confirmados. Pra achar o
-# feed de um portal:
-#   1. Procure no rodapé do site por um ícone de RSS ou o link "RSS".
-#   2. Ou pesquise no Google: "nome do portal" + "rss feed".
-#   3. Ou abra a página inicial do portal e veja o código-fonte (Ctrl+U),
-#      procurando por <link type="application/rss+xml" ...> — a URL que
-#      aparece ali dentro é o feed.
 FEEDS = [
     # -- direita --
     {"source": "Jovem Pan", "tipo": "direita", "category": "Política", "url": None},
@@ -56,11 +46,11 @@ FEEDS = [
     {"source": "G1 - Mundo", "tipo": "mainstream", "category": "Internacional", "url": "https://g1.globo.com/rss/g1/mundo/"},
     {"source": "UOL", "tipo": "mainstream", "category": "Política", "url": "http://rss.home.uol.com.br/index.xml"},
     {"source": "Folha de São Paulo", "tipo": "mainstream", "category": "Política", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"},
-    {"source": "CNN Brasil", "tipo": "mainstream", "category": "Política", "url": None},
+    {"source": "CNN Brasil", "tipo": "mainstream", "category": "Política", "url": "https://admin.cnnbrasil.com.br/feed/"},
     {"source": "O Globo", "tipo": "mainstream", "category": "Política", "url": None},
-    {"source": "Estadão", "tipo": "mainstream", "category": "Política", "url": None},
+    {"source": "Estadão", "tipo": "mainstream", "category": "Política", "url": "https://www.estadao.com.br/arc/outboundfeeds/rss/category/politica/"},
     {"source": "BBC Brasil", "tipo": "mainstream", "category": "Internacional", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
-    {"source": "Poder360", "tipo": "mainstream", "category": "Política", "url": None},
+    {"source": "Poder360", "tipo": "mainstream", "category": "Política", "url": "https://www.poder360.com.br/feed/"},
 ]
 
 # ---------------------------------------------------------------------
