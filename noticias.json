@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-02T04:15:55.250862+00:00",
+  "generated_at": "2026-09-02T04:19:58.201342+00:00",
   "items": [
+    {
+      "id": "0eda2bf110b7",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Mon, 31 Aug 2026 21:23:44 GMT"
+    },
     {
       "id": "73b1afeeb474",
       "source": "G1 - Política",
@@ -16,53 +38,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 00:25:03 -0000"
-    },
-    {
-      "id": "b1f4f37a9c16",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alcolumbre sobre STF ser alvo de 109 pedidos de impeachment: “não é normal”",
-      "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-sobre-stf-ser-alvo-de-109-pedidos-de-impeachment-nao-e-normal/",
-      "summary": "Presidente do Senado se negou a comentar o relatório da PF que trouxe supostas conversas entre Moraes e Vorcaro",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 02 Sep 2026 01:58:49 +0000"
-    },
-    {
-      "id": "0eda2bf110b7",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Mon, 31 Aug 2026 21:23:44 GMT"
     },
     {
       "id": "0dd5f6cb9b9f",
@@ -79,11 +60,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 87,
+      "score": 92,
       "publishedRaw": "Tue, 01 Sep 2026 23:44:18 -0000"
+    },
+    {
+      "id": "b1f4f37a9c16",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre sobre STF ser alvo de 109 pedidos de impeachment: “não é normal”",
+      "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-sobre-stf-ser-alvo-de-109-pedidos-de-impeachment-nao-e-normal/",
+      "summary": "Presidente do Senado se negou a comentar o relatório da PF que trouxe supostas conversas entre Moraes e Vorcaro",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 02 Sep 2026 01:58:49 +0000"
     },
     {
       "id": "715413cb27d5",
@@ -99,9 +103,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 01 Sep 2026 23:21:26 -0000"
     },
     {
@@ -118,9 +123,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 01 Sep 2026 23:08:18 -0000"
     },
     {
@@ -137,10 +143,31 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
+    },
+    {
+      "id": "9320e149fc3b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça cogita levar relatório da PF com indícios contra Moraes ao plenário do STF semana que vem",
+      "link": "https://www.estadao.com.br/politica/mendonca-cogita-levar-relatorio-da-pf-com-indicios-contra-moraes-ao-plenario-do-stf-semana-que-vem/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 02 Sep 2026 00:24:03 +0000"
     },
     {
       "id": "895360767a95",
@@ -155,10 +182,11 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 00:57:46 GMT"
     },
     {
@@ -174,11 +202,33 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 01 Sep 2026 23:25:06 GMT"
+    },
+    {
+      "id": "81a932e9a010",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE define critérios para deepfake em campanha, mas não vê ilícito em IA de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-define-criterios-para-deepfake-em-campanha-mas-nao-ve-ilicito-em-ia-de-bolsonaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 02 Sep 2026 00:56:56 +0000"
     },
     {
       "id": "cff8852cc398",
@@ -193,10 +243,49 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil"
+        "CNN Brasil",
+        "Estadão"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
+    },
+    {
+      "id": "b0c8f3cc3136",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre reclama de pedidos de impeachment e se nega a comentar sobre Moraes: ‘Eu não acho nada’",
+      "link": "https://www.estadao.com.br/politica/alcolumbre-reclama-de-pedidos-de-impeachment-e-se-nega-a-comentar-sobre-moraes-eu-nao-acho-nada/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
+    },
+    {
+      "id": "2d6480a868f9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Oposição apresenta pedidos de impeachment contra Moraes por conversas com Vorcaro",
+      "link": "https://www.estadao.com.br/politica/oposicao-apresenta-pedidos-de-impeachment-contra-moraes-por-conversas-com-vorcaro/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 01 Sep 2026 21:59:17 +0000"
     },
     {
       "id": "84a3e612b3ba",
@@ -211,28 +300,30 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 02:25:03 +0000"
     },
     {
-      "id": "ab629fbc2eab",
-      "source": "Poder360",
+      "id": "805351a5fbf6",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TRE-SP proíbe propaganda de deputado do PL com imagem de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tre-sp-proibe-propaganda-de-deputado-do-pl-com-imagem-de-bolsonaro/",
-      "summary": "Deputado estadual e candidato à reeleição, Lucas Bove usou foto ao lado do ex-presidente em banners em Ribeirão Preto (SP)",
+      "title": "Kássio vota para definir critérios para deepfake e não vê ilícito em IA de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/kassio-vota-para-definir-criterios-para-deepfake-e-nao-ve-ilicito-em-ia-de-bolsonaro/",
+      "summary": "",
       "tags": [
         "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 79,
-      "publishedRaw": "Wed, 02 Sep 2026 01:29:21 +0000"
+      "score": 83,
+      "publishedRaw": "Tue, 01 Sep 2026 23:51:09 +0000"
     },
     {
       "id": "84dfe13f4d4c",
@@ -247,12 +338,127 @@
         "Lula"
       ],
       "crossOutlets": [
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 78,
+      "score": 83,
       "publishedRaw": "Tue, 01 Sep 2026 12:40:08 GMT"
+    },
+    {
+      "id": "ab629fbc2eab",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TRE-SP proíbe propaganda de deputado do PL com imagem de Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tre-sp-proibe-propaganda-de-deputado-do-pl-com-imagem-de-bolsonaro/",
+      "summary": "Deputado estadual e candidato à reeleição, Lucas Bove usou foto ao lado do ex-presidente em banners em Ribeirão Preto (SP)",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 02 Sep 2026 01:29:21 +0000"
+    },
+    {
+      "id": "b5ea069bff7e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml",
+      "summary": "Aliados do presidente Lula (PT) afirmam enxergar, com a revelação dos diálogos entre o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, uma oportunidade para cobrar de André Mendonça o fim do sigilo das investigações sobre a relação do dono do Banco Master com Flávio Bolsonaro (PL-RJ) no caso \"Dark Horse\".\nLeia mais (09/01/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "e49fb88099ab",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Empresários e banqueiros pedem estabilidade a Lula e se queixam de juros altos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresarios-e-banqueiros-pedem-estabilidade-a-lula-e-se-queixam-de-juros-altos.shtml",
+      "summary": "Convidados para um jantar no Palácio do Alvorada, empresários e banqueiros defenderam a necessidade de estabilidade econômica e institucional em jantar oferecido pelo presidente Luiz Inácio Lula da Silva (PT) na noite de segunda-feira (31) em Brasília.\nLeia mais (09/01/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "df85ebc511a5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliados de Lula veem risco à democracia caso Flávio possa nomear substituto de Moraes",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-lula-veem-risco-a-democracia-caso-flavio-possa-nomear-substituto-de-moraes.shtml",
+      "summary": "O eventual afastamento de Alexandre de Moraes do STF por causa de sua relação com Daniel Vorcaro daria ao próximo presidente o poder de nomear 5 dos 11 ministros da corte -contando os 3 que se aposentarão e a vaga aberta desde a saída de Luís Roberto Barroso.\nLeia mais (09/01/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "aa7cade6b663",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta se descolar de Moraes após escândalo envolvendo Vorcaro e vai defender investigações",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-tenta-se-descolar-de-moraes-apos-escandalo-envolvendo-vorcaro-e-vai-defender-investigacoes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
+    },
+    {
+      "id": "67e51984fdea",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula chama de “traidores da pátria” quem quer entregar terras-raras",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-chama-de-traidores-da-patria-quem-quer-entregar-terras-raras/",
+      "summary": "Programa eleitoral do candidato do PT defende refino e industrialização dos minerais no Brasil para empregos qualificados",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 02:20:02 +0000"
     },
     {
       "id": "4e5fb07c1a92",
@@ -273,78 +479,6 @@
       "publishedRaw": "Tue, 01 Sep 2026 23:51:19 -0000"
     },
     {
-      "id": "b5ea069bff7e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml",
-      "summary": "Aliados do presidente Lula (PT) afirmam enxergar, com a revelação dos diálogos entre o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, uma oportunidade para cobrar de André Mendonça o fim do sigilo das investigações sobre a relação do dono do Banco Master com Flávio Bolsonaro (PL-RJ) no caso \"Dark Horse\".\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 75,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "e49fb88099ab",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Empresários e banqueiros pedem estabilidade a Lula e se queixam de juros altos",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/empresarios-e-banqueiros-pedem-estabilidade-a-lula-e-se-queixam-de-juros-altos.shtml",
-      "summary": "Convidados para um jantar no Palácio do Alvorada, empresários e banqueiros defenderam a necessidade de estabilidade econômica e institucional em jantar oferecido pelo presidente Luiz Inácio Lula da Silva (PT) na noite de segunda-feira (31) em Brasília.\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 75,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "df85ebc511a5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Lula veem risco à democracia caso Flávio possa nomear substituto de Moraes",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-lula-veem-risco-a-democracia-caso-flavio-possa-nomear-substituto-de-moraes.shtml",
-      "summary": "O eventual afastamento de Alexandre de Moraes do STF por causa de sua relação com Daniel Vorcaro daria ao próximo presidente o poder de nomear 5 dos 11 ministros da corte -contando os 3 que se aposentarão e a vaga aberta desde a saída de Luís Roberto Barroso.\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 75,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "67e51984fdea",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula chama de “traidores da pátria” quem quer entregar terras-raras",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-chama-de-traidores-da-patria-quem-quer-entregar-terras-raras/",
-      "summary": "Programa eleitoral do candidato do PT defende refino e industrialização dos minerais no Brasil para empregos qualificados",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 02 Sep 2026 02:20:02 +0000"
-    },
-    {
       "id": "a40b771fa3ff",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -357,10 +491,71 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 73,
+      "score": 77,
       "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "ec3b0b7674f9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Grassi promete correr 42 km em volta do TSE todos os dias em protesto à decisão de Toffoli",
+      "link": "https://www.estadao.com.br/politica/eleicoes/grassi-promete-correr-42-km-em-volta-do-tse-todos-os-dias-em-protesto-a-decisao-de-toffoli/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
+    },
+    {
+      "id": "1b4794f548f9",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
+      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
+      "tags": [
+        "Renan Santos",
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
+    },
+    {
+      "id": "1a2153b649a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
+      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
+      "tags": [
+        "Renan Santos",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
     },
     {
       "id": "f1c96ec69573",
@@ -378,45 +573,6 @@
       ],
       "score": 72,
       "publishedRaw": "Tue, 01 Sep 2026 23:29:31 -0000"
-    },
-    {
-      "id": "1b4794f548f9",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
-      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
-      "tags": [
-        "Renan Santos",
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 71,
-      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
-    },
-    {
-      "id": "1a2153b649a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
-      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
-      "tags": [
-        "Renan Santos",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 69,
-      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
     },
     {
       "id": "3d5beaaf6580",
