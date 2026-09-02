@@ -54,12 +54,12 @@ FEEDS = [
     {"source": "G1 - Política", "tipo": "mainstream", "category": "Política", "url": "https://g1.globo.com/rss/g1/politica/"},
     {"source": "G1 - Economia", "tipo": "mainstream", "category": "Economia", "url": "https://g1.globo.com/rss/g1/economia/"},
     {"source": "G1 - Mundo", "tipo": "mainstream", "category": "Internacional", "url": "https://g1.globo.com/rss/g1/mundo/"},
-    {"source": "UOL", "tipo": "mainstream", "category": "Política", "url": None},
-    {"source": "Folha de São Paulo", "tipo": "mainstream", "category": "Política", "url": None},
+    {"source": "UOL", "tipo": "mainstream", "category": "Política", "url": "http://rss.home.uol.com.br/index.xml"},
+    {"source": "Folha de São Paulo", "tipo": "mainstream", "category": "Política", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"},
     {"source": "CNN Brasil", "tipo": "mainstream", "category": "Política", "url": None},
     {"source": "O Globo", "tipo": "mainstream", "category": "Política", "url": None},
     {"source": "Estadão", "tipo": "mainstream", "category": "Política", "url": None},
-    {"source": "BBC Brasil", "tipo": "mainstream", "category": "Internacional", "url": None},
+    {"source": "BBC Brasil", "tipo": "mainstream", "category": "Internacional", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
     {"source": "Poder360", "tipo": "mainstream", "category": "Política", "url": None},
 ]
 
@@ -106,10 +106,6 @@ def compute_relevance(item, cross_count):
     hit_weights = [w for _, w in matched_keywords(item["title"])]
     tag_factor = max([CATEGORY_WEIGHT.get(item["category"], 45)] + hit_weights)
     impact = min(100, 25 + cross_count * 18)
-    # proxy simples de "encontrabilidade" — sem acesso a uma API de busca
-    # de verdade (ex: Google Trends), usamos a força das palavras-chave
-    # batidas como aproximação. É um ponto de melhoria futura, não a
-    # métrica ideal.
     findability = min(100, 30 + len(hit_weights) * 20)
     score = (
         keywords_score * WEIGHTS["keywords"]
@@ -120,9 +116,6 @@ def compute_relevance(item, cross_count):
     return round(score)
 
 
-# ---------------------------------------------------------------------
-# 3) COLETA
-# ---------------------------------------------------------------------
 def make_id(link):
     return hashlib.sha1(link.encode("utf-8")).hexdigest()[:12]
 
@@ -163,8 +156,6 @@ def collect():
 
 
 def cross_reference(raw_items):
-    """Pra cada item, conta quantas outras fontes cobriram o mesmo assunto,
-    aproximando por sobreposição de palavras-chave fortes no título."""
     enriched = []
     for item in raw_items:
         my_keywords = {t for t, w in matched_keywords(item["title"]) if w >= 70}
