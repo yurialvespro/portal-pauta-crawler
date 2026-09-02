@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:39:24.265897+00:00",
+  "generated_at": "2026-09-02T20:16:08.201591+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -16,12 +16,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 02 Sep 2026 16:23:31 -0000"
     },
     {
@@ -39,36 +38,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 02 Sep 2026 14:11:41 -0000"
-    },
-    {
-      "id": "1c8fcd7490e6",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Flávio Bolsonaro tem rejeição de 55%, e Lula, de 53%",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/quaest-flavio-bolsonaro-tem-rejeicao-de-55percent-e-lula-de-53percent.ghtml",
-      "summary": "Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%\nPesquisa Quaest divulgada nesta quarta-feira (2) mostra os índices de rejeição dos candidatos à Presidência da República. O levantamento foi encomendado pelo jornal O Globo e pela Globo.\nNa pesquisa, a Quaest consultou os eleitores sobre cada um dos candidatos em disputa pela: se eles conhecem e votariam, se não conhecem ou se conhecem e não votariam. \nOs candidatos mais rejeitados (maiores índices de \"conhece e não votaria\") são Flávio Bolsonaro, com 55% e Lula, com 53%.\nVeja os números:\nRejeição dos candidatos para presidente em 2026\nArte/g1\nLula (PT) \nConhece e votaria:  44%\nNão conhece: 3%\nConhece e não votaria: 53%\nFlávio Bolsonaro (PL) \nConhece e votaria:  40%\nNão conhece: 5%\nConhece e não votaria: 55%\nEscritor Augusto Cury (Avante) \nConhece e votaria:  21%\nNão conhece: 54%\nConhece e não votaria: 25%\nRonaldo Caiado (PSD) \nConhece e votaria: 21% \nNão conhece: 39%\nConhece e não votaria: 40%\nPablo Marçal (PRTB) \nConhece e votaria: 20%\nNão conhece: 36%\nConhece e não votaria: 44%\nRomeu Zema (Novo) \nConhece e votaria: 19%\nNão conhece: 43%\nConhece e não votaria: 38%\nRenan Santos (Missão) \nConhece e votaria: 14%\nNão conhece: 58%\nConhece e não votaria: 28%\nRui Costa Pimenta (PCO) \nConhece e votaria: 4%\nNão conhece: 73%\nConhece e não votaria: 23%\nEdmilson Costa (PCB) \nConhece e votaria: 3%\nNão conhece: 86%\nConhece e não votaria: 11%\nSamara Martins (UP) \nConhece e votaria: 3%\nNão conhece: 86%\nConhece e não votaria: 11%\nHertz Dias (PSTU) \nConhece e votaria: 2%\nNão conhece: 88%\nConhece e não votaria: 10%\nVeterinário Wilson Grassi (Democrata) \nConhece e votaria: 2%\nNão conhece: 88%\nConhece e não votaria: 10%\nClariana Barão (DC) \nConhece e votaria: 1%\nNão conhece: 92%\nConhece e não votaria: 7%\nA Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 30 de agosto e 1º de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-07065/2026.\nVeja outros destaques da pesquisa Quaest:\n1º turno: Lula, 37%; Flávio Bolsonaro\n2º turno: Lula, 42%; Flávio Bolsonaro, 41%\n48% desaprovam e 45% aprovam governo Lula",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 02 Sep 2026 13:37:49 -0000"
     },
     {
       "id": "0eda2bf110b7",
@@ -84,13 +59,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
     },
     {
@@ -109,13 +83,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 14:57:21 -0000"
+    },
+    {
+      "id": "de7a124a9209",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Senador diz que Alcolumbre dará resposta sobre impeachment no STF na quinta",
+      "link": "https://www.cnnbrasil.com.br/politica/senador-diz-que-alcolumbre-dara-resposta-sobre-impeachment-no-stf-na-quinta/",
+      "summary": "Carlos Viana (PSD-MG) apresentou na última terça-feira (1º) um pedido de Alexandre de Moraes, o PGR Paulo Gonet e o diretor-geral da PF, Andrei Rodrigues",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 02 Sep 2026 19:27:27 +0000"
     },
     {
       "id": "4aa3559ba14d",
@@ -142,6 +137,51 @@
       "publishedRaw": "Wed, 02 Sep 2026 18:01:04 +0000"
     },
     {
+      "id": "02cc19de6a8c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Augusto Cury defende impeachment no STF em caso de infração grave",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-defende-impeachment-no-stf-em-caso-de-infracao-grave/",
+      "summary": "Cury sugeriu mandato de 8 anos na Corte; \"Não adianta só reformas pontuais, precisamos fazer mudanças nos fundamentos”, disse",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 02 Sep 2026 19:48:59 +0000"
+    },
+    {
+      "id": "7458d964e685",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após 'crise Master' no STF, campanha de Lula defende código de ética para Judiciário e MP",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-crise-master-no-stf-campanha-de-lula-defende-codigo-de-etica-para-judiciario-e-mp.ghtml",
+      "summary": "O coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT), Edinho Silva, divulgou nesta quarta-feira (2) um vídeo nas redes sociais em que afirma que ninguém está acima da lei e que defende a adoção de um código de ética para o Judiciário e para o Ministério Público. \nA declaração foi feita em meio à crise provocada pelas revelações dos últimos dias sobre a relação do ex-banqueiro Daniel Vorcaro com o ministro Alexandre de Moraes e sobre o encontro que o dono do Master teve com André Mendonça em março de 2025. \nAté a última atualização desta reportagem, o presidente Lula não havia se pronunciado sobre o caso. Outros candidatos à Presidência da República já se manifestaram sobre o tema. \nNo vídeo, sem citar diretamente as recentes revelações, Edinho Silva afirmou que o sistema político e judicial do Brasil vive \"profunda crise\" e \"apodreceu\".\n\"A campanha do presidente Lula defende que é urgente mudar o sistema político e judicial no Brasil, que vive uma profunda crise. Que protege poderosos, perpetua privilégios e a corrupção\", disse.\nNo vídeo, em que também critica a falta de transparência de emendas parlamentares, Edinho Silva defende a adoção de um código de ética para o Judiciário e o Ministério Público, mas sem o caso Master, que também envolve o procurador-geral da República, Paulo Gonet.\n\"É preciso acabar com a farra das emendas parlamentares, adotar um código de ética para todo o Judiciário e Ministério Público, com o fim dos supersalários e a promiscuidade entre interesses públicos e privados\", afirma o coordenador da campanha de Lula. \n\"É preciso também a adoção imediata de total transparência e controle dos gastos públicos em todos os níveis. Ninguém está cima da lei. Seja um cidadão comum, um governante, um parlamentar ou até um integrante do poder Judiciário. O povo brasileiro não suporta mais viver nesse sistema de corrupção e privilégios\", completa Edinho.",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 19:43:15 -0000"
+    },
+    {
       "id": "305d1bb05912",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -156,7 +196,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -178,56 +217,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
-    },
-    {
-      "id": "c43c8f95b659",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Com Moraes e Mendonça lado a lado, STF ignora caso Master em 1ª sessão após novas mensagens de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/com-moraes-e-mendonca-lado-a-lado-stf-ignora-caso-master-em-1a-sessao-apos-novas-mensagens-de-vorcaro.shtml",
-      "summary": "Os ministros Alexandre de Moraes e André Mendonça se encontraram no plenário do STF (Supremo Tribunal Federal) nesta quarta-feira (2) pela primeira vez depois de as mensagens de Daniel Vorcaro a Moraes serem tornadas públicas, por determinação do relator do caso do Banco Master.\nLeia mais (09/02/2026 - 15h34)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "02 Sep 2026 15:34:00 -0300"
-    },
-    {
-      "id": "2d00fc803fbf",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ala pró-Mendonça do STF vê “rapidez atípica” de Paulo Gonet em nulidade",
-      "link": "https://www.cnnbrasil.com.br/politica/ala-pro-mendonca-do-stf-ve-rapidez-atipica-de-paulo-gonet-em-nulidade/",
-      "summary": "Segundo apuração de Larissa Rodrigues para o Bastidores CNN, setor do STF avalia que PGR agiu com velocidade incomum ao pedir nulidade após decisão de André Mendonça sobre sigilo",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 19:06:11 +0000"
     },
     {
       "id": "7b07f9e5412e",
@@ -243,7 +237,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -288,7 +281,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -310,7 +302,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -332,35 +323,12 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "id": "2dfaeef4249a",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Fachin diz que STF anunciará medidas sobre conversas entre Moraes e Vorcaro 'nos próximos dias'",
-      "link": "https://www.bbc.com/portuguese/articles/cvgy5jp1y3xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Em comunicado, presidente do STF afirma ainda que em momentos de especial gravidade 'é dever de todos preservar a integridade' da Corte.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 13:46:07 GMT"
     },
     {
       "id": "841c84dc76c4",
@@ -377,34 +345,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 19:33:34 +0000"
-    },
-    {
-      "id": "b0bb6e2f7ca6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarcísio diz que STF está “sob suspeição” e que isso é “muito grave”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-diz-que-stf-esta-sob-suspeicao-e-que-isso-e-muito-grave/",
-      "summary": "Governador de SP defende investigação sobre o ministro e afirma que \"ninguém está acima da lei\"",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 18:39:07 +0000"
     },
     {
       "id": "59557afa1b14",
@@ -420,7 +365,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -428,6 +372,127 @@
       ],
       "score": 89,
       "publishedRaw": "02 Sep 2026 16:14:00 -0300"
+    },
+    {
+      "id": "ed7202230a08",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
+      "summary": "A primeira-dama Janja e o ator Leonardo DiCaprio durante reunião no Palácio do Planalto\nReprodução/Instagram\nO presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nConforme a agenda de Janja, o ator estava acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\nDiCaprio foi alvo de ataques de Bolsonaro\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
+      "tags": [
+        "Palácio do Planalto",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
+    },
+    {
+      "id": "760e083232b1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (2) o projeto que amplia o atendimento de urgências cardiovasculares no Sistema Único de Saúde (SUS). \nCom a medida, Unidades de Pronto Atendimento (UPAs) passam a contar com medicamentos trombolíticos em Unidades de Pronto Atendimento (UPAs).\nEsses medicamentos são usados para dissolver coágulos que bloqueiam a circulação do sangue. Em determinados casos, como no infarto, o tratamento pode ajudar a restabelecer o fluxo sanguíneo e reduzir os danos ao coração.\nO objetivo é reduzir as mortes provocadas por doenças cardiovasculares e ampliar o acesso ao tratamento, principalmente para pessoas que vivem longe de hospitais com estrutura especializada (leia mais abaixo).\nAgora no g1\nA rapidez no atendimento é fundamental porque, em emergências cardiovasculares, quanto maior o tempo entre o início dos sintomas e o tratamento, maior o risco de complicações, sequelas e morte.\nNesses casos, a possibilidade de administrar o trombolítico ainda na UPA pode antecipar o início do atendimento, sem que o paciente precise esperar a transferência para uma unidade hospitalar especializada.\nSegundo a proposta, as novas regras deverão ser implementadas em até 180 dias após a sanção. Esse período servirá para a adaptação do SUS e das unidades de atendimento aos novos protocolos.\nO texto havia sido aprovado pelo Senado Federal em agosto de 2026. Na ocasião, a Sociedade Brasileira de Cardiologia (SBC) enviou a Lula um pedido de urgência na sanção da medida.\nNa carta, a entidade destacou que as doenças cardiovasculares são a principal causa de morte no país e chamou atenção para a importância do atendimento rápido em casos de infarto.\nSegundo a SBC, parte da população, principalmente quem vive fora dos grandes centros urbanos, não consegue chegar a tempo a hospitais que oferecem hemodinâmica. \nPara esses pacientes, o uso de trombolíticos nas próprias UPAs pode permitir que o tratamento seja iniciado dentro do período considerado adequado para reduzir os danos provocados pela interrupção do fluxo de sangue para o coração.\nPresidente Lula, que concorre à reeleição pelo PT, cumpre agenda em Brasília\nJornal Nacional/ Reprodução",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 15:03:47 -0000"
+    },
+    {
+      "id": "3429725ba86f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml",
+      "summary": "Aliados do presidente dos Estados Unidos, Donald Trump, encomendaram uma pesquisa sobre a eleição presidencial brasileira com o objetivo de informar a Casa Branca e o Departamento de Estado sobre o cenário da disputa.\nLeia mais (09/02/2026 - 16h30)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "02 Sep 2026 16:30:00 -0300"
+    },
+    {
+      "id": "cba435052807",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula anuncia nesta quinta que governo zerou fila do INSS",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-anuncia-nesta-quinta-que-governo-zerou-fila-do-inss.shtml",
+      "summary": "O presidente Lula anuncia nesta quinta-feira (3) que o governo zerou a fila do INSS. A cerimônia está programada para ocorrer às 15h no Palácio do Planalto.\nLeia mais (09/02/2026 - 15h41)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "02 Sep 2026 15:41:00 -0300"
+    },
+    {
+      "id": "4f77380aa7a4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Diante de tensão com Milei, governo Lula recebe comitiva argentina",
+      "link": "https://www.poder360.com.br/poder-governo/diante-de-tensao-com-milei-governo-lula-recebe-comitiva-argentina/",
+      "summary": "Em Brasília, encontro com deputados e senadores busca abrir canal de diálogo e preservar relações entre as duas nações",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 20:13:44 +0000"
+    },
+    {
+      "id": "756297163def",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gaspar diz que Lula agiu para blindar Lulinha na CPI do INSS",
+      "link": "https://www.poder360.com.br/poder-congresso/gaspar-diz-que-lula-agiu-para-blindar-lulinha-na-cpi-do-inss/",
+      "summary": "Candidato a vice afirma que governo liberou emendas e pressionou congressistas; relatório da comissão foi derrubado em março",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 20:09:29 +0000"
     },
     {
       "id": "6022c9f4b87d",
@@ -444,31 +509,29 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 87,
+      "score": 83,
       "publishedRaw": "Wed, 02 Sep 2026 14:01:13 -0000"
     },
     {
-      "id": "8cdcb0d0d522",
-      "source": "Folha de São Paulo",
+      "id": "9da776f69e48",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro chama encontro de Mendonça com Vorcaro de cortina de fumaça e diz que Moraes é 'laranja podre'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-chama-encontro-de-mendonca-com-vorcaro-de-cortina-de-fumaca-e-diz-que-moraes-e-laranja-podre.shtml",
-      "summary": "O candidato à Presidência Flávio Bolsonaro (PL) chamou a revelação de uma conversa entre o banqueiro Daniel Vorcaro e o ministro do STF (Supremo Tribunal Federal) André Mendonça de \"cortina de fumaça\" para desviar o foco das revelações sobre os contatos entre o ex-banqueiro e o também ministro Alexandre de Moraes.\nLeia mais (09/02/2026 - 15h27)",
+      "title": "Haddad critica ‘seletividade’ de quebras de sigilo da PF e diz que Flávio Bolsonaro é protegido",
+      "link": "https://www.estadao.com.br/politica/eleicoes/haddad-critica-seletividade-de-quebras-de-sigilo-da-pf-e-diz-que-flavio-bolsonaro-e-protegido/",
+      "summary": "",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "G1 - Política"
       ],
-      "score": 87,
-      "publishedRaw": "02 Sep 2026 15:27:00 -0300"
+      "score": 82,
+      "publishedRaw": "Wed, 02 Sep 2026 19:44:54 +0000"
     },
     {
       "id": "74c4000c4ad3",
@@ -484,10 +547,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 18:01:10 +0000"
     },
     {
@@ -504,10 +566,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 16:35:35 +0000"
     },
     {
@@ -524,201 +585,30 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
-      "id": "ed7202230a08",
-      "source": "G1 - Política",
+      "id": "03ec8271634c",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
-      "summary": "A primeira-dama Janja e o ator Leonardo DiCaprio durante reunião no Palácio do Planalto\nReprodução/Instagram\nO presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nConforme a agenda de Janja, o ator estava acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\nDiCaprio foi alvo de ataques de Bolsonaro\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
-      "tags": [
-        "Palácio do Planalto",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
-    },
-    {
-      "id": "760e083232b1",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (2) o projeto que amplia o atendimento de urgências cardiovasculares no Sistema Único de Saúde (SUS). \nCom a medida, Unidades de Pronto Atendimento (UPAs) passam a contar com medicamentos trombolíticos em Unidades de Pronto Atendimento (UPAs).\nEsses medicamentos são usados para dissolver coágulos que bloqueiam a circulação do sangue. Em determinados casos, como no infarto, o tratamento pode ajudar a restabelecer o fluxo sanguíneo e reduzir os danos ao coração.\nO objetivo é reduzir as mortes provocadas por doenças cardiovasculares e ampliar o acesso ao tratamento, principalmente para pessoas que vivem longe de hospitais com estrutura especializada (leia mais abaixo).\nAgora no g1\nA rapidez no atendimento é fundamental porque, em emergências cardiovasculares, quanto maior o tempo entre o início dos sintomas e o tratamento, maior o risco de complicações, sequelas e morte.\nNesses casos, a possibilidade de administrar o trombolítico ainda na UPA pode antecipar o início do atendimento, sem que o paciente precise esperar a transferência para uma unidade hospitalar especializada.\nSegundo a proposta, as novas regras deverão ser implementadas em até 180 dias após a sanção. Esse período servirá para a adaptação do SUS e das unidades de atendimento aos novos protocolos.\nO texto havia sido aprovado pelo Senado Federal em agosto de 2026. Na ocasião, a Sociedade Brasileira de Cardiologia (SBC) enviou a Lula um pedido de urgência na sanção da medida.\nNa carta, a entidade destacou que as doenças cardiovasculares são a principal causa de morte no país e chamou atenção para a importância do atendimento rápido em casos de infarto.\nSegundo a SBC, parte da população, principalmente quem vive fora dos grandes centros urbanos, não consegue chegar a tempo a hospitais que oferecem hemodinâmica. \nPara esses pacientes, o uso de trombolíticos nas próprias UPAs pode permitir que o tratamento seja iniciado dentro do período considerado adequado para reduzir os danos provocados pela interrupção do fluxo de sangue para o coração.\nPresidente Lula, que concorre à reeleição pelo PT, cumpre agenda em Brasília\nJornal Nacional/ Reprodução",
+      "category": "Internacional",
+      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
+      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 15:03:47 -0000"
-    },
-    {
-      "id": "3429725ba86f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml",
-      "summary": "Aliados do presidente dos Estados Unidos, Donald Trump, encomendaram uma pesquisa sobre a eleição presidencial brasileira com o objetivo de informar a Casa Branca e o Departamento de Estado sobre o cenário da disputa.\nLeia mais (09/02/2026 - 16h30)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "02 Sep 2026 16:30:00 -0300"
-    },
-    {
-      "id": "cba435052807",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula anuncia nesta quinta que governo zerou fila do INSS",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-anuncia-nesta-quinta-que-governo-zerou-fila-do-inss.shtml",
-      "summary": "O presidente Lula anuncia nesta quinta-feira (3) que o governo zerou a fila do INSS. A cerimônia está programada para ocorrer às 15h no Palácio do Planalto.\nLeia mais (09/02/2026 - 15h41)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "02 Sep 2026 15:41:00 -0300"
-    },
-    {
-      "id": "becdab019ea8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula defende código de ética para Judiciário após caso Moraes",
-      "link": "https://www.cnnbrasil.com.br/politica/campanha-de-lula-defende-codigo-de-etica-para-judiciario-apos-caso-moraes/",
-      "summary": "Edinho Silva, coordenador da campanha do petista, publicou vídeo nas redes sociais diante de revelações sobre o ministro do STF",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 19:08:03 +0000"
-    },
-    {
-      "id": "97b1fbbfb615",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "À CNN, Moro diz esperar que oposição governe o PR se Lula for reeleito",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-moro-diz-esperar-que-oposicao-governe-o-pr-se-lula-for-reeleito/",
-      "summary": "Apesar de não acreditar em vitória do petista, senador garantiu diálogo entre possíveis governos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 18:50:56 +0000"
-    },
-    {
-      "id": "e1974aea0e2c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Janja recebem o ator e ativista Leonardo DiCaprio para discutir convervação ambiental",
-      "link": "https://www.estadao.com.br/politica/lula-e-janja-recebem-o-ator-e-ativista-leonardo-dicaprio-no-planalto-nesta-quarta-feira-nprp/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 15:35:30 +0000"
-    },
-    {
-      "id": "514584938012",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Master: Oposição pede a Lula exoneração imediata de Paulo Gonet",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/master-oposicao-envia-oficio-a-lula-pedindo-exoneracao-de-paulo-gonet/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 16:10:37 +0000"
-    },
-    {
-      "id": "e980c44f6838",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em vitória de Lula, comissão do Senado aprova fim da escala 6 X 1",
-      "link": "https://www.poder360.com.br/poder-congresso/em-vitoria-de-lula-comissao-do-senado-aprova-fim-da-escala-6-x-1/",
-      "summary": "Expectativa é que proposta vá a plenário ainda nesta 4ª feira (2.set); se aprovada, entra em vigor 60 dias após a promulgação",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 18:24:16 +0000"
+      "score": 81,
+      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
     },
     {
       "id": "eec2e9107479",
@@ -732,14 +622,103 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+    },
+    {
+      "id": "6da6cff74a17",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Buscas no Google por impeachment de Moraes batem recorde",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/buscas-no-google-por-impeachment-de-moraes-batem-recorde/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 19:45:13 +0000"
+    },
+    {
+      "id": "67d81a95fe21",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Líder do PL diz que cobrará Alcolumbre diariamente a abertura de processo de impeachment de Moraes",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lider-do-pl-diz-que-cobrara-alcolumbre-diariamente-para-abrir-processo-de-impeachment-de-moraes/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 18:22:46 +0000"
+    },
+    {
+      "id": "ca2d0724f325",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alemanha registra segundo ato de sabotagem em semana de eleições decisivas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/alemanha-registra-segundo-ato-de-sabotagem-em-semana-de-eleicoes-decisivas.shtml",
+      "summary": "Uma segunda instalação de energia foi alvo de \"vandalismo premeditado\", na descrição da polícia, em uma semana de eleições decisivas na Alemanha. Cinco unidades de uma termelétrica tiveram que ser desligadas na noite de terça-feira (1°) em Bergheim, na Renânia do Norte-Vestfália, devido a interferências não detalhadas pelas autoridades.\nLeia mais (09/02/2026 - 15h56)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 78,
+      "publishedRaw": "02 Sep 2026 15:56:00 -0300"
+    },
+    {
+      "id": "a5ad89cc68b8",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump elogia relação com Brasil, mas diz que América do Sul está virando ‘à direita’ em eleições",
+      "link": "https://www.estadao.com.br/internacional/trump-elogia-relacao-com-brasil-mas-diz-america-do-sul-esta-virando-a-direita-em-eleicoes/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Mundo"
+      ],
+      "score": 78,
+      "publishedRaw": "Wed, 02 Sep 2026 19:26:25 +0000"
+    },
+    {
+      "id": "0d62bbb87840",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump diz que Venezuela não está pronta para novas eleições; presidente interina concorda",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/trump-diz-que-venezuela-nao-esta-pronta-para-novas-eleicoes.ghtml",
+      "summary": "Casa Branca detalha plano para explorar petróleo na Venezuela\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (2) que a Venezuela ainda não está pronta para realizar eleições. Ele também elogiou o governo da presidente interina Delcy Rodríguez.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA Venezuela está sob um governo interino desde a captura do ex-ditador Nicolás Maduro. Ele foi preso durante uma operação dos EUA no país, em 3 de janeiro.\nApós a queda de Maduro, Delcy, que era vice-presidente, assumiu o controle do país. Desde então, ela tem atendido a pedidos dos Estados Unidos e ampliado o diálogo com Trump.\nEnquanto isso, governo e oposição negociam uma transição pacífica de poder, com mediação dos Estados Unidos. Para Trump, no entanto, o país ainda não está pronto para realizar uma nova eleição.\n\"Simplesmente não me parece que eles estejam prontos ainda. Sabe, é algo muito recente. Nós os tiramos de uma ditadura e estamos nos dando muito bem com o governo\", disse.\nLogo depois, em uma declaração na Venezuela, Delcy disse que o país só terá eleições quando estiver \"pronto\". \nA presidente interina também agradeceu Trump pelo um acordo energético fechado entre os dois países na semana passada. Segundo Delcy, a medida trará \"bem-estar\" para a Venezuela.\nO acordo concede aos EUA o controle de 65 bilhões de barris das reservas de petróleo da Venezuela em 17 campos do país. Segundo Delcy, os negócios renderão US$ 209 bilhões (R$ 1,1 trilhão) em 25 anos.\nLEIA TAMBÉM\nO que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso\nTrump cita 'boa relação com o Brasil' e afirma ter feito 'muita gente ser eleita' na América do Sul: 'Estão todos indo para a direita'\nVÍDEO: homem é atingido por raio nos EUA, se levanta e sai andando: 'Sensação de formigamento'\nO presidente dos Estados Unidos, Donald Trump, e a presidente interina da Venezuela, Delcy Rodríguez\nREUTERS/Kevin Lamarque / Wendys Olivo/Palácio Miraflores/Divulgação via REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
       "id": "6387a1c804c9",
@@ -755,97 +734,40 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 80,
+      "score": 76,
       "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
     },
     {
-      "id": "751edee38e35",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Na TV, Tarcísio e Haddad disputam segurança pública com estratégias distintas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-na-tv-tarcisio-e-haddad-disputam-seguranca-publica-com-estrategias-distintas/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "segurança pública",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 17:37:00 +0000"
-    },
-    {
-      "id": "ca2d0724f325",
+      "id": "797041e84ed0",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Alemanha registra segundo ato de sabotagem em semana de eleições decisivas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/alemanha-registra-segundo-ato-de-sabotagem-em-semana-de-eleicoes-decisivas.shtml",
-      "summary": "Uma segunda instalação de energia foi alvo de \"vandalismo premeditado\", na descrição da polícia, em uma semana de eleições decisivas na Alemanha. Cinco unidades de uma termelétrica tiveram que ser desligadas na noite de terça-feira (1°), na Renânia do Norte-Vestfália, devido a interferências não detalhadas pelas autoridades.\nLeia mais (09/02/2026 - 15h56)",
+      "title": "Brasil lança candidatura de Boni Soares à presidência de rede global anticorrupção",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/brasil-lanca-candidatura-de-boni-soares-a-presidencia-de-rede-global-anticorrupcao.shtml",
+      "summary": "O Brasil lançou a candidatura do advogado da União Boni de Moraes Soares à Presidência da Rede Operacional Global de Autoridades de Combate à Corrupção, a GlobE, ligada à Convenção das Nações Unidas contra a Corrupção.\nLeia mais (09/02/2026 - 17h03)",
       "tags": [
-        "eleições"
+        "candidatura"
       ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo"
-      ],
-      "score": 78,
-      "publishedRaw": "02 Sep 2026 15:56:00 -0300"
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "02 Sep 2026 17:03:00 -0300"
     },
     {
-      "id": "0d62bbb87840",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Trump diz que Venezuela não está pronta para novas eleições",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/trump-diz-que-venezuela-nao-esta-pronta-para-novas-eleicoes.ghtml",
-      "summary": "Casa Branca detalha plano para explorar petróleo na Venezuela\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (2) que a Venezuela ainda não está pronta para realizar eleições. Ele também elogiou o governo da presidente interina Delcy Rodríguez.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA Venezuela está sob um governo interino desde a captura do ex-ditador Nicolás Maduro. Ele foi preso durante uma operação dos EUA no país, em 3 de janeiro.\nApós a queda de Maduro, Delcy, que era vice-presidente, assumiu o controle do país. Desde então, ela tem atendido a pedidos dos Estados Unidos e ampliado o diálogo com Trump.\nEnquanto isso, governo e oposição negociam uma transição pacífica de poder, com mediação dos Estados Unidos. Para Trump, no entanto, o país ainda não está pronto para realizar uma nova eleição.\n\"Simplesmente não me parece que eles estejam prontos ainda. Sabe, é algo muito recente. Nós os tiramos de uma ditadura e estamos nos dando muito bem com o governo\", disse.\nAinda nesta quarta-feira, Delcy agradeceu Trump pelo um acordo energético fechado entre os dois países na semana passada. Segundo a presidente interina, a medida trará \"bem-estar\" para a Venezuela.\nO acordo concede aos EUA o controle de 65 bilhões de barris das reservas de petróleo da Venezuela em 17 campos do país. Segundo Delcy, os negócios renderão US$ 209 bilhões (R$ 1,1 trilhão) em 25 anos.\nLEIA TAMBÉM\nO que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso\nTrump cita 'boa relação com o Brasil' e afirma ter feito 'muita gente ser eleita' na América do Sul: 'Estão todos indo para a direita'\nVÍDEO: homem é atingido por raio nos EUA, se levanta e sai andando: 'Sensação de formigamento'\nO presidente dos Estados Unidos, Donald Trump, e a presidente interina da Venezuela, Delcy Rodríguez\nREUTERS/Kevin Lamarque / Wendys Olivo/Palácio Miraflores/Divulgação via REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
-    },
-    {
-      "id": "67d81a95fe21",
+      "id": "37dbdd07c310",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Líder do PL diz que cobrará Alcolumbre diariamente para abrir processo de impeachment de Moraes",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lider-do-pl-diz-que-cobrara-alcolumbre-diariamente-para-abrir-processo-de-impeachment-de-moraes/",
+      "title": "Comissão do Senado aprova texto-base da PEC da Segurança Pública sem repasse de bets para fundos",
+      "link": "https://www.estadao.com.br/politica/comissao-do-senado-aprova-texto-base-da-pec-da-seguranca-publica-sem-repasse-de-bets-para-fundos/",
       "summary": "",
       "tags": [
-        "impeachment"
+        "segurança pública"
       ],
       "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 02 Sep 2026 18:22:46 +0000"
-    },
-    {
-      "id": "3b9ad4ae2e5a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Esquerda deve eleger menos governadores no Nordeste que em 2022",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/esquerda-deve-eleger-menos-governadores-no-nordeste-que-em-2022/",
-      "summary": "Só o governador do Piauí, o petista Rafael Fonteles, é favorito no pleito de 2026; o PT está sob risco na região, considerada o reduto de Lula",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Wed, 02 Sep 2026 18:04:46 +0000"
+      "score": 57,
+      "publishedRaw": "Wed, 02 Sep 2026 19:45:16 +0000"
     },
     {
       "id": "e6fa9e1ab7cd",
