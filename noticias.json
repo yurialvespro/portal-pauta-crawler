@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:14:29.388027+00:00",
+  "generated_at": "2026-09-02T05:43:13.868015+00:00",
   "items": [
     {
       "id": "0eda2bf110b7",
@@ -68,28 +68,6 @@
       "publishedRaw": "Tue, 01 Sep 2026 23:44:18 -0000"
     },
     {
-      "id": "b1f4f37a9c16",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alcolumbre sobre STF ser alvo de 109 pedidos de impeachment: “não é normal”",
-      "link": "https://www.cnnbrasil.com.br/politica/alcolumbre-sobre-stf-ser-alvo-de-109-pedidos-de-impeachment-nao-e-normal/",
-      "summary": "Presidente do Senado se negou a comentar o relatório da PF que trouxe supostas conversas entre Moraes e Vorcaro",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 02 Sep 2026 01:58:49 +0000"
-    },
-    {
       "id": "715413cb27d5",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -128,6 +106,26 @@
       ],
       "score": 89,
       "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
+    },
+    {
+      "id": "a9fb6b32440d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes ou Mendonça: quem terá maioria no caso Master no STF? Entenda",
+      "link": "https://www.cnnbrasil.com.br/politica/moraes-ou-mendonca-quem-tera-maioria-no-caso-master-no-stf-entenda/",
+      "summary": "No Grande Debate Eleições, analista Caio Junqueira avalia, segundo o entorno dos ministro do Supremo, três votos contra a apuração, três favoráveis e quatro ainda indefinidos",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 02 Sep 2026 05:02:46 +0000"
     },
     {
       "id": "9320e149fc3b",
@@ -228,63 +226,6 @@
       ],
       "score": 84,
       "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
-    },
-    {
-      "id": "b0c8f3cc3136",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alcolumbre reclama de pedidos de impeachment e se nega a comentar sobre Moraes: ‘Eu não acho nada’",
-      "link": "https://www.estadao.com.br/politica/alcolumbre-reclama-de-pedidos-de-impeachment-e-se-nega-a-comentar-sobre-moraes-eu-nao-acho-nada/",
-      "summary": "",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
-    },
-    {
-      "id": "2d6480a868f9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Oposição apresenta pedidos de impeachment contra Moraes por conversas com Vorcaro",
-      "link": "https://www.estadao.com.br/politica/oposicao-apresenta-pedidos-de-impeachment-contra-moraes-por-conversas-com-vorcaro/",
-      "summary": "",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 01 Sep 2026 21:59:17 +0000"
-    },
-    {
-      "id": "84a3e612b3ba",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio critica Senado por omissão e pede impeachment de Moraes",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-senado-por-omissao-e-pede-impeachment-de-moraes/",
-      "summary": "Senador afirma que “não dá para fingir” que ministro não cometeu crime de responsabilidade e cobra ação dos congressistas",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 02:25:03 +0000"
     },
     {
       "id": "805351a5fbf6",
@@ -403,6 +344,24 @@
       "publishedRaw": "01 Sep 2026 23:00:00 -0300"
     },
     {
+      "id": "b0c8f3cc3136",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre reclama de pedidos de impeachment e se nega a comentar sobre Moraes: ‘Eu não acho nada’",
+      "link": "https://www.estadao.com.br/politica/alcolumbre-reclama-de-pedidos-de-impeachment-e-se-nega-a-comentar-sobre-moraes-eu-nao-acho-nada/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
+    },
+    {
       "id": "aa7cade6b663",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -420,6 +379,42 @@
       ],
       "score": 80,
       "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
+    },
+    {
+      "id": "2d6480a868f9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Oposição apresenta pedidos de impeachment contra Moraes por conversas com Vorcaro",
+      "link": "https://www.estadao.com.br/politica/oposicao-apresenta-pedidos-de-impeachment-contra-moraes-por-conversas-com-vorcaro/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 01 Sep 2026 21:59:17 +0000"
+    },
+    {
+      "id": "84a3e612b3ba",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio critica Senado por omissão e pede impeachment de Moraes",
+      "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-senado-por-omissao-e-pede-impeachment-de-moraes/",
+      "summary": "Senador afirma que “não dá para fingir” que ministro não cometeu crime de responsabilidade e cobra ação dos congressistas",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 02:25:03 +0000"
     },
     {
       "id": "67e51984fdea",
