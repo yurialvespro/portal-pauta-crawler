@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:16:08.201591+00:00",
+  "generated_at": "2026-09-02T20:42:35.962412+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -16,11 +16,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 16:23:31 -0000"
     },
     {
@@ -38,11 +39,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 14:11:41 -0000"
     },
     {
@@ -59,12 +61,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
     },
     {
@@ -83,6 +86,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -91,72 +95,26 @@
       "publishedRaw": "Wed, 02 Sep 2026 14:57:21 -0000"
     },
     {
-      "id": "de7a124a9209",
-      "source": "CNN Brasil",
+      "id": "ca0d570e2e62",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Senador diz que Alcolumbre dará resposta sobre impeachment no STF na quinta",
-      "link": "https://www.cnnbrasil.com.br/politica/senador-diz-que-alcolumbre-dara-resposta-sobre-impeachment-no-stf-na-quinta/",
-      "summary": "Carlos Viana (PSD-MG) apresentou na última terça-feira (1º) um pedido de Alexandre de Moraes, o PGR Paulo Gonet e o diretor-geral da PF, Andrei Rodrigues",
+      "title": "Crise no STF pode respingar em Lula num momento de alertas da pesquisa Quaest",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/02/crise-no-stf-pode-respingar-em-lula-num-momento-de-alertas-da-pesquisa-quaest.ghtml",
+      "summary": "A crise dentro do Supremo Tribunal Federal (STF) pode respingar na imagem do presidente Luiz Inácio Lula da Silva (PT) num momento em que a última pesquisa Quaest traz alertas para o candidato petista.\nOs números divulgados nesta quarta-feira (2) mostram que a distância entre Lula e o candidato do PL, Flávio Bolsonaro, no cenário de segundo turno caiu de oito para um ponto no espaço de dois meses: agora está em 42% para o petista e 41% para o filho do ex-presidente Bolsonaro.\nQuaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%\nAliados do presidente reconhecem que, pela proximidade entre Lula e o ministro Alexandre de Moraes, a campanha de Flávio Bolsonaro terá munição para associar a imagem dos dois.\nLEIA TAMBÉM: Quaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%\nPor isso, assessores presidenciais passaram a defender que o Supremo Tribunal Federal retire também o sigilo das investigações sobre o financiamento do filme \"Dark Horse\", depois que o ministro André Mendonça decidiu tornar público o relatório da Polícia Federal sobre as conversas entre Daniel Vorcaro e Alexandre de Moraes.\n\"As conversas entre Vorcaro e Moraes não atingem diretamente o presidente Lula, mas a proximidade dos dois é ruim neste momento e o eleitor médio tende a enxergar no governo um defensor de Alexandre de Moraes por causa da ação que investigou a trama golpista\", diz um interlocutor de Lula, que defende uma fala do presidente pedindo que tudo seja esclarecido e nada deixe de ser investigado.\nA avaliação da equipe de Lula é que, se for levantado o sigilo sobre as investigações do dinheiro que Vorcaro destinou para o filme sobre Bolsonaro, haverá material para se contrapor às revelações sobre Alexandre de Moraes e o banqueiro. \nNo fundo, é uma admissão de que a crise envolvendo o ministro mais criticado pelo bolsonarismo respinga, sim, na imagem do petista.\nLula durante evento no Palácio do Planalto.\nRicardo Stuckert/ Presidência da República\nDentro da Polícia Federal (PF), investigadores são contra a retirada do sigilo porque isso poderia prejudicar operações que estariam sendo planejadas. Eles entendem que isso pode acabar levando alvos de uma operação a destruírem provas. \nO blog apurou que as investigações estão avançadas.\nPor outro lado, a PF planeja encerrar em setembro o primeiro inquérito do Banco Master, o que investiga as fraudes bancárias na venda de carteiras de crédito fraudulentas para o BRB, o banco público de Brasília. \nA intenção da Polícia Federal era terminar esse primeiro inquérito em agosto, mas não foi possível por conta de alguns entraves das investigações.",
       "tags": [
         "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 02 Sep 2026 19:27:27 +0000"
-    },
-    {
-      "id": "4aa3559ba14d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula discute com líderes no Congresso proibição de apostas online e pode até recorrer ao STF",
-      "link": "https://www.estadao.com.br/economia/lula-discute-com-lideres-no-congresso-proibicao-de-apostas-online-e-pode-ate-recorrer-ao-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Congresso",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
         "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Wed, 02 Sep 2026 18:01:04 +0000"
-    },
-    {
-      "id": "02cc19de6a8c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Augusto Cury defende impeachment no STF em caso de infração grave",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/augusto-cury-defende-impeachment-no-stf-em-caso-de-infracao-grave/",
-      "summary": "Cury sugeriu mandato de 8 anos na Corte; \"Não adianta só reformas pontuais, precisamos fazer mudanças nos fundamentos”, disse",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 02 Sep 2026 19:48:59 +0000"
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 20:35:11 -0000"
     },
     {
       "id": "7458d964e685",
@@ -165,7 +123,7 @@
       "category": "Política",
       "title": "Após 'crise Master' no STF, campanha de Lula defende código de ética para Judiciário e MP",
       "link": "https://g1.globo.com/politica/noticia/2026/09/02/apos-crise-master-no-stf-campanha-de-lula-defende-codigo-de-etica-para-judiciario-e-mp.ghtml",
-      "summary": "O coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT), Edinho Silva, divulgou nesta quarta-feira (2) um vídeo nas redes sociais em que afirma que ninguém está acima da lei e que defende a adoção de um código de ética para o Judiciário e para o Ministério Público. \nA declaração foi feita em meio à crise provocada pelas revelações dos últimos dias sobre a relação do ex-banqueiro Daniel Vorcaro com o ministro Alexandre de Moraes e sobre o encontro que o dono do Master teve com André Mendonça em março de 2025. \nAté a última atualização desta reportagem, o presidente Lula não havia se pronunciado sobre o caso. Outros candidatos à Presidência da República já se manifestaram sobre o tema. \nNo vídeo, sem citar diretamente as recentes revelações, Edinho Silva afirmou que o sistema político e judicial do Brasil vive \"profunda crise\" e \"apodreceu\".\n\"A campanha do presidente Lula defende que é urgente mudar o sistema político e judicial no Brasil, que vive uma profunda crise. Que protege poderosos, perpetua privilégios e a corrupção\", disse.\nNo vídeo, em que também critica a falta de transparência de emendas parlamentares, Edinho Silva defende a adoção de um código de ética para o Judiciário e o Ministério Público, mas sem o caso Master, que também envolve o procurador-geral da República, Paulo Gonet.\n\"É preciso acabar com a farra das emendas parlamentares, adotar um código de ética para todo o Judiciário e Ministério Público, com o fim dos supersalários e a promiscuidade entre interesses públicos e privados\", afirma o coordenador da campanha de Lula. \n\"É preciso também a adoção imediata de total transparência e controle dos gastos públicos em todos os níveis. Ninguém está cima da lei. Seja um cidadão comum, um governante, um parlamentar ou até um integrante do poder Judiciário. O povo brasileiro não suporta mais viver nesse sistema de corrupção e privilégios\", completa Edinho.",
+      "summary": "O coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT), Edinho Silva, divulgou nesta quarta-feira (2) um vídeo nas redes sociais em que afirma que ninguém está acima da lei e que defende a adoção de um código de ética para o Judiciário e para o Ministério Público. \nA declaração foi feita em meio à crise provocada pelas revelações dos últimos dias sobre a relação do ex-banqueiro Daniel Vorcaro com o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), e sobre o encontro que o dono do Master teve com André Mendonça em março de 2025. \nAté a última atualização desta reportagem, o presidente Lula não havia se pronunciado sobre o caso. Outros candidatos à Presidência da República já se manifestaram sobre o tema. \nNo vídeo, sem citar diretamente as recentes revelações, Edinho Silva afirmou que o sistema político e judicial do Brasil vive \"profunda crise\" e \"apodreceu\".\n\"A campanha do presidente Lula defende que é urgente mudar o sistema político e judicial no Brasil, que vive uma profunda crise. Que protege poderosos, perpetua privilégios e a corrupção\", disse.\nNo vídeo, em que também critica a falta de transparência de emendas parlamentares, Edinho Silva defende a adoção de um código de ética para o Judiciário e o Ministério Público, mas sem o caso Master, que também envolve o procurador-geral da República, Paulo Gonet.\n\"É preciso acabar com a farra das emendas parlamentares, adotar um código de ética para todo o Judiciário e Ministério Público, com o fim dos supersalários e a promiscuidade entre interesses públicos e privados\", afirma o coordenador da campanha de Lula. \n\"É preciso também a adoção imediata de total transparência e controle dos gastos públicos em todos os níveis. Ninguém está cima da lei. Seja um cidadão comum, um governante, um parlamentar ou até um integrante do poder Judiciário. O povo brasileiro não suporta mais viver nesse sistema de corrupção e privilégios\", completa Edinho. \nGerson Camarotti comenta fala de Fachin em defesa da integridade do STF\nO presidente do STF, Edson Fachin, afirmou nesta quarta-feira que anunciará nos próximos dias medidas sobre fatos em análise pela Corte. \nFachin declarou que a situação exige a preservação da confiança pública. Os elementos atuais exigem análise cuidadosa da Presidência. O ministro afirmou que \"a elevada autoridade do cargo não confere privilégios, mas impõe deveres, limites e responsabilidades\".\nBase de Lula fala em suspeição de Mendonça\nDeputados governistas enviaram nesta quarta uma petição ao presidente do STF, Luiz Edson Fachin, para que o ministro determine a quebra de sigilo das investigações sobre o caso \"Dark Horse\", a cinebiografia de Jair Bolsonaro que recebeu recursos de Daniel Vorcaro. \nPara eles, é necessário transparência nas apurações relacionadas ao Banco Master pelo relator, ministro André Mendonça.\nOs parlamentares afirmam ainda que Mendonça deve ser declarado suspeito para continuar à frente do inquérito do Master. \n\"Comprometimento da imparcialidade objetiva de um Ministro é, por definição, matéria que transcende o feito em que se manifesta, e o Regimento reserva à Presidência o processamento das arguições de impedimento e suspeição”, diz o documento.\nEntre os pontos colocados pelos deputados, está o fato de André Mendonça ter se encontrado com Vorcaro no início de 2025. A reunião ocorreu antes de o ministro virar relator do caso Master na Corte, em fevereiro de 2026.\nQuebras de sigilo\nOs líderes do PT, Rede, Psol e PCdoB dizem que as quebras de sigilos tem sido definidas sem critérios básicos. \nAo mesmo tempo, questionam por que as investigações sobre o envolvimento de Daniel Vorcaro, ex-banqueiro preso e investigado por fraudes bilionárias, no envio de dinheiro para a biografia do ex-presidente Jair Bolsonaro (PL) continuam sob sigilo.\nO candidato do PL à Presidência, senador Flávio Bolsonaro, teria negociado R$ 134 milhões com Vorcaro para investir no filme. A Polícia Federal abriu investigação sobre o caso, no qual o relator é Mendonça.\n\"Decisões judiciais que tornam públicas investigações sobre um campo político e mantêm em reserva investigações sobre o outro, no curso da campanha, produzem efeitos concretos sobre a formação da vontade do eleitor, independentemente da intenção de quem as profere”, afirmam os deputados na petição.\nEdinho Silva, coordenador da campanha de Lula à reeleição\nEdvaldo de Souza/EPTV",
       "tags": [
         "STF",
         "Lula"
@@ -175,74 +133,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 19:43:15 -0000"
-    },
-    {
-      "id": "305d1bb05912",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
-      "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
-      "summary": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empregador rural pessoa física sobre a receita bruta da comercialização da produção rural. O plenário do STF se reúne hoje um dia após a revelação de mensagens enviadas por Daniel Vorcaro a número atribuído a Alexandre de Moraes.. Segundo a PF, o banqueiro ofereceu contratos milionários, experiências de luxo e viagem a Londres ao ministro do STF. Eles também teriam se encontrado 8 vezes.. A revelação arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte; leia no blog da Sadi.. Já o relator do caso Master no STF afirmou que  recebeu Vorcaro uma 'única vez' para tratar de ação sobre precatórios e apenas se limitou a ouvi-lo.. Já o presidente da Corte, Edson Fachin, diz que analisará fatos e promete anunciar medidas nos próximos dias.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 17:37:00 -0000"
-    },
-    {
-      "id": "cff8852cc398",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Mesmo após pedido de arquivamento da PGR, Mendonça deve insistir que \nplenário do STF analise mensagens entre Moraes e Vorcaro",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/09/01/mendonca-deve-insisitir-que-plenario-do-stf-analise-para-mensagens-entre-moraes-e-vorcaro.ghtml",
-      "summary": "Mesmo com o pedido da Procuradoria-Geral da República (PGR) para arquivamento, o relator do caso Master no Supremo Tribunal Federal (STF), ministro André Mendonça, vai insistir que o plenário da corte avalie as informações trazidas em relatório da Polícia Federal que citam o também ministro e vice-presidente da corte, Alexandre de Moraes, em conversas do banqueiro Daniel Vorcaro, do banco Master.\nA informação foi apurada pelo blog junto a fontes no STF. \nO pedido da PGR é assinado pelo procurador-geral, Paulo Gonet, que também é citado nas conversas.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nPGR diz que é nula apuração que apontou relação de Vorcaro e Moraes\nEm relação ao ministro Alexandre de Moraes, o relatório da PF indica troca de mensagens e encontros entre ele e Vorcaro desde 2024. Ha também novas informações sobre contratos do Master com o escritório da mulher de Moraes, Viviane Barci de Moraes.\nEm pedido ao presidente do STF, Édson Fachin, Mendonça havia solicitado que o caso fosse enviado ao plenário do STF, para decidir se os integrantes da corte autorizam ou não abertura de investigação.\nGonet diz que investigação é 'nula'\nA Procuradoria-Geral da República (PGR) manifestou nesta terça-feira (1) pela nulidade da investigação comandada por André Mendonça, do Supremo Tribunal Federal (STF), que apontou relação entre o ministro Alexandre de Moraes e Daniel Vorcaro.\nUma troca de mensagens entre Moraes e Vorcaro sinaliza que o ministro discutia com o ex-dono do Banco Master a possibilidade de a Polícia Federal (PF) deflagrar uma operação que teria o ex-banqueiro como alvo.\nOs diálogos estão em um relatório enviado pela PF ao STF, que teve o sigilo retirado pelo ministro André Mendonça. O material também foi enviado para manifestação da PGR, agora divulgada.\nAndré Mendonça\nRosinei Coutinho/STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Tue, 01 Sep 2026 23:11:09 -0000"
-    },
-    {
-      "id": "7b07f9e5412e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF faz 1ª sessão após revelações sobre Moraes e Vorcaro; assista",
-      "link": "https://www.estadao.com.br/politica/ao-vivo-stf-faz-1-sessao-apos-revelacoes-sobre-moraes-e-vorcaro/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
     },
     {
       "id": "af586202d7fa",
@@ -260,239 +154,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 18:59:00 +0000"
-    },
-    {
-      "id": "d8d52eeba6ee",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'",
-      "link": "https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Para Ivar Hartmann, doutor em Direito e professor associado do Insper, corporativismo da Corte tende a brecar avanço da apuração sobre ministro e escândalo do Master.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 16:37:26 GMT"
-    },
-    {
-      "id": "0db26d6fd1db",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "summary": "Decisão de Mendonça de retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Alexandre de Moraes expôs  uma rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
-    },
-    {
-      "id": "895360767a95",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
-      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "id": "841c84dc76c4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do TCU criticam STF e defendem Dantas na Corte",
-      "link": "https://www.poder360.com.br/poder-justica/ministros-do-tcu-criticam-stf-e-defendem-dantas-na-corte/",
-      "summary": "Decano Walton Alencar Rodrigues falou em \"crise institucional sem precedentes\" no Supremo; Benjamin Zymler diz que Corte está \"combalida\"",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 19:33:34 +0000"
-    },
-    {
-      "id": "59557afa1b14",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Sem nomear Lula, Trump diz ter boa relação com o Brasil e cita influência dos EUA em eleições na América Latina",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/sem-nomear-lula-trump-diz-ter-boa-relacao-com-o-brasil-e-cita-influencia-dos-eua-em-eleicoes-na-america-latina.shtml",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (2) que mantém uma \"boa relação\" com o Brasil, sem citar nominalmente o presidente Lula (PT), e disse ter ajudado a eleger líderes na América Latina ao comentar o avanço da direita na região.\nLeia mais (09/02/2026 - 16h14)",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "02 Sep 2026 16:14:00 -0300"
-    },
-    {
-      "id": "ed7202230a08",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
-      "summary": "A primeira-dama Janja e o ator Leonardo DiCaprio durante reunião no Palácio do Planalto\nReprodução/Instagram\nO presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nConforme a agenda de Janja, o ator estava acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\nDiCaprio foi alvo de ataques de Bolsonaro\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
-      "tags": [
-        "Palácio do Planalto",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
-    },
-    {
-      "id": "760e083232b1",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (2) o projeto que amplia o atendimento de urgências cardiovasculares no Sistema Único de Saúde (SUS). \nCom a medida, Unidades de Pronto Atendimento (UPAs) passam a contar com medicamentos trombolíticos em Unidades de Pronto Atendimento (UPAs).\nEsses medicamentos são usados para dissolver coágulos que bloqueiam a circulação do sangue. Em determinados casos, como no infarto, o tratamento pode ajudar a restabelecer o fluxo sanguíneo e reduzir os danos ao coração.\nO objetivo é reduzir as mortes provocadas por doenças cardiovasculares e ampliar o acesso ao tratamento, principalmente para pessoas que vivem longe de hospitais com estrutura especializada (leia mais abaixo).\nAgora no g1\nA rapidez no atendimento é fundamental porque, em emergências cardiovasculares, quanto maior o tempo entre o início dos sintomas e o tratamento, maior o risco de complicações, sequelas e morte.\nNesses casos, a possibilidade de administrar o trombolítico ainda na UPA pode antecipar o início do atendimento, sem que o paciente precise esperar a transferência para uma unidade hospitalar especializada.\nSegundo a proposta, as novas regras deverão ser implementadas em até 180 dias após a sanção. Esse período servirá para a adaptação do SUS e das unidades de atendimento aos novos protocolos.\nO texto havia sido aprovado pelo Senado Federal em agosto de 2026. Na ocasião, a Sociedade Brasileira de Cardiologia (SBC) enviou a Lula um pedido de urgência na sanção da medida.\nNa carta, a entidade destacou que as doenças cardiovasculares são a principal causa de morte no país e chamou atenção para a importância do atendimento rápido em casos de infarto.\nSegundo a SBC, parte da população, principalmente quem vive fora dos grandes centros urbanos, não consegue chegar a tempo a hospitais que oferecem hemodinâmica. \nPara esses pacientes, o uso de trombolíticos nas próprias UPAs pode permitir que o tratamento seja iniciado dentro do período considerado adequado para reduzir os danos provocados pela interrupção do fluxo de sangue para o coração.\nPresidente Lula, que concorre à reeleição pelo PT, cumpre agenda em Brasília\nJornal Nacional/ Reprodução",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 15:03:47 -0000"
-    },
-    {
-      "id": "3429725ba86f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml",
-      "summary": "Aliados do presidente dos Estados Unidos, Donald Trump, encomendaram uma pesquisa sobre a eleição presidencial brasileira com o objetivo de informar a Casa Branca e o Departamento de Estado sobre o cenário da disputa.\nLeia mais (09/02/2026 - 16h30)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "02 Sep 2026 16:30:00 -0300"
-    },
-    {
-      "id": "cba435052807",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula anuncia nesta quinta que governo zerou fila do INSS",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/lula-anuncia-nesta-quinta-que-governo-zerou-fila-do-inss.shtml",
-      "summary": "O presidente Lula anuncia nesta quinta-feira (3) que o governo zerou a fila do INSS. A cerimônia está programada para ocorrer às 15h no Palácio do Planalto.\nLeia mais (09/02/2026 - 15h41)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "02 Sep 2026 15:41:00 -0300"
-    },
-    {
-      "id": "4f77380aa7a4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Diante de tensão com Milei, governo Lula recebe comitiva argentina",
-      "link": "https://www.poder360.com.br/poder-governo/diante-de-tensao-com-milei-governo-lula-recebe-comitiva-argentina/",
-      "summary": "Em Brasília, encontro com deputados e senadores busca abrir canal de diálogo e preservar relações entre as duas nações",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 20:13:44 +0000"
-    },
-    {
-      "id": "756297163def",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gaspar diz que Lula agiu para blindar Lulinha na CPI do INSS",
-      "link": "https://www.poder360.com.br/poder-congresso/gaspar-diz-que-lula-agiu-para-blindar-lulinha-na-cpi-do-inss/",
-      "summary": "Candidato a vice afirma que governo liberou emendas e pressionou congressistas; relatório da comissão foi derrubado em março",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 20:09:29 +0000"
     },
     {
       "id": "6022c9f4b87d",
@@ -509,9 +175,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 83,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 14:01:13 -0000"
     },
     {
@@ -528,9 +195,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 19:44:54 +0000"
     },
     {
@@ -547,9 +215,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 18:01:10 +0000"
     },
     {
@@ -566,9 +235,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 16:35:35 +0000"
     },
     {
@@ -585,10 +255,273 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
+    },
+    {
+      "id": "fe1a7300c967",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nunes Marques manda Eduardo Bolsonaro remover posts sobre urnas",
+      "link": "https://www.poder360.com.br/poder-justica/nunes-marques-manda-eduardo-bolsonaro-remover-posts-sobre-urnas/",
+      "summary": "Presidente do TSE determinou a retirada de conteúdos que questionam segurança do sistema eletrônico de votação",
+      "tags": [
+        "Bolsonaro",
+        "urnas",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
+      "score": 87,
+      "publishedRaw": "Wed, 02 Sep 2026 20:40:01 +0000"
+    },
+    {
+      "id": "ed7202230a08",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula e Janja recebem o ator e ativista ambiental Leonardo DiCaprio no Palácio do Planalto",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/janja-recebe-ator-e-ambientalista-leonardo-dicaprio-no-planalto-nesta-quarta-diz-assessoria.ghtml",
+      "summary": "A primeira-dama Janja, o ator Leonardo DiCaprio e a ministra Margareth Menezes (Cultura) durante reunião no Palácio do Planalto\nReprodução/Instagram\nO presidente Luiz Inácio Lula da Silva (PT) e a primeira-dama, Janja da Silva, receberam nesta quarta-feira (2) o ator e ambientalista Leonardo DiCaprio no Palácio do Planalto.\nConforme a agenda de Janja, o ator estava acompanhado de representantes da Re:wild, uma organização ambiental global sem fins lucrativos, fundada em 2021 com a participação de DiCaprio, com foco na restauração ecológica.\n🔎A Re:wild, segundo a própria organização, também atua em parceria com comunidades indígenas, governos e cientistas para a recuperação de ecossistemas e proteção de espécies ameaçadas de extinção.\n\"Hoje, conversei com Leonardo DiCaprio sobre o papel fundamental das mulheres na preservação dos nossos territórios e sobre como a bioeconomia pode gerar trabalho, renda e desenvolvimento sem destruir a natureza\", afirmou Janja em uma rede social após o encontro com o ator.\nJanja presenteou DiCaprio com uma foto feita por Ricardo Stuckert\nReprodução/Instagram\n\"Falamos da Amazônia, dos povos indígenas, do combate às mudanças climáticas e da importância de unir governo, comunidades e sociedade na construção de um futuro sustentável\", completou a primeira-dama.\nDiCaprio foi alvo de ataques de Bolsonaro\nEm 2019, uma declaração do então presidente Jair Bolsonaro sobre Leonardo DiCaprio repercutiu internacionalmente.\nNa ocasião, sem apresentar provas, Bolsonaro acusou o ator e a ONG WWF de financiarem queimadas criminosas no Brasil.\nRelembre quando Bolsonaro acusou, sem apresentar provas, Leonardo DiCaprio e ONG de financiarem queimadas criminosas no Brasil\n\"Quando eu falei que há suspeitas de ONGs, o que a imprensa fez comigo? Agora, o Leonardo DiCaprio é um cara legal, não é? Dando dinheiro para tacar fogo na Amazônia\", disse Bolsonaro a apoiadores no Palácio da Alvorada em novembro de 2019.\nBolsonaro deu a declaração no contexto da prisão de quatro brigadistas na região de Alter do Chão, no Pará, que foram presos pela Polícia Civil do estado por suspeita de atear fogo na floresta com a finalidade de obter doações (relembre no vídeo acima).\nAs prisões foram criticadas por entidades ambientalistas que apoiavam a atividade de brigadistas. \nNa oportunidade, o Ministério Público do Pará disse que não havia indícios do envolvimento de brigadistas e que investigava a ação de grileiros em Alter do Chão. O chefe da investigação da Polícia Civil foi afastado e a Justiça do Pará determinou a soltura dos brigadistas.\nÀ época, as declarações de Bolsonaro repercutiram negativamente fora do país. Os jornais americanos \"Washington Post\" e \"New York Times\" destacaram que o presidente do Brasil criticou DiCaprio após incêndios na Amazônia e afirmaram que Bolsonaro não ofereceu nenhuma prova. O britânico \"The Guardian\" diz que Bolsonaro acusou falsamente o ator de ter pago pelos incêndios.\nLeonardo DiCaprio, em imagem de janeiro de 2026\nFrederic J. Brown / AFP",
+      "tags": [
+        "Palácio do Planalto",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 02 Sep 2026 13:59:24 -0000"
+    },
+    {
+      "id": "760e083232b1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sanciona projeto que estende para UPAS atendimento a urgências cardiovasculares",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/02/lula-sanciona-projeto-que-estende-para-as-upas-o-atendimento-a-urgencias-cardiovasculares.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (2) o projeto que amplia o atendimento de urgências cardiovasculares no Sistema Único de Saúde (SUS). \nCom a medida, Unidades de Pronto Atendimento (UPAs) passam a contar com medicamentos trombolíticos em Unidades de Pronto Atendimento (UPAs).\nEsses medicamentos são usados para dissolver coágulos que bloqueiam a circulação do sangue. Em determinados casos, como no infarto, o tratamento pode ajudar a restabelecer o fluxo sanguíneo e reduzir os danos ao coração.\nO objetivo é reduzir as mortes provocadas por doenças cardiovasculares e ampliar o acesso ao tratamento, principalmente para pessoas que vivem longe de hospitais com estrutura especializada (leia mais abaixo).\nAgora no g1\nA rapidez no atendimento é fundamental porque, em emergências cardiovasculares, quanto maior o tempo entre o início dos sintomas e o tratamento, maior o risco de complicações, sequelas e morte.\nNesses casos, a possibilidade de administrar o trombolítico ainda na UPA pode antecipar o início do atendimento, sem que o paciente precise esperar a transferência para uma unidade hospitalar especializada.\nSegundo a proposta, as novas regras deverão ser implementadas em até 180 dias após a sanção. Esse período servirá para a adaptação do SUS e das unidades de atendimento aos novos protocolos.\nO texto havia sido aprovado pelo Senado Federal em agosto de 2026. Na ocasião, a Sociedade Brasileira de Cardiologia (SBC) enviou a Lula um pedido de urgência na sanção da medida.\nNa carta, a entidade destacou que as doenças cardiovasculares são a principal causa de morte no país e chamou atenção para a importância do atendimento rápido em casos de infarto.\nSegundo a SBC, parte da população, principalmente quem vive fora dos grandes centros urbanos, não consegue chegar a tempo a hospitais que oferecem hemodinâmica. \nPara esses pacientes, o uso de trombolíticos nas próprias UPAs pode permitir que o tratamento seja iniciado dentro do período considerado adequado para reduzir os danos provocados pela interrupção do fluxo de sangue para o coração.\nPresidente Lula, que concorre à reeleição pelo PT, cumpre agenda em Brasília\nJornal Nacional/ Reprodução",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 15:03:47 -0000"
+    },
+    {
+      "id": "3429725ba86f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliados de Trump encomendam pesquisa e veem empate técnico entre Lula e Flávio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-trump-encomendam-pesquisa-e-veem-empate-tecnico-entre-lula-e-flavio.shtml",
+      "summary": "Aliados do presidente dos Estados Unidos, Donald Trump, encomendaram uma pesquisa sobre a eleição presidencial brasileira com o objetivo de informar a Casa Branca e o Departamento de Estado sobre o cenário da disputa.\nLeia mais (09/02/2026 - 16h30)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "02 Sep 2026 16:30:00 -0300"
+    },
+    {
+      "id": "aff1d1cb5a3c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula recebeu Gilmar no Planalto em meio à crise envolvendo Moraes e Vorcaro",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-recebeu-gilmar-no-planalto-em-meio-a-crise-envolvendo-moraes-e-vorcaro/",
+      "summary": "Encontro fora da agenda ocorreu na terça-feira (1º), quando presidente procurou ministros para ouvir relatos sobre a crise no Supremo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 20:15:49 +0000"
+    },
+    {
+      "id": "54f195008052",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes e Lula formam dupla e se completam, diz Alfredo Gaspar",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/moraes-e-lula-formam-dupla-e-se-completam-diz-alfredo-gaspar/",
+      "summary": "Candidato a vice na chapa de Flávio Bolsonaro diz que ministro e presidente atuam juntos para perseguir adversários",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 20:20:31 +0000"
+    },
+    {
+      "id": "4f77380aa7a4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Diante de tensão com Milei, governo Lula recebe comitiva argentina",
+      "link": "https://www.poder360.com.br/poder-governo/diante-de-tensao-com-milei-governo-lula-recebe-comitiva-argentina/",
+      "summary": "Em Brasília, encontro com deputados e senadores busca abrir canal de diálogo e preservar relações entre as duas nações",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 02 Sep 2026 20:13:44 +0000"
+    },
+    {
+      "id": "305d1bb05912",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
+      "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
+      "summary": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes Plenário do STF discute a proclamação da tese do julgamento que discute a constitucionalidade da contribuição previdenciária devida pelo empregador rural pessoa física sobre a receita bruta da comercialização da produção rural. O plenário do STF se reúne hoje um dia após a revelação de mensagens enviadas por Daniel Vorcaro a número atribuído a Alexandre de Moraes.. Segundo a PF, o banqueiro ofereceu contratos milionários, experiências de luxo e viagem a Londres ao ministro do STF. Eles também teriam se encontrado 8 vezes.. A revelação arrasta Supremo para o centro da crise e expõe impasse sobre resposta da Corte; leia no blog da Sadi.. Já o relator do caso Master no STF afirmou que  recebeu Vorcaro uma 'única vez' para tratar de ação sobre precatórios e apenas se limitou a ouvi-lo.. Já o presidente da Corte, Edson Fachin, diz que analisará fatos e promete anunciar medidas nos próximos dias.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 17:37:00 -0000"
+    },
+    {
+      "id": "0ff2a8eb219b",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF em ponto de não retorno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-em-ponto-de-nao-retorno.shtml",
+      "summary": "Os desdobramentos do caso Master fizeram o STF (Supremo Tribunal Federal) entrar na maior crise de sua história. Isso porque, na esteira das investigações sobre fraudes contábeis e financeiras bilionárias, tem sido revelada uma rede de influência que abrangeria deputados, senadores, servidores do Banco Central e membros da corte.\nLeia mais (09/02/2026 - 17h27)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "02 Sep 2026 17:27:00 -0300"
+    },
+    {
+      "id": "7b07f9e5412e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF faz 1ª sessão após revelações sobre Moraes e Vorcaro; assista",
+      "link": "https://www.estadao.com.br/politica/ao-vivo-stf-faz-1-sessao-apos-revelacoes-sobre-moraes-e-vorcaro/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
+    },
+    {
+      "id": "d8d52eeba6ee",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'",
+      "link": "https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Para Ivar Hartmann, doutor em Direito e professor associado do Insper, corporativismo da Corte tende a brecar avanço da apuração sobre ministro e escândalo do Master.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 16:37:26 GMT"
+    },
+    {
+      "id": "0db26d6fd1db",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Decisão de Mendonça de retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Alexandre de Moraes expôs  uma rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
+    },
+    {
+      "id": "895360767a95",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
+      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
       "id": "03ec8271634c",
@@ -602,12 +535,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
     },
     {
@@ -622,58 +556,43 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
-      "id": "6da6cff74a17",
-      "source": "Estadão",
+      "id": "6387a1c804c9",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Buscas no Google por impeachment de Moraes batem recorde",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/buscas-no-google-por-impeachment-de-moraes-batem-recorde/",
-      "summary": "",
+      "title": "Quaest: 44% acham que Flávio não é mais moderado que a família Bolsonaro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/flavio-moderacao-bolsonaro.ghtml",
+      "summary": "Pesquisa Quaest divulgada nesta quarta-feira (2) mostra a opinião dos eleitores sobre Flávio e a família Bolsonaro: 44% acreditam que o candidato do PL à Presidência da República não é mais moderado do que a família, contra 37% que pensam que Flávio Bolsonaro é mais moderado. Outros 19% não sabem ou não responderam.\nA diferença, no entanto, recuou de 25 para 7 pontos percentuais. No último levantamento, divulgado pela Quaest em julho, 54% diziam que Flávio não era mais moderado do que a família Bolsonaro, contra 29% que o consideravam mais moderado.\nO candidato à Presidência da República, Flávio Bolsonaro (PL), se reúne na manhã deste domingo (30), em um hotel de São Paulo, com o ministro da Justiça e Segurança Pública de El Salvador, Gustavo Villatoro.\nALOISIO MAURICIO/FOTOARENA/ESTADÃO CONTEÚDO\nVeja os dados completos:\nFlávio é mais moderado que a família Bolsonaro?\nSim: 37%\nNão: 44%\nNão sabe/não respondeu: 19%\nFlávio Bolsonaro é mais moderado que a família Bolsonaro?\nArte/g1\nLula é mais moderado do que o PT\nPresidente da República, Luiz Inácio Lula da Silva, durante Entrevista a Meteoro Brasil e Os Três Elementos, no Palácio da Alvorada. Brasília - DF.Foto: Ricardo Stuckert\nRicardo Stuckert\nA pesquisa também mediu a percepção dos brasileiros sobre o presidente Luiz Inácio Lula da Silva e o Partido dos Trabalhadores (PT): 42% acreditam que Lula é mais moderado que o PT. \nDesde abril, é a primeira vez que, numericamente, Lula é visto como mais moderado do que o partido que fundou em 1980. Para outros 39%, Lula não é mais moderado do que o PT. Os que não sabem ou não responderam à pergunta são 19%, maior proporção desde abril. \nEm junho, Lula disse que 'nunca foi esquerdista' em conversa com o chanceler alemão e a diretora do FMI durante o encontro do G7.\nQuaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%\n Veja os dados completos:\nLula é mais moderado que o PT?\nSim: 42%\nNão: 39%\nNão sabe/não respondeu: 19%\nLula é mais moderado que o PT?\nArte/g1\nA pesquisa foi contratada pela Globo em parceria com o jornal O Globo. A Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 30 de agosto e 1º de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-07065/2026.\nVeja outros destaques da pesquisa Quaest:\n1º turno: Lula, 37%; Flávio Bolsonaro\n2º turno: Lula, 42%; Flávio Bolsonaro, 41%\n48% desaprovam e 45% aprovam governo Lula\nFlávio tem rejeição de 55%, e Lula, de 53%\nQuaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda",
       "tags": [
-        "impeachment"
+        "Bolsonaro",
+        "família"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
+        "Estadão",
         "Poder360"
       ],
       "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 19:45:13 +0000"
+      "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
     },
     {
-      "id": "67d81a95fe21",
-      "source": "Estadão",
+      "id": "56f431d5d2de",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Líder do PL diz que cobrará Alcolumbre diariamente a abertura de processo de impeachment de Moraes",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lider-do-pl-diz-que-cobrara-alcolumbre-diariamente-para-abrir-processo-de-impeachment-de-moraes/",
-      "summary": "",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 18:22:46 +0000"
-    },
-    {
-      "id": "ca2d0724f325",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alemanha registra segundo ato de sabotagem em semana de eleições decisivas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/alemanha-registra-segundo-ato-de-sabotagem-em-semana-de-eleicoes-decisivas.shtml",
-      "summary": "Uma segunda instalação de energia foi alvo de \"vandalismo premeditado\", na descrição da polícia, em uma semana de eleições decisivas na Alemanha. Cinco unidades de uma termelétrica tiveram que ser desligadas na noite de terça-feira (1°) em Bergheim, na Renânia do Norte-Vestfália, devido a interferências não detalhadas pelas autoridades.\nLeia mais (09/02/2026 - 15h56)",
+      "title": "“Não estão prontos”, diz Trump sobre eleições na Venezuela após Maduro",
+      "link": "https://www.cnnbrasil.com.br/internacional/nao-estao-prontos-diz-trump-sobre-eleicoes-na-venezuela-apos-maduro/",
+      "summary": "Presidente americano afirmou que país da América Latina ainda estava se recuperando da \"ditadura violenta\" do líder chavista",
       "tags": [
         "eleições"
       ],
@@ -682,7 +601,7 @@
         "G1 - Mundo"
       ],
       "score": 78,
-      "publishedRaw": "02 Sep 2026 15:56:00 -0300"
+      "publishedRaw": "Wed, 02 Sep 2026 20:23:39 +0000"
     },
     {
       "id": "a5ad89cc68b8",
@@ -696,7 +615,7 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Mundo"
       ],
       "score": 78,
@@ -714,30 +633,41 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 77,
       "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
-      "id": "6387a1c804c9",
-      "source": "G1 - Política",
+      "id": "6da6cff74a17",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Quaest: 44% acham que Flávio não é mais moderado que a família Bolsonaro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/02/flavio-moderacao-bolsonaro.ghtml",
-      "summary": "Pesquisa Quaest divulgada nesta quarta-feira (2) mostra a opinião dos eleitores sobre Flávio e a família Bolsonaro: 44% acreditam que o candidato do PL à Presidência da República não é mais moderado do que a família, contra 37% que pensam que Flávio Bolsonaro é mais moderado. Outros 19% não sabem ou não responderam.\nA diferença, no entanto, recuou de 25 para 7 pontos percentuais. No último levantamento, divulgado pela Quaest em julho, 54% diziam que Flávio não era mais moderado do que a família Bolsonaro, contra 29% que o consideravam mais moderado.\nO candidato à Presidência da República, Flávio Bolsonaro (PL), se reúne na manhã deste domingo (30), em um hotel de São Paulo, com o ministro da Justiça e Segurança Pública de El Salvador, Gustavo Villatoro.\nALOISIO MAURICIO/FOTOARENA/ESTADÃO CONTEÚDO\nVeja os dados completos:\nFlávio é mais moderado que a família Bolsonaro?\nSim: 37%\nNão: 44%\nNão sabe/não respondeu: 19%\nFlávio Bolsonaro é mais moderado que a família Bolsonaro?\nArte/g1\nLula é mais moderado do que o PT\nPresidente da República, Luiz Inácio Lula da Silva, durante Entrevista a Meteoro Brasil e Os Três Elementos, no Palácio da Alvorada. Brasília - DF.Foto: Ricardo Stuckert\nRicardo Stuckert\nA pesquisa também mediu a percepção dos brasileiros sobre o presidente Luiz Inácio Lula da Silva e o Partido dos Trabalhadores (PT): 42% acreditam que Lula é mais moderado que o PT. \nDesde abril, é a primeira vez que, numericamente, Lula é visto como mais moderado do que o partido que fundou em 1980. Para outros 39%, Lula não é mais moderado do que o PT. Os que não sabem ou não responderam à pergunta são 19%, maior proporção desde abril. \nEm junho, Lula disse que 'nunca foi esquerdista' em conversa com o chanceler alemão e a diretora do FMI durante o encontro do G7.\nQuaest, 2º turno: Lula, 42%; Flávio Bolsonaro, 41%\n Veja os dados completos:\nLula é mais moderado que o PT?\nSim: 42%\nNão: 39%\nNão sabe/não respondeu: 19%\nLula é mais moderado que o PT?\nArte/g1\nA pesquisa foi contratada pela Globo em parceria com o jornal O Globo. A Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 30 de agosto e 1º de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-07065/2026.\nVeja outros destaques da pesquisa Quaest:\n1º turno: Lula, 37%; Flávio Bolsonaro\n2º turno: Lula, 42%; Flávio Bolsonaro, 41%\n48% desaprovam e 45% aprovam governo Lula\nFlávio tem rejeição de 55%, e Lula, de 53%\nQuaest: 60% não veem Flávio Bolsonaro como melhor candidato da direita; 46% não consideram Lula melhor nome da esquerda",
+      "title": "Buscas no Google por impeachment de Moraes batem recorde",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/buscas-no-google-por-impeachment-de-moraes-batem-recorde/",
+      "summary": "",
       "tags": [
-        "Bolsonaro",
-        "família"
+        "impeachment"
       ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Wed, 02 Sep 2026 19:45:13 +0000"
+    },
+    {
+      "id": "67d81a95fe21",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Líder do PL diz que cobrará Alcolumbre diariamente a abertura de processo de impeachment de Moraes",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lider-do-pl-diz-que-cobrara-alcolumbre-diariamente-para-abrir-processo-de-impeachment-de-moraes/",
+      "summary": "",
+      "tags": [
+        "impeachment"
       ],
-      "score": 76,
-      "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Wed, 02 Sep 2026 18:22:46 +0000"
     },
     {
       "id": "797041e84ed0",
@@ -753,6 +683,36 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "02 Sep 2026 17:03:00 -0300"
+    },
+    {
+      "id": "749bd9f28168",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Família aponta negligência médica em morte de professora de 26 anos no Rio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/familia-aponta-negligencia-medica-em-morte-de-professora-de-26-anos-no-rio.shtml",
+      "summary": "Giulia Silva de Araújo, 26, professora de história, morreu horas depois de ser atendida e liberada duas vezes, no dia 28 de agosto, no HMFST (Hospital Municipal Francisco da Silva Telles), em Irajá, na zona norte do Rio de Janeiro. A família dela acusa a unidade de negligência.\nLeia mais (09/02/2026 - 17h19)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "02 Sep 2026 17:19:00 -0300"
+    },
+    {
+      "id": "384dc7b1ca95",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "MPF afirma que PEC da Segurança Pública ameaça direitos e fere garantias",
+      "link": "https://www.cnnbrasil.com.br/politica/mpf-afirma-que-pec-da-seguranca-publica-ameaca-direitos-e-fere-garantias/",
+      "summary": "Procuradores apontam em nota técnica que a proposta prioriza medidas punitivas e pode ferir garantias individuais e a presunção de inocência",
+      "tags": [
+        "segurança pública"
+      ],
+      "crossOutlets": [],
+      "score": 57,
+      "publishedRaw": "Wed, 02 Sep 2026 20:22:44 +0000"
     },
     {
       "id": "37dbdd07c310",
