@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T05:43:13.868015+00:00",
+  "generated_at": "2026-09-02T06:25:34.669707+00:00",
   "items": [
     {
       "id": "0eda2bf110b7",
@@ -66,6 +66,28 @@
       ],
       "score": 92,
       "publishedRaw": "Tue, 01 Sep 2026 23:44:18 -0000"
+    },
+    {
+      "id": "81d3a93289ef",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE rejeita multa a Flávio por vídeo de Jair Bolsonaro feito com IA",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-rejeita-multa-a-flavio-por-video-de-jair-bolsonaro-feito-com-ia/",
+      "summary": "Maioria dos ministros entendeu que não houve violação de regra eleitoral, pois material foi exibido em evento partidário fechado",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 02 Sep 2026 06:00:16 +0000"
     },
     {
       "id": "715413cb27d5",
@@ -268,23 +290,44 @@
       "publishedRaw": "Tue, 01 Sep 2026 12:40:08 GMT"
     },
     {
-      "id": "ab629fbc2eab",
-      "source": "Poder360",
+      "id": "a40b771fa3ff",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TRE-SP proíbe propaganda de deputado do PL com imagem de Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tre-sp-proibe-propaganda-de-deputado-do-pl-com-imagem-de-bolsonaro/",
-      "summary": "Deputado estadual e candidato à reeleição, Lucas Bove usou foto ao lado do ex-presidente em banners em Ribeirão Preto (SP)",
+      "title": "Ao menos 1.481 candidatos alteraram lista de redes sociais informada ao TSE para campanha",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ao-menos-1481-candidatos-alteraram-lista-de-redes-sociais-informada-ao-tse-para-campanha.shtml",
+      "summary": "Ao menos 1.481 candidatos que concorrem às eleições de 2026 fizeram alterações na lista inicial de perfis de redes sociais informada ao TSE (Tribunal Superior Eleitoral) desde o início da campanha. Outros 2.719 não registraram nenhum endereço na internet.\nLeia mais (09/01/2026 - 23h00)",
       "tags": [
-        "Bolsonaro"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 83,
-      "publishedRaw": "Wed, 02 Sep 2026 01:29:21 +0000"
+      "score": 82,
+      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "ec3b0b7674f9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Grassi promete correr 42 km em volta do TSE todos os dias em protesto à decisão de Toffoli",
+      "link": "https://www.estadao.com.br/politica/eleicoes/grassi-promete-correr-42-km-em-volta-do-tse-todos-os-dias-em-protesto-a-decisao-de-toffoli/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
     },
     {
       "id": "b5ea069bff7e",
@@ -399,6 +442,28 @@
       "publishedRaw": "Tue, 01 Sep 2026 21:59:17 +0000"
     },
     {
+      "id": "1b4794f548f9",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
+      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
+      "tags": [
+        "Renan Santos",
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
+    },
+    {
       "id": "84a3e612b3ba",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -436,6 +501,27 @@
       "publishedRaw": "Wed, 02 Sep 2026 02:20:02 +0000"
     },
     {
+      "id": "1a2153b649a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
+      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
+      "tags": [
+        "Renan Santos",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 78,
+      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
+    },
+    {
       "id": "4e5fb07c1a92",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -452,85 +538,6 @@
       ],
       "score": 77,
       "publishedRaw": "Tue, 01 Sep 2026 23:51:19 -0000"
-    },
-    {
-      "id": "a40b771fa3ff",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao menos 1.481 candidatos alteraram lista de redes sociais informada ao TSE para campanha",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ao-menos-1481-candidatos-alteraram-lista-de-redes-sociais-informada-ao-tse-para-campanha.shtml",
-      "summary": "Ao menos 1.481 candidatos que concorrem às eleições de 2026 fizeram alterações na lista inicial de perfis de redes sociais informada ao TSE (Tribunal Superior Eleitoral) desde o início da campanha. Outros 2.719 não registraram nenhum endereço na internet.\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "ec3b0b7674f9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Grassi promete correr 42 km em volta do TSE todos os dias em protesto à decisão de Toffoli",
-      "link": "https://www.estadao.com.br/politica/eleicoes/grassi-promete-correr-42-km-em-volta-do-tse-todos-os-dias-em-protesto-a-decisao-de-toffoli/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
-    },
-    {
-      "id": "1b4794f548f9",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
-      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
-      "tags": [
-        "Renan Santos",
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
-    },
-    {
-      "id": "1a2153b649a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
-      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
-      "tags": [
-        "Renan Santos",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 74,
-      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
     },
     {
       "id": "f1c96ec69573",
