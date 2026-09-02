@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:43:38.445117+00:00",
+  "generated_at": "2026-09-02T09:16:43.231809+00:00",
   "items": [
     {
       "id": "0eda2bf110b7",
@@ -40,8 +40,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 00:25:03 -0000"
@@ -61,8 +60,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 92,
@@ -84,8 +83,7 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 07:14:24 +0000"
@@ -105,12 +103,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 06:00:16 +0000"
+    },
+    {
+      "id": "021388c9f4e9",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
+      "link": "https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Críticos dizem que proposta seria 'PEC da Escravidão', enquanto defensores exaltam liberdade para trabalhador definir sua jornada.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
       "id": "715413cb27d5",
@@ -273,163 +292,24 @@
       "publishedRaw": "Tue, 01 Sep 2026 23:25:06 GMT"
     },
     {
-      "id": "81a932e9a010",
-      "source": "Estadão",
+      "id": "b717155a39bd",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE define critérios para deepfake em campanha, mas não vê ilícito em IA de Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-define-criterios-para-deepfake-em-campanha-mas-nao-ve-ilicito-em-ia-de-bolsonaro/",
-      "summary": "",
+      "title": "Suplente de Pacheco no Senado apoiou Bolsonaro em 2018",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/suplente-de-pacheco-no-senado-apoiou-bolsonaro-em-2018.shtml",
+      "summary": "Renzo Braz (PP-MG), suplente do senador Rodrigo Pacheco (PSB), declarou apoio ao ex-presidente Jair Bolsonaro em 2018 e poderá tirar do governo Lula um voto até o final da atual legislatura.\nLeia mais (09/02/2026 - 06h00)",
       "tags": [
-        "Bolsonaro",
-        "TSE"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Estadão",
         "G1 - Política",
         "Poder360"
       ],
       "score": 88,
-      "publishedRaw": "Wed, 02 Sep 2026 00:56:56 +0000"
-    },
-    {
-      "id": "021388c9f4e9",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
-      "link": "https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Críticos dizem que proposta seria 'PEC da Escravidão', enquanto defensores exaltam liberdade para trabalhador definir sua jornada.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
-    },
-    {
-      "id": "b5ea069bff7e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml",
-      "summary": "Aliados do presidente Lula (PT) afirmam enxergar, com a revelação dos diálogos entre o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, uma oportunidade para cobrar de André Mendonça o fim do sigilo das investigações sobre a relação do dono do Banco Master com Flávio Bolsonaro (PL-RJ) no caso \"Dark Horse\".\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "12f9dedb783f",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entorno de Lula reconhece dificuldade de o presidente se descolar de Moraes",
-      "link": "https://www.cnnbrasil.com.br/politica/entorno-de-lula-reconhece-dificuldade-de-o-presidente-se-descolar-de-moraes/",
-      "summary": "Oposição deve explorar proximidade entre Lula e Alexandre de Moraes após revelações do relatório da PF",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 08:05:50 +0000"
-    },
-    {
-      "id": "b0c8f3cc3136",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alcolumbre reclama de pedidos de impeachment e se nega a comentar sobre Moraes: ‘Eu não acho nada’",
-      "link": "https://www.estadao.com.br/politica/alcolumbre-reclama-de-pedidos-de-impeachment-e-se-nega-a-comentar-sobre-moraes-eu-nao-acho-nada/",
-      "summary": "",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
-    },
-    {
-      "id": "aa7cade6b663",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tenta se descolar de Moraes após escândalo envolvendo Vorcaro e vai defender investigações",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-tenta-se-descolar-de-moraes-apos-escandalo-envolvendo-vorcaro-e-vai-defender-investigacoes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
-    },
-    {
-      "id": "72f3dca2cf21",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relatório da PF que cita Moraes não é conclusivo e há mais celulares a investigar",
-      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-que-cita-moraes-nao-e-conclusivo-e-ha-mais-celulares-a-investigar/",
-      "summary": "Documento analisou 1 celular de Vorcaro em 72 horas; outros aparelhos do banqueiro ainda devem passar por perícia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 07:09:40 +0000"
-    },
-    {
-      "id": "84a3e612b3ba",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio critica Senado por omissão e pede impeachment de Moraes",
-      "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-senado-por-omissao-e-pede-impeachment-de-moraes/",
-      "summary": "Senador afirma que “não dá para fingir” que ministro não cometeu crime de responsabilidade e cobra ação dos congressistas",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 02:25:03 +0000"
+      "publishedRaw": "02 Sep 2026 06:00:00 -0300"
     },
     {
       "id": "805351a5fbf6",
@@ -444,11 +324,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 83,
+      "score": 88,
       "publishedRaw": "Tue, 01 Sep 2026 23:51:09 +0000"
+    },
+    {
+      "id": "81a932e9a010",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE define critérios para deepfake em campanha, mas não vê ilícito em IA de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-define-criterios-para-deepfake-em-campanha-mas-nao-ve-ilicito-em-ia-de-bolsonaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 02 Sep 2026 00:56:56 +0000"
     },
     {
       "id": "84dfe13f4d4c",
@@ -465,7 +367,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -473,87 +374,117 @@
       "publishedRaw": "Tue, 01 Sep 2026 12:40:08 GMT"
     },
     {
-      "id": "409e0d802cbe",
+      "id": "12f9dedb783f",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE decide que só IA com elevado nível de realidade é irregular; entenda",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-decide-que-so-ia-com-elevado-nivel-de-realidade-e-irregular-entenda/",
-      "summary": "Corte decidiu que nem todo conteúdo feito com inteligência artificial configura deepfake e que a proibição só vale quando a peça é propaganda eleitoral",
+      "title": "Entorno de Lula reconhece dificuldade de o presidente se descolar de Moraes",
+      "link": "https://www.cnnbrasil.com.br/politica/entorno-de-lula-reconhece-dificuldade-de-o-presidente-se-descolar-de-moraes/",
+      "summary": "Oposição deve explorar proximidade entre Lula e Alexandre de Moraes após revelações do relatório da PF",
       "tags": [
-        "TSE"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 02 Sep 2026 07:03:53 +0000"
-    },
-    {
-      "id": "ec3b0b7674f9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Grassi promete correr 42 km em volta do TSE todos os dias em protesto à decisão de Toffoli",
-      "link": "https://www.estadao.com.br/politica/eleicoes/grassi-promete-correr-42-km-em-volta-do-tse-todos-os-dias-em-protesto-a-decisao-de-toffoli/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
-    },
-    {
-      "id": "1b4794f548f9",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
-      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
-      "tags": [
-        "Renan Santos",
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
         "Poder360"
       ],
       "score": 80,
-      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
+      "publishedRaw": "Wed, 02 Sep 2026 08:05:50 +0000"
     },
     {
-      "id": "1a2153b649a2",
-      "source": "BBC Brasil",
+      "id": "866ee1c8991d",
+      "source": "Estadão",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
-      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
+      "category": "Política",
+      "title": "André Mendonça suspende propaganda de Lula com ‘Rap do Silva’ por não apresentar Alckmin como vice",
+      "link": "https://www.estadao.com.br/politica/eleicoes/andre-mendonca-suspende-propaganda-de-lula-com-rap-do-silva-por-nao-apresentar-alckmin-como-vice/",
+      "summary": "",
       "tags": [
-        "Renan Santos",
-        "TSE"
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 01 Sep 2026 22:35:54 +0000"
+    },
+    {
+      "id": "b0c8f3cc3136",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre reclama de pedidos de impeachment e se nega a comentar sobre Moraes: ‘Eu não acho nada’",
+      "link": "https://www.estadao.com.br/politica/alcolumbre-reclama-de-pedidos-de-impeachment-e-se-nega-a-comentar-sobre-moraes-eu-nao-acho-nada/",
+      "summary": "",
+      "tags": [
+        "impeachment"
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
+    },
+    {
+      "id": "aa7cade6b663",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta se descolar de Moraes após escândalo envolvendo Vorcaro e vai defender investigações",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-tenta-se-descolar-de-moraes-apos-escandalo-envolvendo-vorcaro-e-vai-defender-investigacoes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Poder360"
       ],
-      "score": 78,
-      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
+      "score": 80,
+      "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
+    },
+    {
+      "id": "5513c685793d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula foca em Brasília e Flávio em SP e RJ no começo da campanha",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-foca-em-brasilia-e-flavio-em-sp-e-rj-no-comeco-da-campanha/",
+      "summary": "Petista priorizou compromissos institucionais; candidato do PL apostou em carreatas e comícios",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 09:00:48 +0000"
+    },
+    {
+      "id": "72f3dca2cf21",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Relatório da PF que cita Moraes não é conclusivo e há mais celulares a investigar",
+      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-que-cita-moraes-nao-e-conclusivo-e-ha-mais-celulares-a-investigar/",
+      "summary": "Documento analisou 1 celular de Vorcaro em 72 horas; outros aparelhos do banqueiro ainda devem passar por perícia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 07:09:40 +0000"
     },
     {
       "id": "4e5fb07c1a92",
@@ -574,22 +505,64 @@
       "publishedRaw": "Tue, 01 Sep 2026 23:51:19 -0000"
     },
     {
-      "id": "a5f5c2fb1c42",
-      "source": "CNN Brasil",
+      "id": "ec3b0b7674f9",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Congresso discute escala 6×1, PEC da Segurança e taxa das blusinhas hoje",
-      "link": "https://www.cnnbrasil.com.br/politica/congresso-discute-escala-6x1-pec-da-seguranca-e-taxa-das-blusinhas-hoje/",
-      "summary": "Taxa das blusinhas deve ser votada nas duas Casas nesta quarta; expectativa do governo é conseguir aprovar o fim da 6x1 no plenário nesta quarta",
+      "title": "Grassi promete correr 42 km em volta do TSE todos os dias em protesto à decisão de Toffoli",
+      "link": "https://www.estadao.com.br/politica/eleicoes/grassi-promete-correr-42-km-em-volta-do-tse-todos-os-dias-em-protesto-a-decisao-de-toffoli/",
+      "summary": "",
       "tags": [
-        "Congresso"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Mundo"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 73,
-      "publishedRaw": "Wed, 02 Sep 2026 07:01:27 +0000"
+      "score": 77,
+      "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
+    },
+    {
+      "id": "1b4794f548f9",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Candidatura de Renan Santos: o que acontece após a suspensão da campanha pelo TSE",
+      "link": "https://www.bbc.com/portuguese/articles/c62m70j9ye3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro José Antonio Dias Toffoli suspendeu o uso do fundo partidário, a participação em debates e qualquer presença na internet, porque Renan não informou, ao registrar a candidatura, os perfis em redes sociais da campanha.",
+      "tags": [
+        "Renan Santos",
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 76,
+      "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
+    },
+    {
+      "id": "1a2153b649a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que o TSE recuou e liberou campanha de Renan Santos",
+      "link": "https://www.bbc.com/portuguese/articles/c93vkpnk5qxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Candidato do Missão pode agora voltar a fazer campanha nos perfis já registrados no tribunal e ter acesso ao repasse de recursos de campanha, além de participar de debates em rádios e na televisão",
+      "tags": [
+        "Renan Santos",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 74,
+      "publishedRaw": "Tue, 01 Sep 2026 21:51:10 GMT"
     },
     {
       "id": "f1c96ec69573",
@@ -620,10 +593,9 @@
         "Congresso"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
+        "BBC Brasil"
       ],
-      "score": 68,
+      "score": 63,
       "publishedRaw": "Tue, 01 Sep 2026 17:59:08 -0000"
     },
     {
@@ -670,6 +642,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Wed, 02 Sep 2026 03:00:43 -0000"
+    },
+    {
+      "id": "1db5956641c6",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Famílias poderão concluir inventário em cartório sem pagar imposto sobre herança, diz CNJ",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/familias-poderao-concluir-inventario-em-cartorio-sem-pagar-imposto-sobre-heranca-diz-cnj.shtml",
+      "summary": "Famílias que queiram dividir bens deixados como herança não precisarão mais pagar o ITCMD (Imposto sobre Transmissão Causa Mortis e Doação) para concluir o inventário em cartório e ter acesso à escritura pública.\nLeia mais (09/02/2026 - 06h00)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "02 Sep 2026 06:00:00 -0300"
     },
     {
       "id": "5d48d18886c2",
