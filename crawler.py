@@ -48,8 +48,7 @@ FEEDS = [
     {"source": "Folha de São Paulo", "tipo": "mainstream", "category": "Política", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"},
     {"source": "CNN Brasil", "tipo": "mainstream", "category": "Política", "url": "https://admin.cnnbrasil.com.br/feed/"},
     {"source": "O Globo", "tipo": "mainstream", "category": "Política", "url": None},
-    {"source": "Estadão", "tipo": "mainstream", "category": "Política", "url": "https://www.estadao.com.br/arc/outboundfeeds/rss/category/politica/"},
-    {"source": "BBC Brasil", "tipo": "mainstream", "category": "Internacional", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
+    {"source": "Estadão", "tipo": "mainstream", "category": "Política", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/"},    {"source": "BBC Brasil", "tipo": "mainstream", "category": "Internacional", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
     {"source": "Poder360", "tipo": "mainstream", "category": "Política", "url": "https://www.poder360.com.br/feed/"},
 ]
 
