@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:41:26.128409+00:00",
+  "generated_at": "2026-09-02T23:13:58.110093+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -82,8 +82,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -103,8 +103,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -124,8 +124,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -146,7 +146,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -169,7 +168,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -191,8 +189,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -200,15 +198,16 @@
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
-      "id": "2bead9ad4290",
-      "source": "CNN Brasil",
+      "id": "ce73b3fb510c",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Regra do STF põe Moraes e Mendonça lado a lado em meio à crise; entenda",
-      "link": "https://www.cnnbrasil.com.br/politica/regra-do-stf-poe-moraes-e-mendonca-lado-a-lado-em-meio-a-crise-entenda/",
-      "summary": "Ordem dos assentos é definida pela antiguidade dos ministros; os dois dividiram a bancada nesta quarta (2), mas não conversaram",
+      "title": "Lula fala com Fachin sobre crise no STF, se distancia de Moraes e define discurso do 'ninguém acima da lei'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml",
+      "summary": "O presidente Lula (PT) conversou com o chefe do STF (Supremo Tribunal Federal), Edson Fachin, na terça-feira (1º), sobre o escândalo que atingiu o Supremo após as revelações da troca de mensagens entre o ex-banqueiro Daniel Vorcaro e o ministro da corte Alexandre de Moraes.\nLeia mais (09/02/2026 - 19h44)",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
@@ -218,7 +217,28 @@
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 22:07:15 +0000"
+      "publishedRaw": "02 Sep 2026 19:44:00 -0300"
+    },
+    {
+      "id": "130ed38597d0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF sem opções: neste momento qualquer ação tende a agravar a crise institucional",
+      "link": "https://www.estadao.com.br/politica/william-waack/stf-sem-opcoes-neste-momento-qualquer-acao-tende-a-agravar-a-crise-institucional/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 23:01:50 +0000"
     },
     {
       "id": "f485f5950078",
@@ -233,7 +253,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -254,7 +274,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -275,7 +295,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -296,7 +316,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -318,7 +338,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -340,7 +359,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -360,8 +379,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -381,8 +400,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -402,8 +421,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -424,8 +443,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -445,73 +464,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
-      "id": "47830a58012c",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE também suspende no rádio propaganda de Lula sobre “currículo” de Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-tambem-suspende-no-radio-propaganda-de-lula-sobre-curriculo-de-flavio/",
-      "summary": "Ministra Estela Aranha já havia determinado retirada da peça da televisão; anúncio chama candidato do PL de \"funcionário fantasma\" e cita caso das rachadinhas",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 02 Sep 2026 21:36:49 +0000"
-    },
-    {
-      "id": "fdc39ba7637a",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar procura Lula para cobrar apoio do governo à cúpula da PF em embate entre Moraes e Mendonça",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/gilmar-procura-lula-para-cobrar-apoio-do-governo-a-cupula-da-pf-em-embate-entre-moraes-e-mendonca.shtml",
-      "summary": "Decano do STF (Supremo Tribunal Federal), o ministro Gilmar Mendes procurou o presidente Lula (PT), na manhã de terça-feira (1º), com intuito de alertá-lo para o que, em conversas, tem chamado de falta de apoio à cúpula da Polícia Federal por parte das instituições de governo.\nLeia mais (09/02/2026 - 18h28)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "02 Sep 2026 18:28:00 -0300"
-    },
-    {
-      "id": "397720d02e95",
+      "id": "d482f4a0d91e",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
-      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
+      "title": "Alcolumbre sai em defesa de Moraes e   cita envolvimento de Flávio Bolsonaro com Vorcaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/alcolumbre-sai-em-defesa-de-moraes-e-cita-envolvimento-de-flavio-bolsonaro-com-vorcaro/",
       "summary": "",
       "tags": [
-        "Lula"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
+      "score": 87,
+      "publishedRaw": "Wed, 02 Sep 2026 22:54:15 +0000"
     },
     {
       "id": "6a00ef518232",
@@ -527,9 +505,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 82,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 16:35:35 +0000"
     },
     {
@@ -545,51 +524,31 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
+      "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
-      "id": "03ec8271634c",
-      "source": "BBC Brasil",
+      "id": "7624c0871461",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
-      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+      "category": "Política",
+      "title": "Nunes mantém no ar live de Flávio com “Carta aos Brasileiros” de Bolsonaro",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nunes-mantem-no-ar-live-de-flavio-com-carta-aos-brasileiros-de-bolsonaro/",
+      "summary": "Presidente do TSE afirma que vídeo não traz pedido explícito de voto e rejeita retirada imediata do conteúdo",
       "tags": [
-        "Lula"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
-    },
-    {
-      "id": "eec2e9107479",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 81,
-      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+      "score": 83,
+      "publishedRaw": "Wed, 02 Sep 2026 22:55:16 +0000"
     },
     {
       "id": "e8ed186f409d",
@@ -604,10 +563,87 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 79,
+      "score": 83,
       "publishedRaw": "Wed, 02 Sep 2026 20:57:52 +0000"
+    },
+    {
+      "id": "f341d8d03507",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump diz que eleições de meio de mandato não afetam decisões sobre Irã",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eleicoes-de-meio-de-mandato-nao-afetam-decisoes-sobre-ira/",
+      "summary": "Presidente dos EUA voltou a afirmar que guerra com Teerã deve acabar em breve",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 02 Sep 2026 22:49:23 +0000"
+    },
+    {
+      "id": "a5ad89cc68b8",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump elogia relação com Brasil, mas diz que América do Sul está virando ‘à direita’ em eleições",
+      "link": "https://www.estadao.com.br/internacional/trump-elogia-relacao-com-brasil-mas-diz-america-do-sul-esta-virando-a-direita-em-eleicoes/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 02 Sep 2026 19:26:25 +0000"
+    },
+    {
+      "id": "58a760104c4d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo avalia sessão extra antes das eleições para votar 6 X 1",
+      "link": "https://www.poder360.com.br/poder-congresso/governo-avalia-sessao-extra-antes-das-eleicoes-para-votar-6-x-1/",
+      "summary": "Randolfe diz que articulação de Flávio foi decisiva para esvaziar plenário; PT não está seguro para votar PEC nesta semana de esforço concentrado",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 02 Sep 2026 23:01:33 +0000"
+    },
+    {
+      "id": "0d62bbb87840",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump diz que Venezuela não está pronta para novas eleições; presidente interina concorda",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/trump-diz-que-venezuela-nao-esta-pronta-para-novas-eleicoes.ghtml",
+      "summary": "Casa Branca detalha plano para explorar petróleo na Venezuela\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (2) que a Venezuela ainda não está pronta para realizar eleições. Ele também elogiou o governo da presidente interina Delcy Rodríguez.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA Venezuela está sob um governo interino desde a captura do ex-ditador Nicolás Maduro. Ele foi preso durante uma operação dos EUA no país, em 3 de janeiro.\nApós a queda de Maduro, Delcy, que era vice-presidente, assumiu o controle do país. Desde então, ela tem atendido a pedidos dos Estados Unidos e ampliado o diálogo com Trump.\nEnquanto isso, governo e oposição negociam uma transição pacífica de poder, com mediação dos Estados Unidos. Para Trump, no entanto, o país ainda não está pronto para realizar uma nova eleição.\n\"Simplesmente não me parece que eles estejam prontos ainda. Sabe, é algo muito recente. Nós os tiramos de uma ditadura e estamos nos dando muito bem com o governo\", disse.\nLogo depois, em uma declaração na Venezuela, Delcy disse que o país só terá eleições quando estiver \"pronto\". \nA presidente interina também agradeceu Trump pelo um acordo energético fechado entre os dois países na semana passada. Segundo Delcy, a medida trará \"bem-estar\" para a Venezuela.\nO acordo concede aos EUA o controle de 65 bilhões de barris das reservas de petróleo da Venezuela em 17 campos do país. Segundo Delcy, os negócios renderão US$ 209 bilhões (R$ 1,1 trilhão) em 25 anos.\nLEIA TAMBÉM\nO que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso\nTrump cita 'boa relação com o Brasil' e afirma ter feito 'muita gente ser eleita' na América do Sul: 'Estão todos indo para a direita'\nVÍDEO: homem é atingido por raio nos EUA, se levanta e sai andando: 'Sensação de formigamento'\nO presidente dos Estados Unidos, Donald Trump, e a presidente interina da Venezuela, Delcy Rodríguez\nREUTERS/Kevin Lamarque / Wendys Olivo/Palácio Miraflores/Divulgação via REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
       "id": "6387a1c804c9",
@@ -623,61 +659,85 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 76,
+      "score": 80,
       "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
     },
     {
-      "id": "bead84df032a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Discussão sobre impeachment de Moraes é inevitável, diz Gaspar",
-      "link": "https://www.poder360.com.br/poder-congresso/discussao-sobre-impeachment-de-moraes-e-inevitavel-diz-gaspar/",
-      "summary": "Candidato a vice afirma que Alcolumbre não pautará impeachment de Moraes e deixa análise para a nova composição do Senado",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 02 Sep 2026 21:21:23 +0000"
-    },
-    {
-      "id": "4925c8bfd0eb",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Oposição pede impeachment de Gonet após citação em relatório da PF",
-      "link": "https://www.poder360.com.br/poder-congresso/oposicao-pede-impeachment-de-gonet-apos-citacao-em-relatorio-da-pf/",
-      "summary": "Procurador-geral da República foi citado na investigação sobre Daniel Vorcaro, fundador do Master; Gonet pediu a nulidade do relatório alegando abuso de poder do ministro André Mendonça",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 02 Sep 2026 21:17:32 +0000"
-    },
-    {
-      "id": "a5ad89cc68b8",
+      "id": "397720d02e95",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Trump elogia relação com Brasil, mas diz que América do Sul está virando ‘à direita’ em eleições",
-      "link": "https://www.estadao.com.br/internacional/trump-elogia-relacao-com-brasil-mas-diz-america-do-sul-esta-virando-a-direita-em-eleicoes/",
+      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
+      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
       "summary": "",
       "tags": [
-        "eleições"
+        "Lula"
       ],
       "crossOutlets": [
-        "G1 - Mundo"
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
-      "score": 74,
-      "publishedRaw": "Wed, 02 Sep 2026 19:26:25 +0000"
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
+    },
+    {
+      "id": "03ec8271634c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
+      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
+    },
+    {
+      "id": "eec2e9107479",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+    },
+    {
+      "id": "4b14ce8fd09e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre cita dinheiro para 'Dark Horse' para responder à pressão por impeachment de Moraes",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alcolumbre-cita-dinheiro-para-dark-horse-para-responder-a-pressao-por-impeachment-de-moraes.shtml",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União Brasil-AP), mencionou, de forma indireta, os repasses de Daniel Vorcaro ao filme \"Dark Horse\" ao responder a cobranças de senadores bolsonaristas para que ele abrisse um processo de impeachment contra o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes, de quem é aliado.\nLeia mais (09/02/2026 - 19h41)",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "02 Sep 2026 19:41:00 -0300"
     },
     {
       "id": "986b7545cba9",
@@ -686,33 +746,31 @@
       "category": "Política",
       "title": "Renan Santos protocola pedido de impeachment contra Moraes e Toffoli",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/renan-santos-impeachment-moraes-toffoli.ghtml",
-      "summary": "O candidato à Presidência da República, Renan Santos (Missão), concede entrevista coletiva à imprensa, na tarde desta segunda-feira (31), no Morumbi, zona sul de São Paulo (SP), após o ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), suspender a campanha eleitoral online de sua chapa.\nJulia Martins/Estadão Conteúdo\nO candidato à Presidência Renan Santos (Missão) protocolou nesta quarta-feira (2), no Senado Federal, dois pedidos de impeachment contra ministros do Supremo Tribunal Federal (STF). Os alvos são Alexandre de Moraes e Dias Toffoli.\nOs documentos são endereçados ao presidente do Senado, Davi Alcolumbre (União-AP). É o presidente da Casa quem decide se arquiva ou se admite a denúncia. Essa etapa é política e costuma ser o primeiro grande filtro. Só depois, se a denúncia for aceita, o processo pode avançar para uma comissão especial e, depois, para o plenário. \nAlcolumbre, por sua vez, não disse se pretende dar seguimento aos pedidos. Ao ser questionado na última terça-feira, disse que há 109 pedidos de impeachment e que isso \"não é normal\".\nOs ministros do STF Alexandre de Moraes e Dias Toffoli\nLuiz Silveira/STF\nOs pedidos de impeachment feitos por Renan acontecem um dia depois das revelações do relatório da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro, controlador do extinto Banco Master, com integrantes do Supremo.\nA investigação da Polícia Federal sobre o Banco Master identificou contratos milionários de honorários advocatícios, uma proposta de transferência de cotas de um jato e de um helicóptero, além do pagamento de viagem internacional e experiências de luxo oferecidas por Daniel Vorcaro ao ministro Alexandre de Moraes e integrantes de sua família. Os episódios estão descritos em documento que integra a investigação e tornado público pelo relator do processo do caso no STF, ministro André Mendonça, na terça-feira (1º).\nImagem de Daniel Vorcaro na prisão.\nReprodução\nEm uma das petições, Renan Santos argumenta que Moraes cometeu crime de responsabilidade com base no art. 39 da Lei nº 1.079, que, em um de seus itens, tipifica o ato como “proceder de modo incompatível com a honra, dignidade e decoro de suas funções”. Para o candidato, o ministro recebeu vantagens ilícitas e funcionava como \"uma espécie de sócio\" do banqueiro. \"Certamente, Vorcaro não concedeu tais vantagens sem a expectativa de qualquer contrapartida\", escreve Renan.\nQuanto a Dias Toffoli, o candidato faz uma sustentação parecida. Santos cita a informação de que o ministro manteve participação societária em um resort localizado no interior do Paraná que recebeu ao menos R$ 35 milhões de fundos ligados a empresas de Vorcaro. O político classifica o valor como um \"montante incompatível com uma relação comercial legítima e desinteressada, sobretudo quando se considera que o beneficiário indireto desses recursos era, à época, magistrado com atuação direta sobre interesses do próprio grupo econômico de Vorcaro.\"\nNo decorrer desta semana, Renan criticou Dias Toffoli em diversas ocasiões depois de ele suspender sua campanha digital. Ao analisar o registro de candidatura do político, o ministro entendeu que perfis irregulares estariam divulgando conteúdos favoráveis ao candidato. A lei eleitoral obriga os candidatos a declarar todas as redes sociais logo no registro da campanha, para garantir que elas possam ser fiscalizadas.  \nO TSE afirmou que 16 perfis foram informados fora do prazo e, portanto, não poderiam continuar com as postagens. Toffoli liberou a campanha digital na manhã de terça-feira depois da regularização dos perfis. Até então, Renan dizia que vinha publicando reiteradamente conteúdos sobre o caso Master e disse não acreditar que a decisão contra sua campanha tenha ocorrido por “coincidência”.\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nAdvogados consultados pelo blog da Julia Dualibi afirmam que a troca de mensagens pode indicar tráfico de influência e obstrução à Justiça.\nApesar do teor das mensagens divulgadas, ainda é cedo para atribuir crimes ao ministro considerando que não há acesso ao conteúdo das respostas que ele teria enviado, apenas às mensagens escritas pelo banqueiro.\nMesmo assim, o ministro André Mendonça quer encaminhar a questão para análise do Plenário.\nPor isso, segundo especialistas ouvidos pela GloboNews, a discussão neste momento não é sobre um possível julgamento de Moraes, mas sobre se a investigação pode prosseguir e se os elementos produzidos pela PF são válidos.\nA Constituição estabelece regras diferentes conforme o tipo de responsabilização:\nEm caso de crime comum, como corrupção ou prevaricação, cabe ao próprio STF processar e julgar seus ministros.\nJá em caso de crime de responsabilidade, a competência é do Senado Federal. Por isso, é preciso saber primeiro a natureza da conduta atribuída.\nA Lei Orgânica da Magistratura Nacional (Loman) também estabelece uma regra específica para investigações envolvendo magistrados.\nEla determina que, \"quando surgirem indícios de crime atribuídos a um magistrado durante uma investigação, a autoridade policial deve encaminhar os autos ao tribunal ou órgão especial competente para que a apuração prossiga.\"\nA regra reforça que, identificados indícios de crime envolvendo um magistrado, a investigação passa a tramitar sob a competência do tribunal responsável pelo julgamento.\nComo funciona o impeachment de ministros do STF?\nEm dezembro de 2025, o ministro Gilmar Mendes, do STF, alterou a chamada Lei do Impeachment. Até então, a legislação permitia que qualquer cidadão apresentasse uma denúncia contra ministros do STF ao Senado. \nA decisão do ministro suspendeu a parte da lei que permitia denúncias por qualquer pessoa. Conforme a decisão, \"somente o Procurador-Geral da República pode formular denúncia em face de membros do Poder Judiciário pela prática de crimes de responsabilidade\".\nSegundo o ministro, isso se justifica porque, \"os juízes, temendo represálias, podem se ver pressionados a adotar posturas mais alinhadas aos interesses políticos momentâneos, em vez de garantirem a interpretação imparcial da Constituição e a preservação dos direitos fundamentais\".\nNa prática, isso promove uma trava a pedidos de abertura de processos contra ministros do Supremo.\nA Constituição não traz um artigo específico só sobre impeachment de ministros do STF, mas determina que cabe ao Senado Federal processar e julgar esses integrantes por crimes de responsabilidade.\nA estrutura é parecida com o impeachment de presidente da República:\na denúncia é examinada pelo Senado;\nhá possibilidade de afastamento temporário;\ne, ao final, o ministro pode perder o cargo e ficar até cinco anos impedido de exercer funções públicas.\nA Lei do Impeachment lista condutas consideradas graves o bastante para justificar um processo. Entre elas:\njulgar um caso quando o ministro deveria ser considerado suspeito;\nexercer atividade político-partidária;\nagir com negligência grave no cumprimento das funções;\nagir de forma incompatível com honra, dignidade e decoro.\nEssas condutas precisam ser descritas e comprovadas na denúncia feita ao Senado.",
+      "summary": "O candidato à Presidência da República, Renan Santos (Missão), concede entrevista coletiva à imprensa, na tarde desta segunda-feira (31), no Morumbi, zona sul de São Paulo (SP), após o ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), suspender a campanha eleitoral online de sua chapa.\nJulia Martins/Estadão Conteúdo\nO candidato à Presidência Renan Santos (Missão) protocolou nesta quarta-feira (2), no Senado Federal, dois pedidos de impeachment contra ministros do Supremo Tribunal Federal (STF). Os alvos são Alexandre de Moraes e Dias Toffoli.\nOs documentos são endereçados ao presidente do Senado, Davi Alcolumbre (União-AP). É o presidente da Casa quem decide se arquiva ou se admite a denúncia. Essa etapa é política e costuma ser o primeiro grande filtro. Só depois, se a denúncia for aceita, o processo pode avançar para uma comissão especial e, depois, para o plenário. \nAlcolumbre, por sua vez, não disse se pretende dar seguimento aos pedidos. Ao ser questionado na última terça-feira, disse que há 109 pedidos de impeachment e que isso \"não é normal\".\nOs ministros do STF Alexandre de Moraes e Dias Toffoli\nLuiz Silveira/STF\nOs pedidos de impeachment feitos por Renan acontecem um dia depois das revelações do relatório da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro, controlador do extinto Banco Master, com integrantes do Supremo.\nA investigação da Polícia Federal sobre o Banco Master identificou contratos milionários de honorários advocatícios, uma proposta de transferência de cotas de um jato e de um helicóptero, além do pagamento de viagem internacional e experiências de luxo oferecidas por Daniel Vorcaro ao ministro Alexandre de Moraes e integrantes de sua família. Os episódios estão descritos em documento que integra a investigação e tornado público pelo relator do processo do caso no STF, ministro André Mendonça, na terça-feira (1º).\nImagem de Daniel Vorcaro na prisão.\nReprodução\nEm uma das petições, Renan Santos argumenta que Moraes cometeu crime de responsabilidade com base no art. 39 da Lei nº 1.079, que, em um de seus itens, tipifica o ato como “proceder de modo incompatível com a honra, dignidade e decoro de suas funções”. Para o candidato, o ministro recebeu vantagens ilícitas e funcionava como \"uma espécie de sócio\" do banqueiro. \"Certamente, Vorcaro não concedeu tais vantagens sem a expectativa de qualquer contrapartida\", escreve Renan.\nQuanto a Dias Toffoli, o candidato faz uma sustentação parecida. Santos cita a informação de que o ministro manteve participação societária em um resort localizado no interior do Paraná que recebeu ao menos R$ 35 milhões de fundos ligados a empresas de Vorcaro. O político classifica o valor como um \"montante incompatível com uma relação comercial legítima e desinteressada, sobretudo quando se considera que o beneficiário indireto desses recursos era, à época, magistrado com atuação direta sobre interesses do próprio grupo econômico de Vorcaro.\"\nNo decorrer desta semana, Renan criticou Dias Toffoli em diversas ocasiões depois de ele suspender sua campanha digital. Ao analisar o registro de candidatura do político, o ministro entendeu que perfis irregulares estariam divulgando conteúdos favoráveis ao candidato. A lei eleitoral obriga os candidatos a declarar todas as redes sociais logo no registro da campanha, para garantir que elas possam ser fiscalizadas.  \nO TSE afirmou que 16 perfis foram informados fora do prazo e, portanto, não poderiam continuar com as postagens. Toffoli liberou a campanha digital na manhã de terça-feira depois da regularização dos perfis. Até então, Renan dizia que vinha publicando reiteradamente conteúdos sobre o caso Master e disse não acreditar que a decisão contra sua campanha tenha ocorrido por “coincidência”.\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nAdvogados consultados pelo blog da Julia Dualibi afirmam que a troca de mensagens pode indicar tráfico de influência e obstrução à Justiça.\nApesar do teor das mensagens divulgadas, ainda é cedo para atribuir crimes ao ministro considerando que não há acesso ao conteúdo das respostas que ele teria enviado, apenas às mensagens escritas pelo banqueiro.\nMesmo assim, o ministro André Mendonça quer encaminhar a questão para análise do Plenário.\nPor isso, segundo especialistas ouvidos pela GloboNews, a discussão neste momento não é sobre um possível julgamento de Moraes, mas sobre se a investigação pode prosseguir e se os elementos produzidos pela PF são válidos.\nA Constituição estabelece regras diferentes conforme o tipo de responsabilização:\nEm caso de crime comum, como corrupção ou prevaricação, cabe ao próprio STF processar e julgar seus ministros.\nJá em caso de crime de responsabilidade, a competência é do Senado Federal. Por isso, é preciso saber primeiro a natureza da conduta atribuída.\nA Lei Orgânica da Magistratura Nacional (Loman) também estabelece uma regra específica para investigações envolvendo magistrados.\nEla determina que, \"quando surgirem indícios de crime atribuídos a um magistrado durante uma investigação, a autoridade policial deve encaminhar os autos ao tribunal ou órgão especial competente para que a apuração prossiga.\"\nA regra reforça que, identificados indícios de crime envolvendo um magistrado, a investigação passa a tramitar sob a competência do tribunal responsável pelo julgamento.\nComo funciona o impeachment de ministros do STF?\nA Constituição não traz um artigo específico só sobre impeachment de ministros do STF, mas determina que cabe ao Senado Federal processar e julgar esses integrantes por crimes de responsabilidade. \nA estrutura é parecida com o impeachment de presidente da República:\na denúncia é examinada pelo Senado;\nhá possibilidade de afastamento temporário;\ne, ao final, o ministro pode perder o cargo e ficar até cinco anos impedido de exercer funções públicas.\nA Lei do Impeachment lista condutas consideradas graves o bastante para justificar um processo. Entre elas:\njulgar um caso quando o ministro deveria ser considerado suspeito;\nexercer atividade político-partidária;\nagir com negligência grave no cumprimento das funções;\nagir de forma incompatível com honra, dignidade e decoro.\nEssas condutas precisam ser descritas e comprovadas na denúncia feita ao Senado.",
       "tags": [
         "impeachment",
         "Renan Santos"
       ],
       "crossOutlets": [
-        "Poder360"
+        "Folha de São Paulo"
       ],
       "score": 73,
       "publishedRaw": "Wed, 02 Sep 2026 21:48:29 -0000"
     },
     {
-      "id": "0d62bbb87840",
-      "source": "G1 - Mundo",
+      "id": "fe99ab30993c",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Trump diz que Venezuela não está pronta para novas eleições; presidente interina concorda",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/02/trump-diz-que-venezuela-nao-esta-pronta-para-novas-eleicoes.ghtml",
-      "summary": "Casa Branca detalha plano para explorar petróleo na Venezuela\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (2) que a Venezuela ainda não está pronta para realizar eleições. Ele também elogiou o governo da presidente interina Delcy Rodríguez.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA Venezuela está sob um governo interino desde a captura do ex-ditador Nicolás Maduro. Ele foi preso durante uma operação dos EUA no país, em 3 de janeiro.\nApós a queda de Maduro, Delcy, que era vice-presidente, assumiu o controle do país. Desde então, ela tem atendido a pedidos dos Estados Unidos e ampliado o diálogo com Trump.\nEnquanto isso, governo e oposição negociam uma transição pacífica de poder, com mediação dos Estados Unidos. Para Trump, no entanto, o país ainda não está pronto para realizar uma nova eleição.\n\"Simplesmente não me parece que eles estejam prontos ainda. Sabe, é algo muito recente. Nós os tiramos de uma ditadura e estamos nos dando muito bem com o governo\", disse.\nLogo depois, em uma declaração na Venezuela, Delcy disse que o país só terá eleições quando estiver \"pronto\". \nA presidente interina também agradeceu Trump pelo um acordo energético fechado entre os dois países na semana passada. Segundo Delcy, a medida trará \"bem-estar\" para a Venezuela.\nO acordo concede aos EUA o controle de 65 bilhões de barris das reservas de petróleo da Venezuela em 17 campos do país. Segundo Delcy, os negócios renderão US$ 209 bilhões (R$ 1,1 trilhão) em 25 anos.\nLEIA TAMBÉM\nO que é o 'maior acordo petrolífero da história' anunciado por EUA e Venezuela — e por que ele é tão controverso\nTrump cita 'boa relação com o Brasil' e afirma ter feito 'muita gente ser eleita' na América do Sul: 'Estão todos indo para a direita'\nVÍDEO: homem é atingido por raio nos EUA, se levanta e sai andando: 'Sensação de formigamento'\nO presidente dos Estados Unidos, Donald Trump, e a presidente interina da Venezuela, Delcy Rodríguez\nREUTERS/Kevin Lamarque / Wendys Olivo/Palácio Miraflores/Divulgação via REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
+      "category": "Política",
+      "title": "Líder de governo no Congresso diz que 6×1 deve ficar para depois da eleição",
+      "link": "https://www.cnnbrasil.com.br/politica/lider-de-governo-no-congresso-diz-que-6x1-deve-ficar-para-depois-da-eleicao/",
+      "summary": "Base governista avaliou que não havia votos suficientes para aprovação da matéria em plenário nesta quarta-feira (2)",
       "tags": [
-        "eleições"
+        "Congresso"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 72,
-      "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Wed, 02 Sep 2026 22:35:38 +0000"
     },
     {
       "id": "d5e8cc26cc68",
