@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:13:58.110093+00:00",
+  "generated_at": "2026-09-02T23:40:09.504729+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -18,9 +18,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 16:23:31 -0000"
     },
     {
@@ -40,9 +41,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
     },
     {
@@ -64,9 +66,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 02 Sep 2026 21:45:16 -0000"
     },
     {
@@ -476,7 +479,7 @@
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Alcolumbre sai em defesa de Moraes e   cita envolvimento de Flávio Bolsonaro com Vorcaro",
+      "title": "Alcolumbre sai em defesa de Moraes e   cita envolvimento de Flávio Bolsonaro com Vorcaro; veja vídeo",
       "link": "https://www.estadao.com.br/politica/eleicoes/alcolumbre-sai-em-defesa-de-moraes-e-cita-envolvimento-de-flavio-bolsonaro-com-vorcaro/",
       "summary": "",
       "tags": [
@@ -530,6 +533,46 @@
       ],
       "score": 87,
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
+    },
+    {
+      "id": "397720d02e95",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
+      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
+    },
+    {
+      "id": "ff518452af3d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Alexandre é Lula e Lula é Alexandre”, diz Gaspar, vice de Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/alexandre-e-lula-e-lula-e-alexandre-diz-gaspar-vice-de-flavio/",
+      "summary": "Deputado e ex-relator da CPMI do INSS diz que ministro e presidente “se protegem” e “se completam”; ele defende impeachment de Moraes e diz que Lula tenta blindar Lulinha",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 23:32:59 +0000"
     },
     {
       "id": "7624c0871461",
@@ -646,6 +689,46 @@
       "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
+      "id": "03ec8271634c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
+      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
+    },
+    {
+      "id": "eec2e9107479",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+    },
+    {
       "id": "6387a1c804c9",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -664,63 +747,6 @@
       ],
       "score": 80,
       "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
-    },
-    {
-      "id": "397720d02e95",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
-      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
-    },
-    {
-      "id": "03ec8271634c",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
-      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
-    },
-    {
-      "id": "eec2e9107479",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
       "id": "4b14ce8fd09e",
@@ -771,21 +797,6 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Wed, 02 Sep 2026 22:35:38 +0000"
-    },
-    {
-      "id": "d5e8cc26cc68",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Duas propostas para a segurança pública",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/09/duas-propostas-para-a-seguranca-publica.shtml",
-      "summary": "A segurança disputa com a saúde o primeiro lugar entre as preocupações dos brasileiros.Com razão: a violência faz parte da áspera experiência cotidiana da população, especialmente dos pobres, em casa ou na rua; praticada por um parente, por desconhecidos, pela polícia.\nLeia mais (09/02/2026 - 18h42)",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "02 Sep 2026 18:42:00 -0300"
     },
     {
       "id": "37dbdd07c310",
