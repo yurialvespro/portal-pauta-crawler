@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T08:17:23.539687+00:00",
+  "generated_at": "2026-09-02T08:43:38.445117+00:00",
   "items": [
     {
       "id": "0eda2bf110b7",
@@ -15,12 +15,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Mon, 31 Aug 2026 21:23:44 GMT"
     },
     {
@@ -192,24 +193,24 @@
       "publishedRaw": "Wed, 02 Sep 2026 07:05:04 +0000"
     },
     {
-      "id": "c3e415b4d86e",
-      "source": "CNN Brasil",
+      "id": "68a2a97004d5",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Decisão sobre Moraes no STF será “jogo de xadrez”, diz Hübner Mendes ao WW",
-      "link": "https://www.cnnbrasil.com.br/politica/decisao-sobre-moraes-no-stf-sera-jogo-de-xadrez-diz-hubner-mendes-ao-ww/",
-      "summary": "Professor da USP aponta concentração de poder, conflitos de interesse e ausência de controle sobre ministros da Corte",
+      "title": "Mendonça seguiu as regras e Fachin deveria levar Moraes ao plenário do STF",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/mendonca-seguiu-as-regras-e-fachin-deveria-levar-moraes-ao-plenario-do-stf/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 07:00:46 +0000"
+      "publishedRaw": "Wed, 02 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "9320e149fc3b",
@@ -313,6 +314,46 @@
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
+      "id": "b5ea069bff7e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml",
+      "summary": "Aliados do presidente Lula (PT) afirmam enxergar, com a revelação dos diálogos entre o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, uma oportunidade para cobrar de André Mendonça o fim do sigilo das investigações sobre a relação do dono do Banco Master com Flávio Bolsonaro (PL-RJ) no caso \"Dark Horse\".\nLeia mais (09/01/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "12f9dedb783f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entorno de Lula reconhece dificuldade de o presidente se descolar de Moraes",
+      "link": "https://www.cnnbrasil.com.br/politica/entorno-de-lula-reconhece-dificuldade-de-o-presidente-se-descolar-de-moraes/",
+      "summary": "Oposição deve explorar proximidade entre Lula e Alexandre de Moraes após revelações do relatório da PF",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 08:05:50 +0000"
+    },
+    {
       "id": "b0c8f3cc3136",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -332,23 +373,44 @@
       "publishedRaw": "Wed, 02 Sep 2026 00:16:19 +0000"
     },
     {
-      "id": "2d6480a868f9",
+      "id": "aa7cade6b663",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Oposição apresenta pedidos de impeachment contra Moraes por conversas com Vorcaro",
-      "link": "https://www.estadao.com.br/politica/oposicao-apresenta-pedidos-de-impeachment-contra-moraes-por-conversas-com-vorcaro/",
+      "title": "Lula tenta se descolar de Moraes após escândalo envolvendo Vorcaro e vai defender investigações",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-tenta-se-descolar-de-moraes-apos-escandalo-envolvendo-vorcaro-e-vai-defender-investigacoes/",
       "summary": "",
       "tags": [
-        "impeachment"
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
+        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Tue, 01 Sep 2026 21:59:17 +0000"
+      "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
+    },
+    {
+      "id": "72f3dca2cf21",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Relatório da PF que cita Moraes não é conclusivo e há mais celulares a investigar",
+      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-que-cita-moraes-nao-e-conclusivo-e-ha-mais-celulares-a-investigar/",
+      "summary": "Documento analisou 1 celular de Vorcaro em 72 horas; outros aparelhos do banqueiro ainda devem passar por perícia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 07:09:40 +0000"
     },
     {
       "id": "84a3e612b3ba",
@@ -451,44 +513,6 @@
       "publishedRaw": "Tue, 01 Sep 2026 23:28:35 +0000"
     },
     {
-      "id": "b5ea069bff7e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula quer usar diálogo entre Moraes e Vorcaro para pedir fim de sigilo no caso 'Dark Horse'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml",
-      "summary": "Aliados do presidente Lula (PT) afirmam enxergar, com a revelação dos diálogos entre o ministro do STF (Supremo Tribunal Federal) Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, uma oportunidade para cobrar de André Mendonça o fim do sigilo das investigações sobre a relação do dono do Banco Master com Flávio Bolsonaro (PL-RJ) no caso \"Dark Horse\".\nLeia mais (09/01/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "01 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "aa7cade6b663",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tenta se descolar de Moraes após escândalo envolvendo Vorcaro e vai defender investigações",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-tenta-se-descolar-de-moraes-apos-escandalo-envolvendo-vorcaro-e-vai-defender-investigacoes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 01 Sep 2026 21:15:23 +0000"
-    },
-    {
       "id": "1b4794f548f9",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -509,25 +533,6 @@
       ],
       "score": 80,
       "publishedRaw": "Tue, 01 Sep 2026 14:26:20 GMT"
-    },
-    {
-      "id": "72f3dca2cf21",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relatório da PF que cita Moraes não é conclusivo e há mais celulares a investigar",
-      "link": "https://www.poder360.com.br/poder-justica/relatorio-da-pf-que-cita-moraes-nao-e-conclusivo-e-ha-mais-celulares-a-investigar/",
-      "summary": "Documento analisou 1 celular de Vorcaro em 72 horas; outros aparelhos do banqueiro ainda devem passar por perícia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 02 Sep 2026 07:09:40 +0000"
     },
     {
       "id": "1a2153b649a2",
