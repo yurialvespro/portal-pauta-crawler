@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:25:55.591759+00:00",
+  "generated_at": "2026-09-03T00:48:11.790676+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -154,9 +154,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 22:33:56 -0000"
@@ -174,9 +174,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 22:04:09 -0000"
@@ -194,9 +194,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:02:50 -0000"
@@ -214,12 +214,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
+    },
+    {
+      "id": "30e25de5702b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado defende à CNN idade mínima de 60 anos para indicados ao STF",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-defende-a-cnn-idade-minima-de-60-anos-para-indicados-ao-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 03 Sep 2026 00:42:09 +0000"
     },
     {
       "id": "130ed38597d0",
@@ -234,9 +254,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 23:01:50 +0000"
@@ -254,9 +274,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 22:06:53 +0000"
@@ -274,9 +294,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:12:42 +0000"
@@ -294,9 +314,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:00:00 +0000"
@@ -314,9 +334,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 21:10:13 +0000"
@@ -334,9 +354,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
@@ -353,10 +373,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 16:37:26 GMT"
@@ -373,10 +393,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
@@ -393,41 +413,44 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "id": "b815086a60f2",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF ignora caso Moraes e Vorcaro em 1ª sessão após relatório da PF",
-      "link": "https://www.poder360.com.br/poder-justica/stf-ignora-caso-moraes-e-vorcaro-em-1a-sessao-apos-relatorio-da-pf/",
-      "summary": "André Mendonça e Alexandre de Moraes estiveram lado a lado; nenhum dos 10 ministros fez referência às investigações",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 22:37:19 +0000"
+      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
-      "id": "f0664583c796",
+      "id": "d7ebc07d042b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE valida seis candidaturas à Presidência, incluindo Lula, Flávio e Zema",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-valida-seis-candidaturas-a-presidencia-incluindo-lula-flavio-e-zema/",
+      "summary": "Corte julgou 6 dos 13 pedidos de registro apresentados; outros sete nomes, entre eles Caiado e Marçal, ainda aguardam análise",
+      "tags": [
+        "candidatura",
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 03 Sep 2026 00:18:10 +0000"
+    },
+    {
+      "id": "ad9907963af8",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula publica foto com Leonardo DiCaprio após se reunir com o ator para falar sobre preservação da Amazônia",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/lula-publica-foto-com-leonardo-dicaprio-apos-se-reunir-com-o-ator-para-falar-sobre-preservacao-da-amazonia.shtml",
+      "title": "'Parabenizei DiCaprio pelo seu compromisso com a causa ambiental e indígena', diz Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/parabenizei-dicaprio-pelo-seu-compromisso-com-a-causa-ambiental-e-indigena-diz-lula.shtml",
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) usou as redes sociais nesta quarta-feira (2) para publicar registros de seu encontro com o ator americano Leonardo DiCaprio. Ele e a primeira-dama, Janja Lula da Silva, receberam o artista no Palácio do Planalto por volta das 12h30 e a conversa durou cerca de 40 minutos.\nLeia mais (09/02/2026 - 21h18)",
       "tags": [
         "Lula"
@@ -462,27 +485,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 03 Sep 2026 00:09:05 +0000"
-    },
-    {
-      "id": "ed588948d7b6",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula recua em uma série de indicadores, diz diretor da Quaest",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-recua-em-uma-serie-de-indicadores-diz-diretor-da-quaest/",
-      "summary": "Guilherme Russo aponta tendência negativa de Lula em aprovação e intenção de voto; Augusto Cury sobe de 2% para 10% nas pesquisas",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 02 Sep 2026 23:44:53 +0000"
     },
     {
       "id": "397720d02e95",
@@ -560,8 +562,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 84,
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
@@ -751,21 +753,6 @@
       "crossOutlets": [],
       "score": 68,
       "publishedRaw": "Wed, 02 Sep 2026 21:48:29 -0000"
-    },
-    {
-      "id": "40fedd2bbf64",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso adia “taxa das blusinhas” para quinta; 6×1 não vai a plenário",
-      "link": "https://www.cnnbrasil.com.br/politica/congresso-adia-taxa-das-blusinhas-para-quinta-6x1-nao-vai-a-plenario/",
-      "summary": "Governo tinha expectativa de votar textos nesta quarta; fim da 6x1 deve ficar somente para depois das eleições",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Wed, 02 Sep 2026 23:29:14 +0000"
     },
     {
       "id": "37dbdd07c310",
