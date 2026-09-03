@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:14:00.125025+00:00",
+  "generated_at": "2026-09-03T01:43:21.913660+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -117,29 +117,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 19:43:15 -0000"
-    },
-    {
-      "id": "af586202d7fa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bastidores: Lula conversa com Fachin e mostra preocupação com gravidade da crise no STF",
-      "link": "https://www.estadao.com.br/politica/bastidores-lula-conversa-com-fachin-e-mostra-preocupacao-com-gravidade-da-crise-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 02 Sep 2026 18:59:00 +0000"
     },
     {
       "id": "305d1bb05912",
@@ -288,7 +265,7 @@
       "category": "Política",
       "title": "Caiado defende à CNN idade mínima de 60 anos para indicados ao STF",
       "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-defende-a-cnn-idade-minima-de-60-anos-para-indicados-ao-stf/",
-      "summary": "",
+      "summary": "Candidato do PSD à Presidência da República avalia que a manutenção de sigilos sobre investigações na Suprema Corte pode colocar a democracia em risco",
       "tags": [
         "STF"
       ],
@@ -548,6 +525,27 @@
       "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
     },
     {
+      "id": "71e0e7d035ba",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula publica vídeo com críticas a Flávio: “Trabalha na escala 3 X 4”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-publica-video-com-criticas-a-flavio-trabalha-na-escala-3-x-4/",
+      "summary": "\"Quem é contra o trabalhador não merece representar o povo brasileiro\", afirma o petista em publicação nas redes sociais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 03 Sep 2026 01:31:29 +0000"
+    },
+    {
       "id": "a8834b9d7f88",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -744,23 +742,6 @@
       "publishedRaw": "Thu, 03 Sep 2026 01:06:46 +0000"
     },
     {
-      "id": "58a760104c4d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo avalia sessão extra antes das eleições para votar 6 X 1",
-      "link": "https://www.poder360.com.br/poder-congresso/governo-avalia-sessao-extra-antes-das-eleicoes-para-votar-6-x-1/",
-      "summary": "Randolfe diz que articulação de Flávio foi decisiva para esvaziar plenário; PT não está seguro para votar PEC nesta semana de esforço concentrado",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 74,
-      "publishedRaw": "Wed, 02 Sep 2026 23:01:33 +0000"
-    },
-    {
       "id": "986b7545cba9",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -789,10 +770,8 @@
       "tags": [
         "eleições"
       ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 72,
+      "crossOutlets": [],
+      "score": 68,
       "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
