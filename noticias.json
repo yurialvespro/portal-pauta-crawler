@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:17:13.381119+00:00",
+  "generated_at": "2026-09-03T16:43:20.392526+00:00",
   "items": [
     {
       "id": "9b7dffeead10",
@@ -14,11 +14,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 13:20:52 -0000"
     },
     {
@@ -34,11 +35,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 02:00:15 -0000"
     },
     {
@@ -54,11 +56,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
@@ -74,12 +77,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "03 Sep 2026 12:11:00 -0300"
+    },
+    {
+      "id": "93acc53f591c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à crise no STF, Mendonça fala em “honrar” confiança do povo",
+      "link": "https://www.cnnbrasil.com.br/politica/que-possamos-honrar-a-confianca-que-o-povo-deposita-em-nos-diz-mendonca/",
+      "summary": "Em evento com lideranças religiosas no TSE, ministro também ressaltou a importância dessas figuras para incentivar a participação social em um momento no qual \"todos os brasileiros são iguais\", independentemente de posição econômica",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 03 Sep 2026 15:45:51 +0000"
     },
     {
       "id": "a85562fcbab1",
@@ -94,11 +119,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 15:00:35 +0000"
     },
     {
@@ -114,11 +140,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 08:30:00 +0000"
     },
     {
@@ -133,12 +160,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 07:38:27 GMT"
     },
     {
@@ -153,12 +181,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
     },
     {
@@ -173,12 +202,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
@@ -378,12 +408,12 @@
       "publishedRaw": "Thu, 03 Sep 2026 15:43:45 +0000"
     },
     {
-      "id": "0375216272f2",
+      "id": "7a4694a170d6",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Empresa de Mendonça tem como sócios 4 ex-membros da gestão Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/empresa-de-mendonca-tem-como-socios-4-ex-membros-da-gestao-bolsonaro/",
+      "title": "Empresa de Mendonça tem como sócios 4 ex-integrantes da gestão Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-justica/empresa-de-mendonca-tem-como-socios-4-ex-integrantes-da-gestao-bolsonaro/",
       "summary": "Instituto Iter fechou 55 contratos com órgãos públicos, segundo revista; ministro do STF anunciou que deixará a sociedade e que seguirá atuando nela apenas como professor",
       "tags": [
         "Bolsonaro"
@@ -420,7 +450,7 @@
       "category": "Política",
       "title": "Eleições 2026: veja as propostas dos candidatos à Presidência para combater a violência contra a mulher",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-propostas-violencia-contra-a-mulher.ghtml",
-      "summary": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi\nMontagem g1\nAs mulheres são maioria do eleitorado brasileiro: representam cerca de 52,8% dos eleitores, segundo o Tribunal Superior Eleitoral (TSE). E, nas eleições de 2026, um tema que atinge diretamente essa parcela da população ganha peso no debate: a violência contra a mulher.\nOs feminicídios bateram recorde no Brasil, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto os homicídios em geral vêm caindo no país, a violência contra a mulher e os assassinatos de mulheres avançam na direção contrária, segundo o Anuário Brasileiro de Segurança Pública.\n🔎 O crime de feminicídio foi instituído no Brasil em 2015. De acordo com o Código Penal, é considerado feminicídio o assassinato de uma mulher por razões relacionadas à sua condição de mulher, em contextos que envolvam violência doméstica e familiar, menosprezo ou discriminação.\nDiante desse cenário, um levantamento do g1 reuniu as principais propostas dos 13 candidatos à Presidência da República especificamente para o enfrentamento à violência contra a mulher.\nVeja abaixo, na ordem dos colocados da última pesquisa Quaest de intenção de voto no primeiro turno, divulgada em 2 de setembro:\nLula (PT)\nO candidato à reeleição propôs consolidar o já existente \"Pacto de Enfrentamento ao Feminicídio\", com redes de proteção social e de combate às desigualdades de gênero:\nInfraestrutura de acolhimento: propõe a conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher Brasileira, além da ampliação em delegacias das Salas Lilás, espaços humanizados e reservados destinados ao acolhimento de mulheres e meninas vítimas de violência;\nKits de Monitoramento: distribuição de kits aos estados para aprimorar o monitoramento eletrônico de agressores sob medida protetiva;\nSaúde e SUS: propõe o reforço da Rede de Atenção Psicossocial e dos Centros de Atenção Psicossocial (CAPS), com foco, entre outros grupos, em mulheres em situação de violência.\nFlávio Bolsonaro (PL)\nO senador e candidato do PL à Presidência apresentou o programa \"Brasil por Elas\", como foco na proteção, crescimento financeiro e inclusão digital das mulheres na história do país:\nCentral da Mulher: propõe a criação de espaços físicos unificados e unidades itinerantes (caminhões e barcos adaptados) para oferecer, em um só lugar, apoio psicológico, orientação jurídica, saúde preventiva, qualificação e microcrédito;\nInteligência Artificial \"ClarIA\": criação de uma assistente virtual de inteligência artificial 24 h para guiar as mulheres em pedidos de medidas protetivas e outros serviços;\nDenúncia e Monitoramento: propõe integrar os canais de denúncia em uma plataforma rápida e monitorar com tornozeleira eletrônica agressores sob medida protetiva;\nPunição Rígida: defende que assassinos e agressores de mulheres cumpram integralmente suas penas na prisão, sem direito à progressão de regime. Também quer implementar a castração química de criminosos que abusam de mulheres e crianças.\nAugusto Cury (Avante)\nO escritor e candidato do Avante desenvolveu o programa \"Mulheres Vivas\", estruturando o enfrentamento em três eixos: proteção à vida, igualdade/autonomia e saúde emocional:\nTecnologia e Monitoramento: propõe a expansão de botões de alerta com geolocalização, aplicativos de emergência e monitoramento eletrônico de agressores, além do uso de drones e sirenes em áreas de risco;\nFortalecimento do policiamento comunitário e a atuação das Guardas Municipais, com acompanhamento preventivo e visitas às residências de mulheres em situação de risco;\nIntegração entre Delegacias Especializadas de Atendimento à Mulher, Ministério Público, Defensoria Pública, serviços de saúde, assistência social e Juizados de Violência Doméstica e Familiar contra a Mulher.\nRenan Santos (Missão)\nO plano de governo do candidato não apresenta propostas específicas ou detalhadas para o combate à violência doméstica ou ao feminicídio.\nEm entrevista ao Jornal Nacional, Renan afirmou que o plano de governo da campanha contém um \"plano gerencial\" que estabelece metas de desempenho para prefeitos e governadores, que por sua vez, haveria metas específicas para o enfrentamento à violência contra a mulher.\n\"O combate a isso exige medidas específicas que são adotadas majoritariamente por municípios e estados, porque nós respeitamos o princípio federativo. [...] Quem tem que fazer a formulação das políticas públicas e das ações sobre feminicídio e violência contra crianças e violência como um todo, são os estados e municípios\", disse. \n\"Não é o governo federal que tem o poder de polícia para executar isso. Se tem um marido que está batendo na sua esposa, não é o governo federal que vai colocar alguém dentro da casa dele\", destacou Renan Santos. \nRonaldo Caiado (PSD)\nO candidato trata a violência contra as mulheres como uma emergência nacional e adota a experiência de Goiás como modelo de comando e integração:\nPacto Nacional pelo Fim do Feminicídio: estabelece metas, protocolos de risco, integração de dados e divisão de responsabilidades entre União, estados e municípios. Propõe priorizar territórios com maior incidência, publicar resultados e apoiar redes locais de segurança, justiça, saúde e assistência.\nMonitoramento Nacional: implantação de um sistema nacional integrado com alertas, botão de pânico, patrulhas especializadas, cadastro e monitoramento eletrônico de agressores sob medida protetiva;\nEstrutura de Apoio: apoio à criação de Batalhões Maria da Penha e espaços humanizados (Salas Lilás);\nEndurecimento Penal: propõe que condenados por feminicídio, tentativa de feminicídio ou lesão corporal grave contra mulheres cumpram 90% da pena em regime fechado antes de qualquer progressão de regime e confisco de bens do condenado destinados à vítima ou então filhos e familiares.\nPablo Marçal (PRTB)*\nEm seu plano de governo, o candidato do PRTB propõe o lançamento do Programa Nacional de Combate à Violência Doméstica e a estruturação de uma \"Rede Nacional de Proteção\" (Defesa da Mulher).\nPablo Marçal (PRTB) registrou a candidatura no último dia do prazo, em 15 de agosto, embora esteja inelegível. O Tribunal Superior Eleitoral (TSE) ainda vai decidir se ele pode ou não concorrer.\nRomeu Zema (Novo)\nPropõe medidas para reduzir a subnotificação e a reincidência de violência doméstica nas forças policiais:\nProteção Ativa: ampliar a rede de delegacias da mulher 24 horas e equipes preferencialmente femininas, com a construção de sistemas integrados ente Saúde, Segurança Pública e delegacias.\nExpansão de Patrulhas Maria da Penha para fiscalizar medidas protetivas e instalação de Salas Lilás nas unidades de polícia;\nReabilitação: ampliação de casas-abrigo e centros de referência com acompanhamento integral para a reabilitação psicossocial das vítimas; \nEducação Infantil: propõe ampliar a oferta de creches priorizando parcerias com o setor privado.\nSamara Martins (UP)\nA candidata analisa a violência de gênero como uma opressão intensificada pela estrutura econômica atual:\nEnfrentamento à Violência: defende o fortalecimento de políticas preventivas, a criminalização da misoginia e a expansão de Delegacias da Mulher 24 horas;\nAutonomia e Amparo: fortalecimento de casas-abrigo e centros de referência com suporte jurídico e psicológico integrados a garantias de autonomia financeira para as vítimas;\nRui Costa Pimenta (PCO)\nO programa não detalha propostas específicas para o enfrentamento ao feminicídio ou à violência doméstica.\nClariana Barão (DC)\nO plano de governo estabelece a proteção às mulheres como o primeiro eixo transversal de toda a ação pública:\nRede Integrada: defende um modelo de atendimento integrado e humanizado que articule saúde, assistência social, segurança e justiça;\nMonitoramento por Dados: propõe a aplicação de protocolos de risco para monitorar a reincidência de violência e a criação de um painel público de indicadores para medir o tempo médio de atendimento e as medidas protetivas acompanhadas.\nWilson Grassi (Democrata)\nO médico veterinário propõe uma abordagem interdisciplinar baseada na evidência científica de comportamento entre maus tratos a animais e violência contra pessoas, o que chama de \"Teoria do Elo\".\nNo plano de governo, Grassi propõe a criação de um cadastro nacional de infratores por maus-tratos a animais no ar até o fim do primeiro ano de mandato, integrado às bases de segurança pública e usado como fator de alerta na avaliação de risco de violência doméstica. \nEdmilson Costa (PCB)\nEspecificamente no combate aos feminicídios, o candidato do PCB propõe a criminalização da misoginia.\nHertz Dias (PSTU)\nO plano do candidato do PSTU defende medidas de ruptura:\nRede sob Controle Popular: propõe criação de Delegacias da Mulher 24h, casas-abrigo e redes de atendimento financiadas pelo Estado e mantidas sob o controle direto da população;\nPlataformas Digitais: prevê a responsabilização de plataformas que lucram com a disseminação de discursos de ódio e misoginia;\nPenas: propõe punição efetiva aos agressores, com garantia de proteção às vítimas.",
+      "summary": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi\nMontagem g1\nAs mulheres são maioria do eleitorado brasileiro: representam cerca de 52,8% dos eleitores, segundo o Tribunal Superior Eleitoral (TSE). E, nas eleições de 2026, um tema que atinge diretamente essa parcela da população ganha peso no debate: a violência contra a mulher.\nOs feminicídios bateram recorde no Brasil, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto os homicídios em geral vêm caindo no país, a violência contra a mulher e os assassinatos de mulheres avançam na direção contrária, segundo o Anuário Brasileiro de Segurança Pública.\n🔎 O crime de feminicídio foi instituído no Brasil em 2015. De acordo com o Código Penal, é considerado feminicídio o assassinato de uma mulher por razões relacionadas à sua condição de mulher, em contextos que envolvam violência doméstica e familiar, menosprezo ou discriminação.\nDiante desse cenário, um levantamento do g1 reuniu as principais propostas dos 13 candidatos à Presidência da República especificamente para o enfrentamento à violência contra a mulher.\nVeja abaixo, na ordem dos colocados da última pesquisa Quaest de intenção de voto no primeiro turno, divulgada em 2 de setembro:\nLula (PT)\nO candidato à reeleição propôs consolidar o já existente \"Pacto de Enfrentamento ao Feminicídio\", com redes de proteção social e de combate às desigualdades de gênero:\nInfraestrutura de acolhimento: propõe a conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher Brasileira, além da ampliação em delegacias das Salas Lilás, espaços humanizados e reservados destinados ao acolhimento de mulheres e meninas vítimas de violência;\nKits de Monitoramento: distribuição de kits aos estados para aprimorar o monitoramento eletrônico de agressores sob medida protetiva;\nSaúde e SUS: propõe o reforço da Rede de Atenção Psicossocial e dos Centros de Atenção Psicossocial (CAPS), com foco, entre outros grupos, em mulheres em situação de violência.\nFlávio Bolsonaro (PL)\nO senador e candidato do PL à Presidência apresentou o programa \"Brasil por Elas\", como foco na proteção, crescimento financeiro e inclusão digital das mulheres na história do país:\nCentral da Mulher: propõe a criação de espaços físicos unificados e unidades itinerantes (caminhões e barcos adaptados) para oferecer, em um só lugar, apoio psicológico, orientação jurídica, saúde preventiva, qualificação e microcrédito;\nInteligência Artificial \"ClarIA\": criação de uma assistente virtual de inteligência artificial 24 h para guiar as mulheres em pedidos de medidas protetivas e outros serviços;\nDenúncia e Monitoramento: propõe integrar os canais de denúncia em uma plataforma rápida e monitorar com tornozeleira eletrônica agressores sob medida protetiva;\nPunição Rígida: defende que assassinos e agressores de mulheres cumpram integralmente suas penas na prisão, sem direito à progressão de regime. Também quer implementar a castração química de criminosos que abusam de mulheres e crianças.\nAugusto Cury (Avante)\nO escritor e candidato do Avante desenvolveu o programa \"Mulheres Vivas\", estruturando o enfrentamento em três eixos: proteção à vida, igualdade/autonomia e saúde emocional:\nTecnologia e Monitoramento: propõe a expansão de botões de alerta com geolocalização, aplicativos de emergência e monitoramento eletrônico de agressores, além do uso de drones e sirenes em áreas de risco;\nFortalecimento do policiamento comunitário e a atuação das Guardas Municipais, com acompanhamento preventivo e visitas às residências de mulheres em situação de risco;\nIntegração entre Delegacias Especializadas de Atendimento à Mulher, Ministério Público, Defensoria Pública, serviços de saúde, assistência social e Juizados de Violência Doméstica e Familiar contra a Mulher.\nRenan Santos (Missão)\nO plano de governo do candidato não apresenta propostas específicas ou detalhadas para o combate à violência doméstica ou ao feminicídio.\nEm entrevista ao Jornal Nacional, Renan afirmou que o plano de governo da campanha contém um \"plano gerencial\" que estabelece metas de desempenho para prefeitos e governadores, que por sua vez, haveria metas específicas para o enfrentamento à violência contra a mulher.\n\"O combate a isso exige medidas específicas que são adotadas majoritariamente por municípios e estados, porque nós respeitamos o princípio federativo. [...] Quem tem que fazer a formulação das políticas públicas e das ações sobre feminicídio e violência contra crianças e violência como um todo, são os estados e municípios\", disse. \n\"Não é o governo federal que tem o poder de polícia para executar isso. Se tem um marido que está batendo na sua esposa, não é o governo federal que vai colocar alguém dentro da casa dele\", destacou Renan Santos. \nRonaldo Caiado (PSD)\nO candidato trata a violência contra as mulheres como uma emergência nacional e adota a experiência de Goiás como modelo de comando e integração:\nPacto Nacional pelo Fim do Feminicídio: estabelece metas, protocolos de risco, integração de dados e divisão de responsabilidades entre União, estados e municípios. Propõe priorizar territórios com maior incidência, publicar resultados e apoiar redes locais de segurança, justiça, saúde e assistência.\nMonitoramento Nacional: implantação de um sistema nacional integrado com alertas, botão de pânico, patrulhas especializadas, cadastro e monitoramento eletrônico de agressores sob medida protetiva;\nEstrutura de Apoio: apoio à criação de Batalhões Maria da Penha e espaços humanizados (Salas Lilás);\nEndurecimento Penal: propõe que condenados por feminicídio, tentativa de feminicídio ou lesão corporal grave contra mulheres cumpram 90% da pena em regime fechado antes de qualquer progressão de regime e confisco de bens do condenado destinados à vítima ou então filhos e familiares.\nPablo Marçal (PRTB)\nEm seu plano de governo, o candidato do PRTB propõe o lançamento do Programa Nacional de Combate à Violência Doméstica e a estruturação de uma \"Rede Nacional de Proteção\" (Defesa da Mulher).\nPablo Marçal (PRTB) registrou a candidatura no último dia do prazo, em 15 de agosto, embora esteja inelegível. O Tribunal Superior Eleitoral (TSE) ainda vai decidir se ele pode ou não concorrer.\nRomeu Zema (Novo)\nPropõe medidas para reduzir a subnotificação e a reincidência de violência doméstica nas forças policiais:\nProteção Ativa: ampliar a rede de delegacias da mulher 24 horas e equipes preferencialmente femininas, com a construção de sistemas integrados ente Saúde, Segurança Pública e delegacias.\nExpansão de Patrulhas Maria da Penha para fiscalizar medidas protetivas e instalação de Salas Lilás nas unidades de polícia;\nReabilitação: ampliação de casas-abrigo e centros de referência com acompanhamento integral para a reabilitação psicossocial das vítimas; \nEducação Infantil: propõe ampliar a oferta de creches priorizando parcerias com o setor privado.\nSamara Martins (UP)\nA candidata analisa a violência de gênero como uma opressão intensificada pela estrutura econômica atual:\nEnfrentamento à Violência: defende o fortalecimento de políticas preventivas, a criminalização da misoginia e a expansão de Delegacias da Mulher 24 horas;\nAutonomia e Amparo: fortalecimento de casas-abrigo e centros de referência com suporte jurídico e psicológico integrados a garantias de autonomia financeira para as vítimas;\nRui Costa Pimenta (PCO)\nO programa não detalha propostas específicas para o enfrentamento ao feminicídio ou à violência doméstica.\nClariana Barão (DC)\nO plano de governo estabelece a proteção às mulheres como o primeiro eixo transversal de toda a ação pública:\nRede Integrada: defende um modelo de atendimento integrado e humanizado que articule saúde, assistência social, segurança e justiça;\nMonitoramento por Dados: propõe a aplicação de protocolos de risco para monitorar a reincidência de violência e a criação de um painel público de indicadores para medir o tempo médio de atendimento e as medidas protetivas acompanhadas.\nWilson Grassi (Democrata)\nO médico veterinário propõe uma abordagem interdisciplinar baseada na evidência científica de comportamento entre maus tratos a animais e violência contra pessoas, o que chama de \"Teoria do Elo\".\nNo plano de governo, Grassi propõe a criação de um cadastro nacional de infratores por maus-tratos a animais no ar até o fim do primeiro ano de mandato, integrado às bases de segurança pública e usado como fator de alerta na avaliação de risco de violência doméstica. \nEdmilson Costa (PCB)\nEspecificamente no combate aos feminicídios, o candidato do PCB propõe a criminalização da misoginia.\nHertz Dias (PSTU)\nO plano do candidato do PSTU defende medidas de ruptura:\nRede sob Controle Popular: propõe criação de Delegacias da Mulher 24h, casas-abrigo e redes de atendimento financiadas pelo Estado e mantidas sob o controle direto da população;\nPlataformas Digitais: prevê a responsabilização de plataformas que lucram com a disseminação de discursos de ódio e misoginia;\nPenas: propõe punição efetiva aos agressores, com garantia de proteção às vítimas.",
       "tags": [
         "eleições",
         "eleições 2026"
@@ -568,6 +598,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 03 Sep 2026 13:45:46 -0000"
+    },
+    {
+      "id": "634d281375eb",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Idosa de 90 anos pede um cachorro como companhia em sua cadeira de rodas, recebe uma chihuahua cega e vínculo imediato emociona a família",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/idosa-de-90-anos-pede-um-cachorro-como-companhia-em-sua-cadeira-de-rodas-recebe-uma-chihuahua-cega-e-vinculo-imediato-emociona-a-familia/",
+      "summary": "Cadelinha adotada agora vive em lar multigeracional com toda a família de sua nova tutora",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Thu, 03 Sep 2026 16:26:02 +0000"
     },
     {
       "id": "3c3b015b45b1",
