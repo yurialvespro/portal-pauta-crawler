@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:48:11.790676+00:00",
+  "generated_at": "2026-09-03T01:14:00.125025+00:00",
   "items": [
     {
       "id": "bb67a49d588c",
@@ -222,6 +222,66 @@
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
+      "id": "fff71024fa26",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Waack: Crise institucional no STF se funde com a eleição",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/waack-crise-institucional-no-stf-se-funde-com-a-eleicao/",
+      "summary": "O problema para o Supremo é que nenhum resultado eleitoral livra a Corte da agonia em que se encontra",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 03 Sep 2026 01:02:27 +0000"
+    },
+    {
+      "id": "b9fbaf7953c1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF derruba PIS/Cofins sobre rendimentos de reservas de seguradoras",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/stf-derruba-pis-cofins-sobre-rendimentos-de-reservas-de-seguradoras/",
+      "summary": "Reservas técnicas são provisões obrigatórias que as empresas devem fazer para arcar com os compromissos firmados com os segurados",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 03 Sep 2026 00:54:03 +0000"
+    },
+    {
+      "id": "446b8ddaaf67",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado à CNN: Democracia pode sofrer golpe se STF não derrubar sigilos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-a-cnn-democracia-pode-sofrer-golpe-se-stf-nao-derrubar-sigilos/",
+      "summary": "Para o candidato, o eleitor tem o direito de saber se candidatos estão envolvidos em investigações antes de decidir o voto",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 03 Sep 2026 00:52:01 +0000"
+    },
+    {
       "id": "30e25de5702b",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -342,26 +402,6 @@
       "publishedRaw": "Wed, 02 Sep 2026 21:10:13 +0000"
     },
     {
-      "id": "7b07f9e5412e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como foi a 1ª sessão no STF após revelações sobre Moraes e Vorcaro",
-      "link": "https://www.estadao.com.br/politica/ao-vivo-stf-faz-1-sessao-apos-revelacoes-sobre-moraes-e-vorcaro/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 16:48:34 +0000"
-    },
-    {
       "id": "d8d52eeba6ee",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -445,6 +485,27 @@
       "publishedRaw": "Thu, 03 Sep 2026 00:18:10 +0000"
     },
     {
+      "id": "c1250b41f6f1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Vai rodar todo mundo: espero que Lula e Flávio também', diz leitor sobre caso Master",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/vai-rodar-todo-mundo-espero-que-lula-e-flavio-tambem-diz-leitor-sobre-caso-master.shtml",
+      "summary": "Caso Master\n\"Mendonça recebeu Vorcaro para tratar de precatórios que beneficiavam o Banco Master\" (Mônica Bergamo, 2/9). O fato de Mendonça receber Vorcaro não anula os R$ 131 milhões. A esquerda se agarra a uma esperança inexistente. Vai rodar todo mundo: espero que Lula e Flávio também!\nDaniel Brandão (São Paulo, SP)\nLeia mais (09/02/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "02 Sep 2026 22:00:00 -0300"
+    },
+    {
       "id": "ad9907963af8",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -464,27 +525,6 @@
       ],
       "score": 85,
       "publishedRaw": "02 Sep 2026 21:18:00 -0300"
-    },
-    {
-      "id": "1e01f445cdfe",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula posta foto com DiCaprio após encontro sobre questões ambientais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-posta-foto-com-dicaprio-apos-encontro-sobre-questoes-ambientais/",
-      "summary": "Ator e ativista conversou com o presidente sobre mudanças climáticas e proteção ambiental em Brasília, nesta quarta-feira (2)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 03 Sep 2026 00:09:05 +0000"
     },
     {
       "id": "397720d02e95",
@@ -668,24 +708,6 @@
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
-      "id": "e8ed186f409d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Imerso na crise Master, Moraes nega liberdade a réu por tráfico de maconha e toca pauta Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/imerso-na-crise-master-moraes-nega-liberdade-a-reu-por-trafico-de-maconha-e-toca-pauta-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Wed, 02 Sep 2026 20:57:52 +0000"
-    },
-    {
       "id": "6387a1c804c9",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -705,6 +727,23 @@
       "publishedRaw": "Wed, 02 Sep 2026 16:09:46 -0000"
     },
     {
+      "id": "1a1172998e21",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Não vejo como ele pode permanecer no Supremo’, diz Caiado sobre impeachment de Alexandre de Moraes",
+      "link": "https://www.estadao.com.br/politica/eleicoes/nao-vejo-como-ele-pode-permanecer-no-supremo-diz-caiado-sobre-impeachment-de-alexandre-de-moraes/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Thu, 03 Sep 2026 01:06:46 +0000"
+    },
+    {
       "id": "58a760104c4d",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -720,6 +759,24 @@
       ],
       "score": 74,
       "publishedRaw": "Wed, 02 Sep 2026 23:01:33 +0000"
+    },
+    {
+      "id": "986b7545cba9",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos protocola pedido de impeachment contra Moraes e Toffoli",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/renan-santos-impeachment-moraes-toffoli.ghtml",
+      "summary": "O candidato à Presidência da República, Renan Santos (Missão), concede entrevista coletiva à imprensa, na tarde desta segunda-feira (31), no Morumbi, zona sul de São Paulo (SP), após o ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), suspender a campanha eleitoral online de sua chapa.\nJulia Martins/Estadão Conteúdo\nO candidato à Presidência Renan Santos (Missão) protocolou nesta quarta-feira (2), no Senado Federal, dois pedidos de impeachment contra ministros do Supremo Tribunal Federal (STF). Os alvos são Alexandre de Moraes e Dias Toffoli.\nOs documentos são endereçados ao presidente do Senado, Davi Alcolumbre (União-AP). É o presidente da Casa quem decide se arquiva ou se admite a denúncia. Essa etapa é política e costuma ser o primeiro grande filtro. Só depois, se a denúncia for aceita, o processo pode avançar para uma comissão especial e, depois, para o plenário. \nAlcolumbre, por sua vez, não disse se pretende dar seguimento aos pedidos. Ao ser questionado na última terça-feira, disse que há 109 pedidos de impeachment e que isso \"não é normal\".\nOs ministros do STF Alexandre de Moraes e Dias Toffoli\nLuiz Silveira/STF\nOs pedidos de impeachment feitos por Renan acontecem um dia depois das revelações do relatório da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro, controlador do extinto Banco Master, com integrantes do Supremo.\nA investigação da Polícia Federal sobre o Banco Master identificou contratos milionários de honorários advocatícios, uma proposta de transferência de cotas de um jato e de um helicóptero, além do pagamento de viagem internacional e experiências de luxo oferecidas por Daniel Vorcaro ao ministro Alexandre de Moraes e integrantes de sua família. Os episódios estão descritos em documento que integra a investigação e tornado público pelo relator do processo do caso no STF, ministro André Mendonça, na terça-feira (1º).\nImagem de Daniel Vorcaro na prisão.\nReprodução\nEm uma das petições, Renan Santos argumenta que Moraes cometeu crime de responsabilidade com base no art. 39 da Lei nº 1.079, que, em um de seus itens, tipifica o ato como “proceder de modo incompatível com a honra, dignidade e decoro de suas funções”. Para o candidato, o ministro recebeu vantagens ilícitas e funcionava como \"uma espécie de sócio\" do banqueiro. \"Certamente, Vorcaro não concedeu tais vantagens sem a expectativa de qualquer contrapartida\", escreve Renan.\nQuanto a Dias Toffoli, o candidato faz uma sustentação parecida. Santos cita a informação de que o ministro manteve participação societária em um resort localizado no interior do Paraná que recebeu ao menos R$ 35 milhões de fundos ligados a empresas de Vorcaro. O político classifica o valor como um \"montante incompatível com uma relação comercial legítima e desinteressada, sobretudo quando se considera que o beneficiário indireto desses recursos era, à época, magistrado com atuação direta sobre interesses do próprio grupo econômico de Vorcaro.\"\nNo decorrer desta semana, Renan criticou Dias Toffoli em diversas ocasiões depois de ele suspender sua campanha digital. Ao analisar o registro de candidatura do político, o ministro entendeu que perfis irregulares estariam divulgando conteúdos favoráveis ao candidato. A lei eleitoral obriga os candidatos a declarar todas as redes sociais logo no registro da campanha, para garantir que elas possam ser fiscalizadas.  \nO TSE afirmou que 16 perfis foram informados fora do prazo e, portanto, não poderiam continuar com as postagens. Toffoli liberou a campanha digital na manhã de terça-feira depois da regularização dos perfis. Até então, Renan dizia que vinha publicando reiteradamente conteúdos sobre o caso Master e disse não acreditar que a decisão contra sua campanha tenha ocorrido por “coincidência”.\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nAdvogados consultados pelo blog da Julia Dualibi afirmam que a troca de mensagens pode indicar tráfico de influência e obstrução à Justiça.\nApesar do teor das mensagens divulgadas, ainda é cedo para atribuir crimes ao ministro considerando que não há acesso ao conteúdo das respostas que ele teria enviado, apenas às mensagens escritas pelo banqueiro.\nMesmo assim, o ministro André Mendonça quer encaminhar a questão para análise do Plenário.\nPor isso, segundo especialistas ouvidos pela GloboNews, a discussão neste momento não é sobre um possível julgamento de Moraes, mas sobre se a investigação pode prosseguir e se os elementos produzidos pela PF são válidos.\nA Constituição estabelece regras diferentes conforme o tipo de responsabilização:\nEm caso de crime comum, como corrupção ou prevaricação, cabe ao próprio STF processar e julgar seus ministros.\nJá em caso de crime de responsabilidade, a competência é do Senado Federal. Por isso, é preciso saber primeiro a natureza da conduta atribuída.\nA Lei Orgânica da Magistratura Nacional (Loman) também estabelece uma regra específica para investigações envolvendo magistrados.\nEla determina que, \"quando surgirem indícios de crime atribuídos a um magistrado durante uma investigação, a autoridade policial deve encaminhar os autos ao tribunal ou órgão especial competente para que a apuração prossiga.\"\nA regra reforça que, identificados indícios de crime envolvendo um magistrado, a investigação passa a tramitar sob a competência do tribunal responsável pelo julgamento.\nComo funciona o impeachment de ministros do STF?\nA Constituição não traz um artigo específico só sobre impeachment de ministros do STF, mas determina que cabe ao Senado Federal processar e julgar esses integrantes por crimes de responsabilidade. \nA estrutura é parecida com o impeachment de presidente da República:\na denúncia é examinada pelo Senado;\nhá possibilidade de afastamento temporário;\ne, ao final, o ministro pode perder o cargo e ficar até cinco anos impedido de exercer funções públicas.\nA Lei do Impeachment lista condutas consideradas graves o bastante para justificar um processo. Entre elas:\njulgar um caso quando o ministro deveria ser considerado suspeito;\nexercer atividade político-partidária;\nagir com negligência grave no cumprimento das funções;\nagir de forma incompatível com honra, dignidade e decoro.\nEssas condutas precisam ser descritas e comprovadas na denúncia feita ao Senado.",
+      "tags": [
+        "impeachment",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 73,
+      "publishedRaw": "Wed, 02 Sep 2026 21:48:29 -0000"
     },
     {
       "id": "0d62bbb87840",
@@ -739,20 +796,19 @@
       "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
     },
     {
-      "id": "986b7545cba9",
-      "source": "G1 - Política",
+      "id": "2e4469a3c81b",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Renan Santos protocola pedido de impeachment contra Moraes e Toffoli",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/renan-santos-impeachment-moraes-toffoli.ghtml",
-      "summary": "O candidato à Presidência da República, Renan Santos (Missão), concede entrevista coletiva à imprensa, na tarde desta segunda-feira (31), no Morumbi, zona sul de São Paulo (SP), após o ministro Dias Toffoli, do Tribunal Superior Eleitoral (TSE), suspender a campanha eleitoral online de sua chapa.\nJulia Martins/Estadão Conteúdo\nO candidato à Presidência Renan Santos (Missão) protocolou nesta quarta-feira (2), no Senado Federal, dois pedidos de impeachment contra ministros do Supremo Tribunal Federal (STF). Os alvos são Alexandre de Moraes e Dias Toffoli.\nOs documentos são endereçados ao presidente do Senado, Davi Alcolumbre (União-AP). É o presidente da Casa quem decide se arquiva ou se admite a denúncia. Essa etapa é política e costuma ser o primeiro grande filtro. Só depois, se a denúncia for aceita, o processo pode avançar para uma comissão especial e, depois, para o plenário. \nAlcolumbre, por sua vez, não disse se pretende dar seguimento aos pedidos. Ao ser questionado na última terça-feira, disse que há 109 pedidos de impeachment e que isso \"não é normal\".\nOs ministros do STF Alexandre de Moraes e Dias Toffoli\nLuiz Silveira/STF\nOs pedidos de impeachment feitos por Renan acontecem um dia depois das revelações do relatório da Polícia Federal sobre a relação do ex-banqueiro Daniel Vorcaro, controlador do extinto Banco Master, com integrantes do Supremo.\nA investigação da Polícia Federal sobre o Banco Master identificou contratos milionários de honorários advocatícios, uma proposta de transferência de cotas de um jato e de um helicóptero, além do pagamento de viagem internacional e experiências de luxo oferecidas por Daniel Vorcaro ao ministro Alexandre de Moraes e integrantes de sua família. Os episódios estão descritos em documento que integra a investigação e tornado público pelo relator do processo do caso no STF, ministro André Mendonça, na terça-feira (1º).\nImagem de Daniel Vorcaro na prisão.\nReprodução\nEm uma das petições, Renan Santos argumenta que Moraes cometeu crime de responsabilidade com base no art. 39 da Lei nº 1.079, que, em um de seus itens, tipifica o ato como “proceder de modo incompatível com a honra, dignidade e decoro de suas funções”. Para o candidato, o ministro recebeu vantagens ilícitas e funcionava como \"uma espécie de sócio\" do banqueiro. \"Certamente, Vorcaro não concedeu tais vantagens sem a expectativa de qualquer contrapartida\", escreve Renan.\nQuanto a Dias Toffoli, o candidato faz uma sustentação parecida. Santos cita a informação de que o ministro manteve participação societária em um resort localizado no interior do Paraná que recebeu ao menos R$ 35 milhões de fundos ligados a empresas de Vorcaro. O político classifica o valor como um \"montante incompatível com uma relação comercial legítima e desinteressada, sobretudo quando se considera que o beneficiário indireto desses recursos era, à época, magistrado com atuação direta sobre interesses do próprio grupo econômico de Vorcaro.\"\nNo decorrer desta semana, Renan criticou Dias Toffoli em diversas ocasiões depois de ele suspender sua campanha digital. Ao analisar o registro de candidatura do político, o ministro entendeu que perfis irregulares estariam divulgando conteúdos favoráveis ao candidato. A lei eleitoral obriga os candidatos a declarar todas as redes sociais logo no registro da campanha, para garantir que elas possam ser fiscalizadas.  \nO TSE afirmou que 16 perfis foram informados fora do prazo e, portanto, não poderiam continuar com as postagens. Toffoli liberou a campanha digital na manhã de terça-feira depois da regularização dos perfis. Até então, Renan dizia que vinha publicando reiteradamente conteúdos sobre o caso Master e disse não acreditar que a decisão contra sua campanha tenha ocorrido por “coincidência”.\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nAdvogados consultados pelo blog da Julia Dualibi afirmam que a troca de mensagens pode indicar tráfico de influência e obstrução à Justiça.\nApesar do teor das mensagens divulgadas, ainda é cedo para atribuir crimes ao ministro considerando que não há acesso ao conteúdo das respostas que ele teria enviado, apenas às mensagens escritas pelo banqueiro.\nMesmo assim, o ministro André Mendonça quer encaminhar a questão para análise do Plenário.\nPor isso, segundo especialistas ouvidos pela GloboNews, a discussão neste momento não é sobre um possível julgamento de Moraes, mas sobre se a investigação pode prosseguir e se os elementos produzidos pela PF são válidos.\nA Constituição estabelece regras diferentes conforme o tipo de responsabilização:\nEm caso de crime comum, como corrupção ou prevaricação, cabe ao próprio STF processar e julgar seus ministros.\nJá em caso de crime de responsabilidade, a competência é do Senado Federal. Por isso, é preciso saber primeiro a natureza da conduta atribuída.\nA Lei Orgânica da Magistratura Nacional (Loman) também estabelece uma regra específica para investigações envolvendo magistrados.\nEla determina que, \"quando surgirem indícios de crime atribuídos a um magistrado durante uma investigação, a autoridade policial deve encaminhar os autos ao tribunal ou órgão especial competente para que a apuração prossiga.\"\nA regra reforça que, identificados indícios de crime envolvendo um magistrado, a investigação passa a tramitar sob a competência do tribunal responsável pelo julgamento.\nComo funciona o impeachment de ministros do STF?\nA Constituição não traz um artigo específico só sobre impeachment de ministros do STF, mas determina que cabe ao Senado Federal processar e julgar esses integrantes por crimes de responsabilidade. \nA estrutura é parecida com o impeachment de presidente da República:\na denúncia é examinada pelo Senado;\nhá possibilidade de afastamento temporário;\ne, ao final, o ministro pode perder o cargo e ficar até cinco anos impedido de exercer funções públicas.\nA Lei do Impeachment lista condutas consideradas graves o bastante para justificar um processo. Entre elas:\njulgar um caso quando o ministro deveria ser considerado suspeito;\nexercer atividade político-partidária;\nagir com negligência grave no cumprimento das funções;\nagir de forma incompatível com honra, dignidade e decoro.\nEssas condutas precisam ser descritas e comprovadas na denúncia feita ao Senado.",
+      "title": "BC alerta para expansão das dívidas das famílias",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/bc-alerta-para-expansao-das-dividas-das-familias.shtml",
+      "summary": "O Banco Central tem dado avisos de que pretende tomar providências a respeito de problemas relacionados ao endividamento das famílias. Pelo que se adianta, atenção maior deve ser dada a dívidas tidas como inviáveis, tais como as contratadas por meio de cartão ou crédito pessoal sem garantias.\nLeia mais (09/02/2026 - 22h00)",
       "tags": [
-        "impeachment",
-        "Renan Santos"
+        "família"
       ],
       "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "Wed, 02 Sep 2026 21:48:29 -0000"
+      "score": 58,
+      "publishedRaw": "02 Sep 2026 22:00:00 -0300"
     },
     {
       "id": "37dbdd07c310",
