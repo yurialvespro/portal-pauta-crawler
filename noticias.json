@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:43:19.061792+00:00",
+  "generated_at": "2026-09-03T18:18:38.521700+00:00",
   "items": [
     {
       "id": "f8b864a45e90",
@@ -39,7 +39,8 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Thu, 03 Sep 2026 16:35:59 +0000"
@@ -59,9 +60,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 16:54:57 -0000"
     },
     {
@@ -79,9 +81,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 13:20:52 -0000"
     },
     {
@@ -99,19 +102,20 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
-      "id": "45055bd88816",
+      "id": "1a0c4b759b6f",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Se eleito, Zema fala em indicar “de três a quatro mulheres” ao STF",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/zema-promete-indicar-de-tres-a-quatro-mulheres-ao-stf-se-eleito/",
-      "summary": "Diante de plateia feminina, candidato do Novo ao Planalto criticou o presidente Lula (PT) pela indicação de Jorge Messias à Suprema Corte, que acabou rejeitada pelo Senado em abril",
+      "title": "Análise: Ministros deixam crise no STF em modo de espera",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-ministros-deixam-crise-no-stf-em-modo-de-espera/",
+      "summary": "Segundo Clarissa Oliveira, a Corte decidiu aguardar a poeira baixar antes de se posicionar sobre relatório da PF envolvendo Alexandre de Moraes",
       "tags": [
         "STF"
       ],
@@ -119,10 +123,11 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 16:52:33 +0000"
+      "score": 90,
+      "publishedRaw": "Thu, 03 Sep 2026 18:01:38 +0000"
     },
     {
       "id": "d051d17291d9",
@@ -139,9 +144,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 17:08:32 +0000"
     },
     {
@@ -159,9 +165,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 15:00:35 +0000"
     },
     {
@@ -179,9 +186,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 08:30:00 +0000"
     },
     {
@@ -199,9 +207,10 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 07:38:27 GMT"
     },
     {
@@ -219,9 +228,10 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 02 Sep 2026 09:30:50 GMT"
     },
     {
@@ -239,10 +249,32 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
+    },
+    {
+      "id": "693a34d20006",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vorcaro disse ao STF que tinha “relação cordial” com Andrei Rodrigues",
+      "link": "https://www.poder360.com.br/poder-justica/vorcaro-disse-ao-stf-que-tinha-relacao-cordial-com-andrei-rodrigues/",
+      "summary": "Banqueiro afirmou em depoimento ao gabinete do ministro André Mendonça que se sente “desconfortável” de propor nova proposta de delação premiada",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
+      "score": 90,
+      "publishedRaw": "Thu, 03 Sep 2026 18:02:37 +0000"
     },
     {
       "id": "8411efb3595c",
@@ -286,64 +318,6 @@
       "publishedRaw": "Thu, 03 Sep 2026 14:54:17 +0000"
     },
     {
-      "id": "da81af42ce93",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: O que faz um deputado federal?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-o-que-faz-um-deputado-federal.ghtml",
-      "summary": "Urna eletrônica\nReprodução/TV Globo\nO deputado federal é o representante da população na Câmara dos Deputados, uma das duas casas do Congresso Nacional. Ele é eleito para um mandato de quatro anos, sem limites para reeleição. \nEntre as principais funções estão:\ncriar e votar leis federais;\nfiscalizar o governo federal; e\nparticipar da definição do Orçamento da União.\nAo todo, a Câmara dos Deputados tem 513 parlamentares, distribuídos entre os estados e o Distrito Federal de acordo com o tamanho da população de cada unidade da Federação. Veja abaixo o número de deputados federais por estado.\nA principal atribuição do deputado federal é elaborar e votar leis que valem para todo o país. Os parlamentares podem apresentar projetos de lei, propostas de emenda à Constituição (PECs) e emendas a projetos em tramitação. Também analisam propostas enviadas pelo presidente da República, como medidas provisórias e projetos de iniciativa do Executivo.\nOutra função é fiscalizar a atuação do governo federal. Os deputados podem convocar ministros para prestar esclarecimentos, solicitar informações sobre ações do Executivo, acompanhar a aplicação de recursos públicos e participar de Comissões Parlamentares de Inquérito (CPIs) para investigar possíveis irregularidades.\nOs deputados federais também participam da elaboração do Orçamento da União. Eles discutem e votam o Plano Plurianual (PPA) – que planeja a administração pública para quatro anos – a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA), além de apresentar emendas para destinar recursos a obras, serviços e programas em estados e municípios.\nGrande parte das propostas é analisada primeiro pelas comissões temáticas da Câmara, responsáveis por discutir os projetos e emitir pareceres antes da votação em plenário.\nA Câmara dos Deputados também tem atribuições exclusivas previstas na Constituição. Entre elas estão: \nautorizar a abertura de processo de impeachment contra o presidente e o vice-presidente da República;\nanalisar concessões e renovações de emissoras de rádio e televisão; e \neleger dois integrantes do Conselho da República.\nOs deputados federais têm prerrogativas previstas na Constituição, como imunidade por opiniões, palavras e votos relacionados ao exercício do mandato – a conhecida imunidade parlamentar.\nTambém podem perder o cargo em casos como condenação definitiva pela Justiça, quebra de decoro parlamentar ou faltas excessivas às sessões da Câmara, conforme as regras constitucionais e o regimento da Casa.\nNúmero de deputados federais por estado:\nAcre: 8\nAlagoas: 9\nAmazonas: 8\nAmapá: 8\nBahia: 39\nCeará: 22\nDistrito Federal: 8\nEspírito Santo: 10\nGoiás: 17\nMaranhão: 18\nMinas Gerais: 53\nMato Grosso do Sul: 8\nMato Grosso: 8\nPará: 17\nParaíba: 12\nPernambuco: 25\nPiauí: 10\nParaná: 30\nRio de Janeiro: 46\nRio Grande do Norte: 8\nRondônia: 8\nRoraima: 8\nRio Grande do Sul: 31\nSanta Catarina: 16\nSergipe: 8\nSão Paulo: 70\nTocantins: 8",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 03 Sep 2026 03:01:58 -0000"
-    },
-    {
-      "id": "b0c113d45c31",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: veja as propostas dos candidatos à Presidência para combater a violência contra a mulher",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-propostas-violencia-contra-a-mulher.ghtml",
-      "summary": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi\nMontagem g1\nAs mulheres são maioria do eleitorado brasileiro: representam cerca de 52,8% dos eleitores, segundo o Tribunal Superior Eleitoral (TSE). E, nas eleições de 2026, um tema que atinge diretamente essa parcela da população ganha peso no debate: a violência contra a mulher.\nOs feminicídios bateram recorde no Brasil, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto os homicídios em geral vêm caindo no país, a violência contra a mulher e os assassinatos de mulheres avançam na direção contrária, segundo o Anuário Brasileiro de Segurança Pública.\n🔎 O crime de feminicídio foi instituído no Brasil em 2015. De acordo com o Código Penal, é considerado feminicídio o assassinato de uma mulher por razões relacionadas à sua condição de mulher, em contextos que envolvam violência doméstica e familiar, menosprezo ou discriminação.\nDiante desse cenário, um levantamento do g1 reuniu as principais propostas dos 13 candidatos à Presidência da República especificamente para o enfrentamento à violência contra a mulher.\nVeja abaixo, na ordem dos colocados da última pesquisa Quaest de intenção de voto no primeiro turno, divulgada em 2 de setembro:\nLula (PT)\nO candidato à reeleição propôs consolidar o já existente \"Pacto de Enfrentamento ao Feminicídio\", com redes de proteção social e de combate às desigualdades de gênero:\nInfraestrutura de acolhimento: propõe a conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher Brasileira, além da ampliação em delegacias das Salas Lilás, espaços humanizados e reservados destinados ao acolhimento de mulheres e meninas vítimas de violência;\nKits de Monitoramento: distribuição de kits aos estados para aprimorar o monitoramento eletrônico de agressores sob medida protetiva;\nSaúde e SUS: propõe o reforço da Rede de Atenção Psicossocial e dos Centros de Atenção Psicossocial (CAPS), com foco, entre outros grupos, em mulheres em situação de violência.\nFlávio Bolsonaro (PL)\nO senador e candidato do PL à Presidência apresentou o programa \"Brasil por Elas\", como foco na proteção, crescimento financeiro e inclusão digital das mulheres na história do país:\nCentral da Mulher: propõe a criação de espaços físicos unificados e unidades itinerantes (caminhões e barcos adaptados) para oferecer, em um só lugar, apoio psicológico, orientação jurídica, saúde preventiva, qualificação e microcrédito;\nInteligência Artificial \"ClarIA\": criação de uma assistente virtual de inteligência artificial 24 h para guiar as mulheres em pedidos de medidas protetivas e outros serviços;\nDenúncia e Monitoramento: propõe integrar os canais de denúncia em uma plataforma rápida e monitorar com tornozeleira eletrônica agressores sob medida protetiva;\nPunição Rígida: defende que assassinos e agressores de mulheres cumpram integralmente suas penas na prisão, sem direito à progressão de regime. Também quer implementar a castração química de criminosos que abusam de mulheres e crianças.\nAugusto Cury (Avante)\nO escritor e candidato do Avante desenvolveu o programa \"Mulheres Vivas\", estruturando o enfrentamento em três eixos: proteção à vida, igualdade/autonomia e saúde emocional:\nTecnologia e Monitoramento: propõe a expansão de botões de alerta com geolocalização, aplicativos de emergência e monitoramento eletrônico de agressores, além do uso de drones e sirenes em áreas de risco;\nFortalecimento do policiamento comunitário e a atuação das Guardas Municipais, com acompanhamento preventivo e visitas às residências de mulheres em situação de risco;\nIntegração entre Delegacias Especializadas de Atendimento à Mulher, Ministério Público, Defensoria Pública, serviços de saúde, assistência social e Juizados de Violência Doméstica e Familiar contra a Mulher.\nRenan Santos (Missão)\nO plano de governo do candidato não apresenta propostas específicas ou detalhadas para o combate à violência doméstica ou ao feminicídio.\nEm entrevista ao Jornal Nacional, Renan afirmou que o plano de governo da campanha contém um \"plano gerencial\" que estabelece metas de desempenho para prefeitos e governadores, que por sua vez, haveria metas específicas para o enfrentamento à violência contra a mulher.\n\"O combate a isso exige medidas específicas que são adotadas majoritariamente por municípios e estados, porque nós respeitamos o princípio federativo. [...] Quem tem que fazer a formulação das políticas públicas e das ações sobre feminicídio e violência contra crianças e violência como um todo, são os estados e municípios\", disse. \n\"Não é o governo federal que tem o poder de polícia para executar isso. Se tem um marido que está batendo na sua esposa, não é o governo federal que vai colocar alguém dentro da casa dele\", destacou Renan Santos. \nRonaldo Caiado (PSD)\nO candidato trata a violência contra as mulheres como uma emergência nacional e adota a experiência de Goiás como modelo de comando e integração:\nPacto Nacional pelo Fim do Feminicídio: estabelece metas, protocolos de risco, integração de dados e divisão de responsabilidades entre União, estados e municípios. Propõe priorizar territórios com maior incidência, publicar resultados e apoiar redes locais de segurança, justiça, saúde e assistência.\nMonitoramento Nacional: implantação de um sistema nacional integrado com alertas, botão de pânico, patrulhas especializadas, cadastro e monitoramento eletrônico de agressores sob medida protetiva;\nEstrutura de Apoio: apoio à criação de Batalhões Maria da Penha e espaços humanizados (Salas Lilás);\nEndurecimento Penal: propõe que condenados por feminicídio, tentativa de feminicídio ou lesão corporal grave contra mulheres cumpram 90% da pena em regime fechado antes de qualquer progressão de regime e confisco de bens do condenado destinados à vítima ou então filhos e familiares.\nPablo Marçal (PRTB)\nEm seu plano de governo, o candidato do PRTB propõe o lançamento do Programa Nacional de Combate à Violência Doméstica e a estruturação de uma \"Rede Nacional de Proteção\" (Defesa da Mulher).\nPablo Marçal (PRTB) registrou a candidatura no último dia do prazo, em 15 de agosto, embora esteja inelegível. O Tribunal Superior Eleitoral (TSE) ainda vai decidir se ele pode ou não concorrer.\nRomeu Zema (Novo)\nPropõe medidas para reduzir a subnotificação e a reincidência de violência doméstica nas forças policiais:\nProteção Ativa: ampliar a rede de delegacias da mulher 24 horas e equipes preferencialmente femininas, com a construção de sistemas integrados ente Saúde, Segurança Pública e delegacias.\nExpansão de Patrulhas Maria da Penha para fiscalizar medidas protetivas e instalação de Salas Lilás nas unidades de polícia;\nReabilitação: ampliação de casas-abrigo e centros de referência com acompanhamento integral para a reabilitação psicossocial das vítimas; \nEducação Infantil: propõe ampliar a oferta de creches priorizando parcerias com o setor privado.\nSamara Martins (UP)\nA candidata analisa a violência de gênero como uma opressão intensificada pela estrutura econômica atual:\nEnfrentamento à Violência: defende o fortalecimento de políticas preventivas, a criminalização da misoginia e a expansão de Delegacias da Mulher 24 horas;\nAutonomia e Amparo: fortalecimento de casas-abrigo e centros de referência com suporte jurídico e psicológico integrados a garantias de autonomia financeira para as vítimas;\nRui Costa Pimenta (PCO)\nO programa não detalha propostas específicas para o enfrentamento ao feminicídio ou à violência doméstica.\nClariana Barão (DC)\nO plano de governo estabelece a proteção às mulheres como o primeiro eixo transversal de toda a ação pública:\nRede Integrada: defende um modelo de atendimento integrado e humanizado que articule saúde, assistência social, segurança e justiça;\nMonitoramento por Dados: propõe a aplicação de protocolos de risco para monitorar a reincidência de violência e a criação de um painel público de indicadores para medir o tempo médio de atendimento e as medidas protetivas acompanhadas.\nWilson Grassi (Democrata)\nO médico veterinário propõe uma abordagem interdisciplinar baseada na evidência científica de comportamento entre maus tratos a animais e violência contra pessoas, o que chama de \"Teoria do Elo\".\nNo plano de governo, Grassi propõe a criação de um cadastro nacional de infratores por maus-tratos a animais no ar até o fim do primeiro ano de mandato, integrado às bases de segurança pública e usado como fator de alerta na avaliação de risco de violência doméstica. \nEdmilson Costa (PCB)\nEspecificamente no combate aos feminicídios, o candidato do PCB propõe a criminalização da misoginia.\nHertz Dias (PSTU)\nO plano do candidato do PSTU defende medidas de ruptura:\nRede sob Controle Popular: propõe criação de Delegacias da Mulher 24h, casas-abrigo e redes de atendimento financiadas pelo Estado e mantidas sob o controle direto da população;\nPlataformas Digitais: prevê a responsabilização de plataformas que lucram com a disseminação de discursos de ódio e misoginia;\nPenas: propõe punição efetiva aos agressores, com garantia de proteção às vítimas.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 03 Sep 2026 03:01:23 -0000"
-    },
-    {
-      "id": "7796772cd502",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política",
-      "link": "https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Graziela Testa também acredita que episódio tem potencial para dominar o debate público nas próximas semanas, reduzindo temporariamente a atenção dedicada a outros temas políticos e escândalos.",
-      "tags": [
-        "eleições",
-        "eleições 2026",
-        "Renan Santos"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 03 Sep 2026 11:33:34 GMT"
-    },
-    {
       "id": "021388c9f4e9",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -361,6 +335,25 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
+    },
+    {
+      "id": "ae5b59268c6c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT aciona Conselho de Ética do Senado contra Flávio Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-aciona-conselho-de-etica-do-senado-contra-flavio-bolsonaro/",
+      "summary": "Pedido tem como base o caso Dark Horse e contradições sobre financiamento do filme, aponta bancada",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 03 Sep 2026 18:07:51 +0000"
     },
     {
       "id": "55c144fc3700",
@@ -381,25 +374,6 @@
       ],
       "score": 81,
       "publishedRaw": "Thu, 03 Sep 2026 13:42:11 +0000"
-    },
-    {
-      "id": "80e2a02d11c2",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Operador de Vorcaro faz delação com PGR e confessa repasses a fundo de aliado de Eduardo Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/operador-de-vorcaro-faz-delacao-com-pgr-e-confessa-repasses-a-fundo-de-aliado-de-eduardo-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Thu, 03 Sep 2026 12:25:12 +0000"
     },
     {
       "id": "b758410abdf5",
@@ -440,13 +414,13 @@
       "publishedRaw": "Thu, 03 Sep 2026 03:01:50 -0000"
     },
     {
-      "id": "7f7fcc29ec81",
+      "id": "7b6b693f8ed7",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Marinho rebate Lula sobre fim da 6×1: “Ladrão da esperança”",
-      "link": "https://www.cnnbrasil.com.br/politica/marinho-rebate-lula-sobre-fim-da-6x1-ladrao-da-esperanca/",
-      "summary": "Proposta já foi aprovada pela CCJ do Senado; análise no plenário da Casa Alta deve ficar para outubro",
+      "title": "Atlas: no RS, Flávio tem vantagem contra Lula no 1º e 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-rs-flavio-tem-vantagem-contra-lula-no-1o-e-2o-turno/",
+      "summary": "Foram ouvidas 1.783 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
       "tags": [
         "Lula"
       ],
@@ -456,7 +430,7 @@
         "G1 - Política"
       ],
       "score": 80,
-      "publishedRaw": "Thu, 03 Sep 2026 17:02:55 +0000"
+      "publishedRaw": "Thu, 03 Sep 2026 18:00:22 +0000"
     },
     {
       "id": "d8bcc28a92a4",
@@ -478,22 +452,40 @@
       "publishedRaw": "Thu, 03 Sep 2026 16:10:33 +0000"
     },
     {
-      "id": "7a4694a170d6",
-      "source": "Poder360",
+      "id": "da81af42ce93",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Empresa de Mendonça tem como sócios 4 ex-integrantes da gestão Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/empresa-de-mendonca-tem-como-socios-4-ex-integrantes-da-gestao-bolsonaro/",
-      "summary": "Ministro do STF anunciou que deixará a sociedade e que seguirá atuando nela apenas como professor",
+      "title": "Eleições 2026: O que faz um deputado federal?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-o-que-faz-um-deputado-federal.ghtml",
+      "summary": "Urna eletrônica\nReprodução/TV Globo\nO deputado federal é o representante da população na Câmara dos Deputados, uma das duas casas do Congresso Nacional. Ele é eleito para um mandato de quatro anos, sem limites para reeleição. \nEntre as principais funções estão:\ncriar e votar leis federais;\nfiscalizar o governo federal; e\nparticipar da definição do Orçamento da União.\nAo todo, a Câmara dos Deputados tem 513 parlamentares, distribuídos entre os estados e o Distrito Federal de acordo com o tamanho da população de cada unidade da Federação. Veja abaixo o número de deputados federais por estado.\nA principal atribuição do deputado federal é elaborar e votar leis que valem para todo o país. Os parlamentares podem apresentar projetos de lei, propostas de emenda à Constituição (PECs) e emendas a projetos em tramitação. Também analisam propostas enviadas pelo presidente da República, como medidas provisórias e projetos de iniciativa do Executivo.\nOutra função é fiscalizar a atuação do governo federal. Os deputados podem convocar ministros para prestar esclarecimentos, solicitar informações sobre ações do Executivo, acompanhar a aplicação de recursos públicos e participar de Comissões Parlamentares de Inquérito (CPIs) para investigar possíveis irregularidades.\nOs deputados federais também participam da elaboração do Orçamento da União. Eles discutem e votam o Plano Plurianual (PPA) – que planeja a administração pública para quatro anos – a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA), além de apresentar emendas para destinar recursos a obras, serviços e programas em estados e municípios.\nGrande parte das propostas é analisada primeiro pelas comissões temáticas da Câmara, responsáveis por discutir os projetos e emitir pareceres antes da votação em plenário.\nA Câmara dos Deputados também tem atribuições exclusivas previstas na Constituição. Entre elas estão: \nautorizar a abertura de processo de impeachment contra o presidente e o vice-presidente da República;\nanalisar concessões e renovações de emissoras de rádio e televisão; e \neleger dois integrantes do Conselho da República.\nOs deputados federais têm prerrogativas previstas na Constituição, como imunidade por opiniões, palavras e votos relacionados ao exercício do mandato – a conhecida imunidade parlamentar.\nTambém podem perder o cargo em casos como condenação definitiva pela Justiça, quebra de decoro parlamentar ou faltas excessivas às sessões da Câmara, conforme as regras constitucionais e o regimento da Casa.\nNúmero de deputados federais por estado:\nAcre: 8\nAlagoas: 9\nAmazonas: 8\nAmapá: 8\nBahia: 39\nCeará: 22\nDistrito Federal: 8\nEspírito Santo: 10\nGoiás: 17\nMaranhão: 18\nMinas Gerais: 53\nMato Grosso do Sul: 8\nMato Grosso: 8\nPará: 17\nParaíba: 12\nPernambuco: 25\nPiauí: 10\nParaná: 30\nRio de Janeiro: 46\nRio Grande do Norte: 8\nRondônia: 8\nRoraima: 8\nRio Grande do Sul: 31\nSanta Catarina: 16\nSergipe: 8\nSão Paulo: 70\nTocantins: 8",
       "tags": [
-        "Bolsonaro"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão"
       ],
-      "score": 79,
-      "publishedRaw": "Thu, 03 Sep 2026 16:10:07 +0000"
+      "score": 77,
+      "publishedRaw": "Thu, 03 Sep 2026 03:01:58 -0000"
+    },
+    {
+      "id": "b0c113d45c31",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: veja as propostas dos candidatos à Presidência para combater a violência contra a mulher",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/eleicoes-2026-propostas-violencia-contra-a-mulher.ghtml",
+      "summary": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi\nMontagem g1\nAs mulheres são maioria do eleitorado brasileiro: representam cerca de 52,8% dos eleitores, segundo o Tribunal Superior Eleitoral (TSE). E, nas eleições de 2026, um tema que atinge diretamente essa parcela da população ganha peso no debate: a violência contra a mulher.\nOs feminicídios bateram recorde no Brasil, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto os homicídios em geral vêm caindo no país, a violência contra a mulher e os assassinatos de mulheres avançam na direção contrária, segundo o Anuário Brasileiro de Segurança Pública.\n🔎 O crime de feminicídio foi instituído no Brasil em 2015. De acordo com o Código Penal, é considerado feminicídio o assassinato de uma mulher por razões relacionadas à sua condição de mulher, em contextos que envolvam violência doméstica e familiar, menosprezo ou discriminação.\nDiante desse cenário, um levantamento do g1 reuniu as principais propostas dos 13 candidatos à Presidência da República especificamente para o enfrentamento à violência contra a mulher.\nVeja abaixo, na ordem dos colocados da última pesquisa Quaest de intenção de voto no primeiro turno, divulgada em 2 de setembro:\nLula (PT)\nO candidato à reeleição propôs consolidar o já existente \"Pacto de Enfrentamento ao Feminicídio\", com redes de proteção social e de combate às desigualdades de gênero:\nInfraestrutura de acolhimento: propõe a conclusão de 30 Casas da Mulher Brasileira e 15 Centros de Referência da Mulher Brasileira, além da ampliação em delegacias das Salas Lilás, espaços humanizados e reservados destinados ao acolhimento de mulheres e meninas vítimas de violência;\nKits de Monitoramento: distribuição de kits aos estados para aprimorar o monitoramento eletrônico de agressores sob medida protetiva;\nSaúde e SUS: propõe o reforço da Rede de Atenção Psicossocial e dos Centros de Atenção Psicossocial (CAPS), com foco, entre outros grupos, em mulheres em situação de violência.\nFlávio Bolsonaro (PL)\nO senador e candidato do PL à Presidência apresentou o programa \"Brasil por Elas\", como foco na proteção, crescimento financeiro e inclusão digital das mulheres na história do país:\nCentral da Mulher: propõe a criação de espaços físicos unificados e unidades itinerantes (caminhões e barcos adaptados) para oferecer, em um só lugar, apoio psicológico, orientação jurídica, saúde preventiva, qualificação e microcrédito;\nInteligência Artificial \"ClarIA\": criação de uma assistente virtual de inteligência artificial 24 h para guiar as mulheres em pedidos de medidas protetivas e outros serviços;\nDenúncia e Monitoramento: propõe integrar os canais de denúncia em uma plataforma rápida e monitorar com tornozeleira eletrônica agressores sob medida protetiva;\nPunição Rígida: defende que assassinos e agressores de mulheres cumpram integralmente suas penas na prisão, sem direito à progressão de regime. Também quer implementar a castração química de criminosos que abusam de mulheres e crianças.\nAugusto Cury (Avante)\nO escritor e candidato do Avante desenvolveu o programa \"Mulheres Vivas\", estruturando o enfrentamento em três eixos: proteção à vida, igualdade/autonomia e saúde emocional:\nTecnologia e Monitoramento: propõe a expansão de botões de alerta com geolocalização, aplicativos de emergência e monitoramento eletrônico de agressores, além do uso de drones e sirenes em áreas de risco;\nFortalecimento do policiamento comunitário e a atuação das Guardas Municipais, com acompanhamento preventivo e visitas às residências de mulheres em situação de risco;\nIntegração entre Delegacias Especializadas de Atendimento à Mulher, Ministério Público, Defensoria Pública, serviços de saúde, assistência social e Juizados de Violência Doméstica e Familiar contra a Mulher.\nRenan Santos (Missão)\nO plano de governo do candidato não apresenta propostas específicas ou detalhadas para o combate à violência doméstica ou ao feminicídio.\nEm entrevista ao Jornal Nacional, Renan afirmou que o plano de governo da campanha contém um \"plano gerencial\" que estabelece metas de desempenho para prefeitos e governadores, que por sua vez, haveria metas específicas para o enfrentamento à violência contra a mulher.\n\"O combate a isso exige medidas específicas que são adotadas majoritariamente por municípios e estados, porque nós respeitamos o princípio federativo. [...] Quem tem que fazer a formulação das políticas públicas e das ações sobre feminicídio e violência contra crianças e violência como um todo, são os estados e municípios\", disse. \n\"Não é o governo federal que tem o poder de polícia para executar isso. Se tem um marido que está batendo na sua esposa, não é o governo federal que vai colocar alguém dentro da casa dele\", destacou Renan Santos. \nRonaldo Caiado (PSD)\nO candidato trata a violência contra as mulheres como uma emergência nacional e adota a experiência de Goiás como modelo de comando e integração:\nPacto Nacional pelo Fim do Feminicídio: estabelece metas, protocolos de risco, integração de dados e divisão de responsabilidades entre União, estados e municípios. Propõe priorizar territórios com maior incidência, publicar resultados e apoiar redes locais de segurança, justiça, saúde e assistência.\nMonitoramento Nacional: implantação de um sistema nacional integrado com alertas, botão de pânico, patrulhas especializadas, cadastro e monitoramento eletrônico de agressores sob medida protetiva;\nEstrutura de Apoio: apoio à criação de Batalhões Maria da Penha e espaços humanizados (Salas Lilás);\nEndurecimento Penal: propõe que condenados por feminicídio, tentativa de feminicídio ou lesão corporal grave contra mulheres cumpram 90% da pena em regime fechado antes de qualquer progressão de regime e confisco de bens do condenado destinados à vítima ou então filhos e familiares.\nPablo Marçal (PRTB)\nEm seu plano de governo, o candidato do PRTB propõe o lançamento do Programa Nacional de Combate à Violência Doméstica e a estruturação de uma \"Rede Nacional de Proteção\" (Defesa da Mulher).\nPablo Marçal (PRTB) registrou a candidatura no último dia do prazo, em 15 de agosto, embora esteja inelegível. O Tribunal Superior Eleitoral (TSE) ainda vai decidir se ele pode ou não concorrer.\nRomeu Zema (Novo)\nPropõe medidas para reduzir a subnotificação e a reincidência de violência doméstica nas forças policiais:\nProteção Ativa: ampliar a rede de delegacias da mulher 24 horas e equipes preferencialmente femininas, com a construção de sistemas integrados ente Saúde, Segurança Pública e delegacias.\nExpansão de Patrulhas Maria da Penha para fiscalizar medidas protetivas e instalação de Salas Lilás nas unidades de polícia;\nReabilitação: ampliação de casas-abrigo e centros de referência com acompanhamento integral para a reabilitação psicossocial das vítimas; \nEducação Infantil: propõe ampliar a oferta de creches priorizando parcerias com o setor privado.\nSamara Martins (UP)\nA candidata analisa a violência de gênero como uma opressão intensificada pela estrutura econômica atual:\nEnfrentamento à Violência: defende o fortalecimento de políticas preventivas, a criminalização da misoginia e a expansão de Delegacias da Mulher 24 horas;\nAutonomia e Amparo: fortalecimento de casas-abrigo e centros de referência com suporte jurídico e psicológico integrados a garantias de autonomia financeira para as vítimas;\nRui Costa Pimenta (PCO)\nO programa não detalha propostas específicas para o enfrentamento ao feminicídio ou à violência doméstica.\nClariana Barão (DC)\nO plano de governo estabelece a proteção às mulheres como o primeiro eixo transversal de toda a ação pública:\nRede Integrada: defende um modelo de atendimento integrado e humanizado que articule saúde, assistência social, segurança e justiça;\nMonitoramento por Dados: propõe a aplicação de protocolos de risco para monitorar a reincidência de violência e a criação de um painel público de indicadores para medir o tempo médio de atendimento e as medidas protetivas acompanhadas.\nWilson Grassi (Democrata)\nO médico veterinário propõe uma abordagem interdisciplinar baseada na evidência científica de comportamento entre maus tratos a animais e violência contra pessoas, o que chama de \"Teoria do Elo\".\nNo plano de governo, Grassi propõe a criação de um cadastro nacional de infratores por maus-tratos a animais no ar até o fim do primeiro ano de mandato, integrado às bases de segurança pública e usado como fator de alerta na avaliação de risco de violência doméstica. \nEdmilson Costa (PCB)\nEspecificamente no combate aos feminicídios, o candidato do PCB propõe a criminalização da misoginia.\nHertz Dias (PSTU)\nO plano do candidato do PSTU defende medidas de ruptura:\nRede sob Controle Popular: propõe criação de Delegacias da Mulher 24h, casas-abrigo e redes de atendimento financiadas pelo Estado e mantidas sob o controle direto da população;\nPlataformas Digitais: prevê a responsabilização de plataformas que lucram com a disseminação de discursos de ódio e misoginia;\nPenas: propõe punição efetiva aos agressores, com garantia de proteção às vítimas.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 03 Sep 2026 03:01:23 -0000"
     },
     {
       "id": "e93ee1105bca",
@@ -572,9 +564,9 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Nikolas Ferreira confirma pedido a Daniel Vorcaro em favor de ex-assessor e diz que não houve irregularidade",
+      "title": "Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor",
       "link": "https://g1.globo.com/politica/noticia/2026/09/03/nikolas-ferreira-confirma-pedido-a-daniel-vorcaro-em-favor-de-ex-assessor-e-diz-que-nao-houve-irregularidade.ghtml",
-      "summary": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro\nO deputado federal Nikolas Ferreira (PL-MG) confirmou à GloboNews ter enviado uma mensagem ao banqueiro Daniel Vorcaro, ex-controlador do Banco Master, para apresentar seu advogado e ex-assessor Thiago Rodrigues de Faria, que buscava apoio para um ativo minerário. \nSegundo o parlamentar, não houve irregularidade na interlocução nem avanço do negócio.\nA informação foi revelada inicialmente pelo \"ICL Notícias\". A GloboNews teve acesso ao áudio trocado entre Nikolas e Vorcaro e ouviu o deputado sobre o conteúdo das mensagens. \nNikolas confirmou a autenticidade da conversa e afirmou que o empreendimento acabou não prosperando porque o interessado desistiu do projeto após a repercussão negativa envolvendo o Banco Master.\nEm um áudio enviado em 30 de março de 2025, Nikolas afirma a Vorcaro que um amigo próximo tinha interesse em tratar de um ativo ligado ao setor de mineração. \nNa gravação, o deputado diz:\n\"Meu advogado, enfim, irmão meu aqui, comentou comigo e falou aqui do seu nome. (...) Ele falou: 'cara, eu estou com um ativo minerário lá'. (...) Eu falei: 'não, eu posso dar um toque nele'.\"\nNa sequência, Nikolas afirma que não conhecia detalhes do negócio, mas decidiu intermediar o contato por confiar no ex-assessor.\n\"Não sei nem do que se trata, mas, enfim, como é uma pessoa que eu confio totalmente, estou passando aí para você, para, se for do teu interesse, eu passar o contato dele aqui para vocês tocarem isso.\"\nApós receber o áudio, Vorcaro respondeu por mensagem de visualização única. Em seguida, Nikolas encaminhou o contato de Thiago Rodrigues de Faria. De acordo com o diálogo divulgado, o ex-banqueiro respondeu: \"Amém, irmão. Estamos na guerra juntos\".\nAs conversas prosseguiram nos dias seguintes. Em 1º de abril de 2025, Nikolas informou que Thiago estaria em Brasília e disponível para conversar com Vorcaro.\nNikolas Ferreira\nPablo Valadares/Câmara dos Deputados\nO que disse Nikolas\nNikolas confirmou o conteúdo do áudio e negou qualquer irregularidade.\nSegundo o deputado, o projeto relacionado ao ativo minerário não avançou porque o amigo que conduzia a negociação desistiu da iniciativa diante das notícias negativas envolvendo o Banco Master. \nO parlamentar afirmou ainda que não cometeu crime ao intermediar o contato.\nPedido de desculpas a Vorcaro\nNo mesmo áudio, Nikolas também faz referência a uma publicação feita em 2024 em que criticava um evento realizado em Londres com patrocínio do Banco Master e participação de integrantes do Judiciário. \nO deputado diz que, à época, não sabia da ligação de Vorcaro com a iniciativa.\nNa gravação, ele afirma:\n\"Eu não fazia ideia que era este o banco do Dani. Se não, obviamente eu não teria postado, teria conversado anteriormente.\"\nSegundo Nikolas relatou à GloboNews, ele já havia procurado Vorcaro em 2024 para pedir desculpas pelas críticas ao evento, após ser informado pelo pastor André Valadão de que a iniciativa havia sido patrocinada pelo Banco Master e de que o banqueiro havia ajudado a campanha eleitoral de 2022. \nDe acordo com o deputado, essa primeira mensagem não foi respondida por Vorcaro.\nNo áudio enviado em março de 2025, em que trata do pedido de ajuda para o ex-assessor, Nikolas voltou ao assunto, reiterou as desculpas pelas publicações e sugeriu um encontro presencial com o banqueiro.\nAs mensagens fazem parte de diálogos obtidos pela Polícia Federal entre Nikolas Ferreira e Daniel Vorcaro. O conteúdo se tornou público em meio à divulgação de conversas envolvendo o banqueiro e suas relações com políticos, empresários e autoridades.\nNão há, até o momento, indicação de irregularidade na conversa divulgada entre o deputado e o banqueiro.",
+      "summary": "Áudios revelam contatos de Nikolas Ferreira com Daniel Vorcaro\nO deputado federal Nikolas Ferreira (PL-MG) enviou mensagens a Daniel Vorcaro para que ele ajudasse seu advogado e ex-assessor Thiago Rodrigues de Faria na liberação de um ativo minerário. \nA informação foi revelada inicialmente pelo \"ICL Notícias\". A GloboNews teve acesso ao áudio trocado entre Nikolas e Vorcaro. \nNikolas afirmou à reportagem que o empreendimento acabou não prosperando porque o interessado desistiu do projeto após a repercussão negativa envolvendo o Banco Master.\nAinda de acordo com Nikolas, não houve irregularidade na interlocução nem avanço do negócio.\nNa gravação, do dia 30 de março, o deputado afirmou que um amigo próximo tinha interesse em tratar de um ativo ligado ao setor de mineração e disse:\n\"Meu advogado, enfim, irmão meu aqui, comentou comigo e falou aqui do seu nome. (...) Ele falou: 'cara, eu estou com um ativo minerário lá'. (...) Eu falei: 'não, eu posso dar um toque nele'.\"\nNa sequência, Nikolas afirmou que não conhecia detalhes do negócio, mas decidiu intermediar o contato por confiar no ex-assessor.\n\"Não sei nem do que se trata, mas, enfim, como é uma pessoa que eu confio totalmente, estou passando aí para você, para, se for do teu interesse, eu passar o contato dele aqui para vocês tocarem isso.\"\nApós receber o áudio, Vorcaro respondeu por mensagem de visualização única. Em seguida, Nikolas encaminhou o contato de Thiago Rodrigues de Faria. De acordo com o diálogo divulgado, o ex-banqueiro respondeu: \"Amém, irmão. Estamos na guerra juntos\".\nAs conversas prosseguiram nos dias seguintes. Em 1º de abril de 2025, Nikolas informou que Thiago estaria em Brasília e disponível para conversar com Vorcaro.\nNikolas Ferreira\nPablo Valadares/Câmara dos Deputados\nPedido de desculpas a Vorcaro\nNo mesmo áudio, Nikolas também faz referência a uma publicação feita em 2024 em que criticava um evento realizado em Londres com patrocínio do Banco Master e participação de integrantes do Judiciário. \nO deputado diz que, à época, não sabia da ligação de Vorcaro com a iniciativa.\nNa gravação, ele afirma:\n\"Eu não fazia ideia que era este o banco do Dani. Se não, obviamente eu não teria postado, teria conversado anteriormente.\"\nSegundo Nikolas relatou à GloboNews, ele já havia procurado Vorcaro em 2024 para pedir desculpas pelas críticas ao evento, após ser informado pelo pastor André Valadão de que a iniciativa havia sido patrocinada pelo Banco Master e de que o banqueiro havia ajudado a campanha eleitoral de 2022. \nDe acordo com o deputado, essa primeira mensagem não foi respondida por Vorcaro.\nNo áudio enviado em março de 2025, em que trata do pedido de ajuda para o ex-assessor, Nikolas voltou ao assunto, reiterou as desculpas pelas publicações e sugeriu um encontro presencial com o banqueiro.\nAs mensagens fazem parte de diálogos obtidos pela Polícia Federal entre Nikolas Ferreira e Daniel Vorcaro. O conteúdo se tornou público em meio à divulgação de conversas envolvendo o banqueiro e suas relações com políticos, empresários e autoridades.\nNão há, até o momento, indicação de irregularidade na conversa divulgada entre o deputado e o banqueiro.",
       "tags": [
         "Nikolas Ferreira"
       ],
@@ -632,21 +624,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 03 Sep 2026 13:45:46 -0000"
-    },
-    {
-      "id": "634d281375eb",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Idosa de 90 anos pede um cachorro como companhia em sua cadeira de rodas, recebe uma chihuahua cega e vínculo imediato emociona a família",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/idosa-de-90-anos-pede-um-cachorro-como-companhia-em-sua-cadeira-de-rodas-recebe-uma-chihuahua-cega-e-vinculo-imediato-emociona-a-familia/",
-      "summary": "Cadelinha adotada agora vive em lar multigeracional com toda a família de sua nova tutora",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Thu, 03 Sep 2026 16:26:02 +0000"
     },
     {
       "id": "3c3b015b45b1",
