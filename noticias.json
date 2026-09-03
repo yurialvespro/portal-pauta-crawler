@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-09-03T05:54:38.551056+00:00",
+  "generated_at": "2026-09-03T06:21:42.698515+00:00",
   "items": [
-    {
-      "id": "0eda2bf110b7",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
-    },
-    {
-      "id": "a4222c79b678",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
-      "summary": "O Tribunal Superior Eleitoral (TSE) formou maioria para aprovar os registros de candidatura de Luiz Inácio Lula da Silva (PT), Flávio Bolsonaro (PL) e Romeu Zema (Novo) à Presidência da República. \nSamara Martins (UP), Hertz Dias (PSTU) e Edmilson Costa (PCB) também têm maioria de votos favoráveis aos seus registros. O julgamento é realizado no plenário virtual e terminará na noite desta quarta-feira (2).\n🔎 O registro de candidatura é o pedido individual de cada candidato. Nele, a Justiça Eleitoral verifica as condições de elegibilidade, a documentação pessoal, eventuais causas de inelegibilidade e os demais requisitos para que aquela pessoa possa concorrer.\nO TSE já tem cinco votos para aprovar os registros de Luiz Inácio Lula da Silva (PT) e Geraldo Alckmin (PSB); Samara Martins (UP) e Raquel Brício (UP); Romeu Zema (Novo) e Eduardo Girão (Novo); Hertz Dias (PSTU) e Vanessa Portugal (PSTU). \nAgora no g1\nNestes registros, faltam os votos dos ministros Estela Aranha e Ricardo Villas Bôas Cueva. Já votaram para aprovar os ministros André Mendonça, relator, e os ministros Floriano de Azevedo Marques, Dias Toffoli, Nunes Marques e Antonio Carlos Ferreira. \nOs registros de Edmilson Costa (PCB) , Cleusa Santos (PCB), Flávio Bolsonaro (PL) e Alfredo Gaspar (PL) já são seis votos favoráveis ao registro. Falta apenas o voto do ministro Ricardo Villas Bôas Cueva. \nAlém dos registros, os ministros também aprovaram o Demonstrativo de Regularidade do Atos Partidários (Drap) das siglas. \n🔎 O Drap analisa se o partido ou a federação seguiu corretamente as regras para apresentar candidatos.\nÉ por meio dele que são informados dados sobre a convenção partidária, a escolha dos candidatos, a composição da chapa e o cumprimento das exigências legais para lançamento das candidaturas.\nUrna eletrônica eleições mulher\nTribunal Superior Eleitoral/TSE\nOutros presidenciáveis\nOs registros dos demais candidatos ainda serão analisados pelo TSE. Apresentaram requerimento de registro ainda pendente de julgamentos:\nAugusto Cury (Avante)\nClariana Barão (DC);\nPablo Marçal (PRTB);\nRenan Santos (Missão);\nRonaldo Caiado (PSD).",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Romeu Zema",
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Wed, 02 Sep 2026 21:45:16 -0000"
-    },
     {
       "id": "2c9eecc0777b",
       "source": "G1 - Política",
@@ -172,6 +126,27 @@
       ],
       "score": 90,
       "publishedRaw": "02 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "5f1d443c03dd",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise WW: Ramificações de crise do STF se espalham por Brasília",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-ww-crise-moraes-master-brasilia-stf/",
+      "summary": "Enquanto campanha de Lula passa a tratar caso Moraes como peso, oposição recebe relatório da PF como bandeira para o Senado",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 03 Sep 2026 06:00:12 +0000"
     },
     {
       "id": "b468534607e6",
@@ -376,7 +351,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
@@ -405,144 +379,48 @@
       "publishedRaw": "Wed, 02 Sep 2026 21:53:05 -0000"
     },
     {
-      "id": "a2ceb7ceaba2",
+      "id": "0eda2bf110b7",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pablo Ortellado comenta as chances de Cury no 1º turno, explica como ele pode influenciar um eventual 2º turno e analisa o que pode ter levado ao crescimento repentino do candidato.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 02 Sep 2026 15:56:55 GMT"
+    },
+    {
+      "id": "a4222c79b678",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Cury avança, Lula e Flávio empatam no 2º turno: 10 pontos da nova Quaest",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/10-pontos-da-nova-pesquisa-quaest.ghtml",
-      "summary": "Montagem de fotos com os candidatos Lula (PT), Flávio Bolsonaro (PL) e Augusto Cury (Avante).\nManoella Mello/Globo\nPesquisa Quaest divulgada nesta quarta-feira (2) sobre a eleição presidencial mostra que Lula (PT) lidera com 37%, Flávio Bolsonaro (PL) tem 29% e Augusto Cury (Avante) agora é o terceiro colocado, com 10%.\nA nova pesquisa nacional Quaest, contratada pela Globo e pelo jornal O Globo e divulgada nesta quarta-feira (2), mostra a corrida pelo Palácio do Planalto em 2026 e consolida tendências importantes sobre a opinião do eleitor brasileiro a cerca de um mês do primeiro turno.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nConfira dez pontos da última pesquisa Quaest:\nCury se isola em 3º e deixa para trás Renan, Caiado e Zema\nEntre independentes, Cury tem 24% e lidera numericamente\nNa pesquisa espontânea, percentual de indecisos cai\nLula e Flávio empatados tecnicamente no 2º turno\nLula e Flávio lideram rejeição; potencial de voto em Cury cresce\nMudança na convicção do voto\nAprovação de Lula fica numericamente abaixo da desaprovação\nCasos Lulinha e Dark Horse afetam candidatos, diz maioria\n62% dizem estar pouco ou nada interessados na eleição\n45% priorizam propostas na decisão do voto\nQuaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%\nCury se isola em 3º e deixa para trás Renan, Caiado e Zema\nNo cenário estimulado do primeiro turno, o escritor Augusto Cury (Avante) alcança 10% das intenções de voto e assume a terceira colocação. \nEle deixa para trás adversários tradicionais da chamada terceira via, como Renan Santos (Missão), que pontua com 3%, além de Ronaldo Caiado (PSD) e Romeu Zema (Novo), que registram 1% cada. \nQuaest, 1º turno para presidente. Cenário sem Pablo Marçal\nArte/g1\nO patamar de Cury (10%) se repete tanto no cenário sem Pablo Marçal quanto na simulação que inclui o candidato do PRTB.\nLEIA TAMBÉM: Veja o desempenho de Augusto Cury por segmentos do eleitorado\nEntre independentes, Cury tem 24% e lidera numericamente\nSegundo o diretor da Quaest, Felipe Nunes, a explicação para a ascensão do candidato do Avante está no seu desempenho junto ao segmento descolado da polarização. Entre os eleitores que se declaram independentes, Augusto Cury alcança 24% das intenções de voto, superando numericamente o presidente Lula (23%) e o senador Flávio Bolsonaro (11%).\nVeja análise da pesquisa Quaest pelo professor Felipe Nunes\nPesquisa Quaest divulgada nesta quarta-feira (2) 2/20\nQuaest/Reprodução\nNa pesquisa espontânea, percentual de indecisos cai\nCom o início oficial da propaganda no rádio e na TV e a repercussão das sabatinas, o índice de indecisos recuou. No cenário espontâneo, em que o entrevistador não apresenta uma lista de candidatos, a parcela dos que ainda não sabem em quem votar caiu de 51% para 42%.\nNesse cenário, Lula lidera com 28% das intenções de voto, seguido por Flávio Bolsonaro, com 20%, e Cury, com 4%.\nLula e Flávio empatados tecnicamente no 2º turno\nEm uma eventual disputa de segundo turno, Lula registra 42% das intenções de voto, contra 41% de Flávio Bolsonaro, em empate técnico dentro da margem de erro de dois pontos percentuais.\nA distância entre os dois, que já foi de três pontos em meados de agosto, encolheu para apenas um ponto.\nIntenção de voto no 2º turno, Lula x Flávio Bolsonaro\nArte/g1\nLula e Flávio lideram rejeição, e potencial de voto em Cury cresce\nFlávio Bolsonaro lidera a rejeição, com 55% dos eleitores dizendo que não votariam nele de jeito nenhum. Lula aparece logo atrás, com 53%.\nCury, por outro lado, tem rejeição de 25%, enquanto a parcela dos eleitores que dizem conhecê-lo e que votariam nele mais que dobrou, passando de 10% para 21%.\nRejeição dos candidatos para presidente em 2026\nArte/g1\nMudança na convicção do voto\nOs eleitores de Lula (80%) e Flávio (75%) demonstram alto grau de convicção e dizem que o voto é definitivo. Entre os candidatos alternativos, porém, o cenário é mais instável.\nA maioria dos eleitores de Ronaldo Caiado (58%) e Renan Santos (57%) afirma que ainda pode mudar de candidato até o dia da eleição.\nAprovação de Lula fica numericamente abaixo da desaprovação\nDiante de um cenário eleitoral marcado por equilíbrio, a avaliação do governo ajuda a explicar as dificuldades de Lula. A desaprovação ao trabalho do presidente se manteve em 48%, enquanto a aprovação oscilou de 46% para 45% em relação a meados de agosto.\nSegundo o diretor da Quaest, uma das explicações para esse desempenho está na percepção sobre a economia, especialmente na relação entre renda e custo de vida. Nunes afirma que, apesar de medidas como o Desenrola e a ampliação da isenção do Imposto de Renda, a melhora ainda não é percebida pela maior parte da população.\n\"No Brasil, o dilema do affordability permanece. Apenas 10% dos brasileiros percebem hoje um aumento de renda maior do que seu custo de vida. O resto, ou teve aumento de renda, mas não teve melhora no patamar de vida, ou viu sua renda estável ou menor. Nem o Desenrola e a isenção do imposto de renda mudaram essa percepção negativa.\"\nAprovação do governo Lula\nArte/g1\nCasos Lulinha e Dark Horse afetam candidatos, diz maioria\nSegundo a Quaest, as investigações sobre o financiamento do filme \"Dark Horse\" e sobre o suposto tráfico de influência em órgãos federais envolvendo o filho do presidente Lula tiveram impacto na imagem dos dois lados da disputa.\nPara 65% dos entrevistados, o caso Lulinha prejudica Lula — 40% avaliam que prejudica muito e 25%, um pouco.\nQuaest: A investigação sobre Lulinha prejudica a campanha de Lula?\nArte/g1\nDe forma semelhante, 64% avaliam que o inquérito sobre irregularidades no financiamento do filme \"Dark Horse\", que apura a relação de Flávio Bolsonaro com o banqueiro Daniel Vorcaro, prejudica o senador. Outros 42% dizem que prejudica muito e 22%, um pouco.\nQuaest: Investigação sobre Dark Horse prejudica a campanha de Flávio Bolsonaro?\nArte/g1\n62% dizem estar pouco ou nada interessados na eleição\nApesar da proximidade da eleição, a população brasileira demonstra desinteresse com o processo eleitoral. De acordo com o levantamento Quaest, um contingente de 62% dos cidadãos afirma estar pouco ou nada interessado no pleito presidencial deste ano.\nInteresse na eleição presidencial\nArte/g1\nO interesse na eleição varia conforme a identificação política. Entre os lulistas, 50% dizem estar muito interessados. Entre bolsonaristas, são 45%. Na esquerda não lulista, 40%, e na direita não bolsonarista, 39%.\n45% priorizam propostas na decisão do voto\nAo serem questionados sobre qual fator consideram o mais determinante no momento de escolher o seu candidato na urna, as propostas de governo aparecem no topo das prioridades do eleitor brasileiro. \nCerca de 45% dos entrevistados apontam que o plano e as propostas apresentadas pelos candidatos são o elemento mais importante para a definição de seu voto presidencial.\nO que mais pesa na decisão de voto para presidente\nArte/g1",
+      "title": "TSE forma maioria para aprovar registros de candidatura de Lula, Flávio Bolsonaro e Romeu Zema",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/02/tse-forma-maioria-para-aprovar-registros-de-candidatura-de-lula-flavio-bolsonaro-e-romeu-zema.ghtml",
+      "summary": "O Tribunal Superior Eleitoral (TSE) formou maioria para aprovar os registros de candidatura de Luiz Inácio Lula da Silva (PT), Flávio Bolsonaro (PL) e Romeu Zema (Novo) à Presidência da República. \nSamara Martins (UP), Hertz Dias (PSTU) e Edmilson Costa (PCB) também têm maioria de votos favoráveis aos seus registros. O julgamento é realizado no plenário virtual e terminará na noite desta quarta-feira (2).\n🔎 O registro de candidatura é o pedido individual de cada candidato. Nele, a Justiça Eleitoral verifica as condições de elegibilidade, a documentação pessoal, eventuais causas de inelegibilidade e os demais requisitos para que aquela pessoa possa concorrer.\nO TSE já tem cinco votos para aprovar os registros de Luiz Inácio Lula da Silva (PT) e Geraldo Alckmin (PSB); Samara Martins (UP) e Raquel Brício (UP); Romeu Zema (Novo) e Eduardo Girão (Novo); Hertz Dias (PSTU) e Vanessa Portugal (PSTU). \nAgora no g1\nNestes registros, faltam os votos dos ministros Estela Aranha e Ricardo Villas Bôas Cueva. Já votaram para aprovar os ministros André Mendonça, relator, e os ministros Floriano de Azevedo Marques, Dias Toffoli, Nunes Marques e Antonio Carlos Ferreira. \nOs registros de Edmilson Costa (PCB) , Cleusa Santos (PCB), Flávio Bolsonaro (PL) e Alfredo Gaspar (PL) já são seis votos favoráveis ao registro. Falta apenas o voto do ministro Ricardo Villas Bôas Cueva. \nAlém dos registros, os ministros também aprovaram o Demonstrativo de Regularidade do Atos Partidários (Drap) das siglas. \n🔎 O Drap analisa se o partido ou a federação seguiu corretamente as regras para apresentar candidatos.\nÉ por meio dele que são informados dados sobre a convenção partidária, a escolha dos candidatos, a composição da chapa e o cumprimento das exigências legais para lançamento das candidaturas.\nUrna eletrônica eleições mulher\nTribunal Superior Eleitoral/TSE\nOutros presidenciáveis\nOs registros dos demais candidatos ainda serão analisados pelo TSE. Apresentaram requerimento de registro ainda pendente de julgamentos:\nAugusto Cury (Avante)\nClariana Barão (DC);\nPablo Marçal (PRTB);\nRenan Santos (Missão);\nRonaldo Caiado (PSD).",
       "tags": [
-        "Lula"
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Romeu Zema",
+        "candidatura",
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Thu, 03 Sep 2026 03:01:50 -0000"
-    },
-    {
-      "id": "617be5f11e91",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio diz que Lula tem “rabo preso” por não comentar caso Moraes",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-lula-tem-rabo-preso-por-nao-comentar-caso-moraes/",
-      "summary": "Senador afirmou que presidente deveria deixar o cargo por não ter mais condições de governar",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 03 Sep 2026 01:21:33 +0000"
-    },
-    {
-      "id": "397720d02e95",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
-      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
-    },
-    {
-      "id": "b0e9913c9f6b",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio critica Lula por silêncio sobre caso Moraes e Vorcaro",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-critica-lula-por-silencio-sobre-caso-moraes-e-vorcaro/",
-      "summary": "Candidato disse não saber quem governa o Brasil e afirmou que petista tem \"rabo preso\" com o STF por causa da Lava Jato",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 03 Sep 2026 02:09:36 +0000"
-    },
-    {
-      "id": "71e0e7d035ba",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula publica vídeo com críticas a Flávio: “Trabalha na escala 3 X 4”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-publica-video-com-criticas-a-flavio-trabalha-na-escala-3-x-4/",
-      "summary": "\"Quem é contra o trabalhador não merece representar o povo brasileiro\", afirma o petista em publicação nas redes sociais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 03 Sep 2026 01:31:29 +0000"
-    },
-    {
-      "id": "a8834b9d7f88",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula intensifica campanha com 7 atos em 10 dias e foco no Sul",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-intensifica-campanha-com-7-atos-em-10-dias-e-foco-no-sul/",
-      "summary": "Petista inicia maratona com retorno ao Ceará na 6ª feira (4.set) e encerra o tour em Santa Catarina, em 13 de setembro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 23:55:45 +0000"
-    },
-    {
-      "id": "ff518452af3d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Alexandre é Lula e Lula é Alexandre”, diz Gaspar, vice de Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/alexandre-e-lula-e-lula-e-alexandre-diz-gaspar-vice-de-flavio/",
-      "summary": "Deputado e ex-relator da CPMI do INSS diz que ministro e presidente “se protegem” e “se completam”; ele defende impeachment de Moraes e diz que Lula tenta blindar Lulinha",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 02 Sep 2026 23:32:59 +0000"
+      "score": 87,
+      "publishedRaw": "Wed, 02 Sep 2026 21:45:16 -0000"
     },
     {
       "id": "d482f4a0d91e",
@@ -602,44 +480,23 @@
       "publishedRaw": "Wed, 02 Sep 2026 07:52:10 GMT"
     },
     {
-      "id": "03ec8271634c",
-      "source": "BBC Brasil",
+      "id": "a2ceb7ceaba2",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
-      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+      "category": "Política",
+      "title": "Cury avança, Lula e Flávio empatam no 2º turno: 10 pontos da nova Quaest",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/10-pontos-da-nova-pesquisa-quaest.ghtml",
+      "summary": "Montagem de fotos com os candidatos Lula (PT), Flávio Bolsonaro (PL) e Augusto Cury (Avante).\nManoella Mello/Globo\nPesquisa Quaest divulgada nesta quarta-feira (2) sobre a eleição presidencial mostra que Lula (PT) lidera com 37%, Flávio Bolsonaro (PL) tem 29% e Augusto Cury (Avante) agora é o terceiro colocado, com 10%.\nA nova pesquisa nacional Quaest, contratada pela Globo e pelo jornal O Globo e divulgada nesta quarta-feira (2), mostra a corrida pelo Palácio do Planalto em 2026 e consolida tendências importantes sobre a opinião do eleitor brasileiro a cerca de um mês do primeiro turno.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nConfira dez pontos da última pesquisa Quaest:\nCury se isola em 3º e deixa para trás Renan, Caiado e Zema\nEntre independentes, Cury tem 24% e lidera numericamente\nNa pesquisa espontânea, percentual de indecisos cai\nLula e Flávio empatados tecnicamente no 2º turno\nLula e Flávio lideram rejeição; potencial de voto em Cury cresce\nMudança na convicção do voto\nAprovação de Lula fica numericamente abaixo da desaprovação\nCasos Lulinha e Dark Horse afetam candidatos, diz maioria\n62% dizem estar pouco ou nada interessados na eleição\n45% priorizam propostas na decisão do voto\nQuaest, 1º turno: Lula, 37%; Flávio Bolsonaro, 29%; Cury, 10%; Renan, 3%; Caiado, 1%; Zema, 1%\nCury se isola em 3º e deixa para trás Renan, Caiado e Zema\nNo cenário estimulado do primeiro turno, o escritor Augusto Cury (Avante) alcança 10% das intenções de voto e assume a terceira colocação. \nEle deixa para trás adversários tradicionais da chamada terceira via, como Renan Santos (Missão), que pontua com 3%, além de Ronaldo Caiado (PSD) e Romeu Zema (Novo), que registram 1% cada. \nQuaest, 1º turno para presidente. Cenário sem Pablo Marçal\nArte/g1\nO patamar de Cury (10%) se repete tanto no cenário sem Pablo Marçal quanto na simulação que inclui o candidato do PRTB.\nLEIA TAMBÉM: Veja o desempenho de Augusto Cury por segmentos do eleitorado\nEntre independentes, Cury tem 24% e lidera numericamente\nSegundo o diretor da Quaest, Felipe Nunes, a explicação para a ascensão do candidato do Avante está no seu desempenho junto ao segmento descolado da polarização. Entre os eleitores que se declaram independentes, Augusto Cury alcança 24% das intenções de voto, superando numericamente o presidente Lula (23%) e o senador Flávio Bolsonaro (11%).\nVeja análise da pesquisa Quaest pelo professor Felipe Nunes\nPesquisa Quaest divulgada nesta quarta-feira (2) 2/20\nQuaest/Reprodução\nNa pesquisa espontânea, percentual de indecisos cai\nCom o início oficial da propaganda no rádio e na TV e a repercussão das sabatinas, o índice de indecisos recuou. No cenário espontâneo, em que o entrevistador não apresenta uma lista de candidatos, a parcela dos que ainda não sabem em quem votar caiu de 51% para 42%.\nNesse cenário, Lula lidera com 28% das intenções de voto, seguido por Flávio Bolsonaro, com 20%, e Cury, com 4%.\nLula e Flávio empatados tecnicamente no 2º turno\nEm uma eventual disputa de segundo turno, Lula registra 42% das intenções de voto, contra 41% de Flávio Bolsonaro, em empate técnico dentro da margem de erro de dois pontos percentuais.\nA distância entre os dois, que já foi de três pontos em meados de agosto, encolheu para apenas um ponto.\nIntenção de voto no 2º turno, Lula x Flávio Bolsonaro\nArte/g1\nLula e Flávio lideram rejeição, e potencial de voto em Cury cresce\nFlávio Bolsonaro lidera a rejeição, com 55% dos eleitores dizendo que não votariam nele de jeito nenhum. Lula aparece logo atrás, com 53%.\nCury, por outro lado, tem rejeição de 25%, enquanto a parcela dos eleitores que dizem conhecê-lo e que votariam nele mais que dobrou, passando de 10% para 21%.\nRejeição dos candidatos para presidente em 2026\nArte/g1\nMudança na convicção do voto\nOs eleitores de Lula (80%) e Flávio (75%) demonstram alto grau de convicção e dizem que o voto é definitivo. Entre os candidatos alternativos, porém, o cenário é mais instável.\nA maioria dos eleitores de Ronaldo Caiado (58%) e Renan Santos (57%) afirma que ainda pode mudar de candidato até o dia da eleição.\nAprovação de Lula fica numericamente abaixo da desaprovação\nDiante de um cenário eleitoral marcado por equilíbrio, a avaliação do governo ajuda a explicar as dificuldades de Lula. A desaprovação ao trabalho do presidente se manteve em 48%, enquanto a aprovação oscilou de 46% para 45% em relação a meados de agosto.\nSegundo o diretor da Quaest, uma das explicações para esse desempenho está na percepção sobre a economia, especialmente na relação entre renda e custo de vida. Nunes afirma que, apesar de medidas como o Desenrola e a ampliação da isenção do Imposto de Renda, a melhora ainda não é percebida pela maior parte da população.\n\"No Brasil, o dilema do affordability permanece. Apenas 10% dos brasileiros percebem hoje um aumento de renda maior do que seu custo de vida. O resto, ou teve aumento de renda, mas não teve melhora no patamar de vida, ou viu sua renda estável ou menor. Nem o Desenrola e a isenção do imposto de renda mudaram essa percepção negativa.\"\nAprovação do governo Lula\nArte/g1\nCasos Lulinha e Dark Horse afetam candidatos, diz maioria\nSegundo a Quaest, as investigações sobre o financiamento do filme \"Dark Horse\" e sobre o suposto tráfico de influência em órgãos federais envolvendo o filho do presidente Lula tiveram impacto na imagem dos dois lados da disputa.\nPara 65% dos entrevistados, o caso Lulinha prejudica Lula — 40% avaliam que prejudica muito e 25%, um pouco.\nQuaest: A investigação sobre Lulinha prejudica a campanha de Lula?\nArte/g1\nDe forma semelhante, 64% avaliam que o inquérito sobre irregularidades no financiamento do filme \"Dark Horse\", que apura a relação de Flávio Bolsonaro com o banqueiro Daniel Vorcaro, prejudica o senador. Outros 42% dizem que prejudica muito e 22%, um pouco.\nQuaest: Investigação sobre Dark Horse prejudica a campanha de Flávio Bolsonaro?\nArte/g1\n62% dizem estar pouco ou nada interessados na eleição\nApesar da proximidade da eleição, a população brasileira demonstra desinteresse com o processo eleitoral. De acordo com o levantamento Quaest, um contingente de 62% dos cidadãos afirma estar pouco ou nada interessado no pleito presidencial deste ano.\nInteresse na eleição presidencial\nArte/g1\nO interesse na eleição varia conforme a identificação política. Entre os lulistas, 50% dizem estar muito interessados. Entre bolsonaristas, são 45%. Na esquerda não lulista, 40%, e na direita não bolsonarista, 39%.\n45% priorizam propostas na decisão do voto\nAo serem questionados sobre qual fator consideram o mais determinante no momento de escolher o seu candidato na urna, as propostas de governo aparecem no topo das prioridades do eleitor brasileiro. \nCerca de 45% dos entrevistados apontam que o plano e as propostas apresentadas pelos candidatos são o elemento mais importante para a definição de seu voto presidencial.\nO que mais pesa na decisão de voto para presidente\nArte/g1",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
         "Estadão",
-        "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
-      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
-    },
-    {
-      "id": "eec2e9107479",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+      "score": 80,
+      "publishedRaw": "Thu, 03 Sep 2026 03:01:50 -0000"
     },
     {
       "id": "1a1172998e21",
@@ -660,6 +517,25 @@
       "publishedRaw": "Thu, 03 Sep 2026 01:06:46 +0000"
     },
     {
+      "id": "397720d02e95",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Assista: Vorcaro quer delatar pessoas do governo Lula; Estadão analisa desdobramentos do caso",
+      "link": "https://www.estadao.com.br/politica/o-que-revelam-os-dialogos-de-vorcaro-e-moraes-estadao-analisa-ao-vivo-assista/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 20:13:07 +0000"
+    },
+    {
       "id": "ca8662472fc1",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -676,6 +552,63 @@
       ],
       "score": 80,
       "publishedRaw": "Thu, 03 Sep 2026 02:37:50 +0000"
+    },
+    {
+      "id": "b0e9913c9f6b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio critica Lula por silêncio sobre caso Moraes e Vorcaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-critica-lula-por-silencio-sobre-caso-moraes-e-vorcaro/",
+      "summary": "Candidato disse não saber quem governa o Brasil e afirmou que petista tem \"rabo preso\" com o STF por causa da Lava Jato",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 03 Sep 2026 02:09:36 +0000"
+    },
+    {
+      "id": "71e0e7d035ba",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula publica vídeo com críticas a Flávio: “Trabalha na escala 3 X 4”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-publica-video-com-criticas-a-flavio-trabalha-na-escala-3-x-4/",
+      "summary": "\"Quem é contra o trabalhador não merece representar o povo brasileiro\", afirma o petista em publicação nas redes sociais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 03 Sep 2026 01:31:29 +0000"
+    },
+    {
+      "id": "a8834b9d7f88",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula intensifica campanha com 7 atos em 10 dias e foco no Sul",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-intensifica-campanha-com-7-atos-em-10-dias-e-foco-no-sul/",
+      "summary": "Petista inicia maratona com retorno ao Ceará na 6ª feira (4.set) e encerra o tour em Santa Catarina, em 13 de setembro",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 02 Sep 2026 23:55:45 +0000"
     },
     {
       "id": "986b7545cba9",
@@ -733,6 +666,44 @@
       "publishedRaw": "Thu, 03 Sep 2026 03:01:23 -0000"
     },
     {
+      "id": "03ec8271634c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
+      "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "No TikTok, número atribuído a Moraes em relatório da PF aparece vinculado a um perfil identificado como 'Xandao, mostra investigação da BBC",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 76,
+      "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
+    },
+    {
+      "id": "eec2e9107479",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "summary": "Christopher Garman, da Eurasia, avalia que o efeito das mensagens tende a ser negativo para Lula diante de um 'pessimismo' do eleitor e positivo para candidatos da direita ao Senado que defendem impeachment de ministros do STF.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 76,
+      "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
+    },
+    {
       "id": "0d62bbb87840",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -748,6 +719,23 @@
       ],
       "score": 72,
       "publishedRaw": "Wed, 02 Sep 2026 19:18:22 -0000"
+    },
+    {
+      "id": "bec1a430f474",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Candidato corre 42 km ao redor do TSE contra suspensão de campanha",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/candidato-corre-42-km-ao-redor-do-tse-contra-suspensao-de-campanha/",
+      "summary": "Wilson Grassi fez maratona em protesto à decisão de Dias Toffoli, que suspendeu suas contas e verbas eleitorais",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 68,
+      "publishedRaw": "Thu, 03 Sep 2026 02:59:58 +0000"
     },
     {
       "id": "5a3515010312",
