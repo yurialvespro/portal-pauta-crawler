@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:44:23.883144+00:00",
+  "generated_at": "2026-09-04T09:15:53.060971+00:00",
   "items": [
     {
       "id": "a66b4442dee7",
@@ -16,10 +16,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 89,
+      "score": 85,
       "publishedRaw": "Thu, 03 Sep 2026 23:25:59 -0000"
     },
     {
@@ -37,10 +36,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 89,
+      "score": 85,
       "publishedRaw": "Fri, 04 Sep 2026 00:05:40 +0000"
     },
     {
@@ -118,46 +116,6 @@
       ],
       "score": 84,
       "publishedRaw": "04 Sep 2026 00:46:00 -0300"
-    },
-    {
-      "id": "1286180dc809",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml",
-      "summary": "Nova rodada do Datafolha divulgada nesta quinta (3) mostra a preservação dos principais redutos eleitorais do presidente Lula (PT) e do senador Flávio Bolsonaro (PL).\nLeia mais (09/04/2026 - 00h17)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "04 Sep 2026 00:17:00 -0300"
-    },
-    {
-      "id": "4dd1e4874ecc",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Revista em presídio do RJ localiza 30 celulares com presos do Terceiro Comando Puro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/revista-em-presidio-do-rj-localiza-30-celulares-com-presos-do-terceiro-comando-puro.shtml",
-      "summary": "Chefes e integrantes do TCP (Terceiro Comando Puro) foram alvo, nesta quinta-feira (3), de mais uma etapa da Operação Illicitus, ação da Seppen (Secretaria Estadual de Polícia Penal) contra a entrada de celulares e drogas nos presídios fluminenses.\nLeia mais (09/03/2026 - 23h05)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "03 Sep 2026 23:05:00 -0300"
     },
     {
       "id": "5d4b446a936f",
@@ -312,26 +270,6 @@
       "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
-      "id": "ea66b637fda6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF diz que Mendonça desconfiava de Andrei por proximidade com Lula",
-      "link": "https://www.poder360.com.br/poder-justica/pf-diz-que-mendonca-desconfiava-de-andrei-por-proximidade-com-lula/",
-      "summary": "Relatório enviado a Moraes afirma que ministro chegou a mencionar procedimento para eventual afastamento do diretor-geral; agentes falam em “imputações genéricas”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 04 Sep 2026 03:03:40 +0000"
-    },
-    {
       "id": "5cde61c46fc9",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -372,6 +310,25 @@
       "publishedRaw": "Thu, 03 Sep 2026 22:18:11 +0000"
     },
     {
+      "id": "1286180dc809",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-mantem-dianteira-entre-nordestinos-e-flavio-entre-sulistas-cury-avanca-entre-jovens.shtml",
+      "summary": "Nova rodada do Datafolha divulgada nesta quinta (3) mostra a preservação dos principais redutos eleitorais do presidente Lula (PT) e do senador Flávio Bolsonaro (PL).\nLeia mais (09/04/2026 - 00h17)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "04 Sep 2026 00:17:00 -0300"
+    },
+    {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -385,10 +342,9 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Thu, 03 Sep 2026 22:43:31 GMT"
     },
     {
@@ -405,10 +361,9 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
     },
     {
@@ -425,10 +380,9 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
@@ -585,21 +539,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 03 Sep 2026 22:48:02 +0000"
-    },
-    {
-      "id": "46a8dd4e2e84",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Renan Santos diz que Cury é sócio de empresa que tentou comprar Master",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-cury-e-socio-de-empresa-que-tentou-comprar-master/",
-      "summary": "Candidato do Missão postou vídeo ligando políticos e ministros a Daniel Vorcaro, fundador do caso Master",
-      "tags": [
-        "Renan Santos"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Fri, 04 Sep 2026 02:47:14 +0000"
     },
     {
       "id": "ce8b46d57cb3",
