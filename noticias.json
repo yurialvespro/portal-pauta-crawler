@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:14:33.466546+00:00",
+  "generated_at": "2026-09-04T22:40:10.995099+00:00",
   "items": [
     {
       "id": "98b7348e146c",
@@ -90,6 +90,28 @@
       "publishedRaw": "04 Sep 2026 19:01:00 -0300"
     },
     {
+      "id": "9cbba0caea09",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaristas usarão crise no STF para engajar campanha de Flávio no 7/9",
+      "link": "https://www.cnnbrasil.com.br/politica/bolsonaristas-usarao-crise-no-stf-para-engajar-campanha-de-flavio-no-7-9/",
+      "summary": "Grupos bolsonaristas apostam que tensão no STF pode ampliar engajamento nos atos do feriado e impulsionar campanha de Flávio Bolsonaro",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Fri, 04 Sep 2026 22:11:01 +0000"
+    },
+    {
       "id": "5a1b14ec4daf",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -132,28 +154,6 @@
       ],
       "score": 90,
       "publishedRaw": "Fri, 04 Sep 2026 21:13:33 +0000"
-    },
-    {
-      "id": "88b2b4211512",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news",
-      "link": "https://www.estadao.com.br/politica/fachin-diz-que-nao-havera-omissao-sobre-crise-no-stf-e-defende-fim-do-inquerito-das-fake-news/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Fri, 04 Sep 2026 14:51:57 +0000"
     },
     {
       "id": "5abe3904a7b5",
@@ -396,6 +396,44 @@
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
     },
     {
+      "id": "91683ce319ee",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Risco Brasil cai ao menor nível do 3º mandato de Lula",
+      "link": "https://www.poder360.com.br/poder-economia/risco-brasil-cai-ao-menor-nivel-do-3o-mandato-de-lula/",
+      "summary": "Indicador recuou para 115,6 pontos nesta 6ª feira e está abaixo do nível registrado há 1 ano",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 04 Sep 2026 22:38:17 +0000"
+    },
+    {
+      "id": "0514b4ab2fc7",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "7 de Setembro de Lula terá Zé Gotinha, Copa Feminina e Esquadrilha",
+      "link": "https://www.poder360.com.br/poder-governo/7-de-setembro-de-lula-tera-ze-gotinha-copa-feminina-e-esquadrilha/",
+      "summary": "Evento será moderado para evitar questionamentos do TSE em ano eleitoral; governo gastará R$ 5,74 mi com o desfile",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 04 Sep 2026 22:31:57 +0000"
+    },
+    {
       "id": "97f730fe4e3a",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -413,63 +451,6 @@
       ],
       "score": 80,
       "publishedRaw": "Fri, 04 Sep 2026 21:49:23 +0000"
-    },
-    {
-      "id": "8265a1e0a7b9",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 54,6% ante 30,1% de Flávio no 2º turno no Ceará, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-546-ante-301-de-flavio-no-2o-turno-no-ceara-diz-pesquisa/",
-      "summary": "AtlasIntel ouviu 1.834 eleitores, via recrutamento digital aleatório; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 04 Sep 2026 21:37:28 +0000"
-    },
-    {
-      "id": "2bb0453b9b4d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula defende reformas no Judiciário, mas programa não detalha mudanças",
-      "link": "https://www.poder360.com.br/poder-governo/lula-defende-reformas-no-judiciario-mas-programa-nao-detalha-mudancas/",
-      "summary": "Presidente afirmou, nesta 6ª feira (4.set), que discussão é necessária para que “povo possa continuar acreditando na Justiça”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 04 Sep 2026 21:25:38 +0000"
-    },
-    {
-      "id": "2bfc176e93a2",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Camilo foi o melhor na Educação e pode ser o que quiser, diz Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/camilo-foi-o-melhor-na-educacao-e-pode-ser-o-que-quiser-diz-lula/",
-      "summary": "Presidente é questionado sobre chances do senador cearense nacionalmente; afirma que é necessário “acostumar pessoas a serem lideranças nacionais”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 04 Sep 2026 20:54:53 +0000"
     },
     {
       "id": "de21f7e548f2",
@@ -618,22 +599,21 @@
       "publishedRaw": "Fri, 04 Sep 2026 20:43:08 -0000"
     },
     {
-      "id": "6575d4f9c0d2",
-      "source": "Poder360",
+      "id": "66ce90aa0570",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Poder360 divulga gratuitamente campanha institucional do TSE",
-      "link": "https://www.poder360.com.br/poder360/poder360-divulga-gratuitamente-campanha-institucional-do-tse/",
-      "summary": "Peça publicitária do tribunal tem as principais informações das eleições 2026; anúncios serão divulgados até eventual 2º turno",
+      "title": "Nikolas Ferreira é atingido por ovo durante ato de campanha em Lagoa Santa",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nikolas-ferreira-e-atingido-por-ovo-durante-ato-de-campanha-em-lagoa-santa/",
+      "summary": "O deputado federal e seus apoiadores foram alvos de pelo menos três ovos",
       "tags": [
-        "TSE"
+        "Nikolas Ferreira"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
+        "BBC Brasil"
       ],
-      "score": 73,
-      "publishedRaw": "Fri, 04 Sep 2026 21:24:39 +0000"
+      "score": 70,
+      "publishedRaw": "Fri, 04 Sep 2026 22:27:39 +0000"
     },
     {
       "id": "3c13f80d10ee",
@@ -661,8 +641,10 @@
       "tags": [
         "Nikolas Ferreira"
       ],
-      "crossOutlets": [],
-      "score": 62,
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 66,
       "publishedRaw": "Thu, 03 Sep 2026 19:16:46 GMT"
     },
     {
@@ -724,6 +706,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 04 Sep 2026 19:13:48 -0000"
+    },
+    {
+      "id": "f94ee74345e8",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Amazon edita 'Tremembé' para tirar anônimos de episódio sobre a família Nardoni",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/amazon-edita-tremembe-para-tirar-anonimos-de-episodio-sobre-a-familia-nardoni.shtml",
+      "summary": "Sem fazer muito alarde, a Amazon reeditou o quinto episódio da primeira temporada da série \"Tremembé\". O motivo foram processos movidos por anônimos devido a uma cena que envolvia os personagens que representavam Alexandre Nardoni (Lucas Oradovschi) e Anna Carolina Jatobá (Bianca Comparato).\nLeia mais (09/04/2026 - 19h27)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "04 Sep 2026 19:27:00 -0300"
     }
   ]
 }
