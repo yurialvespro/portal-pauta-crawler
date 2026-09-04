@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:12:28.869290+00:00",
+  "generated_at": "2026-09-04T01:41:28.975493+00:00",
   "items": [
     {
       "id": "fabe08e43e3d",
@@ -16,12 +16,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 03 Sep 2026 22:14:26 -0000"
     },
     {
@@ -39,12 +38,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 03 Sep 2026 22:02:04 -0000"
     },
     {
@@ -62,12 +60,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 03 Sep 2026 22:02:03 -0000"
     },
     {
@@ -85,12 +82,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 03 Sep 2026 22:23:43 +0000"
     },
     {
@@ -138,6 +134,26 @@
       "publishedRaw": "Fri, 04 Sep 2026 00:05:40 +0000"
     },
     {
+      "id": "5043cc16ce26",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise escala no STF, e aliados de Mendonça veem ofensiva de Moraes para tirá-lo da relatoria do Master",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/crise-stf-mendonca-moraes-relatoria-master.ghtml",
+      "summary": "André Mendonça e Alexandre de Moraes durante sessão plenária do STF\nAntonio Augusto/STF\nA crise provocada pelo Caso Master escalou para um patamar sem precedentes dentro do Supremo. Nos bastidores, ministros avaliam que o próximo movimento está agora nas mãos do presidente da Corte, Edson Fachin: caberá a ele definir o encaminhamento da crise e, sobretudo, se a discussão será levada ao plenário.\nFachin determinou nesta quinta-feira (3) que Alexandre de Moraes, André Mendonça, Paulo Gonet e o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, prestem esclarecimentos em até cinco dias. A decisão veio no mesmo dia em que Moraes pediu a abertura de investigação contra Mendonça. \n📱 Acesse o Canal da Sadi no WhatsApp\nInterlocutores que conhecem Moraes no tribunal dizem que, desde que Mendonça decidiu levantar o sigilo do material da Polícia Federal, já esperavam uma reação do ministro. A avaliação era de que Moraes não deixaria o movimento sem resposta.\nAgora, aliados de Mendonça enxergam um objetivo final na ofensiva de Moraes: criar as condições para retirá-lo da relatoria das investigações do Banco Master.\nAlexandre de Moraes pede investigação de André Mendonça\nOutro foco de atenção dentro da Corte é o procurador-geral da República, Paulo Gonet. Citado no material da PF, Gonet já pediu a anulação do relatório e sustentou que Mendonça extrapolou suas atribuições ao determinar diligências — sob o argumento de que não cabe ao juiz investigar na fase pré-processual. ⁠\nA pergunta que circula agora nos bastidores é qual será o próximo movimento do procurador-geral diante do conteúdo revelado: Gonet defenderá alguma investigação dos fatos ou manterá sua posição pela nulidade do material? Vai delegar para um sub-procurador, já que ele é citado no material?\nÉ nesse ambiente que a disputa deixou de ser apenas sobre o conteúdo do caso Master. Passou a envolver também quem pode investigar quem, quem deve conduzir a apuração e qual será a instância responsável por decidir o destino das suspeitas.\nNa visão de aliados de Mendonça, a batalha pela relatoria tornou-se parte central dessa guerra.\nLEIA TAMBÉM\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nRelação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as revelações do relatório da PF\nRelação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório da PF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 01:26:42 -0000"
+    },
+    {
       "id": "59e3649b973e",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -178,13 +194,13 @@
       "publishedRaw": "03 Sep 2026 21:27:00 -0300"
     },
     {
-      "id": "9284e7392862",
+      "id": "f979c8444d1e",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF",
-      "link": "https://www.cnnbrasil.com.br/politica/moraes-acusa-mendonca-de-perseguir-alcolumbre-e-outros-ministros-do-stf/",
-      "summary": "Ministro escreveu que o senador seria \"alvo estratégico\" pelo poder político e prerrogativa abrir processo de impeachment contra integrantes do Supremo",
+      "title": "PF insinua que Mendonça atua para mudar correlação de forças no STF",
+      "link": "https://www.cnnbrasil.com.br/politica/pf-insinua-que-mendonca-atua-para-mudar-correlacao-de-forcas-no-stf/",
+      "summary": "Relatório sigiloso, ao qual a CNN teve acesso, destaca que ministro não confia em Andrei Rodrigues",
       "tags": [
         "STF"
       ],
@@ -195,7 +211,27 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 23:59:25 +0000"
+      "publishedRaw": "Fri, 04 Sep 2026 01:17:35 +0000"
+    },
+    {
+      "id": "fa9399c81dd5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: O que representam para o STF as denúncias de Moraes a Mendonça?",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-o-que-representam-para-o-stf-as-denuncias-de-moraes-a-mendonca/",
+      "summary": "Usando o inquérito das Fake News, Alexandre de Moraes pede a Fachin que abra ação contra André Mendonça por três crimes",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 00:54:33 +0000"
     },
     {
       "id": "21abcc35b618",
@@ -262,7 +298,7 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Moraes acusa Mendonça de 'motivação política' e pede investigação sobre colega de STF",
+      "title": "Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da crise na Corte",
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
       "summary": "Em novo capítulo da crise na Corte, o presidente do STF Edson Fachin pediu esclarecimentos aos ministros Alexandre de Moraes e André Mendonça; enquanto isso, Moraes pediu formalmente a inclusão de Mendonça no chamado Inquérito das Fake News.",
       "tags": [
@@ -275,7 +311,7 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 01:11:21 GMT"
+      "publishedRaw": "Fri, 04 Sep 2026 01:21:22 GMT"
     },
     {
       "id": "f4073a6d2e38",
@@ -318,6 +354,27 @@
       "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
+      "id": "5cde61c46fc9",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos defende discutir nova Constituição como resposta à crise no STF",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-crise-stf-nova-constituicao.ghtml",
+      "summary": "Renan Santos faz pronunciamento após ter campanha digital suspensa pelo TSE\nReprodução\nCandidato do Missão à Presidência da República, Renan Santos defendeu que seja discutida uma nova Constituição como resposta à crise institucional que ocorre no Supremo Tribunal Federal.\n\"O Brasil precisa começar a discutir, não necessariamente executar, mas precisamos discutir já, uma nova Constituição. Porque, da maneira como está, a institucionalidade brasileira acabou. O pacto de 1988, do nosso livrinho, da nossa Constituição, ele acabou\", disse Renan durante entrevista à CNN Brasil.\nNesta quinta-feira (3), o ministro Alexandre de Moraes pediu ao presidente da Corte, Edson Fachin, a abertura de investigação contra André Mendonça. Um dia antes, na quarta (2), Mendonça retirou o sigilo de parte da investigação do Banco Master, o que inclui conversas de Daniel Vorcaro com um número atribuído a Moraes.\nComo resposta, o Fachin deu cinco dias para que Moraes, Mendonça, a Procuradoria-Geral da República (PGR) e a Polícia Federal (PF) prestem esclarecimentos sobre investigações ligadas ao Master e à crise da Corte.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nAlexandre de Moraes pede investigação de André Mendonça\nRenan Santos criticou Moraes por usar o inquérito das Fake News para pedir investigação contra Mendonça. A investigação se estende há mais de sete anos e tem sido criticada por não ter prazo final estipulado.\n\"Ele tem um inquérito que é dele e ele pode colocar e tirar pessoas no inquérito de acordo com a vontade dele para punir essas pessoas\", disse Renan, ao citar que a ação ocorre \"no momento em que ele está sendo investigado no maior escândalo de corrupção na história do Brasil\".\nAlém de atacar Moraes, o candidato do Missão defendeu que o próximo presidente não respeite decisões tomadas pelo ministro e por Dias Toffoli, também do STF.\n\"Têm que ser nulas e não reconhecidas quaisquer decisões que venham desses dois ministros. Por quê? Porque todas as ações deles são endereçadas a proteger o Daniel Vorcaro e esse escândalo de corrupção bizarro\", afirmou, ao tratar do Caso Master.\nLEIA TAMBÉM\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nRelação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as revelações do relatório da PF\nRelação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório da PF\nPGR diz que é nula investigação ordenada por Mendonça que apontou relação Moraes-Vorcaro\nInvestigação da PF aponta proximidade entre Vorcaro e Gonet, da PGR",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 04 Sep 2026 01:13:53 -0000"
+    },
+    {
       "id": "6caf2fd8662a",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -351,12 +408,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 03 Sep 2026 22:04:19 -0000"
     },
     {
@@ -372,12 +428,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "03 Sep 2026 21:30:00 -0300"
     },
     {
@@ -393,76 +448,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "03 Sep 2026 21:15:00 -0300"
     },
     {
-      "id": "059b87e16af8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula pede investigação “doa a quem doer” e reformas profundas no Judiciário",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pede-investigacao-doa-a-quem-doer-e-reformas-profundas-no-judiciario/",
-      "summary": "Campanha de Lula admite impacto de caso Moraes às eleições e recalibra reação – mas ainda sem citar ministro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 04 Sep 2026 00:07:15 +0000"
-    },
-    {
-      "id": "5f28a7c77e88",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas: no Piauí, Lula lidera todos os cenários de 1º e 2º turnos",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-piaui-lula-lidera-todos-os-cenarios-de-1o-e-2o-turnos/",
-      "summary": "Pesquisa ouviu 1.622 eleitores piauienses entre os dias 28 de agosto e 2 de setembro; margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 03 Sep 2026 23:59:17 +0000"
-    },
-    {
-      "id": "1bd3c2ca1a83",
+      "id": "cd34f48474b1",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Sem citar Moraes, Lula defende investigação do Master “doa a quem doer”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/sem-citar-moraes-lula-defende-investigacao-do-master-doa-a-quem-doer/",
-      "summary": "Presidente diz haver suspeitas de “políticos e agentes públicos envolvidos” e critica \"vazamentos seletivos\" de inquéritos; cobra que STF e PGR liderem o processo",
+      "title": "Com 51% das intenções de voto, Lula ganharia no 1º turno na Paraíba",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-51-das-intencoes-de-voto-lula-ganharia-no-1o-turno-na-paraiba/",
+      "summary": "Levantamento da AtlasIntel mostra Flávio Bolsonaro com 28,1% dos votos; margem de erro é de 3 pontos percentuais",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Fri, 04 Sep 2026 00:13:08 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 04 Sep 2026 01:20:03 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -476,13 +487,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 03 Sep 2026 22:43:31 GMT"
     },
     {
@@ -497,13 +507,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
     },
     {
@@ -518,13 +527,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
@@ -540,29 +548,10 @@
         "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Thu, 03 Sep 2026 18:31:19 +0000"
-    },
-    {
-      "id": "408de432455d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina",
-      "link": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-doacoes-a-tarcisio-e-bolsonaro-foram-propina/",
-      "summary": "Segundo reportagem do \"Uol\", fundador do Banco Master declarou que repasse de R$ 5 mi foi contrapartida negociada com Gilberto Kassab; proposta de delação foi rejeitada",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
         "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "Fri, 04 Sep 2026 00:09:27 +0000"
+      "score": 76,
+      "publishedRaw": "Thu, 03 Sep 2026 18:31:19 +0000"
     },
     {
       "id": "7c6538d16a9e",
@@ -614,21 +603,6 @@
       "crossOutlets": [],
       "score": 71,
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
-    },
-    {
-      "id": "5bda43814d51",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/03/fim-da-6x1-alcolumbre-indica-que-proposta-que-reduz-jornada-de-trabalho-sera-votada-apos-as-eleicoes.ghtml",
-      "summary": "O presidente do Senado Davi Alcolumbre (União-AP) afirmou nesta quinta-feira (3) que a Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1 será votada após as eleições deste ano.\nA afirmação foi feita em resposta ao senado Paulo Paim (PT-RS), que fez uma fala em tom de despedida do Senado Federal, já que não concorrerá mais a cargos públicos.\n\"Aproveito essa oportunidade que o senador Paulo Paim está na mesa, veio me dar um abraço, para dizer para vossa excelência e pro Brasil, que a vossa excelência estará aqui votando, após as eleições, o fim da escala 6x1 no plenário do Senado Federal\".\nAgora no g1\nA senadora Teresa Leitão (PT-PE), líder do governo, disse ao g1 que a votação deve acontecer antes de um eventual segundo turno, previsto para o dia 25 de outubro.\nA proposta foi aprovada pela Comissão de Constituição e Justiça (CCJ) do Senado nesta semana e já havia sido aprovada pelo plenário da Câmara dos Deputados. Agora, a PEC precisa ser votada e aprovada em mais dois turnos pelo Plenário do Senado.\nA proposta estabelece uma jornada máxima de 40 horas semanais, distribuídas em cinco dias de trabalho e dois dias de descanso, sem redução de salário. (veja detalhes abaixo)\n➡️ O que é a escala 6x1? É um modelo de jornada de trabalho em que o empregado atua por seis dias consecutivos e tem direito a um dia de folga.\nO relator da proposta que acaba com a escala 6x1, senador Omar Aziz (PSD-AM), rejeitou todas as emendas apresentadas ao texto. Ao todo, 36 emendas foram debatidas durante a análise da matéria na CCJ do Senado.\nNo total, 27 senadores estavam presentes. Desses, quatro votaram contra. Antes da votação, o presidente da CCJ, Otto Alencar (PSD-BA), concedeu o prazo de uma hora para a análise do texto. A medida atendeu a um pedido de parlamentares da oposição, que defendiam um prazo maior para avaliar o relatório.\nPresidente do Senado, Davi Alcolumbre (União-AP)\nCarlos Moura/Agência Senado\nFim da 6x1\nA Proposta de Emenda à Constituição (PEC) do fim da 6x1 estipula uma jornada semanal de 40 horas de trabalho – atualmente, são 44 horas. Com a nova escala, seriam mantidos os limites de 8 horas diárias de trabalho.\nA grande mudança é garantir que os trabalhadores tenham dois dias de descanso semanal sem a possibilidade de redução salarial. Preferencialmente, um desses dias deve ser o domingo.\nPara que os trabalhadores brasileiros cheguem às 40 horas semanais com dois dias livres haverá um período de transição. Se aprovada, a PEC deve seguir a seguinte cronologia:\nem dois meses, redução da jornada semanal para 42 horas, com dois dias de repouso semanal remunerado;\nem um ano após esses dois meses, redução da jornada semanal para 40 horas.\nA mudança não será aplicada para trabalhadores com ensino superior que ganhem por mês mais de 2,5 vezes o teto do INSS, ou seja, quem ganhe mais de R$ 21.188 por mês.\nNegociação com Alcolumbre\nSenadores aliados do presidente Luiz Inácio Lula da Silva (PT) pressionam Alcolumbre para que a votação em plenário em dois turnos seja ainda nesta semana. O presidente do Senado, no entanto, evitou se comprometer com uma data para a análise.\nA PEC do fim da 6x1 foi destravada no Congresso depois de quase três meses parada no Senado com a reaproximação de Lula e Alcolumbre.\nOs dois políticos se afastaram depois da indicação do presidente e subsequente negativa do Senado ao nome de Jorge Messias para uma vaga no STF. Foi a primeira vez que isso ocorreu desde 1894.\nFoi só em agosto, na véspera da campanha eleitoral, que eles retomaram o diálogo. E o acordo veio em seguida: Alcolumbre enviou a PEC para análise na CCJ e garantiu a votação na comissão durante essa semana, a última de votações antes da eleição.\nAgora, aliados de Lula querem a votação final ainda nesta semana. Caso o parecer de Aziz seja o aprovado pelo plenário do Senado, o texto não precisará retornar para a Câmara, já que não terá sofrido modificações. Dessa forma, poderá ser promulgado pelo Congresso.\nUma PEC precisa ser aprovada na CCJ e depois seguir para votação em dois turnos no plenário do Senado. Após a votação em primeiro turno, deve-se esperar cinco dias úteis para a votação em segundo turno.\ngrafico\ng1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [],
-      "score": 69,
-      "publishedRaw": "Thu, 03 Sep 2026 21:06:20 -0000"
     },
     {
       "id": "ce8b46d57cb3",
@@ -714,6 +688,21 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Thu, 03 Sep 2026 21:48:57 -0000"
+    },
+    {
+      "id": "2922022cf87e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Pacto de 1988 acabou’: Renan Santos defende nova Constituição ao tratar da crise no Judiciário",
+      "link": "https://www.estadao.com.br/politica/eleicoes/pacto-de-1988-acabou-renan-santos-defende-nova-constituicao-ao-tratar-da-crise-no-judiciario/",
+      "summary": "",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Fri, 04 Sep 2026 01:15:40 +0000"
     },
     {
       "id": "073b4684bb4e",
