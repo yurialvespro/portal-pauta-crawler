@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:17:31.284546+00:00",
+  "generated_at": "2026-09-04T08:44:23.883144+00:00",
   "items": [
     {
       "id": "a66b4442dee7",
@@ -15,12 +15,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Thu, 03 Sep 2026 23:25:59 -0000"
     },
     {
@@ -37,12 +36,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 00:05:40 +0000"
     },
     {
@@ -58,11 +56,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 89,
+      "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 01:26:42 -0000"
     },
     {
@@ -78,11 +75,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 89,
+      "score": 84,
       "publishedRaw": "Thu, 03 Sep 2026 23:41:17 -0000"
     },
     {
@@ -98,11 +94,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 84,
       "publishedRaw": "04 Sep 2026 05:00:00 -0300"
     },
     {
@@ -118,234 +113,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 84,
       "publishedRaw": "04 Sep 2026 00:46:00 -0300"
-    },
-    {
-      "id": "91e14c08cda0",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF fixa R$ 5 mil como novo teto de renda para Justiça gratuita",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-fixa-r-5-mil-como-novo-teto-de-renda-para-justica-gratuita/",
-      "summary": "Corte também derrubou regra do TST que admitia autodeclaração de pobreza e estendeu o novo critério a todos os ramos do Judiciário",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 04:38:55 +0000"
-    },
-    {
-      "id": "5d4b446a936f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zema afirma que Senado está ‘acovardado’ diante de crise no STF e defende saída do Brasil dos Brics",
-      "link": "https://www.estadao.com.br/politica/eleicoes/zema-afirma-que-senado-esta-acovardado-diante-de-crise-no-stf-e-defende-saida-do-brasil-dos-brics/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
-    },
-    {
-      "id": "78a5c8c21f65",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF: veja a repercussão política após Moraes pedir a Fachin investigação contra Mendonça",
-      "link": "https://www.estadao.com.br/politica/crise-no-stf-veja-a-repercussao-politica-apos-moraes-pedir-a-fachin-investigacao-contra-mendonca-npr/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 02:16:47 +0000"
-    },
-    {
-      "id": "8175631aeee6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Único sentimento que une ministros é perplexidade com escalada da crise: ‘O STF não merecia isso’",
-      "link": "https://www.estadao.com.br/politica/carolina-brigido/unico-sentimento-que-une-ministros-e-perplexidade-com-escalada-da-crise-o-stf-nao-merecia-isso/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 01:31:36 +0000"
-    },
-    {
-      "id": "21abcc35b618",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes declara guerra a Mendonça e põe STF para definir de que lado ficará no duelo público",
-      "link": "https://www.estadao.com.br/politica/francisco-leali/moraes-declara-guerra-a-mendonca-e-poe-stf-para-definir-de-que-lado-ficara-no-duelo-publico/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 23:57:29 +0000"
-    },
-    {
-      "id": "903513e5267b",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
-      "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
-      "summary": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 05:40:16 GMT"
-    },
-    {
-      "id": "0db26d6fd1db",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 01:41:23 GMT"
-    },
-    {
-      "id": "f4073a6d2e38",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Na avaliação de Fonteles, não há motivo para anulação de relatório da PF produzido a pedido de ministro do STF André Mendonça — como pediu Paulo Gonet.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 07:38:27 GMT"
-    },
-    {
-      "id": "895360767a95",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
-      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "id": "5cde61c46fc9",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Renan Santos defende discutir nova Constituição como resposta à crise no STF",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-crise-stf-nova-constituicao.ghtml",
-      "summary": "Renan Santos faz pronunciamento após ter campanha digital suspensa pelo TSE\nReprodução\nCandidato do Missão à Presidência da República, Renan Santos defendeu que seja discutida uma nova Constituição como resposta à crise institucional que ocorre no Supremo Tribunal Federal.\n\"O Brasil precisa começar a discutir, não necessariamente executar, mas precisamos discutir já, uma nova Constituição. Porque, da maneira como está, a institucionalidade brasileira acabou. O pacto de 1988, do nosso livrinho, da nossa Constituição, ele acabou\", disse Renan durante entrevista à CNN Brasil.\nNesta quinta-feira (3), o ministro Alexandre de Moraes pediu ao presidente da Corte, Edson Fachin, a abertura de investigação contra André Mendonça. Um dia antes, na quarta (2), Mendonça retirou o sigilo de parte da investigação do Banco Master, o que inclui conversas de Daniel Vorcaro com um número atribuído a Moraes.\nComo resposta, o Fachin deu cinco dias para que Moraes, Mendonça, a Procuradoria-Geral da República (PGR) e a Polícia Federal (PF) prestem esclarecimentos sobre investigações ligadas ao Master e à crise da Corte.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nAlexandre de Moraes pede investigação de André Mendonça\nRenan Santos criticou Moraes por usar o inquérito das Fake News para pedir investigação contra Mendonça. A investigação se estende há mais de sete anos e tem sido criticada por não ter prazo final estipulado.\n\"Ele tem um inquérito que é dele e ele pode colocar e tirar pessoas no inquérito de acordo com a vontade dele para punir essas pessoas\", disse Renan, ao citar que a ação ocorre \"no momento em que ele está sendo investigado no maior escândalo de corrupção na história do Brasil\".\nAlém de atacar Moraes, o candidato do Missão defendeu que o próximo presidente não respeite decisões tomadas pelo ministro e por Dias Toffoli, também do STF.\n\"Têm que ser nulas e não reconhecidas quaisquer decisões que venham desses dois ministros. Por quê? Porque todas as ações deles são endereçadas a proteger o Daniel Vorcaro e esse escândalo de corrupção bizarro\", afirmou, ao tratar do Caso Master.\nLEIA TAMBÉM\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nRelação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as revelações do relatório da PF\nRelação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório da PF\nPGR diz que é nula investigação ordenada por Mendonça que apontou relação Moraes-Vorcaro\nInvestigação da PF aponta proximidade entre Vorcaro e Gonet, da PGR",
-      "tags": [
-        "STF",
-        "Renan Santos"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 86,
-      "publishedRaw": "Fri, 04 Sep 2026 01:13:53 -0000"
-    },
-    {
-      "id": "6caf2fd8662a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF aposta na polarização política para esconder a lama",
-      "link": "https://www.estadao.com.br/politica/raquel-landim/stf-aposta-na-polarizacao-politica-para-esconder-a-lama/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "polarização"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 03 Sep 2026 22:18:11 +0000"
     },
     {
       "id": "1286180dc809",
@@ -388,6 +160,158 @@
       "publishedRaw": "03 Sep 2026 23:05:00 -0300"
     },
     {
+      "id": "5d4b446a936f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zema afirma que Senado está ‘acovardado’ diante de crise no STF e defende saída do Brasil dos Brics",
+      "link": "https://www.estadao.com.br/politica/eleicoes/zema-afirma-que-senado-esta-acovardado-diante-de-crise-no-stf-e-defende-saida-do-brasil-dos-brics/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
+    },
+    {
+      "id": "78a5c8c21f65",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF: veja a repercussão política após Moraes pedir a Fachin investigação contra Mendonça",
+      "link": "https://www.estadao.com.br/politica/crise-no-stf-veja-a-repercussao-politica-apos-moraes-pedir-a-fachin-investigacao-contra-mendonca-npr/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 04 Sep 2026 02:16:47 +0000"
+    },
+    {
+      "id": "8175631aeee6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Único sentimento que une ministros é perplexidade com escalada da crise: ‘O STF não merecia isso’",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/unico-sentimento-que-une-ministros-e-perplexidade-com-escalada-da-crise-o-stf-nao-merecia-isso/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 04 Sep 2026 01:31:36 +0000"
+    },
+    {
+      "id": "21abcc35b618",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes declara guerra a Mendonça e põe STF para definir de que lado ficará no duelo público",
+      "link": "https://www.estadao.com.br/politica/francisco-leali/moraes-declara-guerra-a-mendonca-e-poe-stf-para-definir-de-que-lado-ficara-no-duelo-publico/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 03 Sep 2026 23:57:29 +0000"
+    },
+    {
+      "id": "903513e5267b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
+      "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
+      "summary": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 04 Sep 2026 05:40:16 GMT"
+    },
+    {
+      "id": "0db26d6fd1db",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 04 Sep 2026 01:41:23 GMT"
+    },
+    {
+      "id": "f4073a6d2e38",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Na avaliação de Fonteles, não há motivo para anulação de relatório da PF produzido a pedido de ministro do STF André Mendonça — como pediu Paulo Gonet.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 03 Sep 2026 07:38:27 GMT"
+    },
+    {
+      "id": "895360767a95",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
+      "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalistas ouvidos pela BBC News Brasil, interações de ministro do STF com Vorcaro são graves e devem ser apuradas; Procuradoria-Geral da República pediu anulação da investigação; mensagens extraídas do celular do banqueiro mostram interações que teriam ocorrido com o ministro do STF e com pessoas ligadas à sua família",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
+    },
+    {
       "id": "ea66b637fda6",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -406,6 +330,46 @@
       ],
       "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 03:03:40 +0000"
+    },
+    {
+      "id": "5cde61c46fc9",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos defende discutir nova Constituição como resposta à crise no STF",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-crise-stf-nova-constituicao.ghtml",
+      "summary": "Renan Santos faz pronunciamento após ter campanha digital suspensa pelo TSE\nReprodução\nCandidato do Missão à Presidência da República, Renan Santos defendeu que seja discutida uma nova Constituição como resposta à crise institucional que ocorre no Supremo Tribunal Federal.\n\"O Brasil precisa começar a discutir, não necessariamente executar, mas precisamos discutir já, uma nova Constituição. Porque, da maneira como está, a institucionalidade brasileira acabou. O pacto de 1988, do nosso livrinho, da nossa Constituição, ele acabou\", disse Renan durante entrevista à CNN Brasil.\nNesta quinta-feira (3), o ministro Alexandre de Moraes pediu ao presidente da Corte, Edson Fachin, a abertura de investigação contra André Mendonça. Um dia antes, na quarta (2), Mendonça retirou o sigilo de parte da investigação do Banco Master, o que inclui conversas de Daniel Vorcaro com um número atribuído a Moraes.\nComo resposta, o Fachin deu cinco dias para que Moraes, Mendonça, a Procuradoria-Geral da República (PGR) e a Polícia Federal (PF) prestem esclarecimentos sobre investigações ligadas ao Master e à crise da Corte.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nAlexandre de Moraes pede investigação de André Mendonça\nRenan Santos criticou Moraes por usar o inquérito das Fake News para pedir investigação contra Mendonça. A investigação se estende há mais de sete anos e tem sido criticada por não ter prazo final estipulado.\n\"Ele tem um inquérito que é dele e ele pode colocar e tirar pessoas no inquérito de acordo com a vontade dele para punir essas pessoas\", disse Renan, ao citar que a ação ocorre \"no momento em que ele está sendo investigado no maior escândalo de corrupção na história do Brasil\".\nAlém de atacar Moraes, o candidato do Missão defendeu que o próximo presidente não respeite decisões tomadas pelo ministro e por Dias Toffoli, também do STF.\n\"Têm que ser nulas e não reconhecidas quaisquer decisões que venham desses dois ministros. Por quê? Porque todas as ações deles são endereçadas a proteger o Daniel Vorcaro e esse escândalo de corrupção bizarro\", afirmou, ao tratar do Caso Master.\nLEIA TAMBÉM\nQuais crimes podem ser investigados e quem pode processar e julgar um ministro do STF?\nRelação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as revelações do relatório da PF\nRelação Moraes e Vorcaro: veja os possíveis caminhos no STF do relatório da PF\nPGR diz que é nula investigação ordenada por Mendonça que apontou relação Moraes-Vorcaro\nInvestigação da PF aponta proximidade entre Vorcaro e Gonet, da PGR",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 04 Sep 2026 01:13:53 -0000"
+    },
+    {
+      "id": "6caf2fd8662a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF aposta na polarização política para esconder a lama",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/stf-aposta-na-polarizacao-politica-para-esconder-a-lama/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "polarização"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 03 Sep 2026 22:18:11 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -576,6 +540,21 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "04 Sep 2026 04:00:00 -0300"
+    },
+    {
+      "id": "62bbb8ece52a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidenciáveis: Romeu Zema é o entrevistado de hoje na CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/presidenciaveis-romeu-zema-e-o-entrevistado-de-hoje-na-cnn-brasil/",
+      "summary": "Sabatina vai ao ar nesta sexta-feira (4), às 21h, ao vivo",
+      "tags": [
+        "Romeu Zema"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Fri, 04 Sep 2026 08:00:59 +0000"
     },
     {
       "id": "2922022cf87e",
