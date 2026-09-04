@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:42:52.590085+00:00",
+  "generated_at": "2026-09-04T05:14:29.481684+00:00",
   "items": [
     {
       "id": "212c58306c41",
@@ -130,6 +130,26 @@
       "publishedRaw": "04 Sep 2026 00:46:00 -0300"
     },
     {
+      "id": "91e14c08cda0",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF fixa R$ 5 mil como novo teto de renda para Justiça gratuita",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-fixa-r-5-mil-como-novo-teto-de-renda-para-justica-gratuita/",
+      "summary": "Corte também derrubou regra do TST que admitia autodeclaração de pobreza e estendeu o novo critério a todos os ramos do Judiciário",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 04:38:55 +0000"
+    },
+    {
       "id": "6b15ffdeae2e",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -168,6 +188,26 @@
       ],
       "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 02:39:01 +0000"
+    },
+    {
+      "id": "5d4b446a936f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zema afirma que Senado está ‘acovardado’ diante de crise no STF e defende saída do Brasil dos Brics",
+      "link": "https://www.estadao.com.br/politica/eleicoes/zema-afirma-que-senado-esta-acovardado-diante-de-crise-no-stf-e-defende-saida-do-brasil-dos-brics/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
     },
     {
       "id": "78a5c8c21f65",
@@ -230,33 +270,13 @@
       "publishedRaw": "Thu, 03 Sep 2026 23:57:29 +0000"
     },
     {
-      "id": "5d4b446a936f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zema afirma que Senado está ‘acovardado’ diante de crise no STF e defende saída do Brasil dos Brics",
-      "link": "https://www.estadao.com.br/politica/eleicoes/zema-afirma-que-senado-esta-acovardado-diante-de-crise-no-stf-e-defende-saida-do-brasil-dos-brics/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
-    },
-    {
       "id": "903513e5267b",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o que se sabe da crise na Corte",
+      "title": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
-      "summary": "Alexandre de E o presidente do STF Edson Fachin pediu esclarecimentos aos ministros Alexandre de Moraes e André Mendonça; enquanto isso, Moraes pediu formalmente a inclusão de Mendonça no chamado Inquérito das Fake News.",
+      "summary": "Alexandre de Moraes usou controverso Inquérito das Fake News para requisitar da PF relatórios de inteligência contra colega. 'Aos olhos da sociedade, o tribunal parece estar implodindo', diz cientista política.",
       "tags": [
         "STF"
       ],
@@ -267,7 +287,7 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 04:36:13 GMT"
+      "publishedRaw": "Fri, 04 Sep 2026 05:07:30 GMT"
     },
     {
       "id": "0db26d6fd1db",
