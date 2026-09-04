@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:16:11.614029+00:00",
+  "generated_at": "2026-09-04T10:43:25.443398+00:00",
   "items": [
     {
       "id": "a66b4442dee7",
@@ -17,9 +17,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 03 Sep 2026 23:25:59 -0000"
     },
     {
@@ -37,10 +38,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Fri, 04 Sep 2026 00:05:40 +0000"
     },
     {
@@ -57,9 +59,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 01:26:42 -0000"
     },
     {
@@ -76,10 +79,31 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Thu, 03 Sep 2026 23:41:17 -0000"
+    },
+    {
+      "id": "b5f3f6b3d037",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/04/crise-no-stf-se-agrava-o-que-diz-imprensa-internacional-sobre-disputa-entre-moraes-e-mendonca.ghtml",
+      "summary": "A imprensa internacional noticiou que a crise no Supremo Tribunal Federal (STF) está se agravando, após acusações levantadas na quinta-feira (3/9) pelo ministro Alexandre de Moraes contra o seu colega André Mendonça.\nMoraes acusa Mendonça de, \"em tese\", ter cometido improbidade administrativa, crimes de responsabilidade e de abuso de autoridade, com quebra da \"imparcialidade judicial\" e \"favorecimento a determinados grupos políticos\" ao atuar como relator dos casos do escândalo do INSS (\"Operações Sem Desconto\") e do Banco Master (\"Operação Compliance Zero\").\nO contra-ataque de Moraes veio dois dias depois de Mendonça pedir ao presidente do STF, Edison Fachin, que leve ao plenário um pedido de investigação contra Moraes, indicando possíveis irregularidades na relação entre Moraes e Daniel Vorcaro, ex-controlador do Banco Master.\nO jornal argentino La Nacion noticiou o caso em uma reportagem intitulada \"A crise no Supremo Tribunal Federal se agrava, e Lula pede uma investigação transparente\".\nO jornal destaca que o presidente brasileiro exigiu que haja uma investigação das acusações \"sem proteger ninguém\".\n\"Em um novo capítulo da crise, Moraes pediu na quinta-feira que a Suprema Corte investigue Mendonça\", diz o La Nacion.\nO jornal descreve Moraes como \"uma das autoridades mais poderosas do Brasil\" e que presidiu o julgamento que levou à prisão do ex-presidente Jair Bolsonaro (2019-2022) por tentativa de golpe. Já Mendonça, afirma o jornal, foi indicado para o STF por Bolsonaro.\n\"O caso Master também envolveu Flávio Bolsonaro, filho do ex-presidente, que enfrentará Lula nas eleições presidenciais de outubro\", diz o jornal argentino. Lula e Flávio Bolsonaro aparecem empatados em intenções de voto no segundo turno, segundo o Agregador de Pesquisas da BBC News Brasil.\n\"A polícia está investigando transferências bancárias multimilionárias de Vorcaro para Bolsonaro que, segundo o candidato de direita, teriam como objetivo financiar um filme sobre seu pai.\"\nA agência de notícias EFE também noticiou a acusação contra Mendonça em reportagem com o título \"Um contra-ataque do ministro Moraes agrava a crise no Supremo Tribunal Federal\".\nNa reportagem, a agência afirma que \"em aparente retaliação\" Moraes acusou Mendonça de falta de probidade administrativa, abuso de autoridade e crime de responsabilidade.\nA reportagem da EFE destaca o trecho do relatório da Polícia Federal que afirma que Moraes intermediou um contrato de prestação de serviços no valor de R$ 131 milhões entre o escritório de advocacia de sua esposa, Viviane Barci de Moraes, e o Banco Master.\n\"Moraes ganhou enorme notoriedade internacional nas eleições de 2022 ao combater a desinformação e a campanha contra as urnas eletrônicas brasileiras, impulsionada pela extrema direita.\"\nA agência diz que depois que Moraes foi o principal ministro no julgamento de Jair Bolsonaro, \"ele se tornou o inimigo número um do bolsonarismo, que tenta associar sua imagem à de Lula em plena campanha para as eleições presidenciais de outubro, nas quais o atual presidente busca a reeleição\".\nMoraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF\nPor que é tão raro o impeachment de juízes das Supremas Cortes no mundo\nMoraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 10:36:40 -0000"
     },
     {
       "id": "8324330d9205",
@@ -95,9 +119,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "04 Sep 2026 05:00:00 -0300"
     },
     {
@@ -114,9 +139,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
     },
     {
@@ -133,9 +159,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 02:16:47 +0000"
     },
     {
@@ -152,9 +179,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 01:31:36 +0000"
     },
     {
@@ -171,9 +199,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Thu, 03 Sep 2026 23:57:29 +0000"
     },
     {
@@ -190,9 +219,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 05:40:16 GMT"
     },
     {
@@ -209,10 +239,31 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 09:49:00 GMT"
+    },
+    {
+      "id": "093e1d0bd6da",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça",
+      "link": "https://www.bbc.com/portuguese/articles/cgrvgzj74w4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jornal argentino La Nacion publica reportagem com a manchete 'Crise no Supremo Tribunal Federal se agrava, e Lula pede investigação transparente'.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 10:27:37 GMT"
     },
     {
       "id": "0db26d6fd1db",
@@ -228,9 +279,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 01:41:23 GMT"
     },
     {
@@ -247,9 +299,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Thu, 03 Sep 2026 07:38:27 GMT"
     },
     {
@@ -266,9 +319,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Wed, 02 Sep 2026 13:39:32 GMT"
     },
     {
@@ -286,9 +340,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
-      "score": 82,
+      "score": 86,
       "publishedRaw": "Fri, 04 Sep 2026 01:13:53 -0000"
     },
     {
@@ -306,10 +361,30 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 81,
+      "score": 86,
       "publishedRaw": "Thu, 03 Sep 2026 22:18:11 +0000"
+    },
+    {
+      "id": "6e86adae0a35",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sanciona programa para desenvolver indústria de fertilizantes",
+      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-programa-para-desenvolver-industria-de-fertilizantes/",
+      "summary": "Profert cria incentivos para o setor; presidente vetou trecho sobre definição de produtos nacionais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 04 Sep 2026 10:26:49 +0000"
     },
     {
       "id": "62ac6b26de76",
@@ -481,21 +556,6 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "04 Sep 2026 04:00:00 -0300"
-    },
-    {
-      "id": "62bbb8ece52a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidenciáveis: Romeu Zema é o entrevistado de hoje na CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/presidenciaveis-romeu-zema-e-o-entrevistado-de-hoje-na-cnn-brasil/",
-      "summary": "Sabatina vai ao ar nesta sexta-feira (4), às 21h, ao vivo",
-      "tags": [
-        "Romeu Zema"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Fri, 04 Sep 2026 08:00:59 +0000"
     },
     {
       "id": "a7ca3d0d890a",
