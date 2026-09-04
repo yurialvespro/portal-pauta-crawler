@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-04T07:15:25.477174+00:00",
+  "generated_at": "2026-09-04T07:43:09.420017+00:00",
   "items": [
-    {
-      "id": "212c58306c41",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Campanha de Lula vê disputa indefinida, e Flávio Bolsonaro aposta em rua e crise do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-disputa-indefinida-e-flavio-bolsonaro-aposta-em-rua-e-crise-do-stf.shtml",
-      "summary": "A campanha do presidente Lula (PT) admitiu nesta quinta-feira (3) que a disputa contra Flávio Bolsonaro (PL) pela Presidência da República está indefinida, após a pesquisa Datafolha mostrar um empate técnico entre os dois candidatos em um segundo turno.\nLeia mais (09/03/2026 - 23h02)",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 96,
-      "publishedRaw": "03 Sep 2026 23:02:00 -0300"
-    },
     {
       "id": "a66b4442dee7",
       "source": "G1 - Política",
@@ -148,46 +124,6 @@
       ],
       "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 04:38:55 +0000"
-    },
-    {
-      "id": "6b15ffdeae2e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Resultado eleitoral deve, também, ditar o futuro do STF, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/resultado-eleitoral-deve-tambem-ditar-o-futuro-do-stf-diz-especialista/",
-      "summary": "Felipe Recondo, jornalista e pesquisador do STF (Supremo Tribunal Federal), analisa ação de Moraes contra Mendonça e afirma que configuração de poder no Supremo depende das eleições",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 02:51:41 +0000"
-    },
-    {
-      "id": "246a3d96e2c9",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caso Moraes é sobre quem sobrevive à crise no STF, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/caso-moraes-e-sobre-quem-sobrevive-a-crise-no-stf-diz-especialista/",
-      "summary": "Ao WW, Felipe Recondo, jornalista e pesquisador do STF, avalia que o nível das acusações entre ministros torna difícil que Alexandre de Moraes e André Mendonça permaneçam no tribunal",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 02:39:01 +0000"
     },
     {
       "id": "5d4b446a936f",
@@ -532,23 +468,6 @@
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
-      "id": "ad373d7f16f0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news, usado por Moraes contra Mendonça",
-      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 74,
-      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
-    },
-    {
       "id": "e6d6b9fca54d",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -578,6 +497,21 @@
       "crossOutlets": [],
       "score": 71,
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
+    },
+    {
+      "id": "ad373d7f16f0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news, usado por Moraes contra Mendonça",
+      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [],
+      "score": 70,
+      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
     },
     {
       "id": "26bb02f59602",
