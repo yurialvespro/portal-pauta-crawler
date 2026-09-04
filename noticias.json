@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-04T01:41:28.975493+00:00",
+  "generated_at": "2026-09-04T02:15:26.326582+00:00",
   "items": [
+    {
+      "id": "212c58306c41",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: Campanha de Lula vê disputa indefinida, e Flávio Bolsonaro aposta em rua e crise do STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-disputa-indefinida-e-flavio-bolsonaro-aposta-em-rua-e-crise-do-stf.shtml",
+      "summary": "A campanha do presidente Lula (PT) admitiu nesta quinta-feira (3) que a disputa contra Flávio Bolsonaro (PL) pela Presidência da República está indefinida, após a pesquisa Datafolha mostrar um empate técnico entre os dois candidatos em um segundo turno.\nLeia mais (09/03/2026 - 23h02)",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "03 Sep 2026 23:02:00 -0300"
+    },
     {
       "id": "fabe08e43e3d",
       "source": "G1 - Política",
@@ -116,7 +140,7 @@
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula grava vídeo sobre crise no STF e propõe reforma do sistema político e Judiciário",
+      "title": "Lula grava vídeo sobre crise no STF e propõe ‘reforma profunda’ do Judiciário e do sistema político",
       "link": "https://www.estadao.com.br/politica/lula-grava-video-sobre-crise-no-stf-e-propoe-reforma-do-sistema-politico-e-judiciario/",
       "summary": "",
       "tags": [
@@ -174,33 +198,13 @@
       "publishedRaw": "Thu, 03 Sep 2026 23:41:17 -0000"
     },
     {
-      "id": "5ca828a1214c",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "As gargalhadas no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/as-gargalhadas-no-stf.shtml",
-      "summary": "Leia mais (09/03/2026 - 21h27)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "03 Sep 2026 21:27:00 -0300"
-    },
-    {
       "id": "f979c8444d1e",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
       "title": "PF insinua que Mendonça atua para mudar correlação de forças no STF",
       "link": "https://www.cnnbrasil.com.br/politica/pf-insinua-que-mendonca-atua-para-mudar-correlacao-de-forcas-no-stf/",
-      "summary": "Relatório sigiloso, ao qual a CNN teve acesso, destaca que ministro não confia em Andrei Rodrigues",
+      "summary": "Relatório sigiloso, ao qual CNN teve acesso, destaca que ministro não confia em Andrei Rodrigues",
       "tags": [
         "STF"
       ],
@@ -214,24 +218,24 @@
       "publishedRaw": "Fri, 04 Sep 2026 01:17:35 +0000"
     },
     {
-      "id": "fa9399c81dd5",
-      "source": "CNN Brasil",
+      "id": "8175631aeee6",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Análise: O que representam para o STF as denúncias de Moraes a Mendonça?",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-o-que-representam-para-o-stf-as-denuncias-de-moraes-a-mendonca/",
-      "summary": "Usando o inquérito das Fake News, Alexandre de Moraes pede a Fachin que abra ação contra André Mendonça por três crimes",
+      "title": "Único sentimento que une ministros é perplexidade com escalada da crise: ‘O STF não merecia isso’",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/unico-sentimento-que-une-ministros-e-perplexidade-com-escalada-da-crise-o-stf-nao-merecia-isso/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Fri, 04 Sep 2026 00:54:33 +0000"
+      "publishedRaw": "Fri, 04 Sep 2026 01:31:36 +0000"
     },
     {
       "id": "21abcc35b618",
@@ -274,26 +278,6 @@
       "publishedRaw": "Thu, 03 Sep 2026 23:23:37 +0000"
     },
     {
-      "id": "c435802f43ed",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do STF mantêm silêncio no plenário 48h após revelação de mensagens entre Moraes e Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stf-encaram-o-plenario-48h-apos-revelacao-de-mensagens-entre-moraes-e-vorcaro-assista/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 03 Sep 2026 17:51:03 +0000"
-    },
-    {
       "id": "903513e5267b",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -312,6 +296,26 @@
       ],
       "score": 89,
       "publishedRaw": "Fri, 04 Sep 2026 01:21:22 GMT"
+    },
+    {
+      "id": "0db26d6fd1db",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 04 Sep 2026 01:41:23 GMT"
     },
     {
       "id": "f4073a6d2e38",
@@ -416,13 +420,13 @@
       "publishedRaw": "Thu, 03 Sep 2026 22:04:19 -0000"
     },
     {
-      "id": "5bd78925f199",
+      "id": "4dd1e4874ecc",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Sem discurso novo e com avaliação pior, Lula vê Flávio na cola na eleição da sujeira judicial",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/sem-discurso-novo-e-com-avaliacao-pior-lula-ve-flavio-na-cola-na-eleicao-da-sujeira-judicial.shtml",
-      "summary": "O que a candidatura de Luiz Inácio Lula da Silva (PT) poderia fazer diante dos fatos de que a avaliação de seu governo piora sem parar desde julho e de que na prática está empatado com Flávio Bolsonaro (PL) no segundo turno? O que mais virá nesta eleição no meio da lama da guerra jurídico-policial? Alexandre de Moraes e André Mendonça estão à beira das vias de fato, do duelo, no Supremo e muito mais. Difícil saber o que o eleitorado vai fazer disso.\nLeia mais (09/03/2026 - 21h30)",
+      "title": "Revista em presídio do RJ localiza 30 celulares com presos do Terceiro Comando Puro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/revista-em-presidio-do-rj-localiza-30-celulares-com-presos-do-terceiro-comando-puro.shtml",
+      "summary": "Chefes e integrantes do TCP (Terceiro Comando Puro) foram alvo, nesta quinta-feira (3), de mais uma etapa da Operação Illicitus, ação da Seppen (Secretaria Estadual de Polícia Penal) contra a entrada de celulares e drogas nos presídios fluminenses.\nLeia mais (09/03/2026 - 23h05)",
       "tags": [
         "Lula"
       ],
@@ -433,16 +437,16 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "03 Sep 2026 21:30:00 -0300"
+      "publishedRaw": "03 Sep 2026 23:05:00 -0300"
     },
     {
-      "id": "b04821c0c111",
+      "id": "66f12da78be6",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PF relata desconfiança de Mendonça sobre diretor-geral da corporação por proximidade com Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml",
-      "summary": "Relatórios de inteligência da Polícia Federal registram declarações atribuídas ao ministro André Mendonça sobre o diretor-geral da corporação, Andrei Rodrigues, e o procurador-geral da República, Paulo Gonet, segundo documentos revelados em decisão do ministro Alexandre de Moraes, do STF.\nLeia mais (09/03/2026 - 21h15)",
+      "title": "Bolsonaristas saem em defesa de Mendonça contra Moraes; Flávio fala em derrota de 'ministro de Lula'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/bolsonaristas-saem-em-defesa-de-mendonca-contra-moraes-flavio-fala-em-derrota-de-ministro-de-lula.shtml",
+      "summary": "Bolsonaristas reagiram ao ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), que pediu, nesta quinta (3), que o colega André Mendonça seja investigado por abuso de autoridade, improbidade administrativa e crime de responsabilidade na condução do caso do Banco Master e do INSS (Instituto Nacional do Seguro Social).\nLeia mais (09/03/2026 - 23h02)",
       "tags": [
         "Lula"
       ],
@@ -453,7 +457,27 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "03 Sep 2026 21:15:00 -0300"
+      "publishedRaw": "03 Sep 2026 23:02:00 -0300"
+    },
+    {
+      "id": "6dd82b807ec9",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula busca ponte com Cury e tenta evitar que ele se alie a Flávio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-busca-ponte-com-cury-e-tenta-evitar-que-ele-se-alie-a-flavio.shtml",
+      "summary": "A campanha de Lula busca uma forma de estabelecer pontes com Augusto Cury (Avante), por avaliar que há uma tendência hoje de ele apoiar Flávio Bolsonaro (PL) em um segundo turno.\nLeia mais (09/03/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "03 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "cd34f48474b1",
@@ -474,6 +498,25 @@
       ],
       "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 01:20:03 +0000"
+    },
+    {
+      "id": "7e57c9d6d6d3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Operador diz que repasses para fundo de aliado de Eduardo Bolsonaro saíram de recursos de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/operador-diz-que-repasses-para-fundo-de-aliado-de-eduardo-bolsonaro-sairam-de-recursos-de-vorcaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 03 Sep 2026 18:31:19 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -536,22 +579,22 @@
       "publishedRaw": "Wed, 02 Sep 2026 13:53:05 GMT"
     },
     {
-      "id": "7e57c9d6d6d3",
+      "id": "ad373d7f16f0",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Operador diz que repasses para fundo de aliado de Eduardo Bolsonaro saíram de recursos de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/operador-diz-que-repasses-para-fundo-de-aliado-de-eduardo-bolsonaro-sairam-de-recursos-de-vorcaro/",
+      "title": "De PCO a Bolsonaro; saiba quem é alvo do inquérito das fake news, usado por Moraes contra Mendonça",
+      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
       "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 76,
-      "publishedRaw": "Thu, 03 Sep 2026 18:31:19 +0000"
+      "score": 79,
+      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
     },
     {
       "id": "7c6538d16a9e",
@@ -603,6 +646,21 @@
       "crossOutlets": [],
       "score": 71,
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
+    },
+    {
+      "id": "43eea729b95f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "À CNN, Renan diz que Trump “vem se comportando muito mal nessas eleições”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-diz-que-trump-vem-se-comportando-muito-mal-nessas-eleicoes/",
+      "summary": "Candidato do Missão afirma que Brasil deve combater garimpo ilegal e defender competitividade do agronegócio nacional diante dos EUA",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [],
+      "score": 69,
+      "publishedRaw": "Fri, 04 Sep 2026 01:33:34 +0000"
     },
     {
       "id": "ce8b46d57cb3",
@@ -690,6 +748,21 @@
       "publishedRaw": "Thu, 03 Sep 2026 21:48:57 -0000"
     },
     {
+      "id": "c0ac9822e8a7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Emendas devem ser definidas pelo governo federal, diz Renan Santos à CNN",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/emendas-devem-ser-definidas-pelo-governo-federal-diz-renan-santos-a-cnn/",
+      "summary": "Candidato do Missão à Presidência defendeu corte de gastos obrigatórios e busca por tornar Congresso \"um amigo das contas públicas\"",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Fri, 04 Sep 2026 01:43:25 +0000"
+    },
+    {
       "id": "2922022cf87e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -718,21 +791,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 03 Sep 2026 22:48:02 +0000"
-    },
-    {
-      "id": "9f48ce46fbd9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TRE-DF rejeita candidatura de José Roberto Arruda",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tre-df-rejeita-candidatura-de-jose-roberto-arruda/",
-      "summary": "",
-      "tags": [
-        "candidatura"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Thu, 03 Sep 2026 21:55:43 +0000"
     }
   ]
 }
