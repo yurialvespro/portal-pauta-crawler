@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:39:19.956438+00:00",
+  "generated_at": "2026-09-05T23:13:34.436962+00:00",
   "items": [
     {
       "id": "0cf62279b24e",
@@ -220,27 +220,6 @@
       "publishedRaw": "Sat, 05 Sep 2026 21:38:58 +0000"
     },
     {
-      "id": "807567dd6041",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar formaliza proposta para proibir delegados e militares no STF",
-      "link": "https://www.cnnbrasil.com.br/politica/gilmar-formaliza-proposta-para-proibir-delegados-e-militares-no-stf/",
-      "summary": "Atualmente, dois delegados atuam no gabinete de Mendonça e outros dois trabalham nos gabinetes de Moraes e do ministro Luiz Fux",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 05 Sep 2026 20:18:54 +0000"
-    },
-    {
       "id": "40d13de4663e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -289,27 +268,6 @@
       "category": "Política",
       "title": "Embalado por pauta anti-STF, PL sai na frente na disputa pelo Senado, com PT na sequência",
       "link": "https://www.estadao.com.br/politica/eleicoes/embalado-por-pauta-anti-stf-pl-sai-na-frente-na-disputa-pelo-senado-com-pt-na-sequencia/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "2175c273eab4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF analisou 307 inquéritos sigilosos desde que Moraes iniciou o das fake news",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stf-analisou-307-inqueritos-desde-abertura-do-inquerito-das-fake-news-sob-moraes-desde-2019/",
       "summary": "",
       "tags": [
         "STF"
@@ -621,27 +579,10 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil"
+        "Poder360"
       ],
       "score": 76,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "0e3f55ef4645",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alemanha sofre tentativa de sabotagem à rede elétrica perto de eleições",
-      "link": "https://www.cnnbrasil.com.br/internacional/alemanha-sofre-tentativa-de-sabotagem-a-rede-eletrica-perto-de-eleicoes/",
-      "summary": "Dispositivos detonação foram encontrados próximos a linhas de alta tensão; essa é a terceira tentativa de sabotagem em uma semana",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 74,
-      "publishedRaw": "Sat, 05 Sep 2026 20:34:35 +0000"
     },
     {
       "id": "1371f26eea55",
@@ -669,9 +610,28 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [],
-      "score": 64,
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
       "publishedRaw": "Sat, 05 Sep 2026 19:11:41 -0000"
+    },
+    {
+      "id": "5dccbe5bcf29",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE leva urna eletrônica a Copacabana para simular votação",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-leva-urna-eletronica-a-copacabana-para-simular-votacao/",
+      "summary": "Ação permitiu testar equipamento, conhecer nova interface e preparar a colinha para as eleições de outubro",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 68,
+      "publishedRaw": "Sat, 05 Sep 2026 22:49:27 +0000"
     },
     {
       "id": "445fbea57ff7",
