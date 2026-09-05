@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:13:38.929297+00:00",
+  "generated_at": "2026-09-05T01:40:54.573092+00:00",
   "items": [
     {
       "id": "b5c12174bcd3",
@@ -16,7 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -41,9 +41,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 00:16:56 +0000"
     },
     {
@@ -59,8 +60,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -80,8 +81,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -89,25 +90,27 @@
       "publishedRaw": "Fri, 04 Sep 2026 10:36:40 -0000"
     },
     {
-      "id": "d868387d8732",
-      "source": "CNN Brasil",
+      "id": "12dad314722e",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Análise: Crise no STF pode deixar marcas profundas na política brasileira",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-crise-no-stf-pode-deixar-marcas-profundas-na-politica-brasileira/",
-      "summary": "Novos desdobramentos envolvendo ministros, investigações e possíveis fatos podem alterar o cenário da sucessão presidencial de 2026",
+      "title": "Fachin conversa com Lula e indica que levará casos de Moraes e Mendonça ao plenário do STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-conversa-com-lula-e-indica-que-levara-casos-de-moraes-e-mendonca-ao-plenario-do-stf.shtml",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Luiz Edson Fachin, sinalizou ao presidente Lula (PT) a intenção de dar andamento às acusações levantadas nos últimos dias entre ministros e levar os casos da crise envolvendo Alexandre de Moraes e André Mendonça ao plenário da corte.\nLeia mais (09/04/2026 - 22h31)",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Sat, 05 Sep 2026 00:30:08 +0000"
+      "publishedRaw": "04 Sep 2026 22:31:00 -0300"
     },
     {
       "id": "616310f4f975",
@@ -122,7 +125,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -143,7 +146,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -163,8 +166,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -184,8 +187,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -206,8 +209,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -230,10 +233,32 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Fri, 04 Sep 2026 23:43:08 -0000"
+    },
+    {
+      "id": "83b1c45298cc",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula citará petróleo e terras raras em discurso do 7 de Setembro, que vai abordar soberania",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-citara-petroleo-e-terras-raras-em-discurso-do-7-de-setembro-que-vai-abordar-soberania.shtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) irá falar da exploração das terras raras e da descoberta de petróleo na Margem Equatorial para reforçar o tom de defesa da soberania nacional durante o tradicional pronunciamento pelo Dia da Independência em rede de rádio e TV.\nLeia mais (09/04/2026 - 22h10)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "04 Sep 2026 22:10:00 -0300"
     },
     {
       "id": "851d8e407b76",
@@ -249,31 +274,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 05 Sep 2026 00:45:36 +0000"
-    },
-    {
-      "id": "1796ad98db9b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula: “Pode vir americano que quiser, jamais ganhará de um pernambucano”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-pode-vir-americano-que-quiser-jamais-ganhara-de-um-pernambucano/",
-      "summary": "Ao longo do ano, Flávio Bolsonaro (PL) teve encontros com o presidente dos EUA, Donald Trump, que teria sinalizado interesse nas eleições brasileiras em conversa com banqueiro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 00:04:55 +0000"
     },
     {
       "id": "e2c27bf3196f",
@@ -289,10 +295,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 04 Sep 2026 19:41:03 +0000"
     },
     {
@@ -310,9 +317,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 05 Sep 2026 00:59:31 +0000"
     },
     {
@@ -330,9 +338,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 05 Sep 2026 00:55:43 +0000"
     },
     {
@@ -350,9 +359,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 05 Sep 2026 00:51:32 +0000"
     },
     {
@@ -388,10 +398,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Fri, 04 Sep 2026 13:07:37 GMT"
     },
     {
@@ -408,10 +419,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
@@ -428,10 +440,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 02 Sep 2026 19:39:04 GMT"
     },
     {
@@ -451,6 +464,24 @@
       ],
       "score": 80,
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
+    },
+    {
+      "id": "4333b29c7770",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: veja quais documentos levar no dia da votação",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-quais-documentos-levar-no-dia-da-votacao/",
+      "summary": "Saiba quais documentos podem substituir o título de eleitor no 1º e no 2º turnos das eleições",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 77,
+      "publishedRaw": "Sat, 05 Sep 2026 01:07:50 +0000"
     },
     {
       "id": "1371f26eea55",
@@ -485,6 +516,23 @@
       ],
       "score": 75,
       "publishedRaw": "Fri, 04 Sep 2026 19:14:41 -0000"
+    },
+    {
+      "id": "4388909491d6",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Voto pelo correio marca início das eleições nos Estados Unidos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/04/voto-pelo-correio-marca-inicio-das-eleicoes-nos-estados-unidos.ghtml",
+      "summary": "Funcionários do Conselho Eleitoral do Condado de Wake preparam cédulas de voto por ausência, com instruções para votação, para serem enviadas pelo correio\nMatt Ramey / AP\nAs eleições de meio de mandato nos Estados Unidos começaram nesta sexta-feira (4), com o envio das primeiras cédulas pelo correio na Carolina do Norte, no leste do país. O início da votação ocorre em meio à disputa sobre as regras para o voto à distância.\nO governo de Donald Trump, que tenta manter o controle do Congresso, voltou a pedir nesta semana que a Suprema Corte autorize, em caráter de urgência, a adoção de regras mais rígidas para o voto pelo correio enviado pelo Serviço Postal dos EUA.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nDemocratas acusam o governo republicano de criar dificuldades para os eleitores com as novas exigências. Entre as medidas está a ampliação do uso de códigos de barras nos envelopes das cédulas.\nA Suprema Corte autorizou parcialmente mudanças nas regras do voto pelo correio. Uma juíza federal, no entanto, voltou a bloquear as medidas por considerar que não há tempo suficiente para colocá-las em prática antes da eleição.\nA votação presencial está marcada para 3 de novembro em todo o país.\nLEIA TAMBÉM\nTrump nomeia secretário interino para o Exército dos EUA após crise entre antecessor e chefe do Pentágono\nHolanda tira toneladas de ouro dos EUA e manda para Londres de olho em 'instabilidade geopolítica'\n'Trump era minha foto de perfil', 'sinto vergonha e remorso': grupo ajuda ex-trumpistas a deixarem o MAGA\nOs americanos vão escolher os ocupantes dos 435 assentos da Câmara dos Representantes e de cerca de um terço das cadeiras do Senado. Pesquisas apontam uma alta probabilidade de que os democratas retomem o controle da Câmara.\nAs eleições são marcadas pela inflação e pela guerra no Irã. O resultado vai definir quanto espaço Trump terá para avançar com sua agenda nos dois últimos anos de seu mandato.\nA disputa pelo Senado deve ser mais apertada. Os republicanos têm atualmente 53 das 100 cadeiras, contra 47 dos democratas. Para assumir o controle da Casa, os democratas precisam conquistar pelo menos quatro cadeiras a mais do que os republicanos.\nAgora no g1\nA empresa Decision Desk HQ projetou a possibilidade de um Senado dividido igualmente, com 50 cadeiras para cada partido. Nesse cenário, o vice-presidente republicano, JD Vance, teria o voto de desempate.\nRepublicanos e democratas tratam a eleição como um referendo sobre o governo Trump. A aprovação do presidente está no nível mais baixo de seu mandato: seis em cada dez americanos dizem desaprovar sua gestão.\nEleições de meio de mandato costumam representar uma derrota para o partido do presidente. Agora, a disputa é para saber qual será o tamanho do revés para Trump nas urnas.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 72,
+      "publishedRaw": "Fri, 04 Sep 2026 15:59:42 -0000"
     },
     {
       "id": "f720fbf0460d",
@@ -523,13 +571,13 @@
       "publishedRaw": "Fri, 04 Sep 2026 22:28:34 +0000"
     },
     {
-      "id": "91abd26bfcbb",
+      "id": "0856a591ba7c",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Nikolas Ferreira é atingido por ovo em ato de campanha em MG",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-ferreira-e-atingido-por-ovo-em-ato-de-campanha-em-mg/",
-      "summary": "Deputado levou uma ovada nas costas; autor fez gestos obscenos e deixou o local sem ser identificado",
+      "title": "Bancada Psol-Rede pede cassação de Nikolas Ferreira",
+      "link": "https://www.poder360.com.br/poder-congresso/bancada-psol-rede-pede-cassacao-de-nikolas-ferreira/",
+      "summary": "Pedido cita áudios em que o deputado pede favor a Daniel Vorcaro para ex-assessor; congressistas falam em quebra de decoro",
       "tags": [
         "Nikolas Ferreira"
       ],
@@ -537,22 +585,7 @@
         "BBC Brasil"
       ],
       "score": 70,
-      "publishedRaw": "Fri, 04 Sep 2026 23:12:58 +0000"
-    },
-    {
-      "id": "4388909491d6",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Voto pelo correio marca início das eleições nos Estados Unidos",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/04/voto-pelo-correio-marca-inicio-das-eleicoes-nos-estados-unidos.ghtml",
-      "summary": "Funcionários do Conselho Eleitoral do Condado de Wake preparam cédulas de voto por ausência, com instruções para votação, para serem enviadas pelo correio\nMatt Ramey / AP\nAs eleições de meio de mandato nos Estados Unidos começaram nesta sexta-feira (4), com o envio das primeiras cédulas pelo correio na Carolina do Norte, no leste do país. O início da votação ocorre em meio à disputa sobre as regras para o voto à distância.\nO governo de Donald Trump, que tenta manter o controle do Congresso, voltou a pedir nesta semana que a Suprema Corte autorize, em caráter de urgência, a adoção de regras mais rígidas para o voto pelo correio enviado pelo Serviço Postal dos EUA.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nDemocratas acusam o governo republicano de criar dificuldades para os eleitores com as novas exigências. Entre as medidas está a ampliação do uso de códigos de barras nos envelopes das cédulas.\nA Suprema Corte autorizou parcialmente mudanças nas regras do voto pelo correio. Uma juíza federal, no entanto, voltou a bloquear as medidas por considerar que não há tempo suficiente para colocá-las em prática antes da eleição.\nA votação presencial está marcada para 3 de novembro em todo o país.\nLEIA TAMBÉM\nTrump nomeia secretário interino para o Exército dos EUA após crise entre antecessor e chefe do Pentágono\nHolanda tira toneladas de ouro dos EUA e manda para Londres de olho em 'instabilidade geopolítica'\n'Trump era minha foto de perfil', 'sinto vergonha e remorso': grupo ajuda ex-trumpistas a deixarem o MAGA\nOs americanos vão escolher os ocupantes dos 435 assentos da Câmara dos Representantes e de cerca de um terço das cadeiras do Senado. Pesquisas apontam uma alta probabilidade de que os democratas retomem o controle da Câmara.\nAs eleições são marcadas pela inflação e pela guerra no Irã. O resultado vai definir quanto espaço Trump terá para avançar com sua agenda nos dois últimos anos de seu mandato.\nA disputa pelo Senado deve ser mais apertada. Os republicanos têm atualmente 53 das 100 cadeiras, contra 47 dos democratas. Para assumir o controle da Casa, os democratas precisam conquistar pelo menos quatro cadeiras a mais do que os republicanos.\nAgora no g1\nA empresa Decision Desk HQ projetou a possibilidade de um Senado dividido igualmente, com 50 cadeiras para cada partido. Nesse cenário, o vice-presidente republicano, JD Vance, teria o voto de desempate.\nRepublicanos e democratas tratam a eleição como um referendo sobre o governo Trump. A aprovação do presidente está no nível mais baixo de seu mandato: seis em cada dez americanos dizem desaprovar sua gestão.\nEleições de meio de mandato costumam representar uma derrota para o partido do presidente. Agora, a disputa é para saber qual será o tamanho do revés para Trump nas urnas.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "Fri, 04 Sep 2026 15:59:42 -0000"
+      "publishedRaw": "Sat, 05 Sep 2026 01:15:20 +0000"
     },
     {
       "id": "6c40deb7c1d9",
