@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:44:35.266581+00:00",
+  "generated_at": "2026-09-05T13:13:49.383061+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -62,9 +62,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
@@ -84,11 +84,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Fri, 04 Sep 2026 23:41:28 +0000"
+    },
+    {
+      "id": "d08092f460fe",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Coordenador de Lula vê “crise profunda” no STF e fala em modernização",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/coordenador-de-lula-ve-crise-profunda-no-stf-e-fala-em-modernizacao/",
+      "summary": "“É necessário também que haja um tratamento dessas questões, mas isso não é objeto de um programa de governo”, declara Sergio Gabrielli",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 05 Sep 2026 13:00:38 +0000"
     },
     {
       "id": "01c521e493c7",
@@ -155,6 +177,27 @@
       "publishedRaw": "Fri, 04 Sep 2026 19:41:03 +0000"
     },
     {
+      "id": "5b57e719c427",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula prepara cadernos para complementar plano de governo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-prepara-cadernos-para-complementar-plano-de-governo/",
+      "summary": "O coordenador do programa, Sergio Gabrielli, afirma ao Poder360 que partidos aliados devem finalizar a redação do material até 15 de setembro",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 05 Sep 2026 13:00:14 +0000"
+    },
+    {
       "id": "6648f906cad1",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -188,8 +231,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 05 Sep 2026 11:13:32 -0000"
@@ -227,30 +270,30 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "d016e02987c0",
-      "source": "CNN Brasil",
+      "id": "5cec7747ad2a",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Crise do STF expõe “padrão preocupante de compadrio”, diz CEO da AP Exata",
-      "link": "https://www.cnnbrasil.com.br/politica/crise-do-stf-expoe-padrao-preocupante-de-compadrio-diz-ceo-da-ap-exata/",
-      "summary": "Sergio Denicoli, CEO da AP Exata e cientista de dados, afirmou ao WW que leniência de instituições como Congresso e Senado alimenta ciclo de impunidade no país",
+      "title": "Presidente do Instituto Não Aceito Corrupção vê ‘crise de credibilidade sem precedentes’ no STF",
+      "link": "https://www.estadao.com.br/politica/eleicoes/presidente-do-instituto-nao-aceito-corrupcao-ve-crise-de-credibilidade-sem-precedentes-no-stf/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 10:42:59 +0000"
+      "publishedRaw": "Sat, 05 Sep 2026 12:40:36 +0000"
     },
     {
       "id": "24dbf4b0dc94",
@@ -265,8 +308,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
@@ -284,8 +327,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
@@ -303,8 +346,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 05 Sep 2026 00:58:16 +0000"
@@ -322,8 +365,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 21:13:33 +0000"
@@ -340,9 +383,9 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 11:19:00 GMT"
@@ -359,12 +402,34 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 04 Sep 2026 01:41:23 GMT"
+    },
+    {
+      "id": "626a14d96fad",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Polarização deixa difícil vitória de Lula no Sul, diz especialista",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/polarizacao-deixa-dificil-vitoria-de-lula-no-sul-diz-especialista/",
+      "summary": "Fernando Schüler afirma que o perfil socioeconômico da região favorece o discurso de mérito, trabalho e mercado",
+      "tags": [
+        "Lula",
+        "polarização"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 05 Sep 2026 13:00:33 +0000"
     },
     {
       "id": "7bf263c39558",
@@ -621,36 +686,6 @@
       "crossOutlets": [],
       "score": 59,
       "publishedRaw": "Fri, 04 Sep 2026 17:08:53 GMT"
-    },
-    {
-      "id": "39933122cb5d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Esquerda chegou atrasada na comunicação digital e é 'cringe', diz Jones Manoel",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/esquerda-chegou-atrasada-na-comunicacao-digital-e-e-cringe-diz-jones-manoel.shtml",
-      "summary": "A esquerda brasileira chegou atrasada na comunicação digital, não entrou de cabeça, e quando tenta dialogar com a juventude, é \"cringe\".\nLeia mais (09/05/2026 - 04h00)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "05 Sep 2026 04:00:00 -0300"
-    },
-    {
-      "id": "9b8477d549c5",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reino Unido pede que famílias estoquem comida por El Niño",
-      "link": "https://www.poder360.com.br/poder-internacional/reino-unido-pede-que-familias-estoquem-comida-por-el-nino/",
-      "summary": "Secretária do Meio Ambiente fala na probabilidade do mundo vivenciar “o maior El Niño já visto” e pede preparação",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Sat, 05 Sep 2026 11:40:54 +0000"
     }
   ]
 }
