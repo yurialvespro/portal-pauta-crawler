@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:41:48.521848+00:00",
+  "generated_at": "2026-09-05T09:14:44.497175+00:00",
   "items": [
     {
       "id": "a7684de4a8e4",
@@ -151,6 +151,46 @@
       "publishedRaw": "Sat, 05 Sep 2026 07:02:11 +0000"
     },
     {
+      "id": "24dbf4b0dc94",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Embalado por pauta anti-STF, PL sai na frente na disputa pelo Senado, com PT na sequência",
+      "link": "https://www.estadao.com.br/politica/eleicoes/embalado-por-pauta-anti-stf-pl-sai-na-frente-na-disputa-pelo-senado-com-pt-na-sequencia/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "2175c273eab4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF analisou 307 inquéritos sigilosos desde que Moraes iniciou o das fake news",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stf-analisou-307-inqueritos-desde-abertura-do-inquerito-das-fake-news-sob-moraes-desde-2019/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
+    },
+    {
       "id": "616310f4f975",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -285,33 +325,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 87,
+      "score": 86,
       "publishedRaw": "Fri, 04 Sep 2026 23:43:08 -0000"
-    },
-    {
-      "id": "4ccdea4178ba",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "VÍDEO: Entenda como o TSE testa as urnas eletrônicas antes das eleições",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/video-entenda-como-o-tse-testa-as-urnas-eletronicas-antes-das-eleicoes.ghtml",
-      "summary": "Como a urna eletrônica é testada antes das eleições\nAntes de cada eleição, o Tribunal Superior Eleitoral (TSE) promove uma série de testes públicos para tentar identificar falhas nos sistemas eleitorais. \nUm exemplo é o chamado Teste de Segurança, iniciativa que permite a especialistas em computação e a qualquer cidadão brasileiro maior de 18 anos tentar encontrar vulnerabilidades nos sistemas usados nas urnas eletrônicas.\nUm dos principais alvos dos testes é o código-fonte dos sistemas da urna. É o conjunto de instruções que determina como o software deve funcionar. Segundo o TSE, desde a primeira edição do teste, em 2009, nenhum participante conseguiu encontrar uma falha capaz de comprometer o sigilo do voto ou o resultado de uma eleição.\nDesde a primeira eleição com urnas eletrônicas, nunca houve um caso de fraude no equipamento.\n📍Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\nO teste público de segurança é apenas um dos mecanismos de verificação usados pela Justiça Eleitoral. Confira as principais etapas do processo:\nInspeção do código-fonte\nUm ano antes da eleição, os códigos-fonte dos sistemas eleitorais são abertos para análise. Entidades autorizadas podem examinar os códigos, acompanhar o funcionamento dos sistemas e solicitar esclarecimentos ao TSE.\nAssinatura digital e lacração\nMais próximo da votação, as urnas que serão utilizadas passam por um processo de assinatura digital e lacração. A partir desse momento, qualquer alteração nos programas pode ser identificada.\nTeste de integridade\nNo dia da eleição, algumas urnas são sorteadas para passar pelo teste de integridade. Na véspera, representantes de entidades e partidos preenchem cédulas de papel com votos e as depositam em uma urna de lona. No dia da votação, os mesmos votos são digitados na urna eletrônica sorteada para o teste — todo o processo é acompanhado e filmado.\nAo final, é feita a comparação entre o resultado registrado pela urna eletrônica e os votos preenchidos nas cédulas de papel. É assim que se verifica, na prática, se o equipamento registra e contabiliza corretamente os votos.\nZerésima e boletim de urna\nAntes do início da votação, cada urna emite a chamada \"zerésima\", documento que comprova que o equipamento começou o dia sem nenhum voto registrado.\nAo final da votação, a urna emite o boletim de urna, com os totais de votos recebidos por cada candidato e partido, além dos votos brancos e nulos. Uma cópia do boletim é afixada na seção eleitoral, e o documento traz um QR Code que pode ser lido por qualquer pessoa, permitindo comparar o resultado daquela urna com os dados publicados posteriormente pelo TSE.\n30 anos de urna eletrônica\nO sistema de votação eletrônica não é recente: a urna eletrônica completou 30 anos em 2026. Desde sua estreia, foram realizadas 15 eleições informatizadas no Brasil — a de outubro será a décima-sexta.",
-      "tags": [
-        "eleições",
-        "urnas",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "e2c27bf3196f",
@@ -334,13 +352,13 @@
       "publishedRaw": "Fri, 04 Sep 2026 19:41:03 +0000"
     },
     {
-      "id": "6536406f4d32",
+      "id": "df05ce329eb9",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Janja afasta eleitora que deu abraço em Lula no Ceará",
-      "link": "https://www.poder360.com.br/poder-gente/janja-afasta-eleitora-que-deu-abraco-em-lula-no-ceara/",
-      "summary": "Mulher envolveu o pescoço do presidente com os braços e tentou subir em caminhonete durante passeata em Juazeiro do Norte",
+      "title": "Semana que prometia ser boa acaba ruim para Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/semana-que-prometia-ser-boa-acaba-ruim-para-lula/",
+      "summary": "Crise de Moraes com Vorcaro ofuscou agenda positiva do governo e deu munição a Flávio Bolsonaro em semana tensa na capital federal",
       "tags": [
         "Lula"
       ],
@@ -351,27 +369,27 @@
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 02:46:52 +0000"
+      "publishedRaw": "Sat, 05 Sep 2026 09:00:02 +0000"
     },
     {
-      "id": "2e50590ee7e8",
-      "source": "Poder360",
+      "id": "4ccdea4178ba",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Malafaia cita “império do mal” ao criticar Moraes, Lula e Alcolumbre",
-      "link": "https://www.poder360.com.br/poder-gente/malafaia-cita-imperio-do-mal-ao-criticar-moraes-lula-e-alcolumbre/",
-      "summary": "Pastor sai em defesa de Mendonça no caso Master e convoca ato de 7 de Setembro contra o governo e o STF",
+      "title": "VÍDEO: Entenda como o TSE testa as urnas eletrônicas antes das eleições",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/video-entenda-como-o-tse-testa-as-urnas-eletronicas-antes-das-eleicoes.ghtml",
+      "summary": "Como a urna eletrônica é testada antes das eleições\nAntes de cada eleição, o Tribunal Superior Eleitoral (TSE) promove uma série de testes públicos para tentar identificar falhas nos sistemas eleitorais. \nUm exemplo é o chamado Teste de Segurança, iniciativa que permite a especialistas em computação e a qualquer cidadão brasileiro maior de 18 anos tentar encontrar vulnerabilidades nos sistemas usados nas urnas eletrônicas.\nUm dos principais alvos dos testes é o código-fonte dos sistemas da urna. É o conjunto de instruções que determina como o software deve funcionar. Segundo o TSE, desde a primeira edição do teste, em 2009, nenhum participante conseguiu encontrar uma falha capaz de comprometer o sigilo do voto ou o resultado de uma eleição.\nDesde a primeira eleição com urnas eletrônicas, nunca houve um caso de fraude no equipamento.\n📍Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\nO teste público de segurança é apenas um dos mecanismos de verificação usados pela Justiça Eleitoral. Confira as principais etapas do processo:\nInspeção do código-fonte\nUm ano antes da eleição, os códigos-fonte dos sistemas eleitorais são abertos para análise. Entidades autorizadas podem examinar os códigos, acompanhar o funcionamento dos sistemas e solicitar esclarecimentos ao TSE.\nAssinatura digital e lacração\nMais próximo da votação, as urnas que serão utilizadas passam por um processo de assinatura digital e lacração. A partir desse momento, qualquer alteração nos programas pode ser identificada.\nTeste de integridade\nNo dia da eleição, algumas urnas são sorteadas para passar pelo teste de integridade. Na véspera, representantes de entidades e partidos preenchem cédulas de papel com votos e as depositam em uma urna de lona. No dia da votação, os mesmos votos são digitados na urna eletrônica sorteada para o teste — todo o processo é acompanhado e filmado.\nAo final, é feita a comparação entre o resultado registrado pela urna eletrônica e os votos preenchidos nas cédulas de papel. É assim que se verifica, na prática, se o equipamento registra e contabiliza corretamente os votos.\nZerésima e boletim de urna\nAntes do início da votação, cada urna emite a chamada \"zerésima\", documento que comprova que o equipamento começou o dia sem nenhum voto registrado.\nAo final da votação, a urna emite o boletim de urna, com os totais de votos recebidos por cada candidato e partido, além dos votos brancos e nulos. Uma cópia do boletim é afixada na seção eleitoral, e o documento traz um QR Code que pode ser lido por qualquer pessoa, permitindo comparar o resultado daquela urna com os dados publicados posteriormente pelo TSE.\n30 anos de urna eletrônica\nO sistema de votação eletrônica não é recente: a urna eletrônica completou 30 anos em 2026. Desde sua estreia, foram realizadas 15 eleições informatizadas no Brasil — a de outubro será a décima-sexta.",
       "tags": [
-        "Lula"
+        "eleições",
+        "urnas",
+        "TSE"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Mundo"
       ],
-      "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 01:46:09 +0000"
+      "score": 81,
+      "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "7bf263c39558",
@@ -525,43 +543,6 @@
       "publishedRaw": "Thu, 03 Sep 2026 21:08:08 GMT"
     },
     {
-      "id": "fe261e8ca851",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE aprova oito candidaturas à Presidência; outros cinco registros continuam em análise",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-aprova-oito-candidaturas-a-presidencia-outros-cinco-registros-continuam-em-analise-nprp/",
-      "summary": "",
-      "tags": [
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 74,
-      "publishedRaw": "Fri, 04 Sep 2026 22:28:34 +0000"
-    },
-    {
-      "id": "4cd54c7a9171",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Procuradoria investiga atuação de big techs e pede informações ao TSE sobre reuniões com plataformas de IA",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/procuradoria-investiga-atuacao-de-big-techs-e-pede-informacoes-ao-tse-sobre-reunioes-com-plataformas-de-ia.shtml",
-      "summary": "A Procuradoria-Geral Eleitoral instaurou um procedimento para apurar a suspeita de que big techs com sistemas de IA generativa estariam descumprindo regras eleitorais e, dentro dele, pediu ao TSE (Tribunal Superior Eleitoral) que compartilhe informações que considere pertinentes sobre o tema, a partir das reuniões que a corte vem realizado com as empresas.\nLeia mais (09/04/2026 - 23h03)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 73,
-      "publishedRaw": "04 Sep 2026 23:03:00 -0300"
-    },
-    {
       "id": "4388909491d6",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -577,6 +558,24 @@
       ],
       "score": 72,
       "publishedRaw": "Fri, 04 Sep 2026 15:59:42 -0000"
+    },
+    {
+      "id": "fe261e8ca851",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE aprova oito candidaturas à Presidência; outros cinco registros continuam em análise",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-aprova-oito-candidaturas-a-presidencia-outros-cinco-registros-continuam-em-analise-nprp/",
+      "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 70,
+      "publishedRaw": "Fri, 04 Sep 2026 22:28:34 +0000"
     },
     {
       "id": "6c40deb7c1d9",
