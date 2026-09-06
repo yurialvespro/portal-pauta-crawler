@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T00:26:57.077216+00:00",
+  "generated_at": "2026-09-06T00:49:23.544310+00:00",
   "items": [
     {
       "id": "0cf62279b24e",
@@ -41,7 +41,8 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:01 -0000"
@@ -64,10 +65,32 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "e6ab9d8134b8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zanin vota contra pedido de liberdade para Bolsonaro no STF",
+      "link": "https://www.poder360.com.br/poder-justica/zanin-vota-contra-pedido-de-liberdade-para-bolsonaro-no-stf/",
+      "summary": "Ministro acompanha relatora Cármen Lúcia para rejeitar habeas corpus; recurso foi apresentado por homem que não integra a equipe de advogados do ex-presidente",
+      "tags": [
+        "STF",
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Sun, 06 Sep 2026 00:31:26 +0000"
     },
     {
       "id": "a7684de4a8e4",
@@ -107,10 +130,31 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
+    },
+    {
+      "id": "acc7d70e79b3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-alexandre-de-moraes-e-laranja-podre-dentro-do-supremo-tribunal-federal-npr/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 05 Sep 2026 19:32:52 +0000"
     },
     {
       "id": "bcc1d77aac44",
@@ -325,23 +369,23 @@
       "publishedRaw": "Sun, 06 Sep 2026 00:00:23 +0000"
     },
     {
-      "id": "acc7d70e79b3",
-      "source": "Estadão",
+      "id": "c64f5f7a8cc2",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-alexandre-de-moraes-e-laranja-podre-dentro-do-supremo-tribunal-federal-npr/",
-      "summary": "",
+      "title": "Haddad diz que Master nasceu em gestão Bolsonaro: “Produto de uma máfia”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-diz-que-master-nasceu-em-gestao-bolsonaro-produto-de-uma-mafia/",
+      "summary": "Ex-ministro da Fazenda citou doações feitas por cunhado de Daniel Vorcaro às campanhas de Jair Bolsonaro e Tarcísio de Freitas",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Sat, 05 Sep 2026 19:32:52 +0000"
+      "score": 83,
+      "publishedRaw": "Sat, 05 Sep 2026 23:07:13 +0000"
     },
     {
       "id": "7bf263c39558",
@@ -441,24 +485,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "c64f5f7a8cc2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Haddad diz que Master nasceu em gestão Bolsonaro: “Produto de uma máfia”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/haddad-diz-que-master-nasceu-em-gestao-bolsonaro-produto-de-uma-mafia/",
-      "summary": "Ex-ministro da Fazenda citou doações feitas por cunhado de Daniel Vorcaro às campanhas de Jair Bolsonaro e Tarcísio de Freitas",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 05 Sep 2026 23:07:13 +0000"
     },
     {
       "id": "4ccdea4178ba",
