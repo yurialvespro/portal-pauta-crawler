@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:14:43.547590+00:00",
+  "generated_at": "2026-09-06T14:40:40.459613+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -211,6 +211,26 @@
       "publishedRaw": "Sat, 05 Sep 2026 16:31:29 +0000"
     },
     {
+      "id": "2ba952851362",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula defende IA em português para reduzir dependência externa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-ia-em-portugues-para-reduzir-dependencia-externa/",
+      "summary": "Em comício no interior paulista, presidente disse que o Brasil não deveria depender de tecnologias desenvolvidas pelos EUA e pela China",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 06 Sep 2026 14:25:04 +0000"
+    },
+    {
       "id": "2bae8d3a5791",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -404,6 +424,24 @@
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "eb595cf1ec37",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle chama Mendonça de ‘ungido do Senhor’ em meio a crise no STF",
+      "link": "https://www.estadao.com.br/politica/michelle-mendonca-ungido-do-senhor-crise-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 06 Sep 2026 14:27:28 +0000"
+    },
+    {
       "id": "40d13de4663e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -420,24 +458,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sat, 05 Sep 2026 21:32:36 +0000"
-    },
-    {
-      "id": "5cec7747ad2a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidente do Instituto Não Aceito Corrupção vê ‘crise de credibilidade sem precedentes’ no STF",
-      "link": "https://www.estadao.com.br/politica/eleicoes/presidente-do-instituto-nao-aceito-corrupcao-ve-crise-de-credibilidade-sem-precedentes-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 05 Sep 2026 12:40:36 +0000"
     },
     {
       "id": "4ccdea4178ba",
@@ -585,6 +605,21 @@
       "crossOutlets": [],
       "score": 53,
       "publishedRaw": "Sun, 06 Sep 2026 13:11:23 +0000"
+    },
+    {
+      "id": "2b8caa3da05e",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Reforma tributária encarece passagens aéreas em 16,1%, diz associação",
+      "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-encarece-passagens-aereas-em-161-diz-associacao/",
+      "summary": "Estudo diz que aumento dos tributos pode reduzir a demanda e desacelerar a expansão da malha aérea",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "Sun, 06 Sep 2026 14:31:21 +0000"
     }
   ]
 }
