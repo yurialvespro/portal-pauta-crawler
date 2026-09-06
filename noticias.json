@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:15:59.874086+00:00",
+  "generated_at": "2026-09-06T16:40:50.905891+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -63,9 +63,9 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Sat, 05 Sep 2026 19:40:18 -0000"
@@ -105,9 +105,9 @@
         "impeachment"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Sun, 06 Sep 2026 08:30:00 +0000"
@@ -216,27 +216,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sun, 06 Sep 2026 15:00:31 +0000"
-    },
-    {
-      "id": "b22057d14475",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba quem são os candidatos ao Senado apoiados por Lula em 2026",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-sao-os-candidatos-ao-senado-apoiados-por-lula-em-2026/",
-      "summary": "Levantamento do Poder360 mostra 50 nomes nos palanques do presidente; 18 estão entre os mais competitivos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 06 Sep 2026 15:00:09 +0000"
     },
     {
       "id": "7bf263c39558",
@@ -410,8 +389,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Sat, 05 Sep 2026 20:12:34 -0000"
@@ -428,29 +407,11 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Sat, 05 Sep 2026 11:13:32 -0000"
-    },
-    {
-      "id": "37ab4858e927",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Guerra interna”: Como a crise no STF repercute na imprensa internacional",
-      "link": "https://www.cnnbrasil.com.br/internacional/guerra-interna-como-a-crise-no-stf-repercute-na-imprensa-internacional/",
-      "summary": "Veículos estrangeiros destacam a disputa entre os ministros Alexandre de Moraes e André Mendonça após retirada de sigilo de relatório da PF sobre o ex-banqueiro Daniel Vorcaro",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sun, 06 Sep 2026 14:27:47 +0000"
     },
     {
       "id": "eb595cf1ec37",
@@ -464,8 +425,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Sun, 06 Sep 2026 14:27:28 +0000"
@@ -482,11 +443,29 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Sat, 05 Sep 2026 21:32:36 +0000"
+    },
+    {
+      "id": "1c4702a36ed6",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Estudo propõe mandato de 8 anos no STF para melhorar a Justiça",
+      "link": "https://www.poder360.com.br/poder-justica/estudo-propoe-mandato-de-8-anos-no-stf-para-melhorar-a-justica/",
+      "summary": "Documento sugere forma de avaliar tribunais e apresenta uma agenda com 15 mudanças na governança do sistema de Justiça",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 06 Sep 2026 16:24:33 +0000"
     },
     {
       "id": "1371f26eea55",
@@ -593,23 +572,6 @@
       "publishedRaw": "Sun, 06 Sep 2026 15:55:24 +0000"
     },
     {
-      "id": "e8a402d3210e",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Urnas fecham na Saxônia-Anhalt, na Alemanha; extrema direita lidera projeções em eleição estadual",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/06/eleicao-alemanha-saxonia-anhalt.ghtml",
-      "summary": "Urnas abrem na Alemanha em eleição estadual que pode dar vitória à extrema direita\nAs urnas fecharam neste domingo (6) na Saxônia-Anhalt, estado do leste da Alemanha, e a Alternativa para a Alemanha (AfD), partido de extrema direita, aparece na liderança das primeiras projeções. \nA legenda tem entre 44% e 44,5% dos votos, segundo estimativas das emissoras públicas ZDF e ARD, enquanto a CDU, do chanceler Friedrich Merz, aparece com 18,5%.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nO principal candidato da AfD é Ulrich Siegmund, de 35 anos. A CDU, por sua vez, tenta manter o governo estadual com Sven Schulze, atual chefe do Executivo da Saxônia-Anhalt.\nUma vitória da AfD, porém, não significa necessariamente que o partido assumirá o governo. Para governar sozinho, a legenda precisa conquistar maioria absoluta das cadeiras do Parlamento estadual. \nEleitor deposita voto em uma urna durante a eleição estadual da Saxônia-Anhalt, em Tangermünde, na Alemanha, neste domingo (6).\nFabrizio Bensch/Reuters\nOs principais partidos alemães mantêm uma política de não formar coalizões com a AfD.\nEsse cálculo depende também do desempenho das legendas menores. Na Alemanha, partidos que não alcançam 5% dos votos ficam fora do Parlamento, o que redistribui as cadeiras entre as siglas que ultrapassam essa barreira. \nSe várias delas ficarem abaixo desse limite, a AfD pode conseguir maioria mesmo sem receber mais de 50% dos votos.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nCaso a AfD não consiga maioria absoluta, a tendência é de negociações para tentar formar outro governo liderado pela CDU. Esse processo pode levar semanas e dependerá de quais partidos conseguirem representação no Parlamento estadual.\nA eleição também é vista como um teste para o governo federal de Friedrich Merz. O chanceler adotou posições mais duras sobre imigração e segurança numa tentativa de conter o crescimento da AfD, mas o partido de extrema direita continua avançando nas pesquisas. \nUma vitória expressiva da legenda aumentaria a pressão política sobre Merz.\nA AfD da Saxônia-Anhalt é classificada pelo serviço de inteligência estadual como uma organização de extrema direita. O partido rejeita essa classificação.\nMesmo sendo uma disputa estadual, o resultado é acompanhado de perto em toda a Alemanha porque pode mostrar até onde vai o crescimento eleitoral da AfD e influenciar a estratégia dos partidos tradicionais antes das próximas eleições federais, previstas para 2029.\nO principal candidato da extrema direita Alternativa para a Alemanha (AfD), Ulrich Siegmund, participa do último comício do partido antes da eleição estadual da Saxônia-Anhalt, em Magdeburgo, na Alemanha, neste sábado (5).\nFabrizio Bensch/Reuters\nLEIA TAMBÉM:\nQuem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela\nEm Gana, caixões personalizados contam a história de quem morreu\nDívida dos EUA passa de R$ 200 trilhões. Por que Trump não consegue frear a alta?",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 65,
-      "publishedRaw": "Sun, 06 Sep 2026 11:13:51 -0000"
-    },
-    {
       "id": "5ecd51577fee",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -625,21 +587,6 @@
       ],
       "score": 65,
       "publishedRaw": "Sun, 06 Sep 2026 08:00:00 -0000"
-    },
-    {
-      "id": "611fb1ae77be",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Criminosos invadem casa, fazem família refém e levam joias e arma em São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/criminosos-invadem-casa-fazem-familia-refem-e-levam-joias-e-arma-em-sao-paulo.shtml",
-      "summary": "Cinco homens armados e usando máscaras invadiram uma casa no Campo Belo, na zona sul de São Paulo, na tarde de sexta-feira (4). O grupo fez moradores reféns e fugiu levando joias, eletrônicos e uma arma de fogo.\nLeia mais (09/06/2026 - 10h29)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "06 Sep 2026 10:29:00 -0300"
     }
   ]
 }
