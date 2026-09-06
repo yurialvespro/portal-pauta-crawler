@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T09:15:26.975624+00:00",
+  "generated_at": "2026-09-06T09:41:04.062777+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -432,6 +432,24 @@
       "publishedRaw": "Sat, 05 Sep 2026 12:40:36 +0000"
     },
     {
+      "id": "7223c9d86f36",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Partido de direita da Alemanha busca virada história em eleições estaduais",
+      "link": "https://www.cnnbrasil.com.br/internacional/partido-de-direita-da-alemanha-busca-virada-historia-em-eleicoes-estaduais/",
+      "summary": "Eleição no estado da Saxônia-Anhalt é vista como marco na política do país, com pesquisas apontando o partido de direita com mais de 40% dos votos",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 06 Sep 2026 09:01:19 +0000"
+    },
+    {
       "id": "ad4a062500c1",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -468,6 +486,24 @@
       "publishedRaw": "Sat, 05 Sep 2026 19:32:52 +0000"
     },
     {
+      "id": "c1925f20cb0f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Treine para votar: simulador permite testar a urna antes das eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/treine-para-votar-simulador-permite-testar-a-urna-antes-das-eleicoes/",
+      "summary": "Ferramenta da Justiça Eleitoral reproduz a votação e ajuda a evitar erros no dia do pleito",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 06 Sep 2026 09:18:13 +0000"
+    },
+    {
       "id": "dce026e81b44",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -484,24 +520,6 @@
       ],
       "score": 78,
       "publishedRaw": "Sun, 06 Sep 2026 09:00:32 +0000"
-    },
-    {
-      "id": "5049c4d4ed0a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Conheça os principais nomes do entretenimento que disputam as eleições",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/conheca-os-principais-nomes-do-entretenimento-que-disputam-as-eleicoes/",
-      "summary": "Lista inclui nomes consolidados da televisão brasileira e novos sucessos da internet; famosos buscam vaga no legislativo",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Sun, 06 Sep 2026 09:00:10 +0000"
     },
     {
       "id": "1371f26eea55",
