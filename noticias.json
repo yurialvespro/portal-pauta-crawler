@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:39:30.952775+00:00",
+  "generated_at": "2026-09-06T18:17:07.837584+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -23,6 +23,28 @@
       ],
       "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:01 -0000"
+    },
+    {
+      "id": "01a0cc8d1166",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula critica gestão Bolsonaro durante pandemia: ‘poderiam ter sido evitadas 400 mil mortes’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-critica-gestao-bolsonaro-durante-pandemia-poderiam-ter-sido-evitadas-400-mil-mortes/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
     },
     {
       "id": "9577fdbea967",
@@ -66,6 +88,27 @@
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
     },
     {
+      "id": "cac4e5f8909f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE autoriza pronunciamento de Lula neste domingo sobre o 7 de Setembro",
+      "link": "https://www.estadao.com.br/politica/tse-autoriza-pronunciamento-de-lula-neste-domingo-sobre-o-7-de-setembro/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Sun, 06 Sep 2026 17:47:05 +0000"
+    },
+    {
       "id": "0cf62279b24e",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -106,26 +149,6 @@
       "publishedRaw": "Sun, 06 Sep 2026 16:53:57 +0000"
     },
     {
-      "id": "4810c4b94c03",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Veritá: 35% rejeitam votar em Lula; 25,8%, em Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/verita-35-rejeitam-votar-em-lula-258-em-flavio/",
-      "summary": "Foram entrevistados 3.804 eleitores entre os dias 1º e 4 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 06 Sep 2026 16:25:31 +0000"
-    },
-    {
       "id": "e54b9cdadeae",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -144,46 +167,6 @@
       ],
       "score": 84,
       "publishedRaw": "Sun, 06 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "57fa1f1aff22",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Com Vorcaro no foco, pior para Flávio; com Moraes, Lula que se cuide",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/com-vorcaro-no-foco-pior-para-flavio-com-moraes-lula-que-se-cuide/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 17:11:14 +0000"
-    },
-    {
-      "id": "ff10c883a309",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que não quer depender de EUA e China para IA e acusou Trump de querer ‘acabar com o Pix’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-nao-quer-depender-de-eua-e-china-para-ia-e-acusou-trump-de-querer-acabar-com-o-pix/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 05 Sep 2026 16:31:29 +0000"
     },
     {
       "id": "1c186276d810",
@@ -237,8 +220,8 @@
         "TSE"
       ],
       "crossOutlets": [
-        "G1 - Mundo",
-        "Poder360"
+        "Estadão",
+        "G1 - Mundo"
       ],
       "score": 81,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
@@ -308,9 +291,9 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Crise STF: 'problemas reais e graves estão sendo misturados com intereses eleitorais', diz Flávio Dino em postagem",
+      "title": "Crise STF: 'problemas reais e graves estão sendo misturados com interesses eleitorais', diz Flávio Dino em postagem",
       "link": "https://g1.globo.com/politica/noticia/2026/09/06/crise-stf-problemas-reais-e-graves-estao-sendo-misturados-com-intereses-eleitorais-diz-flavio-dino-em-postagem.ghtml",
-      "summary": "Ministro Flávio Dino durante sessão plenária do STF em 16/04/2026\nLuiz Silveira/STF\nO ministro Flávio Dino, do Supremo Tribunal Federal (STF), usou neste domingo (6) as redes sociais para se manifestar sobre a crise na Suprema Corte após a revelação de mensagens trocadas entre Alexandre de Moraes e Daniel Vorcaro e a divulgação de relatórios com questionamentos sobre a atuação de André Mendonça nos casos Master e do INSS.  \n\"Atribui-se a Ésquilo a frase: “Na guerra, a primeira vítima é a verdade”. Tenho visto isso no atabalhoado debate sobre o Poder Judiciário. Problemas reais e graves estão sendo misturados com interesses eleitorais e econômicos, objetivos estrangeiros e até ódios pessoais\", disse o ministro.\nNa postagem, o ministro aborda três temas que, segundo ele, merecem \"mais aprofundamento\": \"as decisões monocráticas são um mal no STF\", “tem que tirar a jurisdição penal do STF” e “o inquérito X ou Y tem que acabar pois está muito antigo; o Plenário do STF aprovou a instauração há muitos anos.”\nSem citar o inquérito das fake news diretamente, Flávio Dino disse que é a favor da conclusão dos inquéritos, afirmou entretanto que \"antes do prazo prescricional, um inquérito deve ser arquivado por motivo de tramitação longa? E quem decide o que é “tramitação longa”?\".\nAberto há 7 anos para investigar ataques, ameaças e notícias falsas contra a Supremau Corte, o inquérito acumulou, ao longo dos anos, decisões que ampliaram o alcance da investigação e geraram controvérsias dentro e fora da Suprema Corte.\nRelatado por Moraes, o processo voltou ao centro do debate nesta semana depois de o ministro ter pedido que Mendonça fosse investigado no âmbito do inquérito das fake news. O presidente do STF, ministro Edson Fachin, no entanto, retirou do escopo desse inquérito o pedido de Moraes.\n\n\"Eu pessoalmente sou a favor da conclusão dos inquéritos, até porque eles foram feitos para terminar mesmo, mediante a propositura das ações penais ou dos arquivamentos cabíveis. De todo modo, temos aí um interessante debate doutrinário: antes do prazo prescricional, um inquérito deve ser arquivado por motivo de tramitação longa? E quem decide o que é “tramitação longa”? Opiniões pessoais ? Ou critérios legais e regimentais?\", afirmou o ministro. \nDecisões monocráticas\nO ministro Flávio Dino rebateu as críticas de que “as decisões monocráticas são um mal no STF”. \nDe acordo com o ministro, tais decisões são essenciais em um sistema de precedentes vinculantes, no qual uma decisão tomada por um tribunal superior deve ser seguida por outros tribunais em casos futuros semelhantes. \n\"Se todas as questões com jurisprudência definida tiverem que ir aos Colegiados, o número de julgamentos vai desabar e a morosidade vai aumentar. Isso seria bom para os criminosos, devedores contumazes e similares\", argumenta o ministro. \nJurisdição Penal do STF \nO ministro defendeu também que seja mantida a jurisdição penal do STF. \n\n\"Se tira de lá, tem que colocar em algum lugar. Hoje há 23.000 processos no STF, enquanto que outros tribunais tem centenas de milhares. Assim, só é possível mudar a competência constitucional do STF com reformas coerentes e planejadas\".\nEntenda a escalada da crise\nNa terça-feira (1º), o ministro André Mendonça decidiu retirar o sigilo de relatórios produzidos, a seu pedido, pela Polícia Federal.\nOs documentos continham mensagens e informações que citavam autoridades de diferentes órgãos, entre elas o ministro Alexandre de Moraes.   \nParte dos relatórios divulgados pela PF expõe uma relação de proximidade entre Moraes e o ex-controlador do Banco Master à época dos fatos investigados.\nCom base em apontamentos da PF, Moraes levantou questionamentos sobre determinadas diligências autorizadas por Mendonça e sobre a postura dele em negociações de acordos de colaboração no âmbito dos casos Master e do INSS.\nFoi nesse contexto que Moraes pediu a abertura de uma investigação sobre a atuação do colega. Para embasar o pedido, o ministro citou relatórios de inteligência da PF, segundo ele, com indícios de assimetria na condução de investigações e possível direcionamento de apurações.\nOs documentos, porém, trazem uma ressalva importante: não têm caráter probatório e não podem ser usados como prova judicial.",
+      "summary": "Ministro Flávio Dino durante sessão plenária do STF em 16/04/2026\nLuiz Silveira/STF\nO ministro Flávio Dino, do Supremo Tribunal Federal (STF), usou neste domingo (6) as redes sociais para se manifestar sobre a crise na Suprema Corte após a revelação de mensagens trocadas entre Alexandre de Moraes e Daniel Vorcaro e a divulgação de relatórios com questionamentos sobre a atuação de André Mendonça nos casos Master e do INSS.  \n\"Atribui-se a Ésquilo a frase: “Na guerra, a primeira vítima é a verdade”. Tenho visto isso no atabalhoado debate sobre o Poder Judiciário. Problemas reais e graves estão sendo misturados com interesses eleitorais e econômicos, objetivos estrangeiros e até ódios pessoais\", disse o ministro.\nNa postagem, o ministro aborda três temas que, segundo ele, merecem \"mais aprofundamento\": \"as decisões monocráticas são um mal no STF\", “tem que tirar a jurisdição penal do STF” e “o inquérito X ou Y tem que acabar pois está muito antigo; o Plenário do STF aprovou a instauração há muitos anos.”\nSem citar o inquérito das fake news diretamente, Flávio Dino disse que é a favor da conclusão das investigações. Mas questionou: \"antes do prazo prescricional, um inquérito deve ser arquivado por motivo de tramitação longa? E quem decide o que é “tramitação longa”?\".\nAberto há 7 anos para investigar ataques, ameaças e notícias falsas contra a Supremau Corte, o inquérito acumulou, ao longo dos anos, decisões que ampliaram o alcance da investigação e geraram controvérsias dentro e fora da Suprema Corte.\n\"Eu pessoalmente sou a favor da conclusão dos inquéritos, até porque eles foram feitos para terminar mesmo, mediante a propositura das ações penais ou dos arquivamentos cabíveis. De todo modo, temos aí um interessante debate doutrinário: antes do prazo prescricional, um inquérito deve ser arquivado por motivo de tramitação longa? E quem decide o que é “tramitação longa”? Opiniões pessoais ? Ou critérios legais e regimentais?\", afirmou o ministro. \nRelatado por Moraes, o processo voltou ao centro do debate nesta semana depois de o ministro ter pedido que Mendonça fosse investigado no âmbito do inquérito das fake news. \nO presidente do STF, ministro Edson Fachin, no entanto, decidiu retirar do escopo desse inquérito o pedido de Moraes.\n\"Insisto em um ponto: institucionalidade é um assunto muito sério para ser embaralhado com interesses eleitorais ou com mentiras. A propósito, lembro o ensinamento cristão: o DIABO é o “pai da mentira”,  acrescentou o ministro. \nDecisões monocráticas\nO ministro Flávio Dino rebateu as críticas de que “as decisões monocráticas são um mal no STF”. \nDe acordo com o ministro, tais decisões são essenciais em um sistema de precedentes vinculantes, no qual uma decisão tomada por um tribunal superior deve ser seguida por outros tribunais em casos futuros semelhantes. \n\"Se todas as questões com jurisprudência definida tiverem que ir aos Colegiados, o número de julgamentos vai desabar e a morosidade vai aumentar. Isso seria bom para os criminosos, devedores contumazes e similares\", argumenta o ministro. \nJurisdição Penal do STF \nO ministro defendeu também que seja mantida a jurisdição penal do STF. \n\n\"Se tira de lá, tem que colocar em algum lugar. Hoje há 23.000 processos no STF, enquanto que outros tribunais tem centenas de milhares. Assim, só é possível mudar a competência constitucional do STF com reformas coerentes e planejadas\".\nEntenda a escalada da crise\nNa terça-feira (1º), o ministro André Mendonça decidiu retirar o sigilo de relatórios produzidos, a seu pedido, pela Polícia Federal.\nOs documentos continham mensagens e informações que citavam autoridades de diferentes órgãos, entre elas o ministro Alexandre de Moraes.   \nOs diálogos sinalizam a existuma relação de proximidade entre Moraes e o ex-controlador do Banco Master à época dos fatos investigados.\nCrise do Master: por que esta foi uma das semanas mais turbulentas da política em 2026\nCom base em apontamentos da PF, Moraes levantou questionamentos sobre determinadas diligências autorizadas por Mendonça e sobre a postura dele em negociações de acordos de colaboração no âmbito dos casos Master e do INSS.\nFoi nesse contexto que Moraes pediu a abertura de uma investigação sobre a atuação do colega. Para embasar o pedido, o ministro citou relatórios de inteligência da PF, segundo ele, com indícios de assimetria na condução de investigações e possível direcionamento de apurações.\nOs documentos, porém, trazem uma ressalva importante: não têm caráter probatório e não podem ser usados como prova judicial.",
       "tags": [
         "STF"
       ],
@@ -413,6 +396,24 @@
       "publishedRaw": "Sat, 05 Sep 2026 21:32:36 +0000"
     },
     {
+      "id": "8913d73034a0",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dino defende decisões monocráticas e questiona fim de inquéritos no STF",
+      "link": "https://www.poder360.com.br/poder-justica/dino-defende-decisoes-monocraticas-e-questiona-fim-de-inqueritos-no-stf/",
+      "summary": "Nas redes sociais, ministro disse ser favorável à conclusão dos casos no Supremo, mas refletiu sobre \"quem decide o que é uma tramitação longa\"",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 06 Sep 2026 18:05:26 +0000"
+    },
+    {
       "id": "1c4702a36ed6",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -495,7 +496,7 @@
         "TSE"
       ],
       "crossOutlets": [
-        "Poder360"
+        "Estadão"
       ],
       "score": 68,
       "publishedRaw": "Sun, 06 Sep 2026 05:00:00 -0000"
@@ -512,7 +513,7 @@
         "TSE"
       ],
       "crossOutlets": [
-        "Poder360"
+        "Estadão"
       ],
       "score": 68,
       "publishedRaw": "Sat, 05 Sep 2026 19:11:41 -0000"
@@ -534,23 +535,6 @@
       ],
       "score": 68,
       "publishedRaw": "Fri, 04 Sep 2026 17:08:53 GMT"
-    },
-    {
-      "id": "7f0198b985d1",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Empresas não declaradas ao TSE são inexpressivas, diz campanha de Cury",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresas-nao-declaradas-ao-tse-sao-inexpressivas-diz-campanha-de-cury/",
-      "summary": "Equipe do candidato do Avante ao Planalto afirmou que \"inconsistências pontuais serão corrigidas nos termos da lei\"",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 06 Sep 2026 15:55:24 +0000"
     },
     {
       "id": "5ecd51577fee",
