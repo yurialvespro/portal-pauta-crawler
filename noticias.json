@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:13:33.676988+00:00",
+  "generated_at": "2026-09-06T01:41:54.329632+00:00",
   "items": [
     {
       "id": "0cf62279b24e",
@@ -429,26 +429,6 @@
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
-      "id": "bc6a5faa2aa2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político",
-      "link": "https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A escalada, que transformou Moraes, o alvo original das suspeitas, em autor de uma contra-acusação a André Mendonça, provocou reações imediatas — especialmente no campo da oposição.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 81,
-      "publishedRaw": "Fri, 04 Sep 2026 13:07:37 GMT"
-    },
-    {
       "id": "7bf263c39558",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -480,10 +460,8 @@
         "urnas",
         "TSE"
       ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 76,
+      "crossOutlets": [],
+      "score": 72,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
@@ -512,28 +490,9 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 68,
+      "crossOutlets": [],
+      "score": 64,
       "publishedRaw": "Sat, 05 Sep 2026 19:11:41 -0000"
-    },
-    {
-      "id": "5dccbe5bcf29",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE leva urna eletrônica a Copacabana para simular votação",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-leva-urna-eletronica-a-copacabana-para-simular-votacao/",
-      "summary": "Ação permitiu testar equipamento, conhecer nova interface e preparar a colinha para as eleições de outubro",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Sat, 05 Sep 2026 22:49:27 +0000"
     },
     {
       "id": "445fbea57ff7",
