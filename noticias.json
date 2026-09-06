@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:16:39.918767+00:00",
+  "generated_at": "2026-09-06T08:42:22.856822+00:00",
   "items": [
     {
       "id": "3b2925649118",
@@ -91,6 +91,27 @@
       "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
     },
     {
+      "id": "49654114b84b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle Bolsonaro apoia Mendonça durante crise no STF",
+      "link": "https://www.poder360.com.br/poder-gente/michelle-bolsonaro-apoia-mendonca-durante-crise-no-stf/",
+      "summary": "Ex-primeira-dama diz que ministro do Supremo é “escolhido e ungido do Senhor” e que a Igreja o ama",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Michelle Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Sun, 06 Sep 2026 08:37:51 +0000"
+    },
+    {
       "id": "ecf88ad7ab62",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -113,24 +134,25 @@
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
     },
     {
-      "id": "e6ab9d8134b8",
-      "source": "Poder360",
+      "id": "4ccdea4178ba",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Zanin vota contra pedido de liberdade para Bolsonaro no STF",
-      "link": "https://www.poder360.com.br/poder-justica/zanin-vota-contra-pedido-de-liberdade-para-bolsonaro-no-stf/",
-      "summary": "Ministro acompanha relatora Cármen Lúcia para rejeitar habeas corpus; recurso foi apresentado por homem que não integra a equipe de advogados do ex-presidente",
+      "title": "VÍDEO: Entenda como o TSE testa as urnas eletrônicas antes das eleições",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/video-entenda-como-o-tse-testa-as-urnas-eletronicas-antes-das-eleicoes.ghtml",
+      "summary": "Como a urna eletrônica é testada antes das eleições\nAntes de cada eleição, o Tribunal Superior Eleitoral (TSE) promove uma série de testes públicos para tentar identificar falhas nos sistemas eleitorais. \nUm exemplo é o chamado Teste de Segurança, iniciativa que permite a especialistas em computação e a qualquer cidadão brasileiro maior de 18 anos tentar encontrar vulnerabilidades nos sistemas usados nas urnas eletrônicas.\nUm dos principais alvos dos testes é o código-fonte dos sistemas da urna. É o conjunto de instruções que determina como o software deve funcionar. Segundo o TSE, desde a primeira edição do teste, em 2009, nenhum participante conseguiu encontrar uma falha capaz de comprometer o sigilo do voto ou o resultado de uma eleição.\nDesde a primeira eleição com urnas eletrônicas, nunca houve um caso de fraude no equipamento.\n📍Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\nO teste público de segurança é apenas um dos mecanismos de verificação usados pela Justiça Eleitoral. Confira as principais etapas do processo:\nInspeção do código-fonte\nUrnas eletrônicas em Campo Grande.\nTRE-MS\nUm ano antes da eleição, os códigos-fonte dos sistemas eleitorais são abertos para análise. Entidades autorizadas podem examinar os códigos, acompanhar o funcionamento dos sistemas e solicitar esclarecimentos ao TSE.\nAssinatura digital e lacração\nMais próximo da votação, as urnas que serão utilizadas passam por um processo de assinatura digital e lacração. A partir desse momento, qualquer alteração nos programas pode ser identificada.\nTeste de integridade\nNo dia da eleição, algumas urnas são sorteadas para passar pelo teste de integridade. Na véspera, representantes de entidades e partidos preenchem cédulas de papel com votos e as depositam em uma urna de lona. No dia da votação, os mesmos votos são digitados na urna eletrônica sorteada para o teste — todo o processo é acompanhado e filmado.\nAo final, é feita a comparação entre o resultado registrado pela urna eletrônica e os votos preenchidos nas cédulas de papel. É assim que se verifica, na prática, se o equipamento registra e contabiliza corretamente os votos.\nZerésima e boletim de urna\nAntes do início da votação, cada urna emite a chamada \"zerésima\", documento que comprova que o equipamento começou o dia sem nenhum voto registrado.\nAo final da votação, a urna emite o boletim de urna, com os totais de votos recebidos por cada candidato e partido, além dos votos brancos e nulos. Uma cópia do boletim é afixada na seção eleitoral, e o documento traz um QR Code que pode ser lido por qualquer pessoa, permitindo comparar o resultado daquela urna com os dados publicados posteriormente pelo TSE.\n30 anos de urna eletrônica\nO sistema de votação eletrônica não é recente: a urna eletrônica completou 30 anos em 2026. Desde sua estreia, foram realizadas 15 eleições informatizadas no Brasil — a de outubro será a décima-sexta.",
       "tags": [
-        "STF",
-        "Bolsonaro"
+        "eleições",
+        "urnas",
+        "TSE"
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
+        "G1 - Mundo",
+        "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Sun, 06 Sep 2026 00:31:26 +0000"
+      "score": 85,
+      "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "99db0d1cd5fc",
@@ -433,26 +455,6 @@
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
-      "id": "4ccdea4178ba",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "VÍDEO: Entenda como o TSE testa as urnas eletrônicas antes das eleições",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/video-entenda-como-o-tse-testa-as-urnas-eletronicas-antes-das-eleicoes.ghtml",
-      "summary": "Como a urna eletrônica é testada antes das eleições\nAntes de cada eleição, o Tribunal Superior Eleitoral (TSE) promove uma série de testes públicos para tentar identificar falhas nos sistemas eleitorais. \nUm exemplo é o chamado Teste de Segurança, iniciativa que permite a especialistas em computação e a qualquer cidadão brasileiro maior de 18 anos tentar encontrar vulnerabilidades nos sistemas usados nas urnas eletrônicas.\nUm dos principais alvos dos testes é o código-fonte dos sistemas da urna. É o conjunto de instruções que determina como o software deve funcionar. Segundo o TSE, desde a primeira edição do teste, em 2009, nenhum participante conseguiu encontrar uma falha capaz de comprometer o sigilo do voto ou o resultado de uma eleição.\nDesde a primeira eleição com urnas eletrônicas, nunca houve um caso de fraude no equipamento.\n📍Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\nO teste público de segurança é apenas um dos mecanismos de verificação usados pela Justiça Eleitoral. Confira as principais etapas do processo:\nInspeção do código-fonte\nUrnas eletrônicas em Campo Grande.\nTRE-MS\nUm ano antes da eleição, os códigos-fonte dos sistemas eleitorais são abertos para análise. Entidades autorizadas podem examinar os códigos, acompanhar o funcionamento dos sistemas e solicitar esclarecimentos ao TSE.\nAssinatura digital e lacração\nMais próximo da votação, as urnas que serão utilizadas passam por um processo de assinatura digital e lacração. A partir desse momento, qualquer alteração nos programas pode ser identificada.\nTeste de integridade\nNo dia da eleição, algumas urnas são sorteadas para passar pelo teste de integridade. Na véspera, representantes de entidades e partidos preenchem cédulas de papel com votos e as depositam em uma urna de lona. No dia da votação, os mesmos votos são digitados na urna eletrônica sorteada para o teste — todo o processo é acompanhado e filmado.\nAo final, é feita a comparação entre o resultado registrado pela urna eletrônica e os votos preenchidos nas cédulas de papel. É assim que se verifica, na prática, se o equipamento registra e contabiliza corretamente os votos.\nZerésima e boletim de urna\nAntes do início da votação, cada urna emite a chamada \"zerésima\", documento que comprova que o equipamento começou o dia sem nenhum voto registrado.\nAo final da votação, a urna emite o boletim de urna, com os totais de votos recebidos por cada candidato e partido, além dos votos brancos e nulos. Uma cópia do boletim é afixada na seção eleitoral, e o documento traz um QR Code que pode ser lido por qualquer pessoa, permitindo comparar o resultado daquela urna com os dados publicados posteriormente pelo TSE.\n30 anos de urna eletrônica\nO sistema de votação eletrônica não é recente: a urna eletrônica completou 30 anos em 2026. Desde sua estreia, foram realizadas 15 eleições informatizadas no Brasil — a de outubro será a décima-sexta.",
-      "tags": [
-        "eleições",
-        "urnas",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
-    },
-    {
       "id": "ad4a062500c1",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -464,10 +466,47 @@
         "eleições"
       ],
       "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 06 Sep 2026 07:01:41 +0000"
+    },
+    {
+      "id": "7c05d3d31bb1",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "3 missões internacionais vão observar as eleições de 2026",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/3-missoes-internacionais-vao-observar-as-eleicoes-de-2026/",
+      "summary": "União Europeia, Liga dos Estados Árabes e Uniore acompanharão votação, sistemas e divulgação dos resultados",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 74,
-      "publishedRaw": "Sun, 06 Sep 2026 07:01:41 +0000"
+      "score": 78,
+      "publishedRaw": "Sun, 06 Sep 2026 08:40:49 +0000"
+    },
+    {
+      "id": "5caa67969176",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Justiça Eleitoral amplia rede de transporte de eleitores nas eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/justica-eleitoral-amplia-rede-de-transporte-de-eleitores-nas-eleicoes/",
+      "summary": "Parcerias reforçam ações para reduzir barreiras de acessibilidade e deslocamento até os locais de votação",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 06 Sep 2026 08:30:52 +0000"
     },
     {
       "id": "1371f26eea55",
