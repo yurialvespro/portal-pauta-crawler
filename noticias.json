@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:43:22.905292+00:00",
+  "generated_at": "2026-09-07T11:16:05.167420+00:00",
   "items": [
     {
       "id": "0cf62279b24e",
@@ -17,9 +17,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 90,
+      "score": 94,
       "publishedRaw": "Sat, 05 Sep 2026 19:40:18 -0000"
     },
     {
@@ -38,10 +39,31 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 90,
+      "score": 94,
       "publishedRaw": "Mon, 07 Sep 2026 07:54:58 GMT"
+    },
+    {
+      "id": "1c186276d810",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro cobra voto de Cármen Lúcia para abertura de investigação contra Moraes",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-moraes/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 06 Sep 2026 15:50:19 +0000"
     },
     {
       "id": "c82e3f3a9c8c",
@@ -158,6 +180,26 @@
       "publishedRaw": "Sun, 06 Sep 2026 23:00:00 +0000"
     },
     {
+      "id": "01a0cc8d1166",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula critica gestão Bolsonaro durante pandemia: ‘poderiam ter sido evitadas 400 mil mortes’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-critica-gestao-bolsonaro-durante-pandemia-poderiam-ter-sido-evitadas-400-mil-mortes/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
+    },
+    {
       "id": "eb595cf1ec37",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -177,42 +219,23 @@
       "publishedRaw": "Sun, 06 Sep 2026 14:27:28 +0000"
     },
     {
-      "id": "1c186276d810",
-      "source": "Estadão",
+      "id": "dc572fefdec9",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro cobra voto de Cármen Lúcia para abertura de investigação contra Moraes",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-moraes/",
-      "summary": "",
+      "title": "Preso e com visitas limitadas, Bolsonaro passa 7 de Setembro em casa",
+      "link": "https://www.poder360.com.br/poder-gente/preso-e-com-visitas-limitadas-bolsonaro-passa-7-de-setembro-em-casa/",
+      "summary": "Ex-presidente mora com Michelle, a filha Laura e uma enteada; candidato à Presidência, Flávio está proibido de visitar o pai",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Sun, 06 Sep 2026 15:50:19 +0000"
-    },
-    {
-      "id": "01a0cc8d1166",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula critica gestão Bolsonaro durante pandemia: ‘poderiam ter sido evitadas 400 mil mortes’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-critica-gestao-bolsonaro-durante-pandemia-poderiam-ter-sido-evitadas-400-mil-mortes/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
+      "score": 83,
+      "publishedRaw": "Mon, 07 Sep 2026 11:00:01 +0000"
     },
     {
       "id": "63f974fc3a77",
@@ -227,10 +250,49 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "CNN Brasil"
+        "CNN Brasil",
+        "Estadão"
       ],
-      "score": 77,
+      "score": 82,
       "publishedRaw": "Mon, 07 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "5acd8e3c47ec",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: entenda como são eleitos deputados federais e estaduais",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-entenda-como-sao-eleitos-deputados-federais-e-estaduais/",
+      "summary": "Votação para membros da Câmara dos Deputados não segue o mesmo sistema que os demais representantes",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 07 Sep 2026 09:10:44 +0000"
+    },
+    {
+      "id": "7a909abe11fe",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Candidatos aproveitam 7 de setembro para atos de campanha; acompanhe",
+      "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2026-7-de-setembro-acompanhe/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 07 Sep 2026 10:39:30 +0000"
     },
     {
       "id": "ecf88ad7ab62",
@@ -246,28 +308,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "id": "5acd8e3c47ec",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: entenda como são eleitos deputados federais e estaduais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-entenda-como-sao-eleitos-deputados-federais-e-estaduais/",
-      "summary": "Votação para membros da Câmara dos Deputados não segue o mesmo sistema que os demais representantes",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Mon, 07 Sep 2026 09:10:44 +0000"
     },
     {
       "id": "cac4e5f8909f",
@@ -283,9 +328,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Sun, 06 Sep 2026 17:47:05 +0000"
     },
     {
@@ -293,17 +339,18 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula participa de desfile de 7 de Setembro com recados à soberania nacional e ao enfrentamento à violência contra mulheres",
+      "title": "Lula participa de 7 de setembro ao lado de Motta e Alcolumbre; evento terá recados sobre soberania e violência contra a mulher",
       "link": "https://g1.globo.com/politica/noticia/2026/09/07/lula-participa-de-desfile-de-7-de-setembro-com-recados-a-soberania-nacional-e-ao-enfrentamento-a-violencia-contra-mulheres.ghtml",
-      "summary": "Presidente Lula e Janja desfilam em carro aberto durante o 7 de Setembro em 2025 - imagem de arquivo\nTON MOLINA/FOTOARENA/ESTADÃO CONTEÚDO\nO presidente Luiz Inácio Lula da Silva (PT) participa na manhã desta segunda-feira (7) do desfile de 7 de Setembro na Esplanada dos Ministérios, em Brasília.\nO evento de celebração pelos 204 anos de Independência do Brasil será organizado em três eixos temáticos:\nsoberania nacional;\nenfrentamento à violência contra as mulheres;\nCopa do Mundo Feminina de 2027.\nO Desfile Cívico-Militar também terá a programação tradicional das tropas das Forças Armadas (Marinha, Exército e Forças Aéreas).\nO público poderá ocupar as arquibancadas na Esplanada a partir das 6h30. Às 9h, está prevista a recepção oficial ao presidente. O desfile começa na sequência da chegada de Lula com a execução do Hino Nacional e a parada cívico-militar.\nAgora no g1\nTemas do desfile\nA soberania nacional tem sido defendida pelo governo de Lula desde o tarifaço imposto pelo presidente dos EUA, Donald Trump, sobre produtos brasileiros no ano passado. O termo virou também um dos motes da campanha à reeleição ao quarto mandato do petista. \nEm pronunciamento pelo 7 de Setembro neste domingo (6), o presidente Lula afirmou que o Brasil não é e nem será \"colônia de ninguém\". \nNa mensagem, transmitida em cadeia nacional de rádio e TV, o petista fez um discurso de defesa da soberania e críticas indiretas ao tarifaço. \n\"Precisamos nos manter fortes e altivos, sem baixar a cabeça, para não deixarmos que o Brasil se transforme, novamente, em colônia de outras potências estrangeiras. Não somos, e não seremos colônia de ninguém.\"\nLula afirmou que \"um país soberano é aquele capaz de defender seu território, suas fronteiras, seu meio ambiente, suas riquezas e seu povo de quaisquer interesses estrangeiros\". \n\"Um país soberano é aquele capaz de criar as oportunidades que seu povo precisa para conquistar a própria independência\", disse o presidente. \nO enfrentamento à violência contra as mulheres também virou uma das frentes de ação do governo nos últimos meses com a alta no número de casos de feminicídio no país.\nEm maio deste ano, o petista sancionou três projetos de lei que endurecem as regras para proteção a mulheres vítimas de violência doméstica.\nEntre as medidas, estão a criação do Cadastro Nacional de Agressores e o afastamento do agressor do lar.\nOs projetos foram assinados durante evento no Palácio do Planalto em alusão aos 100 dias do Pacto Brasil entre os Três Poderes para Enfrentamento do Feminicídio. \nDurante o desfile também é esperada que uma parte seja em homenagem à Copa do Mundo Feminina de 2027, que vai ser no Brasil. Esta será a primeira vez que um país da América do Sul sediará o torneio.\nO evento vai ocorrer de 24 de junho a 25 de julho de 2027.\nChegada do presidente Lula em carro aberto para o desfile de 7 de Setembro\nTV Brasil/Reprodução\nComo será o desfile?\nA programação terá início com o desfile de alunos das escolas públicas e dos eixos temáticos. Desfilarão as tropas das Forças Armadas, da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal.\nOs desfiles incluem carros blindados, esquadrões de moto, cavalaria e tropas a pé, em diferentes formatos. Já ao fim do evento, o desfile será encerrado com as tradicionais demonstrações da Esquadrilha da Fumaça e de aeronaves da Força Aérea Brasileira (FAB).\nComo assistir?\nO acesso da população é gratuito, e as arquibancadas estarão abertas a partir das 6h. Haverá revistas nos acessos a Esplanada.\nVia S1: A entrada será realizada em frente ao estacionamento da Cúria Metropolitana, ao lado da Catedral de Brasília.\nVia N1: O acesso será pela lateral do Bloco J, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Pessoas com deficiência terão acesso pelo túnel do Bloco J, que possui rampa de ligação com o espaço reservado entre o ministério e a Via N1.\nTambém haverá ações preventivas na estação Central do Metrô, na estação Galeria, na rodoviária do Plano Piloto e nas linhas de acesso às arquibancadas.\nÉ importante chegar cedo, porque as revistas serão individualizadas.\nO que é proibido levar 🚫\nAnimais (exceto cães-guia) 🐶\nArmas de fogo, brancas, réplicas ou objetos cortantes/perfurantes 🪒\nExplosivos, fogos de artifício, inflamáveis, sprays/aerossóis 🧨\nFrascos de vidro, latas, copos, isopores, churrasqueiras e fogões, capacetes 🍾\nBarracas, carrinhos de compras, malas, caixas, bolsas/mochilas grandes 🎒\nMáscaras, mastros, bastões ou objetos que possam causar danos 🏏\nDrogas ilícitas e drones sem autorização 🚁\nQualquer item que comprometa a segurança ou a integridade das pessoas 🚫\nCartazes, bandeiras e símbolos com mensagens que atentem contra a dignidade, em especial de caráter racista, homofóbico, sexista e xenofóbico 📑\n🏍️ Motociclistas devem ficar atentos: capacetes não poderão entrar na área do desfile. A orientação é providenciar previamente forma segura de mantê-los junto ao veículo.",
+      "summary": "Presidente Lula e Janja desfilam em carro aberto durante o 7 de Setembro em 2025 - imagem de arquivo\nTON MOLINA/FOTOARENA/ESTADÃO CONTEÚDO\nO presidente Luiz Inácio Lula da Silva (PT) participa na manhã desta segunda-feira (7) do desfile de 7 de Setembro na Esplanada dos Ministérios, em Brasília.\nLula estará acompanhado da primeira-dama, Janja da Silva, do vice-presidente Geraldo Alckmin (PSB), além de ministros do governo. \nO presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e o presidente do Senado, Davi Alcolumbre (União-AP), também confirmaram presença. \nA assessoria do presidente do Supremo Tribunal Federal (STF), Edson Fachin, não informou se ele participará do evento. Na agenda oficial da Corte, não consta nenhum compromisso. \n🔎 No ano passado, nenhum ministro da Corte compareceu às comemorações do 7 de setembro. O evento ocorreu durante o julgamento da trama golpista, que condenou o ex-presidente Jair Bolsonaro (PL) a 27 anos e três meses de prisão. \n➡️Em 2024, ministros do Supremo estiveram na tribuna de honra. Entre eles, o então presidente da Corte Luís Roberto Barroso, o vice-presidente, Edson Fachin, Alexandre de Moraes e Dias Toffoli. \nAgora no g1\nO desfile de comemoração pelos 204 anos de Independência do Brasil, nesta segunda-feira (7), será organizado em três eixos temáticos:\nsoberania nacional;\nenfrentamento à violência contra as mulheres;\nCopa do Mundo Feminina de 2027.\nO Desfile Cívico-Militar também terá a programação tradicional das tropas das Forças Armadas (Marinha, Exército e Forças Aéreas).\nO público poderá ocupar as arquibancadas na Esplanada a partir das 6h30. Às 9h, está prevista a recepção oficial ao presidente. O desfile começa na sequência da chegada de Lula com a execução do Hino Nacional e a parada cívico-militar.\nÉpoca de campanha\nA soberania nacional tem sido defendida pelo governo de Lula desde o tarifaço imposto pelo presidente dos EUA, Donald Trump, sobre produtos brasileiros no ano passado. O termo virou também um dos motes da campanha à reeleição ao quarto mandato do petista. \nEm pronunciamento pelo 7 de Setembro neste domingo (6), o presidente Lula afirmou que o Brasil não é e nem será \"colônia de ninguém\". \nNa mensagem, transmitida em cadeia nacional de rádio e TV, o petista fez um discurso de defesa da soberania e críticas indiretas ao tarifaço. \n\"Precisamos nos manter fortes e altivos, sem baixar a cabeça, para não deixarmos que o Brasil se transforme, novamente, em colônia de outras potências estrangeiras. Não somos, e não seremos colônia de ninguém.\"\nLula afirmou que \"um país soberano é aquele capaz de defender seu território, suas fronteiras, seu meio ambiente, suas riquezas e seu povo de quaisquer interesses estrangeiros\". \n\"Um país soberano é aquele capaz de criar as oportunidades que seu povo precisa para conquistar a própria independência\", disse o presidente. \nO enfrentamento à violência contra as mulheres também virou uma das frentes de ação do governo nos últimos meses com a alta no número de casos de feminicídio no país.\nEm maio deste ano, o petista sancionou três projetos de lei que endurecem as regras para proteção a mulheres vítimas de violência doméstica.\nEntre as medidas, estão a criação do Cadastro Nacional de Agressores e o afastamento do agressor do lar.\nOs projetos foram assinados durante evento no Palácio do Planalto em alusão aos 100 dias do Pacto Brasil entre os Três Poderes para Enfrentamento do Feminicídio. \nDurante o desfile também é esperada que uma parte seja em homenagem à Copa do Mundo Feminina de 2027, que vai ser no Brasil. Esta será a primeira vez que um país da América do Sul sediará o torneio.\nO evento vai ocorrer de 24 de junho a 25 de julho de 2027.\nChegada do presidente Lula em carro aberto para o desfile de 7 de Setembro\nTV Brasil/Reprodução\nForças Armadas e de Segurança\nA programação terá início com o desfile de alunos das escolas públicas e dos eixos temáticos. Desfilarão as tropas das Forças Armadas, da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal.\nOs desfiles incluem carros blindados, esquadrões de moto, cavalaria e tropas a pé, em diferentes formatos. Já ao fim do evento, o desfile será encerrado com as tradicionais demonstrações da Esquadrilha da Fumaça e de aeronaves da Força Aérea Brasileira (FAB).",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Mon, 07 Sep 2026 10:29:38 -0000"
     },
     {
@@ -319,9 +366,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Sun, 06 Sep 2026 23:33:18 -0000"
     },
     {
@@ -337,9 +385,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Mon, 07 Sep 2026 01:00:00 +0000"
     },
     {
@@ -355,10 +404,30 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
+    },
+    {
+      "id": "6af43deec04f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula assiste ao desfile de 7 de Setembro nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/lula-assiste-ao-desfile-de-7-de-setembro-nesta-2a-feira/",
+      "summary": "Além de ministros do governo, os presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, estarão presentes no evento",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 75,
-      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 11:00:07 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -373,9 +442,10 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 72,
+      "score": 76,
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
@@ -446,38 +516,6 @@
       ],
       "score": 68,
       "publishedRaw": "Sun, 06 Sep 2026 18:25:08 +0000"
-    },
-    {
-      "id": "cf7ac482b6a8",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Samsung e Ypê patrocinaram congresso de tribunal onde respondem a processos",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/samsung-e-ype-patrocinaram-congresso-de-tribunal-onde-respondem-a-processos/",
-      "summary": "",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 06 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "id": "802c2334ed74",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsa Família do mês começa a ser pago em 17 de setembro; veja calendário",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/bolsa-familia-do-mes-comeca-a-ser-pago-em-17-de-setembro-veja-calendario.shtml",
-      "summary": "O calendário de setembro do Bolsa Família começa no dia 17 para os beneficiários com NIS (Número de Identificação Social) que termina em 1. As liberações continuam ao longo do mês, seguindo a ordem dos dígitos finais do documento.\nLeia mais (09/07/2026 - 04h00)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "07 Sep 2026 04:00:00 -0300"
     }
   ]
 }
