@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:18:17.721176+00:00",
+  "generated_at": "2026-09-07T07:44:56.319260+00:00",
   "items": [
     {
       "id": "9577fdbea967",
@@ -59,10 +59,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
     },
     {
@@ -81,10 +80,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 87,
+      "score": 86,
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
     },
     {
@@ -103,10 +101,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 87,
+      "score": 86,
       "publishedRaw": "Sun, 06 Sep 2026 17:47:05 +0000"
     },
     {
@@ -124,95 +121,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 06 Sep 2026 23:33:18 -0000"
-    },
-    {
-      "id": "a5412aa460df",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula prepara nova MP para restringir bets",
-      "link": "https://www.cnnbrasil.com.br/politica/governo-lula-prepara-nova-mp-para-restringir-bets/",
-      "summary": "Palácio do Planalto escolhe instrumento por efeito imediato de olho em impacto eleitoral; conteúdo ainda é discutido",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 07 Sep 2026 07:05:17 +0000"
-    },
-    {
-      "id": "32e4ef226a84",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula aposta em soberania, Flávio mira Moraes e Cury busca ampliar espaço no 7 de Setembro",
-      "link": "https://www.estadao.com.br/politica/lula-aposta-em-soberania-flavio-mira-moraes-e-cury-busca-ampliar-espaco-no-7-de-setembro/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 07 Sep 2026 01:00:00 +0000"
-    },
-    {
-      "id": "43e4f70ca1d5",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula faz defesa da soberania em pronunciamento na TV: ‘Não somos e não seremos colônia de ninguém’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-faz-defesa-da-soberania-em-pronunciamento-na-tv-nao-somos-e-nao-seremos-colonia-de-ninguem/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
-    },
-    {
-      "id": "393d123766d6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Não seremos colônia de ninguém”, diz Lula em pronunciamento",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nao-seremos-colonia-de-ninguem-diz-lula-em-pronunciamento/",
-      "summary": "Na véspera da comemoração da Independência do Brasil, presidente falou que terras-raras e recursos naturais devem ser usados para desenvolver \"tecnologia de ponta\"",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 06 Sep 2026 23:45:45 +0000"
     },
     {
       "id": "c82e3f3a9c8c",
@@ -329,6 +241,26 @@
       "publishedRaw": "07 Sep 2026 04:00:00 -0300"
     },
     {
+      "id": "a5412aa460df",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula prepara nova MP para restringir bets",
+      "link": "https://www.cnnbrasil.com.br/politica/governo-lula-prepara-nova-mp-para-restringir-bets/",
+      "summary": "Palácio do Planalto escolhe instrumento por efeito imediato de olho em impacto eleitoral; conteúdo ainda é discutido",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 07:05:17 +0000"
+    },
+    {
       "id": "2c44222163c9",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -365,6 +297,46 @@
       ],
       "score": 84,
       "publishedRaw": "Sun, 06 Sep 2026 20:57:20 +0000"
+    },
+    {
+      "id": "32e4ef226a84",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula aposta em soberania, Flávio mira Moraes e Cury busca ampliar espaço no 7 de Setembro",
+      "link": "https://www.estadao.com.br/politica/lula-aposta-em-soberania-flavio-mira-moraes-e-cury-busca-ampliar-espaco-no-7-de-setembro/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 01:00:00 +0000"
+    },
+    {
+      "id": "43e4f70ca1d5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula faz defesa da soberania em pronunciamento na TV: ‘Não somos e não seremos colônia de ninguém’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-faz-defesa-da-soberania-em-pronunciamento-na-tv-nao-somos-e-nao-seremos-colonia-de-ninguem/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
     },
     {
       "id": "792f4c259c30",
@@ -439,10 +411,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
@@ -460,10 +431,9 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
@@ -481,10 +451,9 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Sat, 05 Sep 2026 17:42:29 GMT"
     },
     {
