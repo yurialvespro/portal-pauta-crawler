@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:17:49.941532+00:00",
+  "generated_at": "2026-09-07T08:45:09.723892+00:00",
   "items": [
     {
       "id": "0cf62279b24e",
@@ -18,9 +18,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 94,
+      "score": 95,
       "publishedRaw": "Sat, 05 Sep 2026 19:40:18 -0000"
     },
     {
@@ -40,31 +41,33 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 94,
+      "score": 95,
       "publishedRaw": "Mon, 07 Sep 2026 07:54:58 GMT"
     },
     {
-      "id": "9577fdbea967",
+      "id": "01a0cc8d1166",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Pedidos de impeachment de ministros do STF pressionam Alcolumbre, alvo do Conselho de Ética",
-      "link": "https://www.estadao.com.br/politica/impeachment-de-ministros-do-stf-poe-alcolumbre-sob-pressao-e-amplia-denuncias-no-conselho-de-etica/",
+      "title": "Lula critica gestão Bolsonaro durante pandemia: ‘poderiam ter sido evitadas 400 mil mortes’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-critica-gestao-bolsonaro-durante-pandemia-poderiam-ter-sido-evitadas-400-mil-mortes/",
       "summary": "",
       "tags": [
-        "STF",
-        "impeachment"
+        "Bolsonaro",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Sun, 06 Sep 2026 08:30:00 +0000"
+      "score": 90,
+      "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
     },
     {
       "id": "c82e3f3a9c8c",
@@ -247,27 +250,6 @@
       "publishedRaw": "Sun, 06 Sep 2026 23:00:00 +0000"
     },
     {
-      "id": "01a0cc8d1166",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula critica gestão Bolsonaro durante pandemia: ‘poderiam ter sido evitadas 400 mil mortes’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-critica-gestao-bolsonaro-durante-pandemia-poderiam-ter-sido-evitadas-400-mil-mortes/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 05 Sep 2026 14:47:05 +0000"
-    },
-    {
       "id": "eb595cf1ec37",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -303,9 +285,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
     },
     {
@@ -324,10 +307,31 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Sun, 06 Sep 2026 17:47:05 +0000"
+    },
+    {
+      "id": "1c186276d810",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro cobra voto de Cármen Lúcia para abertura de investigação contra Moraes",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-moraes/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 06 Sep 2026 15:50:19 +0000"
     },
     {
       "id": "3f329dc5800e",
@@ -344,9 +348,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 06 Sep 2026 23:33:18 -0000"
     },
     {
@@ -364,9 +369,10 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Mon, 07 Sep 2026 07:30:40 +0000"
     },
     {
@@ -384,9 +390,10 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Mon, 07 Sep 2026 07:05:17 +0000"
     },
     {
@@ -404,9 +411,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Mon, 07 Sep 2026 01:00:00 +0000"
     },
     {
@@ -424,10 +432,53 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
+    },
+    {
+      "id": "91dc4b60d4d7",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com mote de “Fora Lula e Fora Moraes”, PL quer 100 mil na Paulista",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-mote-de-fora-lula-e-fora-moraes-pl-quer-reunir-100-mil-na-paulista/",
+      "summary": "Manifestação é organizada pelo PL de São Paulo e terá a participação de Michelle Bolsonaro e Tarcísio de Freitas, entre outros",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
+      "score": 85,
+      "publishedRaw": "Mon, 07 Sep 2026 08:30:54 +0000"
+    },
+    {
+      "id": "6e401802f366",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "7 de Setembro terá Lula na Esplanada e Flávio na Paulista",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/7-de-setembro-tera-lula-na-esplanada-e-flavio-na-paulista/",
+      "summary": "Presidente participa do desfile militar em Brasília; candidato do PL vai a ato que mira 100 mil pessoas com críticas a Lula e Moraes",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 07 Sep 2026 08:30:30 +0000"
     },
     {
       "id": "4b08e983a02c",
@@ -450,23 +501,23 @@
       "publishedRaw": "Mon, 07 Sep 2026 07:02:10 +0000"
     },
     {
-      "id": "1c186276d810",
-      "source": "Estadão",
+      "id": "7ae5b2328097",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro cobra voto de Cármen Lúcia para abertura de investigação contra Moraes",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-cobra-voto-de-carmen-lucia-para-abertura-de-investigacao-contra-moraes/",
-      "summary": "",
+      "title": "Bolsonaro já chamou Moraes de “canalha” em ato de 7 de Setembro",
+      "link": "https://www.poder360.com.br/poder-brasil/jair-bolsonaro-ja-chamou-moraes-de-canalha-em-ato-de-7-de-setembro/",
+      "summary": "Em 2021, o então presidente afirmou que não cumpriria as decisões do ministro; em 2026, o magistrado volta a ser alvo de manifestações",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Sun, 06 Sep 2026 15:50:19 +0000"
+      "score": 83,
+      "publishedRaw": "Mon, 07 Sep 2026 08:30:26 +0000"
     },
     {
       "id": "7bf263c39558",
@@ -483,9 +534,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Sat, 05 Sep 2026 03:00:00 -0000"
     },
     {
@@ -503,9 +555,10 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Fri, 04 Sep 2026 14:44:10 GMT"
     },
     {
