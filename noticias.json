@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:43:45.295344+00:00",
+  "generated_at": "2026-09-07T17:14:27.535467+00:00",
   "items": [
     {
       "id": "c6578adbf994",
@@ -149,13 +149,13 @@
       "publishedRaw": "07 Sep 2026 12:03:00 -0300"
     },
     {
-      "id": "0eed6f0d6ddf",
+      "id": "7ca9e1cbbfb1",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "OAB nacional pede rigor do STF e regionais defendem afastamento de Moraes",
-      "link": "https://www.cnnbrasil.com.br/politica/oab-nacional-pede-rigor-do-stf-e-regionais-defendem-afastamento-de-moraes/",
-      "summary": "Conselho Federal da Ordem e presidentes de seccionais devem se reunir com Fachin para tratar do assunto na próxima quarta-feira (9)",
+      "title": "Cury diz que “não se curva” para político e pede independência do STF",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/cury-diz-que-nao-se-curva-para-politico-e-pede-independencia-do-stf/",
+      "summary": "Candidato manda abraço para André Mendonça e diz o país vive uma \"guerra de egos\"",
       "tags": [
         "STF"
       ],
@@ -166,7 +166,27 @@
         "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Mon, 07 Sep 2026 15:53:42 +0000"
+      "publishedRaw": "Mon, 07 Sep 2026 16:59:23 +0000"
+    },
+    {
+      "id": "d1099ed764b1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Juristas criticam STF e defendem manifestações no 7 de setembro",
+      "link": "https://www.cnnbrasil.com.br/politica/juristas-criticam-stf-e-defendem-manifestacoes-no-7-de-setembro/",
+      "summary": "Em meio à crise entre ministros do Supremo, especialistas defendem mobilização popular e cobram medidas contra integrantes da Corte",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Mon, 07 Sep 2026 16:45:10 +0000"
     },
     {
       "id": "4ff11f7ab090",
@@ -209,6 +229,26 @@
       "publishedRaw": "Sun, 06 Sep 2026 23:00:00 +0000"
     },
     {
+      "id": "d088bada41f1",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PCO leva mascote à Paulista e pede “fim do STF”",
+      "link": "https://www.poder360.com.br/poder-brasil/pco-leva-mascote-a-paulista-e-pede-fim-do-stf/",
+      "summary": "Partido divulgou imagens do Lenito, a formiga operária, com uma imagem de papelão de Moraes",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Mon, 07 Sep 2026 17:05:52 +0000"
+    },
+    {
       "id": "8c19b445286b",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -248,27 +288,6 @@
       ],
       "score": 86,
       "publishedRaw": "Sun, 06 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "id": "cac4e5f8909f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE autoriza pronunciamento de Lula neste domingo sobre o 7 de Setembro",
-      "link": "https://www.estadao.com.br/politica/tse-autoriza-pronunciamento-de-lula-neste-domingo-sobre-o-7-de-setembro/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Sun, 06 Sep 2026 17:47:05 +0000"
     },
     {
       "id": "96a192abf20a",
@@ -331,6 +350,26 @@
       "publishedRaw": "07 Sep 2026 12:01:00 -0300"
     },
     {
+      "id": "13fda0666eb9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta mostrar união entre Poderes no 7 de Setembro, mas diretor da PF e AGU nem se cumprimentam",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-tenta-mostrar-uniao-entre-poderes-no-7-de-setembro-mas-diretor-da-pf-e-agu-nem-se-cumprimentam/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 16:35:15 +0000"
+    },
+    {
       "id": "696c3eccda4a",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -389,6 +428,26 @@
       ],
       "score": 84,
       "publishedRaw": "Sun, 06 Sep 2026 23:46:23 +0000"
+    },
+    {
+      "id": "29df09511ce9",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula convida Andrei para a frente da tribuna no desfile de 7 de Setembro",
+      "link": "https://www.poder360.com.br/poder-governo/lula-convida-andrei-para-a-frente-da-tribuna-no-desfile-de-7-de-setembro/",
+      "summary": "Gesto se deu durante participação da PF no evento; diretor-geral da corporação foi citado em troca de mensagens entre Moraes e Vorcaro",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 16:59:35 +0000"
     },
     {
       "id": "442b270ee457",
@@ -471,44 +530,23 @@
       "publishedRaw": "Mon, 07 Sep 2026 16:12:25 +0000"
     },
     {
-      "id": "14e9f932cc8c",
-      "source": "Poder360",
+      "id": "c13decf36e94",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Putin dá parabéns a Lula pelo 7 de Setembro",
-      "link": "https://www.poder360.com.br/poder-internacional/putin-da-parabens-a-lula-pelo-7-de-setembro/",
-      "summary": "Líder russo exaltou parceria bilateral e citou atuação conjunta dos países no Brics e na ONU",
+      "title": "Apoiadores de Flávio Bolsonaro se reúnem para ato na Avenida Paulista",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/flavio-bolsonaro-avenida-paulista.ghtml",
+      "summary": "Apoiadores de Flávio Bolsonaro chegam para ato na Avenida Paulista nesta segunda-feira (7)\nGustavo Honório/g1\nO candidato à Presidência Flávio Bolsonaro (PL) reúne apoiadores na tarde desta segunda-feira (7) na Avenida Paulista, em São Paulo. O ato de campanha tem como mote as frases \"Fora Lula, Fora Moraes\". \nPor volta das 13h30, grupos com bandeiras do Brasil e vestidos de camisetas amarelas começaram a se concentrar pela avenida. Apoiadores também chegaram com faixas contra o Supremo Tribunal Federal (STF), principalmente o ministro Alexandre de Moraes.\nA mobilização tem prevista a participação do governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos). Já no desfile cívico-militar de 7 de Setembro, realizado na manhã desta segunda-feira (7), no Sambódromo do Anhembi, Tarcísio foi representado no evento pelo vice-governador Felicio Ramuth (MDB).\nO ato ocorre após a repercussão de mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e o ministro do STF Alexandre de Moraes que apontam uma relação de proximidade entre o magistrado e o ex-controlador do Banco Master à época dos fatos investigados.\nA manifestação também retoma uma pauta já presente em atos anteriores da direita. Em 2024, um protesto foi convocado com pedidos de impeachment de Moraes. No ano passado, manifestantes  voltaram a defender a saída do ministro no ato da Paulista.\nApoiadores de Flávio Bolsonaro chegam para ato na Avenida Paulista nesta segunda-feira (7)\nGustavo Honório/g1\nApoiadores de Flávio Bolsonaro durante ato na Avenida Paulista nesta segunda-feira (7)\nGustavo Honório/g1\nApoiadores de Flávio Bolsonaro durante ato na Avenida Paulista nesta segunda-feira (7)\nGustavo Honório/g1",
       "tags": [
-        "Lula"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 84,
-      "publishedRaw": "Mon, 07 Sep 2026 15:15:30 +0000"
-    },
-    {
-      "id": "0c8f92c5da35",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Robô do Exército bate continência a Lula e Janja interage",
-      "link": "https://www.poder360.com.br/poder-governo/robo-do-exercito-bate-continencia-a-lula-e-janja-interage/",
-      "summary": "Durante desfile do 7 de Setembro, primeira-dama brincou e retribuiu gesto do humanoide",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 07 Sep 2026 15:03:23 +0000"
+      "score": 82,
+      "publishedRaw": "Mon, 07 Sep 2026 16:58:48 -0000"
     },
     {
       "id": "e93ee1105bca",
@@ -542,9 +580,45 @@
         "eleições",
         "eleições 2026"
       ],
-      "crossOutlets": [],
-      "score": 73,
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 77,
       "publishedRaw": "Mon, 07 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "b2cb97de49f4",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Apesar de decisivas nas eleições, mulheres ainda são minoria nas campanhas dos presidenciáveis",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/apesar-de-decisivas-nas-eleicoes-mulheres-ainda-sao-minorias-nas-campanhas-dos-presidenciaveis.ghtml",
+      "summary": "Apesar de serem mais da metade do eleitorado brasileiro — 52,84% dos eleitores—,  as mulheres ainda têm pouca representação dentro do núcleo estratégico das campanhas dos principais candidatos à Presidência em 2026. \nUm levantamento da GloboNews identificou as mulheres que ocupam funções de coordenação, comunicação, marketing, jurídico, economia, mobilização, logística e outras áreas estratégicas nas campanhas de Flávio Bolsonaro (PL), Romeu Zema (Novo), Renan Santos (Missão), Ronaldo Caiado (PSD) e Augusto Cury (Avante) — os cinco candidatos mais bem posicionados nas pesquisas eleitorais.\nO levantamento considera os nomes apresentados pelas próprias campanhas como integrantes de suas equipes. \nAgora no g1\nNão se trata, portanto, da totalidade de pessoas envolvidas em uma campanha eleitoral, que também pode incluir fornecedores, prestadores de serviços, militantes e equipes contratadas para atividades de mobilização e de rua. \nO objetivo é identificar quem ocupa funções diretamente ligada ao chamado “núcleo duro”, ou seja, à formulação de estratégias, propostas e comunicação dos candidatos.\nFlávio Bolsonaro é quem conta com mais mulheres em sua equipe. De 26 funcionários identificados pela campanha, 10 são do gênero feminino. Em seguida, Renan Santos e Ronaldo Caiado têm seis mulheres identificadas em suas campanhas; Romeu Zema tem cinco e Augusto Cury, quatro.\nTodos os nomes foram divulgados pelas assessorias dos candidatos, com exceção da equipe de Lula.\nLula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nLuís Inácio Lula da Silva (PT)\nApesar das várias tentativas de contato, a assessoria da campanha do presidente Luiz Inácio Lula da Silva (PT) não confirmou oficialmente à reportagem a lista de mulheres que integram a equipe de reeleição, e os nomes foram levantados pela apuração daqueles já divulgados na imprensa.\nMônica Valente — mobilização nos estados\nNicole Briones —  coordenação digital do partido\nClaudinha Lima — secretária de Nucleação\nJúlia Kopf — secretária de Juventude\nLucinha Barbosa, a Lucinha do MST — secretária de Movimentos Populares e Políticas Setoriais\nMazé Morais — secretária Nacional de Mulheres do PT\nLuna Zarattini — vereadora paulistana que ajuda a articular o diálogo com o eleitorado jovem\nFlávio Bolsonaro (PL)\nDaniella Marques — coordenadora da área econômica e do plano Brasil por Elas\nMaria Cláudia Bucchianeri — coordenadora da equipe jurídica eleitoral\nMyrian Prado —  núcleo de economia\nFrancielly Almeida — núcleo de economia\nTereza Cristina — núcleo de agronegócio\nCarolina Ragazzi — núcleo de Mulheres\nLyvia Montezano — núcleo de Mulheres\nFernanda de Luca — coordenadora da assessoria de imprensa\nMichelle Rodrigues — coordenadora da área digital\nBruna Leal — consultora da área de tecnologia\nRenan Santos (Missão)\nJannifer Cabral — produção geral\nCatalina Soifer — assistência jurídica \nRafaela Cupertino — coordenação da Missão Mulher\nNevilane Vasconcelos— assessoria de imprensa\nNicoly Santos— coordenação logística \nAmanda Vettorazzo — coordenação de campanha \nRonaldo Caiado (PSD)\nCristiane Schmidt — núcleo de Economia\nAna Carla Abrão — núcleo de Economia\nValéria Torres Reis — Estratégia de Campanha e Análise de Opinião Pública\n⁠Fatima Gaviolli — núcleo de Educação\nAndrea Vulcanis — núcleo de Meio Ambiente\nAlda Marcantonio — núcleo Social e de Educação\nRomeu Zema (Novo)\nLuciana Lopes — núcleo de gestão pública e eficiência no governo\nSamanta Pineda — núcleo de meio ambiente\nAdriana Ventura — núcleo de saúde\nElizabeth Jucá — núcleo de desenvolvimento social\nBárbara Botega — núcleo de cultura e turismo\nAugusto Cury (Avante)\nLuciana Martins — coordenação nacional da campanha \nAdriana Saraiva— coordenadora de logística e operações\nAna Augusta Ribeiro — coordenadora de comunicação e marketing. \nDamaris Bubans — coordenadora de agenda, mobilização política e acompanhamento estratégico.\nImportância das mulheres nas eleições 2026\nA ausência de mulheres em posições de comando dentro das campanhas chama atenção, porque são esses cargos, sobretudo o de coordenação de políticas voltadas ao público feminino, que costumam traduzir o discurso de campanha em propostas concretas e em capacidade de diálogo com as eleitoras.\nNão por acaso, todos os presidenciáveis dedicam algum trecho de seus planos de governo a políticas específicas para mulheres, tratando o tema como eixo estratégico para se destacarem nas urnas.\nLula defende  a continuidade do Pacto de Enfrentamento ao Feminicídio, Flávio concentra suas propostas no plano \"Brasil por Elas\", Zema trata o tema dentro das áreas de segurança e saúde, propondo a ampliação das Delegacias da Mulher para funcionamento 24 horas com equipes preferencialmente femininas.\nCury reserva um capítulo à Política Pública de Proteção às Mulheres, cujo carro-chefe é o Programa Mulheres Vivas, unindo tecnologia, forças de segurança e assistência jurídica.\nRonaldo Caiado, por sua vez, dedica  um tema inteiro do plano exclusivamente às mulheres, organizado em torno de quatro direitos: viver sem violência, cuidar da saúde, trabalhar e empreender com igualdade de oportunidades e participar das decisões. Isso inclui a criação de um Pacto Nacional pelo Fim do Feminicídio e um selo para empresas com práticas de igualdade salarial. \nApesar disso, todos têm times compostos majoritariamente por lideranças masculinas.\nFalta de representatividade também nas candidaturas\nEsse desequilíbrio nos bastidores das campanhas presidenciais não é um fenômeno isolado. Na verdade, espelha um cenário mais amplo de sub-representação feminina também nas candidaturas.\nEm 2026, as mulheres representam 34,8% das candidaturas registradas para as eleições, segundo dados do TSE atualizados em 16 de agosto. Ao todo, são 7.134 candidaturas femininas contra 13.362 masculinas. Em 2022, a participação feminina era de 33,8%.\nA distância é maior justamente na disputa presidencial: das 13 candidaturas ao Planalto em 2026, apenas duas são de mulheres — Samara Martins (UP) e Clariana Barão (DC). Em 2022, eram 4 mulheres entre os mesmos 13 concorrentes, ou seja, a proporção de candidatas à Presidência caiu pela metade em quatro anos.\nNos governos estaduais, mulheres são 32 entre 195 candidatos (16,4%, ante 17% em 2022). \nPara o Senado, 21,9% dos candidatos são mulheres (69 de 315), também abaixo dos 23,9% de 2022. \nA participação sobe nas vagas de vice-presidente (38,5%) e vice-governador (42,9%, a maior proporção entre todos os cargos em disputa), o que reforça um padrão: mulheres avançam mais em posições de apoio do que nas cabeças de chapa.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 74,
+      "publishedRaw": "Mon, 07 Sep 2026 12:04:02 -0000"
+    },
+    {
+      "id": "9e0693ebb453",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo da Sérvia pede dissolução do Parlamento e eleições antecipadas",
+      "link": "https://www.cnnbrasil.com.br/internacional/governo-da-servia-pede-dissolucao-do-parlamento-e-eleicoes-antecipadas/",
+      "summary": "Antecipar o voto é visto como uma tentativa de fortalecer o governo após quase dois anos de manifestações estudantis e anticorrupção",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Mon, 07 Sep 2026 16:42:43 +0000"
     },
     {
       "id": "7cfcbcf50719",
@@ -565,21 +639,6 @@
       "publishedRaw": "Sun, 06 Sep 2026 19:38:19 +0000"
     },
     {
-      "id": "b2cb97de49f4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Apesar de decisivas nas eleições, mulheres ainda são minoria nas campanhas dos presidenciáveis",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/apesar-de-decisivas-nas-eleicoes-mulheres-ainda-sao-minorias-nas-campanhas-dos-presidenciaveis.ghtml",
-      "summary": "Apesar de serem mais da metade do eleitorado brasileiro — 52,84% dos eleitores—,  as mulheres ainda têm pouca representação dentro do núcleo estratégico das campanhas dos principais candidatos à Presidência em 2026. \nUm levantamento da GloboNews identificou as mulheres que ocupam funções de coordenação, comunicação, marketing, jurídico, economia, mobilização, logística e outras áreas estratégicas nas campanhas de Flávio Bolsonaro (PL), Romeu Zema (Novo), Renan Santos (Missão), Ronaldo Caiado (PSD) e Augusto Cury (Avante) — os cinco candidatos mais bem posicionados nas pesquisas eleitorais.\nO levantamento considera os nomes apresentados pelas próprias campanhas como integrantes de suas equipes. \nAgora no g1\nNão se trata, portanto, da totalidade de pessoas envolvidas em uma campanha eleitoral, que também pode incluir fornecedores, prestadores de serviços, militantes e equipes contratadas para atividades de mobilização e de rua. \nO objetivo é identificar quem ocupa funções diretamente ligada ao chamado “núcleo duro”, ou seja, à formulação de estratégias, propostas e comunicação dos candidatos.\nFlávio Bolsonaro é quem conta com mais mulheres em sua equipe. De 26 funcionários identificados pela campanha, 10 são do gênero feminino. Em seguida, Renan Santos e Ronaldo Caiado têm seis mulheres identificadas em suas campanhas; Romeu Zema tem cinco e Augusto Cury, quatro.\nTodos os nomes foram divulgados pelas assessorias dos candidatos, com exceção da equipe de Lula.\nLula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nLuís Inácio Lula da Silva (PT)\nApesar das várias tentativas de contato, a assessoria da campanha do presidente Luiz Inácio Lula da Silva (PT) não confirmou oficialmente à reportagem a lista de mulheres que integram a equipe de reeleição, e os nomes foram levantados pela apuração daqueles já divulgados na imprensa.\nMônica Valente — mobilização nos estados\nNicole Briones —  coordenação digital do partido\nClaudinha Lima — secretária de Nucleação\nJúlia Kopf — secretária de Juventude\nLucinha Barbosa, a Lucinha do MST — secretária de Movimentos Populares e Políticas Setoriais\nMazé Morais — secretária Nacional de Mulheres do PT\nLuna Zarattini — vereadora paulistana que ajuda a articular o diálogo com o eleitorado jovem\nFlávio Bolsonaro (PL)\nDaniella Marques — coordenadora da área econômica e do plano Brasil por Elas\nMaria Cláudia Bucchianeri — coordenadora da equipe jurídica eleitoral\nMyrian Prado —  núcleo de economia\nFrancielly Almeida — núcleo de economia\nTereza Cristina — núcleo de agronegócio\nCarolina Ragazzi — núcleo de Mulheres\nLyvia Montezano — núcleo de Mulheres\nFernanda de Luca — coordenadora da assessoria de imprensa\nMichelle Rodrigues — coordenadora da área digital\nBruna Leal — consultora da área de tecnologia\nRenan Santos (Missão)\nJannifer Cabral — produção geral\nCatalina Soifer — assistência jurídica \nRafaela Cupertino — coordenação da Missão Mulher\nNevilane Vasconcelos— assessoria de imprensa\nNicoly Santos— coordenação logística \nAmanda Vettorazzo — coordenação de campanha \nRonaldo Caiado (PSD)\nCristiane Schmidt — núcleo de Economia\nAna Carla Abrão — núcleo de Economia\nValéria Torres Reis — Estratégia de Campanha e Análise de Opinião Pública\n⁠Fatima Gaviolli — núcleo de Educação\nAndrea Vulcanis — núcleo de Meio Ambiente\nAlda Marcantonio — núcleo Social e de Educação\nRomeu Zema (Novo)\nLuciana Lopes — núcleo de gestão pública e eficiência no governo\nSamanta Pineda — núcleo de meio ambiente\nAdriana Ventura — núcleo de saúde\nElizabeth Jucá — núcleo de desenvolvimento social\nBárbara Botega — núcleo de cultura e turismo\nAugusto Cury (Avante)\nLuciana Martins — coordenação nacional da campanha \nAdriana Saraiva— coordenadora de logística e operações\nAna Augusta Ribeiro — coordenadora de comunicação e marketing. \nDamaris Bubans — coordenadora de agenda, mobilização política e acompanhamento estratégico.\nImportância das mulheres nas eleições 2026\nA ausência de mulheres em posições de comando dentro das campanhas chama atenção, porque são esses cargos, sobretudo o de coordenação de políticas voltadas ao público feminino, que costumam traduzir o discurso de campanha em propostas concretas e em capacidade de diálogo com as eleitoras.\nNão por acaso, todos os presidenciáveis dedicam algum trecho de seus planos de governo a políticas específicas para mulheres, tratando o tema como eixo estratégico para se destacarem nas urnas.\nLula defende  a continuidade do Pacto de Enfrentamento ao Feminicídio, Flávio concentra suas propostas no plano \"Brasil por Elas\", Zema trata o tema dentro das áreas de segurança e saúde, propondo a ampliação das Delegacias da Mulher para funcionamento 24 horas com equipes preferencialmente femininas.\nCury reserva um capítulo à Política Pública de Proteção às Mulheres, cujo carro-chefe é o Programa Mulheres Vivas, unindo tecnologia, forças de segurança e assistência jurídica.\nRonaldo Caiado, por sua vez, dedica  um tema inteiro do plano exclusivamente às mulheres, organizado em torno de quatro direitos: viver sem violência, cuidar da saúde, trabalhar e empreender com igualdade de oportunidades e participar das decisões. Isso inclui a criação de um Pacto Nacional pelo Fim do Feminicídio e um selo para empresas com práticas de igualdade salarial. \nApesar disso, todos têm times compostos majoritariamente por lideranças masculinas.\nFalta de representatividade também nas candidaturas\nEsse desequilíbrio nos bastidores das campanhas presidenciais não é um fenômeno isolado. Na verdade, espelha um cenário mais amplo de sub-representação feminina também nas candidaturas.\nEm 2026, as mulheres representam 34,8% das candidaturas registradas para as eleições, segundo dados do TSE atualizados em 16 de agosto. Ao todo, são 7.134 candidaturas femininas contra 13.362 masculinas. Em 2022, a participação feminina era de 33,8%.\nA distância é maior justamente na disputa presidencial: das 13 candidaturas ao Planalto em 2026, apenas duas são de mulheres — Samara Martins (UP) e Clariana Barão (DC). Em 2022, eram 4 mulheres entre os mesmos 13 concorrentes, ou seja, a proporção de candidatas à Presidência caiu pela metade em quatro anos.\nNos governos estaduais, mulheres são 32 entre 195 candidatos (16,4%, ante 17% em 2022). \nPara o Senado, 21,9% dos candidatos são mulheres (69 de 315), também abaixo dos 23,9% de 2022. \nA participação sobe nas vagas de vice-presidente (38,5%) e vice-governador (42,9%, a maior proporção entre todos os cargos em disputa), o que reforça um padrão: mulheres avançam mais em posições de apoio do que nas cabeças de chapa.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [],
-      "score": 69,
-      "publishedRaw": "Mon, 07 Sep 2026 12:04:02 -0000"
-    },
-    {
       "id": "b19f3f3784de",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -597,21 +656,19 @@
       "publishedRaw": "Sun, 06 Sep 2026 05:00:00 -0000"
     },
     {
-      "id": "b759cc1c4afe",
-      "source": "Estadão",
+      "id": "919572ef1700",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/augusto-cury-omitiu-empresas-nos-estados-unidos-e-no-brasil-em-declaracao-ao-tse/",
-      "summary": "",
+      "title": "Renan Santos lança manifesto em ato no Ibirapuera e pede prisão de Moraes, Toffoli e chefe da PF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-lanca-manifesto-em-ato-no-ibirapuera-e-pede-prisao-de-moraes-toffoli-e-chefe-da-pf.shtml",
+      "summary": "Na manhã desta segunda-feira (7), Renan Santos e seus apoiadores protestaram no Obelisco do Ibirapuera, na zona sul da capital paulista, em um ato que defendeu a prisão e o afastamento dos ministros Alexandre de Moraes e Dias Toffoli, do STF (Supremo Tribunal Federal), e do diretor-geral da Polícia Federal, Andrei Rodrigues.\nLeia mais (09/07/2026 - 13h55)",
       "tags": [
-        "TSE"
+        "Renan Santos"
       ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 06 Sep 2026 18:25:08 +0000"
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "07 Sep 2026 13:55:00 -0300"
     },
     {
       "id": "8bbadfb304c9",
@@ -627,6 +684,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "07 Sep 2026 13:24:00 -0300"
+    },
+    {
+      "id": "dd54921e22e8",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atos da direita em Brasília pedem saída de Moraes; esquerda mira fim da 6×1",
+      "link": "https://www.cnnbrasil.com.br/politica/atos-da-direita-em-brasilia-pedem-saida-de-moraes-esquerda-mira-fim-da-6x1/",
+      "summary": "Manifestações foram realizadas em paralelo ao desfile cívico realizado na Esplanada dos Ministérios na capital federal",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Mon, 07 Sep 2026 16:29:31 +0000"
     }
   ]
 }
