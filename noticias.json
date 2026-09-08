@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:14:35.527073+00:00",
+  "generated_at": "2026-09-08T23:41:13.214074+00:00",
   "items": [
-    {
-      "id": "326ac47e1725",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro administra ganho político de crise no STF com agenda fechada e live com Nikolas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-administra-ganho-politico-de-crise-no-stf-com-agenda-fechada-e-live-com-nikolas/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 95,
-      "publishedRaw": "Tue, 08 Sep 2026 21:48:57 +0000"
-    },
     {
       "id": "8f51feb39d6d",
       "source": "G1 - Política",
@@ -42,6 +19,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 94,
@@ -65,6 +43,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 94,
@@ -88,10 +67,33 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Tue, 08 Sep 2026 20:05:45 -0000"
+    },
+    {
+      "id": "326ac47e1725",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro administra ganho político de crise no STF com agenda fechada e live com Nikolas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-administra-ganho-politico-de-crise-no-stf-com-agenda-fechada-e-live-com-nikolas/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 08 Sep 2026 21:48:57 +0000"
     },
     {
       "id": "7d250146167c",
@@ -110,6 +112,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -133,6 +136,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -140,224 +144,27 @@
       "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
     },
     {
-      "id": "751f4cd57bbf",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Delegados da PF defendem que apenas plenário do STF poderia afastar diretor-geral, e não decisão monocrática",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/08/nota-delegados-pf-afastamento-andrei.ghtml",
-      "summary": "A Associação dos Delegados da Polícia Federal (ADPF) defendeu nesta terça-feira (8) que a competência para analisar o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, deveria ser do plenário do Supremo Tribunal Federal (STF), e não por meio de uma decisão monocrática.\n\"Essa cautela impõe-se com maior razão no contexto dos fatos ora analisados, em que documentos integrantes de investigações em curso na própria Corte fazem referência a ministros que a compõem. A deliberação pelo colegiado pleno, nessas circunstâncias, é medida de preservação da autoridade do Tribunal, de garantia do devido processo legal e de prevenção da prática de atos passíveis de nulidade, cujos efeitos recairiam sobre as investigações e sobre a própria instituição que se pretende resguardar\".\nEm nota divulgada nesta terça-feira (8), os delegados afirmam ainda que não tinha nenhum inquérito anterior ou processo administrativo contra o diretor-geral para justificar a medida.\nA divulgação da nota pública acontece depois de decisão do ministro do STF André Mendonça para afastar preventivamente o diretor-geral da PF, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação, Leandro Almada da Costa.\nAgora no g1\nAo determinar o afastamento, Mendonça convocou uma sessão virtual extraordinária da Segunda Turma do STF para referendar a decisão ainda nesta terça. \nO julgamento virtual já conta com maioria de votos para referendar o afastamento preventivo, mas a conclusão da sessão foi interrompida após um pedido de vista apresentado pelo ministro Gilmar Mendes.\nLEIA TAMBÉM: Diretor da PF afastado: veja os principais argumentos de Mendonça na decisão contra Andrei Rodrigues\nAfastamento Andrei\nNesta terça-feira (8), o ministro do Supremo Tribunal Federal (STF) André Mendonça determinou o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação, Leandro Almada da Costa.\nA decisão impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária.\nO ministro argumentou que houve um monitoramento sistemático e ilegal conduzido pela PF por mais de um mês contra a sua própria atuação e contra o advogado-geral da União, Jorge Messias. \nDiretor-geral da PF, Andrei Passos Rodrigues, é ouvido na CPI do Crime Organizado\nAndressa Anholete/Agência Senado\nA decisão foi analisada e referendada pouco tempo depois, em plenário virtual, pela Segunda Turma do STF. No entanto, a conclusão da sessão foi interrompida após um pedido de vista apresentado pelo ministro Gilmar Mendes.\nObteve maioria, de três votos, pela manutenção do afastamento: o do próprio relator, André Mendonça, e os dos ministros Kassio Nunes Marques e Luiz Fux, que anteciparam suas posições mesmo depois de o ministro Gilmar Mendes pedir vista, ou seja, mais tempo para análise do caso.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 23:02:29 -0000"
-    },
-    {
-      "id": "046ea0003a8d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Carmen Lúcia rejeita ação no STF que contestava teto para taxa de cartões de VR",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/carmen-lucia-rejeita-acao-no-stf-que-contestava-teto-para-taxa-de-cartoes-de-vr.shtml",
-      "summary": "A ministra do STF (Supremo Tribunal Federal) Cármen Lúcia recusou nesta segunda-feira (7) uma ADI (Ação Direta de Inconstitucionalidade) ajuizada por empresas de benefícios contra o decreto do governo federal que limita as taxas de vale-refeição e alimentação.\nLeia mais (09/08/2026 - 19h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "08 Sep 2026 19:00:00 -0300"
-    },
-    {
-      "id": "30b35039b599",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relação Moraes-Vorcaro, Mendonça afasta Andrei: tudo sobre a crise no STF",
-      "link": "https://www.cnnbrasil.com.br/politica/relacao-moraes-vorcaro-mendonca-afasta-andrei-tudo-sobre-a-crise-no-stf/",
-      "summary": "Estopim da tensão na Corte se deu com a queda do sigilo de um relatório da Polícia Federal",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 22:41:03 +0000"
-    },
-    {
-      "id": "6f0a80355006",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ranking dos Políticos pede investigação e afastamento de Moraes do STF",
-      "link": "https://www.cnnbrasil.com.br/politica/ranking-dos-politicos-pede-investigacao-e-afastamento-de-moraes-do-stf/",
-      "summary": "Manifesto também pede resposta do presidente do Senado, Davi Alcolumbre (União-AP), \"compatível com a gravidade do momento\"",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 22:22:28 +0000"
-    },
-    {
-      "id": "dcd1a5076714",
+      "id": "3aa40f4df324",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Fachin cogita assumir relatoria de Master e INSS para amenizar crise no STF; leia bastidor",
-      "link": "https://www.estadao.com.br/politica/fachin-cogita-assumir-relatoria-de-master-e-inss-para-amenizar-crise-no-stf-leia-bastidor/",
+      "title": "Crise no STF acende sinal vermelho na campanha de Lula e Planalto pede rápida intervenção de Fachin",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/crise-no-stf-acende-sinal-vermelho-na-campanha-de-lula-e-planalto-pede-rapida-intervencao-de-fachin/",
       "summary": "",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 18:59:40 +0000"
-    },
-    {
-      "id": "ba8b560fb753",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise no STF, Fachin diz que Judiciário ‘está à altura dos desafios atuais’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/em-meio-a-crise-no-stf-fachin-diz-que-judiciario-esta-a-altura-dos-desafios-atuais/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 22:03:43 +0000"
-    },
-    {
-      "id": "2175c273eab4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF analisou 307 inquéritos sigilosos desde que Moraes iniciou o das fake news",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stf-analisou-307-inqueritos-desde-abertura-do-inquerito-das-fake-news-sob-moraes-desde-2019/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "7a1c6275eb46",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Haddad diz que eleição está sendo influenciada por crise no STF e defende fim de sigilos",
-      "link": "https://www.estadao.com.br/politica/eleicoes/haddad-diz-que-eleicao-esta-sendo-influenciada-por-crise-no-stf-e-defende-fim-de-sigilos/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 21:22:48 +0000"
-    },
-    {
-      "id": "569776d956c3",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
-    },
-    {
-      "id": "8e6163a0b55f",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'",
-      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
-      "summary": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
-    },
-    {
-      "id": "6c73b0d9193b",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Para a pesquisadora Mariana Llanos, abalo na Corte sem precedentes na história recente pode impedir que Supremo exerça seu papel de contrapeso a outras instituições.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
+      "score": 90,
+      "publishedRaw": "Tue, 08 Sep 2026 23:05:49 +0000"
     },
     {
       "id": "cc28ab557039",
@@ -386,7 +193,7 @@
       "category": "Política",
       "title": "AGU pede a Fachin suspensão do afastamento do diretor da PF e aponta invasão de prerrogativa de Lula",
       "link": "https://g1.globo.com/politica/noticia/2026/09/08/agu-pede-a-fachin-suspensao-do-afastamento-de-andrei-rodrigues-e-aponta-invasao-de-prerrogativa-do-presidente.ghtml",
-      "summary": "AGU pede suspensão da decisão que afastou diretor-geral da Polícia Federal\nA Advocacia-Geral da União (AGU) pediu ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, nesta terça-feira (8) para contestar a decisão monocrática do ministro André Mendonça que determinou o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues.\n\"Assinada pelo advogado-geral da União, Jorge Messias, e por outros integrantes da direção da AGU, a peça sustenta a existência de grave lesão à ordem pública e administrativa. O órgão argumenta que o afastamento cautelar viola frontalmente a prerrogativa constitucional privativa do Presidente da República para prover e desprover cargos de direção da Polícia Federal. Além disso, destaca se que a descontinuidade abrupta na gestão do órgão compromete o funcionamento das atividades de polícia judiciária e gera risco de desorganização institucional\", diz nota da AGU.\nDe acordo com a petição da AGU, a escolha, nomeação e livre exoneração do diretor-geral da Polícia Federal são prerrogativas exclusivas do chefe do Poder Executivo federal. \n\"Diante do quadro de urgência, a AGU requereu a concessão de liminar para suspender imediatamente o afastamento dos dirigentes e a subsequente confirmação do pedido no mérito até manifestação definitiva do órgão competente\", diz nota.\nA única exigência legal para o provimento do cargo de diretor-geral da PF é que ele seja ocupado por um integrante de classe especial da carreira de Delegado de Polícia Federal.\nPrédio da Advocacia-Geral da União\nTV Globo\nClima de tensão no STF\nO recurso da AGU chega em meio a um cenário de extrema polarização dentro do próprio Supremo. O afastamento de Andrei Rodrigues e do diretor de inteligência, Leandro Almada da Costa, foi determinado por André Mendonça sob acusação de monitoramento ilegal do próprio ministro relator e do advogado-geral da União, Jorge Messias, por meio de relatórios de inteligência apócrifos.\nNa Segunda Turma da Corte, o julgamento extraordinário virtual para referendar o afastamento formou maioria de 3 votos a 0 com as manifestações de Mendonça, Luiz Fux e Nunes Marques. \nNo entanto, a sessão eletrônica acabou suspensa por um pedido de vista do ministro Gilmar Mendes. Enquanto o colegiado não retoma as deliberações em definitivo, a decisão individual de Mendonça continua em vigor, mantendo Rodrigues afastado.\nO afastamento\nA decisão que afastou Andrei Rodrigues impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária.\nA Associação Nacional dos Peritos Criminais Federais (APCF) defendeu que o caso seja levado com urgência à análise do plenário da Corte, composto atualmente por 10 ministros.\nOs diretores da Polícia Federal manifestaram, por meio de uma nota, seu \"total apoio\" ao diretor-geral afastado Andrei Rodrigues e colocaram seus cargos à disposição para o delegado William Marcel Murad, diretor-geral substituto que assumiu a corporação com o afastamento.\nEssa possibilidade é possível caso algum ministro peça destaque do julgamento, que leva a análise para todos os ministros.",
+      "summary": "AGU pede suspensão da decisão que afastou diretor-geral da Polícia Federal\nA Advocacia-Geral da União (AGU) pediu nesta terça-feira (8) ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin,  para contestar a decisão monocrática do ministro André Mendonça que determinou o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues.\nNa peça, assinada pelo advogado-geral da União, Jorge Messias, a AGU sustenta que há \"grave lesão à ordem pública e administrativa\".\nO órgão argumenta que o afastamento cautelar viola frontalmente a prerrogativa constitucional privativa do Presidente da República para prover e desprover cargos de direção da Polícia Federal. \nEm nota, a AGU ressalta ainda que \"a descontinuidade abrupta na gestão do órgão compromete o funcionamento das atividades de polícia judiciária e gera risco de desorganização institucional\".\nDe acordo com a petição da AGU, a escolha, nomeação e livre exoneração do diretor-geral da Polícia Federal são prerrogativas exclusivas do chefe do Poder Executivo federal. \n\"Diante do quadro de urgência, a AGU requereu a concessão de liminar para suspender imediatamente o afastamento dos dirigentes e a subsequente confirmação do pedido no mérito até manifestação definitiva do órgão competente\", diz nota.\nA única exigência legal para o provimento do cargo de diretor-geral da PF é que ele seja ocupado por um integrante de classe especial da carreira de Delegado de Polícia Federal.\nPrédio da Advocacia-Geral da União\nTV Globo\nClima de tensão no STF\nO recurso da AGU chega em meio a um cenário de extrema polarização dentro do próprio Supremo. O afastamento de Andrei Rodrigues e do diretor de inteligência, Leandro Almada da Costa, foi determinado por André Mendonça sob acusação de monitoramento ilegal do próprio ministro relator e do advogado-geral da União, Jorge Messias, por meio de relatórios de inteligência apócrifos.\nNa Segunda Turma da Corte, o julgamento extraordinário virtual para referendar o afastamento formou maioria de 3 votos a 0 com as manifestações de Mendonça, Luiz Fux e Nunes Marques. \nNo entanto, a sessão eletrônica acabou suspensa por um pedido de vista do ministro Gilmar Mendes. Enquanto o colegiado não retoma as deliberações em definitivo, a decisão individual de Mendonça continua em vigor, mantendo Rodrigues afastado.\nO afastamento e reações da PF\nA decisão que afastou Andrei Rodrigues impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária.\nA Associação Nacional dos Peritos Criminais Federais (APCF) defendeu que o caso seja levado com urgência à análise do plenário da Corte, composto atualmente por 10 ministros.\nOs diretores da Polícia Federal manifestaram, por meio de uma nota, seu \"total apoio\" ao diretor-geral afastado Andrei Rodrigues e colocaram seus cargos à disposição para o delegado William Marcel Murad, diretor-geral substituto que assumiu a corporação com o afastamento.",
       "tags": [
         "Lula"
       ],
@@ -395,6 +202,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
@@ -416,6 +224,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
@@ -437,6 +246,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
@@ -458,6 +268,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
@@ -470,7 +281,7 @@
       "category": "Política",
       "title": "Conselheiros de Lula e Flávio para a Saúde apresentam planos semelhantes para o SUS",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/conselheiros-de-lula-e-flavio-para-a-saude-apresentam-planos-semelhantes-para-o-sus.shtml",
-      "summary": "Os nomes escolhidos por Lula (PT) e Flávio Bolsonaro (PL) para formular o plano para a área da saúde na disputa à Presidência apresentaram ideias semelhantes para o SUS (Sistema Único de Saúde) em evento feito nesta terça-feira (8).\nLeia mais (09/08/2026 - 19h58)",
+      "summary": "Os nomes escolhidos por Lula (PT) e Flávio Bolsonaro (PL) para formular o plano para a área da saúde na disputa à Presidência apresentaram ideias semelhantes para o SUS (Sistema Único de Saúde) em evento nesta terça-feira (8).\nLeia mais (09/08/2026 - 19h58)",
       "tags": [
         "Lula"
       ],
@@ -478,6 +289,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -499,6 +311,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -520,6 +333,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -527,13 +341,13 @@
       "publishedRaw": "08 Sep 2026 19:15:00 -0300"
     },
     {
-      "id": "f670d31f7293",
+      "id": "57a29b280c67",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Quaest: Flávio tem 43% no 2º turno no RJ; Lula, 37%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-34-no-1o-turno-no-rj-lula-32/",
-      "summary": "Foram ouvidas 1.302 pessoas entre os dias 4 e 7 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
+      "title": "Quaest: Lula tem 57% no 2º turno em PE; Flávio, 26%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-tem-57-no-2o-turno-em-pe-flavio-26/",
+      "summary": "Nesta pequisa foram ouvidas 1.302 pessoas; A margem de erro é de três pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
@@ -541,11 +355,12 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 08 Sep 2026 22:40:11 +0000"
+      "publishedRaw": "Tue, 08 Sep 2026 23:35:48 +0000"
     },
     {
       "id": "79d3d32891fa",
@@ -562,6 +377,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -583,6 +399,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -604,6 +421,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -626,6 +444,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
@@ -652,6 +471,218 @@
       "publishedRaw": "Tue, 08 Sep 2026 22:27:00 +0000"
     },
     {
+      "id": "751f4cd57bbf",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Delegados dizem que diretor da PF não pode ser afastado por decisão monocrática e defendem análise pelo plenário do STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/08/nota-delegados-pf-afastamento-andrei.ghtml",
+      "summary": "A Associação dos Delegados da Polícia Federal (ADPF) afirmou nesta terça-feira (8) que a competência para determinar o afastamento do diretor-geral da Polícia Federal deveria ser do plenário do Supremo Tribunal Federal (STF), e não por meio de uma decisão monocrática.\n\"A ADPF sustenta que o afastamento do Diretor-Geral da Polícia Federal, autoridade máxima de instituição permanente prevista no art. 144 da Constituição, somente deveria ser determinado por decisão do Plenário do Supremo Tribunal Federal, e não por atuação monocrática de um de seus membros, ainda que sujeita a referendo posterior de órgão fracionário. Essa cautela impõe-se com maior razão no contexto dos fatos ora analisados, em que documentos integrantes de investigações em curso na própria Corte fazem referência a ministros que a compõem\", diz a nota.\nA associação defende ainda que a decisão do ministro Mendonça seja analisada pelo plenário da Corte.\nEm nota, os delegados afirmam ainda que não tinha nenhum inquérito anterior ou processo administrativo contra o diretor-geral para justificar a medida.\nAgora no g1\nA divulgação da nota pública acontece depois de decisão do ministro do STF André Mendonça para afastar preventivamente o diretor-geral da PF, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação, Leandro Almada da Costa.\nA associação defende ainda que seja incluído na Constituição a autonomia administrativa, financeira e funcional da Polícia Federal. Além disso, defendem mandato fixo para o diretor-geral, escolhido pelo Presidente da República a partir de lista tríplice formada por eleição direta entre os delegados de Polícia Federal. \n\"O modelo preserva a legitimidade democrática da nomeação, confere ao dirigente a estabilidade necessária, cria ambiente institucional adequado para que todos os Delegados conduzam suas investigações e substitui a lealdade pessoal de quem é nomeado pela responsabilidade perante a instituição e a sociedade\".\n\"A ADPF entende que o país não pode permanecer mergulhado em sucessivas crises institucionais que colocam a Polícia Federal no centro de disputas alheias à sua missão. A recorrência desses episódios revela um problema estrutural: a direção da instituição responsável pela investigação das mais altas autoridades da República continua submetida a critérios de escolha e de permanência que dependem exclusivamente da conjuntura política e das relações de confiança do momento\".\nAo determinar o afastamento, Mendonça convocou uma sessão virtual extraordinária da Segunda Turma do STF para referendar a decisão ainda nesta terça. \nO julgamento virtual já conta com maioria de votos para referendar o afastamento preventivo, mas a conclusão da sessão foi interrompida após um pedido de vista apresentado pelo ministro Gilmar Mendes.\nLEIA TAMBÉM: Diretor da PF afastado: veja os principais argumentos de Mendonça na decisão contra Andrei Rodrigues\nAfastamento Andrei\nNesta terça-feira (8), o ministro do Supremo Tribunal Federal (STF) André Mendonça determinou o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação, Leandro Almada da Costa.\nA decisão impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária.\nO ministro argumentou que houve um monitoramento sistemático e ilegal conduzido pela PF por mais de um mês contra a sua própria atuação e contra o advogado-geral da União, Jorge Messias. \nDiretor-geral da PF, Andrei Passos Rodrigues, é ouvido na CPI do Crime Organizado\nAndressa Anholete/Agência Senado\nA decisão foi analisada e referendada pouco tempo depois, em plenário virtual, pela Segunda Turma do STF. No entanto, a conclusão da sessão foi interrompida após um pedido de vista apresentado pelo ministro Gilmar Mendes.\nObteve maioria, de três votos, pela manutenção do afastamento: o do próprio relator, André Mendonça, e os dos ministros Kassio Nunes Marques e Luiz Fux, que anteciparam suas posições mesmo depois de o ministro Gilmar Mendes pedir vista, ou seja, mais tempo para análise do caso.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 23:02:29 -0000"
+    },
+    {
+      "id": "30b35039b599",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Relação Moraes-Vorcaro, Mendonça afasta Andrei: tudo sobre a crise no STF",
+      "link": "https://www.cnnbrasil.com.br/politica/relacao-moraes-vorcaro-mendonca-afasta-andrei-tudo-sobre-a-crise-no-stf/",
+      "summary": "Estopim da tensão na Corte se deu com a queda do sigilo de um relatório da Polícia Federal",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 22:41:03 +0000"
+    },
+    {
+      "id": "dcd1a5076714",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin cogita assumir relatoria de Master e INSS para amenizar crise no STF; leia bastidor",
+      "link": "https://www.estadao.com.br/politica/fachin-cogita-assumir-relatoria-de-master-e-inss-para-amenizar-crise-no-stf-leia-bastidor/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 18:59:40 +0000"
+    },
+    {
+      "id": "ba8b560fb753",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à crise no STF, Fachin diz que Judiciário ‘está à altura dos desafios atuais’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/em-meio-a-crise-no-stf-fachin-diz-que-judiciario-esta-a-altura-dos-desafios-atuais/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 22:03:43 +0000"
+    },
+    {
+      "id": "2175c273eab4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF analisou 307 inquéritos sigilosos desde que Moraes iniciou o das fake news",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stf-analisou-307-inqueritos-desde-abertura-do-inquerito-das-fake-news-sob-moraes-desde-2019/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 05 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "7a1c6275eb46",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Haddad diz que eleição está sendo influenciada por crise no STF e defende fim de sigilos",
+      "link": "https://www.estadao.com.br/politica/eleicoes/haddad-diz-que-eleicao-esta-sendo-influenciada-por-crise-no-stf-e-defende-fim-de-sigilos/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 21:22:48 +0000"
+    },
+    {
+      "id": "569776d956c3",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
+    },
+    {
+      "id": "8e6163a0b55f",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'",
+      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
+      "summary": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
+    },
+    {
+      "id": "6c73b0d9193b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Para a pesquisadora Mariana Llanos, abalo na Corte sem precedentes na história recente pode impedir que Supremo exerça seu papel de contrapeso a outras instituições.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
+    },
+    {
+      "id": "362e2f7124a5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Na gestão Bolsonaro, Moraes vetou posse de chefe da PF, que responderia a Mendonça",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/na-gestao-bolsonaro-moraes-vetou-posse-de-chefe-da-pf-que-responderia-a-mendonca/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Tue, 08 Sep 2026 15:53:09 +0000"
+    },
+    {
+      "id": "d0f5f02111ad",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "iPhone 18: Apple deve lançar celular dobrável nesta quarta",
+      "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "summary": "iPhone 18: Apple deve lançar celular dobrável nesta quarta Novo celular deve ter tamanho próximo ao de um passaporte quando fechado e semelhante a um tablet quando aberto.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 08 Sep 2026 23:32:37 -0000"
+    },
+    {
       "id": "ca8553f56268",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -666,6 +697,21 @@
       "crossOutlets": [],
       "score": 73,
       "publishedRaw": "Tue, 08 Sep 2026 22:58:35 +0000"
+    },
+    {
+      "id": "a3e3f0ce6701",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE acata ação contra Flávio por suposto abuso de poder econômico",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-acata-acao-contra-flavio-por-suposto-abuso-de-poder-economico/",
+      "summary": "Coligação de Lula questiona participação do candidato em festival de Barretos",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Tue, 08 Sep 2026 23:39:24 +0000"
     },
     {
       "id": "e8fede76355c",
