@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-09-08T06:48:21.514180+00:00",
+  "generated_at": "2026-09-08T07:17:08.337673+00:00",
   "items": [
-    {
-      "id": "6c55bc5a4ad1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Senadores admitem chance de impeachment no STF e veem Alcolumbre à espera das eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/senadores-admitem-chance-de-impeachment-no-stf-e-veem-alcolumbre-a-espera-das-eleicoes.shtml",
-      "summary": "Com a escalada da crise envolvendo o STF (Supremo Tribunal Federal), aliados do presidente do Senado, Davi Alcolumbre (União Brasil-AP), avaliam que ele vai esperar o resultado das eleições para decidir sobre o impeachment de ministros.\nLeia mais (09/07/2026 - 23h00)",
-      "tags": [
-        "STF",
-        "eleições",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 95,
-      "publishedRaw": "07 Sep 2026 23:00:00 -0300"
-    },
     {
       "id": "c13decf36e94",
       "source": "G1 - Política",
@@ -39,12 +16,36 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 95,
       "publishedRaw": "Mon, 07 Sep 2026 16:58:48 -0000"
+    },
+    {
+      "id": "3836621b45f4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ala do STF aposta em decisão sobre Moraes e Mendonça só após as eleições",
+      "link": "https://www.cnnbrasil.com.br/politica/ala-do-stf-aposta-em-decisao-sobre-moraes-e-mendonca-so-apos-as-eleicoes/",
+      "summary": "Avaliação é de que Fachin busca ganhar tempo com pedidos de manifestações e que não pautará o caso no calor da disputa eleitoral",
+      "tags": [
+        "STF",
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Tue, 08 Sep 2026 07:00:18 +0000"
     },
     {
       "id": "b8dcb267808f",
@@ -59,11 +60,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 01:55:18 -0000"
     },
     {
@@ -79,11 +81,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 17:34:54 -0000"
     },
     {
@@ -99,11 +102,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 15:20:19 -0000"
     },
     {
@@ -119,12 +123,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 14:26:17 -0000"
+    },
+    {
+      "id": "662fb7c58ad1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF decide que INSS pode definir teto de juros do consignado; entenda",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/stf-decide-que-inss-pode-definir-teto-de-juros-do-consignado-entenda.shtml",
+      "summary": "O STF (Supremo Tribunal Federal) decidiu que o INSS (Instituto Nacional do Seguro Social) seguirá sendo responsável por definir o teto de juros do crédito consignado de aposentados e pensionistas da Previdência Social.\nLeia mais (09/08/2026 - 04h00)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "08 Sep 2026 04:00:00 -0300"
     },
     {
       "id": "317ce50667b0",
@@ -139,12 +165,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "07 Sep 2026 23:57:00 -0300"
+    },
+    {
+      "id": "7cee5d384a1d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF: Mendonça e Moraes não dão sinal de recuo nos bastidores",
+      "link": "https://www.cnnbrasil.com.br/politica/crise-no-stf-mendonca-e-moraes-nao-dao-sinal-de-recuo-nos-bastidores/",
+      "summary": "Nos bastidores da Corte, nenhum dos dois ministros dá sinais de recuo, e tentativas de acordo não avançam; apuração é de Matheus Teixeira no CNN 360°",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 08 Sep 2026 06:55:17 +0000"
     },
     {
       "id": "84e59cc96097",
@@ -159,33 +207,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 00:40:02 +0000"
-    },
-    {
-      "id": "941c7e0115ea",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes vira principal personagem do 7 de Setembro, mas só urnas vão definir futuro do STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/moraes-vira-principal-personagem-7-setembro-urnas-vao-definir-futuro-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 07 Sep 2026 23:00:00 +0000"
     },
     {
       "id": "ced1ec5f3e2c",
@@ -200,11 +228,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 19:36:23 +0000"
     },
     {
@@ -219,12 +248,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 03:36:21 GMT"
     },
     {
@@ -239,12 +269,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
     },
     {
@@ -260,11 +291,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 06:36:01 +0000"
     },
     {
@@ -280,11 +312,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 23:05:04 +0000"
     },
     {
@@ -300,33 +333,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Mon, 07 Sep 2026 23:01:30 +0000"
     },
     {
-      "id": "c449ece468b2",
-      "source": "G1 - Política",
+      "id": "941c7e0115ea",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml",
-      "summary": "Renan Santos durante ato de campanha no Ibirapuera\nTV Globo\nO candidato à Presidência da República Renan Santos (Missão) pediu nesta segunda-feira (7), durante um ato no Parque Ibirapuera, em São Paulo, a saída imediata dos ministros Dias Toffoli e Alexandre de Moraes do Supremo Tribunal Federal (STF), do diretor-geral da Polícia Federal, Andrei Rodrigues, e do procurador-geral da República, Paulo Gonet.\nAs reivindicações constam de um manifesto apresentado pelo candidato durante o evento. O documento também defende a continuidade das investigações sobre o Banco Master, “custe a quem custar”, com a apuração da conduta de lideranças políticas, empresariais e do meio jurídico.\n“Que se abra a caixa-preta do Banco Master e que parem todos na cadeia”, afirmou Renan.\nRenan fez um discurso no qual criticou o que considera falta de indignação da população com os problemas do país. Ele afirmou que os brasileiros estão “viciados no erro” e demonstram pouca disposição para abandonar as práticas tradicionais da política.\n“Não há no seio da sociedade brasileira nenhuma vontade de abandonar as velhas práticas que dominam a política brasileira, de se revoltar com aqueles que estão nos roubando”, disse.\nO candidato disse que ficou assustado ao ver o presidente Lula (PT) e Flávio Bolsonaro (PL) nas primeiras colocações das pesquisas eleitorais. \nSegundo Renan, o comportamento dos eleitores indica que o combate à corrupção deixou de ser uma prioridade e foi substituído pela defesa de políticos de estimação.\n“O povo brasileiro demonstra que o fim nunca foi combater a corrupção, nunca foi ter um país decente, mas falar que o seu ladrão rouba menos do que o ladrão do vizinho”, afirmou.\nRenan disse que apenas os brasileiros mais jovens estão preocupados com o futuro do país e responsabilizou as gerações anteriores pela manutenção dos problemas nacionais.\n“As gerações mais novas no Brasil são as únicas que entenderam o problema brasileiro, porque as gerações mais velhas decidiram, por conta própria, abandonar o país à própria sorte”, declarou.\nEle também afirmou que homens e mulheres mais velhos continuam repetindo escolhas políticas equivocadas.\n“O Brasil se tornou um país em que membros da Suprema Corte participam de escândalos de corrupção com os mesmos inimigos políticos deles. A esquerda e a direita que vocês veem no noticiário xingando uns aos outros”, declarou.\nManifestantes durante ato com Renan Santos\nReprodução\nNova Constituição\nDurante o discurso, Renan também defendeu que o Brasil tenha uma nova Constituição. Segundo ele, a Carta atual e os responsáveis por sua elaboração fracassaram.\n“Nós precisamos vencer as eleições para que o nosso país se torne uma nação, para que a gente tenha uma nova Constituição. Isso precisa ser dito: a nossa Constituição e os nossos constituintes fracassaram”, afirmou.\nO candidato não detalhou como seria convocado o processo constituinte nem quais pontos da Constituição pretende mudar.\n‘Se isso é democracia, eu não sou um democrata’\nAo falar sobre segurança pública, Renan defendeu que policiais atirem contra criminosos armados e rejeitou a classificação dessa proposta como radical.\n“Ousar dizer que o homem que aparece com uma arma e aponta para uma pessoa na rua tem que tomar o tiro do policial é radicalismo? É aceitar, portanto, que o normal é ser assaltado”, disse.\nNa sequência, afirmou não aceitar uma democracia que, segundo ele, deixa brasileiros submetidos ao crime organizado.\n“Eu não aceito essa democracia que torna brasileiros escravos do crime organizado e ladrões donos das nossas ruas. Se isso é democracia para vocês, eu não sou um democrata”, afirmou.\nLogo depois, Renan disse que o país é uma “república democrática” e que os direitos humanos dos brasileiros devem ser respeitados.",
+      "title": "Moraes vira principal personagem do 7 de Setembro, mas só urnas vão definir futuro do STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/moraes-vira-principal-personagem-7-setembro-urnas-vao-definir-futuro-stf/",
+      "summary": "",
       "tags": [
         "STF",
-        "Renan Santos"
+        "urnas"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
-      "publishedRaw": "Mon, 07 Sep 2026 17:23:30 -0000"
+      "score": 89,
+      "publishedRaw": "Mon, 07 Sep 2026 23:00:00 +0000"
     },
     {
       "id": "1a35963d0043",
@@ -343,9 +378,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 84,
+      "score": 88,
       "publishedRaw": "Mon, 07 Sep 2026 22:01:39 -0000"
     },
     {
@@ -363,9 +399,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 84,
+      "score": 88,
       "publishedRaw": "Mon, 07 Sep 2026 21:01:49 -0000"
     },
     {
@@ -383,10 +420,75 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 88,
+      "publishedRaw": "Mon, 07 Sep 2026 21:01:34 -0000"
+    },
+    {
+      "id": "c449ece468b2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos faz ato no Ibirapuera e pede afastamento de Toffoli e Moraes do STF, de Andrei da PF e de Gonet da PGR",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/07/renan-santos-faz-ato-no-ibirapuera-e-pede-afastamento-de-toffoli-e-moraes-do-stf-de-andrei-da-pf-e-de-gonet-da-pgr.ghtml",
+      "summary": "Renan Santos durante ato de campanha no Ibirapuera\nTV Globo\nO candidato à Presidência da República Renan Santos (Missão) pediu nesta segunda-feira (7), durante um ato no Parque Ibirapuera, em São Paulo, a saída imediata dos ministros Dias Toffoli e Alexandre de Moraes do Supremo Tribunal Federal (STF), do diretor-geral da Polícia Federal, Andrei Rodrigues, e do procurador-geral da República, Paulo Gonet.\nAs reivindicações constam de um manifesto apresentado pelo candidato durante o evento. O documento também defende a continuidade das investigações sobre o Banco Master, “custe a quem custar”, com a apuração da conduta de lideranças políticas, empresariais e do meio jurídico.\n“Que se abra a caixa-preta do Banco Master e que parem todos na cadeia”, afirmou Renan.\nRenan fez um discurso no qual criticou o que considera falta de indignação da população com os problemas do país. Ele afirmou que os brasileiros estão “viciados no erro” e demonstram pouca disposição para abandonar as práticas tradicionais da política.\n“Não há no seio da sociedade brasileira nenhuma vontade de abandonar as velhas práticas que dominam a política brasileira, de se revoltar com aqueles que estão nos roubando”, disse.\nO candidato disse que ficou assustado ao ver o presidente Lula (PT) e Flávio Bolsonaro (PL) nas primeiras colocações das pesquisas eleitorais. \nSegundo Renan, o comportamento dos eleitores indica que o combate à corrupção deixou de ser uma prioridade e foi substituído pela defesa de políticos de estimação.\n“O povo brasileiro demonstra que o fim nunca foi combater a corrupção, nunca foi ter um país decente, mas falar que o seu ladrão rouba menos do que o ladrão do vizinho”, afirmou.\nRenan disse que apenas os brasileiros mais jovens estão preocupados com o futuro do país e responsabilizou as gerações anteriores pela manutenção dos problemas nacionais.\n“As gerações mais novas no Brasil são as únicas que entenderam o problema brasileiro, porque as gerações mais velhas decidiram, por conta própria, abandonar o país à própria sorte”, declarou.\nEle também afirmou que homens e mulheres mais velhos continuam repetindo escolhas políticas equivocadas.\n“O Brasil se tornou um país em que membros da Suprema Corte participam de escândalos de corrupção com os mesmos inimigos políticos deles. A esquerda e a direita que vocês veem no noticiário xingando uns aos outros”, declarou.\nManifestantes durante ato com Renan Santos\nReprodução\nNova Constituição\nDurante o discurso, Renan também defendeu que o Brasil tenha uma nova Constituição. Segundo ele, a Carta atual e os responsáveis por sua elaboração fracassaram.\n“Nós precisamos vencer as eleições para que o nosso país se torne uma nação, para que a gente tenha uma nova Constituição. Isso precisa ser dito: a nossa Constituição e os nossos constituintes fracassaram”, afirmou.\nO candidato não detalhou como seria convocado o processo constituinte nem quais pontos da Constituição pretende mudar.\n‘Se isso é democracia, eu não sou um democrata’\nAo falar sobre segurança pública, Renan defendeu que policiais atirem contra criminosos armados e rejeitou a classificação dessa proposta como radical.\n“Ousar dizer que o homem que aparece com uma arma e aponta para uma pessoa na rua tem que tomar o tiro do policial é radicalismo? É aceitar, portanto, que o normal é ser assaltado”, disse.\nNa sequência, afirmou não aceitar uma democracia que, segundo ele, deixa brasileiros submetidos ao crime organizado.\n“Eu não aceito essa democracia que torna brasileiros escravos do crime organizado e ladrões donos das nossas ruas. Se isso é democracia para vocês, eu não sou um democrata”, afirmou.\nLogo depois, Renan disse que o país é uma “república democrática” e que os direitos humanos dos brasileiros devem ser respeitados.",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Mon, 07 Sep 2026 17:23:30 -0000"
+    },
+    {
+      "id": "5412278ec56b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição presidencial; para 24%, a volta da família Bolsonaro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-melhor-resultado-eleitor-7-de-setembro.ghtml",
+      "summary": "Quaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nPesquisa Quaest divulgada nesta segunda-feira (7) indica que 32% dos brasileiros consideram que Lula e PT vencerem é o melhor resultado para a eleição presidencial de 2026, enquanto 24% consideram que o melhor resultado é a volta da família Bolsonaro.\nVeja os números:\nLula e o PT vencerem uma nova eleição: 32% \nA família Bolsonaro voltar a governar o país: 24%\nA vitória de um candidato de fora da política e fora da polarização: 20%\nA vitória de um candidato moderado fora da polarização: 17%\nNão sabem/não responderam: 7%\nContratada pela Globo e pelo jornal O Globo, a Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 3 e 6 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-01720/2026. \n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nAté 3 de outubro, véspera do primeiro turno, o g1, a Globo, a GloboNews, o jornal O Globo e emissoras afiliadas vão publicar 130 pesquisas, com as disputas pelo Senado, pela Presidência da República e pelos governos de todos os estados e do Distrito Federal. Os levantamentos foram encomendados à Quaest e ao Datafolha para informar, rodada a rodada, como está a corrida eleitoral. \nEntre os eleitores independentes: \n32% consideram o melhor resultado a vitória de um candidato de fora da política e fora da polarização; \n27% responderam a vitória de um candidato moderado;\n19%, a vitória de Lula e o PT;\n12%, não sabem ou não responderam;\ne 10% consideram o melhor resultado a volta da família Bolsonaro ao poder.\nNas regiões, o Nordeste (53%) dá maior quantidade de respostas a favor de Lula e PT, enquanto o Sul (31%) dá mair quantidade de respostas a favor à volta da família Bolsonaro ao poder. \nLEIA TAMBÉM:\nQuaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nQuaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nQuaest: 50% desaprovam e 43% aprovam governo Lula\nGrau de decisão do voto \nPara 71% dos eleitores, a escolha do candidato é definitiva. Outros 29% dizem que ainda podem mudar o voto até o dia da eleição, em 4 de outubro. \nLula (80%) e Flávio (78%) são os candidatos com o voto mais consolidado. Entre os eleitores de Cury, 49% consideram a escolha definitiva e 51% podem mudar. \n59% dos eleitores de Renan Santos agora admitem trocar de candidato, e 61% dos eleitores de Caiado dizem o mesmo. \nO que mostra a pesquisa espontânea \nNa pesquisa espontânea, em que a Quaest não mostra aos eleitores os nomes dos candidatos, a disputa está assim: \nLula (PT): 28% (eram 28% em 2 de setembro) \nFlávio Bolsonaro (PL): 20% (eram 20%) \nEscritor Augusto Cury (Avante): 4% (eram 4%) \nOutros somados: 5% (eram 4%) \nIndecisos: 42% (eram 42%) \nBranco/nulo/não vai votar: 1% (eram 2%) \nÍndice de rejeição dos candidatos \nA Quaest consultou os eleitores sobre cada um dos candidatos em disputa: se eles conhecem e votariam, se não conhecem ou se conhecem e não votariam. Os candidatos mais rejeitados (maiores índices de \"conhece e não votaria\") são Flávio Bolsonaro, com % e Lula, com %.  \nVeja os números de rejeição: \nFlávio Bolsonaro: 55% (eram 55% em 2 de setembro) \nLula: 53% (eram 53%) \nPablo Marçal: 45% (eram 44%) \nRonaldo Caiado: 41% (eram 40%) \nRomeu Zema: 39% (eram 38%) \nRenan Santos: 29% (eram 28%) \nAugusto Cury: 26% (eram 25%) \nRui Costa Pimenta: 23% (eram 23%) \nEdmilson Costa: 11% (eram 11%) \nSamara Martins: 11% (eram 11%) \nHertz Dias: 10% (eram 10%) \nVeterinário Wilson Grassi: 10% (eram 10%) \nClariana Barão: 7% (eram 7%) \n1º turno\nPesquisa Quaest divulgada nesta segunda-feira (7) mostra como está o cenário da eleição presidencial no Dia da Independência do Brasil, a menos de um mês do 1º turno -- que acontecerá em 4 de outubro.\nVeja os números da pesquisa estimulada, em que a Quaest mostra aos eleitores entrevistados os nomes dos candidatos. Entre parênteses, o resultado da pesquisa anterior, do dia 2 de setembro.  \nVeja, abaixo, os números do cenário de 1º turno sem Pablo Marçal:\nLula (PT): 36% (eram 37% em 2 de setembro) \nFlávio Bolsonaro (PL): 29% (eram 29%)  \nAugusto Cury (Avante): 8% (eram 10%)  \nRenan Santos (Missão): 3% (eram 3%) \nRonaldo Caiado (PSD): 3% (eram 1%)  \nRomeu Zema (Novo): 2% (eram 1%)  \nSamara Martins (UP): 1% (era 1%)  \nEdmilson Costa (PCB): 0 (era zero)  \nRui Costa Pimenta (PCO): 0 (era zero)  \nVeterinário Wilson Grassi (Democrata): 0 (era zero)  \nClariana Barão (DC): 0 (era zero)  \nHertz Dias (PSTU): 0 (era zero)  \nEm branco/nulo/nenhum: 8% (eram 7%)  \nIndecisos: 10% (eram 11%)",
+      "tags": [
+        "Bolsonaro",
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
       "score": 84,
-      "publishedRaw": "Mon, 07 Sep 2026 21:01:34 -0000"
+      "publishedRaw": "Mon, 07 Sep 2026 21:20:00 -0000"
+    },
+    {
+      "id": "fa03f0b13709",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula cita tarifaço, defende soberania e critica família Bolsonaro em nova propaganda eleitoral na TV",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/campanha-lula-propaganda-eleitoral-tv.ghtml",
+      "summary": "Lula em propaganda eleitoral que defende a soberania nacional e critica a família Bolsonaro\nReprodução\nA campanha do presidente Lula (PT) vai reforçar os ataques a Flávio Bolsonaro (PL) na propaganda eleitoral de TV desta terça-feira (8), usando o tarifaço dos Estados Unidos contra o Brasil para acusar a família Bolsonaro de servir a interesses estrangeiros.\nO vídeo, antecipado a alguns veículos de imprensa nesta segunda-feira (7), combina críticas aos adversários com a defesa da soberania nacional.\n“Não podemos esquecer que tem família que usa nossas cores, fala de patriotismo, mas, no final, serve a outro país”, diz a locução na abertura.\nAgora no g1\nA peça reúne declarações de Flávio Bolsonaro sobre as tarifas americanas e manifestações de apoio ao presidente dos Estados Unidos, Donald Trump. Em seguida, usa a expressão “traidores da pátria nunca mais”.\n“Enquanto os bolsonaristas querem vender o Brasil, é o Lula que protege”, afirma a locução.\nA abordagem dá continuidade à estratégia adotada pela campanha petista desde a estreia da propaganda eleitoral, em 29 de agosto: combinar a defesa de pautas do governo com ataques a Flávio. Nas primeiras peças, a campanha destacou a trajetória de Lula, o fim da escala 6x1, a isenção do Imposto de Renda para quem ganha até R$ 5 mil e a soberania nacional.\nNo novo vídeo, Lula relaciona a soberania à capacidade de produzir alimentos, às riquezas minerais e à liberdade do país para tomar decisões.\n“Nós fomos colonizados muitos anos e não queremos mais ser colonizados”, afirma.\nA propaganda também destaca investimentos na indústria de defesa e nas Forças Armadas, associando essas medidas à proteção do território brasileiro e à geração de empregos.\nEm outro trecho, a peça contrapõe declarações sobre os Estados Unidos a uma fala de Lula em defesa do sistema brasileiro de pagamentos: “O Pix é do Brasil, é público, é gratuito e vai continuar assim”.\nAo final, o presidente retoma a defesa da autonomia brasileira: “A soberania nacional também significa a gente ser livre e independente para tomar nossas decisões. Sem permitir que ninguém diga o que a gente tem que fazer”.",
+      "tags": [
+        "Bolsonaro",
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 07 Sep 2026 19:19:52 -0000"
     },
     {
       "id": "657b422bffdc",
@@ -446,44 +548,194 @@
       "publishedRaw": "Mon, 07 Sep 2026 22:01:48 GMT"
     },
     {
-      "id": "5412278ec56b",
+      "id": "82f8f90a30b2",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Quaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição presidencial; para 24%, a volta da família Bolsonaro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-melhor-resultado-eleitor-7-de-setembro.ghtml",
-      "summary": "Quaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nPesquisa Quaest divulgada nesta segunda-feira (7) indica que 32% dos brasileiros consideram que Lula e PT vencerem é o melhor resultado para a eleição presidencial de 2026, enquanto 24% consideram que o melhor resultado é a volta da família Bolsonaro.\nVeja os números:\nLula e o PT vencerem uma nova eleição: 32% \nA família Bolsonaro voltar a governar o país: 24%\nA vitória de um candidato de fora da política e fora da polarização: 20%\nA vitória de um candidato moderado fora da polarização: 17%\nNão sabem/não responderam: 7%\nContratada pela Globo e pelo jornal O Globo, a Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 3 e 6 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-01720/2026. \n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nAté 3 de outubro, véspera do primeiro turno, o g1, a Globo, a GloboNews, o jornal O Globo e emissoras afiliadas vão publicar 130 pesquisas, com as disputas pelo Senado, pela Presidência da República e pelos governos de todos os estados e do Distrito Federal. Os levantamentos foram encomendados à Quaest e ao Datafolha para informar, rodada a rodada, como está a corrida eleitoral. \nEntre os eleitores independentes: \n32% consideram o melhor resultado a vitória de um candidato de fora da política e fora da polarização; \n27% responderam a vitória de um candidato moderado;\n19%, a vitória de Lula e o PT;\n12%, não sabem ou não responderam;\ne 10% consideram o melhor resultado a volta da família Bolsonaro ao poder.\nNas regiões, o Nordeste (53%) dá maior quantidade de respostas a favor de Lula e PT, enquanto o Sul (31%) dá mair quantidade de respostas a favor à volta da família Bolsonaro ao poder. \nLEIA TAMBÉM:\nQuaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nQuaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nQuaest: 50% desaprovam e 43% aprovam governo Lula\nGrau de decisão do voto \nPara 71% dos eleitores, a escolha do candidato é definitiva. Outros 29% dizem que ainda podem mudar o voto até o dia da eleição, em 4 de outubro. \nLula (80%) e Flávio (78%) são os candidatos com o voto mais consolidado. Entre os eleitores de Cury, 49% consideram a escolha definitiva e 51% podem mudar. \n59% dos eleitores de Renan Santos agora admitem trocar de candidato, e 61% dos eleitores de Caiado dizem o mesmo. \nO que mostra a pesquisa espontânea \nNa pesquisa espontânea, em que a Quaest não mostra aos eleitores os nomes dos candidatos, a disputa está assim: \nLula (PT): 28% (eram 28% em 2 de setembro) \nFlávio Bolsonaro (PL): 20% (eram 20%) \nEscritor Augusto Cury (Avante): 4% (eram 4%) \nOutros somados: 5% (eram 4%) \nIndecisos: 42% (eram 42%) \nBranco/nulo/não vai votar: 1% (eram 2%) \nÍndice de rejeição dos candidatos \nA Quaest consultou os eleitores sobre cada um dos candidatos em disputa: se eles conhecem e votariam, se não conhecem ou se conhecem e não votariam. Os candidatos mais rejeitados (maiores índices de \"conhece e não votaria\") são Flávio Bolsonaro, com % e Lula, com %.  \nVeja os números de rejeição: \nFlávio Bolsonaro: 55% (eram 55% em 2 de setembro) \nLula: 53% (eram 53%) \nPablo Marçal: 45% (eram 44%) \nRonaldo Caiado: 41% (eram 40%) \nRomeu Zema: 39% (eram 38%) \nRenan Santos: 29% (eram 28%) \nAugusto Cury: 26% (eram 25%) \nRui Costa Pimenta: 23% (eram 23%) \nEdmilson Costa: 11% (eram 11%) \nSamara Martins: 11% (eram 11%) \nHertz Dias: 10% (eram 10%) \nVeterinário Wilson Grassi: 10% (eram 10%) \nClariana Barão: 7% (eram 7%) \n1º turno\nPesquisa Quaest divulgada nesta segunda-feira (7) mostra como está o cenário da eleição presidencial no Dia da Independência do Brasil, a menos de um mês do 1º turno -- que acontecerá em 4 de outubro.\nVeja os números da pesquisa estimulada, em que a Quaest mostra aos eleitores entrevistados os nomes dos candidatos. Entre parênteses, o resultado da pesquisa anterior, do dia 2 de setembro.  \nVeja, abaixo, os números do cenário de 1º turno sem Pablo Marçal:\nLula (PT): 36% (eram 37% em 2 de setembro) \nFlávio Bolsonaro (PL): 29% (eram 29%)  \nAugusto Cury (Avante): 8% (eram 10%)  \nRenan Santos (Missão): 3% (eram 3%) \nRonaldo Caiado (PSD): 3% (eram 1%)  \nRomeu Zema (Novo): 2% (eram 1%)  \nSamara Martins (UP): 1% (era 1%)  \nEdmilson Costa (PCB): 0 (era zero)  \nRui Costa Pimenta (PCO): 0 (era zero)  \nVeterinário Wilson Grassi (Democrata): 0 (era zero)  \nClariana Barão (DC): 0 (era zero)  \nHertz Dias (PSTU): 0 (era zero)  \nEm branco/nulo/nenhum: 8% (eram 7%)  \nIndecisos: 10% (eram 11%)",
+      "title": "Quaest: 50% desaprovam e 43% aprovam governo Lula",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-aprovacao-lula-7-setembro.ghtml",
+      "summary": "Quaest: 50% desaprovam e 43% aprovam governo Lula\nPesquisa Quaest divulgada nesta segunda-feira (7) mostra que 50% dos eleitores desaprovam o governo Lula (PT), enquanto 43% aprovam. Outros 7% não souberam ou não responderam.\nEm relação ao levantamento divulgado em 2 de setembro, a desaprovação oscilou dois pontos percentuais para cima, de 48% para 50%, e a aprovação, dois para baixo, de 45% para 43%. As duas variações ocorreram dentro da margem de erro, de dois pontos percentuais para mais ou para menos.\nA distância entre os dois índices passou de três para sete pontos. Com isso, aprovação e desaprovação deixaram de estar em situação de empate técnico.\nVeja os números:\nDesaprovam: 50% (eram 48% em 2 de setembro);\nAprovam: 43% (eram 45%);\nNão sabem/não responderam: 7% (eram 7%).\nPesquisa Quaest avalia aprovação do governo Lula\ng1\nA pesquisa Quaest foi encomendada pela Globo e pelo jornal O Globo e entrevistou 2.004 eleitores entre os dias 03 de setembro a 06 de setembro. O registro no TSE é BR-01720/2026. A margem de erro é de dois pontos e o nível de confiança, de 95%.\nAvaliação do governo Lula\nPresidente Lula durante evento no Planalto em 2026\nFoto: Ricardo Stuckert\nA Quaest também perguntou se os eleitores consideram o governo ótimo, bom, regular, ruim ou péssimo. A avaliação negativa, que reúne as respostas ruim e péssimo, passou de 37% para 38%. A positiva, soma de ótimo e bom, oscilou de 35% para 34%.\nVeja os resultados:\nNegativa: 38% (eram 37% em 2 de setembro);\nPositiva: 34% (eram 35%);\nRegular: 25% (eram 25%);\nNão sabem/não responderam: 3% (eram 3%).\nPesquisa Quaest avaliação do governo Lula\ng1\nAvaliação da economia nos últimos 12 meses\nA percepção sobre a economia permaneceu igual à registrada em 2 de setembro. Para 49% dos eleitores, a situação do país piorou nos últimos 12 meses. Outros 29% dizem que ficou do mesmo jeito, e 19%, que melhorou.\nPiorou: 49% (eram 49% em 2 de setembro);\nFicou do mesmo jeito: 29% (eram 29%);\nMelhorou: 19% (eram 19%);\nNão sabem/não responderam: 3% (eram 3%).\nRenda e custo de vida\nO levantamento mostra ainda que 54% dos eleitores dizem que a renda da família não aumentou ou cresceu menos que o custo de vida no último ano. O percentual reúne os 33% que afirmam não ter tido aumento e os 21% que relatam uma alta insuficiente para acompanhar os preços.\nOs resultados também são os mesmos da pesquisa divulgada em 2 de setembro:\nRenda aumentou tanto quanto o custo de vida: 33%;\nRenda não aumentou: 33%;\nRenda aumentou menos que o custo de vida: 21%;\nRenda aumentou mais que o custo de vida: 10%;\nNão sabem/não responderam: 3%.\nDívidas\nA parcela dos eleitores que dizem ter muitas dívidas passou de 22%, no levantamento divulgado em 5 de agosto, para 28% nesta rodada, uma variação de seis pontos percentuais.\nNo mesmo período, o percentual dos que afirmam não ter dívidas passou de 31% para 27%, e o dos que relatam poucas dívidas, de 47% para 44%.\nTêm poucas dívidas: 44% (eram 47% em 5 de agosto);\nTêm muitas dívidas: 28% (eram 22%);\nNão têm dívidas: 27% (eram 31%);\nNão sabem/não responderam: 1% (eram 0%).",
       "tags": [
-        "Bolsonaro",
-        "família",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 79,
-      "publishedRaw": "Mon, 07 Sep 2026 21:20:00 -0000"
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 21:02:43 -0000"
     },
     {
-      "id": "fa03f0b13709",
-      "source": "G1 - Política",
+      "id": "c19537bb050a",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Campanha de Lula cita tarifaço, defende soberania e critica família Bolsonaro em nova propaganda eleitoral na TV",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/07/campanha-lula-propaganda-eleitoral-tv.ghtml",
-      "summary": "Lula em propaganda eleitoral que defende a soberania nacional e critica a família Bolsonaro\nReprodução\nA campanha do presidente Lula (PT) vai reforçar os ataques a Flávio Bolsonaro (PL) na propaganda eleitoral de TV desta terça-feira (8), usando o tarifaço dos Estados Unidos contra o Brasil para acusar a família Bolsonaro de servir a interesses estrangeiros.\nO vídeo, antecipado a alguns veículos de imprensa nesta segunda-feira (7), combina críticas aos adversários com a defesa da soberania nacional.\n“Não podemos esquecer que tem família que usa nossas cores, fala de patriotismo, mas, no final, serve a outro país”, diz a locução na abertura.\nAgora no g1\nA peça reúne declarações de Flávio Bolsonaro sobre as tarifas americanas e manifestações de apoio ao presidente dos Estados Unidos, Donald Trump. Em seguida, usa a expressão “traidores da pátria nunca mais”.\n“Enquanto os bolsonaristas querem vender o Brasil, é o Lula que protege”, afirma a locução.\nA abordagem dá continuidade à estratégia adotada pela campanha petista desde a estreia da propaganda eleitoral, em 29 de agosto: combinar a defesa de pautas do governo com ataques a Flávio. Nas primeiras peças, a campanha destacou a trajetória de Lula, o fim da escala 6x1, a isenção do Imposto de Renda para quem ganha até R$ 5 mil e a soberania nacional.\nNo novo vídeo, Lula relaciona a soberania à capacidade de produzir alimentos, às riquezas minerais e à liberdade do país para tomar decisões.\n“Nós fomos colonizados muitos anos e não queremos mais ser colonizados”, afirma.\nA propaganda também destaca investimentos na indústria de defesa e nas Forças Armadas, associando essas medidas à proteção do território brasileiro e à geração de empregos.\nEm outro trecho, a peça contrapõe declarações sobre os Estados Unidos a uma fala de Lula em defesa do sistema brasileiro de pagamentos: “O Pix é do Brasil, é público, é gratuito e vai continuar assim”.\nAo final, o presidente retoma a defesa da autonomia brasileira: “A soberania nacional também significa a gente ser livre e independente para tomar nossas decisões. Sem permitir que ninguém diga o que a gente tem que fazer”.",
+      "title": "Lula tem até hoje para assinar MP da Blusinhas e evitar volta de imposto",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-tem-ate-hoje-para-assinar-mp-da-blusinhas-e-evitar-volta-de-imposto/",
+      "summary": "Medida Provisória que perde a validade nesta terça-feira (8) foi aprovada pelo Congresso Nacional na semana passada",
       "tags": [
-        "Bolsonaro",
-        "família",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "Mon, 07 Sep 2026 19:19:52 -0000"
+      "score": 80,
+      "publishedRaw": "Tue, 08 Sep 2026 07:01:12 +0000"
+    },
+    {
+      "id": "866f2c4ffdc3",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O Grande Debate: Atos de 7/9 contra Moraes mudam votos para Flávio e Lula?",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-atos-de-7-9-contra-moraes-mudam-votos-para-flavio-e-lula/",
+      "summary": "Vinicius Poit e Vitor Marques debatem se manifestações no Dia da Independência influenciam a corrida eleitoral",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 08 Sep 2026 06:46:40 +0000"
+    },
+    {
+      "id": "5d599568d900",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "No 7 de setembro, pesquisa Quaest mostra que Lula anda de marcha ré, cercado de más notícias",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/na-quaest-flavio-nao-avanca-lula-e-que-corroi-seu-favoritismo-e-anda-de-re/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 22:47:14 +0000"
+    },
+    {
+      "id": "92aff86d37f2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado diz que Lula não tem ‘autoridade moral’ para falar de patriotismo e soberania",
+      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-diz-que-lula-nao-tem-autoridade-moral-para-falar-de-patriotismo-e-soberania/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 22:07:53 +0000"
+    },
+    {
+      "id": "825be1cc4055",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: 50% desaprovam o governo Lula e 43% aprovam, aponta pesquisa",
+      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-50-desaprovam-o-governo-lula-e-43-aprovam-aponta-pesquisa/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 21:18:35 +0000"
+    },
+    {
+      "id": "916771889cd3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: Lula e Flávio empatam com 41% no segundo turno; Cury vai de 10% para 8% no primeiro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-lula-e-flavio-empatam-com-41-no-segundo-turno-cury-vai-de-10-para-8-no-primeiro-turno/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 21:06:48 +0000"
+    },
+    {
+      "id": "13fda0666eb9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta mostrar união entre Poderes no 7 de Setembro, mas diretor da PF e AGU nem se cumprimentam",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-tenta-mostrar-uniao-entre-poderes-no-7-de-setembro-mas-diretor-da-pf-e-agu-nem-se-cumprimentam/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 16:35:15 +0000"
+    },
+    {
+      "id": "4049688c91dd",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio diz que ‘quem vota em Lula, vota em Moraes’ e fala em encerrar ‘consórcio’ entre eles",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-diz-que-quem-vota-em-lula-vota-em-moraes-e-fala-encerrar-com-consorcio-entre-eles/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 20:14:25 +0000"
+    },
+    {
+      "id": "696c3eccda4a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula participa do 7 de Setembro ao lado de Alcolumbre e Fachin, em meio a crise entre Poderes",
+      "link": "https://www.estadao.com.br/politica/lula-participa-do-7-de-setembro-ao-lado-de-alcolumbre-e-fachin-em-meio-a-crise-entre-poderes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 07 Sep 2026 14:38:18 +0000"
     },
     {
       "id": "a2fb95b8c106",
@@ -498,7 +750,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo"
+        "CNN Brasil"
       ],
       "score": 77,
       "publishedRaw": "Mon, 07 Sep 2026 19:00:05 -0000"
@@ -515,155 +767,11 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Mundo"
       ],
       "score": 77,
       "publishedRaw": "Mon, 07 Sep 2026 17:14:02 GMT"
-    },
-    {
-      "id": "82f8f90a30b2",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: 50% desaprovam e 43% aprovam governo Lula",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/07/quaest-aprovacao-lula-7-setembro.ghtml",
-      "summary": "Quaest: 50% desaprovam e 43% aprovam governo Lula\nPesquisa Quaest divulgada nesta segunda-feira (7) mostra que 50% dos eleitores desaprovam o governo Lula (PT), enquanto 43% aprovam. Outros 7% não souberam ou não responderam.\nEm relação ao levantamento divulgado em 2 de setembro, a desaprovação oscilou dois pontos percentuais para cima, de 48% para 50%, e a aprovação, dois para baixo, de 45% para 43%. As duas variações ocorreram dentro da margem de erro, de dois pontos percentuais para mais ou para menos.\nA distância entre os dois índices passou de três para sete pontos. Com isso, aprovação e desaprovação deixaram de estar em situação de empate técnico.\nVeja os números:\nDesaprovam: 50% (eram 48% em 2 de setembro);\nAprovam: 43% (eram 45%);\nNão sabem/não responderam: 7% (eram 7%).\nPesquisa Quaest avalia aprovação do governo Lula\ng1\nA pesquisa Quaest foi encomendada pela Globo e pelo jornal O Globo e entrevistou 2.004 eleitores entre os dias 03 de setembro a 06 de setembro. O registro no TSE é BR-01720/2026. A margem de erro é de dois pontos e o nível de confiança, de 95%.\nAvaliação do governo Lula\nPresidente Lula durante evento no Planalto em 2026\nFoto: Ricardo Stuckert\nA Quaest também perguntou se os eleitores consideram o governo ótimo, bom, regular, ruim ou péssimo. A avaliação negativa, que reúne as respostas ruim e péssimo, passou de 37% para 38%. A positiva, soma de ótimo e bom, oscilou de 35% para 34%.\nVeja os resultados:\nNegativa: 38% (eram 37% em 2 de setembro);\nPositiva: 34% (eram 35%);\nRegular: 25% (eram 25%);\nNão sabem/não responderam: 3% (eram 3%).\nPesquisa Quaest avaliação do governo Lula\ng1\nAvaliação da economia nos últimos 12 meses\nA percepção sobre a economia permaneceu igual à registrada em 2 de setembro. Para 49% dos eleitores, a situação do país piorou nos últimos 12 meses. Outros 29% dizem que ficou do mesmo jeito, e 19%, que melhorou.\nPiorou: 49% (eram 49% em 2 de setembro);\nFicou do mesmo jeito: 29% (eram 29%);\nMelhorou: 19% (eram 19%);\nNão sabem/não responderam: 3% (eram 3%).\nRenda e custo de vida\nO levantamento mostra ainda que 54% dos eleitores dizem que a renda da família não aumentou ou cresceu menos que o custo de vida no último ano. O percentual reúne os 33% que afirmam não ter tido aumento e os 21% que relatam uma alta insuficiente para acompanhar os preços.\nOs resultados também são os mesmos da pesquisa divulgada em 2 de setembro:\nRenda aumentou tanto quanto o custo de vida: 33%;\nRenda não aumentou: 33%;\nRenda aumentou menos que o custo de vida: 21%;\nRenda aumentou mais que o custo de vida: 10%;\nNão sabem/não responderam: 3%.\nDívidas\nA parcela dos eleitores que dizem ter muitas dívidas passou de 22%, no levantamento divulgado em 5 de agosto, para 28% nesta rodada, uma variação de seis pontos percentuais.\nNo mesmo período, o percentual dos que afirmam não ter dívidas passou de 31% para 27%, e o dos que relatam poucas dívidas, de 47% para 44%.\nTêm poucas dívidas: 44% (eram 47% em 5 de agosto);\nTêm muitas dívidas: 28% (eram 22%);\nNão têm dívidas: 27% (eram 31%);\nNão sabem/não responderam: 1% (eram 0%).",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 21:02:43 -0000"
-    },
-    {
-      "id": "5d599568d900",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "No 7 de setembro, pesquisa Quaest mostra que Lula anda de marcha ré, cercado de más notícias",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/na-quaest-flavio-nao-avanca-lula-e-que-corroi-seu-favoritismo-e-anda-de-re/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 22:47:14 +0000"
-    },
-    {
-      "id": "92aff86d37f2",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado diz que Lula não tem ‘autoridade moral’ para falar de patriotismo e soberania",
-      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-diz-que-lula-nao-tem-autoridade-moral-para-falar-de-patriotismo-e-soberania/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 22:07:53 +0000"
-    },
-    {
-      "id": "825be1cc4055",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: 50% desaprovam o governo Lula e 43% aprovam, aponta pesquisa",
-      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-50-desaprovam-o-governo-lula-e-43-aprovam-aponta-pesquisa/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 21:18:35 +0000"
-    },
-    {
-      "id": "916771889cd3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Lula e Flávio empatam com 41% no segundo turno; Cury vai de 10% para 8% no primeiro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-lula-e-flavio-empatam-com-41-no-segundo-turno-cury-vai-de-10-para-8-no-primeiro-turno/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 21:06:48 +0000"
-    },
-    {
-      "id": "13fda0666eb9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tenta mostrar união entre Poderes no 7 de Setembro, mas diretor da PF e AGU nem se cumprimentam",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-tenta-mostrar-uniao-entre-poderes-no-7-de-setembro-mas-diretor-da-pf-e-agu-nem-se-cumprimentam/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 16:35:15 +0000"
-    },
-    {
-      "id": "4049688c91dd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio diz que ‘quem vota em Lula, vota em Moraes’ e fala em encerrar ‘consórcio’ entre eles",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-diz-que-quem-vota-em-lula-vota-em-moraes-e-fala-encerrar-com-consorcio-entre-eles/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 20:14:25 +0000"
-    },
-    {
-      "id": "696c3eccda4a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula participa do 7 de Setembro ao lado de Alcolumbre e Fachin, em meio a crise entre Poderes",
-      "link": "https://www.estadao.com.br/politica/lula-participa-do-7-de-setembro-ao-lado-de-alcolumbre-e-fachin-em-meio-a-crise-entre-poderes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 07 Sep 2026 14:38:18 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -677,11 +785,27 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 72,
+      "score": 76,
       "publishedRaw": "Mon, 07 Sep 2026 12:46:36 GMT"
+    },
+    {
+      "id": "c7a20eea5120",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Reforma tributária chegou ao campo, mas regulamentação preocupa",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/reforma-tributaria-chegou-ao-campo-mas-regulamentacao-preocupa.shtml",
+      "summary": "A reforma tributária já deixou de ser uma promessa distante. Com a aproximação do período de transição, empresas de todos os setores se debruçam sobre as regras que disciplinarão os novos tributos. No entanto, mesmo após a aprovação das alterações constitucionais e legais e da publicação de um extenso regulamento, o novo sistema ainda desperta mais dúvidas do que respostas.\nLeia mais (09/08/2026 - 04h00)",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "08 Sep 2026 04:00:00 -0300"
     }
   ]
 }
