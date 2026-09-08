@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:44:08.913846+00:00",
+  "generated_at": "2026-09-08T11:15:49.575413+00:00",
   "items": [
     {
       "id": "1a35963d0043",
@@ -262,26 +262,6 @@
       "publishedRaw": "08 Sep 2026 05:00:00 -0300"
     },
     {
-      "id": "662fb7c58ad1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF decide que INSS pode definir teto de juros do consignado; entenda",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/stf-decide-que-inss-pode-definir-teto-de-juros-do-consignado-entenda.shtml",
-      "summary": "O STF (Supremo Tribunal Federal) decidiu que o INSS (Instituto Nacional do Seguro Social) seguirá sendo responsável por definir o teto de juros do crédito consignado de aposentados e pensionistas da Previdência Social.\nLeia mais (09/08/2026 - 04h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "08 Sep 2026 04:00:00 -0300"
-    },
-    {
       "id": "43e1d68208f2",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -400,7 +380,7 @@
         "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 08:47:57 GMT"
+      "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
     },
     {
       "id": "6c73b0d9193b",
@@ -506,6 +486,111 @@
       "publishedRaw": "08 Sep 2026 06:00:00 -0300"
     },
     {
+      "id": "2c18cca7708f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: em Minas, Lula tem 38% no 1º turno, e Flávio, 32%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-em-minas-lula-tem-38-no-1o-turno-e-flavio-32/",
+      "summary": "Pesquisa entrevistou 2.000 pessoas, entre os dias 03 e 07 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 10:42:15 +0000"
+    },
+    {
+      "id": "46d6b68fa499",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula tem 46% no 2º turno em Minas; Flávio, 44%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-46-no-2o-turno-em-minas-flavio-44/",
+      "summary": "Pesquisa ouviu 2.000 eleitores, entre os dias 3 e 7 de setembro, em Minas Gerais; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 10:40:40 +0000"
+    },
+    {
+      "id": "0fe1258987c0",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nexus/BTG: Lula é desaprovado por 50%; aprovação é de 45%",
+      "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-lula-e-desaprovado-por-50-aprovacao-e-de-45/",
+      "summary": "Foram ouvidas 2.002 pessoas, entre os dias 04 e 07 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 10:38:26 +0000"
+    },
+    {
+      "id": "5c45349b0275",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nexus/BTG: Flávio é rejeitado por 50%; Lula, por 49%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-flavio-e-rejeitado-por-50-lula-por-49/",
+      "summary": "Foram entrevistados 2.002 eleitores, entre os dias 04 e 07 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 10:24:13 +0000"
+    },
+    {
+      "id": "2636fafb797a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nexus/BTG: Lula tem 39% no 1º turno; Flávio, tem 34%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-tem-39-no-1o-turno-flavio-tem-34/",
+      "summary": "Foram entrevistados 2.002 eleitores, entre os dias 04 e 07 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 10:17:14 +0000"
+    },
+    {
       "id": "2906753e07c5",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -567,27 +652,6 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 08 Sep 2026 10:06:08 +0000"
-    },
-    {
-      "id": "d88a67e0ab98",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nexus/BTG: Flávio e Cury ficam numericamente à frente de Lula no 2º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-tem-empate-tecnico-com-flavio-caiado-e-cury-no-2o-turno/",
-      "summary": "Instituto entrevistou 2.002 eleitores, entre os dias 04 e 07 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 08 Sep 2026 10:01:50 +0000"
     },
     {
       "id": "d404d13f5e16",
@@ -737,6 +801,48 @@
       "publishedRaw": "Mon, 07 Sep 2026 20:14:25 +0000"
     },
     {
+      "id": "4a28181e24a0",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nikolas posta foto de Lula preso nos anos 1980: “Nem precisou de IA”",
+      "link": "https://www.poder360.com.br/poder-congresso/nikolas-posta-foto-de-lula-preso-nos-anos-1980-nem-precisou-de-ia/",
+      "summary": "Deputado cita trend que permite transformar imagens atuais com IA para reproduzir roupas, cabelos e cenários da década",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 11:15:03 +0000"
+    },
+    {
+      "id": "1c0af0d7256f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 48,7% e Flávio, 42,1%, no 2º turno em MG, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-487-e-flavio-421-no-2o-turno-em-mg-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 1.804 eleitores no Estado; margem de erro é de 2 pontos percentuais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 08 Sep 2026 11:00:45 +0000"
+    },
+    {
       "id": "16801a86db22",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -777,27 +883,6 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 08 Sep 2026 10:00:46 +0000"
-    },
-    {
-      "id": "308fa1280dc3",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula é desaprovado por 50% e aprovado por 45%, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-50-e-aprovado-por-45-diz-pesquisa/",
-      "summary": "Pesquisa BTG/Nexus também mediu intenções de voto para presidente e rejeição dos candidatos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 08 Sep 2026 09:56:21 +0000"
     },
     {
       "id": "657b422bffdc",
