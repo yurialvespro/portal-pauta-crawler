@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:16:46.888816+00:00",
+  "generated_at": "2026-09-08T09:46:02.438356+00:00",
   "items": [
     {
       "id": "c13decf36e94",
@@ -616,13 +616,13 @@
       "publishedRaw": "Mon, 07 Sep 2026 14:38:18 +0000"
     },
     {
-      "id": "47b8fdb7c684",
+      "id": "b95d9e56fca7",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula fará giro por 3 Estados do Sul onde Flávio lidera pesquisas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-intensifica-campanha-no-sul-com-visita-aos-3-estados/",
-      "summary": "Presidente terá comícios no RS, PR e SC, região em que Bolsonaro venceu nos 3 Estados em 2022",
+      "title": "Flávio é rejeitado por 50% do eleitorado; Lula por 49%, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-rejeitado-por-50-do-eleitorado-lula-por-49-diz-pesquisa/",
+      "summary": "Levantamento BTG/Nexus também mediu intenções de voto para presidente e aprovação do governo petista",
       "tags": [
         "Lula"
       ],
@@ -633,7 +633,27 @@
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Tue, 08 Sep 2026 08:50:02 +0000"
+      "publishedRaw": "Tue, 08 Sep 2026 09:38:42 +0000"
+    },
+    {
+      "id": "d6d1670919e3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 46% contra 45% de Lula no 2º turno, diz BTG/Nexus",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-46-contra-45-de-lula-no-2o-turno-diz-btg-nexus/",
+      "summary": "Levantamento também mediu aprovação do governo Lula e rejeição dos principais candidatos à Presidência",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 08 Sep 2026 09:23:09 +0000"
     },
     {
       "id": "e5b540d8c4c4",
@@ -745,21 +765,6 @@
       ],
       "score": 77,
       "publishedRaw": "Mon, 07 Sep 2026 17:14:02 GMT"
-    },
-    {
-      "id": "504c1390c290",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pequeno partido de esquerda surge como potencial aliado da AfD na Alemanha",
-      "link": "https://www.cnnbrasil.com.br/internacional/pequeno-partido-de-esquerda-surge-como-potencial-aliado-da-afd-na-alemanha/",
-      "summary": "BSW, classificado como extrema-esquerda, compartilha opiniões sobre imigração em massa e afirmou estar aberto ao diálogo",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Tue, 08 Sep 2026 08:01:21 +0000"
     }
   ]
 }
