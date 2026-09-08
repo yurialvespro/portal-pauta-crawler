@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:44:49.244653+00:00",
+  "generated_at": "2026-09-08T08:17:54.148916+00:00",
   "items": [
     {
       "id": "c13decf36e94",
@@ -132,6 +132,27 @@
       "publishedRaw": "Mon, 07 Sep 2026 14:26:17 -0000"
     },
     {
+      "id": "2a1e6cc46f7d",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Podcast discute como crise no STF virou o principal tema da campanha eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-discute-como-crise-no-stf-virou-o-principal-tema-da-campanha-eleitoral.shtml",
+      "summary": "Os atos de campanha desta segunda-feira (7) confirmaram que a crise envolvendo o Supremo Tribunal Federal virou o principal tema da corrida eleitoral. Ao lado de apoiadores na avenida Paulista, em São Paulo, Flávio Bolsonaro (PL) associou o ministro Alexandre de Moraes a Lula (PT), sem citar Daniel Vorcaro ou o banco Master -caso em que o próprio senador está implicado.\nLeia mais (09/08/2026 - 05h00)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "08 Sep 2026 05:00:00 -0300"
+    },
+    {
       "id": "662fb7c58ad1",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -153,13 +174,13 @@
       "publishedRaw": "08 Sep 2026 04:00:00 -0300"
     },
     {
-      "id": "7cee5d384a1d",
+      "id": "eb3dbf7755f4",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Crise no STF: Mendonça e Moraes não dão sinal de recuo nos bastidores",
-      "link": "https://www.cnnbrasil.com.br/politica/crise-no-stf-mendonca-e-moraes-nao-dao-sinal-de-recuo-nos-bastidores/",
-      "summary": "Nos bastidores da Corte, nenhum dos dois ministros dá sinais de recuo, e tentativas de acordo não avançam; apuração é de Matheus Teixeira no CNN 360°",
+      "title": "STF vê atos do 7/9 esvaziados e ritmo mantido sobre caso Moraes",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-ve-atos-do-7-9-esvaziados-e-ritmo-mantido-sobre-caso-moraes/",
+      "summary": "Ala do tribunal reconhece pressão pública por solução para crise; outro grupo descarta impacto de apelo popular",
       "tags": [
         "STF"
       ],
@@ -171,7 +192,7 @@
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Tue, 08 Sep 2026 06:55:17 +0000"
+      "publishedRaw": "Tue, 08 Sep 2026 07:32:21 +0000"
     },
     {
       "id": "84e59cc96097",
@@ -216,6 +237,27 @@
       "publishedRaw": "Mon, 07 Sep 2026 19:36:23 +0000"
     },
     {
+      "id": "569776d956c3",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
+    },
+    {
       "id": "8e6163a0b55f",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -258,6 +300,27 @@
       "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
     },
     {
+      "id": "85c7fe109ce7",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidente da OAB Nacional pede “respostas rápidas e claras” do STF",
+      "link": "https://www.poder360.com.br/poder-justica/presidente-da-oab-nacional-pede-respostas-rapidas-e-claras-do-stf/",
+      "summary": "Beto Simonetti afirma que democracia brasileira precisa de instituições que inspirem respeito",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 08 Sep 2026 08:04:08 +0000"
+    },
+    {
       "id": "2694905dfc59",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -277,27 +340,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 06:36:01 +0000"
-    },
-    {
-      "id": "fb6d12ef3e61",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cury manda “abraço” a Mendonça e pede transparência no STF",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/cury-manda-abraco-a-mendonca-e-pede-transparencia-no-stf/",
-      "summary": "Candidato do Avante à Presidência realizou ato com 1.400 pessoas em Copacabana, no Rio; ele defendeu independência para investigar integrantes da Corte",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 07 Sep 2026 23:05:04 +0000"
     },
     {
       "id": "941c7e0115ea",
@@ -544,25 +586,6 @@
       "publishedRaw": "Tue, 08 Sep 2026 07:01:12 +0000"
     },
     {
-      "id": "866f2c4ffdc3",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O Grande Debate: Atos de 7/9 contra Moraes mudam votos para Flávio e Lula?",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-atos-de-7-9-contra-moraes-mudam-votos-para-flavio-e-lula/",
-      "summary": "Vinicius Poit e Vitor Marques debatem se manifestações no Dia da Independência influenciam a corrida eleitoral",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 08 Sep 2026 06:46:40 +0000"
-    },
-    {
       "id": "5d599568d900",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -749,6 +772,21 @@
       ],
       "score": 76,
       "publishedRaw": "Mon, 07 Sep 2026 12:46:36 GMT"
+    },
+    {
+      "id": "504c1390c290",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pequeno partido de esquerda surge como potencial aliado da AfD na Alemanha",
+      "link": "https://www.cnnbrasil.com.br/internacional/pequeno-partido-de-esquerda-surge-como-potencial-aliado-da-afd-na-alemanha/",
+      "summary": "BSW, classificado como extrema-esquerda, compartilha opiniões sobre imigração em massa e afirmou estar aberto ao diálogo",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Tue, 08 Sep 2026 08:01:21 +0000"
     },
     {
       "id": "c7a20eea5120",
