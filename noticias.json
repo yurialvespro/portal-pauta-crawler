@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:45:44.949991+00:00",
+  "generated_at": "2026-09-09T15:16:19.582732+00:00",
   "items": [
     {
       "id": "326ac47e1725",
@@ -41,9 +41,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 09 Sep 2026 07:00:00 -0000"
     },
     {
@@ -62,10 +64,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
     },
     {
@@ -84,11 +88,34 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
+    },
+    {
+      "id": "49998eba98c7",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Guerra de liminares eleva pressão sobre Fachin por anúncio de medida concreta para conter crise Master no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/guerra-de-liminares-eleva-pressao-sobre-fachin-por-anuncio-de-medida-concreta-para-conter-crise-master-no-stf.ghtml",
+      "summary": "Após decisão de Dino, Fachin cancela sessão do STF\nA guerra de liminares no Supremo Tribunal Federal (STF) ampliou a pressão para que o presidente da Corte, Luiz Edson Fachin, anuncie alguma medida concreta para tentar conter a crise. \nMinistros procuraram Fachin, por telefone, logo após a decisão de Flávio Dino que desfez o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de inteligência, Leandro Almada, que havia sido determinado pelo colega André Mendonça. \nUm desses contatos, conforme apurou a TV Globo, foi feito pelo próprio ministro André Mendonça, que, na ligação, chamou a decisão de Dino de \"ilegal\" e cobrou providências. \nHá também previsão de que o presidente do STF receba ainda nesta quarta o ministro Alexandre de Moraes, que é vice-presidente da Corte e um dos protagonistas da crise Master no Supremo. \nNa avaliação de magistrados ouvidos de forma reservada, Fachin precisa assumir o controle da crise e adotar uma providência para frear ações das alas de Moraes e Mendonça. \nNos bastidores, há o entendimento de que os dois grupos atropelaram e tentaram esvaziar as prerrogativas de Fachin. \nNa decisão que colocou Andrei de volta no cargo, Dino afirmou que Mendonça não aguardou decisão de Fachin ou do plenário sobre os relatórios da PF: \num que apontou suposta relação de Moraes e o ex-banqueiro Daniel Vorcaro; e \no outro, de inteligência e sem valor probatório, que questionou a condução de inquéritos do INSS e Master por Mendonça.\nPressionado e em meio a uma crise sem precedentes no STF, Fachin cancelou a sessão plenária da Corte, que estava agendada para esta quarta-feira (9).\nFachin durante sessão do Supremo Tribunal Federal (STF) em 3 de setembro de 2026\nAlejandro Zambrana/STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 15:09:30 -0000"
     },
     {
       "id": "6136f359f819",
@@ -282,6 +309,27 @@
       "publishedRaw": "09 Sep 2026 11:09:00 -0300"
     },
     {
+      "id": "9f7b271998b1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF precisa de credibilidade para decisões serem efetivas, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-precisa-de-credibilidade-para-decisoes-serem-efetivas-diz-especialista/",
+      "summary": "Fernando Capano afirma em entrevista ao CNN Novo Dia que STF precisa de \"capital reputacional\" para que suas decisões tenham eficácia efetiva diante da crise institucional",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 14:39:05 +0000"
+    },
+    {
       "id": "5af2e382b929",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -326,25 +374,27 @@
       "publishedRaw": "Wed, 09 Sep 2026 14:07:26 +0000"
     },
     {
-      "id": "37d57b489746",
-      "source": "CNN Brasil",
+      "id": "47fd19702a11",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Andrei de volta à PF: veja os próximos passos em meio à crise no STF",
-      "link": "https://www.cnnbrasil.com.br/politica/andrei-de-volta-a-pf-veja-os-proximos-passos-em-meio-a-crise-do-stf/",
-      "summary": "Flávio Dino determinou reintegração de diretor-geral da PF mesmo com prazos em curso para que Fachin avalie a situação",
+      "title": "Lula defende quebra de sigilo das investigações do Master após crise no STF: ‘Doa a quem doer’",
+      "link": "https://www.estadao.com.br/politica/lula-defende-quebra-de-sigilo-das-investigacoes-do-master-apos-crise-no-stf-doa-a-quem-doer-npr/",
+      "summary": "",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 13:45:28 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 14:43:41 +0000"
     },
     {
       "id": "f66c329034ae",
@@ -368,6 +418,27 @@
       "publishedRaw": "Wed, 09 Sep 2026 13:59:07 +0000"
     },
     {
+      "id": "f4e2f84525b9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tensão no STF: Mendonça recorre a Fachin e classifica como ilegal decisão de Dino sobre chefia da PF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tensao-no-stf-mendonca-recorre-a-fachin-e-classifica-como-ilegal-decisao-de-dino-sobre-chefia-da-pf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 14:20:17 +0000"
+    },
+    {
       "id": "3aa40f4df324",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -389,50 +460,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 23:05:49 +0000"
-    },
-    {
-      "id": "6fe3a737bbca",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF tira condições de Lula indicar ministro e traz riscos à política e à economia",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-no-stf-tira-condicoes-de-lula-indicar-ministro-e-traz-riscos-a-politica-e-a-economia/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "c9f5858dd80e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Maioria dos brasileiros avalia que ministros do STF decidem por interesse próprio, aponta Meio/Ideia",
-      "link": "https://www.estadao.com.br/politica/eleicoes/maioria-dos-brasileiros-avalia-que-ministros-do-stf-decidem-por-interesse-proprio-aponta-meioideia/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "5cfccb46eea7",
@@ -582,13 +609,33 @@
       "publishedRaw": "Wed, 09 Sep 2026 14:08:11 +0000"
     },
     {
+      "id": "8347ee447b80",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro lidera doações eleitorais com R$ 44 mi; Cury recebe menos entre melhores colocados",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-lidera-doacoes-eleitorais-com-r-44-mi-cury-recebe-menos-entre-melhores-colocados.shtml",
+      "summary": "O senador Flávio Bolsonaro (PL-RJ) lidera até o momento a arrecadação de doações eleitorais na disputa pela Presidência da República, com R$ 44,3 milhões em recursos captados. O escritor Augusto Cury (Avante) é quem menos arrecadou do grupo dos seis principais presidenciáveis, com R$ 317 mil ?deste montante, R$ 250 mil, ou 78%, vieram dele próprio.\nLeia mais (09/09/2026 - 12h04)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "09 Sep 2026 12:04:00 -0300"
+    },
+    {
       "id": "00f9b4a686f6",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência",
+      "title": "Lula pede quebra total de sigilo em investigações do caso Master e diz que 'vazamentos seletivos' afetam eleição",
       "link": "https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quarta-feira (9) a quebra completa do sigilo das investigações relacionadas ao chamado \"caso Master\" e cobrou mais transparência sobre as apurações. \nEm mensagem publicada na rede social X, o presidente afirmou que o Brasil precisa de explicações diante do que classificou como \"o maior crime financeiro da história do Brasil\".\nNa publicação, Lula também disse haver uma \"crise institucional\" que atingiu o Poder Judiciário e criticou o que chamou de \"vazamentos seletivos\" de informações. Segundo ele, esses vazamentos têm impacto sobre a disputa eleitoral.\n\"O povo brasileiro precisa de explicações e medidas imediatas para enfrentar a crise institucional que tomou conta do Poder Judiciário\", escreveu o presidente.\nLula afirmou ainda que é necessária \"mais transparência e não vazamentos seletivos\" e citou a divulgação de informações da Operação Spoofing, conduzida pelo então ministro Ricardo Lewandowski, como exemplo a ser seguido.\nAo final da mensagem, o presidente defendeu a abertura total das informações das investigações. \"É urgente a quebra completa do sigilo das investigações de todos os envolvidos no caso Master, seja quem for, doa a quem doer. O Brasil precisa saber a verdade\", afirmou.\n- Esta reportagem está em atualização",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quarta-feira (9) a quebra completa do sigilo das investigações relacionadas ao chamado \"caso Master\" e cobrou mais transparência sobre as apurações. \nEm mensagem publicada na rede social X, o presidente afirmou que o Brasil precisa de explicações diante do que classificou como \"o maior crime financeiro da história do Brasil\" (leia mais abaixo).\n🔎O caso Master apura um suposto esquema que teria inflado artificialmente o valor do extinto Banco Master por meio de ativos e carteiras de crédito sem lastro real. Segundo a Polícia Federal, a estrutura permitia ao banco aparentar solidez financeira, captar bilhões de reais de investidores e realizar operações sem garantias compatíveis.\nNa publicação, Lula também disse haver uma \"crise institucional\" que atingiu o Poder Judiciário e criticou o que chamou de \"vazamentos seletivos\" de informações. \nSegundo ele, esses vazamentos têm impacto sobre a disputa eleitoral. O petista concorre ao quarto mandato.\n\"O povo brasileiro precisa de explicações e medidas imediatas para enfrentar a crise institucional que tomou conta do Poder Judiciário\", escreveu o presidente.\nApós decisão de Dino, Fachin cancela sessão do STF\nLula afirmou ainda que é necessária \"mais transparência e não vazamentos seletivos\" e citou a divulgação de informações da Operação Spoofing, conduzida pelo então ministro Ricardo Lewandowski, como exemplo a ser seguido.\n🔎A Operação Spoofing foi uma investigação da Polícia Federal sobre a invasão de celulares de autoridades públicas. O caso ganhou relevância política porque mensagens obtidas pelos invasores vieram a público e alimentaram questionamentos sobre a condução da Operação Lava Jato. \nAo final da mensagem, o presidente defendeu a abertura total das informações das investigações. \"É urgente a quebra completa do sigilo das investigações de todos os envolvidos no caso Master, seja quem for, doa a quem doer. O Brasil precisa saber a verdade\", afirmou.\nA manifestação de Lula ocorre em meio à maior crise interna do STF dos últimos anos, desencadeada por disputas em torno do caso Master e da atuação da Polícia Federal. \nLula durante entrevista.\nFoto: Ricardo Stuckert\nCronologia\nO embate ganhou força após o ministro do Supremo Tribunal Federal (STF) André Mendonça levantar questionamentos sobre a relação entre o ministro Alexandre de Moraes e o ex-banqueiro Daniel Vorcaro, ex-controlador do Banco Master, alvo das investigações. \nEm resposta, Moraes determinou a abertura de apurações para investigar a atuação de Mendonça no caso. \nA disputa escalou com a divulgação de relatórios da Polícia Federal que expuseram o conflito entre os dois ministros.\nA crise atingiu diretamente a cúpula da Polícia Federal quando Mendonça determinou o afastamento do diretor-geral da corporação, Andrei Rodrigues, e do diretor de Inteligência, Leandro Almada, além de suspender relatórios de inteligência produzidos pela PF. \nA medida foi contestada pela Advocacia-Geral da União (AGU), que recorreu ao Supremo alegando que a decisão de Mendonça invadia prerrogativas do presidente. \nNa manhã desta quarta, o ministro Flávio Dino derrubou a decisão de Mendonça e determinou a recondução dos dois delegados aos cargos. \nPara Dino, o afastamento comprometia investigações em andamento e não poderia ter sido determinado da forma como ocorreu.",
       "tags": [
         "Lula"
       ],
@@ -596,9 +643,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 14:42:17 -0000"
     },
     {
@@ -616,10 +665,56 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 03:00:56 -0000"
+    },
+    {
+      "id": "00c022ae6da5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula defende quebra completa de sigilo do caso Master como resposta à crise no Judiciário",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-quebra-completa-de-sigilo-do-caso-master-como-resposta-a-crise-no-judiciario.shtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva defendeu nesta quarta-feira (9) a quebra completa dos sigilos envolvidos nas investigações do caso Master como uma resposta à crise sem precedentes instalada na cúpula do Judiciário.\nLeia mais (09/09/2026 - 11h45)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "09 Sep 2026 11:45:00 -0300"
+    },
+    {
+      "id": "2a9444d4db26",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula pede quebra “completa” do sigilo das investigações do caso Master",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-pede-quebra-completa-do-sigilo-das-investigacoes-do-caso-master/",
+      "summary": "Mandatário voltou a pedir apuração \"doa a quem doer\" em publicação nas redes sociais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 14:51:44 +0000"
     },
     {
       "id": "9bc36ef9900f",
@@ -635,10 +730,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 14:09:25 +0000"
     },
     {
@@ -655,11 +752,35 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 13:31:13 +0000"
+    },
+    {
+      "id": "df1b8e506856",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula quebra silêncio sobre Master e pede abertura de todos os sigilos",
+      "link": "https://www.poder360.com.br/poder-governo/lula-quebra-silencio-sobre-master-e-pede-abertura-de-todos-os-sigilos/",
+      "summary": "Presidente diz que é urgente divulgar informações das investigações sobre o banco e afirma que o Brasil precisa conhecer “a verdade”",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 09 Sep 2026 13:31:13 +0000"
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 14:54:53 +0000"
     },
     {
       "id": "d0f5f02111ad",
@@ -676,27 +797,34 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 08 Sep 2026 23:33:39 -0000"
     },
     {
-      "id": "555fb280d50f",
-      "source": "CNN Brasil",
+      "id": "971456e5557b",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidente da Sérvia dissolve parlamento antes de eleições antecipadas",
-      "link": "https://www.cnnbrasil.com.br/internacional/presidente-da-servia-dissolve-parlamento-antes-de-eleicoes-antecipadas/",
-      "summary": "Aleksandar Vucic busca se manter no poder concorrendo a primeiro-ministro em votação marcada para 25 de outubro",
+      "category": "Internacional",
+      "title": "Lula defende 'quebra completa' de sigilo do caso Master e Dino determina a volta de Andrei Rodrigues à direção da PF; acompanhe",
+      "link": "https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro reintegra diretor e Leandro Almada à PF após decisão de André Mendonça pelo afastamento. Dino pede que tema seja votado no plenário do Supremo Tribunal Federal e não na Segunda Turma, como ocorreu ontem. Edson Fachin cancela sessão de hoje do Supremo.",
       "tags": [
-        "eleições"
+        "Lula"
       ],
       "crossOutlets": [
-        "G1 - Mundo"
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 74,
-      "publishedRaw": "Wed, 09 Sep 2026 13:41:30 +0000"
+      "score": 82,
+      "publishedRaw": ""
     },
     {
       "id": "d3468cc25d1c",
@@ -709,10 +837,8 @@
       "tags": [
         "eleições"
       ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 72,
+      "crossOutlets": [],
+      "score": 68,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
     }
   ]
