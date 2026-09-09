@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-09-09T13:45:37.580964+00:00",
+  "generated_at": "2026-09-09T14:16:11.723157+00:00",
   "items": [
+    {
+      "id": "326ac47e1725",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro administra ganho político de crise no STF com agenda fechada e live com Nikolas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-administra-ganho-politico-de-crise-no-stf-com-agenda-fechada-e-live-com-nikolas/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 95,
+      "publishedRaw": "Tue, 08 Sep 2026 21:48:57 +0000"
+    },
     {
       "id": "1d58ac45f138",
       "source": "G1 - Política",
@@ -98,25 +121,67 @@
       "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
     },
     {
-      "id": "160e63b02b32",
-      "source": "Estadão",
+      "id": "6136f359f819",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Haddad: Impeachment no STF é medida extrema, depende de amparo nos fatos e não paixão política",
-      "link": "https://www.estadao.com.br/politica/eleicoes/haddad-impeachment-no-stf-e-medida-extrema-depende-de-amparo-nos-fatos-e-nao-paixao-politica/",
-      "summary": "",
+      "title": "STF cancela sessão do plenário em meio a crise entre Dino, Moraes e Mendonça",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, cancelou a sessão plenária que estava prevista para as 14h desta quarta-feira (9). O motivo do cancelamento não foi detalhado.\nO cancelamento dos trabalhos ocorre em um momento de crise institucional na Corte, envolvendo diretamente os ministros Flávio Dino, Alexandre de Moraes e André Mendonça.\nHavia forte expectativa de que a reunião do plenário servisse de palco para eventuais manifestações de ministros sobre o impasse jurisdicional no tribunal e sobre a disputa em torno do comando da Polícia Federal.\nDino determina reintegração de diretor-geral da PF, Andrei Rodrigues\nApós a retirada do sigilo de relatórios da PF na semana passada, que mostraram um embate entre os ministros Alexandre de Moraes e André Mendonça, o diretor-geral da Polícia Geral da Federal, Andrei Rodrigues, e o diretor de Inteligência da corporação Leandro Almada, foram afastados. \nA decisão foi do ministro André Mendonça. A Advocacia Geral da União (AGU) contestou e pediu que o Fachin revertesse o afastamento.\nNa manhã desta quarta, o ministro Dino, se aproveitando de outro processo que tramita na Corte, suspendeu o afastamento dos diretores (entenda mais abaixo).\nO que estava na pauta de julgamentos\nA pauta do Plenário previa a retomada de julgamentos de grande impacto jurídico e regulatório:\nMarco Civil da Internet: a Corte retomaria a análise da ação que discute a exigência de decisão judicial para o fornecimento de dados de registro de conexão, como o endereço de IP (informação utilizada para identificar usuários na rede).\nPoderes investigativos da Polícia Federal: o processo sobre o Marco Civil seria julgado em conjunto com outras duas ações que tratam da condução de investigações criminais por delegados de polícia, incluindo a possibilidade de requisição direta de perícias, informações, documentos e dados necessários para a instrução de inquéritos.\nDino, Mendonça, Moraes e Toffoli durante sessão no STF.\nLuiz Silveira/STF\nO contexto da crise institucional\nA suspensão da sessão plenária ocorre poucas horas após o ministro Flávio Dino conceder medida liminar para determinar a imediata recondução de Andrei Rodrigues à Direção-Geral da Polícia Federal e de Leandro Almada da Costa à chefia da Diretoria de Inteligência Policial da corporação.\nCom a decisão, Dino suspendeu os efeitos da ordem proferida no dia anterior pelo ministro André Mendonça, que havia decretado o afastamento preventivo dos delegados e a paralisação dos relatórios de inteligência a pedido do Partido Novo.\nPara fundamentar a reintegração, Flávio Dino apontou a ilegitimidade de partidos políticos para solicitarem medidas cautelares no processo penal e destacou que o afastamento prejudicava diligências urgentes sob sua relatoria — como a apuração sobre emendas parlamentares ligadas ao filme Dark Horse. \nDino também enfatizou que decisões dessa envergadura cabem exclusivamente ao plenário do STF, criticando a paralisação de investigações por ordens monocráticas isoladas.\nAntes da decisão de Dino, o presidente do STF, ministro Edson Fachin, já havia aberto prazo de 72 horas para que André Mendonça se manifestasse sobre o recurso da Advocacia-Geral da União (AGU), que contestou o afastamento apontando violação à prerrogativa constitucional do Poder Executivo.\n- Esta reportagem está em atualização",
       "tags": [
-        "STF",
-        "impeachment"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
+        "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Wed, 09 Sep 2026 00:38:58 +0000"
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 13:46:46 -0000"
+    },
+    {
+      "id": "8af09fec387a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Jurisprudência tem que ter compromisso com o acerto', diz jurista sobre decisões do STF que afetaram cúpula da PF",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/noticia/2026/09/09/jurisprudencia-tem-que-ter-compromisso-com-o-acerto-diz-jurista-sobre-decisoes-do-stf-que-afetaram-cupula-da-pf.ghtml",
+      "summary": "O jurista Gustavo Sampaio afirmou, em entrevista ao programa GloboNews Radar, que o Supremo Tribunal Federal (STF) se equivocou ao acolher pedidos formulados por partidos políticos para intervir no comando da Polícia Federal. \nA análise ocorre no momento em que o ministro Flávio Dino reverteu a decisão que havia afastado o diretor-geral da corporação, Andrei Rodrigues, justamente apontando a ilegitimidade de partidos para pedir medidas cautelares no processo penal.\nDurante a entrevista, o especialista sustentou que a Corte não pode consolidar entendimentos equivocados com base em precedentes anteriores:\n\"A jurisprudência tem que ter compromisso com o acerto, jamais com o erro. As decisões do STF foram equivocadas. Teve erro lá [ decisão de Moraes], teve erro aqui [decisão de Mendonça]\", declarou o jurista.\nDino determina reintegração de diretor-geral da PF, Andrei Rodrigues\nComparação entre os casos de 2020 e 2026\nAo analisar o cenário, Gustavo Sampaio comparou duas decisões monocráticas de ministros do STF envolvendo o comando da Polícia Federal:\na decisão de André Mendonça (2026): atendeu a um requerimento do Partido Novo para determinar o afastamento de Andrei Rodrigues da Direção-Geral e de Leandro Almada da Diretoria de Inteligência Policial da PF.\na decisão de Alexandre Moraes (2020): acolheu uma ação do PDT para suspender a nomeação de Alexandre Ramagem para a direção-geral da Polícia Federal durante a gestão do ex-presidente Jair Bolsonaro.\nPara Sampaio, em ambos os episódios houve desvio na aplicação das regras processuais, uma vez que legendas partidárias não possuem prerrogativa para provocações dessa natureza no âmbito penal ou de gestão administrativa de órgãos policiais.\n\"A participação de partido político é dada em ações que discutem se uma lei está ou não de acordo com a Constituição, mas não para se dirigir ao STF em qualquer hipótese\", explicou o jurista no ar.\nAndré Mendonça, STF, Andrei Passos, PF e Flávio Dino, STF\nAndressa Anholete/Agência Senado, Luiz Silveira e Gustavo Moreno/STF\nSintonia com a decisão de Flávio Dino\nA avaliação do jurista reforça o pilar central da decisão proferida pelo ministro Flávio Dino nesta quarta.\nAo anular o afastamento determinado por Mendonça, Dino registrou de forma categórica que o Código de Processo Penal não inclui partidos políticos no rol de legitimados para requerer medidas cautelares pessoais, reserva que cabe privativamente ao Ministério Público e à autoridade policial.\nNa decisão, Dino enfatizou que partidos são \"instrumentos de luta pelo poder político\" e não podem atuar como partes ou substitutos processuais no processo penal. \nO relator assinalou ainda que a ingerência de uma agremiação partidária — especialmente durante o período eleitoral — viola as regras de neutralidade e o sistema acusatório.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 13:10:17 -0000"
+    },
+    {
+      "id": "2b0c09cac4ac",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin tem de acabar com guerra de liminares no STF que atropelam sua autoridade, dizem colegas",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/09/fachin-tem-de-acabar-com-guerra-de-liminares-no-stf-que-atropelam-sua-autoridade-dizem-colegas.ghtml",
+      "summary": "Depois da decisão do ministro do Supremo Tribunal Federal (STF) Flávio Dino que reintegrou Andrei Passos Rodrigues ao comando da Polícia Federal (PF), ministros da Corte avaliam reservadamente que o presidente do tribunal, Edson Fachin, precisará assumir o controle da crise para evitar novas decisões conflitantes dentro do Supremo.\nNa avaliação desses magistrados, a sequência de liminares envolvendo o afastamento e a recondução do diretor-geral da PF tem transmitido à sociedade a imagem de falta de coordenação entre os integrantes da Corte. \nAssessores de Fachin afirmam que ele pretende colocar ordem na situação, mas no momento em que considerar adequado.\nSegundo colegas do presidente do STF, Fachin já havia decidido centralizar a análise da disputa antes mesmo da liminar concedida por André Mendonça, na terça-feira (8), determinando o afastamento de Andrei Passos Rodrigues do comando da Polícia Federal. \nIsso ocorreu também antes da decisão de Flávio Dino, nesta quarta (9), que devolveu o cargo ao delegado.\nDino determina reintegração de diretor-geral da PF, Andrei Rodrigues\nReservadamente, integrantes do tribunal avaliam que tanto André Mendonça quanto Flávio Dino deveriam ter aguardado uma manifestação do presidente do STF antes de adotar novas medidas sobre o tema.\n\"O sensato seria que tanto André Mendonça quanto Flávio Dino aguardassem as decisões de Edson Fachin. Mas Dino decidiu reverter a liminar de Mendonça por entender que ela era ilegal e colocava em risco investigações\", afirmou ao blog um magistrado.\nSegundo esse interlocutor, o Supremo corre o risco de transmitir à população a imagem de que cada ministro atua por conta própria e em defesa de grupos internos, ampliando a percepção de divisão na Corte.\nAntes da decisão de André Mendonça, Fachin já havia determinado prazo de cinco dias úteis para que o relator do caso envolvendo o Banco Master e o ministro Alexandre de Moraes apresentassem explicações sobre petições protocoladas um contra o outro no âmbito da disputa. \nCom isso, o presidente do STF já havia sinalizado a intenção de assumir a condução do conflito e evitar novas decisões paralelas.\nAliados de Fachin afirmam que André Mendonça não deveria ter concedido liminar na ação apresentada pelo Partido Novo que levou ao afastamento de Andrei Rodrigues. \nNa avaliação desse grupo, seria mais prudente aguardar uma definição institucional do presidente da Corte.\nEsses mesmos interlocutores consideram que Flávio Dino também poderia ter esperado a manifestação de Fachin. \nO presidente do STF já analisava um pedido da Advocacia-Geral da União (AGU) para suspender a decisão de André Mendonça.\nNa terça, Fachin havia concedido prazo de 72 horas para que o relator do inquérito relacionado ao Banco Master apresentasse esclarecimentos sobre os fundamentos de sua decisão. \nEdson Fachin na abertura dos trabalhos do segundo semestre no STF\nGustavo Moreno/STF\nGoverno Lula\nIntegrantes do governo Luiz Inácio Lula da Silva (PT) acreditavam que, ao final desse processo, o presidente do Supremo acabaria derrubando a liminar que retirou Andrei Rodrigues do cargo.\nAntes que isso ocorresse, porém, Flávio Dino decidiu atender ao pedido apresentado pela defesa do diretor-geral da Polícia Federal e restabeleceu sua permanência no cargo. \nAo tomar a decisão, Dino também fez críticas à liminar anteriormente concedida por André Mendonça.\nCom a nova intervenção, a disputa ganhou mais um capítulo dentro do STF e aumentou a pressão para que Edson Fachin dê uma palavra final sobre o conflito, encerrando a sucessão de decisões divergentes que vem expondo tensões internas na Corte.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 12:57:02 -0000"
     },
     {
       "id": "4b9687ec5dc2",
@@ -142,6 +207,134 @@
       "publishedRaw": "Wed, 09 Sep 2026 11:44:32 -0000"
     },
     {
+      "id": "d6997ff9a473",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "CNI, Fiesp e outras entidades empresariais cobram em manifesto sessão pública e resposta urgente do STF à crise",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/entidades-empresariais-manifesto-stf.ghtml",
+      "summary": "Manifesto cobra respostas sobre crise no STF\nEntidades empresariais divulgaram nesta quarta-feira (9) um manifesto em que cobram que o Supremo Tribunal Federal (STF) examine, em sessão pública e com urgência, os fatos relacionados à crise na Corte.\nEntre as signatárias estão a Confederação Nacional da Indústria (CNI), a Federação das Indústrias do Estado de São Paulo (Fiesp) e a Confederação Nacional do Comércio (CNC).\nNo documento, intitulado “Manifesto à Nação Brasileira”, as entidades afirmam que o país atravessa uma “crise institucional de extrema gravidade” e apontam o Supremo como o epicentro dessa situação.\n“A Sociedade Brasileira exige que o Plenário do Supremo examine em sessão pública os fatos, decida com absoluta urgência, sem subterfúgios e sem corporativismo. A resposta que a Nação aguarda não admite prazo!”, diz o manifesto.\nO texto não cita nomes de ministros nem detalha episódios específicos. As entidades defendem que a Corte preste contas à sociedade e afirmam que a perda de legitimidade de um tribunal compromete a segurança jurídica, a confiança nas instituições e a paz social.\n“O Supremo Tribunal Federal é o guardião da Constituição, mas guardião algum está dispensado de prestar contas”, afirmam.\nSegundo o manifesto, a autoridade de um tribunal depende de imparcialidade, transparência e exemplo na atuação de seus integrantes.\n“A Constituição que a Corte protege é a mesma que lhe impõe julgamentos transparentes, justos e decisões fundamentadas”, diz o documento.\nAs sete entidades destacadas no manifesto são:\nConfederação das Associações Comerciais e Empresariais do Brasil (CACB);\nConfederação Nacional do Comércio (CNC);\nConfederação Nacional da Indústria (CNI);\nFederação das Indústrias do Estado de São Paulo (Fiesp);\nFederação das Associações Comerciais do Estado de São Paulo (Facesp);\nFederação da Agricultura do Estado de São Paulo (Faesp);\nFederação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP).\nA página do manifesto também reúne adesões de associações, federações e sindicatos de diferentes setores e regiões do país. Ao todo, são 2.764 registros.\nO documento termina com uma convocação para que a sociedade se manifeste e a afirmação de que \"ninguém está acima da lei\".\nO manifesto foi publicado em uma página na internet e em jornais impressos desta quarta-feira.\nCNI alerta para risco às instituições\nEm um posicionamento separado, o presidente da CNI, Ricardo Alban, afirma que as sucessivas crises em Brasília colocam as instituições em risco e exigem uma reação “vigorosa”, justa e responsável.\nO texto, intitulado “Não vamos desistir do Brasil”, pede bom senso às autoridades e afirma que a confiança da população nos Poderes públicos é um dos alicerces da democracia.\n“A República enfrenta um teste de integridade inédito. As sucessivas crises que ocorrem em Brasília colocam as instituições em risco”, afirma Alban.\nO presidente da CNI defende que as discussões sejam livres, públicas e transparentes, com oportunidade para esclarecimentos. Também pede que as decisões considerem os efeitos sobre a competitividade, a produtividade e a geração de empregos.\n“Não podemos deixar que questões políticas, eleitorais ou crises institucionais travem o desenvolvimento. Não podemos, mais uma vez, perder as oportunidades de crescimento no cenário internacional”, escreve.\nAlban convoca os poderes públicos, empresários e trabalhadores a buscar consenso em torno de temas como metas fiscais e políticas econômicas capazes de garantir investimentos e crescimento.\nO dirigente também defende amplo direito de defesa e que esse processo ocorra sem influência político-partidária.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 10:36:25 -0000"
+    },
+    {
+      "id": "bf8bcfd6bc9b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidente do PT defende apuração de denúncias no STF e afirma que país vive crise institucional",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/presidente-do-pt-defende-apuracao-de-denuncias-no-stf-e-afirma-que-pais-vive-crise-institucional.ghtml",
+      "summary": "Edinho Silva, presidente do PT, discursa em evento do partido\nAnderson Barbosa/PT\nO presidente nacional do Partido dos Trabalhadores (PT), Edinho Silva, afirmou nesta terça-feira (8) que o Brasil atravessa uma crise institucional em meio aos conflitos internos que envolvem o Supremo Tribunal Federal (STF). \nEm vídeo divulgado pelo partido, ele defendeu a apuração de todas as denúncias relacionadas ao tema e disse confiar na atuação do presidente da Corte, ministro Luiz Edson Fachin, para garantir o funcionamento da instituição e a condução dos processos com transparência.\nSegundo Edinho, a população tem o direito de conhecer os fatos e acompanhar investigações conduzidas de forma célere e imparcial. O dirigente também afirmou que a crise no Judiciário tem sido utilizada por adversários políticos para disseminar desinformação e criticou setores que, segundo ele, não têm compromisso com a democracia.\n\"Acreditamos na autoridade do presidente do STF, ministro Fachin. Queremos as apurações de todas as denúncias. Queremos que essas apurações sejam aceleradas e conduzidas com muita lisura. O povo brasileiro quer saber a verdade. O Brasil precisa que tudo isso seja passado a limpo, mas também é bom saber que não haverá democracia com o Judiciário desmoralizado\", diz Edinho Silva, em vídeo divulgado pelo PT. \nAgora no g1\nDurante a manifestação, o presidente do PT voltou a defender reformas no sistema político e no Judiciário e associou essas mudanças ao projeto político defendido pelo presidente Luiz Inácio Lula da Silva. Ele citou medidas voltadas à ampliação da renda, geração de empregos e fortalecimento de políticas sociais.\nEdinho também direcionou críticas ao senador Flávio Bolsonaro (PL-RJ) e à família Bolsonaro, apontando contradições entre os discursos de seus adversários e episódios políticos recentes. Segundo ele, grupos que apoiaram ações contra a democracia não têm legitimidade para se apresentar como defensores das instituições.\nAo final da mensagem, o dirigente conclamou militantes do PT, partidos aliados e apoiadores da democracia a participarem do debate público nas redes sociais e nas ruas durante o período eleitoral. Ele afirmou que o resultado das eleições dependerá da mobilização da sociedade e do combate à desinformação.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 10:23:34 -0000"
+    },
+    {
+      "id": "65adeaca1262",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O afastamento de Andrei Rodrigues da PF e a guerra deflagrada no STF - O Assunto #1800",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/09/o-afastamento-de-andrei-rodrigues-da-pf-e-a-guerra-deflagrada-no-stf-o-assunto-1800.ghtml",
+      "summary": "Nesta terça-feira (8), o ministro André Mendonça, do Supremo Tribunal Federal, afastou dos cargos Andrei Rodrigues, então diretor-geral da Polícia Federal, e o delegado Leandro Almada, que era diretor de Inteligência Policial da instituição – a medida foi anunciada na manhã seguinte às manifestações convocadas pelos candidatos de oposição durante o feriado do Dia da Independência. Mendonça levou a decisão para a Segunda Turma do Supremo, onde se formou maioria para referendar o afastamento temporário de Andrei e Almada: os ministros Luiz Fux e Nunes Marques acompanharam o relator, Gilmar Mendes pediu vista e Dias Toffoli não se pronunciou. Ainda na terça-feira, 11 diretores da PF colocaram seus cargos à disposição, em apoio a Andrei Rodrigues, e a Advocacia-Geral da União (AGU) pediu ao presidente do Supremo, Edson Fachin, que conteste a decisão monocrática de Mendonça e suspenda os afastamentos. \nNeste episódio, Natuza Nery tem dois convidados. Primeiro, ela entrevista o jornalista Reynaldo Turollo Jr, que detalha a nova decisão de Mendonça e explica o acirramento das tensões entre STF, PF e governo. Depois, a conversa é com o jurista Rubens Glezer: ele analisa juridicamente a sequência de ações tomadas por Mendonça e por Alexandre de Moraes e avalia as repercussões institucionais da crise que assola a Suprema Corte. \nConvidados: Reynaldo Turollo Jr, repórter de política do g1 em Brasília, e Rubens Glezer, professor de Direito Constitucional da FGV-SP, e autor do artigo \"A Supremocracia Desafiada\" e do livro \"Catimba Constitucional\".\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nMendonça não prova autoria de Andrei Rodrigues em relatórios\nO que você precisa saber: \nMendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues;\n'Justiça brasileira não faltará à legalidade constitucional', diz Fachin;\nVALDO CRUZ: aliados de Lula defendem cumprir decisão de Mendonça e não repetir discurso de bolsonaristas contra o STF;\nANDRÉIA SADI: AGU prepara reação e aponta invasão de competência da Presidência em decisão de Mendonça;\nAutoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF;\nGilmar Mendes defende análise pelo plenário do afastamento de Andrei e cita risco de 'desequilíbrio da disputa político-eleitoral';\nAla no STF defende análise de informações sobre crise entre Moraes e Mendonça somente após as eleições;\nVeja o que os candidatos à Presidência disseram sobre a decisão de Mendonça de afastar cúpula da PF.\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nAndré Mendonça e Andrei Rodrigues\nGustavo Moreno/STF e Andressa Anholete/Agência Senado",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 03:30:00 -0000"
+    },
+    {
+      "id": "fe99be11fab1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin cancela sessão do STF de forma inédita em meio a crise",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/fachin-cancela-sessao-do-stf-em-meio-a-crise.shtml",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, cancelou a sessão desta quarta (9) em meio à profunda crise que atinge a Corte.\nLeia mais (09/09/2026 - 11h09)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "09 Sep 2026 11:09:00 -0300"
+    },
+    {
+      "id": "37d57b489746",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Andrei de volta à PF: veja os próximos passos em meio à crise no STF",
+      "link": "https://www.cnnbrasil.com.br/politica/andrei-de-volta-a-pf-veja-os-proximos-passos-em-meio-a-crise-do-stf/",
+      "summary": "Flávio Dino determinou reintegração de diretor-geral da PF mesmo com prazos em curso para que Fachin avalie a situação",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 13:45:28 +0000"
+    },
+    {
+      "id": "3aa40f4df324",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF acende sinal vermelho na campanha de Lula e Planalto pede rápida intervenção de Fachin",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/crise-no-stf-acende-sinal-vermelho-na-campanha-de-lula-e-planalto-pede-rapida-intervencao-de-fachin/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 08 Sep 2026 23:05:49 +0000"
+    },
+    {
       "id": "6fe3a737bbca",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -165,126 +358,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 08:30:00 +0000"
     },
     {
-      "id": "8af09fec387a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Jurisprudência tem que ter compromisso com o acerto', diz jurista sobre decisões do STF que afetaram cúpula da PF",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/noticia/2026/09/09/jurisprudencia-tem-que-ter-compromisso-com-o-acerto-diz-jurista-sobre-decisoes-do-stf-que-afetaram-cupula-da-pf.ghtml",
-      "summary": "O jurista Gustavo Sampaio afirmou, em entrevista ao programa GloboNews Radar, que o Supremo Tribunal Federal (STF) se equivocou ao acolher pedidos formulados por partidos políticos para intervir no comando da Polícia Federal. \nA análise ocorre no momento em que o ministro Flávio Dino reverteu a decisão que havia afastado o diretor-geral da corporação, Andrei Rodrigues, justamente apontando a ilegitimidade de partidos para pedir medidas cautelares no processo penal.\nDurante a entrevista, o especialista sustentou que a Corte não pode consolidar entendimentos equivocados com base em precedentes anteriores:\n\"A jurisprudência tem que ter compromisso com o acerto, jamais com o erro. As decisões do STF foram equivocadas. Teve erro lá [ decisão de Moraes], teve erro aqui [decisão de Mendonça]\", declarou o jurista.\nDino determina reintegração de diretor-geral da PF, Andrei Rodrigues\nComparação entre os casos de 2020 e 2026\nAo analisar o cenário, Gustavo Sampaio comparou duas decisões monocráticas de ministros do STF envolvendo o comando da Polícia Federal:\na decisão de André Mendonça (2026): atendeu a um requerimento do Partido Novo para determinar o afastamento de Andrei Rodrigues da Direção-Geral e de Leandro Almada da Diretoria de Inteligência Policial da PF.\na decisão de Alexandre Moraes (2020): acolheu uma ação do PDT para suspender a nomeação de Alexandre Ramagem para a direção-geral da Polícia Federal durante a gestão do ex-presidente Jair Bolsonaro.\nPara Sampaio, em ambos os episódios houve desvio na aplicação das regras processuais, uma vez que legendas partidárias não possuem prerrogativa para provocações dessa natureza no âmbito penal ou de gestão administrativa de órgãos policiais.\n\"A participação de partido político é dada em ações que discutem se uma lei está ou não de acordo com a Constituição, mas não para se dirigir ao STF em qualquer hipótese\", explicou o jurista no ar.\nAndré Mendonça, STF, Andrei Passos, PF e Flávio Dino, STF\nAndressa Anholete/Agência Senado, Luiz Silveira e Gustavo Moreno/STF\nSintonia com a decisão de Flávio Dino\nA avaliação do jurista reforça o pilar central da decisão proferida pelo ministro Flávio Dino nesta quarta.\nAo anular o afastamento determinado por Mendonça, Dino registrou de forma categórica que o Código de Processo Penal não inclui partidos políticos no rol de legitimados para requerer medidas cautelares pessoais, reserva que cabe privativamente ao Ministério Público e à autoridade policial.\nNa decisão, Dino enfatizou que partidos são \"instrumentos de luta pelo poder político\" e não podem atuar como partes ou substitutos processuais no processo penal. \nO relator assinalou ainda que a ingerência de uma agremiação partidária — especialmente durante o período eleitoral — viola as regras de neutralidade e o sistema acusatório.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 13:10:17 -0000"
-    },
-    {
-      "id": "2b0c09cac4ac",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin tem de acabar com guerra de liminares no STF que atropelam sua autoridade, dizem colegas",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/09/fachin-tem-de-acabar-com-guerra-de-liminares-no-stf-que-atropelam-sua-autoridade-dizem-colegas.ghtml",
-      "summary": "Depois da decisão do ministro do Supremo Tribunal Federal (STF) Flávio Dino que reintegrou Andrei Passos Rodrigues ao comando da Polícia Federal (PF), ministros da Corte avaliam reservadamente que o presidente do tribunal, Edson Fachin, precisará assumir o controle da crise para evitar novas decisões conflitantes dentro do Supremo.\nNa avaliação desses magistrados, a sequência de liminares envolvendo o afastamento e a recondução do diretor-geral da PF tem transmitido à sociedade a imagem de falta de coordenação entre os integrantes da Corte. \nAssessores de Fachin afirmam que ele pretende colocar ordem na situação, mas no momento em que considerar adequado.\nSegundo colegas do presidente do STF, Fachin já havia decidido centralizar a análise da disputa antes mesmo da liminar concedida por André Mendonça, na terça-feira (8), determinando o afastamento de Andrei Passos Rodrigues do comando da Polícia Federal. \nIsso ocorreu também antes da decisão de Flávio Dino, nesta quarta (9), que devolveu o cargo ao delegado.\nDino determina reintegração de diretor-geral da PF, Andrei Rodrigues\nReservadamente, integrantes do tribunal avaliam que tanto André Mendonça quanto Flávio Dino deveriam ter aguardado uma manifestação do presidente do STF antes de adotar novas medidas sobre o tema.\n\"O sensato seria que tanto André Mendonça quanto Flávio Dino aguardassem as decisões de Edson Fachin. Mas Dino decidiu reverter a liminar de Mendonça por entender que ela era ilegal e colocava em risco investigações\", afirmou ao blog um magistrado.\nSegundo esse interlocutor, o Supremo corre o risco de transmitir à população a imagem de que cada ministro atua por conta própria e em defesa de grupos internos, ampliando a percepção de divisão na Corte.\nAntes da decisão de André Mendonça, Fachin já havia determinado prazo de cinco dias úteis para que o relator do caso envolvendo o Banco Master e o ministro Alexandre de Moraes apresentassem explicações sobre petições protocoladas um contra o outro no âmbito da disputa. \nCom isso, o presidente do STF já havia sinalizado a intenção de assumir a condução do conflito e evitar novas decisões paralelas.\nAliados de Fachin afirmam que André Mendonça não deveria ter concedido liminar na ação apresentada pelo Partido Novo que levou ao afastamento de Andrei Rodrigues. \nNa avaliação desse grupo, seria mais prudente aguardar uma definição institucional do presidente da Corte.\nEsses mesmos interlocutores consideram que Flávio Dino também poderia ter esperado a manifestação de Fachin. \nO presidente do STF já analisava um pedido da Advocacia-Geral da União (AGU) para suspender a decisão de André Mendonça.\nNa terça, Fachin havia concedido prazo de 72 horas para que o relator do inquérito relacionado ao Banco Master apresentasse esclarecimentos sobre os fundamentos de sua decisão. \nEdson Fachin na abertura dos trabalhos do segundo semestre no STF\nGustavo Moreno/STF\nGoverno Lula\nIntegrantes do governo Luiz Inácio Lula da Silva (PT) acreditavam que, ao final desse processo, o presidente do Supremo acabaria derrubando a liminar que retirou Andrei Rodrigues do cargo.\nAntes que isso ocorresse, porém, Flávio Dino decidiu atender ao pedido apresentado pela defesa do diretor-geral da Polícia Federal e restabeleceu sua permanência no cargo. \nAo tomar a decisão, Dino também fez críticas à liminar anteriormente concedida por André Mendonça.\nCom a nova intervenção, a disputa ganhou mais um capítulo dentro do STF e aumentou a pressão para que Edson Fachin dê uma palavra final sobre o conflito, encerrando a sucessão de decisões divergentes que vem expondo tensões internas na Corte.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 12:57:02 -0000"
-    },
-    {
-      "id": "d6997ff9a473",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "CNI, Fiesp e outras entidades empresariais cobram em manifesto sessão pública e resposta urgente do STF à crise",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/09/entidades-empresariais-manifesto-stf.ghtml",
-      "summary": "Manifesto cobra respostas sobre crise no STF\nEntidades empresariais divulgaram nesta quarta-feira (9) um manifesto em que cobram que o Supremo Tribunal Federal (STF) examine, em sessão pública e com urgência, os fatos relacionados à crise na Corte.\nEntre as signatárias estão a Confederação Nacional da Indústria (CNI), a Federação das Indústrias do Estado de São Paulo (Fiesp) e a Confederação Nacional do Comércio (CNC).\nNo documento, intitulado “Manifesto à Nação Brasileira”, as entidades afirmam que o país atravessa uma “crise institucional de extrema gravidade” e apontam o Supremo como o epicentro dessa situação.\n“A Sociedade Brasileira exige que o Plenário do Supremo examine em sessão pública os fatos, decida com absoluta urgência, sem subterfúgios e sem corporativismo. A resposta que a Nação aguarda não admite prazo!”, diz o manifesto.\nO texto não cita nomes de ministros nem detalha episódios específicos. As entidades defendem que a Corte preste contas à sociedade e afirmam que a perda de legitimidade de um tribunal compromete a segurança jurídica, a confiança nas instituições e a paz social.\n“O Supremo Tribunal Federal é o guardião da Constituição, mas guardião algum está dispensado de prestar contas”, afirmam.\nSegundo o manifesto, a autoridade de um tribunal depende de imparcialidade, transparência e exemplo na atuação de seus integrantes.\n“A Constituição que a Corte protege é a mesma que lhe impõe julgamentos transparentes, justos e decisões fundamentadas”, diz o documento.\nAs sete entidades destacadas no manifesto são:\nConfederação das Associações Comerciais e Empresariais do Brasil (CACB);\nConfederação Nacional do Comércio (CNC);\nConfederação Nacional da Indústria (CNI);\nFederação das Indústrias do Estado de São Paulo (Fiesp);\nFederação das Associações Comerciais do Estado de São Paulo (Facesp);\nFederação da Agricultura do Estado de São Paulo (Faesp);\nFederação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP).\nA página do manifesto também reúne adesões de associações, federações e sindicatos de diferentes setores e regiões do país. Ao todo, são 2.764 registros.\nO documento termina com uma convocação para que a sociedade se manifeste e a afirmação de que \"ninguém está acima da lei\".\nO manifesto foi publicado em uma página na internet e em jornais impressos desta quarta-feira.\nCNI alerta para risco às instituições\nEm um posicionamento separado, o presidente da CNI, Ricardo Alban, afirma que as sucessivas crises em Brasília colocam as instituições em risco e exigem uma reação “vigorosa”, justa e responsável.\nO texto, intitulado “Não vamos desistir do Brasil”, pede bom senso às autoridades e afirma que a confiança da população nos Poderes públicos é um dos alicerces da democracia.\n“A República enfrenta um teste de integridade inédito. As sucessivas crises que ocorrem em Brasília colocam as instituições em risco”, afirma Alban.\nO presidente da CNI defende que as discussões sejam livres, públicas e transparentes, com oportunidade para esclarecimentos. Também pede que as decisões considerem os efeitos sobre a competitividade, a produtividade e a geração de empregos.\n“Não podemos deixar que questões políticas, eleitorais ou crises institucionais travem o desenvolvimento. Não podemos, mais uma vez, perder as oportunidades de crescimento no cenário internacional”, escreve.\nAlban convoca os poderes públicos, empresários e trabalhadores a buscar consenso em torno de temas como metas fiscais e políticas econômicas capazes de garantir investimentos e crescimento.\nO dirigente também defende amplo direito de defesa e que esse processo ocorra sem influência político-partidária.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 10:36:25 -0000"
-    },
-    {
-      "id": "bf8bcfd6bc9b",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidente do PT defende apuração de denúncias no STF e afirma que país vive crise institucional",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/09/presidente-do-pt-defende-apuracao-de-denuncias-no-stf-e-afirma-que-pais-vive-crise-institucional.ghtml",
-      "summary": "Edinho Silva, presidente do PT, discursa em evento do partido\nAnderson Barbosa/PT\nO presidente nacional do Partido dos Trabalhadores (PT), Edinho Silva, afirmou nesta terça-feira (8) que o Brasil atravessa uma crise institucional em meio aos conflitos internos que envolvem o Supremo Tribunal Federal (STF). \nEm vídeo divulgado pelo partido, ele defendeu a apuração de todas as denúncias relacionadas ao tema e disse confiar na atuação do presidente da Corte, ministro Luiz Edson Fachin, para garantir o funcionamento da instituição e a condução dos processos com transparência.\nSegundo Edinho, a população tem o direito de conhecer os fatos e acompanhar investigações conduzidas de forma célere e imparcial. O dirigente também afirmou que a crise no Judiciário tem sido utilizada por adversários políticos para disseminar desinformação e criticou setores que, segundo ele, não têm compromisso com a democracia.\n\"Acreditamos na autoridade do presidente do STF, ministro Fachin. Queremos as apurações de todas as denúncias. Queremos que essas apurações sejam aceleradas e conduzidas com muita lisura. O povo brasileiro quer saber a verdade. O Brasil precisa que tudo isso seja passado a limpo, mas também é bom saber que não haverá democracia com o Judiciário desmoralizado\", diz Edinho Silva, em vídeo divulgado pelo PT. \nAgora no g1\nDurante a manifestação, o presidente do PT voltou a defender reformas no sistema político e no Judiciário e associou essas mudanças ao projeto político defendido pelo presidente Luiz Inácio Lula da Silva. Ele citou medidas voltadas à ampliação da renda, geração de empregos e fortalecimento de políticas sociais.\nEdinho também direcionou críticas ao senador Flávio Bolsonaro (PL-RJ) e à família Bolsonaro, apontando contradições entre os discursos de seus adversários e episódios políticos recentes. Segundo ele, grupos que apoiaram ações contra a democracia não têm legitimidade para se apresentar como defensores das instituições.\nAo final da mensagem, o dirigente conclamou militantes do PT, partidos aliados e apoiadores da democracia a participarem do debate público nas redes sociais e nas ruas durante o período eleitoral. Ele afirmou que o resultado das eleições dependerá da mobilização da sociedade e do combate à desinformação.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 10:23:34 -0000"
-    },
-    {
-      "id": "65adeaca1262",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O afastamento de Andrei Rodrigues da PF e a guerra deflagrada no STF - O Assunto #1800",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/09/o-afastamento-de-andrei-rodrigues-da-pf-e-a-guerra-deflagrada-no-stf-o-assunto-1800.ghtml",
-      "summary": "Nesta terça-feira (8), o ministro André Mendonça, do Supremo Tribunal Federal, afastou dos cargos Andrei Rodrigues, então diretor-geral da Polícia Federal, e o delegado Leandro Almada, que era diretor de Inteligência Policial da instituição – a medida foi anunciada na manhã seguinte às manifestações convocadas pelos candidatos de oposição durante o feriado do Dia da Independência. Mendonça levou a decisão para a Segunda Turma do Supremo, onde se formou maioria para referendar o afastamento temporário de Andrei e Almada: os ministros Luiz Fux e Nunes Marques acompanharam o relator, Gilmar Mendes pediu vista e Dias Toffoli não se pronunciou. Ainda na terça-feira, 11 diretores da PF colocaram seus cargos à disposição, em apoio a Andrei Rodrigues, e a Advocacia-Geral da União (AGU) pediu ao presidente do Supremo, Edson Fachin, que conteste a decisão monocrática de Mendonça e suspenda os afastamentos. \nNeste episódio, Natuza Nery tem dois convidados. Primeiro, ela entrevista o jornalista Reynaldo Turollo Jr, que detalha a nova decisão de Mendonça e explica o acirramento das tensões entre STF, PF e governo. Depois, a conversa é com o jurista Rubens Glezer: ele analisa juridicamente a sequência de ações tomadas por Mendonça e por Alexandre de Moraes e avalia as repercussões institucionais da crise que assola a Suprema Corte. \nConvidados: Reynaldo Turollo Jr, repórter de política do g1 em Brasília, e Rubens Glezer, professor de Direito Constitucional da FGV-SP, e autor do artigo \"A Supremocracia Desafiada\" e do livro \"Catimba Constitucional\".\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nMendonça não prova autoria de Andrei Rodrigues em relatórios\nO que você precisa saber: \nMendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues;\n'Justiça brasileira não faltará à legalidade constitucional', diz Fachin;\nVALDO CRUZ: aliados de Lula defendem cumprir decisão de Mendonça e não repetir discurso de bolsonaristas contra o STF;\nANDRÉIA SADI: AGU prepara reação e aponta invasão de competência da Presidência em decisão de Mendonça;\nAutoridades e políticos repercutem decisão de Mendonça de afastar diretor-geral da PF;\nGilmar Mendes defende análise pelo plenário do afastamento de Andrei e cita risco de 'desequilíbrio da disputa político-eleitoral';\nAla no STF defende análise de informações sobre crise entre Moraes e Mendonça somente após as eleições;\nVeja o que os candidatos à Presidência disseram sobre a decisão de Mendonça de afastar cúpula da PF.\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nAndré Mendonça e Andrei Rodrigues\nGustavo Moreno/STF e Andressa Anholete/Agência Senado",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 03:30:00 -0000"
-    },
-    {
-      "id": "7f88ac9bf04d",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dólar ronda estabilidade com cautela no exterior e crise do STF no radar",
-      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-dolar-ibovespa-9-setembro-2026/",
-      "summary": "Na terça-feira (8), a moeda à vista encerrou o dia aos R$ 5,0892, com queda moderada de 0,79%",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 12:41:17 +0000"
-    },
-    {
       "id": "c9f5858dd80e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -298,10 +371,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
     },
     {
@@ -318,51 +392,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 20:03:06 +0000"
-    },
-    {
-      "id": "ba24becd2a5e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado julga ‘inaceitável’ que um membro do STF seja rastreado por operação da PF: ‘Um grande crime’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-julga-inaceitavel-que-um-membro-do-stf-seja-rastreado-por-operacao-da-pf-um-grande-crime/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 17:36:04 +0000"
-    },
-    {
-      "id": "653005e195f2",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidente do PT diz que crise no STF ‘é inegável’ e defende apuração de ‘todas as denúncias’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/presidente-do-pt-diz-que-crise-no-stf-e-inegavel-e-defende-apuracao-de-todas-as-denuncias/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 00:38:19 +0000"
     },
     {
       "id": "5cfccb46eea7",
@@ -378,10 +413,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 13:32:42 GMT"
     },
     {
@@ -398,10 +434,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 13:18:09 GMT"
     },
     {
@@ -418,10 +455,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 09:25:06 GMT"
     },
     {
@@ -438,10 +476,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
     },
     {
@@ -458,11 +497,33 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
+    },
+    {
+      "id": "bd983d000141",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin cancela sessão no STF após Dino reintegrar Andrei",
+      "link": "https://www.poder360.com.br/poder-justica/fachin-cancela-sessao-no-stf-apos-dino-reintegrar-andrei/",
+      "summary": "Retorno do diretor-geral da corporação ao cargo contraria decisão de André Mendonça de 3ª feira (8.set) que determinou o afastamento",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 14:08:11 +0000"
     },
     {
       "id": "fe97aff3e970",
@@ -479,30 +540,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 13:20:06 +0000"
-    },
-    {
-      "id": "d7343a1a68e9",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Manifestos que pedem urgência ao STF permitem adesão da sociedade",
-      "link": "https://www.poder360.com.br/poder-brasil/manifestos-que-pedem-urgencia-ao-stf-permitem-adesao-da-sociedade/",
-      "summary": "Empresários, economistas e profissionais liberais lançaram apelos ao Supremo para que resolva o caso Vorcaro-Moraes",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 13:01:33 +0000"
     },
     {
       "id": "112df0d99aea",
@@ -593,6 +635,28 @@
       "publishedRaw": "Wed, 09 Sep 2026 12:57:28 +0000"
     },
     {
+      "id": "3766664bb151",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado critica Lula e Flávio por Vorcaro e propõe ‘debates paralelos’ com Renan, Zema e Cury",
+      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-critica-lula-e-flavio-por-vorcaro-e-propoe-debates-paralelos-com-renan-zema-e-cury/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 13:31:13 +0000"
+    },
+    {
       "id": "cfbb73269af9",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -637,6 +701,23 @@
       "publishedRaw": "Tue, 08 Sep 2026 23:33:39 -0000"
     },
     {
+      "id": "555fb280d50f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidente da Sérvia dissolve parlamento antes de eleições antecipadas",
+      "link": "https://www.cnnbrasil.com.br/internacional/presidente-da-servia-dissolve-parlamento-antes-de-eleicoes-antecipadas/",
+      "summary": "Aleksandar Vucic busca se manter no poder concorrendo a primeiro-ministro em votação marcada para 25 de outubro",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 74,
+      "publishedRaw": "Wed, 09 Sep 2026 13:41:30 +0000"
+    },
+    {
       "id": "d3468cc25d1c",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -647,8 +728,10 @@
       "tags": [
         "eleições"
       ],
-      "crossOutlets": [],
-      "score": 68,
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 72,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
     },
     {
@@ -665,21 +748,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Wed, 09 Sep 2026 01:04:06 +0000"
-    },
-    {
-      "id": "e47cf5dcb8da",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Funeral do rei Harald V da Noruega reúne multidão e famílias reais em Oslo",
-      "link": "https://www.cnnbrasil.com.br/internacional/funeral-rei-harald-v-noruega/",
-      "summary": "Dezenas de milhares de pessoas se posicionaram ao longo de avenida para cortejo, mantendo silêncio absoluto durante passagem do caixão",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Wed, 09 Sep 2026 12:28:50 +0000"
     }
   ]
 }
