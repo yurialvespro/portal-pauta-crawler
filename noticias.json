@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:44:33.552672+00:00",
+  "generated_at": "2026-09-09T10:16:44.229310+00:00",
   "items": [
     {
       "id": "1d58ac45f138",
@@ -16,11 +16,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 09 Sep 2026 07:00:00 -0000"
     },
     {
@@ -38,12 +39,36 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 08 Sep 2026 21:15:33 -0000"
+    },
+    {
+      "id": "ce735ddab74c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Meio/Ideia: Lula empata com Flávio Bolsonaro no primeiro e no segundo turnos da disputa presidencial",
+      "link": "https://www.estadao.com.br/politica/eleicoes/meioideia-lula-empata-com-flavio-bolsonaro-no-primeiro-e-no-segundo-turnos-da-disputa-presidencial/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -59,12 +84,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
     },
     {
@@ -81,9 +107,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Wed, 09 Sep 2026 00:38:58 +0000"
@@ -147,9 +173,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 03:30:00 -0000"
@@ -167,9 +193,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 23:02:29 -0000"
@@ -187,32 +213,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "09 Sep 2026 04:03:00 -0300"
     },
     {
-      "id": "572c7e67e67a",
-      "source": "CNN Brasil",
+      "id": "c9f5858dd80e",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Empresários e personalidades lançam manifesto por apuração no STF; lista",
-      "link": "https://www.cnnbrasil.com.br/politica/empresarios-e-personalidades-lancam-manifesto-por-apuracao-no-stf-lista/",
-      "summary": "Documento é assinado por 157 cidadãos e pede investigação sobre caso Master",
+      "title": "Maioria dos brasileiros avalia que ministros do STF decidem por interesse próprio, aponta Meio/Ideia",
+      "link": "https://www.estadao.com.br/politica/eleicoes/maioria-dos-brasileiros-avalia-que-ministros-do-stf-decidem-por-interesse-proprio-aponta-meioideia/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 09:00:42 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "3523c515ea05",
@@ -227,9 +253,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 20:03:06 +0000"
@@ -247,9 +273,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 17:36:04 +0000"
@@ -267,9 +293,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 00:38:19 +0000"
@@ -287,32 +313,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 22:03:43 +0000"
-    },
-    {
-      "id": "dcd1a5076714",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin cogita assumir relatoria de Master e INSS para amenizar crise no STF; leia bastidor",
-      "link": "https://www.estadao.com.br/politica/fachin-cogita-assumir-relatoria-de-master-e-inss-para-amenizar-crise-no-stf-leia-bastidor/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Tue, 08 Sep 2026 18:59:40 +0000"
     },
     {
       "id": "3caeb92ffee7",
@@ -326,10 +332,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 07:54:56 GMT"
@@ -346,10 +352,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 09:25:06 GMT"
@@ -366,10 +372,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
@@ -386,10 +392,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
@@ -406,13 +412,33 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
+    },
+    {
+      "id": "993cd2a710c8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Plenário do STF: saiba quais ações estão na pauta desta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-4a-feira-5/",
+      "summary": "Constitucionalidade do Funrural e cota para cargos em comissão no Ministério Público do Amazonas estão na agenda",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:10 +0000"
     },
     {
       "id": "112df0d99aea",
@@ -427,11 +453,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 03:00:56 -0000"
     },
     {
@@ -447,11 +474,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 03:00:00 -0000"
     },
     {
@@ -467,11 +495,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 03:00:00 -0000"
     },
     {
@@ -487,12 +516,118 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 08 Sep 2026 21:58:00 -0000"
+    },
+    {
+      "id": "f371d2b7ca9d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Meio/Ideia: Lula é desaprovado por 48,4%; 46,5% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/meio-ideia-lula-e-desaprovado-por-484-465-aprovam/",
+      "summary": "Pesquisa entrevistou 1.500 pessoas, entre os dias 4 e 7 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:09:38 +0000"
+    },
+    {
+      "id": "835498048bb7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Flávio tem 46% no 2º turno no DF; Lula, 40%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-46-no-2o-turno-no-df-lula-40/",
+      "summary": "Candidatos do PL e do PT aparecem empatados no 1º turno pela margem de erro de 2 pontos percentuais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:02:41 +0000"
+    },
+    {
+      "id": "972efde23d05",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula lidera cenários de 1° e 2° turnos na Bahia",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-lidera-cenarios-de-1-e-2-turnos-na-bahia/",
+      "summary": "Pesquisa ouviu 1.600 eleitores entre 4 e 8 de setembro; margem de erro é de dois pontos percentuais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:01:31 +0000"
+    },
+    {
+      "id": "dc6dbe032410",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Meio/Ideia: Lula tem 38,4% no 1º turno; Flávio, 37,3%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/meio-ideia-lula-tem-384-no-1o-turno-flavio-373/",
+      "summary": "Instituto ouviu 1.500 eleitores entre os dias 4 e 7 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:53 +0000"
+    },
+    {
+      "id": "f62fad07dfc1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Meio/Ideia: Lula e Flávio empatam em 46% no 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/meio-ideia-lula-e-flavio-empatam-em-46-no-2o-turno/",
+      "summary": "Instituto ouviu 1.500 eleitores entre os dias 4 e 7 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:25 +0000"
     },
     {
       "id": "168b32ebe5cc",
@@ -507,32 +642,118 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 08 Sep 2026 20:11:23 +0000"
     },
     {
-      "id": "79d3d32891fa",
-      "source": "Estadão",
+      "id": "08b8ca764f3c",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula é orientado a recorrer antes de cumprir decisão de Mendonça e convocar Conselho da República",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-e-orientado-a-recorrer-antes-de-cumprir-decisao-de-mendonca-e-convocar-conselho-da-republica/",
-      "summary": "",
+      "title": "Lula é desaprovado por 48,4% e aprovado por 46,5%, diz Meio/Ideia",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-484-e-aprovado-por-465-diz-meio-ideia/",
+      "summary": "Pesquisa também mediu intenções de voto para presidente e rejeição dos candidatos",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Tue, 08 Sep 2026 13:40:08 +0000"
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:52 +0000"
+    },
+    {
+      "id": "581761f9599a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-7/",
+      "summary": "Visita a obras do VLT, encontro na Fiesp, missão na Tailândia, e agenda cultural no Rio Grande do Sul movimentam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:43 +0000"
+    },
+    {
+      "id": "74a0b45a45a0",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é rejeitado por 46,6% do eleitorado; Flávio por 45,7%, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-rejeitado-por-466-do-eleitorado-flavio-por-457-diz-pesquisa/",
+      "summary": "Levantamento Meio/Ideia também mediu intenções de voto para presidente e aprovação do governo petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:39 +0000"
+    },
+    {
+      "id": "9dfbc5731879",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-4a-feira-6/",
+      "summary": "Visita a escola integral, a obras do VLT em Teresina com ministros e ato político no Piauí marcam o dia do chefe do Executivo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:33 +0000"
+    },
+    {
+      "id": "a85eeab8d79a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula e Flávio empatam em 2º turno, diz pesquisa Meio/Ideia",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-empatam-em-2o-turno-diz-pesquisa-meio-ideia/",
+      "summary": "Candidatos a presidente têm 46% das intenções de voto; levantamento mediu também rejeição e aprovação do governo Lula",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:10 +0000"
     },
     {
       "id": "439d9f5a9e37",
@@ -547,32 +768,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 09:36:32 +0000"
     },
     {
-      "id": "603758a6e5ff",
-      "source": "Poder360",
+      "id": "d0f5f02111ad",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Associação Brasileira de Imprensa lança nota de apoio à reeleição de Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/associacao-brasileira-de-imprensa-lanca-nota-de-apoio-a-reeleicao-de-lula/",
-      "summary": "ABI diz ser contra \"discursos e práticas de candidatos a presidente da República que colocam em risco a democracia”",
+      "category": "Economia",
+      "title": "iPhone 18: Apple deve lançar celular dobrável nesta quarta",
+      "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "summary": "iPhone 18: Apple deve lançar celular dobrável nesta quarta Novo celular deve ter tamanho próximo ao de um passaporte quando fechado e semelhante a um tablet quando aberto.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 09 Sep 2026 06:33:05 +0000"
+      "score": 82,
+      "publishedRaw": "Tue, 08 Sep 2026 23:33:39 -0000"
     },
     {
       "id": "cc28ab557039",
@@ -592,26 +815,6 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 07 Sep 2026 22:01:48 GMT"
-    },
-    {
-      "id": "d0f5f02111ad",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "iPhone 18: Apple deve lançar celular dobrável nesta quarta",
-      "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "summary": "iPhone 18: Apple deve lançar celular dobrável nesta quarta Novo celular deve ter tamanho próximo ao de um passaporte quando fechado e semelhante a um tablet quando aberto.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 08 Sep 2026 23:33:39 -0000"
     },
     {
       "id": "362e2f7124a5",
@@ -643,28 +846,9 @@
         "eleições",
         "eleições 2026"
       ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 77,
+      "crossOutlets": [],
+      "score": 73,
       "publishedRaw": "Tue, 08 Sep 2026 23:54:11 -0000"
-    },
-    {
-      "id": "c84de96ee18b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump realiza convenção republicana para eleições de meio de mandato",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-realiza-convencao-republicana-para-eleicoes-de-meio-de-mandato/",
-      "summary": "A dois meses das midterms, presidente americano adota medida incomum com evento que reúne autoridades do partido em Dallas, no Texas, nesta quarta (9) e quinta-feira (10)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 74,
-      "publishedRaw": "Wed, 09 Sep 2026 09:00:41 +0000"
     },
     {
       "id": "82ff925c6c0d",
@@ -680,21 +864,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Wed, 09 Sep 2026 01:04:06 +0000"
-    },
-    {
-      "id": "f32f8e1f7279",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TRE-PR aprova candidatura de Deltan Dallagnol ao Senado",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tre-pr-aprova-candidatura-de-deltan-dallagnol-ao-senado/",
-      "summary": "Ex-procurador da Lava Jato comemorou a decisão nas redes sociais",
-      "tags": [
-        "candidatura"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Wed, 09 Sep 2026 08:38:28 +0000"
     },
     {
       "id": "e8fede76355c",
