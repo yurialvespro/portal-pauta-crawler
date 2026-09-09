@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:42:57.014336+00:00",
+  "generated_at": "2026-09-09T12:21:12.178553+00:00",
   "items": [
     {
       "id": "1d58ac45f138",
@@ -18,6 +18,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -40,6 +41,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -63,6 +65,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -85,11 +88,34 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Wed, 09 Sep 2026 00:38:58 +0000"
+    },
+    {
+      "id": "4b9687ec5dc2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/09/disputa-no-stf-puxa-governo-lula-para-crise.ghtml",
+      "summary": "Disputa no STF puxa governo Lula para crise, e ala da campanha defende tomar distância de Moraes\nA crise no Supremo Tribunal Federal (STF) puxa agora o governo Lula para o centro da disputa — e não apenas do ponto de vista institucional.\nA decisão de André Mendonça sobre o comando da Polícia Federal, para afastar preventivamente a cúpula o diretor-geral Andrei Rodrigues e o diretor de Inteligência Policial Leandro Almada da Costa, obrigou o governo a se posicionar. A Advocacia-Geral da União (AGU) entrou em campo não apenas em defesa de Andrei Rodrigues, mas, como me disse uma fonte do governo, para defender uma prerrogativa do presidente da República: é Lula quem tem o poder de nomear e demitir o diretor-geral da PF.\nMas existe uma segunda pressão, desta vez eleitoral. Dentro da própria campanha de Lula, uma ala já defende que o presidente adote uma posição mais enfática diante da crise e marque algum distanciamento de Alexandre de Moraes.\nAgora no g1\nA avaliação desse grupo é que, à medida que a crise deixa de ser apenas do caso Master e passa a atingir diretamente a imagem e a credibilidade do Supremo, Lula precisa evitar que a proximidade política com Moraes faça com que o desgaste da Corte seja transferido também para o presidente em plena campanha.\nVEJA TAMBÉM: \nEm decisão para afastar diretor da PF, André Mendonça cita 1984, de George Orwell\nOnze diretores da PF colocam cargos à disposição e manifestam 'total apoio' a Andrei Rodrigues após afastamento\nDecisão de afastar Andrei do comando da PF amplia pressão e STF busca saída para crise\nPresidente Luiz Inácio Lula da Silva (PT) em vídeo sobre crise do STF\nReprodução\nEm suma: a crise puxou o governo para dentro em dois sentidos: institucionalmente, porque o Planalto foi obrigado a reagir à decisão sobre o comando da PF; e eleitoralmente, porque agora existe uma discussão dentro da própria campanha sobre até onde Lula deve ir na defesa das instituições sem assumir para si o desgaste de Alexandre de Moraes.\nGloboPop: veja os vídeos do palco da Andréia Sadi",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 11:44:32 -0000"
     },
     {
       "id": "6fe3a737bbca",
@@ -152,7 +178,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 10:36:25 -0000"
@@ -172,7 +198,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 10:23:34 -0000"
@@ -192,7 +218,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 03:30:00 -0000"
@@ -212,50 +238,30 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 23:02:29 -0000"
     },
     {
-      "id": "974baa18c3cb",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF reflete politização da corte e problema estrutural, dizem especialistas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-reflete-politizacao-da-corte-e-problema-estrutural-dizem-especialistas.shtml",
-      "summary": "A sequência de desgastes que levou o STF (Supremo Tribunal Federal) a chegar à \"mais aguda crise de sua história\", conforme dito em carta assinada por ex-presidentes da corte, vem de anos e reflete uma estrutura que ficou disfuncional, na opinião de especialistas ouvidos pela Folha.\nLeia mais (09/09/2026 - 04h03)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "09 Sep 2026 04:03:00 -0300"
-    },
-    {
-      "id": "a494bfc4ccf4",
+      "id": "30dfafd60963",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Ideia: para 40,5%, relação Moraes-Vorcaro é problema do ministro e do STF",
-      "link": "https://www.cnnbrasil.com.br/politica/ideia-para-405-relacao-moraes-vorcaro-e-problema-do-ministro-e-do-stf/",
-      "summary": "Foram ouvidos 1.500 eleitores, por telefone, entre os dias 4 e 7 de setembro; margem de erro é de 2,5 pontos percentuais e o nível de confiança da pesquisa é de 95%",
+      "title": "Presidente do PT, Edinho diz que “crise institucional” no STF é inegável",
+      "link": "https://www.cnnbrasil.com.br/politica/presidente-do-pt-edinho-diz-que-crise-institucional-no-stf-e-inegavel/",
+      "summary": "Declaração ocorreu após a decisão de André Mendonça, do STF, de afastar o diretor-geral da PF (Polícia Federal), Andrei Rodrigues, e Leandro Almada, responsável pelo setor de inteligência da corporação",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 10:14:58 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 12:06:48 +0000"
     },
     {
       "id": "c9f5858dd80e",
@@ -271,8 +277,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 10:00:00 +0000"
@@ -291,8 +297,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 20:03:06 +0000"
@@ -311,8 +317,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 17:36:04 +0000"
@@ -331,8 +337,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 00:38:19 +0000"
@@ -351,8 +357,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 07:54:56 GMT"
@@ -371,8 +377,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Wed, 09 Sep 2026 09:25:06 GMT"
@@ -391,8 +397,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 07:45:55 GMT"
@@ -411,8 +417,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
@@ -431,11 +437,31 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Mon, 07 Sep 2026 19:50:28 GMT"
+    },
+    {
+      "id": "993cd2a710c8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Plenário do STF: saiba quais ações estão na pauta desta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-4a-feira-5/",
+      "summary": "Constitucionalidade do Funrural e cota para cargos em comissão no Ministério Público do Amazonas estão na agenda",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:10 +0000"
     },
     {
       "id": "112df0d99aea",
@@ -452,6 +478,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -473,6 +500,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -494,6 +522,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -501,118 +530,57 @@
       "publishedRaw": "Wed, 09 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "55a88d07bbb2",
-      "source": "G1 - Política",
+      "id": "3bd1d882e172",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "AGU pede a Fachin suspensão do afastamento do diretor da PF e aponta invasão de prerrogativa de Lula",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/08/agu-pede-a-fachin-suspensao-do-afastamento-de-andrei-rodrigues-e-aponta-invasao-de-prerrogativa-do-presidente.ghtml",
-      "summary": "AGU pede suspensão da decisão que afastou diretor-geral da Polícia Federal\nA Advocacia-Geral da União (AGU) pediu nesta terça-feira (8) ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin,  para contestar a decisão monocrática do ministro André Mendonça que determinou o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues.\nNa peça, assinada pelo advogado-geral da União, Jorge Messias, a AGU sustenta que há \"grave lesão à ordem pública e administrativa\".\nO órgão argumenta que o afastamento cautelar viola frontalmente a prerrogativa constitucional privativa do Presidente da República para prover e desprover cargos de direção da Polícia Federal. \nEm nota, a AGU ressalta ainda que \"a descontinuidade abrupta na gestão do órgão compromete o funcionamento das atividades de polícia judiciária e gera risco de desorganização institucional\".\nDe acordo com a petição da AGU, a escolha, nomeação e livre exoneração do diretor-geral da Polícia Federal são prerrogativas exclusivas do chefe do Poder Executivo federal. \n\"Diante do quadro de urgência, a AGU requereu a concessão de liminar para suspender imediatamente o afastamento dos dirigentes e a subsequente confirmação do pedido no mérito até manifestação definitiva do órgão competente\", diz nota.\nA única exigência legal para o provimento do cargo de diretor-geral da PF é que ele seja ocupado por um integrante de classe especial da carreira de Delegado de Polícia Federal.\nPrédio da Advocacia-Geral da União\nTV Globo\nClima de tensão no STF\nO recurso da AGU chega em meio a um cenário de extrema polarização dentro do próprio Supremo. O afastamento de Andrei Rodrigues e do diretor de inteligência, Leandro Almada da Costa, foi determinado por André Mendonça sob acusação de monitoramento ilegal do próprio ministro relator e do advogado-geral da União, Jorge Messias, por meio de relatórios de inteligência apócrifos.\nNa Segunda Turma da Corte, o julgamento extraordinário virtual para referendar o afastamento formou maioria de 3 votos a 0 com as manifestações de Mendonça, Luiz Fux e Nunes Marques. \nNo entanto, a sessão eletrônica acabou suspensa por um pedido de vista do ministro Gilmar Mendes. Enquanto o colegiado não retoma as deliberações em definitivo, a decisão individual de Mendonça continua em vigor, mantendo Rodrigues afastado.\nO afastamento e reações da PF\nA decisão que afastou Andrei Rodrigues impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária.\nA Associação Nacional dos Peritos Criminais Federais (APCF) defendeu que o caso seja levado com urgência à análise do plenário da Corte, composto atualmente por 10 ministros.\nOs diretores da Polícia Federal manifestaram, por meio de uma nota, seu \"total apoio\" ao diretor-geral afastado Andrei Rodrigues e colocaram seus cargos à disposição para o delegado William Marcel Murad, diretor-geral substituto que assumiu a corporação com o afastamento.",
+      "title": "Pesquisa Palver mostra Lula e Flávio empatados no primeiro turno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/pesquisa-palver-mostra-lula-e-flavio-empatados-no-primeiro-turno.shtml",
+      "summary": "Pesquisa divulgada nesta quarta-feira (9) pelo instituto Palver mostra os candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) em situação de empate técnico no primeiro turno da eleição presidencial. O petista marca 40%, enquanto o senador fluminense tem 39%.\nLeia mais (09/09/2026 - 09h00)",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 08 Sep 2026 21:58:00 -0000"
-    },
-    {
-      "id": "bc49c949e681",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gerp: governo Lula é desaprovado por 52% dos brasileiros; 41% aprovam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-governo-lula-e-desaprovado-por-52-dos-brasileiros-41-aprovam/",
-      "summary": "Pesquisa ouviu 2.400 eleitores em todo o território nacional entre os última dias 3 e 8; margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 11:08:05 +0000"
+      "publishedRaw": "09 Sep 2026 09:00:00 -0300"
     },
     {
-      "id": "d232f78775db",
+      "id": "91bec69ea420",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Gerp: Lula é rejeitado por 49% dos eleitores; Flávio, por 40%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-lula-e-rejeitado-por-49-dos-eleitores-flavio-por-40/",
-      "summary": "Pesquisa ouviu 2.400 eleitores em todo o território nacional entre os última dias 3 e 8; margem de erro  é de 2 pontos percentuais",
+      "title": "Palver: Lula empata tecnicamente com Flávio, Caiado e Zema no 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/palver-lula-empata-tecnicamente-com-flavio-caiado-e-zema-no-2o-turno/",
+      "summary": "Foram ouvidas 5.000 pessoas entre os dias 4 e 7 de setembro; nível de confiança é de 95%",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 11:04:25 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 12:14:29 +0000"
     },
     {
-      "id": "7e6796366b0a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gerp: Flávio tem 37% das intenções de voto no 1º turno; Lula, 34%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-37-das-intencoes-de-voto-no-1o-turno-lula-34/",
-      "summary": "Candidatos do PL e do PT estão tecnicamente empatados pela margem de erro de 2 pontos percentuais; pesquisa ouviu 2.400 eleitores em todo o território nacional entre os última dias 3 e 8",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 11:01:04 +0000"
-    },
-    {
-      "id": "320e2627d6cb",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gerp: Flávio tem 47% das intenções de voto no 2º turno; Lula, 40%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-47-das-intencoes-de-voto-no-2o-turno-lula-40/",
-      "summary": "Pesquisa ouviu 2.400 eleitores em todo o território nacional entre os última dias 3 e 8; margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 11:00:39 +0000"
-    },
-    {
-      "id": "c456a54e036b",
+      "id": "9dfbc5731879",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio tem 47% ante 40% de Lula no 2º turno, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-47-ante-40-de-lula-no-2o-turno-diz-pesquisa/",
-      "summary": "Levantamento Gerp ouviu 2.400 eleitores de 2 a 8 de setembro; taxa de rejeição ao petista atinge 49%",
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-4a-feira-6/",
+      "summary": "Visita a escola integral, a obras do VLT em Teresina com ministros e ato político no Piauí marcam o dia do chefe do Executivo",
       "tags": [
         "Lula"
       ],
@@ -620,20 +588,21 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 11:00:43 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:33 +0000"
     },
     {
-      "id": "32a3b31f82b4",
+      "id": "a85eeab8d79a",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Consórcio cancela debates após Lula, Flávio e Tarcísio não confirmarem",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/consorcio-cancela-debates-apos-lula-flavio-e-tarcisio-nao-confirmarem/",
-      "summary": "Pool de veículos havia estabelecido o dia 7 de setembro como prazo para que candidatos definissem participação",
+      "title": "Lula e Flávio empatam em 2º turno, diz pesquisa Meio/Ideia",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-empatam-em-2o-turno-diz-pesquisa-meio-ideia/",
+      "summary": "Candidatos a presidente têm 46% das intenções de voto; levantamento mediu também rejeição e aprovação do governo Lula",
       "tags": [
         "Lula"
       ],
@@ -641,20 +610,21 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 10:24:45 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 10:00:10 +0000"
     },
     {
-      "id": "08b8ca764f3c",
+      "id": "439d9f5a9e37",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula é desaprovado por 48,4% e aprovado por 46,5%, diz Meio/Ideia",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-484-e-aprovado-por-465-diz-meio-ideia/",
-      "summary": "Pesquisa também mediu intenções de voto para presidente e rejeição dos candidatos",
+      "title": "Lula abre crédito de R$ 6,6 bilhões para subsídios a combustíveis",
+      "link": "https://www.poder360.com.br/poder-economia/lula-abre-credito-de-r-66-bilhoes-para-subsidios-a-combustiveis/",
+      "summary": "Maior parte dos recursos será destinada à subvenção do óleo diesel de uso rodoviário",
       "tags": [
         "Lula"
       ],
@@ -662,32 +632,12 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 10:00:52 +0000"
-    },
-    {
-      "id": "581761f9599a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-7/",
-      "summary": "Visita a obras do VLT, encontro na Fiesp, missão na Tailândia, e agenda cultural no Rio Grande do Sul movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 10:00:43 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 09:36:32 +0000"
     },
     {
       "id": "d0f5f02111ad",
@@ -704,30 +654,12 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Tue, 08 Sep 2026 23:33:39 -0000"
-    },
-    {
-      "id": "cc28ab557039",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
-      "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Estimativa feito pelo Monitor do Debate Político - USP/Cebrap e em parceria com a organização More in Common aponta aglomeração menor do que a registrada no feriado do ano passado, quando 42,2 mil pessoas foram à Paulista e outras 42,7 mil se reuniram em Copacabana, no Rio de Janeiro.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 07 Sep 2026 22:01:48 GMT"
     },
     {
       "id": "362e2f7124a5",
@@ -798,19 +730,19 @@
       "publishedRaw": "Wed, 09 Sep 2026 01:04:06 +0000"
     },
     {
-      "id": "00ec0d00a906",
-      "source": "Poder360",
+      "id": "308acd179b0a",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Rebeca Ramagem culpa Andrei Rodrigues por “exílio” da família",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/rebeca-ramagem-culpa-andrei-rodrigues-por-exilio-da-familia/",
-      "summary": "Mulher de ex-deputado e ex-diretor da Abin celebra afastamento de diretor da PF; ela tenta vaga na Câmara",
+      "title": "Briga, divórcio e afastamento: entenda a crise da família Jolie-Pitt",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/briga-divorcio-e-afastamento-entenda-a-crise-da-familia-jolie-pitt/",
+      "summary": "Dez anos após a separação de Angelina Jolie e Brad Pitt, quatro dos seis filhos já deram passos para retirar o sobrenome do ator",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Wed, 09 Sep 2026 11:16:01 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 11:50:45 +0000"
     },
     {
       "id": "46d214f7aa2e",
