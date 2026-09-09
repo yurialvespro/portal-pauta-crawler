@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T08:44:08.392239+00:00",
+  "generated_at": "2026-09-09T09:16:33.467859+00:00",
   "items": [
     {
       "id": "326ac47e1725",
@@ -111,6 +111,29 @@
       "publishedRaw": "Wed, 09 Sep 2026 00:38:58 +0000"
     },
     {
+      "id": "6fe3a737bbca",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF tira condições de Lula indicar ministro e traz riscos à política e à economia",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-no-stf-tira-condicoes-de-lula-indicar-ministro-e-traz-riscos-a-politica-e-a-economia/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 08:30:00 +0000"
+    },
+    {
       "id": "3aa40f4df324",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -194,13 +217,13 @@
       "publishedRaw": "09 Sep 2026 04:03:00 -0300"
     },
     {
-      "id": "99fc54c91f81",
+      "id": "572c7e67e67a",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Com decisão de Mendonça, STF enfrenta uma “guerra civil”, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/com-decisao-de-mendonca-stf-enfrenta-uma-guerra-civil-diz-especialista/",
-      "summary": "Professor de Direito Constitucional avalia que decisão de afastar diretor-geral da PF foi excessiva e agravou crise interna no Supremo",
+      "title": "Empresários e personalidades lançam manifesto por apuração no STF; lista",
+      "link": "https://www.cnnbrasil.com.br/politica/empresarios-e-personalidades-lancam-manifesto-por-apuracao-no-stf-lista/",
+      "summary": "Documento é assinado por 157 cidadãos e pede investigação sobre caso Master",
       "tags": [
         "STF"
       ],
@@ -211,7 +234,7 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 09 Sep 2026 07:15:14 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 09:00:42 +0000"
     },
     {
       "id": "3523c515ea05",
@@ -494,26 +517,6 @@
       "publishedRaw": "Tue, 08 Sep 2026 13:40:08 +0000"
     },
     {
-      "id": "afb23be8b1f2",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Miguel Reale: Ou Lula afasta logo comando da PF ou País viverá anomia e liquefação da República",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/miguel-reale-ou-lula-afasta-logo-comando-da-pf-ou-pais-vivera-anomia-e-liquefacao-da-republica/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 08 Sep 2026 16:18:51 +0000"
-    },
-    {
       "id": "603758a6e5ff",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -602,9 +605,28 @@
         "eleições",
         "eleições 2026"
       ],
-      "crossOutlets": [],
-      "score": 73,
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 77,
       "publishedRaw": "Tue, 08 Sep 2026 23:54:11 -0000"
+    },
+    {
+      "id": "c84de96ee18b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump realiza convenção republicana para eleições de meio de mandato",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-realiza-convencao-republicana-para-eleicoes-de-meio-de-mandato/",
+      "summary": "A dois meses das midterms, presidente americano adota medida incomum com evento que reúne autoridades do partido em Dallas, no Texas, nesta quarta (9) e quinta-feira (10)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Wed, 09 Sep 2026 09:00:41 +0000"
     },
     {
       "id": "82ff925c6c0d",
