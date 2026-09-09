@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:45:15.330782+00:00",
+  "generated_at": "2026-09-09T16:17:45.404177+00:00",
   "items": [
     {
       "id": "326ac47e1725",
@@ -273,6 +273,28 @@
       "publishedRaw": "Wed, 09 Sep 2026 15:28:18 -0000"
     },
     {
+      "id": "a2d1a1da513a",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin sob pressão e 'sem ferramentas': por que presidente do STF não consegue debelar crise às vésperas de eleição",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-sob-pressao-e-sem-ferramentas-por-que-presidente-do-stf-nao-consegue-debelar-crise-as-vesperas-de-eleicao.shtml",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, está sob pressão para conduzir uma saída para a grave crise que a corte atravessa, em meio ao fogo cruzado entre dois ministros: Alexandre de Moraes e André Mendonça.\nLeia mais (09/09/2026 - 12h43)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "09 Sep 2026 12:43:00 -0300"
+    },
+    {
       "id": "3b9f1fc9ad2a",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -315,50 +337,6 @@
       ],
       "score": 90,
       "publishedRaw": "09 Sep 2026 12:17:00 -0300"
-    },
-    {
-      "id": "2a12acefbae6",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin cancela sessão do STF após Dino reintegrar Andrei ao comando da PF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/fachin-cancela-sessao-do-stf-apos-dino-reintegrar-andrei-ao-comando-da-pf.shtml",
-      "summary": "O presidente do STF (Supremo Tribunal Federal) cancelou a sessão do plenário prevista para esta quarta-feira (9), após o novo capítulo da maior crise da história recente da corte.\nLeia mais (09/09/2026 - 11h18)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "09 Sep 2026 11:18:00 -0300"
-    },
-    {
-      "id": "fe99be11fab1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin cancela sessão do STF de forma inédita em meio a crise",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/fachin-cancela-sessao-do-stf-em-meio-a-crise.shtml",
-      "summary": "O presidente do STF (Supremo Tribunal Federal), Edson Fachin, cancelou a sessão desta quarta (9) em meio à profunda crise que atinge a Corte.\nLeia mais (09/09/2026 - 11h09)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "09 Sep 2026 11:09:00 -0300"
     },
     {
       "id": "27b03bf130b6",
@@ -405,6 +383,51 @@
       "publishedRaw": "Wed, 09 Sep 2026 15:11:34 +0000"
     },
     {
+      "id": "248bca75d6df",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Escalada na crise no STF: veja a repercussão após  embate entre Dino e Mendonça sobre cúpula da PF",
+      "link": "https://www.estadao.com.br/politica/crise-no-stf-veja-a-repercussao-apos-embate-entre-dino-e-mendonca-sobre-cupula-da-pf-npr/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 15:46:50 +0000"
+    },
+    {
+      "id": "47fd19702a11",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula defende quebra de sigilo das investigações do Master após crise no STF: ‘Doa a quem doer’",
+      "link": "https://www.estadao.com.br/politica/lula-defende-quebra-de-sigilo-das-investigacoes-do-master-apos-crise-no-stf-doa-a-quem-doer-npr/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 14:43:41 +0000"
+    },
+    {
       "id": "9a5a4c6c5e25",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -448,29 +471,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 08 Sep 2026 23:05:49 +0000"
-    },
-    {
-      "id": "47fd19702a11",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula defende quebra de sigilo das investigações do Master após crise no STF: ‘Doa a quem doer’",
-      "link": "https://www.estadao.com.br/politica/lula-defende-quebra-de-sigilo-das-investigacoes-do-master-apos-crise-no-stf-doa-a-quem-doer-npr/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 14:43:41 +0000"
     },
     {
       "id": "f66c329034ae",
@@ -627,6 +627,28 @@
       "publishedRaw": "Tue, 08 Sep 2026 11:09:07 GMT"
     },
     {
+      "id": "fe8a88f50cb2",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: STF julga pagamento de contribuição do Funrural por empresas",
+      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-pagamento-de-contribuicao-do-funrural-por-empresas/",
+      "summary": "A discussão é relevante para produtores rurais porque envolve a forma de recolhimento da contribuição previdenciária",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 16:00:57 +0000"
+    },
+    {
       "id": "89bf4a712840",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -697,7 +719,7 @@
       "category": "Política",
       "title": "Lula pede quebra total de sigilo em investigações do caso Master e diz que 'vazamentos seletivos' afetam eleição",
       "link": "https://g1.globo.com/politica/noticia/2026/09/09/lula-pede-quebra-total-de-sigilo-em-investigacoes-do-caso-master-e-cobra-transparencia.ghtml",
-      "summary": "Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência\nO presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quarta-feira (9) a quebra completa do sigilo das investigações relacionadas ao chamado \"caso Master\".\nNa ocasião, Lula também cobrou mais transparência sobre as apurações diante de um possível impacto à disputa eleitoral, na qual ele concorre ao quarto mandato.\nA mensagem foi publicada em meio à crise no Supremo Tribunal Federal (STF) em torno das investigações do caso Master.\nO embate ganhou força após o ministro André Mendonça, relator de processos ligados ao caso, retirar o sigilo de relatórios da Polícia Federal que expuseram trocas de mensagens entre o ex-banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. \nEm reação, Moraes pediu ao presidente do STF, Edson Fachin, a abertura de apuração sobre a atuação de Mendonça.\nOs desdobramentos mais recentes da crise envolvem a decisão de Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência da corporação, Leandro Almada. \nNesta quarta-feira (9), o ministro Flávio Dino derrubou a medida e determinou a recondução dos dois delegados aos cargos.\nLula durante entrevista.\nFoto: Ricardo Stuckert\nCrise institucional\nNa mensagem publicada na rede social X, o presidente afirmou que o Brasil precisa de explicações diante do que classificou como \"o maior crime financeiro da história do Brasil\".\nNa publicação, Lula também disse haver uma \"crise institucional\" que atingiu o Poder Judiciário e criticou o que chamou de \"vazamentos seletivos\" de informações. \nSegundo ele, esses vazamentos têm impacto sobre a disputa eleitoral. O petista concorre ao quarto mandato.\n\"O povo brasileiro precisa de explicações e medidas imediatas para enfrentar a crise institucional que tomou conta do Poder Judiciário\", escreveu o presidente.\n🔎O caso Master apura um suposto esquema que teria inflado artificialmente o valor do extinto Banco Master por meio de ativos e carteiras de crédito sem lastro real. Segundo a Polícia Federal, a estrutura permitia ao banco aparentar solidez financeira, captar bilhões de reais de investidores e realizar operações sem garantias compatíveis.\nNesse contexto, Lula afirmou ainda que é necessária \"mais transparência e não vazamentos seletivos\" e citou a divulgação de informações da Operação Spoofing, conduzida pelo então ministro Ricardo Lewandowski, como exemplo a ser seguido.\n🔎A Operação Spoofing foi uma investigação da Polícia Federal sobre a invasão de celulares de autoridades públicas. O caso ganhou relevância política porque mensagens obtidas pelos invasores vieram a público e alimentaram questionamentos sobre a condução da Operação Lava Jato. \nAo final da mensagem, o presidente defendeu a abertura total das informações das investigações.\n\"É urgente a quebra completa do sigilo das investigações de todos os envolvidos no caso Master, seja quem for, doa a quem doer. O Brasil precisa saber a verdade\", afirmou.",
+      "summary": "Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência\nO presidente Luiz Inácio Lula da Silva (PT) defendeu nesta quarta-feira (9) a quebra completa do sigilo das investigações relacionadas ao chamado \"caso Master\".\nNa ocasião, Lula também cobrou mais transparência sobre as apurações diante de um possível impacto à disputa eleitoral, na qual ele concorre ao quarto mandato.\nA mensagem foi publicada em meio à crise no Supremo Tribunal Federal (STF) em torno das investigações do caso Master.\nO embate ganhou força após o ministro André Mendonça, relator de processos ligados ao caso, retirar o sigilo de relatórios da Polícia Federal que expuseram trocas de mensagens entre o ex-banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. \nEm reação, Moraes pediu ao presidente do STF, Edson Fachin, a abertura de apuração sobre a atuação de Mendonça.\nOs desdobramentos mais recentes da crise envolvem a decisão de Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência da corporação, Leandro Almada. \nNesta quarta-feira (9), o ministro Flávio Dino derrubou a medida e determinou a recondução dos dois delegados aos cargos.\nLula durante entrevista.\nRicardo Stuckert\nCrise institucional\nNa mensagem publicada na rede social X, o presidente afirmou que o Brasil precisa de explicações diante do que classificou como \"o maior crime financeiro da história do Brasil\".\nNa publicação, Lula também disse haver uma \"crise institucional\" que atingiu o Poder Judiciário e criticou o que chamou de \"vazamentos seletivos\" de informações. \nSegundo ele, esses vazamentos têm impacto sobre a disputa eleitoral. O petista concorre ao quarto mandato.\n\"O povo brasileiro precisa de explicações e medidas imediatas para enfrentar a crise institucional que tomou conta do Poder Judiciário\", escreveu o presidente.\n🔎 O caso Master apura um suposto esquema que teria inflado artificialmente o valor do extinto Banco Master por meio de ativos e carteiras de crédito sem lastro real. Segundo a Polícia Federal, a estrutura permitia ao banco aparentar solidez financeira, captar bilhões de reais de investidores e realizar operações sem garantias compatíveis.\nNesse contexto, Lula afirmou ainda que é necessária \"mais transparência e não vazamentos seletivos\" e citou a divulgação de informações da Operação Spoofing, conduzida pelo então ministro Ricardo Lewandowski, como exemplo a ser seguido.\n🔎 A Operação Spoofing foi uma investigação da Polícia Federal sobre a invasão de celulares de autoridades públicas. O caso ganhou relevância política porque mensagens obtidas pelos invasores vieram a público e alimentaram questionamentos sobre a condução da Operação Lava Jato. \nAo final da mensagem, o presidente defendeu a abertura total das informações das investigações.\n\"É urgente a quebra completa do sigilo das investigações de todos os envolvidos no caso Master, seja quem for, doa a quem doer. O Brasil precisa saber a verdade\", afirmou.",
       "tags": [
         "Lula"
       ],
@@ -757,28 +779,6 @@
       "publishedRaw": "09 Sep 2026 12:16:00 -0300"
     },
     {
-      "id": "00c022ae6da5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula defende quebra completa de sigilo do caso Master como resposta à crise no Judiciário",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-quebra-completa-de-sigilo-do-caso-master-como-resposta-a-crise-no-judiciario.shtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva defendeu nesta quarta-feira (9) a quebra completa dos sigilos envolvidos nas investigações do caso Master como uma resposta à crise sem precedentes instalada na cúpula do Judiciário.\nLeia mais (09/09/2026 - 11h45)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "09 Sep 2026 11:45:00 -0300"
-    },
-    {
       "id": "562434167f80",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -821,28 +821,6 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 14:09:25 +0000"
-    },
-    {
-      "id": "3766664bb151",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado critica Lula e Flávio por Vorcaro e propõe ‘debates paralelos’ com Renan, Zema e Cury",
-      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-critica-lula-e-flavio-por-vorcaro-e-propoe-debates-paralelos-com-renan-zema-e-cury/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 13:31:13 +0000"
     },
     {
       "id": "df1b8e506856",
@@ -930,6 +908,58 @@
       "publishedRaw": "Wed, 09 Sep 2026 15:00:00 +0000"
     },
     {
+      "id": "75362c484237",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "OAB-DF levará pedido de impeachment de Moraes e Toffoli ao Conselho Federal",
+      "link": "https://www.cnnbrasil.com.br/politica/oab-df-levara-pedido-de-impeachment-de-moraes-e-toffoli-ao-conselho-federal/",
+      "summary": "Presidentes do Conselho e seccionais se reúnem nesta quarta-feira (9) para debater crise no STF",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 75,
+      "publishedRaw": "Wed, 09 Sep 2026 15:38:01 +0000"
+    },
+    {
+      "id": "22bee4d4d01b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "OAB-DF pede impeachment de Moraes e Toffoli",
+      "link": "https://www.poder360.com.br/poder-justica/oab-df-pede-impeachment-de-moraes-e-toffoli/",
+      "summary": "Seccional quer que Conselho Federal encaminhe ao Senado processos contra ministros por supostos crimes de responsabilidade",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 75,
+      "publishedRaw": "Wed, 09 Sep 2026 15:51:08 +0000"
+    },
+    {
+      "id": "93e773e9e7d8",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE proíbe propaganda e uso de adesivos de candidatos em carros de aplicativos nas eleições",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-proibe-propaganda-e-uso-de-adesivos-de-candidatos-em-carros-de-aplicativos-nas-eleicoes-nprp/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 74,
+      "publishedRaw": "Tue, 08 Sep 2026 13:45:17 +0000"
+    },
+    {
       "id": "d3468cc25d1c",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -945,21 +975,6 @@
       ],
       "score": 72,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
-    },
-    {
-      "id": "75362c484237",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "OAB-DF levará pedido de impeachment de Moraes e Toffoli ao Conselho Federal",
-      "link": "https://www.cnnbrasil.com.br/politica/oab-df-levara-pedido-de-impeachment-de-moraes-e-toffoli-ao-conselho-federal/",
-      "summary": "Presidentes do Conselho e seccionais se reúnem nesta quarta-feira (9) para debater crise no STF",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 09 Sep 2026 15:38:01 +0000"
     }
   ]
 }
