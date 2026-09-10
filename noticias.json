@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:41:41.014448+00:00",
+  "generated_at": "2026-09-10T22:14:22.864519+00:00",
   "items": [
     {
       "id": "7597345f0f62",
@@ -15,6 +15,7 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -82,6 +83,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -103,6 +105,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -110,27 +113,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 16:03:18 -0000"
-    },
-    {
-      "id": "facff36e7db7",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF volta a cancelar sessão de julgamentos; ministros se reuniriam em plenário nesta quinta",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/stf-volta-a-cancelar-sessao-de-julgamentos-prevista-para-esta-quinta.ghtml",
-      "summary": "Presidente do Supremo Tribunal Federal (STF), Edson Fachin.\nAlejandro Zambrana/STF\nA presidência do Supremo Tribunal Federal (STF) cancelou a sessão de julgamentos prevista para esta quinta-feira (10). \n\nÉ o segundo cancelamento na semana. Eles ocorrem em um momento de forte crise institucional na Corte. \n \"Tendo presente que a sessão prevista para hoje é extraordinária, assim como extraordinária é a sessão convocada para a próxima terça-feira, comunica-se o cancelamento da sessão de hoje. A sessão de terça-feira será realizada nos termos da convocação já levada a efeito\", diz comunicado da presidência do STF desta quinta.\nNa sessão desta quinta, os ministros analisariam: \n\ntrecho do Marco Civil da Internet que exige decisão judicial para acesso a dados de registro de conexão, como o endereço IP;  \nconstitucionalidade de uma lei do Amazonas que determina que 10% dos cargos comissionados e 100% dos cargos de confiança do Ministério Público do estado sejam ocupados por servidores efetivos; \npossibilidade de excluir da base de cálculo da Contribuição ao PIS e da COFINS os valores de créditos presumidos de ICMS concedidos pelos estados e pelo Distrito Federal.\nFachin convocou sessão para tratar do caso Moraes\nNa quarta-feira (9), o presidente da Suprema Corte, Edson Fachin, convocou uma sessão do plenário para a próxima terça-feira (15) para discutir o relatório da Polícia Federal (PF) feito a pedido do ministro André Mendonça que apontou uma suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro preso Daniel Vorcaro. \nNa sessão, os ministros vão discutir a validade do relatório da PF. O documento sofreu críticas de alguns ministros da Corte. Na avaliação deles, Mendonça pediu para investigar um colega sem autorização do plenário.\nOs ministros também vão decidir sobre o pedido de nulidade da Procuradoria-Geral da República (PGR) e devem definir se será aberta ou arquivada investigação contra Moraes.\nA PGR argumentou que Mendonça não deveria ter solicitado apuração sobre o destinatário das mensagens do ex-banqueiro, sem um pedido do Ministério Público ou da própria PF, e também que a competência para decidir sobre a eventual apuração envolvendo Moraes é do plenário do STF.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 15:32:48 -0000"
     },
     {
       "id": "4c1b8be32845",
@@ -145,6 +127,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -166,6 +149,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -188,6 +172,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -196,6 +181,50 @@
       ],
       "score": 90,
       "publishedRaw": "10 Sep 2026 18:21:00 -0300"
+    },
+    {
+      "id": "5bd8c7a53566",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "CNBB prega apuração no STF e sessão pública: “Verdade fortalece democracia”",
+      "link": "https://www.cnnbrasil.com.br/politica/cnbb-prega-apuracao-no-stf-e-sessao-publica-verdade-fortalece-democracia/",
+      "summary": "Organização diz acompanhar crise na Corte \"com preocupação\" e defendeu a criação de um Código de Ética para o Supremo",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 21:52:36 +0000"
+    },
+    {
+      "id": "c26113d4668d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "The Economist: Confiança da sociedade brasileira no STF está se desgastando",
+      "link": "https://www.estadao.com.br/politica/the-economist-confianca-da-sociedade-brasileira-no-stf-esta-se-desgastando/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 21:59:36 +0000"
     },
     {
       "id": "b0303595c4ee",
@@ -210,6 +239,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -231,6 +261,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -252,6 +283,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -272,6 +304,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -293,6 +326,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -314,6 +348,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -335,6 +370,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -358,6 +394,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -380,6 +417,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -387,6 +425,29 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 21:04:10 +0000"
+    },
+    {
+      "id": "b72c437e5224",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos envia ao STF pedido de quebra de sigilo do inquérito das fake news e INSS",
+      "link": "https://www.estadao.com.br/politica/eleicoes/renan-santos-envia-ao-stf-pedido-de-quebra-de-sigilo-do-inquerito-das-fake-news-e-inss/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 10 Sep 2026 21:58:35 +0000"
     },
     {
       "id": "9d3d639ad53d",
@@ -513,27 +574,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
-      "id": "07014c0519d9",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "g1 20 anos: férias na Lua, robôs e IA substituindo o celular podem fazer parte da sua vida até 2046",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/g1-20-anos-como-fica-a-tecnologia.ghtml",
-      "summary": "Como será a tecnologia até 2046? Robôs, IA e até férias na Lua podem fazer parte do futuro\nOrkut, Twitter, a expansão da internet banda larga, Walkman, celulares com câmera digital e CyberShot estavam entre os temas que dominavam o noticiário de tecnologia em 2006, ano em que o g1 foi criado. Vinte anos depois, muita coisa mudou.\nHoje, falamos de inteligência artificial, assistimos a praticamente qualquer conteúdo pela internet e vivemos cercados por redes sociais e seus algoritmos. Para os próximos anos, podemos esperar avanços que até pouco tempo pareciam distantes, como novas viagens à Lua e robôs atuando como assistentes pessoais dentro e fora de casa.\n📺 No vídeo especial acima, veja os temas que podem moldar o futuro da tecnologia e da inovação nos próximos anos — e que você poderá acompanhar no g1.\nPara entender o que esperar do futuro, o g1 conversou com Ronaldo Lemos, fundador e diretor do Instituto de Tecnologia e Sociedade do Rio de Janeiro (ITS-Rio) e especialista em tecnologia e inovação.\nEspecial 20 anos de g1\nRelembre em VÍDEO as primeiras grandes coberturas do site\nMariana, Brumadinho e Covid-19: relembre em VÍDEO as tragédias e crises que marcaram os 20 anos do g1\nNave Starship, da SpaceX, durante seu 12º voo\nReuters/Steve Nesius\ng1 20 anos: relembre em vídeo as primeiras grandes coberturas\ng1 20 anos: HIV - O caminho da cura",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 10 Sep 2026 05:00:00 -0000"
-    },
-    {
       "id": "5ced05940e18",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -591,13 +631,31 @@
       "publishedRaw": ""
     },
     {
+      "id": "85489762b58c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF suspeita que ao menos R$ 750 mil de verbas públicas foram desviadas para produtora que fez filme sobre Bolsonaro",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-suspeita-que-ao-menos-r-750-mil-de-verbas-publicas-foram-desviadas-para-produtora-que-fez-filme-sobre-bolsonaro.ghtml",
+      "summary": "Karina Gama, produtora do filme 'Dark Horse', e o deputado Mario Frias (PL-SP) são alvos de ação da Polícia Federal, que cumpre mandados de busca nesta quinta-feira (10).\nReprodução e Câmara dos Deputados\nA Polícia Federal suspeita que pelo menos R$ 750 mil de verbas públicas federais de emendas parlamentares destinadas ao Instituto Conhecer Brasil (ICB) foram trianguladas para financiar a produtora Go Up Entertainment Ltda., responsável pelo filme \"Dark Horse\", cinebiografia do ex-presidente Jair Bolsonaro (PL).\nNesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em operação relacionada ao financiamento do filme. Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) foram alvos da ação. Duas entidades de propriedade de Karina também teve buscas de agentes da PF: o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC).\nO senador e candidato à Presidência Flávio Bolsonaro (PL), filho do ex-presidente, sempre afirmou que não foram utilizados recursos públicos no filme. Ele não é investigado neste inquérito.\nSegundo o relatório da Polícia Federal, o esquema investigado envolve o repasse total de R$ 2 milhões em emendas parlamentares do deputado federal Mário Frias (PL-SP) ao ICB, que presta diversos serviços.\nNo primeiro convênio, de R$ 1 milhão, o ICB contratou duas empresas ligadas ao grupo empresarial de Heric Fabiano Dias: a Dinâmica Editora (R$ 400 mil) e o Instituto Super Poder Educacional (R$ 300 mil), repassando-lhes aproximadamente R$ 700 mil sob justificativa de fornecer kits pedagógicos.\nNa sequência das transações, a empresa NTT Brasil Ltda., também administrada por Heric Dias, efetuou um repasse único de R$ 750.000,00 para a conta corrente da Go Up Entertainment Ltda.\nConforme ressalta o relatório da investigação, \"tais fatos chamam a atenção porque a Go Up Entertainment é a empresa responsável pelo filme Dark Horse, acerca da trajetória do ex-presidente Jair Bolsonaro, que tem como produtor executivo o deputado federal Mário Frias\".\nAs filmagens do longa-metragem foram realizadas em São Paulo entre 20 de outubro e 7 de dezembro de 2025, intervalo no qual a Go Up registrou movimentação financeira atípica de R$ 19.033.071,00. \n \"Chama a atenção a coincidência temporal das gravações com o período da referida comunicação, bem como a natureza das despesas, que envolvem hotel de alto padrão e refeições, além de despesas com produtoras\", diz a PF no relatório.\nRelatório da PF sobre suspeita de desvio de verbas parlamentares\nReprodução\nNo mesmo intervalo de menos de 60 dias, o próprio deputado Mário Frias efetuou transferências pessoais que somaram R$ 645.400,00 para a Go Up Entertainment.\nPara a Polícia Federal e a Controladoria-Geral da União (CGU), há indícios de que os contratos do ICB com as empresas do grupo de Heric Dias foram simulados mediante pesquisas de preços fraudadas para desviar verbas públicas e, posteriormente, reinserir R$ 750 mil na produtora para custear a obra audiovisual.\nA TV Globo entrou em contato com a defesa de Karina Ferreira da Gama, mas ainda não obteve resposta.\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários e disse acreditar que o caso será arquivado.\n🎥 O filme \"Dark Horse\" (termo em inglês para \"azarão\") passou a ser alvo de investigações após reportagens revelarem que a produção teria sido financiada por Daniel Vorcaro, dono do extinto Banco Master. Ele está preso em Brasília. \nOutras emendas\nDino derruba sigilo de ação sobre Dark Horse\nA Polícia Federal (PF) aponta que, além do deputado federal Mario Frias, os parlamentares Marcos Pollon (PL-MS) e Bia Kicis (PL-DF) também assinaram emendas parlamentares para uma organização presidida por Karina Gama.\nA Academia Nacional de Cultura (ANC), organização também presidida por Karina, foi indicada como beneficiária de R$ 1 milhão em emendas destinadas por Marcos Pollon; e R$ 150 mil destinadas por Bia Kicis. Esses valores, porém, não foram efetivamente pagos.\nA PF destaca que Marcos Pollon é eleito pelo Mato Grosso do Sul, e Bia Kicis pelo Distrito Federal. As emendas analisadas, porém, foram destinadas ao estado de São Paulo.\nEssa diferença entre o estado pelo qual os parlamentares foram eleitos e o local que recebeu os recursos, segundo os investigadores, pode indicar descumprimento das regras que exigem uma relação entre a origem da emenda e o estado beneficiado.\nOperação 'Make Up'\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução\nO ministro Flávio Dino autorizou o cumprimento de mandados de busca e apreensão no âmbito da Operação Make Up, realizada conjuntamente pela Polícia Federal e pela Controladoria-Geral da União (CGU).\nA ação cumpriu 49 mandados de busca e apreensão em São Paulo, Rio de Janeiro, Ceará e no Distrito Federal. \nDino é o responsável por autorizar esse tipo de ação porque ele é o relator de processos no Supremo que investigam irregularidades no repasse desses recursos públicos, enviados por parlamentares para suas bases eleitorais.\nO ministro também determinou a aplicação de medidas cautelares contra Mario Frias, proibindo o parlamentar de deixar o país e de manter qualquer contato com os demais investigados no inquérito que apura desvios de recursos públicos oriundos de emendas parlamentares.\nPolícia Federal mira Mario Frias e produtora de Dark Horse",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 10 Sep 2026 21:36:35 -0000"
+    },
+    {
       "id": "8a96ecabd48a",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
       "title": "PF identifica R$ 1,4 milhão de Frias e de empresa investigada para produtora de filme sobre Bolsonaro",
       "link": "https://g1.globo.com/politica/noticia/2026/09/10/pf-identifica-r-14-milhao-de-frias-e-empresa-investigada-para-produtora-de-filme-sobre-bolsonaro.ghtml",
-      "summary": "Veja a cronologia das investigações sobre 'Dark Horse'\nA Polícia Federal identificou transferências de R$ 645,4 mil feitas pelo deputado federal Mário Frias (PL-SP) e de outros R$ 750 mil pela NTT Brasil à Go Up Entertainment, produtora responsável por “Dark Horse”, filme sobre o ex-presidente Jair Bolsonaro (PL). Os repasses somam cerca de R$ 1,4 milhão.\nAs informações constam da decisão em que o ministro Flávio Dino, do Supremo Tribunal Federal (STF), autorizou buscas realizadas pela PF nesta quinta-feira (10), em investigação sobre suspeitas de desvio de emendas parlamentares destinadas a entidades ligadas à produtora.\nFrias fez as transferências em menos de dois meses no fim de 2025, e o volume dos repasses levou a PF a questionar seu “lastro financeiro”. A PF chamou atenção para o volume dos repasses feitos por Frias e afirmou que seus rendimentos mensais, de R$ 44.008,52, colocam “em questão o lastro financeiro” para transferências de R$ 645,4 mil em um intervalo inferior a 60 dias. \nSegundo a PF, o repasse de R$ 750 mil feito pela NTT Brasil à Go Up Entertainment chama a atenção pela proximidade com os R$ 700 mil recebidos do ICB por outras duas empresas do mesmo grupo empresarial: a Dinâmica Editora e o Instituto Super Poder Educacional. O ICB é uma ONG que recebeu emenda parlamentar de Mário Frias e subcontratou as duas empresas no âmbito de um termo de fomento.\nAs movimentações ocorreram no período em que “Dark Horse” era filmado em São Paulo: as gravações foram realizadas entre 20 de outubro e 7 de dezembro de 2025.\nO deputado Mário Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nA NTT Brasil é administrada pelo empresário Heric Dias e, de acordo com a investigação, está ligada a um grupo empresarial que inclui fornecedores contratados pelo Instituto Conhecer Brasil (ICB). O instituto é presidido por Karina Gama, que também é dona da Go Up.\n“Destaca-se, ainda, o envio de R$ 645.400,00 para a Go Up pelo próprio Deputado Federal Mário Frias, cujos rendimentos mensais alcançam a monta de R$ 44.008,52, colocando em questão o lastro financeiro para dar suporte às transferências feitas para a pessoa jurídica de Karina Gama no curto espaço de menos de sessenta dias”, afirmou a PF no relatório.\nNo período analisado, entre 10 de novembro e 30 de dezembro de 2025, a Go Up movimentou cerca de R$ 19 milhões: foram R$ 8,9 milhões em créditos e R$ 10 milhões em débitos. As operações constam de comunicação financeira analisada pela PF e foram classificadas como atípicas.\nA empresária Karina Ferreira Gama, dona da Go Up Entertainment LTDA e do Instituto Conhecer Brasil, que recebeu dinheiro do deputado Mário Frias (PL).\nReprodução/Redes Sociais\nEntre os principais destinatários dos recursos movimentados pela produtora aparecem o Hotel Unique, que recebeu R$ 906,7 mil, e a Foodflix Alimentação, com R$ 653,1 mil. A PF também identificou pagamentos a empresas que atuam na área de produção.\nOs investigadores destacaram a natureza dessas despesas — que incluíam hospedagem em hotel de alto padrão, alimentação e serviços de produtoras — e a coincidência temporal entre parte das movimentações financeiras e as gravações de “Dark Horse”.\nRepasse da NTT\nA PF aponta uma possível conexão indireta entre recursos relacionados ao ICB, empresas vinculadas ao grupo empresarial de Heric Dias, a NTT Brasil e a Go Up Entertainment.\nSegundo os investigadores, a Dinâmica Editora e o Instituto Super Poder Educacional, apontados como integrantes do mesmo grupo empresarial, receberam juntos cerca de R$ 700 mil do ICB no âmbito do Termo de Fomento nº 971232. Posteriormente, a NTT Brasil, administrada por Heric Dias, transferiu R$ 750 mil à Go Up.\nA investigação também identificou vínculos anteriores entre pessoas ligadas ao grupo de Heric e Mário Frias. Luiza Tessari Dias, mulher do empresário, doou R$ 70 mil à campanha do deputado em 2022, segundo dados do TSE citados pela PF.\nA própria PF ressalva, porém, que os elementos disponíveis não permitem afirmar que os R$ 750 mil transferidos pela NTT tenham origem direta nos recursos recebidos do ICB. Para os investigadores, a coincidência entre os valores e a proximidade temporal das operações são circunstâncias relevantes para a análise financeira.\n“No que concerne ao presente caso, como já se destacou em tópico próprio, tais fatos se tornam relevantes na medida em que, no mesmo período, a NTT Brasil de Heric Dias enviou R$ 750.000,00 para a Go Up Entertainment, valor quase que exatamente correspondente aos R$ 700.000,00 que a Dinâmica Editora e o Instituto Super Poder Educacional, do mesmo grupo empresarial, receberam do ICB no escopo do Termo de Fomento n.º 971232, cujo objeto somente veio a ter tentativas de execução em 2026, portanto, após o período ora tratado”, afirmou a PF.\nInvestigação sobre emendas\nMário Frias e outros investigados foram alvo de uma operação da Polícia Federal nesta quinta-feira (10), que apura suspeitas de desvio de recursos públicos destinados por meio de emendas parlamentares. A decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), autorizou buscas contra mais de 50 investigados.\nA apuração teve início a partir de irregularidades identificadas na execução de emendas parlamentares destinadas, entre outras entidades, ao Instituto Conhecer Brasil (ICB), presidido por Karina Gama. Frias destinou R$ 2 milhões ao instituto por meio de duas emendas parlamentares.\nSegundo a PF, parte dos recursos foi repassada pelo ICB a empresas contratadas para a execução dos projetos. A investigação identificou vínculos entre alguns desses fornecedores, empresários ligados a eles e pessoas próximas a Frias.\nA investigação passou a analisar também movimentações financeiras envolvendo a Go Up Entertainment. A PF apura uma possível conexão entre recursos relacionados ao ICB, empresas contratadas pela entidade e valores posteriormente enviados à produtora de “Dark Horse”.",
+      "summary": "Veja a cronologia das investigações sobre 'Dark Horse'\nA Polícia Federal identificou transferências de R$ 645,4 mil feitas pelo deputado federal Mário Frias (PL-SP) e de outros R$ 750 mil pela NTT Brasil à Go Up Entertainment, produtora responsável por “Dark Horse”, filme sobre o ex-presidente Jair Bolsonaro (PL). Os repasses somam cerca de R$ 1,4 milhão.\nAs informações constam da decisão em que o ministro Flávio Dino, do Supremo Tribunal Federal (STF), autorizou buscas realizadas pela PF nesta quinta-feira (10), em investigação sobre suspeitas de desvio de emendas parlamentares destinadas a entidades ligadas à produtora.\nFrias fez as transferências em menos de dois meses no fim de 2025, e o volume dos repasses levou a PF a questionar seu “lastro financeiro”. A PF chamou atenção para o volume dos repasses feitos por Frias e afirmou que seus rendimentos mensais, de R$ 44.008,52, colocam “em questão o lastro financeiro” para transferências de R$ 645,4 mil em um intervalo inferior a 60 dias. \nSegundo a PF, também chama atenção a proximidade entre o repasse de R$ 750 mil feito pela NTT Brasil à Go Up Entertainment e os R$ 700 mil pagos pelo Instituto Conhecer Brasil (ICB), de Karina Ferreira da Gama, produtora de \"Dark Horse\", a outras duas empresas do mesmo grupo empresarial: a Dinâmica Editora e o Instituto Super Poder Educacional. O ICB é uma ONG que recebeu emenda parlamentar de Mário Frias e subcontratou as duas empresas no âmbito de um termo de fomento.\nAs movimentações ocorreram no período em que o filme sobre Jair Bolsonaro era filmado em São Paulo: as gravações foram realizadas entre 20 de outubro e 7 de dezembro de 2025.\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários e disse acreditar que o caso será arquivado.\nO deputado Mário Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nA NTT Brasil é administrada pelo empresário Heric Dias e, de acordo com a investigação, está ligada a um grupo empresarial que inclui fornecedores contratados pelo Instituto Conhecer Brasil (ICB). O instituto é presidido por Karina Gama, que também é dona da Go Up.\nNo período analisado, entre 10 de novembro e 30 de dezembro de 2025, a Go Up movimentou cerca de R$ 19 milhões: foram R$ 8,9 milhões em créditos e R$ 10 milhões em débitos. As operações constam de comunicação financeira analisada pela PF e foram classificadas como atípicas.\nA empresária Karina Ferreira Gama, dona da Go Up Entertainment LTDA e do Instituto Conhecer Brasil, que recebeu dinheiro do deputado Mário Frias (PL).\nReprodução/Redes Sociais\nEntre os principais destinatários dos recursos movimentados pela produtora aparecem o Hotel Unique, que recebeu R$ 906,7 mil, e a Foodflix Alimentação, com R$ 653,1 mil. A PF também identificou pagamentos a empresas que atuam na área de produção.\nOs investigadores destacaram a natureza dessas despesas — que incluíam hospedagem em hotel de alto padrão, alimentação e serviços de produtoras — e a coincidência temporal entre parte das movimentações financeiras e as gravações de “Dark Horse”.\nRepasse da NTT\nA PF aponta uma possível conexão indireta entre recursos relacionados ao ICB, empresas vinculadas ao grupo empresarial de Heric Dias, a NTT Brasil e a Go Up Entertainment.\nSegundo os investigadores, a Dinâmica Editora e o Instituto Super Poder Educacional, apontados como integrantes do mesmo grupo empresarial, receberam juntos cerca de R$ 700 mil do ICB no âmbito do Termo de Fomento nº 971232. Posteriormente, a NTT Brasil, administrada por Heric Dias, transferiu R$ 750 mil à Go Up.\nA investigação também identificou vínculos anteriores entre pessoas ligadas ao grupo de Heric e Mário Frias. Luiza Tessari Dias, mulher do empresário, doou R$ 70 mil à campanha do deputado em 2022, segundo dados do TSE citados pela PF.\nA própria PF ressalva, porém, que os elementos disponíveis não permitem afirmar que os R$ 750 mil transferidos pela NTT tenham origem direta nos recursos recebidos do ICB. Para os investigadores, a coincidência entre os valores e a proximidade temporal das operações são circunstâncias relevantes para a análise financeira.\n“No que concerne ao presente caso, como já se destacou em tópico próprio, tais fatos se tornam relevantes na medida em que, no mesmo período, a NTT Brasil de Heric Dias enviou R$ 750.000,00 para a Go Up Entertainment, valor quase que exatamente correspondente aos R$ 700.000,00 que a Dinâmica Editora e o Instituto Super Poder Educacional, do mesmo grupo empresarial, receberam do ICB no escopo do Termo de Fomento n.º 971232, cujo objeto somente veio a ter tentativas de execução em 2026, portanto, após o período ora tratado”, afirmou a PF.\nInvestigação sobre emendas\nMário Frias e outros investigados foram alvo de uma operação da Polícia Federal nesta quinta-feira (10), que apura suspeitas de desvio de recursos públicos destinados por meio de emendas parlamentares. A decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), autorizou buscas contra mais de 50 investigados.\nA apuração teve início a partir de irregularidades identificadas na execução de emendas parlamentares destinadas, entre outras entidades, ao Instituto Conhecer Brasil (ICB), presidido por Karina Gama. Frias destinou R$ 2 milhões ao instituto por meio de duas emendas parlamentares.\nSegundo a PF, parte dos recursos foi repassada pelo ICB a empresas contratadas para a execução dos projetos. A investigação identificou vínculos entre alguns desses fornecedores, empresários ligados a eles e pessoas próximas a Frias.\nA investigação passou a analisar também movimentações financeiras envolvendo a Go Up Entertainment. A PF apura uma possível conexão entre recursos relacionados ao ICB, empresas contratadas pela entidade e valores posteriormente enviados à produtora de “Dark Horse”.",
       "tags": [
         "Bolsonaro"
       ],
@@ -791,21 +849,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 10 Sep 2026 19:15:45 -0000"
-    },
-    {
-      "id": "9e7fa91549e8",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Renan Santos pede fim do sigilo de inquérito das fake news e caso INSS",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/campanha-de-renan-santos-pede-fim-do-sigilo-de-inquerito-das-fake-news-e-caso-inss.shtml",
-      "summary": "A campanha do candidato à Presidência Renan Santos (Missão) pedirá nesta quinta-feira (10) o levantamento do sigilo do inquérito das fake news e dos processos relacionados à Operação Sem Desconto, que apura fraudes em descontos de aposentadorias e pensões do INSS.\nLeia mais (09/10/2026 - 17h27)",
-      "tags": [
-        "Renan Santos"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "10 Sep 2026 17:27:00 -0300"
     },
     {
       "id": "0dc897de62e7",
