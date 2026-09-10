@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:13:01.518969+00:00",
+  "generated_at": "2026-09-10T19:40:28.765860+00:00",
   "items": [
     {
       "id": "3e089b657755",
@@ -17,6 +17,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -63,6 +64,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -274,26 +276,28 @@
       "publishedRaw": "Thu, 10 Sep 2026 09:44:29 -0000"
     },
     {
-      "id": "92eea9dde314",
+      "id": "d72c1b432d32",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Pugilato judicial no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/pugilato-judicial-no-stf.shtml",
-      "summary": "A providencial intervenção do presidente do STF, Edson Fachin, serviu para conter as cenas de pugilato judicial entre ministros da corte. É um primeiro passo necessário, mas fica ainda muito aquém de uma estratégia de saída para a crise em que as mais altas autoridades da Justiça do país se enredaram. Serão necessárias também medidas de curto e de longo prazo, sobre cuja viabilidade sou pouco otimista.\nLeia mais (09/10/2026 - 15h06)",
+      "title": "PT defenderá mandato para ministros do STF após crise na corte pressionar campanha de Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-defendera-mandato-para-ministros-do-stf-apos-crise-na-corte-pressionar-campanha-de-lula.shtml",
+      "summary": "O PT defenderá, em resolução política, a ideia de mandatos para ministros do STF (Supremo Tribunal Federal). O tema já aparecia em discussões internas do partido, mas ainda não havia sido endossada pela cúpula da legenda. O movimento é feito enquanto uma crise sem precedentes no Supremo pressiona a campanha de reeleição do presidente Lula (PT).\nLeia mais (09/10/2026 - 16h34)",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "10 Sep 2026 15:06:00 -0300"
+      "publishedRaw": "10 Sep 2026 16:34:00 -0300"
     },
     {
       "id": "dd5f6a05243c",
@@ -316,6 +320,50 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 18:25:41 +0000"
+    },
+    {
+      "id": "2fc7d3e82ae0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pronunciamento de Moraes deve ser feito na segunda-feira, véspera da sessão do STF; leia bastidor",
+      "link": "https://www.estadao.com.br/politica/pronunciamento-de-moraes-deve-ser-feito-na-segunda-feira-vespera-da-sessao-do-stf-leia-bastidor/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 19:23:02 +0000"
+    },
+    {
+      "id": "c2f6da610592",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "ONGs pedem pressão da OCDE sobre STF contra decisão de Toffoli que anulou provas da Lava Jato",
+      "link": "https://www.estadao.com.br/politica/ongs-pedem-pressao-da-ocde-sobre-stf-contra-decisao-de-toffoli-que-anulou-provas-da-lava-jato/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 19:28:26 +0000"
     },
     {
       "id": "00cbc120a345",
@@ -382,28 +430,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 15:41:22 +0000"
-    },
-    {
-      "id": "b636351c8647",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "A perigosa sobreposição de decisões no STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-perigosa-sobreposicao-de-decisoes-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 15:00:00 +0000"
     },
     {
       "id": "f982a08c8589",
@@ -536,6 +562,46 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:40:22 -0000"
     },
     {
+      "id": "27ef7de6627e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro chama operação da PF sobre emendas para filme de ‘interferência política’ de Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-de-dino-nprp/",
+      "summary": "Operação da PF investiga supostos desvios de dinheiro público para a produção de “Dark Horse”, biografia de Jair Bolsonaro",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
+    },
+    {
+      "id": "7597345f0f62",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Crise do Supremo traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles",
+      "link": "https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consiga recuperar a força que a Michelle Bolsonaro tinha deixado em cima da mesa'.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 10 Sep 2026 19:37:40 GMT"
+    },
+    {
       "id": "5ced05940e18",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -570,11 +636,56 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 15:59:44 -0000"
+    },
+    {
+      "id": "bd76d620435c",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Número de novas CNHs cresce 17% após governo Lula flexibilizar regras para 1ª emissão",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/numero-de-novas-cnhs-cresce-17-apos-governo-lula-flexibilizar-regras-para-1a-emissao.shtml",
+      "summary": "A emissão de CNH (Carteira Nacional de Habilitação) para novos motoristas aumentou 17,1% de janeiro a agosto de 2026 em comparação ao mesmo período do ano passado, segundo dados do Ministério dos Transportes divulgados nesta quinta-feira (10). Ao todo, cerca de 2 milhões de condutores foram habilitados.\nLeia mais (09/10/2026 - 16h23)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "10 Sep 2026 16:23:00 -0300"
+    },
+    {
+      "id": "d7efa73c90ec",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AtlasIntel/Bloomberg: 45,9% temem mais eleição de Flávio; 45%, de Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlasintel-bloomberg-459-temem-mais-eleicao-de-flavio-45-de-lula/",
+      "summary": "Levantamento ouviu 5.000 eleitores pelo Brasil entre os dias 4 e 9 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 19:09:03 +0000"
     },
     {
       "id": "b5407457f0a9",
@@ -590,6 +701,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -611,6 +723,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -632,6 +745,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -653,33 +767,13 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 17:46:03 +0000"
-    },
-    {
-      "id": "410b1a354e7b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula dá indireta e chama Ciro Nogueira de ‘vira-lata’ em comício no Piauí",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-da-indireta-e-chama-ciro-nogueira-de-vira-lata-em-comicio-no-piaui/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 13:15:41 +0000"
     },
     {
       "id": "b059e21a17a2",
@@ -716,6 +810,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -737,6 +832,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -854,6 +950,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -875,6 +972,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -926,15 +1024,34 @@
       "category": "Política",
       "title": "Ronaldo Caiado é internado em hospital de SP para tratar faringite aguda",
       "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/ronaldo-caiado-e-internado-em-hospital-de-sp-para-tratar-faringite-aguda.ghtml",
-      "summary": "Candidato à presidência Ronaldo Caiado (PSD) em visita à Campinas (SP) nesta terça-feira (8)\nReprodução/EPTV\nO candidato à Presidência da República pelo Partido Social Democrático (PSD), Ronaldo Caiado, foi internado na manhã desta quinta-feira (10) no Hospital Vila Nova Star, na capital paulista, em função de uma faringite aguda.\nSegundo nota à imprensa, Caiado foi hospitalizado para receber medicação intravenosa. O objetivo é acelerar a recuperação para que ele possa retomar o mais breve possível os compromissos da agenda de campanha.\nAgenda cancelada\nA agenda de Caiado desta quinta-feira (10) foi cancelada, segundo a assessoria do candidato. Ele participaria, às 19h, da Sabatina Inteligência LTDA, em São Paulo. O compromisso também foi cancelado.\nMais cedo, a visita que Caiado faria às 10h ao Centro de Inteligência, Comunicação e Monitoramento da Guarda Civil Municipal (CICOM), em Vinhedo, no interior de São Paulo, já havia sido cancelada.",
+      "summary": "Candidato à presidência Ronaldo Caiado (PSD) em visita à Campinas (SP) nesta terça-feira (8)\nReprodução/EPTV\nO candidato à Presidência da República pelo Partido Social Democrático (PSD), Ronaldo Caiado, foi internado na manhã desta quinta-feira (10) no Hospital Vila Nova Star, na capital paulista, em função de uma faringite aguda.\nSegundo nota à imprensa, Caiado foi hospitalizado para receber medicação intravenosa. O objetivo é acelerar a recuperação para que ele possa retomar o mais breve possível os compromissos da agenda de campanha.\nAgenda cancelada\nA agenda de Caiado desta quinta-feira (10) foi cancelada, segundo a assessoria do candidato. Ele participaria, às 19h, da Sabatina Inteligência LTDA, em São Paulo.\nMais cedo, a visita que Caiado faria às 10h ao Centro de Inteligência, Comunicação e Monitoramento da Guarda Civil Municipal (CICOM), em Vinhedo, no interior de São Paulo, já havia sido cancelada.\nAgora no g1",
       "tags": [
         "Ronaldo Caiado"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 69,
+      "score": 74,
       "publishedRaw": "Thu, 10 Sep 2026 17:44:22 -0000"
+    },
+    {
+      "id": "057daccdbe1c",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ronaldo Caiado é internado em São Paulo com faringite aguda",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ronaldo-caiado-e-internado-em-sao-paulo-com-faringite-aguda.shtml",
+      "summary": "O candidato à Presidência Ronaldo Caiado (PSD) foi internado nesta quinta-feira (10) no Hospital Vila Nova Star, em São Paulo, para tratar uma faringite aguda.\nLeia mais (09/10/2026 - 16h17)",
+      "tags": [
+        "Ronaldo Caiado"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "10 Sep 2026 16:17:00 -0300"
     },
     {
       "id": "c76838add48f",
@@ -948,9 +1065,10 @@
         "Ronaldo Caiado"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 69,
+      "score": 74,
       "publishedRaw": "Thu, 10 Sep 2026 18:03:28 +0000"
     },
     {
@@ -960,7 +1078,7 @@
       "category": "Internacional",
       "title": "Rússia atrai estrangeiros com empregos falsos para lutar na Ucrânia, diz Anistia Internacional",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/10/russia-atrai-estrangeiros-com-empregos-falsos-para-lutar-na-ucrania-diz-anistia-internacional.ghtml",
-      "summary": "Rússia volta a atacar Kiev poucas horas após a saída dos enviados americanos da capital ucraniana.\nA Rússia engana estrangeiros de países como Brasil, Colômbia e Cuba para recrutá-los para a guerra na Ucrânia, denunciou a Anistia Internacional nesta quinta-feira (10). A organização ouviu prisioneiros de guerra que afirmaram ter assinado contratos militares com Moscou após serem atraídos ao país.\nAlém de brasileiros e colombianos, entre as vítimas estão cidadãos do Sri Lanka e da África do Sul. Segundo a organização de defesa dos direitos humanos, alguns foram atraídos para a Rússia por meio de falsas ofertas de emprego e obrigados a se alistar depois de chegarem ao país.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEm junho, uma investigação da AFP também revelou que Moscou recorria a promessas de empregos bem remunerados no setor civil para recrutar quenianos que acabavam enviados para lutar no front.\n“O sofrimento relacionado (...) a essa internacionalização da guerra afeta comunidades e indivíduos muito vulneráveis em todo o mundo”, afirmou à AFP Agnès Callamard, secretária-geral da Anistia Internacional, por ocasião da publicação do relatório.\nAté o momento, as autoridades russas não se pronunciaram publicamente sobre as acusações da Anistia Internacional.\nMoscou e Kiev recrutam estrangeiros para seus Exércitos desde o início da invasão russa da Ucrânia, há quatro anos e meio.\nEm abril, a Ucrânia estimou que mais de 28 mil estrangeiros de 136 países combatiam nas Forças Armadas russas. Segundo as autoridades ucranianas, esse número não inclui cerca de 14 mil soldados norte-coreanos que lutaram contra as forças de Kiev durante a ofensiva ucraniana na região russa de Kursk, em 2024.\nA Ucrânia também recruta combatentes estrangeiros, mas a Anistia afirmou que não conseguiu entrevistar aqueles mantidos presos na Rússia porque a organização foi classificada por Moscou como “agente estrangeiro”.\nNem Rússia nem Ucrânia divulgaram o número total de estrangeiros que combatem em suas Forças Armadas.\n“Obviamente, há muitas pessoas que trabalham para o Estado russo e sabem que aqueles que estão sendo recrutados para serem enviados à linha de frente são vítimas de tráfico”, afirmou Callamard. “São cúmplices desse fenômeno e deveriam prestar contas”, acrescentou.\nSegundo ela, a Rússia costuma buscar no exterior homens com menos de 40 anos, principalmente em países mais pobres, e atraí-los com a “promessa de um emprego”.\nA Rússia já rejeitou anteriormente acusações de que obrigaria estrangeiros a se alistar em suas Forças Armadas.\nO presidente russo Vladimir Putin conversa com representantes de agências de notícias internacionais durante o Fórum Econômico Internacional de São Petersburgo, na Rússia.\nAP/Dmitri Lovetsky\n“Bucha de canhão”\nSegundo a Anistia Internacional, anúncios de emprego publicados na internet, muitas vezes para vagas que não existem, estão entre os principais métodos usados pelos recrutadores para atrair estrangeiros.\n“E então começa a coerção. Seus passaportes são confiscados. Eles são obrigados a assinar documentos que não entendem. São submetidos a treinamentos que não entendem” e depois enviados para a linha de frente, explicou Callamard.\n“Basicamente, são bucha de canhão”, resumiu a secretária-geral da Anistia Internacional.\nUm caminhoneiro sul-africano, por exemplo, foi convidado a viajar para Moscou para trabalhar como motorista. Assim que chegou, segundo o relatório, “confiscaram tudo” o que ele tinha.\nOs recrutadores também têm como alvo estrangeiros que vivem de forma irregular na Rússia. A eles, são oferecidas autorizações de residência ou até a cidadania russa em troca do alistamento, segundo a organização.\nDurante uma visita supervisionada a um centro de detenção na Ucrânia, em fevereiro, a AFP ouviu relatos semelhantes de prisioneiros estrangeiros que haviam lutado pela Rússia.\nVários deles afirmaram que foram instruídos a assinar contratos que não compreendiam e receberam treinamentos muito básicos. Também relataram dificuldades para se comunicar com os superiores por causa da barreira linguística.\nSegundo a definição das Nações Unidas, tráfico de pessoas é o recrutamento, transporte ou alojamento de pessoas por meio de fraude, engano ou abuso de poder para fins de exploração.\nCallamard afirmou que o crime envolve o “deslocamento de pessoas”, o uso de “meios coercitivos, falsas promessas e violência” e uma “situação de exploração”.\nA secretária-geral da Anistia pediu à Ucrânia e aos governos dos países cujos cidadãos foram alvo do sistema de recrutamento que apresentem provas do possível “tráfico de pessoas” para que os responsáveis sejam processados.\nEmbora tenha reconhecido que essas investigações provavelmente não serão uma prioridade para a Ucrânia, Callamard recomendou que Kiev apure os casos.\n“Além disso, isso demonstraria que a Ucrânia tem valores e uma abordagem muito diferentes dos da Rússia”, afirmou.",
+      "summary": "Rússia volta a atacar Kiev poucas horas após a saída dos enviados americanos da capital ucraniana.\nA Rússia engana estrangeiros de países como Brasil, Colômbia e Cuba para recrutá-los para a guerra na Ucrânia, denunciou a Anistia Internacional nesta quinta-feira (10). A organização ouviu prisioneiros de guerra que afirmaram ter assinado contratos militares com Moscou após serem atraídos ao país.\nAlém de brasileiros e colombianos, entre as vítimas estão cidadãos do Sri Lanka e da África do Sul. Segundo a organização de defesa dos direitos humanos, alguns foram atraídos para a Rússia por meio de falsas ofertas de emprego e obrigados a se alistar depois de chegarem ao país.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEm junho, uma investigação da AFP também revelou que Moscou recorria a promessas de empregos bem remunerados no setor civil para recrutar quenianos que acabavam enviados para lutar no front.\n“O sofrimento relacionado (...) a essa internacionalização da guerra afeta comunidades e indivíduos muito vulneráveis em todo o mundo”, afirmou à AFP Agnès Callamard, secretária-geral da Anistia Internacional, por ocasião da publicação do relatório.\nAté o momento, as autoridades russas não se pronunciaram publicamente sobre as acusações da Anistia Internacional.\nMoscou e Kiev recrutam estrangeiros para seus Exércitos desde o início da invasão russa da Ucrânia, há quatro anos e meio.\nLEIA TAMBÉM\nRússia bombardeia shopping na Ucrânia e deixa mortos e feridos\nAvião de Zelensky quase é atingido por drone a caminho de Oslo, diz premiê da Noruega\nEuropa sob pressão: 'guerra de drones' entre Rússia e Ucrânia já afetou mais de 20 países; MAPA\nEm abril, a Ucrânia estimou que mais de 28 mil estrangeiros de 136 países combatiam nas Forças Armadas russas. Segundo as autoridades ucranianas, esse número não inclui cerca de 14 mil soldados norte-coreanos que lutaram contra as forças de Kiev durante a ofensiva ucraniana na região russa de Kursk, em 2024.\nA Ucrânia também recruta combatentes estrangeiros, mas a Anistia afirmou que não conseguiu entrevistar aqueles mantidos presos na Rússia porque a organização foi classificada por Moscou como “agente estrangeiro”.\nNem Rússia nem Ucrânia divulgaram o número total de estrangeiros que combatem em suas Forças Armadas.\n“Obviamente, há muitas pessoas que trabalham para o Estado russo e sabem que aqueles que estão sendo recrutados para serem enviados à linha de frente são vítimas de tráfico”, afirmou Callamard. “São cúmplices desse fenômeno e deveriam prestar contas”, acrescentou.\nSegundo ela, a Rússia costuma buscar no exterior homens com menos de 40 anos, principalmente em países mais pobres, e atraí-los com a “promessa de um emprego”.\nA Rússia já rejeitou anteriormente acusações de que obrigaria estrangeiros a se alistar em suas Forças Armadas.\nO presidente russo Vladimir Putin conversa com representantes de agências de notícias internacionais durante o Fórum Econômico Internacional de São Petersburgo, na Rússia.\nAP/Dmitri Lovetsky\n“Bucha de canhão”\nSegundo a Anistia Internacional, anúncios de emprego publicados na internet, muitas vezes para vagas que não existem, estão entre os principais métodos usados pelos recrutadores para atrair estrangeiros.\n“E então começa a coerção. Seus passaportes são confiscados. Eles são obrigados a assinar documentos que não entendem. São submetidos a treinamentos que não entendem” e depois enviados para a linha de frente, explicou Callamard.\n“Basicamente, são bucha de canhão”, resumiu a secretária-geral da Anistia Internacional.\nUm caminhoneiro sul-africano, por exemplo, foi convidado a viajar para Moscou para trabalhar como motorista. Assim que chegou, segundo o relatório, “confiscaram tudo” o que ele tinha.\nOs recrutadores também têm como alvo estrangeiros que vivem de forma irregular na Rússia. A eles, são oferecidas autorizações de residência ou até a cidadania russa em troca do alistamento, segundo a organização.\nDurante uma visita supervisionada a um centro de detenção na Ucrânia, em fevereiro, a AFP ouviu relatos semelhantes de prisioneiros estrangeiros que haviam lutado pela Rússia.\nVários deles afirmaram que foram instruídos a assinar contratos que não compreendiam e receberam treinamentos muito básicos. Também relataram dificuldades para se comunicar com os superiores por causa da barreira linguística.\nSegundo a definição das Nações Unidas, tráfico de pessoas é o recrutamento, transporte ou alojamento de pessoas por meio de fraude, engano ou abuso de poder para fins de exploração.\nCallamard afirmou que o crime envolve o “deslocamento de pessoas”, o uso de “meios coercitivos, falsas promessas e violência” e uma “situação de exploração”.\nA secretária-geral da Anistia pediu à Ucrânia e aos governos dos países cujos cidadãos foram alvo do sistema de recrutamento que apresentem provas do possível “tráfico de pessoas” para que os responsáveis sejam processados.\nEmbora tenha reconhecido que essas investigações provavelmente não serão uma prioridade para a Ucrânia, Callamard recomendou que Kiev apure os casos.\n“Além disso, isso demonstraria que a Ucrânia tem valores e uma abordagem muito diferentes dos da Rússia”, afirmou.",
       "tags": [
         "anistia"
       ],
@@ -984,6 +1102,21 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:23:01 +0000"
     },
     {
+      "id": "044672efc4f2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos defende fim da autonomia nas universidades e critica gestão das instituições públicas",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/renan-santos-defende-fim-da-autonomia-nas-universidades-e-critica-gestao-das-instituicoes-publicas.ghtml",
+      "summary": "Renan Santos participou de evento na Amcham Brasil.\nReprodução/TV Globo\nRenan Santos, candidato à Presidência pelo Missão, defendeu o fim da autonomia universitária após criticar a gestão das universidades públicas brasileiras. Ele participou de um evento na Câmara Americana de Comércio (Amcham Brasil), em São Paulo, nesta quinta-feira (10).\nSegundo Renan, o país gasta no ensino superior valores semelhantes aos de países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), mas não obtém resultados proporcionais. Para ele, o problema está na forma como os recursos são administrados.\n“O Brasil gasta no ensino superior tanto quanto as nações da OCDE. E por que que a gente não produz nada? Porque a gente gasta mal. A gestão das universidades públicas brasileiras é uma porcaria”, afirmou.\nO candidato disse que pretende acabar com o que chamou de “autonomia universitária” para fazer com que as instituições públicas estejam submetidas ao que considera serem os interesses da população.\n“A autonomia universitária faz com que reitores de universidades administrem a universidade como ele quer, mas se o povo brasileiro está pagando por universidade pública, a universidade pública tem que ceder ao interesse do povo brasileiro”, disse.\nAgora no g1\nRenan afirmou que, em um eventual governo, pretende direcionar recursos para áreas como pesquisa, extensão, produção de tecnologia, saúde, biotecnologia e inteligência artificial. Como exemplos, citou Israel, Singapura, China e Japão.\n“A universidade se submete ao interesse popular, já que o dinheiro é do povo e é isso que nós vamos fazer do nosso governo”, declarou.\nFies e ProUni\nO candidato também defendeu a restrição e a reformulação do financiamento estudantil público. Ele criticou os modelos atuais do Fundo de Financiamento Estudantil (Fies) e do Programa Universidade para Todos (ProUni).\nSegundo o candidato, os programas acabam levando estudantes a universidades privadas de baixa qualidade e, no caso do financiamento, gerando endividamento.\n“No ensino médio, o foco [será] no ensino técnico. E políticas como ProUni e Fies, que pegam alunos que saiam semialfabetizados das escolas e os coloca uma universidade privada ruim, endividando eles. Eles ganham um diploma e depois vão fazer Uber. Isso vai acabar”, afirmou.\nRenan disse que apenas universidades privadas que considerar “muito boas” deverão receber financiamento público.\nEle ainda defendeu a ampliação do ensino técnico já no ensino médio. Ele citou o modelo educacional da Alemanha, onde, segundo ele, metade dos estudantes deixa a escola com formação técnica. “Todo mundo acha lindo o modelo alemão. É lindo. 50% dos estudantes saem com o ensino técnico já do ensino médio, prontos para ter um emprego”, afirmou.\nPara Renan, o país passou a valorizar excessivamente a obtenção de diplomas universitários sem que isso tenha resultado em aumento proporcional da produtividade.\n“Aqui no Brasil, venderam para o brasileiro de maneira malandra que basta ter um diploma que tudo vai dar certo. Não foi o que aconteceu. As pessoas conseguiram mais diplomas nos últimos anos, só que a nossa produtividade e todos os índices internacionais demonstram isso, ela ficou estagnada perante o mundo. Ou seja, a gente gastou dinheiro, mas não obteve nenhum ganho com isso.\"",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Thu, 10 Sep 2026 19:15:45 -0000"
+    },
+    {
       "id": "f4e435b92ab2",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -997,21 +1130,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "10 Sep 2026 15:45:00 -0300"
-    },
-    {
-      "id": "8ea8b9ce8742",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Especialistas e empresários defendem reforma tributária em carta-manifesto a candidatos à Presidência da República",
-      "link": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/10/especialistas-e-empresarios-defendem-reforma-tributaria-em-carta-manifesto-a-candidatos-a-presidencia-da-republica.ghtml",
-      "summary": "Cerca de 100 especialistas, acadêmicos, empresários e ex-autoridades da área econômica e tributária divulgaram uma carta-manifesto aos candidatos à Presidência da República em defesa da reforma tributária sobre o consumo, promulgada em dezembro de 2023.\nEntre os signatários, estão:\nArmínio Fraga, ex-presidente do Banco Central; \nAndrea Calabi, ex-presidente do Banco do Brasil e do Banco Nacional de Desenvolvimento (BNDES); \no empresário Jorge Gerdau; \nMaílson da Nóbrega, ex-ministro da Fazenda; \nVanessa Canado, ex-assessora especial do Ministério da Economia para reforma tributária no governo do ex-preidente Jair Bolsonaro; e \nRodrigo Maia, ex-presidente da Câmara dos Deputados.\n🔎Veja a lista dos economistas que subscreveram a carta-manifesto no fim dessa reportagem.\nAgora no g1\nNo documento, eles avaliam que a reforma tributária, atualmente em fase de implementação, representa um \"grande avanço institucional que corrige distorções que prejudicam sobremaneira a produtividade, a competitividade e o potencial de crescimento de nosso país\". \n\"Nesse contexto, propostas que defendam sua revogação ou suspensão são vistas com grande preocupação, pois geram insegurança e comprometem os benefícios esperados da reforma\", acrescentam eles, na carta-manifesto.\nSegundo o documento, o modelo de IVA Dual (CBS e IBS), novos impostos sobre o consumo não cumulativos do governo federal, estados e municípios, que substituirão outros tributos, como PIS, Cofins, ICMS e ISS, \"incorpora o que há de melhor na experiência internacional de tributação de bens e serviços\". \n\"O modelo brasileiro introduz várias inovações relevantes, possíveis graças ao nosso avanço tecnológico na gestão de documentos fiscais eletrônicos e de meios eletrônicos de pagamento\", observam os analistas. \nSegundo eles, a reforma tributária permitirá:\nsimplificar a estrutura tributária, reduzindo custos para as empresas e desestimulando o contencioso tributário, que resulta da complexidade do sistema atual;\ndesonerar totalmente os investimentos e as exportações, através da eliminação da incidência cumulativa e das restrições ao ressarcimento de saldos credores acumulados que caracterizam o sistema tributário atual;\ncorrigir distorções na forma de organização da produção, que reduzem a produtividade e dificultam o crescimento do Brasil;\nreduzir a sonegação e as fraudes, viabilizando menores alíquotas para os novos tributos, beneficiando os bons contribuintes;\ntornar o sistema mais progressivo, através da devolução de parcela dos tributos para as famílias de baixa renda, e mais transparente, explicitando o custo dos tributos para os consumidores;\nimplementar a tributação no destino, eliminando a guerra fiscal entre os entes da federação;\ncriar um novo modelo de política de desenvolvimento regional, substituindo o regime distorcido e ineficiente baseado em incentivos fiscais pouco transparentes; e\nfortalecer o pacto federativo e garantir a autonomia dos estados e municípios para que estabeleçam, de forma transparente e em diálogo com seus cidadãos, o nível de tributação adequado às necessidades e prioridades de cada jurisdição.\nLula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado, Augusto Cury e Romeu Zema: candidatos à Presidência da República\nDivulgação\nAperfeiçoamento\nNo documento, os especialistas admitem que há \"custos de transição\" na reforma tributária, mas acrescentam que, em sua visão, os \"efeitos de longo prazo da Reforma Tributária são inequivocamente positivos\". \nA expectativa do Ministério da Fazenda é de que a reforma impulsione o PIB em até 20,2% em 15 anos por conta do aumento da produtividade e dos investimentos.\n\"O debate democrático sobre seu aperfeiçoamento é legítimo e necessário, mas pode ocorrer ao longo do processo de implementação. Divergências sobre algumas características do novo modelo tributário não podem ser utilizadas como justificativa para reabrir a discussão sobre a Reforma Tributária ou interromper sua efetivação. Isso geraria insegurança para as empresas e entes federativos que já estão implementando as mudanças necessárias e investindo recursos para adaptação ao novo regime\", acrescentaram os analistas.\nPara eles, a reforma é uma \"conquista do Estado brasileiro, não de um governo ou partido político específico\". Analisam que ela foi \"construída democraticamente e aprovada pelo Congresso Nacional, após profundas discussões envolvendo os entes federativos e os diferentes setores da sociedade\". \n\"Por essas razões, convencidos de que estamos todos unidos em buscar o melhor para o Brasil, pedimos respeitosamente seu apoio para a continuidade da implementação da Reforma Tributária do Consumo\", concluem.\nO que dizem os candidatos à Presidência\nLuiz Inácio Lula da Silva (PT): Candidato avalia, em seu plano de governo, que a reforma tributária amplia a transparência, acaba com a cumulatividade e  elimina a guerra fiscal entre os entes subnacionais. Diz, ainda, que a cesta básica ficará isenta  desses impostos e os mais pobres terão direito a um mecanismo de cashback, o que favorece a progressividade tributária. Em um eventual novo mandato, afirma que buscará assegurar tratamento tributário justo na implementação da reforma tributária e estimular  uma cultura de inovação tecnológica e inserção exportadora. \nFlavio Bolsonaro (PL): Em seu programa de governo, candidato promete promover a \"revisão e o redimensionamento da reforma tributária e a \"majoração\" de impostos efetuada pelo atual governo. \"Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto\", diz, no documento.\nAugusto Cury (Avante): No plano de governo, candidato diz que irá avaliar os impactos da reforma tributária sobre os diferentes setores da economia, com especial atenção às micro e pequenas empresas e aos segmentos estratégicos para o desenvolvimento e a geração de empregos. \"Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários, respeitando os princípios constitucionais e a segurança jurídica\".\nRonaldo Caiado (PSD): Candidato diz, em seu plano de governo, que a carga tributária já é elevada e que o \"sistema permanece complexo\". Promete criar regime tributário estável  para bens de capital e serviços de data center, coerente com a reforma tributária, condicionado a energia nova e renovável, eficiência hídrica com métricas públicas e resfriamento de ciclo fechado, reserva de  capacidade para universidades, pesquisa e empresas brasileiras, qualificação e emprego local e investimento na rede elétrica.\nRenan Santos (Missão): Plano de governo não traz uma menção específica à reforma tributária. Cita, porém, a reforma do funcionalismo público com fim dos supersalários, mudanças nas emendas parlamentares, redução das isenções fiscais e uma nova lei complementar das finanças públicas. Diz que essas propostas já deverão estar presentes em um projeto de PEC de Transição [Equilíbrio Fiscal], que terá por objetivo substituir o arcabouço fiscal por um \"novo modelo mais inteligente.\nRomeu Zema (Novo): Candidato promete, em seu plano de governo, assegurar uma \"implementação eficaz\" da reforma tributária. Objetivo seria evitar que a\tregulamentação \"replique a complexidade do\tsistema atual por meio de burocracias desnecessárias, regimes especiais, exceções e tratamentos favorecidos, garantindo monitoramento técnico transparência\tsobre impactos setoriais e compromisso verificável de neutralidade da carga tributária\".\nEspecialistas que assinaram a carta-manifesto\nAfonso Arinos: Professor e pesquisador da FGV/EPGE\nAlexandre Manoel: Consultor e pesquisador associado do FGV IBRE\nAlexandre Schwartsman: Ex-diretor do Banco Central do Brasil e consultor\nAlexis Fonteyne: Ex-deputado federal e empresário\nAmaury Rezende: Professor titular da USP/FEARP\nAna Carla Abrão Costa: Economista\nAna Paula Vescovi: Ex-secretária do Tesouro Nacional e consultora \nAndrea Calabi: Professor FEA-USP, Ph.D. Berkeley, pesquisador Fipe. Foi Secretário do Tesouro Nacional, Secretário de Fazenda do Estado de São Paulo e Presidente do Banco do Brasil e do BNDES\nÂngelo de Angelis: Ex-auditor fiscal, economista e consultor\nAod Cunha: Ex-secretário da Fazenda do Rio Grande do Sul\nArmando Monteiro Neto: Ex-Senador e Ex-Presidente da CNI\nArmínio Fraga: Economista, ex-presidente do Banco Central do Brasil\nBernard Appy: Economista, ex-secretário da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nBráulio Borges: Economista-sênior da LCA e pesquisador-associado do FGV IBRE\nCamilla Cavalcanti: Ex-diretora da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nCarlos Eugenio da Costa: Professor e pesquisador da FGV/EPGE\nCésar Mattos: Economista e consultor da Câmara\nCiro Biderman: Diretor do FGV Cidades\nCleveland Prates: Ex-conselheiro do CADE e consultor\nCristiane Alkmin Junqueira Schmidt: Economista e Professora da FGV\nCristina Pinotti: Economista e consultora\nDaniel Loria: Ex-diretor da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nDécio Padilha: Ex-secretário da Fazenda de Pernambuco\nEduardo Fleury: Advogado e economista, ex-consultor do Banco Mundial\nElena Landau: Advogada e economista, ex-diretora do BNDES\nErnesto Lozardo: Professor de economia da EAESP-FGV e ex-presidente do IPEA\nEurico de Santi: Professor e coordenador do NEF da FGV Direito SP e diretor do CCiF\nFábio Colletti Barbosa: Administrador e executivo\nFábio Giambiagi: Ex-superintendente de Planejamento do BNDES e exconsultor do BID\nFelipe Salto: Ex-diretor-executivo da IFI, ex-secretário da Fazenda e Planejamento de São Paulo, economista-chefe\nFernando de Holanda Barbosa: Professor da FGV/EPGE\nFernando de Holanda Barbosa Filho: Professor e pesquisador do FGV/IBRE\nFernando Valente Pimentel: Representante de setor empresarial\nGeorge Bezerra: Ex-economista da CNI e professor de economia\nGiovanni Padilha: Auditor fiscal da Receita Estadual na Sefaz-RS\nHaroldo Ferreira: Representante de setor empresarial\nHelcio Tokeshi: Economista, ex-secretário da Fazenda do Estado de São Paulo e ex-secretário de Acompanhamento Econômico do Ministério da Fazenda\nHeleno Torres: Professor Titular de Direito Financeiro da Faculdade de Direito da USP e advogado\nHorácio Lafer Piva: Empresário\nIdarilho Gonçalves Nascimento Neto: Representante de setor empresarial\nIsaías Coelho: Pesquisador do Núcleo de Estudos Fiscais da FGV Direito SP\nJoão Batista Ferreira Dornellas: Representante de setor empresarial\nJorge Arbache: Professor de Economia da UnB e ex-economista sênior do Banco Mundial\nJorge Gerdau Johannpeter: Empresário\nJorge Jatobá: Ex-secretário de Política de Emprego e Salário do Ministério do Trabalho e secretário da Fazenda de Pernambuco, professor titular aposentado da UFPE\nJosé Augusto de Castro: Representante de setor empresarial\nJosé Ricardo Roriz Coelho: Representante de setor empresarial \nJosé Roberto Mendonça de Barros: Ex-secretário de Política Econômica do Ministério da Fazenda e ex-secretário-executivo da Câmara de Comércio Exterior da Presidência da República\nJosé Teófilo Oliveira: Ex-secretário da Fazenda do Espírito Santo\nJosé Velloso Dias Cardoso: Representante de setor empresarial\nJosué Gomes da Silva: Empresário, ex-presidente da FIESP\nJosué Pellegrini: Ex-diretor da IFI\nLeonardo Alvim: Procurador da Fazenda Nacional, coordenador do Comitê Tributário da Câmara de Segurança Jurídica da AGU\nLeonel Pessoa: Professor da FGV Direito SP\nLuiz Carlos Hauly: Deputado Federal\nLuiz Henrique Braido: Professor e pesquisador da FGV/EPGE\nMaílson da Nóbrega: Economista, ex-ministro da Fazenda no período 1988- 1990\nManoel Procópio Moura Júnior: Ex-diretor da Secretaria Extraordinária da Reforma Tributária\nMarcelo Chara: Representante de setor empresarial\nMarcelo Portugal: Professor titular da Universidade Federal do Rio Grande do Sul\nMarcio Ferreira Verdi: Secretário-executivo do CIAT\nMárcio Holland: Professor da EESP/FGV e ex-secretário de Política Econômica\nMarco Polo de Mello Lopes: Representante de setor empresarial\nMarcos Mendes: Doutor em economia e pesquisador associado do Insper\nMarcus Pestana: Diretor-executivo da Instituição Fiscal Independente (IFI)\nMaria Carolina Gontijo: Advogada tributarista, professora e dona do perfil Duquesa de Tax nas redes sociais\nMaria Helena Zockun: Diretora de pesquisas da FIPE\nMario Engler: Professor da FGV Direito SP\nMario Ramos Ribeiro: Professor titular da UFPA\nMário Sérgio Carraro Telles: Mestre em economia pelo CEDEPLAR/UFMG\nMarta Arretche: Cientista política, professora titular do Departamento de Ciência Política da USP\nMartus Tavares: Ex-ministro do Planejamento\nMiguel Abuhab: Engenheiro e empresário global na área de tecnologia\nNelson Machado: Diretor do Centro de Cidadania Fiscal. Ex-ministro da Previdência Social\nOtaviano Canuto: Ex-vice-presidente e diretor executivo no Banco Mundial, ex-diretor executivo no FMI e ex-vice-presidente no BID\nPaulo Camilla Penna: Representante de setor empresarial\nPaulo Tafner: Economista e diretor presidente do IMDS\nPedro Cavalcanti: Professor e pesquisador da FGV/EPGE\nPedro Fernando Nery: Professor de Economia do IDP\nPedro Humberto Bruno de Carvalho Junior: Economista e pesquisador em política tributária\nPedro Passos: Empresário\nPedro Wongtschowski: Empresário\nRaul Velloso: Economista e presidente do INAE\nRenato Baumann: Economista do IPEA e professor da UnB\nRenato Fragelli Cardoso: Professor e pesquisador da FGV-EPGE\nRenato Villela: Ex-secretário da Fazenda de SP e RJ\nRicardo Varsano: Consultor de política tributária, ex-economista sênior do FMI e ex-diretor de pesquisa do Ipea\nRodrigo Maia: Ex-presidente da Câmara dos Deputados\nRozane Siqueira: Professora titular do Departamento de Economia da UFPE\nSamuel Pessôa: Economista e pesquisador do FGV IBRE \nSérgio Gobetti: Pesquisador do IPEA, ex-secretário adjunto de Política Fiscal e Tributária da SPE/Ministério da Fazenda\nSérgio Prado: Professor livre-docente do Instituto de Economia da Universidade Estadual de Campinas\nSilvia Mattos: Professora e Pesquisadora do FGV/IBRE\nSynésio Batista da Costa: Representante de setor empresarial\nTatiana Ribeiro: Diretora Executiva do Movimento Brasil Competitivo, entidade que reúne mais de 80 empresas\nVander Lucas: Professor da Universidade de Brasília\nVanessa Rahal Canado: Professora do Insper e ex-assessora especial do Ministro da Economia para assuntos relacionados à reforma tributária\nZeina Abdel Latif: Economista e Consultora da Gibraltar Consulting",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Thu, 10 Sep 2026 12:13:47 -0000"
     }
   ]
 }
