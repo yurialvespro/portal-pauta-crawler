@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:40:28.765860+00:00",
+  "generated_at": "2026-09-10T20:14:58.721375+00:00",
   "items": [
     {
       "id": "3e089b657755",
@@ -19,8 +19,7 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 94,
       "publishedRaw": "Thu, 10 Sep 2026 17:38:06 +0000"
@@ -40,10 +39,9 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 94,
       "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
@@ -66,8 +64,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 94,
       "publishedRaw": "Thu, 10 Sep 2026 09:19:35 GMT"
@@ -91,8 +88,7 @@
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 93,
       "publishedRaw": "Thu, 10 Sep 2026 18:45:11 +0000"
@@ -113,8 +109,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 16:34:01 -0000"
@@ -135,8 +130,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 16:03:18 -0000"
@@ -157,8 +151,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 15:32:48 -0000"
@@ -179,8 +172,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 14:51:35 -0000"
@@ -201,8 +193,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 14:12:16 -0000"
@@ -225,8 +216,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 12:36:54 -0000"
@@ -247,8 +237,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 14:55:41 -0000"
@@ -269,11 +258,31 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 09:44:29 -0000"
+    },
+    {
+      "id": "547669ad3fbf",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF teve decisões conflitantes, troca de acusações e operação policial em 10 dias; veja cronologia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-teve-decisoes-conflitantes-troca-de-acusacoes-e-operacao-policial-em-10-dias-veja-cronologia.shtml",
+      "summary": "O presidente do STF (Supremo Tribunal Federal), o ministro Edson Fachin, marcou para a próxima terça-feira (15) uma sessão plenária para analisar o relatório que aponta Alexandre de Moraes como interlocutor do ex-banqueiro Daniel Vorcaro, do Banco Master, e o pedido de nulidade do documento feito pela PGR (Procuradoria-Geral da República).\nLeia mais (09/10/2026 - 16h44)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "10 Sep 2026 16:44:00 -0300"
     },
     {
       "id": "d72c1b432d32",
@@ -293,20 +302,19 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "10 Sep 2026 16:34:00 -0300"
     },
     {
-      "id": "dd5f6a05243c",
+      "id": "c09602d1fa36",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "The Economist diz que STF se tornou uma ameaça à democracia no Brasil",
-      "link": "https://www.cnnbrasil.com.br/internacional/the-economist-diz-que-stf-se-tornou-uma-ameaca-a-democracia-no-brasil/",
-      "summary": "Artigo repercute crise no Supremo Tribunal Federal e disputa envolvendo os ministros Alexandre de Moraes e André Mendonça",
+      "title": "PT decide pedir mandato no STF em reunião de emergência sobre crise",
+      "link": "https://www.cnnbrasil.com.br/politica/pt-decide-pedir-mandato-no-stf-em-reuniao-de-emergencia-sobre-crise/",
+      "summary": "Partido convocou executiva nacional para discutir crise e orientar reação para campanha de Lula",
       "tags": [
         "STF"
       ],
@@ -315,11 +323,31 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 18:25:41 +0000"
+      "publishedRaw": "Thu, 10 Sep 2026 19:57:04 +0000"
+    },
+    {
+      "id": "3b5bce9030ad",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Como será o julgamento no STF sobre pedido de investigação contra Moraes? Veja dúvidas e respostas",
+      "link": "https://www.estadao.com.br/politica/como-sera-o-julgamento-no-stf-sobre-pedido-de-investigacao-contra-moraes-veja-duvidas-e-respostas-npr/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 19:52:11 +0000"
     },
     {
       "id": "2fc7d3e82ae0",
@@ -337,8 +365,7 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 19:23:02 +0000"
@@ -359,8 +386,7 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 19:28:26 +0000"
@@ -381,55 +407,10 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 18:22:50 +0000"
-    },
-    {
-      "id": "7834ab7e7325",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Senador pede sessão para acompanhar debate sobre Moraes no STF e pressionar Alcolumbre a abrir CPI",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/senador-pede-sessao-para-acompanhar-debate-sobre-moraes-no-stf-e-pressionar-alcolumbre-a-abrir-cpi/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 16:49:49 +0000"
-    },
-    {
-      "id": "aebfa47f64db",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin cancela plenária do STF por causa de sessão marcada para analisar investigação contra Moraes",
-      "link": "https://www.estadao.com.br/politica/fachin-cancela-plenaria-do-stf-por-causa-de-sessao-marcada-para-analisar-investigacao-contra-moraes/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 15:41:22 +0000"
     },
     {
       "id": "f982a08c8589",
@@ -447,8 +428,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 10:27:41 GMT"
@@ -469,8 +449,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:16:07 GMT"
@@ -491,8 +470,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": ""
@@ -513,93 +491,30 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 09:34:33 GMT"
     },
     {
-      "id": "3015afb34a0d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba o que o STF deixou de analisar com crise na Corte",
-      "link": "https://www.poder360.com.br/poder-justica/saiba-o-que-o-stf-deixou-de-analisar-com-crise-na-corte/",
-      "summary": "Presidente do Supremo, Edson Fachin, cancelou as sessões de 4ª feira (9.set) e 5ª feira (10.set) para evitar juntar todos os ministros no plenário",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 18:24:20 +0000"
-    },
-    {
-      "id": "77430f6a3bc4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caso 'Dark Horse': ex-marqueteiro de Flávio Bolsonaro enviou R$ 1 milhão a produtora do filme",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-ex-marqueteiro-de-flavio-bolsonaro-enviou-r-1-milhao-a-produtora.ghtml",
-      "summary": "Veja a cronologia das investigações sobre 'Dark Horse'\nA Polícia Federal apontou ao Supremo Tribunal Federal (STF) que o ex-marqueteiro do candidato à Presidência da República pelo PL, Flávio Bolsonaro, fez um repasse de R$ 1 milhão para a Go Up Entertainment, empresa produtora do filme \"Dark Horse\" — que narra a trajetória política de Jair Bolsonaro (PL).\nSegundo a PF, dados do Conselho de Atividade Financeira (Coaf) apontam \"movimentações consideradas atípicas\" em contas correntes da empresa entre novembro de 2025 e dezembro de 2025.\nEntre essas transações está o repasse de Marcello de Oliveira Lopes, que em maio deixou a coordenação de comunicação da campanha do senador à Presidência da República. Lopes é amigo pessoal de Flávio Bolsonaro. \nO relatório consta na decisão do ministro Flávio Dino, do STF, que autorizou a Operação Make Up, deflagrada nesta quinta-feira (10). \nO deputado Mario Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nO relatório do Coaf reproduzido na decisão do ministro Flávio Dino afirma que a empresa movimentou R$ 19 milhões no período analisado, sendo R$ 8,9 milhões a crédito e R$ 10 milhões a débito. Entre os principais repasses estão Lopes e o deputado Mario Frias. \n\"Figuram, dentre os principais remetentes de recursos para a empresa, a Moneycorp Banco de Câmbio S.A., que enviou R$ 3.920.976,40, a GO7 Assessoria, Produção e Marketing Cultural Eireli, responsável por transferências que totalizaram R$ 2.614.000, Marcello de Oliveira Lopes, que remeteu R$ 1.000.000, a NTT Brasil Ltda., que enviou R$ 750.000,00 e o deputado Federal Mario Frias, que realizou transferências no montante de R$ 645.400\", diz a PF.\nA Go Up Entertainment é responsável pelo filme \"Dark Horse\", que tem Mario Frias como produtor executivo. Segundo informações disponíveis publicamente, as gravações ocorreram em São Paulo entre 20 de outubro e 7 de dezembro de 2025.\nKarina Gama é sócia da Go Up. Ela também foi alvo de buscas nesta quinta.\nA PF destaca que as movimentações financeiras analisadas ocorreram, portanto, durante parte do período em que o filme estava sendo produzido.\nAlém das transferências recebidas, os investigadores identificaram despesas da Go Up com hotel de alto padrão, refeições e serviços de outras produtoras.\nCrise com Vorcaro\nLopes atuava nos bastidores da pré-campanha de Flávio. Ele deixou a equipe em meio às críticas à reação da campanha após a divulgação de mensagens e notícias sobre um encontro de Flávio com o banqueiro Daniel Vorcaro, dono do extinto Banco Master. O episódio aumentou a pressão sobre a equipe de comunicação.\nNa época, Lopes afirmou que a saída partiu dele próprio e disse que pretende focar na própria empresa.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 10 Sep 2026 16:40:22 -0000"
-    },
-    {
-      "id": "27ef7de6627e",
+      "id": "0d2477dd2b0d",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro chama operação da PF sobre emendas para filme de ‘interferência política’ de Dino",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-de-dino-nprp/",
-      "summary": "Operação da PF investiga supostos desvios de dinheiro público para a produção de “Dark Horse”, biografia de Jair Bolsonaro",
+      "title": "Mercado de previsão proibido no Brasil registra 40 tipos de apostas nos resultados das eleições 2026",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mercado-de-previsao-proibido-no-brasil-registra-40-tipos-de-apostas-nos-resultados-das-eleicoes-2026/",
+      "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Economia",
+        "G1 - Mundo"
       ],
-      "score": 87,
-      "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
-    },
-    {
-      "id": "7597345f0f62",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Crise do Supremo traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles",
-      "link": "https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consiga recuperar a força que a Michelle Bolsonaro tinha deixado em cima da mesa'.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 10 Sep 2026 19:37:40 GMT"
+      "score": 86,
+      "publishedRaw": "Thu, 10 Sep 2026 19:39:21 +0000"
     },
     {
       "id": "5ced05940e18",
@@ -615,7 +530,7 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Mundo"
       ],
       "score": 86,
@@ -637,8 +552,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 15:59:44 -0000"
@@ -659,8 +573,7 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "10 Sep 2026 16:23:00 -0300"
@@ -681,33 +594,10 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 19:09:03 +0000"
-    },
-    {
-      "id": "b5407457f0a9",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AtlasIntel/Bloomberg: 52,5% rejeitam votar em Lula; 49,6%, em Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/atlasintel-bloomberg-525-rejeitam-votar-em-lula-496-em-flavio/",
-      "summary": "Pesquisa ouviu 5.000 eleitores pelo Brasil entre os dias 4 e 9 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 18:46:37 +0000"
     },
     {
       "id": "053c05cee43b",
@@ -725,8 +615,7 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 18:01:04 +0000"
@@ -747,193 +636,29 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 13:28:25 +0000"
     },
     {
-      "id": "4b913544483c",
-      "source": "Estadão",
+      "id": "77430f6a3bc4",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "‘Trump que se meta com o país dele’, diz Lula durante ato político no Piauí",
-      "link": "https://www.estadao.com.br/politica/eleicoes/trump-que-se-meta-com-o-pais-dele-diz-lula-durante-ato-politico-no-piaui-nprp/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 17:46:03 +0000"
-    },
-    {
-      "id": "b059e21a17a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
-      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
+      "title": "Caso 'Dark Horse': ex-marqueteiro de Flávio Bolsonaro enviou R$ 1 milhão a produtora do filme",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/10/caso-dark-horse-ex-marqueteiro-de-flavio-bolsonaro-enviou-r-1-milhao-a-produtora.ghtml",
+      "summary": "Veja a cronologia das investigações sobre 'Dark Horse'\nA Polícia Federal apontou ao Supremo Tribunal Federal (STF) que o ex-marqueteiro do candidato à Presidência da República pelo PL, Flávio Bolsonaro, fez um repasse de R$ 1 milhão para a Go Up Entertainment, empresa produtora do filme \"Dark Horse\" — que narra a trajetória política de Jair Bolsonaro (PL).\nSegundo a PF, dados do Conselho de Atividade Financeira (Coaf) apontam \"movimentações consideradas atípicas\" em contas correntes da empresa entre novembro de 2025 e dezembro de 2025.\nEntre essas transações está o repasse de Marcello de Oliveira Lopes, que em maio deixou a coordenação de comunicação da campanha do senador à Presidência da República. Lopes é amigo pessoal de Flávio Bolsonaro. \nO relatório consta na decisão do ministro Flávio Dino, do STF, que autorizou a Operação Make Up, deflagrada nesta quinta-feira (10). \nO deputado Mario Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nO relatório do Coaf reproduzido na decisão do ministro Flávio Dino afirma que a empresa movimentou R$ 19 milhões no período analisado, sendo R$ 8,9 milhões a crédito e R$ 10 milhões a débito. Entre os principais repasses estão Lopes e o deputado Mario Frias. \n\"Figuram, dentre os principais remetentes de recursos para a empresa, a Moneycorp Banco de Câmbio S.A., que enviou R$ 3.920.976,40, a GO7 Assessoria, Produção e Marketing Cultural Eireli, responsável por transferências que totalizaram R$ 2.614.000, Marcello de Oliveira Lopes, que remeteu R$ 1.000.000, a NTT Brasil Ltda., que enviou R$ 750.000,00 e o deputado Federal Mario Frias, que realizou transferências no montante de R$ 645.400\", diz a PF.\nA Go Up Entertainment é responsável pelo filme \"Dark Horse\", que tem Mario Frias como produtor executivo. Segundo informações disponíveis publicamente, as gravações ocorreram em São Paulo entre 20 de outubro e 7 de dezembro de 2025.\nKarina Gama é sócia da Go Up. Ela também foi alvo de buscas nesta quinta.\nA PF destaca que as movimentações financeiras analisadas ocorreram, portanto, durante parte do período em que o filme estava sendo produzido.\nAlém das transferências recebidas, os investigadores identificaram despesas da Go Up com hotel de alto padrão, refeições e serviços de outras produtoras.\nCrise com Vorcaro\nLopes atuava nos bastidores da pré-campanha de Flávio. Ele deixou a equipe em meio às críticas à reação da campanha após a divulgação de mensagens e notícias sobre um encontro de Flávio com o banqueiro Daniel Vorcaro, dono do extinto Banco Master. O episódio aumentou a pressão sobre a equipe de comunicação.\nNa época, Lopes afirmou que a saída partiu dele próprio e disse que pretende focar na própria empresa.",
       "tags": [
         "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": ""
-    },
-    {
-      "id": "c4f04e39ab28",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula é aprovado por 44% e desaprovado por 54%, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-aprovado-por-44-e-desaprovado-por-54-diz-pesquisa/",
-      "summary": "Levantamento AtlasIntel ouviu 5.000 eleitores do Brasil de 4 a 9 de setembro; margem de erro é de 1 ponto percentual",
-      "tags": [
-        "Lula"
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "Estadão"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 18:36:42 +0000"
-    },
-    {
-      "id": "db36d3107997",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 46,4% e Lula, 46,2% no 2º turno, diz AtlasIntel",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-464-e-lula-462-no-2o-turno-diz-atlasintel/",
-      "summary": "Levantamento feito de 4 a 9 de setembro mostra empate técnico entre os 2; margem de erro é de 1 p.p.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 18:16:04 +0000"
-    },
-    {
-      "id": "ca5dd43e981d",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Produtora de filme sobre Bolsonaro comprou carro SUV com R$ 100 mil em dinheiro vivo e disparou alerta do Coaf",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/produtora-de-filme-sobre-bolsonaro-comprou-carro-suv-com-r-100-mil-em-dinheiro-vivo-e-disparou-alerta-do-coaf.ghtml",
-      "summary": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nKarina Ferreira da Gama, produtora do filme \"Dark Horse\", sobre o ex-presidente Jair Bolsonaro, comprou um SUV híbrido pelo qual pagou R$ 102.190 em dinheiro vivo em janeiro de 2025. A transação foi registrada em uma comunicação ao Conselho de Controle de Atividades Financeiras (Coaf) por ter sido paga integralmente em espécie, segundo decisão do Supremo Tribunal Federal (STF).\nLEIA TAMBÉM: PF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse'\nA compra foi feita em 13 de janeiro de 2025, na concessionária BYD Dahruj, em São Paulo. O veículo adquirido foi um BYD Song Plus 1.5 16V automático híbrido, modelo 2025. \nA informação consta da decisão do ministro Flávio Dino, que autorizou medidas no âmbito de uma investigação da Polícia Federal. O texto afirma que a comunicação foi motivada pelo fato de a compra ter sido paga com “valores totais em espécie”.\n🔍 O valor movimentado por Karina chamou atenção do Coaf porque ultrapassa os limites regulatórios que tornam a comunicação automática: R$ 50 mil para operações bancárias e R$ 100 mil em cartórios. Isso acontece porque grandes quantias em dinheiro vivo são difíceis de rastrear e é um método usado para lavar recursos de origem ilícita. Por isso, ao atingir ou ultrapassar esses limites, a instituição é obrigada por lei a reportar a operação ao Coaf, mesmo sem indício de crime.\nKarina Ferreira da Gama, dona da empresa Go UP Entertainment, responsável pelo filme ‘Dark Horse’ - sobre a vida do ex-presidente Jair Bolsonaro (PL).\nReprodução/Redes Sociais\nA Polícia Federal também registrou que o veículo tinha valor de R$ 184.858 na Tabela Fipe. A diferença entre esse valor e os R$ 102.190 pagos pela produtora é de R$ 82.668.\nA decisão, porém, não explica o motivo da diferença entre o valor pago pelo carro e a cotação da Fipe. O documento apenas registra os dois valores no contexto da análise financeira.\nA comunicação ao Coaf, por si só, não significa que a compra do veículo seja crime. O pagamento em dinheiro é apresentado na decisão como uma informação financeira considerada relevante no contexto da investigação.\nProdutora de filme\nKarina Gama é sócia da Go Up Entertainment Ltda., empresa apontada na decisão como produtora de Dark Horse. O filme aborda a trajetória de Jair Bolsonaro.\nEla também aparece no documento como presidente do Instituto Conhecimento Brasil (ICB) e da Associação Nacional de Cultura (ANC).\nLEIA TAMBÉM:\nCaso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente\nOperação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos\nCaso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados\nSegundo a decisão, o ICB recebeu recursos relacionados a emendas parlamentares de autoria do então deputado Mário Frias. A investigação busca esclarecer a destinação dos recursos e as relações entre pessoas e empresas ligadas ao caso.\nA decisão também afirma que a Go Up recebeu recursos de pessoas e empresas relacionadas ao núcleo investigado, o que, segundo o documento, pode indicar “possível integração patrimonial e operacional” com entidades beneficiadas por emendas parlamentares.\nSão investigados os crimes de peculato (desvio, por parte de um funcionário público, de bens e valores que ele tem acesso por conta do cargo que ocupa), falsidade documental, lavagem de dinheiro, organização criminosa e crimes licitatórios.\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução\nO que aconteceu?\nA Polícia Federal cumpriu 49 mandados de busca e apreensão nesta quinta-feira (10) em operação relacionada ao financiamento do filme \"Dark Horse\". Além de Karina Gama, o deputado federal Mario Frias também é alvo da ação.\nA operação não tem mandados de prisão, apenas de busca e apreensão. A empresa produtora do filme, Go Up, não está na mira dos mandados.\nA operação desta quinta-feira foi deflagrada pela Polícia Federal e pela Controladoria-Geral da União (CGU) e foi batizada de \"Make Up\". A investigação apura um suposto esquema de desvio de recursos públicos provenientes de emendas parlamentares, informou a PF. \nSegundo a investigação, uma organização criminosa formada por agentes públicos e privados teria direcionado recursos repassados a uma organização da sociedade civil para empresas subcontratadas irregularmente, sem comprovação de que os serviços foram efetivamente prestados.\nA PF informa ter identificado movimentações de centenas de milhões de reais entre empresas ligadas ao esquema e afirma que as tentativas de ocultar os desvios continuaram até julho deste ano. \nAuditoria da CGU apontou suspeita de desvio da emenda de R$ 2 milhões indicada por Frias para entidades de Karina, como gastos não comprovados.\nFrias atua como roteirista e produtor-executivo da produção. Em maio, o parlamentar enviou uma manifestação ao STF na qual negou que as emendas enviadas para ONGs ligadas à produtora do filme de Bolsonaro tenham sido enviadas a \"qualquer produção cinematográfica\".\nOs citados na operação foram procurados pela reportagem, mas ainda não se pronunciaram.\nFinanciamento do filme\nEm maio, o site Intercept Brasil revelou uma troca de mensagens e um áudio em que Flávio Bolsonaro cobrava dinheiro de Daniel Vorcaro, ex-dono do Banco Master, para financiar o filme sobre Jair. De acordo com a reportagem, Vorcaro pagou ao menos R$ 61 milhões em 2025.\nO dinheiro, de acordo com o site, foi transferido para um fundo nos Estados Unidos administrado por um advogado ligado ao ex-deputado Eduardo Bolsonaro (PL), irmão de Flávio.\nDelação homologada\nNa quarta (9), o ministro André Mendonça homologou o acordo de delação premiada de Antonio Carlos Freixo Junior, conhecido como \"Mineiro\".\nMineiro é dono da Entre Investimentos, a empresa que, a mando de Vorcaro, fez repasses para o filme \"Dark Horse\". O dinheiro foi pedido ao ex-banqueiro por Flávio Bolsonaro.\n🔎 A delação ou colaboração premiada é um meio de obtenção de provas nas investigações criminais. Nesse recurso, o investigado se dispõe a cooperar com o processo e a investigação. Em troca, o Estado pode dar benefícios a ele, como redução de pena em caso de condenação.\nO empresário afirmou em sua delação — assinada com a Procuradoria-Geral da República (PGR) em 8 de agosto — que era responsável por \"gerar\" dinheiro vivo para a equipe de Vorcaro. O dinheiro era entregue em malas e, segundo ele, seria usado para pagamentos de propina.\nComo o blog da Andreia Sadi revelou, Mineiro disse ainda que fez sete repasses, a título de \"subscrições de cotas\", para o fundo Havengate nos Estados Unidos. O fundo é administrado por Paulo Calixto, advogado do ex-deputado Eduardo Bolsonaro nos EUA.\nAs transações foram feitas de janeiro a setembro de 2025 e totalizaram US$ 12,333 milhões. Pela cotação de setembro de 2025, esse valor equivalia a R$ 62,8 milhões.\nA subscrição de cotas é um processo em que um fundo emite novas cotas para aumentar seu patrimônio, recebendo aporte de investidores. \nFlávio Bolsonaro vinha afirmando que o último pagamento de Vorcaro havia sido em maio de 2025. O pagamento de setembro, no valor de US$ 1,666 milhão, contraria essa afirmação.\nA PF investiga se a totalidade do dinheiro foi usada no filme \"Dark Horse\", como afirmam Flávio Bolsonaro e a produtora Go Up, ou se uma parte foi destinada para outros fins — como bancar Eduardo Bolsonaro nos EUA.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 17:08:45 -0000"
-    },
-    {
-      "id": "026d11e7bee1",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF suspeita de 'circuito fechado' e fragmentação proposital de valores para ocultar verbas públicas em filme sobre Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/pf-suspeita-de-circuito-fechado-e-fragmentacao-proposital-de-valores-para-ocultar-verbas-publicas-em-filme-sobre-bolsonaro.ghtml",
-      "summary": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nAs investigações da Polícia Federal (PF) que resultaram, na manhã desta quinta-feira (10), na operação relacionada ao financiamento do filme \"Dark Horse\", que conta a história do ex-presidente Jair Bolsonaro, apontam que o esquema para fraudar emendas parlamentares era formado por uma teia de empresas que distribuíam os repasses.\nKarina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) são alvos da ação. Duas entidades de propriedade de Karina também foram alvos de buscas de agentes da PF: o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC).\nO caso está sob relatoria do ministro Flávio Dino, do Supremo Tribunal Federal (STF). \n➡️ Dino é o responsável por autorizar esse tipo de ação porque ele é o relator de processos no Supremo que investigam irregularidades no repasse desses recursos públicos, enviados por parlamentares para suas bases eleitorais.\nA operação não tem mandados de prisão, apenas de busca e apreensão. A empresa produtora do filme, Go Up, não está na mira dos mandados.\nDeputado federal Mario Frias (PL-SP)\nBruno Spada/Câmara dos Deputados\nDe acordo com a decisão que embasou a operação da PF, o dinheiro das emendas parlamentares enviadas por Frias percorria um \"circuito fechado\" entre as empresas investigadas com o intuito de fragmentar os repasses e dificultar a rastreabilidade.\n\"Essa circulação de recursos entre o parlamentar, a entidade executora, a empresa contratada e outra organização beneficiária não se compatibiliza com relações negociais independentes e economicamente justificadas\", justificou a PF.\nA PF ainda classificou o esquema e os participantes como \"organização criminosa\" que buscava ocultar verbas públicas. \n\"Em verdade, há fortes indícios de uma única organização criminosa, estruturada para captar, disseminar e ocultar recursos provenientes de verbas públicas\", apontou.\nAs investigações ainda apontam que as contratações relacionadas às emendas evidenciam uma \"atuação coordenada\".\n\"Em vez de agentes econômicos independentes contratando entre si em condições de mercado, o que se observa é a atuação coordenada de entes formalmente distintos, mas materialmente integrados por interesses comuns e por um fluxo financeiro sem justificativa negocial consistente\", disse.\nA TV Globo entrou em contato com Mario Frias e com a defesa de Karina Gama, mas ainda não obteve resposta.\nLeia também:\nGastos com filme 'Dark Horse' coincidem com envio de emendas de Mario Frias para produtora, aponta PF\nDino proíbe Mario Frias de sair do país e ter contato com outros investigados\nAlém de Frias, Marcos Pollon e Bia Kicis também enviaram emendas para ONGs ligadas a produtora; recursos não foram pagos",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 16:40:17 -0000"
-    },
-    {
-      "id": "d9b583f734ad",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Credibilidade fiscal do Brasil será moldada por próximas eleições e disposição do Congresso, diz Fitch",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/credibilidade-fiscal-do-brasil-sera-moldada-por-proximas-eleicoes-e-disposicao-do-congresso-diz-fitch.shtml",
-      "summary": "A agência de classificação de risco Fitch afirmou nesta quinta-feira (10) que a proposta orçamentária do Brasil para 2027 evidencia as dificuldades do país para a consolidação fiscal, cujo ritmo previsto é insuficiente para estabilizar a dívida pública.\nLeia mais (09/10/2026 - 15h53)",
-      "tags": [
-        "eleições",
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo"
-      ],
-      "score": 83,
-      "publishedRaw": "10 Sep 2026 15:53:00 -0300"
-    },
-    {
-      "id": "950f537bceba",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF diz que ao menos R$ 750 mil de recursos públicos abasteceram produtora de filme sobre Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-ao-menos-r-750-mil-de-recursos-publicos-abasteceram-produtora-de-filme-sobre-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 15:52:36 +0000"
-    },
-    {
-      "id": "52c4b0d4bc31",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes autoriza visitas permanentes de 5 familiares a Bolsonaro",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-visitas-permanentes-de-5-familiares-a-bolsonaro/",
-      "summary": "Medida permite que Michelle deixe a casa do marido para cumprir agenda eleitoral no DF",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 18:32:24 +0000"
+      "score": 82,
+      "publishedRaw": "Thu, 10 Sep 2026 16:40:22 -0000"
     },
     {
       "id": "ac09c62429a5",
@@ -951,8 +676,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 82,
       "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
@@ -973,30 +697,67 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 82,
       "publishedRaw": "Thu, 10 Sep 2026 05:00:00 -0000"
     },
     {
-      "id": "4604b5cc53bb",
+      "id": "27ef7de6627e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro chama operação da PF sobre emendas para filme de ‘interferência política’ de Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-de-dino-nprp/",
+      "summary": "Operação da PF investiga supostos desvios de dinheiro público para a produção de “Dark Horse”, biografia de Jair Bolsonaro",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
+    },
+    {
+      "id": "7597345f0f62",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+      "title": "Crise do Supremo traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles",
+      "link": "https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consiga recuperar a força que a Michelle Bolsonaro tinha deixado em cima da mesa'.",
       "tags": [
-        "Bolsonaro"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Thu, 10 Sep 2026 15:57:43 GMT"
+      "publishedRaw": "Thu, 10 Sep 2026 19:37:40 GMT"
+    },
+    {
+      "id": "19ba97c5d0ac",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dólar recua e Ibovespa avança com eleições no radar dos investidores",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/10/dolar-ibovespa.ghtml",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair\nO dólar inverteu o sinal positivo visto pela manhã e fechou em queda nesta quinta-feira (10), com um recuo de 0,18%, cotado a R$ 5,1026. Já o Ibovespa, principal índice da bolsa brasileira, subiu 1,44%, aos 188.303 pontos.\nO cenário eleitoral brasileiro voltou a ficar no radar dos mercados, após uma nova pesquisa indicar que o candidato Flávio Bolsonaro (PL) está numericamente à frente do Lula (PT) em um eventual segundo turno. Investidores também seguem atentos às decisões do Supremo Tribunal Federal (STF) sobre investigações relacionadas ao Banco Master. \n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ Outro destaque da sessão ficou por conta dos novos dados da inflação ao produtor dos Estados Unidos. Os preços aumentaram 0,4% no mês passado, em linha com as expectativas e puxado por uma recuperação no custo de produtos de energia. O indicador deve ser fundamental para a decisão de juros do Federal Reserve (Fed, o banco central americano) na próxima semana. \n▶️ Ainda no exterior, as tensões no Oriente Médio seguiram no radar. O petróleo alcançou o maior patamar desde maio nesta quinta-feira, após o Irã informar que atingiu embarcações americanas e petroleiros no Golfo em retaliação à destruição de navios iranianos. \nA piora do conflito continua a levantar preocupações com a oferta global de petróleo. Perto das 15h15, o barril do Brent, referência internacional, subia 6,24%, cotado a US$ 107,53. Já o West Texas Intermediate (WTI), referência nos EUA, avançava 6,26%, a US$ 102,06 o barril.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: -0,36%;\nAcumulado do mês: -1,31%;\nAcumulado do ano: -6,87%.\n📈Ibovespa\n\nAcumulado da semana: +0,25%;\nAcumulado do mês: +4,62%;\nAcumulado do ano: +15,20%.\nPetróleo dispara em meio a tensões no Oriente Médio\nOs preços do petróleo continuam em trajetória de alta nesta quinta-feira (10), em meio à escalada das tensões no Oriente Médio.\nNesta semana, ataques dos Houthis, grupo apoiado pelo Irã, atingiram instalações de energia na Arábia Saudita e provocaram incêndios em estruturas ligadas à produção de petróleo.\nOs ataques dos Houthis podem ameaçar os embarques de petróleo pelo Mar Vermelho, que se tornou uma importante rota alternativa ao Estreito de Ormuz. Antes da guerra, cerca de 20% do comércio mundial de petróleo passava pelo estreito, cujo fluxo foi severamente reduzido desde o início do conflito.\nApós os ataques, um porta-voz militar dos Houthis afirmou que o grupo anunciará uma ampla operação em território saudita, sinalizando uma nova escalada da guerra.\nAlém disso, o Irã afirmou que  atingiu embarcações americanas e petroleiros no Golfo em retaliação à destruição de navios iranianos. \nO aumento das tensões volta a levantar preocupações sobre a oferta global da commodity, com vários bancos já elevado suas projeções para o preço do petróleo no mercado internacional. \nCaso essa estimativa se confirme, a expectativa é que a alta do petróleo provoque novos aumentos nos custos de energia e pressione a inflação global. Isso poderia levar bancos centrais de diversos países a manter ou elevar as taxas de juros.\nCenário político e eleitoral no Brasil\nUma nova pesquisa da AtlasIntel divulgada nesta quinta-feira (10) indicou que o candidato Flávio Bolsonaro (PL) está numericamente à frente do Lula (PT) em um eventual segundo turno. \nFlávio tem agora 46,4%, ante 42,6% na pesquisa anterior, ao passo que Lula tem 46,2%, ante 47,1%. Como a margem de erro da pesquisa é de 1 ponto percentual, os dois estão em empate técnico.\nOs dados foram bem recebidos pelo mercado financeiro e chegaram a inverter a trajetória de queda da bolsa brasileira vista pela manhã.\nAlém disso, o mercado também segue atento às decisões do STF relacionadas ao caso do Banco Master. Na véspera, o ministro Flávio Dino determinou a imediata reintegração de Andrei Rodrigues ao cargo de diretor-geral da Polícia Federal (PF) e de Leandro Almada da Costa à chefia da Diretoria de Inteligência Policial da corporação.\nA decisão atende a um pedido formulado por Andrei Rodrigues dentro de um processo que já estava tramitando no STF e ocorre um dia depois de o ministro André Mendonça determinar o afastamento dos servidores.\nO magistrado determinou ainda que os dois oficiais fiquem protegidos contra novas medidas cautelares motivadas pelo regular cumprimento de ordens judiciais.\nDino é relator de um inquérito que investiga o repasse de emendas parlamentares federais a uma produtora responsável por produzir a cinebiografia do ex-presidente Jair Bolsonaro, o filme \"Dark Horse\". \nO ministro do STF disse que  já havia autorizado a Polícia Federal a acessar a íntegra dos materiais apreendidos pela Polícia Civil de São Paulo em uma investigação sobre emendas parlamentares destinadas a empresas supostamente responsáveis pela produção do filme.\nAo acolher o pedido, o relator ponderou que o afastamento determinado por André Mendonça prejudica diretamente o andamento dessa e de outras apurações urgentes sob sua relatoria.\n🔎 Andrei Rodrigues sustentou ao Supremo que a sua saída do cargo de diretor-geral interfere na organização da equipe responsável pelas investigações, retarda o acesso ao material disponibilizado e compromete a atuação célere da corporação.\nDino também ressaltou que a decisão de Mendonça foi tomada a partir de um pedido do Partido Novo, o que considerou juridicamente inviável. Veja mais detalhes aqui.\nA decisão volta a jogar luz no cenário político, uma vez que Mendonça está no centro de uma disputa com o ministro do STF Alexandre de Moraes no âmbito do inquérito do Banco Master. Moraes, por sua vez, é um dos principais alvos de Flávio Bolsonaro (PL) na disputa eleitoral com Lula (PT).\nBolsas globais\nNos EUA, os três principais índices de Wall Street operavam em queda nesta quinta-feira, após os dados de inflação ao produtor aumentarem as expectativas de um aumento da taxa de juros na reunião deste mês.\nPerto das 15h15, o Dow Jones caía 0,71%, o S&amp;P 500 tinha perdas de 0,52% e o Nasdaq Composite recuava 0,61%.\nNa Europa, a maioria dos mercados fechou em queda, em meio à piora do conflito no Oriente Médio e conforme aumentaram as expectativas de novas altas de juros na região, após o Banco Central Europeu (BCE) ter elevado os custos dos empréstimos e alertado para um aumento da inflação devido à alta nos custos de energia.\nO índice pan-europeu STOXX 600 caiu 0,7%, aos 635,97 pontos. Entre os demais índices, o DAX, da Alemanha, teve queda de 0,84%, enquanto o CAC-40, da França, caiu 0,49% e o FTSE 100, do Reino Unido, desvalorizou 0,57%. \nNa Ásia, a maioria dos índices fechou em queda, à medida que a escalada das tensões no Oriente Médio reacenderam preocupações os preços do petróleo e a inflação global.  \nO SSEC, índice de Xangai, perdeu 0,43%, enquanto o CSI300, que reúne as maiores empresas das bolsas de Xangai e Shenzhen, caiu 0,53%. Já o Hang Seng, de Hong Kong, caiu 1,27%. \nEntre os demais mercados da região, o índice Nikkei, do Japão, subiu 0,20%, enquanto o Kospi, da Coreia do Sul, desvalorizou 0,25%.\n* Com informações da agência de notícias Reuters.\nNotas de dólar.\nLuisa Gonzalez/ Reuters",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 10 Sep 2026 12:00:14 -0000"
     },
     {
       "id": "1118b4d619ba",
@@ -1012,10 +773,83 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "G1 - Economia"
       ],
       "score": 81,
       "publishedRaw": "Thu, 10 Sep 2026 14:27:34 -0000"
+    },
+    {
+      "id": "b059e21a17a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
+      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": ""
+    },
+    {
+      "id": "ca5dd43e981d",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Produtora de filme sobre Bolsonaro comprou carro SUV com R$ 100 mil em dinheiro vivo e disparou alerta do Coaf",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/10/produtora-de-filme-sobre-bolsonaro-comprou-carro-suv-com-r-100-mil-em-dinheiro-vivo-e-disparou-alerta-do-coaf.ghtml",
+      "summary": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nKarina Ferreira da Gama, produtora do filme \"Dark Horse\", sobre o ex-presidente Jair Bolsonaro, comprou um SUV híbrido pelo qual pagou R$ 102.190 em dinheiro vivo em janeiro de 2025. A transação foi registrada em uma comunicação ao Conselho de Controle de Atividades Financeiras (Coaf) por ter sido paga integralmente em espécie, segundo decisão do Supremo Tribunal Federal (STF).\nLEIA TAMBÉM: PF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse'\nA compra foi feita em 13 de janeiro de 2025, na concessionária BYD Dahruj, em São Paulo. O veículo adquirido foi um BYD Song Plus 1.5 16V automático híbrido, modelo 2025. \nA informação consta da decisão do ministro Flávio Dino, que autorizou medidas no âmbito de uma investigação da Polícia Federal. O texto afirma que a comunicação foi motivada pelo fato de a compra ter sido paga com “valores totais em espécie”.\n🔍 O valor movimentado por Karina chamou atenção do Coaf porque ultrapassa os limites regulatórios que tornam a comunicação automática: R$ 50 mil para operações bancárias e R$ 100 mil em cartórios. Isso acontece porque grandes quantias em dinheiro vivo são difíceis de rastrear e é um método usado para lavar recursos de origem ilícita. Por isso, ao atingir ou ultrapassar esses limites, a instituição é obrigada por lei a reportar a operação ao Coaf, mesmo sem indício de crime.\nKarina Ferreira da Gama, dona da empresa Go UP Entertainment, responsável pelo filme ‘Dark Horse’ - sobre a vida do ex-presidente Jair Bolsonaro (PL).\nReprodução/Redes Sociais\nA Polícia Federal também registrou que o veículo tinha valor de R$ 184.858 na Tabela Fipe. A diferença entre esse valor e os R$ 102.190 pagos pela produtora é de R$ 82.668.\nA decisão, porém, não explica o motivo da diferença entre o valor pago pelo carro e a cotação da Fipe. O documento apenas registra os dois valores no contexto da análise financeira.\nA comunicação ao Coaf, por si só, não significa que a compra do veículo seja crime. O pagamento em dinheiro é apresentado na decisão como uma informação financeira considerada relevante no contexto da investigação.\nProdutora de filme\nKarina Gama é sócia da Go Up Entertainment Ltda., empresa apontada na decisão como produtora de Dark Horse. O filme aborda a trajetória de Jair Bolsonaro.\nEla também aparece no documento como presidente do Instituto Conhecimento Brasil (ICB) e da Associação Nacional de Cultura (ANC).\nLEIA TAMBÉM:\nCaso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente\nOperação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos\nCaso 'Dark Horse': Dino proíbe Mario Frias de sair do país e ter contato com outros investigados\nSegundo a decisão, o ICB recebeu recursos relacionados a emendas parlamentares de autoria do então deputado Mário Frias. A investigação busca esclarecer a destinação dos recursos e as relações entre pessoas e empresas ligadas ao caso.\nA decisão também afirma que a Go Up recebeu recursos de pessoas e empresas relacionadas ao núcleo investigado, o que, segundo o documento, pode indicar “possível integração patrimonial e operacional” com entidades beneficiadas por emendas parlamentares.\nSão investigados os crimes de peculato (desvio, por parte de um funcionário público, de bens e valores que ele tem acesso por conta do cargo que ocupa), falsidade documental, lavagem de dinheiro, organização criminosa e crimes licitatórios.\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução\nO que aconteceu?\nA Polícia Federal cumpriu 49 mandados de busca e apreensão nesta quinta-feira (10) em operação relacionada ao financiamento do filme \"Dark Horse\". Além de Karina Gama, o deputado federal Mario Frias também é alvo da ação.\nA operação não tem mandados de prisão, apenas de busca e apreensão. A empresa produtora do filme, Go Up, não está na mira dos mandados.\nA operação desta quinta-feira foi deflagrada pela Polícia Federal e pela Controladoria-Geral da União (CGU) e foi batizada de \"Make Up\". A investigação apura um suposto esquema de desvio de recursos públicos provenientes de emendas parlamentares, informou a PF. \nSegundo a investigação, uma organização criminosa formada por agentes públicos e privados teria direcionado recursos repassados a uma organização da sociedade civil para empresas subcontratadas irregularmente, sem comprovação de que os serviços foram efetivamente prestados.\nA PF informa ter identificado movimentações de centenas de milhões de reais entre empresas ligadas ao esquema e afirma que as tentativas de ocultar os desvios continuaram até julho deste ano. \nAuditoria da CGU apontou suspeita de desvio da emenda de R$ 2 milhões indicada por Frias para entidades de Karina, como gastos não comprovados.\nFrias atua como roteirista e produtor-executivo da produção. Em maio, o parlamentar enviou uma manifestação ao STF na qual negou que as emendas enviadas para ONGs ligadas à produtora do filme de Bolsonaro tenham sido enviadas a \"qualquer produção cinematográfica\".\nOs citados na operação foram procurados pela reportagem, mas ainda não se pronunciaram.\nFinanciamento do filme\nEm maio, o site Intercept Brasil revelou uma troca de mensagens e um áudio em que Flávio Bolsonaro cobrava dinheiro de Daniel Vorcaro, ex-dono do Banco Master, para financiar o filme sobre Jair. De acordo com a reportagem, Vorcaro pagou ao menos R$ 61 milhões em 2025.\nO dinheiro, de acordo com o site, foi transferido para um fundo nos Estados Unidos administrado por um advogado ligado ao ex-deputado Eduardo Bolsonaro (PL), irmão de Flávio.\nDelação homologada\nNa quarta (9), o ministro André Mendonça homologou o acordo de delação premiada de Antonio Carlos Freixo Junior, conhecido como \"Mineiro\".\nMineiro é dono da Entre Investimentos, a empresa que, a mando de Vorcaro, fez repasses para o filme \"Dark Horse\". O dinheiro foi pedido ao ex-banqueiro por Flávio Bolsonaro.\n🔎 A delação ou colaboração premiada é um meio de obtenção de provas nas investigações criminais. Nesse recurso, o investigado se dispõe a cooperar com o processo e a investigação. Em troca, o Estado pode dar benefícios a ele, como redução de pena em caso de condenação.\nO empresário afirmou em sua delação — assinada com a Procuradoria-Geral da República (PGR) em 8 de agosto — que era responsável por \"gerar\" dinheiro vivo para a equipe de Vorcaro. O dinheiro era entregue em malas e, segundo ele, seria usado para pagamentos de propina.\nComo o blog da Andreia Sadi revelou, Mineiro disse ainda que fez sete repasses, a título de \"subscrições de cotas\", para o fundo Havengate nos Estados Unidos. O fundo é administrado por Paulo Calixto, advogado do ex-deputado Eduardo Bolsonaro nos EUA.\nAs transações foram feitas de janeiro a setembro de 2025 e totalizaram US$ 12,333 milhões. Pela cotação de setembro de 2025, esse valor equivalia a R$ 62,8 milhões.\nA subscrição de cotas é um processo em que um fundo emite novas cotas para aumentar seu patrimônio, recebendo aporte de investidores. \nFlávio Bolsonaro vinha afirmando que o último pagamento de Vorcaro havia sido em maio de 2025. O pagamento de setembro, no valor de US$ 1,666 milhão, contraria essa afirmação.\nA PF investiga se a totalidade do dinheiro foi usada no filme \"Dark Horse\", como afirmam Flávio Bolsonaro e a produtora Go Up, ou se uma parte foi destinada para outros fins — como bancar Eduardo Bolsonaro nos EUA.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 10 Sep 2026 17:08:45 -0000"
+    },
+    {
+      "id": "026d11e7bee1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF suspeita de 'circuito fechado' e fragmentação proposital de valores para ocultar verbas públicas em filme sobre Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/10/pf-suspeita-de-circuito-fechado-e-fragmentacao-proposital-de-valores-para-ocultar-verbas-publicas-em-filme-sobre-bolsonaro.ghtml",
+      "summary": "Mario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nAs investigações da Polícia Federal (PF) que resultaram, na manhã desta quinta-feira (10), na operação relacionada ao financiamento do filme \"Dark Horse\", que conta a história do ex-presidente Jair Bolsonaro, apontam que o esquema para fraudar emendas parlamentares era formado por uma teia de empresas que distribuíam os repasses.\nKarina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) são alvos da ação. Duas entidades de propriedade de Karina também foram alvos de buscas de agentes da PF: o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC).\nO caso está sob relatoria do ministro Flávio Dino, do Supremo Tribunal Federal (STF). \n➡️ Dino é o responsável por autorizar esse tipo de ação porque ele é o relator de processos no Supremo que investigam irregularidades no repasse desses recursos públicos, enviados por parlamentares para suas bases eleitorais.\nA operação não tem mandados de prisão, apenas de busca e apreensão. A empresa produtora do filme, Go Up, não está na mira dos mandados.\nDeputado federal Mario Frias (PL-SP)\nBruno Spada/Câmara dos Deputados\nDe acordo com a decisão que embasou a operação da PF, o dinheiro das emendas parlamentares enviadas por Frias percorria um \"circuito fechado\" entre as empresas investigadas com o intuito de fragmentar os repasses e dificultar a rastreabilidade.\n\"Essa circulação de recursos entre o parlamentar, a entidade executora, a empresa contratada e outra organização beneficiária não se compatibiliza com relações negociais independentes e economicamente justificadas\", justificou a PF.\nA PF ainda classificou o esquema e os participantes como \"organização criminosa\" que buscava ocultar verbas públicas. \n\"Em verdade, há fortes indícios de uma única organização criminosa, estruturada para captar, disseminar e ocultar recursos provenientes de verbas públicas\", apontou.\nAs investigações ainda apontam que as contratações relacionadas às emendas evidenciam uma \"atuação coordenada\".\n\"Em vez de agentes econômicos independentes contratando entre si em condições de mercado, o que se observa é a atuação coordenada de entes formalmente distintos, mas materialmente integrados por interesses comuns e por um fluxo financeiro sem justificativa negocial consistente\", disse.\nA TV Globo entrou em contato com Mario Frias e com a defesa de Karina Gama, mas ainda não obteve resposta.\nLeia também:\nGastos com filme 'Dark Horse' coincidem com envio de emendas de Mario Frias para produtora, aponta PF\nDino proíbe Mario Frias de sair do país e ter contato com outros investigados\nAlém de Frias, Marcos Pollon e Bia Kicis também enviaram emendas para ONGs ligadas a produtora; recursos não foram pagos",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 10 Sep 2026 16:40:17 -0000"
+    },
+    {
+      "id": "4604b5cc53bb",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Thu, 10 Sep 2026 15:57:43 GMT"
     },
     {
       "id": "f1729d88a76c",
@@ -1072,6 +906,21 @@
       "publishedRaw": "Thu, 10 Sep 2026 18:03:28 +0000"
     },
     {
+      "id": "5f4e6c5d884f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "OAB-DF pede fim do inquérito das fake news e impeachment de Moraes e Toffoli por laços com Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/oab-df-pede-fim-do-inquerito-das-fake-news-e-impeachment-de-moraes-e-toffoli-por-lacos-com-vorcaro/",
+      "summary": "",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Thu, 10 Sep 2026 19:56:59 +0000"
+    },
+    {
       "id": "1a97b32d30d6",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -1087,21 +936,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 19:04:27 -0000"
     },
     {
-      "id": "1b7469d8bc5f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE aprova mais três registros de chapas à presidência; Marçal e Cury seguem sob análise",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-aprova-mais-tres-registros-de-chapas-a-presidencia-quatro-registros-seguem-sob-analise-nprp/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Thu, 10 Sep 2026 16:23:01 +0000"
-    },
-    {
       "id": "044672efc4f2",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -1115,21 +949,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 10 Sep 2026 19:15:45 -0000"
-    },
-    {
-      "id": "f4e435b92ab2",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bienal do Livro de São Paulo reúne atrações para crianças e famílias",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/maternar/2026/09/bienal-do-livro-de-sao-paulo-reune-atracoes-para-criancas-e-familias.shtml",
-      "summary": "A Bienal Internacional do Livro de São Paulo é um programa para famílias, com opções voltadas para crianças, adolescentes e pais, com shows, contações de histórias, oficinas, leituras coletivas, encontros com personagens e autores, além de conversas sobre cidadania, proteção das infâncias e maternidade.\nLeia mais (09/10/2026 - 15h45)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "10 Sep 2026 15:45:00 -0300"
     }
   ]
 }
