@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:15:03.639509+00:00",
+  "generated_at": "2026-09-10T01:43:44.862251+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -40,7 +40,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -62,7 +61,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -84,7 +82,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -106,7 +103,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -129,7 +125,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -151,7 +146,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -159,48 +153,25 @@
       "publishedRaw": "Wed, 09 Sep 2026 15:28:18 -0000"
     },
     {
-      "id": "1ffbd9475c44",
-      "source": "Folha de São Paulo",
+      "id": "95a90a732b13",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PT pede a Dino e Mendonça a quebra dos sigilos do caso Master no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-pede-a-dino-e-mendonca-a-quebra-dos-sigilos-do-caso-master-no-stf.shtml",
-      "summary": "O PT pediu nesta quarta (9) aos ministros do STF (Supremo Tribunal Federa) André Mendonça e Flávio Dino que levantem o sigilo das investigações sobre o envolvimento de agentes públicos com o Banco Master.\nLeia mais (09/09/2026 - 20h51)",
+      "title": "Waack: Fachin tenta pôr a bola no chão no jogo sujo do STF",
+      "link": "https://www.cnnbrasil.com.br/politica/waack-fachin-tenta-por-a-bola-no-chao-no-jogo-sujo-do-stf/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "09 Sep 2026 20:51:00 -0300"
-    },
-    {
-      "id": "ee6345572ec4",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Partidarização do STF?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/09/partidarizacao-do-stf.shtml",
-      "summary": "Leia mais (09/09/2026 - 20h17)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "09 Sep 2026 20:17:00 -0300"
+      "publishedRaw": "Thu, 10 Sep 2026 01:05:38 +0000"
     },
     {
       "id": "6660100549b9",
@@ -217,7 +188,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -226,26 +196,25 @@
       "publishedRaw": "Thu, 10 Sep 2026 00:22:32 +0000"
     },
     {
-      "id": "4e2e51b32bd1",
-      "source": "CNN Brasil",
+      "id": "943947658b76",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Plenário do STF vai abrir investigação contra Moraes? Entenda",
-      "link": "https://www.cnnbrasil.com.br/politica/plenario-do-stf-vai-abrir-investigacao-contra-moraes-entenda/",
-      "summary": "Sessão extraordinária convocada por Edson Fachin na próxima terça-feira (15) decidirá se há elementos para investigar ministro",
+      "title": "Presidenciáveis reagem às últimas decisões de Fachin para atenuar a crise do STF",
+      "link": "https://www.estadao.com.br/politica/presidenciaveis-reagem-as-ultimas-decisoes-de-fachin-para-atenuar-a-crise-do-stf-nprp/",
+      "summary": "Opção por manter Andrei na PF e retirada do inquérito das fake News de Moraes é recebida com mescla de apoio, crítica e ataque pelos presidenciáveis",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 23:56:34 +0000"
+      "publishedRaw": "Thu, 10 Sep 2026 01:07:10 +0000"
     },
     {
       "id": "133d4825a7ca",
@@ -262,7 +231,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -284,7 +252,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -306,7 +273,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -328,7 +294,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -350,7 +315,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -372,7 +336,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -394,35 +357,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 21:31:00 +0000"
-    },
-    {
-      "id": "9a5a4c6c5e25",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Inércia de Fachin une alas rivais do STF, que cobram urgência do presidente da Corte",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/inercia-de-fachin-une-alas-rivais-do-stf-que-cobram-urgencia-do-presidente-da-corte/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 14:54:41 +0000"
     },
     {
       "id": "a9bb22f947af",
@@ -438,7 +378,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -460,7 +399,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -482,7 +420,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -504,13 +441,34 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 22:07:41 GMT"
+    },
+    {
+      "id": "bcbb180410c1",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula realiza ato de campanha no Piauí e evita menção ao STF",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-realiza-ato-de-campanha-no-piaui-e-evita-mencao-ao-stf/",
+      "summary": "Chapa no Estado lidera as pesquisas; Fonteles diz que 50.000 pessoas estiveram no comício",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 01:30:26 +0000"
     },
     {
       "id": "d75019ae2d48",
@@ -527,7 +485,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -549,7 +506,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -563,7 +519,7 @@
       "category": "Política",
       "title": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
       "link": "https://g1.globo.com/politica/noticia/2026/09/09/nao-venha-o-tribunal-eleitoral-querer-falcatrua-diz-lula-apos-citar-possivel-interferencia-dos-eua-nas-eleicoes.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil.\nDurante discurso em um ato de campanha em Teresina, no Piauí, o petista afirmou que sabe do que o governo de Donald Trump é capaz e que, por isso, espera que \"o tribunal eleitoral não venha querer falcatrua\". O presidente não deixou claro se fazia referência ao Tribunal Superior Eleitoral na declaração.\n\"Queremos provar que o brasileiro não deve nada a ninguém. Que não venham os americanos quererem influir nas nossas eleições. Que não venha o tribunal eleitoral querer falcatrua. Porque a gente sabe o que são eles são capazes, e se vierem se meter aqui, a gente vai derrotá-los, vai derrotar os americanos e vai derrotar quem se meter\", disse Lula.\nAgora no g1\nNo fim de agosto, Lula e Trump conversaram por telefone durante 1h20, após um pedido do presidente brasileiro para falar com o americano. \nNa ligação, Trump perguntou a Lula sobre as eleições de outubro. Lula já afirmou que disse ao presidente dos EUA que o Brasil não aceita ingerência de ninguém nas eleições. \nNo discurso desta quarta no Piauí, o petista voltou a se posicionar.\n\"O Trump que se meta no país dele, aqui é problema nosso, dos brasileiros e ninguém tasca. eles vão ter que aprender conosco uma lição. Nós somos pobres, mas somos orgulhosos. Nós temos que dizer para eles que caráter e dignidade a gente não compra em shopping, não compra em aeroporto, traz da barriga da mãe, do pai\", disse o presidente.\n\"Isso a gente ensina para qualquer país que quiser se meter em nosso processo eleitoral. Essa eleição o que está em jogo é se a gente vai continuar avançando ou retroceder.\"\nPresidente da República, Luiz Inácio Lula da Silva, durante Entrevista a Meteoro Brasil e Os Três Elementos, no Palácio da Alvorada. Brasília - DF.Foto: Ricardo Stuckert\nRicardo Stuckert",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil.\nDurante discurso em um ato de campanha em Teresina, no Piauí, o petista afirmou que sabe do que o governo de Donald Trump é capaz e que, por isso, espera que \"o tribunal eleitoral não venha querer falcatrua\". O presidente não deixou claro se fazia referência ao Tribunal Superior Eleitoral na declaração.\n\"Queremos provar que o brasileiro não deve nada a ninguém. Que não venham os americanos quererem influir nas nossas eleições. Que não venha o tribunal eleitoral querer falcatrua. Porque a gente sabe do que são eles são capazes, e se vierem se meter aqui, a gente vai derrotá-los, vai derrotar os americanos e vai derrotar quem se meter\", disse Lula.\nAgora no g1\nNo fim de agosto, Lula e Trump conversaram por telefone durante 1h20, após um pedido do presidente brasileiro para falar com o americano. \nNa ligação, Trump perguntou a Lula sobre as eleições de outubro. Lula já afirmou que disse ao presidente dos EUA que o Brasil não aceita ingerência de ninguém nas eleições. \nNo discurso desta quarta no Piauí, o petista voltou a se posicionar.\n\"O Trump que se meta no país dele, aqui é problema nosso, dos brasileiros e ninguém tasca. Eles vão ter que aprender conosco uma lição. Nós somos pobres, mas somos orgulhosos. Nós temos que dizer para eles que caráter e dignidade a gente não compra em shopping, não compra em aeroporto, traz da barriga da mãe, do pai\", disse o presidente.\n\"Isso a gente ensina para qualquer país que quiser se meter em nosso processo eleitoral. Essa eleição o que está em jogo é se a gente vai continuar avançando ou retroceder.\"\nPresidente Luiz Inácio Lula da Silva (PT) durante ato de campanha à reeleição em Teresina (PI)\nReprodução",
       "tags": [
         "eleições",
         "Lula"
@@ -573,7 +529,8 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
@@ -653,10 +610,32 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+    },
+    {
+      "id": "193c741012c5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump que se meta no país dele, diz Lula em ato no Piauí",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/trump-que-se-meta-no-pais-dele-diz-lula-em-ato-no-piaui/",
+      "summary": "Presidente afirmou, nesta 4ª feira (9.set), que “derrotará” quem tentar “se meter” nas eleições brasileiras",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 01:18:05 +0000"
     },
     {
       "id": "b78520ffcdbb",
@@ -676,25 +655,6 @@
       ],
       "score": 83,
       "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
-    },
-    {
-      "id": "ad373d7f16f0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news que sai de Moraes e vai para Fachin",
-      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
     },
     {
       "id": "abccfc59c43a",
@@ -735,25 +695,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 23:43:27 -0000"
     },
     {
-      "id": "5ced05940e18",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
-      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
-    },
-    {
       "id": "d0f5f02111ad",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -768,9 +709,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 22:05:19 -0000"
     },
     {
@@ -788,9 +730,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 19:30:31 -0000"
     },
     {
@@ -808,10 +751,30 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
+    },
+    {
+      "id": "5ced05940e18",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
+      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
+      "score": 82,
+      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
       "id": "a68c011ff308",
@@ -866,6 +829,37 @@
       ],
       "score": 77,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
+    },
+    {
+      "id": "e6751e3d25bd",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "OAB descarta pedir impeachment de Moraes e Toffoli, mas vai analisar conduta de ministros",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/oab-descarta-pedir-impeachment-de-moraes-e-toffoli-mas-vai-analisar-conduta-de-ministros.shtml",
+      "summary": "A OAB (Ordem Nacional dos Advogados) descartou nesta quarta-feira (9) a proposta de apresentar ao Senado pedido de impeachment de ministros do STF (Supremo Tribunal Federal), mas decidiu criar uma comissão para analisar a conduta dos magistrados e tomar medidas frente ao caso do Banco Master.\nLeia mais (09/09/2026 - 22h24)",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "09 Sep 2026 22:24:00 -0300"
+    },
+    {
+      "id": "c50028254f9a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE decidirá na próxima sexta, 11, sobre candidatura de Pablo Marçal à Presidência",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-decidira-na-proxima-sexta-11-sobre-candidatura-de-pablo-marcal-a-presidencia/",
+      "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Thu, 10 Sep 2026 01:17:39 +0000"
     },
     {
       "id": "ec15858513d3",
