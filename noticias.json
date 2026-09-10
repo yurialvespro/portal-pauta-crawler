@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:43:44.862251+00:00",
+  "generated_at": "2026-09-10T02:16:10.880621+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,7 +15,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -125,6 +124,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -174,28 +174,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 01:05:38 +0000"
     },
     {
-      "id": "6660100549b9",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado muda estratégia na TV e sobe tom contra STF, Lula e Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-muda-estrategia-na-tv-e-sobe-tom-contra-stf-lula-e-flavio/",
-      "summary": "Campanha deixará foco em resultados de Goiás e propostas para adotar discurso mais contundente contra grupos políticos",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 00:22:32 +0000"
-    },
-    {
       "id": "943947658b76",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -231,6 +209,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -449,6 +428,27 @@
       "publishedRaw": "Wed, 09 Sep 2026 22:07:41 GMT"
     },
     {
+      "id": "aeea9ebd96f4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Deve prevalecer o STF e não as pessoas, diz Temer, que indicou Moraes",
+      "link": "https://www.poder360.com.br/poder-justica/deve-prevalecer-o-stf-e-nao-as-pessoas-diz-temer-que-indicou-moraes/",
+      "summary": "Apesar de ter se pronunciado sobre a crise no Supremo, o ex-presidente não citou o nome de ministros nem de qualquer outro político envolvido nos recentes desdobramentos do caso Master",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 01:56:40 +0000"
+    },
+    {
       "id": "bcbb180410c1",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -464,6 +464,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -492,27 +493,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 23:43:38 +0000"
     },
     {
-      "id": "1ae208cc6786",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entenda as 3 decisões de Fachin durante crise no STF",
-      "link": "https://www.poder360.com.br/poder-justica/entenda-as-3-decisoes-de-fachin-durante-crise-no-stf/",
-      "summary": "Presidente da Corte tirou Moraes do inquérito das fake news, manteve Andrei na PF e levou disputa ao plenário",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 23:20:23 +0000"
-    },
-    {
       "id": "4de29a8feba1",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -526,8 +506,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -536,64 +516,86 @@
       "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
     },
     {
-      "id": "c159ff32aca3",
-      "source": "Folha de São Paulo",
+      "id": "f380b7521f00",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Carlos e ala radical voltam a cobrar conexão de Flávio Bolsonaro com o pai e criticar Daniella Marques",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-e-ala-radical-voltam-a-cobrar-conexao-de-flavio-bolsonaro-com-o-pai-e-criticar-daniella-marques.shtml",
-      "summary": "As tensões internas do bolsonarismo voltaram a se acirrar em meio à crise no STF (Supremo Tribunal Federal) com cobranças da ala mais radical sobre o senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República. Sob reserva, esses apoiadores pedem mais gestos em relação a Jair Bolsonaro (PL) e reclamam de Daniella Marques, conselheira econômica do filho 01.\nLeia mais (09/09/2026 - 22h12)",
+      "title": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-agenda-de-marconi-perillo-de-quarta-feira-9.ghtml",
+      "summary": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial\nMarconi Perillo (PSDB), candidato ao governo de Goiás, defendeu medidas para desburocratizar o setor produtivo, simplificar processos tributários e atrair investimentos. As declarações foram feitas durante sabatina realizada na Associação Comercial, Industrial e de Serviços do Estado de Goiás (Acieg), em Goiânia, nesta quarta-feira (9), em encontro com empresários e lideranças econômicas de Goiás. \nO encontro foi realizado na sede da entidade, no Setor Oeste. A sabatina abriu uma série de mesas-redondas que a Acieg promoverá com os candidatos ao Palácio das Esmeraldas. \n✅ Clique e siga o canal do g1 GO no WhatsApp\nDurante a conversa, o candidato apresentou propostas voltadas ao incentivo à indústria, ao comércio e ao setor de serviços. Entre os pontos defendidos, Marconi destacou a necessidade de qualificar a mão de obra local por meio da Universidade Estadual de Goiás (UEG). \nAlém disso, o candidato disse que aplicar tecnologias específicas para cada área produtiva e reduzir os entraves burocráticos e fiscais que travam a abertura e o fechamento de empresas.\nEleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nEleições 2026: Marconi Perillo visita TCM e comerciantes de Anápolis nesta segunda-feira (31)\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\n\"O objetivo é criar condições para que a gente possa continuar atraindo investimentos industriais e empresariais para manter a nossa economia dinâmica e para gerar mais empregos, desburocratizando a questão da instalação e do fechamento de empresas\", destacou o candidato.\nMarconi ainda defendeu a criação de polos de desenvolvimento tecnológico distribuídos pelas regiões goianas segundo a vocação econômica de cada localidade, integrando incentivos para o primeiro emprego e para o empreendedorismo jovem.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "09 Sep 2026 22:12:00 -0300"
-    },
-    {
-      "id": "764fd85ce2a9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Casal Estevam e Sonia Hernandes, da Renascer, fecha apoio a Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casal-estevam-e-sonia-hernandes-da-renascer-fecha-apoio-a-flavio-bolsonaro.shtml",
-      "summary": "O apóstolo Estevam Hernandes declarou nesta quarta (9) que vai votar em Flávio Bolsonaro (PL) para presidente. Não que a opção à direita chegue a surpreender: líder da igreja Renascer em Cristo e idealizador da Marcha para Jesus, Estevam já havia endossado o pai de Flávio em 2022.\nLeia mais (09/09/2026 - 21h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "09 Sep 2026 21:00:00 -0300"
-    },
-    {
-      "id": "33b703a3db23",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 09 Sep 2026 23:43:27 -0000"
+    },
+    {
+      "id": "5ced05940e18",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
+      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
+    },
+    {
+      "id": "63896b4c940f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT, diretor de subsidiária da Petrobras e doutoranda da USP estão entre maiores doadores de Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/pt-diretor-de-subsidiaria-da-petrobras-e-doutoranda-da-usp-estao-entre-maiores-doadores-de-lula.shtml",
+      "summary": "A candidatura de reeleição do presidente Luiz Inácio Lula da Silva (PT) registra cerca de R$ 35,9 milhões em doações até esta quarta-feira (9), início do prazo de envio da prestação de contas parciais de cada partido para a Justiça Eleitoral.\nLeia mais (09/09/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
+      "score": 85,
+      "publishedRaw": "09 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "78054f0706ae",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliados aconselham Lula a se afastar de Moraes e o veem como 'zumbi'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-aconselham-lula-a-se-afastar-de-moraes-e-o-veem-como-zumbi.shtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva foi aconselhado por aliados a lentamente se distanciar de Alexandre de Moraes, que teve dupla derrota nesta quarta-feira (9), com a perda do inquérito das fake news e a marcação de uma sessão do STF para decidir pela abertura de investigação sobre sua relação com o banqueiro Daniel Vorcaro.\nLeia mais (09/09/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "09 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "58941435ac9c",
@@ -608,7 +610,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -629,70 +631,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 01:18:05 +0000"
-    },
-    {
-      "id": "b78520ffcdbb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
-    },
-    {
-      "id": "abccfc59c43a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Janja diz que, se dependesse de Bolsonaro, nordestinos “comiam capim”",
-      "link": "https://www.poder360.com.br/poder-gente/janja-diz-que-se-dependesse-de-bolsonaro-nordestinos-comiam-capim/",
-      "summary": "Primeira-dama afirma que ex-presidente não tem projeto para o país e que seu governo foi de “barbárie”",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
-    },
-    {
-      "id": "f380b7521f00",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/09/eleicoes-2026-agenda-de-marconi-perillo-de-quarta-feira-9.ghtml",
-      "summary": "Eleições 2026: Marconi Perillo fala em desburocratização no setor empresarial\nMarconi Perillo (PSDB), candidato ao governo de Goiás, defendeu medidas para desburocratizar o setor produtivo, simplificar processos tributários e atrair investimentos. As declarações foram feitas durante sabatina realizada na Associação Comercial, Industrial e de Serviços do Estado de Goiás (Acieg), em Goiânia, nesta quarta-feira (9), em encontro com empresários e lideranças econômicas de Goiás. \nO encontro foi realizado na sede da entidade, no Setor Oeste. A sabatina abriu uma série de mesas-redondas que a Acieg promoverá com os candidatos ao Palácio das Esmeraldas. \n✅ Clique e siga o canal do g1 GO no WhatsApp\nDurante a conversa, o candidato apresentou propostas voltadas ao incentivo à indústria, ao comércio e ao setor de serviços. Entre os pontos defendidos, Marconi destacou a necessidade de qualificar a mão de obra local por meio da Universidade Estadual de Goiás (UEG). \nAlém disso, o candidato disse que aplicar tecnologias específicas para cada área produtiva e reduzir os entraves burocráticos e fiscais que travam a abertura e o fechamento de empresas.\nEleições 2026: Marconi Perillo fala em desburocratização no setor empresarial e em atração de investimentos durante sabatina na Acieg\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nEleições 2026: Marconi Perillo visita TCM e comerciantes de Anápolis nesta segunda-feira (31)\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\n\"O objetivo é criar condições para que a gente possa continuar atraindo investimentos industriais e empresariais para manter a nossa economia dinâmica e para gerar mais empregos, desburocratizando a questão da instalação e do fechamento de empresas\", destacou o candidato.\nMarconi ainda defendeu a criação de polos de desenvolvimento tecnológico distribuídos pelas regiões goianas segundo a vocação econômica de cada localidade, integrando incentivos para o primeiro emprego e para o empreendedorismo jovem.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 23:43:27 -0000"
     },
     {
       "id": "d0f5f02111ad",
@@ -707,8 +652,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -728,8 +673,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -749,8 +694,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -758,23 +703,42 @@
       "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
     },
     {
-      "id": "5ced05940e18",
-      "source": "BBC Brasil",
+      "id": "34589a6cbb36",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
-      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+      "category": "Política",
+      "title": "Inflação de itens típicos da classe média pode influenciar eleições, dizem especialistas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/inflacao-de-itens-tipicos-da-classe-media-pode-influenciar-eleicoes-dizem-especialistas.shtml",
+      "summary": "A inflação no Brasil está dentro do teto da meta, de 4,5% ao ano, mas alguns produtos que pesam no orçamento das famílias podem ter papel relevante nas eleições deste ano.\nLeia mais (09/09/2026 - 23h00)",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "eleições"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
+      "publishedRaw": "09 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "33b703a3db23",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
     },
     {
       "id": "a68c011ff308",
@@ -789,9 +753,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Wed, 09 Sep 2026 17:04:47 -0000"
     },
     {
@@ -807,9 +772,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Wed, 09 Sep 2026 12:02:53 -0000"
     },
     {
@@ -825,25 +791,47 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
     },
     {
-      "id": "e6751e3d25bd",
-      "source": "Folha de São Paulo",
+      "id": "b78520ffcdbb",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "OAB descarta pedir impeachment de Moraes e Toffoli, mas vai analisar conduta de ministros",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/oab-descarta-pedir-impeachment-de-moraes-e-toffoli-mas-vai-analisar-conduta-de-ministros.shtml",
-      "summary": "A OAB (Ordem Nacional dos Advogados) descartou nesta quarta-feira (9) a proposta de apresentar ao Senado pedido de impeachment de ministros do STF (Supremo Tribunal Federal), mas decidiu criar uma comissão para analisar a conduta dos magistrados e tomar medidas frente ao caso do Banco Master.\nLeia mais (09/09/2026 - 22h24)",
+      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
+      "summary": "",
       "tags": [
-        "impeachment"
+        "Bolsonaro"
       ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "09 Sep 2026 22:24:00 -0300"
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 79,
+      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
+    },
+    {
+      "id": "abccfc59c43a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja diz que, se dependesse de Bolsonaro, nordestinos “comiam capim”",
+      "link": "https://www.poder360.com.br/poder-gente/janja-diz-que-se-dependesse-de-bolsonaro-nordestinos-comiam-capim/",
+      "summary": "Primeira-dama afirma que ex-presidente não tem projeto para o país e que seu governo foi de “barbárie”",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
     },
     {
       "id": "c50028254f9a",
