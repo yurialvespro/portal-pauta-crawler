@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T02:16:10.880621+00:00",
+  "generated_at": "2026-09-10T02:43:52.229087+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,6 +15,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -151,6 +152,29 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 15:28:18 -0000"
+    },
+    {
+      "id": "61f17c89536b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT vai ao STF por retirada de sigilo do caso Master após pedido de Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pt-vai-ao-stf-por-retirada-de-sigilo-do-caso-master-apos-pedido-de-lula/",
+      "summary": "Petições assinadas por advogado da campanha de Lula foram encaminhadas aos ministros André Mendonça e Flávio Dino",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 02:16:12 +0000"
     },
     {
       "id": "95a90a732b13",
@@ -323,27 +347,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 21:56:32 +0000"
     },
     {
-      "id": "a6bd4e52a8c7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como ministros do STF receberam decisões de Fachin: ‘Amenizam a crise, mas não resolvem’",
-      "link": "https://www.estadao.com.br/politica/como-ministros-do-stf-receberam-decisoes-de-fachin-amenizam-a-crise-mas-nao-resolvem/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 21:31:00 +0000"
-    },
-    {
       "id": "a9bb22f947af",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -472,27 +475,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 01:30:26 +0000"
     },
     {
-      "id": "d75019ae2d48",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba quais empresários defendem o afastamento de ministros do STF",
-      "link": "https://www.poder360.com.br/poder-justica/manifesto-de-empresarios-saiba-quem-defende-o-afastamento-de-ministros-do-stf/",
-      "summary": "Grupo divulgou manifesto pedindo a adoção de código de conduta para tribunais superiores e o afastamento cautelar de autoridades que forem formalmente investigadas",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 23:43:38 +0000"
-    },
-    {
       "id": "4de29a8feba1",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -506,6 +488,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -568,6 +551,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -589,6 +573,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -610,6 +595,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -617,6 +603,28 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+    },
+    {
+      "id": "eb26e7c23c88",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliado de Lula em MG lança “Os Intocáveis do Zema”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/aliado-de-lula-em-mg-lanca-os-intocaveis-do-zema/",
+      "summary": "Patrus fez “paródia da paródia” ao representar Zema e aliados como “os intocáveis” de Minas Gerais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 02:18:58 +0000"
     },
     {
       "id": "193c741012c5",
@@ -631,6 +639,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -652,6 +661,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -673,6 +683,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -694,6 +705,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -739,6 +751,25 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
+    },
+    {
+      "id": "80a83a0f4bfc",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump promete dar mais de R$ 25 mil por adulto se republicanos vencerem eleições de novembro",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/09/trump-promete-dar-mais-de-r-25-mil-por-adulto-se-republicanos-vencerem-eleicoes-de-novembro.ghtml",
+      "summary": "Convenção Republicana em Dallas.\nEvan Vucci / Reuters\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (9) que pretende conceder um pagamento de US$ 5 mil (cerca de R$ 25.486,50) a cada adulto do país caso os republicanos mantenham o controle da Câmara dos Representantes e do Senado nas eleições de novembro.\nO anúncio foi feito durante uma convenção republicana em Dallas, no Texas. Segundo Trump, o benefício seria uma espécie de \"dividendo\" distribuído aos cidadãos em razão do que classificou como o sucesso da economia americana.\n\"Se os republicanos vencerem a Câmara dos Representantes e o Senado dos Estados Unidos, ambos... por causa da nossa enorme força e sucesso econômico, vou conceder um dividendo de US$ 5 mil a cada cidadão adulto dos Estados Unidos da América\", declarou.\nTrump acrescentou que o dinheiro teria uma condição: precisaria ser gasto dentro dos Estados Unidos.\n\"A única condição é que o dividendo que estamos concedendo seja gasto nos Estados Unidos da América\", disse.\nO presidente não detalhou como a proposta seria financiada nem quem teria direito ao pagamento. Também não informou quando o benefício seria implementado, caso os republicanos vençam as eleições.\nEm novembro, os americanos vão às urnas para as chamadas eleições de meio de mandato, que renovam todos os 435 assentos da Câmara dos Representantes e parte das vagas do Senado. O resultado definirá qual partido controlará o Congresso pelos próximos dois anos, influenciando diretamente a capacidade de Trump de aprovar projetos e avançar sua agenda de governo.\n*Com informações da Reuters. \nInitial plugin text",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 10 Sep 2026 02:26:59 -0000"
     },
     {
       "id": "a68c011ff308",
@@ -834,6 +865,25 @@
       "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
     },
     {
+      "id": "26928df4f468",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos tem candidatura validada pelo TSE; ainda faltam Marçal e Cury",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-tem-candidatura-validada-pelo-tse-ainda-faltam-marcal-e-cury/",
+      "summary": "Pablo Marçal está inelegível pelo TSE até 2032 por uso indevido dos meios de comunicação quando ele foi candidato à prefeitura de São Paulo",
+      "tags": [
+        "Renan Santos",
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 72,
+      "publishedRaw": "Thu, 10 Sep 2026 01:56:42 +0000"
+    },
+    {
       "id": "c50028254f9a",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -845,8 +895,10 @@
         "candidatura",
         "TSE"
       ],
-      "crossOutlets": [],
-      "score": 65,
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 70,
       "publishedRaw": "Thu, 10 Sep 2026 01:17:39 +0000"
     },
     {
@@ -863,6 +915,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Wed, 09 Sep 2026 18:00:47 -0000"
+    },
+    {
+      "id": "0dc897de62e7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Haddad diz que reforma tributária vai ajudar a reindustrializar SP ao acabar com a guerra fiscal",
+      "link": "https://www.estadao.com.br/politica/eleicoes/haddad-diz-que-reforma-tributaria-vai-ajudar-a-reindustrializar-sp-ao-acabar-com-a-guerra-fiscal/",
+      "summary": "",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "Wed, 09 Sep 2026 19:02:05 +0000"
     }
   ]
 }
