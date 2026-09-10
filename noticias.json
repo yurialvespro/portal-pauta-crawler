@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T13:16:24.812641+00:00",
+  "generated_at": "2026-09-10T13:43:23.656182+00:00",
   "items": [
     {
       "id": "7de174b6c765",
@@ -17,6 +17,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -40,6 +41,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -63,6 +65,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -85,11 +88,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 11:09:54 -0000"
     },
     {
@@ -105,11 +109,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:54:48 -0000"
     },
     {
@@ -125,35 +130,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "4de29a8feba1",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/09/nao-venha-o-tribunal-eleitoral-querer-falcatrua-diz-lula-apos-citar-possivel-interferencia-dos-eua-nas-eleicoes.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil.\nDurante discurso em um ato de campanha em Teresina, no Piauí, o petista afirmou que sabe do que o governo de Donald Trump é capaz e que, por isso, espera que \"o tribunal eleitoral não venha querer falcatrua\". O presidente não deixou claro se fazia referência ao Tribunal Superior Eleitoral na declaração.\n\"Queremos provar que o brasileiro não deve nada a ninguém. Que não venham os americanos quererem influir nas nossas eleições. Que não venha o tribunal eleitoral querer falcatrua. Porque a gente sabe do que são eles são capazes, e se vierem se meter aqui, a gente vai derrotá-los, vai derrotar os americanos e vai derrotar quem se meter\", disse Lula.\nAgora no g1\nNo fim de agosto, Lula e Trump conversaram por telefone durante 1h20, após um pedido do presidente brasileiro para falar com o americano. \nNa ligação, Trump perguntou a Lula sobre as eleições de outubro. Lula já afirmou que disse ao presidente dos EUA que o Brasil não aceita ingerência de ninguém nas eleições. \nNo discurso desta quarta no Piauí, o petista voltou a se posicionar.\n\"O Trump que se meta no país dele, aqui é problema nosso, dos brasileiros e ninguém tasca. Eles vão ter que aprender conosco uma lição. Nós somos pobres, mas somos orgulhosos. Nós temos que dizer para eles que caráter e dignidade a gente não compra em shopping, não compra em aeroporto, traz da barriga da mãe, do pai\", disse o presidente.\n\"Isso a gente ensina para qualquer país que quiser se meter em nosso processo eleitoral. Essa eleição o que está em jogo é se a gente vai continuar avançando ou retroceder.\"\nPresidente Luiz Inácio Lula da Silva (PT) durante ato de campanha à reeleição em Teresina (PI)\nReprodução",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
     },
     {
       "id": "acc11730b545",
@@ -168,11 +151,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 09:44:29 -0000"
     },
     {
@@ -188,12 +172,58 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "10 Sep 2026 08:34:00 -0300"
+    },
+    {
+      "id": "77d474933b34",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Por que o Brasil chama o STF assim e não de Suprema Corte? Descubra o motivo histórico",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-brasil-chama-o-stf-assim-e-nao-de-suprema-corte-descubra-o-motivo-historico/",
+      "summary": "Embora inspirada no modelo americano, a instituição máxima do Judiciário brasileiro passou por mudanças de nome ao longo das Constituições",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 13:02:27 +0000"
+    },
+    {
+      "id": "7cf660f0eac1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise do STF pode escalar e atingir Lula e Flávio, aponta Arko Advice",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/crise-do-stf-pode-escalar-e-atingir-lula-e-flavio-aponta-arko-advice/",
+      "summary": "Em entrevista ao WW, Cristiano Noronha avalia que instabilidade no Supremo pode prejudicar os dois principais candidatos às eleições",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 12:51:11 +0000"
     },
     {
       "id": "526d33b15a8b",
@@ -208,11 +238,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 12:30:00 +0000"
     },
     {
@@ -228,11 +259,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 02:39:03 +0000"
     },
     {
@@ -248,11 +280,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 01:07:10 +0000"
     },
     {
@@ -267,12 +300,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:16:07 GMT"
     },
     {
@@ -287,12 +321,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 10:27:41 GMT"
     },
     {
@@ -307,12 +342,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:52:49 GMT"
     },
     {
@@ -327,12 +363,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": ""
     },
     {
@@ -347,12 +384,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 09:34:33 GMT"
     },
     {
@@ -367,13 +405,38 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 21:33:53 GMT"
+    },
+    {
+      "id": "4de29a8feba1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/nao-venha-o-tribunal-eleitoral-querer-falcatrua-diz-lula-apos-citar-possivel-interferencia-dos-eua-nas-eleicoes.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil.\nDurante discurso em um ato de campanha em Teresina, no Piauí, o petista afirmou que sabe do que o governo de Donald Trump é capaz e que, por isso, espera que \"o tribunal eleitoral não venha querer falcatrua\". O presidente não deixou claro se fazia referência ao Tribunal Superior Eleitoral na declaração.\n\"Queremos provar que o brasileiro não deve nada a ninguém. Que não venham os americanos quererem influir nas nossas eleições. Que não venha o tribunal eleitoral querer falcatrua. Porque a gente sabe do que são eles são capazes, e se vierem se meter aqui, a gente vai derrotá-los, vai derrotar os americanos e vai derrotar quem se meter\", disse Lula.\nAgora no g1\nNo fim de agosto, Lula e Trump conversaram por telefone durante 1h20, após um pedido do presidente brasileiro para falar com o americano. \nNa ligação, Trump perguntou a Lula sobre as eleições de outubro. Lula já afirmou que disse ao presidente dos EUA que o Brasil não aceita ingerência de ninguém nas eleições. \nNo discurso desta quarta no Piauí, o petista voltou a se posicionar.\n\"O Trump que se meta no país dele, aqui é problema nosso, dos brasileiros e ninguém tasca. Eles vão ter que aprender conosco uma lição. Nós somos pobres, mas somos orgulhosos. Nós temos que dizer para eles que caráter e dignidade a gente não compra em shopping, não compra em aeroporto, traz da barriga da mãe, do pai\", disse o presidente.\n\"Isso a gente ensina para qualquer país que quiser se meter em nosso processo eleitoral. Essa eleição o que está em jogo é se a gente vai continuar avançando ou retroceder.\"\nPresidente Luiz Inácio Lula da Silva (PT) durante ato de campanha à reeleição em Teresina (PI)\nReprodução",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
     },
     {
       "id": "2c341f34f421",
@@ -388,6 +451,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -409,6 +473,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -418,25 +483,26 @@
       "publishedRaw": "10 Sep 2026 09:20:00 -0300"
     },
     {
-      "id": "59e44d1f412a",
-      "source": "Folha de São Paulo",
+      "id": "410b1a354e7b",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Operação mira esquema que transforma celulares roubados em produtos para revenda",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/operacao-mira-esquema-que-transforma-celulares-roubados-em-produtos-para-revenda.shtml",
-      "summary": "Ministério Público e as polícias Civil e Militar de São Paulo deflagraram na manhã desta quinta-feira (10) uma operação contra um esquema nacional de furto, roubo, receptação, adulteração e revenda de celulares. A ação cumpre sete mandados de prisão e quase 90 de busca e apreensão.\nLeia mais (09/10/2026 - 07h47)",
+      "title": "Lula dá indireta e chama Ciro Nogueira de ‘vira-lata’ em comício no Piauí",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-da-indireta-e-chama-ciro-nogueira-de-vira-lata-em-comicio-no-piaui/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "10 Sep 2026 07:47:00 -0300"
+      "publishedRaw": "Thu, 10 Sep 2026 13:15:41 +0000"
     },
     {
       "id": "2ae7a64bfcdd",
@@ -451,6 +517,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -472,6 +539,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -479,27 +547,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "58941435ac9c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT inicia ofensiva contra André Mendonça que envolve Lula e pede apoio de militantes",
-      "link": "https://www.estadao.com.br/politica/eleicoes/pt-inicia-ofensiva-contra-andre-mendonca-que-envolve-lula-e-pede-apoio-de-militantes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
     },
     {
       "id": "692846131df4",
@@ -522,6 +569,94 @@
       "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
     },
     {
+      "id": "999b9ad07dcd",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é desaprovado por 62% do eleitorado de MS, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-62-do-eleitorado-de-ms-diz-pesquisa/",
+      "summary": "Levantamento da Real Time Big Data ouviu 1.600 eleitores do Mato Grosso do Sul de 5 a 9 de setembro; 33% aprovam o presidente",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 13:37:08 +0000"
+    },
+    {
+      "id": "2d323b3bb244",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: Lula sanciona projeto sobre regras de tributação de remessas internacionais",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-sanciona-projeto-sobre-regras-de-tributacao-de-remessas-internacionais/",
+      "summary": "A medida foi aprovada pelo Congresso e encerra a cobrança do imposto de importação sobre remessas de até US$ 50",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 13:33:44 +0000"
+    },
+    {
+      "id": "6d1b5e08f275",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Operação mira esquema de roubo e revenda de celulares em SP",
+      "link": "https://www.poder360.com.br/poder-seguranca-publica/operacao-mira-esquema-de-roubo-e-revenda-de-celulares-em-sp/",
+      "summary": "Ação cumpre 7 mandados de prisão e 84 de busca e apreensão contra quadrilha que atuava em 4 etapas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 13:26:33 +0000"
+    },
+    {
+      "id": "3981e0d3d202",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 52% contra 38% de Lula no 2º turno em MS, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-52-contra-38-de-lula-no-2o-turno-em-ms-diz-pesquisa/",
+      "summary": "Levantamento da Real Time Big Data ouviu 1.600 eleitores do Mato Grosso do Sul de 5 a 9 de setembro; Flávio lidera no Estado",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 13:17:18 +0000"
+    },
+    {
       "id": "b2e4d3baea1b",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -534,6 +669,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -555,6 +691,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -576,6 +713,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -583,27 +721,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 12:35:22 +0000"
-    },
-    {
-      "id": "9647397d58d0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula lidera 2º turno com 62% contra 30% de Flávio no RN, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-lidera-2o-turno-com-62-contra-30-de-flavio-no-rn-diz-pesquisa/",
-      "summary": "Pesquisa Real Time Big Data ouviu 1.600 eleitores de 5 a 9 de setembro; petista também lidera 1º turno, com 56%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 11:56:25 +0000"
     },
     {
       "id": "4419da39fd08",
@@ -694,6 +811,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -715,6 +833,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -736,6 +855,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -863,6 +983,21 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Thu, 10 Sep 2026 01:17:39 +0000"
+    },
+    {
+      "id": "d83e8a0d7ed3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Endividamento das famílias em agosto fica em 82,0%, igual a julho",
+      "link": "https://www.poder360.com.br/poder-economia/endividamento-das-familias-em-agosto-fica-em-820-igual-a-julho/",
+      "summary": "O percentual de famílias que se consideram muito endividadas subiu de 17,1% para 17,4% em 1 mês, diz CNC",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Thu, 10 Sep 2026 13:30:31 +0000"
     },
     {
       "id": "8ea8b9ce8742",
