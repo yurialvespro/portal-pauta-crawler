@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:16:30.252181+00:00",
+  "generated_at": "2026-09-10T10:45:00.908674+00:00",
   "items": [
     {
       "id": "7de174b6c765",
@@ -17,6 +17,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -62,6 +63,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -84,6 +86,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -105,6 +108,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -126,6 +130,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -147,6 +152,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -168,6 +174,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -189,6 +196,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -210,6 +218,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -231,6 +240,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -252,6 +262,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -273,6 +284,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -280,6 +292,28 @@
       ],
       "score": 90,
       "publishedRaw": "10 Sep 2026 05:00:00 -0300"
+    },
+    {
+      "id": "668497e12ce6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF deve abrir investigação contra Moraes dia 15?",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-deve-abrir-investigacao-contra-moraes-dia-15/",
+      "summary": "Plenário do STF se reúne em sessão extraordinária para decidir sobre investigação envolvendo Alexandre de Moraes",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 10:20:23 +0000"
     },
     {
       "id": "fa45d78f87b3",
@@ -294,6 +328,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -315,6 +350,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -337,6 +373,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -359,6 +396,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -380,6 +418,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -401,6 +440,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -410,25 +450,26 @@
       "publishedRaw": "Wed, 09 Sep 2026 22:10:52 +0000"
     },
     {
-      "id": "2653fd41d0ac",
-      "source": "Estadão",
+      "id": "f982a08c8589",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entenda todas as decisões de Fachin para tentar debelar a crise no STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entenda-todas-as-decisoes-de-fachin-para-tentar-debelar-a-crise-no-stf/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes",
+      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
+      "summary": "A convocação de sessão plenária extraordinária aconteceu nesta quarta-feira (9/9), pelo presidente do STF, ministro Edson Fachin, que tomou uma série de decisões para tentar frear a crise na Corte",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 22:12:21 +0000"
+      "publishedRaw": "Thu, 10 Sep 2026 10:27:41 GMT"
     },
     {
       "id": "a9bb22f947af",
@@ -442,6 +483,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -463,6 +505,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -484,6 +527,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -505,6 +549,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -513,27 +558,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 21:33:53 GMT"
-    },
-    {
-      "id": "569776d956c3",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 22:07:41 GMT"
     },
     {
       "id": "5cfccb46eea7",
@@ -547,6 +571,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -555,6 +580,28 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 03:16:07 GMT"
+    },
+    {
+      "id": "569776d956c3",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Para criminalista, Moraes tem dificuldade de se defender de suspeitas e busca ampla anulação da operação Compliance Zero.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 09 Sep 2026 22:07:41 GMT"
     },
     {
       "id": "4de29a8feba1",
@@ -570,6 +617,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -612,6 +660,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -633,6 +682,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -654,6 +704,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -661,6 +712,94 @@
       ],
       "score": 85,
       "publishedRaw": "10 Sep 2026 05:23:00 -0300"
+    },
+    {
+      "id": "b6a0abc95a58",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Operação do MP mira esquema de roubo e receptação de celulares em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-do-mp-mira-esquema-de-roubo-e-receptacao-de-celulares-em-sp/",
+      "summary": "Ministério Público explicou como esquema se divide em quatro núcleos; são cumpridas ao todo sete mandados de prisão e 84 de busca e apreensão",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:27:26 +0000"
+    },
+    {
+      "id": "e0b2111ad3c5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Flávio tem 53% no 2º turno no RS, contra 42% de Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-53-no-2o-turno-no-rs-contra-42-de-lula/",
+      "summary": "No 1º turno, candidatos aparecem tecnicamente empatados pela margem de erro, com 42% das intenções de voto para o senador e 39% para o petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:04:04 +0000"
+    },
+    {
+      "id": "91964941f396",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula é desaprovado por 51%; 45% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-e-desaprovado-por-51-45-aprovam/",
+      "summary": "Instituto entrevistou 2.000 eleitores entre os dias 27 e 31 de agosto; margem de erro é de dois pontos percentuais, para mais ou para menos, com índice de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:03:05 +0000"
+    },
+    {
+      "id": "faadaf3ec9b4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula lidera cenários de 1º e 2º turnos no Maranhão",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-lidera-cenarios-de-1o-e-2o-turnos-no-maranhao/",
+      "summary": "Pesquisa entrevistou 1.600 pessoas, entre os dias 05 e 09 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:01:44 +0000"
     },
     {
       "id": "06f10f853bc6",
@@ -675,6 +814,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -696,6 +836,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -703,6 +844,94 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+    },
+    {
+      "id": "4625373e313f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é rejeitado por 50% e Flávio, por 45%, diz PoderData/Aya",
+      "link": "https://www.poder360.com.br/poderdata/lula-e-rejeitado-por-50-e-flavio-por-45-diz-poderdata-aya/",
+      "summary": "Levantamento de 6 a 9 de setembro mostra que rejeição ao congressista manteve trajetória de queda, enquanto o petista registrou movimento oposto",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:30:58 +0000"
+    },
+    {
+      "id": "7c14de6ebf7d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: Lula tem 38% contra 36% de Flávio no 1º turno",
+      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-lula-tem-38-contra-36-de-flavio-no-1o-turno/",
+      "summary": "Levantamento realizado de 6 a 9 de setembro mostra empate técnico entre o petista e o senador, com a menor diferença entre os 2 candidatos desde maio",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:30:56 +0000"
+    },
+    {
+      "id": "393f7fc6494c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: Lula é desaprovado por 51% e aprovado por 41%",
+      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-lula-e-desaprovado-por-51-e-aprovado-por-41/",
+      "summary": "Pesquisa realizada de 6 a 9 de setembro mostra leve piora na percepção do eleitorado sobre o trabalho do petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:30:53 +0000"
+    },
+    {
+      "id": "d7ea9adf5527",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 47% e Lula, 45% no 2º turno, diz PoderData/Aya",
+      "link": "https://www.poder360.com.br/poderdata/flavio-tem-47-e-lula-45-no-2o-turno-diz-poderdata-aya/",
+      "summary": "Pesquisa realizada de 6 a 9 de setembro mostra que petista fica numericamente atrás do senador pela 2ª rodada seguida; margem de erro é de 1,8 ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 10:30:51 +0000"
     },
     {
       "id": "cb54cbd7ce27",
@@ -717,6 +946,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -726,34 +956,13 @@
       "publishedRaw": "Thu, 10 Sep 2026 10:00:05 +0000"
     },
     {
-      "id": "d4be1bcd387e",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-5a-feira-4/",
-      "summary": "Sanção das regras de tributação de remessas internacionais e reuniões com a equipe de comunicação social movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 10:00:01 +0000"
-    },
-    {
       "id": "fbb35e5fe5f4",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PF deflagra operação sobre dinheiro de Vorcaro para filme de Bolsonaro",
+      "title": "PF deflagra operação sobre financiamento de \"Dark Horse\", filme de Bolsonaro",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-deflagra-operacao-sobre-dinheiro-de-vorcaro-para-filme-de-bolsonaro.shtml",
-      "summary": "A PF (Polícia Federal) deflagrou nesta quinta (10) operação contra 29 pessoas que teriam participado de um esquema de desvio de recursos de emendas para o filme \"Dark Horse\", sobre a vida de Jair Bolsonaro.\nLeia mais (09/10/2026 - 07h04)",
+      "summary": "A PF (Polícia Federal) deflagrou nesta quinta (10), operação contra 29 pessoas que teriam participado de um esquema de desvio de recursos de emendas parlamentares para o filme \"Dark Horse\", sobre a vida de Jair Bolsonaro. A CGU (Controladoria-Geral da União) participa das investigações.\nLeia mais (09/10/2026 - 07h04)",
       "tags": [
         "Bolsonaro"
       ],
@@ -892,6 +1101,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -913,6 +1123,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -934,6 +1145,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -955,6 +1167,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -1030,21 +1243,6 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Thu, 10 Sep 2026 01:17:39 +0000"
-    },
-    {
-      "id": "06f598825ecd",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Filho de idosos influencers, microempresário mineiro vai de Zema contra polarização",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/filho-de-idosos-influencers-microempresario-mineiro-vai-de-zema-contra-polarizacao.shtml",
-      "summary": "Meia dúzia de perucas se amontoavam na estante da sala de estar. Cabelos curtos, longos, lisos, encaracolados, pretos, loiros, ruivos, verde-amarelos...\nLeia mais (09/10/2026 - 04h02)",
-      "tags": [
-        "polarização"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "10 Sep 2026 04:02:00 -0300"
     },
     {
       "id": "0dc897de62e7",
