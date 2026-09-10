@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:16:21.215805+00:00",
+  "generated_at": "2026-09-10T09:44:34.665894+00:00",
   "items": [
     {
       "id": "7de174b6c765",
@@ -71,7 +71,7 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
+      "publishedRaw": "Thu, 10 Sep 2026 09:19:35 GMT"
     },
     {
       "id": "33b703a3db23",
@@ -453,6 +453,27 @@
       "publishedRaw": "Thu, 10 Sep 2026 03:52:49 GMT"
     },
     {
+      "id": "a74006e3c422",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Pior crise desde a redemocratização': como imprensa internacional noticiou novo capítulo da guerra no STF",
+      "link": "https://www.bbc.com/portuguese/articles/cde0rn1724xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A agência Bloomberg noticiou que Edson Fachin tomou as medidas \"mais agressivas até o momento\" em sua tentativa de retomar o controle do STF.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 09:34:33 GMT"
+    },
+    {
       "id": "971456e5557b",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -495,27 +516,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 21:33:53 GMT"
     },
     {
-      "id": "5cfccb46eea7",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
-      "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Veja a linha do tempo da crise iniciada após a publicação de troca de mensagens entre o ex-banqueiro Daniel Vorcaro e um número telefônico atribuído a Alexandre de Moraes.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 03:16:07 GMT"
-    },
-    {
       "id": "569776d956c3",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -535,6 +535,27 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 22:07:41 GMT"
+    },
+    {
+      "id": "5cfccb46eea7",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
+      "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Veja a linha do tempo da crise iniciada após a publicação de troca de mensagens entre o ex-banqueiro Daniel Vorcaro e um número telefônico atribuído a Alexandre de Moraes.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 03:16:07 GMT"
     },
     {
       "id": "0262ae9810a7",
