@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:17:12.232433+00:00",
+  "generated_at": "2026-09-10T07:44:46.189313+00:00",
   "items": [
     {
       "id": "7de174b6c765",
@@ -76,29 +76,25 @@
       "publishedRaw": "Thu, 10 Sep 2026 06:20:59 +0000"
     },
     {
-      "id": "2d52da0a3aa2",
-      "source": "CNN Brasil",
+      "id": "33b703a3db23",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que não quer Trump interferindo em eleições e TSE com “falcatrua”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-nao-quer-trump-interferindo-em-eleicoes-e-tse-com-falcatrua/",
-      "summary": "Em comício, petista cita possível ingerência do EUA no processo eleitoral e cita soberania do Brasil: \"Nós somos pobres, mas somos orgulhos\"",
+      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
+      "summary": "",
       "tags": [
-        "eleições",
-        "TSE",
-        "Lula"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
       "score": 91,
-      "publishedRaw": "Thu, 10 Sep 2026 04:37:32 +0000"
+      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
     },
     {
       "id": "8c8a7577beec",
@@ -278,6 +274,27 @@
       "publishedRaw": "10 Sep 2026 04:00:00 -0300"
     },
     {
+      "id": "507d8e412df6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin assume inquérito sobre atuação de Eduardo Bolsonaro nos EUA",
+      "link": "https://www.cnnbrasil.com.br/politica/fachin-assume-inquerito-sobre-atuacao-de-eduardo-bolsonaro-nos-eua/",
+      "summary": "Investigação deu origem à ação penal em que ex-deputado foi condenado por coação no curso do processo",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 10 Sep 2026 07:05:43 +0000"
+    },
+    {
       "id": "89fa26f1ec81",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -298,28 +315,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 06:13:07 +0000"
-    },
-    {
-      "id": "faed02ffa6be",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Senado em SP: debate tem discussões sobre segurança e reforma no STF",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/senado-em-sp-debate-tem-discussoes-sobre-seguranca-e-reforma-no-stf/",
-      "summary": "Candidatos também falaram maioridade penal, escala 6x1 e concessões",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 10 Sep 2026 04:39:22 +0000"
     },
     {
       "id": "fa45d78f87b3",
@@ -678,24 +673,44 @@
       "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
     },
     {
-      "id": "33b703a3db23",
+      "id": "b78520ffcdbb",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
+      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
       "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
+      "score": 88,
+      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
+    },
+    {
+      "id": "abccfc59c43a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja diz que, se dependesse de Bolsonaro, nordestinos “comiam capim”",
+      "link": "https://www.poder360.com.br/poder-gente/janja-diz-que-se-dependesse-de-bolsonaro-nordestinos-comiam-capim/",
+      "summary": "Primeira-dama afirma que ex-presidente não tem projeto para o país e que seu governo foi de “barbárie”",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
     },
     {
       "id": "4419da39fd08",
@@ -886,44 +901,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 01:18:05 +0000"
     },
     {
-      "id": "b78520ffcdbb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
-    },
-    {
-      "id": "abccfc59c43a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Janja diz que, se dependesse de Bolsonaro, nordestinos “comiam capim”",
-      "link": "https://www.poder360.com.br/poder-gente/janja-diz-que-se-dependesse-de-bolsonaro-nordestinos-comiam-capim/",
-      "summary": "Primeira-dama afirma que ex-presidente não tem projeto para o país e que seu governo foi de “barbárie”",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
-    },
-    {
       "id": "07014c0519d9",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -1081,10 +1058,9 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 74,
+      "score": 70,
       "publishedRaw": "Thu, 10 Sep 2026 01:17:39 +0000"
     },
     {
@@ -1099,10 +1075,9 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 73,
+      "score": 68,
       "publishedRaw": "10 Sep 2026 04:00:00 -0300"
     },
     {
