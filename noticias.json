@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:48:47.881480+00:00",
+  "generated_at": "2026-09-10T13:16:24.812641+00:00",
   "items": [
     {
       "id": "7de174b6c765",
@@ -71,29 +71,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 10 Sep 2026 12:36:54 -0000"
-    },
-    {
-      "id": "133d4825a7ca",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula atua nos bastidores para  conter crise no STF e faz inflexão no discurso de campanha",
-      "link": "https://www.estadao.com.br/politica/lula-atua-nos-bastidores-para-conter-crise-no-stf-e-faz-inflexao-no-discurso-de-campanha/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 22:55:47 +0000"
     },
     {
       "id": "3c2a825b6739",
@@ -219,6 +196,26 @@
       "publishedRaw": "10 Sep 2026 08:34:00 -0300"
     },
     {
+      "id": "526d33b15a8b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cheio de políticos, STF experimenta crise própria dos demais Poderes",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/cheio-de-politicos-stf-experimenta-crise-propria-dos-demais-poderes/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 10 Sep 2026 12:30:00 +0000"
+    },
+    {
       "id": "fa45d78f87b3",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -257,27 +254,6 @@
       ],
       "score": 89,
       "publishedRaw": "Thu, 10 Sep 2026 01:07:10 +0000"
-    },
-    {
-      "id": "692846131df4",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
-      "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Obra, que é cercada de controvérsias ligadas ao dono do Banco Master, deverá ser lançado só depois das eleições.",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
     },
     {
       "id": "5cfccb46eea7",
@@ -463,27 +439,6 @@
       "publishedRaw": "10 Sep 2026 07:47:00 -0300"
     },
     {
-      "id": "06f10f853bc6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Os números que a campanha de Lula tem em mãos que orientaram estratégia de largar a mão de Moraes",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/os-numeros-que-a-campanha-de-lula-tem-em-maos-que-orientaram-estrategia-de-largar-a-mao-de-moraes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 08:30:00 +0000"
-    },
-    {
       "id": "2ae7a64bfcdd",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -503,6 +458,27 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 12:07:44 +0000"
+    },
+    {
+      "id": "06f10f853bc6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Os números que a campanha de Lula tem em mãos que orientaram estratégia de largar a mão de Moraes",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/os-numeros-que-a-campanha-de-lula-tem-em-maos-que-orientaram-estrategia-de-largar-a-mao-de-moraes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "58941435ac9c",
@@ -526,6 +502,47 @@
       "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
     },
     {
+      "id": "692846131df4",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Obra, que é cercada de controvérsias ligadas ao dono do Banco Master, deverá ser lançado só depois das eleições.",
+      "tags": [
+        "eleições",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
+    },
+    {
+      "id": "b2e4d3baea1b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é aprovado por 65% e desaprovado por 30% no MA, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-aprovado-por-65-e-desaprovado-por-30-no-ma-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data ouviu 1.600 eleitores do Maranhão de 5 a 9 de setembro; margem de erro é de 2 p.p.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 12:54:29 +0000"
+    },
+    {
       "id": "7e3013982b98",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -545,6 +562,27 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 10 Sep 2026 12:37:52 +0000"
+    },
+    {
+      "id": "57b59999d2be",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio soma 62% contra 18% de Lula no 1º turno em Roraima",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-soma-62-contra-18-de-lula-no-1o-turno-em-roraima/",
+      "summary": "Pesquisa Real Time Big Data mostra que 60% dos eleitores dizem que não votariam no petista e 70% desaprovam seu trabalho",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 12:35:22 +0000"
     },
     {
       "id": "9647397d58d0",
@@ -707,46 +745,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 19:30:31 -0000"
     },
     {
-      "id": "0b8f501b2b56",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Apple lança o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.999",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
-      "summary": "iPhone Duo: Apple lança seu primeiro celular dobrável\nA Apple apresentou nesta quarta-feira (9) o iPhone Duo, com preços que partem de R$ 21.999 e vão R$ 30.999, dependendo da capacidade de armazenamento. (veja todos os preços)\nO modelo é o primeiro dobrável da Apple e marca a entrada da empresa em um segmento já explorado por concorrentes como Samsung e Huawei.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nO iPhone Duo segue a proposta de outros celulares dobráveis: uma tela externa de 5,4 polegadas permite acessar praticamente todos os recursos do iOS sem precisar abrir o aparelho.\nQuando aberto, o aparelho revela uma tela de 7,6 polegadas, pouco menor que a de 8,3 polegadas do iPad Mini.\niPhone Duo\ndivulgação/Apple\nA tela maior amplia a área para assistir a vídeos e oferece recursos extras em aplicativos de terceiros, como o Zoom. Também é possível usar dois aplicativos ao mesmo tempo.\nAté a chegada do iPhone Duo, o uso de dois aplicativos ao mesmo tempo era restrito aos iPads entre os dispositivos móveis da Apple. O Duo também é o primeiro iPhone compatível com a Apple Pencil, até então disponível apenas para iPads.\nPara reforçar a estrutura do iPhone Duo, a Apple usou titânio na carcaça. Segundo a empresa, uma textura aplicada à tela interna também ajuda a reduzir o vinco comum em celulares dobráveis.\nO aparelho tem quatro câmeras:\nDuas traseiras de 48 megapixels;\nUma frontal externa de 12 megapixels;\nUma câmera interna, sob a tela, capaz de gravar em Full HD (1080p).\nVeja abaixo as imagens do novo iPhone Duo:\niPhone Duo\nDiferentemente dos demais iPhones vendidos atualmente pela Apple, o Duo não tem reconhecimento facial nem entrada para chip físico de operadora — o aparelho utiliza apenas o chip virtual, chamado eSIM.\nNo lugar do reconhecimento facial, a autenticação biométrica é feita por um leitor de impressões digitais na lateral do aparelho.\nO iPhone Duo usa o mesmo chip A20 Pro dos novos iPhones 18 Pro e 18 Pro Max, também lançados nesta quarta-feira.\nA Apple não informa a capacidade da bateria, mas afirma que o aparelho oferece até 24 horas de uso típico. Segundo a empresa, a autonomia pode chegar a 44 horas usando a tela externa e a 31 horas com a tela interna.\nCom um carregador de 60 watts ou mais, a bateria pode chegar a 50% da carga em até 20 minutos, segundo a Apple.\nO iPhone Duo entra em pré-venda no dia 16 de outubro, e as entregas começam em 23 de outubro. \nConfira os preços do aparelho no Brasil:\niPhone Duo (256 GB): R$ 21.999;\niPhone Duo (512 GB): R$ 23.499;\niPhone Duo (1 TB): R$ 26.499;\niPhone Duo (2 TB): R$ 30.999.\nVeja também os preços do aparelho nos EUA:\niPhone Duo (256 GB): US$ 1.999;\niPhone Duo (512 GB): US$ 2.199;\niPhone Duo (1 TB): US$ 2.599;\niPhone Duo (2 TB): US$ 3.199.\nRumores já indicavam o iPhone dobrável\nO iPhone Duo retomou o uso do leitor de impressões digitais (Touch ID) para desbloquear o aparelho. Outros iPhones usam o reconhecimento facial (FaceID).\nReprodução\nEm 2024, o site de tecnologia \"The Information\" já havia noticiado que a Apple poderia lançar um modelo dobrável em 2026.\nNa época, o \"The Information\" afirmou que a Apple buscava fornecedores na Ásia para fabricar componentes do aparelho e havia dado ao projeto o codinome interno V68. \nRelembre as principais mudanças do iPhone desde o lançamento:\n2007: Apple lança o primeiro iPhone com tela multitoque;\n2008: iPhone 3G chega com conexão 3G e loja de aplicativos, a App Store;\n2011: Siri é lançada oficialmente integrada ao iPhone 4S;\n2012: conexão 4G chega ao iPhone 5;\n2013: sensor de impressão digital (Touch ID) chega ao iPhone 5S;\n2017: iPhone ganha carregamento sem fio, a partir do iPhone 8;\n2018: iPhone XS Max chega com a maior tela já usada em um iPhone;\n2020: Apple retoma design semelhante ao do iPhone 4 no iPhone 12, que também ganha conexão 5G;\n2022: iPhone 14 Pro e Pro Max ganham entalhe interativo na tela, chamado de Ilha Dinâmica (Dynamic Island);\n2023: iPhone abandona a conexão própria Lightning e ganha USB-C, já presente em aparelhos Android;\n2025: iPhone reformula totalmente o design da linha Pro e Pro Max e lança uma nova categoria: o iPhone Air, um smartphone ultrafino.\niPhone Duo branco e preto\ndivulgação/Apple",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
-    },
-    {
-      "id": "33b703a3db23",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
-    },
-    {
       "id": "5ced05940e18",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -766,79 +764,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
-      "id": "b059e21a17a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
-      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina Gama são alvos da ação, apurou a BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 81,
-      "publishedRaw": ""
-    },
-    {
-      "id": "c8fd31912c2f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml",
-      "summary": "Mario Frias, secretário especial de Cultura do governo federal\nRoberto Castro/ Mtur\nAtor e deputado federal pelo PL de São Paulo, Mario Frias é um dos alvos da operação Make Up, deflagrada nesta quinta-feira (10) pela Polícia Federal (PF) e pela Controladoria-Geral da União (CGU). \nA ação investiga o suposto uso irregular de emendas parlamentares e de recursos públicos que teriam sido destinados a entidades e empresas ligadas à produtora do filme Dark Horse.\nFrias atua como roteirista e produtor-executivo da produção, que conta a história do ex-presidente Jair Bolsonaro.\nO deputado também é alvo de outra investigação no STF, sob relatoria do ministro André Mendonça, que apura repasses feitos pelo ex-banqueiro Daniel Vorcaro e o caminho desses recursos.\nMario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nMario Frias: da carreira artística à entrada na política\nMario Luís Frias nasceu no Rio de Janeiro, em 9 de outubro de 1971. Aos 54 anos, tem uma trajetória que começou na televisão e, posteriormente, passou pela política.\nFrias despontou como galã no fim dos anos 1990, na TV Globo. Um dos papéis que marcaram sua trajetória foi em “Malhação”. Frias participou da novela em diferentes períodos e, em 1999, protagonizou a sexta temporada da produção, na qual fazia par romântico com a atriz Priscila Fantin.\nDepois, atuou em outras produções da televisão, como “As Filhas da Mãe”, “O Beijo do Vampiro” e “Senhora do Destino”, na Globo, além de trabalhos em emissoras como Record e Band. Também apresentou programas de televisão, entre eles “O Último Passageiro”, na RedeTV!.\nA transição para a política ocorreu durante o governo de Jair Bolsonaro. Em junho de 2020, Frias assumiu a Secretaria Especial da Cultura, cargo que ocupou até 2022.\nNo período, passou a se aproximar ainda mais do grupo político ligado ao ex-presidente. Nas redes sociais, se apresenta como defensor de Bolsonaro e compartilha publicações de políticos aliados.\nEm 2022, deixou a carreira artística e disputou uma vaga na Câmara dos Deputados. Foi eleito deputado federal por São Paulo pelo PL, com 122.564 votos, e assumiu o mandato em 2023.\nMario Frias\nReprodução\nAtuação em 'Dark Horse' e relação com Vorcaro \nComo deputado, Frias também retomou a atuação no audiovisual. Ele é roteirista e produtor-executivo de “Dark Horse”, filme sobre a vida de Jair Bolsonaro, protagonizado pelo ator norte-americano Jim Caviezel.\nA produção passou a ser alvo de questionamentos sobre seu financiamento após a divulgação de mensagens e áudios entre Frias e o ex-banqueiro Daniel Vorcaro. Em uma das mensagens, Frias agradece a Vorcaro pelo apoio ao filme. Segundo apurações, Vorcaro teria repassado cerca de R$ 61 milhões ao projeto.\nAs revelações ocorreram depois de o deputado afirmar que a produção não havia recebido “um único centavo” do banqueiro, mas posteriormente recuou da declaração e disse que Vorcaro e o Banco Master não eram investidores diretos do projeto, mas que havia uma relação jurídica com a empresa Entre Investimentos.\nDe não haver um 'único centavo' de Vorcaro ao 'Deus te abençoe meu brother': veja as contradições de Mário Frias sobre o filme de Bolsonaro\nO deputado Mário Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nAlvo de operação Make Up\nMario Frias é um dos alvos da operação Make Up, deflagrada nesta quinta-feira. \nSegundo a PF, ele é apontado como integrante de um núcleo político investigado por suposto desvio de recursos de emendas parlamentares. A investigação apura o direcionamento de R$ 2 milhões em emendas de sua autoria ao Instituto Conhecer Brasil (ICB), além de possíveis contratações fraudulentas e retrodatação de documentos.\nA PF também investiga um suposto circuito financeiro entre Frias, entidades, empresas contratadas e a produtora de “Dark Horse”, com movimentação de R$ 19 milhões entre novembro e dezembro de 2025.\nSão investigados crimes como peculato, falsidade documental, lavagem de dinheiro, organização criminosa e crimes licitatórios.\nAo todo, são cumpridos 49 mandados de busca e apreensão em São Paulo, Rio de Janeiro, Ceará e no Distrito Federal. Não há mandados de prisão.\nO que disseram Flávio, Eduardo e Mário Frias sobre financiamento de Vorcaro para o filme de Bolsonaro\nKarina Gama, produtora do filme 'Dark Horse', e o deputado Mario Frias (PL-SP) são alvos de ação da Polícia Federal, que cumpre mandados de busca nesta quinta-feira (10).\nReprodução e Câmara dos Deputados",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 79,
-      "publishedRaw": "Thu, 10 Sep 2026 10:13:12 -0000"
-    },
-    {
-      "id": "4604b5cc53bb",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Thu, 10 Sep 2026 10:32:43 GMT"
-    },
-    {
-      "id": "b9d39fba87c6",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quem é Mario Frias, ator de 'Malhação' que foi secretário de Bolsonaro e agora é alvo da Polícia Federal por 'Dark Horse'",
-      "link": "https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Frias é roteirista e produtor-executivo do filme sobre o ex-presidente. Suas emendas enviadas a um instituto de Karina Ferreira da Gama, também produtora do longa-metragem, são investigadas.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Thu, 10 Sep 2026 12:10:59 GMT"
-    },
-    {
       "id": "a68c011ff308",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -855,6 +780,58 @@
       ],
       "score": 77,
       "publishedRaw": "Wed, 09 Sep 2026 17:04:47 -0000"
+    },
+    {
+      "id": "b059e21a17a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
+      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina Gama são alvos da ação, apurou a BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": ""
+    },
+    {
+      "id": "c8fd31912c2f",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quem é Mario Frias, ator de 'Malhação' que virou deputado e é alvo de operação da PF sobre filme de Bolsonaro",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/quem-e-mario-frias.ghtml",
+      "summary": "Mario Frias, secretário especial de Cultura do governo federal\nRoberto Castro/ Mtur\nAtor e deputado federal pelo PL de São Paulo, Mario Frias é um dos alvos da operação Make Up, deflagrada nesta quinta-feira (10) pela Polícia Federal (PF) e pela Controladoria-Geral da União (CGU). \nA ação investiga o suposto uso irregular de emendas parlamentares e de recursos públicos que teriam sido destinados a entidades e empresas ligadas à produtora do filme Dark Horse.\nFrias atua como roteirista e produtor-executivo da produção, que conta a história do ex-presidente Jair Bolsonaro.\nO deputado também é alvo de outra investigação no STF, sob relatoria do ministro André Mendonça, que apura repasses feitos pelo ex-banqueiro Daniel Vorcaro e o caminho desses recursos.\nMario Frias e produtora de filme sobre Bolsonaro são alvos de buscas da PF\nMario Frias: da carreira artística à entrada na política\nMario Luís Frias nasceu no Rio de Janeiro, em 9 de outubro de 1971. Aos 54 anos, tem uma trajetória que começou na televisão e, posteriormente, passou pela política.\nFrias despontou como galã no fim dos anos 1990, na TV Globo. Um dos papéis que marcaram sua trajetória foi em “Malhação”. Frias participou da novela em diferentes períodos e, em 1999, protagonizou a sexta temporada da produção, na qual fazia par romântico com a atriz Priscila Fantin.\nDepois, atuou em outras produções da televisão, como “As Filhas da Mãe”, “O Beijo do Vampiro” e “Senhora do Destino”, na Globo, além de trabalhos em emissoras como Record e Band. Também apresentou programas de televisão, entre eles “O Último Passageiro”, na RedeTV!.\nA transição para a política ocorreu durante o governo de Jair Bolsonaro. Em junho de 2020, Frias assumiu a Secretaria Especial da Cultura, cargo que ocupou até 2022.\nNo período, passou a se aproximar ainda mais do grupo político ligado ao ex-presidente. Nas redes sociais, se apresenta como defensor de Bolsonaro e compartilha publicações de políticos aliados.\nEm 2022, deixou a carreira artística e disputou uma vaga na Câmara dos Deputados. Foi eleito deputado federal por São Paulo pelo PL, com 122.564 votos, e assumiu o mandato em 2023.\nMario Frias\nReprodução\nAtuação em 'Dark Horse' e relação com Vorcaro \nComo deputado, Frias também retomou a atuação no audiovisual. Ele é roteirista e produtor-executivo de “Dark Horse”, filme sobre a vida de Jair Bolsonaro, protagonizado pelo ator norte-americano Jim Caviezel.\nA produção passou a ser alvo de questionamentos sobre seu financiamento após a divulgação de mensagens e áudios entre Frias e o ex-banqueiro Daniel Vorcaro. Em uma das mensagens, Frias agradece a Vorcaro pelo apoio ao filme. Segundo apurações, Vorcaro teria repassado cerca de R$ 61 milhões ao projeto.\nAs revelações ocorreram depois de o deputado afirmar que a produção não havia recebido “um único centavo” do banqueiro, mas posteriormente recuou da declaração e disse que Vorcaro e o Banco Master não eram investidores diretos do projeto, mas que havia uma relação jurídica com a empresa Entre Investimentos.\nDe não haver um 'único centavo' de Vorcaro ao 'Deus te abençoe meu brother': veja as contradições de Mário Frias sobre o filme de Bolsonaro\nO deputado Mário Frias, o senador Flávio  Bolsonaro e o ator Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse' (O Azarão), sobre a vida do ex-presidente brasileiro.\nReprodução/Redes Sociais\nAlvo de operação Make Up\nMario Frias é um dos alvos da operação Make Up, deflagrada nesta quinta-feira. \nSegundo a PF, ele é apontado como integrante de um núcleo político investigado por suposto desvio de recursos de emendas parlamentares. A investigação apura o direcionamento de R$ 2 milhões em emendas de sua autoria ao Instituto Conhecer Brasil (ICB), além de possíveis contratações fraudulentas e retrodatação de documentos.\nA PF também investiga um suposto circuito financeiro entre Frias, entidades, empresas contratadas e a produtora de “Dark Horse”, com movimentação de R$ 19 milhões entre novembro e dezembro de 2025.\nSão investigados crimes como peculato, falsidade documental, lavagem de dinheiro, organização criminosa e crimes licitatórios.\nAo todo, são cumpridos 49 mandados de busca e apreensão em São Paulo, Rio de Janeiro, Ceará e no Distrito Federal. Não há mandados de prisão.\nO que disseram Flávio, Eduardo e Mário Frias sobre financiamento de Vorcaro para o filme de Bolsonaro\nKarina Gama, produtora do filme 'Dark Horse', e o deputado Mario Frias (PL-SP) são alvos de ação da Polícia Federal, que cumpre mandados de busca nesta quinta-feira (10).\nReprodução e Câmara dos Deputados",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil"
+      ],
+      "score": 74,
+      "publishedRaw": "Thu, 10 Sep 2026 10:13:12 -0000"
+    },
+    {
+      "id": "4604b5cc53bb",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 73,
+      "publishedRaw": "Thu, 10 Sep 2026 10:32:43 GMT"
     },
     {
       "id": "8763f966c801",
@@ -894,7 +871,7 @@
       "category": "Política",
       "title": "Especialistas e empresários defendem reforma tributária em carta-manifesto a candidatos à Presidência da República",
       "link": "https://g1.globo.com/pr/parana/economia/noticia/2026/09/10/especialistas-e-empresarios-defendem-reforma-tributaria-em-carta-manifesto-a-candidatos-a-presidencia-da-republica.ghtml",
-      "summary": "Cerca de 100 especialistas, acadêmicos, empresários e ex-autoridades da área econômica e tributária divulgaram uma carta-manifesto aos candidatos à Presidência da República em defesa da reforma tributária sobre o consumo, promulgada em dezembro de 2023.\nEntre os signatários, estão Armínio Fraga, ex-presidente do Banco Central, Andrea Calabi, ex-presidente do Banco do Brasil e do BNDES, o empresário Jorge Gerdau, Maílson da Nóbrega, ex-ministro da Fazenda, Vanessa Canado, ex-assessora especial do Ministério da Economia para reforma tributária no governo Bolsonaro e Rodrigo Maia, ex-presidente da Câmara dos Deputados.\n🔎Veja a lista dos economistas que subscreveram a carta-manifesto no fim dessa reportagem.\nNo documento, eles avaliam que a reforma tributária, atualmente em fase de implementação, representa um \"grande avanço institucional que corrige distorções que prejudicam sobremaneira a produtividade, a competitividade e o potencial de crescimento de nosso País\". \n\"Nesse contexto, propostas que defendam sua revogação ou suspensão são vistas com grande preocupação, pois geram insegurança e comprometem os benefícios esperados da reforma\", acrescentam eles, na carta-manifesto.\nSegundo o documento, o modelo de IVA Dual (CBS e IBS), novos impostos sobre o consumo não cumulativos do governo federal, estados e municípios, que substituirão outros tributos, como PIS, Cofins, ICMS e ISS, \"incorpora o que há de melhor na experiência internacional de tributação de bens e serviços\". \n\"O modelo brasileiro introduz várias inovações relevantes, possíveis graças ao nosso avanço tecnológico na gestão de documentos fiscais eletrônicos e de meios eletrônicos de pagamento\", observam os analistas. \nSegundo eles, a reforma tributária permitirá:\nsimplificar a estrutura tributária, reduzindo custos para as empresas e desestimulando o contencioso tributário, que resulta da complexidade do sistema atual;\ndesonerar totalmente os investimentos e as exportações, através da eliminação da incidência cumulativa e das restrições ao ressarcimento de saldos credores acumulados que caracterizam o sistema tributário atual;\ncorrigir distorções na forma de organização da produção, que reduzem a produtividade e dificultam o crescimento do Brasil;\nreduzir a sonegação e as fraudes, viabilizando menores alíquotas para os novos tributos, beneficiando os bons contribuintes;\ntornar o sistema mais progressivo, através da devolução de parcela dos tributos para as famílias de baixa renda, e mais transparente, explicitando o custo dos tributos para os consumidores;\nimplementar a tributação no destino, eliminando a guerra fiscal entre os entes da federação;\ncriar um novo modelo de política de desenvolvimento regional, substituindo o regime distorcido e ineficiente baseado em incentivos fiscais pouco transparentes; e\nfortalecer o pacto federativo e garantir a autonomia dos estados e municípios para que estabeleçam, de forma transparente e em diálogo com seus cidadãos, o nível de tributação adequado às necessidades e prioridades de cada jurisdição.\nAperfeiçoamento\nNo documento, os analistas admitem que há \"custos de transição\" na reforma tributária, mas acrescentam que, em sua visão, os \"efeitos de longo prazo da Reforma Tributária são inequivocamente positivos\". \nA expectativa do Ministério da Fazenda é de que a reforma impulsione o PIB em até 20,2% em 15 anos por conta do aumento da produtividade e dos investimentos.\n\"O debate democrático sobre seu aperfeiçoamento é legítimo e necessário, mas pode ocorrer ao longo do processo de implementação. Divergências sobre algumas características do novo modelo tributário não podem ser utilizadas como justificativa para reabrir a discussão sobre a Reforma Tributária ou interromper sua efetivação. Isso geraria insegurança para as empresas e entes federativos que já estão implementando as mudanças necessárias e investindo recursos para adaptação ao novo regime\", acrescentaram os analistas.\nPara eles, a reforma é uma \"conquista do Estado brasileiro, não de um governo ou partido político específico\". Analisam que ela foi \"construída democraticamente e aprovada pelo Congresso Nacional, após profundas discussões envolvendo os entes federativos e os diferentes setores da sociedade\". \n\"Por essas razões, convencidos de que estamos todos unidos em buscar o melhor para o Brasil, pedimos respeitosamente seu apoio para a continuidade da implementação da Reforma Tributária do Consumo\", concluem.\nO que dizem os candidatos à Presidência\nLuiz Inácio Lula da Silva (PT): Candidato avalia, em seu plano de governo, que a reforma tributária amplia a transparência, acaba com a cumulatividade e  elimina a guerra fiscal entre os entes subnacionais. Diz, ainda, que a cesta básica ficará isenta  desses impostos e os mais pobres terão direito a um mecanismo de cashback, o que favorece a progressividade tributária. Em um eventual novo mandato, afirma que buscará assegurar tratamento tributário justo na implementação da reforma tributária e estimular  uma cultura de inovação tecnológica e inserção exportadora. \nFlavio Bolsonaro (PL): Em seu programa de governo, candidato promete promover a \"revisão e o redimensionamento da reforma tributária e a \"majoração\" de impostos efetuada pelo atual governo. \"Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto\", diz, no documento.\nAugusto Cury (Avante): No plano de governo, candidato diz que irá avaliar os impactos da reforma tributária sobre os diferentes setores da economia, com especial atenção às micro e pequenas empresas e aos segmentos estratégicos para o desenvolvimento e a geração de empregos. \"Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários, respeitando os princípios constitucionais e a segurança jurídica\".\nRonaldo Caiado (PSD): Candidato diz, em seu plano de governo, que a carga tributária já é elevada e que o \"sistema permanece complexo\". Promete criar regime tributário estável  para bens de capital e serviços de data center, coerente com a reforma tributária, condicionado a energia nova e renovável, eficiência hídrica com métricas públicas e resfriamento de ciclo fechado, reserva de  capacidade para universidades, pesquisa e empresas brasileiras, qualificação e emprego local e investimento na rede elétrica.\nRenan Santos (Missão): plano de governo não trz menção específica à reforma tributária. Cita, porém, a reforma do funcionalismo público com fim dos supersalários, mudanças nas emendas parlamentares, redução das isenções fiscais e uma nova lei complementar das finanças públicas. Diz que essas propostas já deverão estar presentes em um projeto de PEC de Transição [Equilíbrio Fiscal], que terá por objetivo substituir o arcabouço fiscal por um \"novo modelo mais inteligente.\nEspecialistas que assinaram a carta-manifesto\nAfonso Arinos: Professor e pesquisador da FGV/EPGE\nAlexandre Manoel: Consultor e pesquisador associado do FGV IBRE\nAlexandre Schwartsman: Ex-diretor do Banco Central do Brasil e consultor\nAlexis Fonteyne: Ex-deputado federal e empresário\nAmaury Rezende: Professor titular da USP/FEARP\nAna Carla Abrão Costa: Economista\nAna Paula Vescovi: Ex-secretária do Tesouro Nacional e consultora \nAndrea Calabi: Professor FEA-USP, Ph.D. Berkeley, pesquisador Fipe. Foi Secretário do Tesouro Nacional, Secretário de Fazenda do Estado de São Paulo e Presidente do Banco do Brasil e do BNDES\nÂngelo de Angelis: Ex-auditor fiscal, economista e consultor\nAod Cunha: Ex-secretário da Fazenda do Rio Grande do Sul\nArmando Monteiro Neto: Ex-Senador e Ex-Presidente da CNI\nArmínio Fraga: Economista, ex-presidente do Banco Central do Brasil\nBernard Appy: Economista, ex-secretário da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nBráulio Borges: Economista-sênior da LCA e pesquisador-associado do FGV IBRE\nCamilla Cavalcanti: Ex-diretora da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nCarlos Eugenio da Costa: Professor e pesquisador da FGV/EPGE\nCésar Mattos: Economista e consultor da Câmara\nCiro Biderman: Diretor do FGV Cidades\nCleveland Prates: Ex-conselheiro do CADE e consultor\nCristiane Alkmin Junqueira Schmidt: Economista e Professora da FGV\nCristina Pinotti: Economista e consultora\nDaniel Loria: Ex-diretor da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nDécio Padilha: Ex-secretário da Fazenda de Pernambuco\nEduardo Fleury: Advogado e economista, ex-consultor do Banco Mundial\nElena Landau: Advogada e economista, ex-diretora do BNDES\nErnesto Lozardo: Professor de economia da EAESP-FGV e ex-presidente do IPEA\nEurico de Santi: Professor e coordenador do NEF da FGV Direito SP e diretor do CCiF\nFábio Colletti Barbosa: Administrador e executivo\nFábio Giambiagi: Ex-superintendente de Planejamento do BNDES e exconsultor do BID\nFelipe Salto: Ex-diretor-executivo da IFI, ex-secretário da Fazenda e Planejamento de São Paulo, economista-chefe\nFernando de Holanda Barbosa: Professor da FGV/EPGE\nFernando de Holanda Barbosa Filho: Professor e pesquisador do FGV/IBRE\nFernando Valente Pimentel: Representante de setor empresarial\nGeorge Bezerra: Ex-economista da CNI e professor de economia\nGiovanni Padilha: Auditor fiscal da Receita Estadual na Sefaz-RS\nHaroldo Ferreira: Representante de setor empresarial\nHelcio Tokeshi: Economista, ex-secretário da Fazenda do Estado de São Paulo e ex-secretário de Acompanhamento Econômico do Ministério da Fazenda\nHeleno Torres: Professor Titular de Direito Financeiro da Faculdade de Direito da USP e advogado\nHorácio Lafer Piva: Empresário\nIdarilho Gonçalves Nascimento Neto: Representante de setor empresarial\nIsaías Coelho: Pesquisador do Núcleo de Estudos Fiscais da FGV Direito SP\nJoão Batista Ferreira Dornellas: Representante de setor empresarial\nJorge Arbache: Professor de Economia da UnB e ex-economista sênior do Banco Mundial\nJorge Gerdau Johannpeter: Empresário\nJorge Jatobá: Ex-secretário de Política de Emprego e Salário do Ministério do Trabalho e secretário da Fazenda de Pernambuco, professor titular aposentado da UFPE\nJosé Augusto de Castro: Representante de setor empresarial\nJosé Ricardo Roriz Coelho: Representante de setor empresarial \nJosé Roberto Mendonça de Barros: Ex-secretário de Política Econômica do Ministério da Fazenda e ex-secretário-executivo da Câmara de Comércio Exterior da Presidência da República\nJosé Teófilo Oliveira: Ex-secretário da Fazenda do Espírito Santo\nJosé Velloso Dias Cardoso: Representante de setor empresarial\nJosué Gomes da Silva: Empresário, ex-presidente da FIESP\nJosué Pellegrini: Ex-diretor da IFI\nLeonardo Alvim: Procurador da Fazenda Nacional, coordenador do Comitê Tributário da Câmara de Segurança Jurídica da AGU\nLeonel Pessoa: Professor da FGV Direito SP\nLuiz Carlos Hauly: Deputado Federal\nLuiz Henrique Braido: Professor e pesquisador da FGV/EPGE\nMaílson da Nóbrega: Economista, ex-ministro da Fazenda no período 1988- 1990\nManoel Procópio Moura Júnior: Ex-diretor da Secretaria Extraordinária da Reforma Tributária\nMarcelo Chara: Representante de setor empresarial\nMarcelo Portugal: Professor titular da Universidade Federal do Rio Grande do Sul\nMarcio Ferreira Verdi: Secretário-executivo do CIAT\nMárcio Holland: Professor da EESP/FGV e ex-secretário de Política Econômica\nMarco Polo de Mello Lopes: Representante de setor empresarial\nMarcos Mendes: Doutor em economia e pesquisador associado do Insper\nMarcus Pestana: Diretor-executivo da Instituição Fiscal Independente (IFI)\nMaria Carolina Gontijo: Advogada tributarista, professora e dona do perfil Duquesa de Tax nas redes sociais\nMaria Helena Zockun: Diretora de pesquisas da FIPE\nMario Engler: Professor da FGV Direito SP\nMario Ramos Ribeiro: Professor titular da UFPA\nMário Sérgio Carraro Telles: Mestre em economia pelo CEDEPLAR/UFMG\nMarta Arretche: Cientista política, professora titular do Departamento de Ciência Política da USP\nMartus Tavares: Ex-ministro do Planejamento\nMiguel Abuhab: Engenheiro e empresário global na área de tecnologia\nNelson Machado: Diretor do Centro de Cidadania Fiscal. Ex-ministro da Previdência Social\nOtaviano Canuto: Ex-vice-presidente e diretor executivo no Banco Mundial, ex-diretor executivo no FMI e ex-vice-presidente no BID\nPaulo Camilla Penna: Representante de setor empresarial\nPaulo Tafner: Economista e diretor presidente do IMDS\nPedro Cavalcanti: Professor e pesquisador da FGV/EPGE\nPedro Fernando Nery: Professor de Economia do IDP\nPedro Humberto Bruno de Carvalho Junior: Economista e pesquisador em política tributária\nPedro Passos: Empresário\nPedro Wongtschowski: Empresário\nRaul Velloso: Economista e presidente do INAE\nRenato Baumann: Economista do IPEA e professor da UnB\nRenato Fragelli Cardoso: Professor e pesquisador da FGV-EPGE\nRenato Villela: Ex-secretário da Fazenda de SP e RJ\nRicardo Varsano: Consultor de política tributária, ex-economista sênior do FMI e ex-diretor de pesquisa do Ipea\nRodrigo Maia: Ex-presidente da Câmara dos Deputados\nRozane Siqueira: Professora titular do Departamento de Economia da UFPE\nSamuel Pessôa: Economista e pesquisador do FGV IBRE \nSérgio Gobetti: Pesquisador do IPEA, ex-secretário adjunto de Política Fiscal e Tributária da SPE/Ministério da Fazenda\nSérgio Prado: Professor livre-docente do Instituto de Economia da Universidade Estadual de Campinas\nSilvia Mattos: Professora e Pesquisadora do FGV/IBRE\nSynésio Batista da Costa: Representante de setor empresarial\nTatiana Ribeiro: Diretora Executiva do Movimento Brasil Competitivo, entidade que reúne mais de 80 empresas\nVander Lucas: Professor da Universidade de Brasília\nVanessa Rahal Canado: Professora do Insper e ex-assessora especial do Ministro da Economia para assuntos relacionados à reforma tributária\nZeina Abdel Latif: Economista e Consultora da Gibraltar Consulting",
+      "summary": "Cerca de 100 especialistas, acadêmicos, empresários e ex-autoridades da área econômica e tributária divulgaram uma carta-manifesto aos candidatos à Presidência da República em defesa da reforma tributária sobre o consumo, promulgada em dezembro de 2023.\nEntre os signatários, estão:\nArmínio Fraga, ex-presidente do Banco Central; \nAndrea Calabi, ex-presidente do Banco do Brasil e do Banco Nacional de Desenvolvimento (BNDES); \no empresário Jorge Gerdau; \nMaílson da Nóbrega, ex-ministro da Fazenda; \nVanessa Canado, ex-assessora especial do Ministério da Economia para reforma tributária no governo do ex-preidente Jair Bolsonaro; e \nRodrigo Maia, ex-presidente da Câmara dos Deputados.\n🔎Veja a lista dos economistas que subscreveram a carta-manifesto no fim dessa reportagem.\nAgora no g1\nNo documento, eles avaliam que a reforma tributária, atualmente em fase de implementação, representa um \"grande avanço institucional que corrige distorções que prejudicam sobremaneira a produtividade, a competitividade e o potencial de crescimento de nosso país\". \n\"Nesse contexto, propostas que defendam sua revogação ou suspensão são vistas com grande preocupação, pois geram insegurança e comprometem os benefícios esperados da reforma\", acrescentam eles, na carta-manifesto.\nSegundo o documento, o modelo de IVA Dual (CBS e IBS), novos impostos sobre o consumo não cumulativos do governo federal, estados e municípios, que substituirão outros tributos, como PIS, Cofins, ICMS e ISS, \"incorpora o que há de melhor na experiência internacional de tributação de bens e serviços\". \n\"O modelo brasileiro introduz várias inovações relevantes, possíveis graças ao nosso avanço tecnológico na gestão de documentos fiscais eletrônicos e de meios eletrônicos de pagamento\", observam os analistas. \nSegundo eles, a reforma tributária permitirá:\nsimplificar a estrutura tributária, reduzindo custos para as empresas e desestimulando o contencioso tributário, que resulta da complexidade do sistema atual;\ndesonerar totalmente os investimentos e as exportações, através da eliminação da incidência cumulativa e das restrições ao ressarcimento de saldos credores acumulados que caracterizam o sistema tributário atual;\ncorrigir distorções na forma de organização da produção, que reduzem a produtividade e dificultam o crescimento do Brasil;\nreduzir a sonegação e as fraudes, viabilizando menores alíquotas para os novos tributos, beneficiando os bons contribuintes;\ntornar o sistema mais progressivo, através da devolução de parcela dos tributos para as famílias de baixa renda, e mais transparente, explicitando o custo dos tributos para os consumidores;\nimplementar a tributação no destino, eliminando a guerra fiscal entre os entes da federação;\ncriar um novo modelo de política de desenvolvimento regional, substituindo o regime distorcido e ineficiente baseado em incentivos fiscais pouco transparentes; e\nfortalecer o pacto federativo e garantir a autonomia dos estados e municípios para que estabeleçam, de forma transparente e em diálogo com seus cidadãos, o nível de tributação adequado às necessidades e prioridades de cada jurisdição.\nLula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado, Augusto Cury e Romeu Zema: candidatos à Presidência da República\nDivulgação\nAperfeiçoamento\nNo documento, os especialistas admitem que há \"custos de transição\" na reforma tributária, mas acrescentam que, em sua visão, os \"efeitos de longo prazo da Reforma Tributária são inequivocamente positivos\". \nA expectativa do Ministério da Fazenda é de que a reforma impulsione o PIB em até 20,2% em 15 anos por conta do aumento da produtividade e dos investimentos.\n\"O debate democrático sobre seu aperfeiçoamento é legítimo e necessário, mas pode ocorrer ao longo do processo de implementação. Divergências sobre algumas características do novo modelo tributário não podem ser utilizadas como justificativa para reabrir a discussão sobre a Reforma Tributária ou interromper sua efetivação. Isso geraria insegurança para as empresas e entes federativos que já estão implementando as mudanças necessárias e investindo recursos para adaptação ao novo regime\", acrescentaram os analistas.\nPara eles, a reforma é uma \"conquista do Estado brasileiro, não de um governo ou partido político específico\". Analisam que ela foi \"construída democraticamente e aprovada pelo Congresso Nacional, após profundas discussões envolvendo os entes federativos e os diferentes setores da sociedade\". \n\"Por essas razões, convencidos de que estamos todos unidos em buscar o melhor para o Brasil, pedimos respeitosamente seu apoio para a continuidade da implementação da Reforma Tributária do Consumo\", concluem.\nO que dizem os candidatos à Presidência\nLuiz Inácio Lula da Silva (PT): Candidato avalia, em seu plano de governo, que a reforma tributária amplia a transparência, acaba com a cumulatividade e  elimina a guerra fiscal entre os entes subnacionais. Diz, ainda, que a cesta básica ficará isenta  desses impostos e os mais pobres terão direito a um mecanismo de cashback, o que favorece a progressividade tributária. Em um eventual novo mandato, afirma que buscará assegurar tratamento tributário justo na implementação da reforma tributária e estimular  uma cultura de inovação tecnológica e inserção exportadora. \nFlavio Bolsonaro (PL): Em seu programa de governo, candidato promete promover a \"revisão e o redimensionamento da reforma tributária e a \"majoração\" de impostos efetuada pelo atual governo. \"Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto\", diz, no documento.\nAugusto Cury (Avante): No plano de governo, candidato diz que irá avaliar os impactos da reforma tributária sobre os diferentes setores da economia, com especial atenção às micro e pequenas empresas e aos segmentos estratégicos para o desenvolvimento e a geração de empregos. \"Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários, respeitando os princípios constitucionais e a segurança jurídica\".\nRonaldo Caiado (PSD): Candidato diz, em seu plano de governo, que a carga tributária já é elevada e que o \"sistema permanece complexo\". Promete criar regime tributário estável  para bens de capital e serviços de data center, coerente com a reforma tributária, condicionado a energia nova e renovável, eficiência hídrica com métricas públicas e resfriamento de ciclo fechado, reserva de  capacidade para universidades, pesquisa e empresas brasileiras, qualificação e emprego local e investimento na rede elétrica.\nRenan Santos (Missão): Plano de governo não traz uma menção específica à reforma tributária. Cita, porém, a reforma do funcionalismo público com fim dos supersalários, mudanças nas emendas parlamentares, redução das isenções fiscais e uma nova lei complementar das finanças públicas. Diz que essas propostas já deverão estar presentes em um projeto de PEC de Transição [Equilíbrio Fiscal], que terá por objetivo substituir o arcabouço fiscal por um \"novo modelo mais inteligente.\nRomeu Zema (Novo): Candidato promete, em seu plano de governo, assegurar uma \"implementação eficaz\" da reforma tributária. Objetivo seria evitar que a\tregulamentação \"replique a complexidade do\tsistema atual por meio de burocracias desnecessárias, regimes especiais, exceções e tratamentos favorecidos, garantindo monitoramento técnico transparência\tsobre impactos setoriais e compromisso verificável de neutralidade da carga tributária\".\nEspecialistas que assinaram a carta-manifesto\nAfonso Arinos: Professor e pesquisador da FGV/EPGE\nAlexandre Manoel: Consultor e pesquisador associado do FGV IBRE\nAlexandre Schwartsman: Ex-diretor do Banco Central do Brasil e consultor\nAlexis Fonteyne: Ex-deputado federal e empresário\nAmaury Rezende: Professor titular da USP/FEARP\nAna Carla Abrão Costa: Economista\nAna Paula Vescovi: Ex-secretária do Tesouro Nacional e consultora \nAndrea Calabi: Professor FEA-USP, Ph.D. Berkeley, pesquisador Fipe. Foi Secretário do Tesouro Nacional, Secretário de Fazenda do Estado de São Paulo e Presidente do Banco do Brasil e do BNDES\nÂngelo de Angelis: Ex-auditor fiscal, economista e consultor\nAod Cunha: Ex-secretário da Fazenda do Rio Grande do Sul\nArmando Monteiro Neto: Ex-Senador e Ex-Presidente da CNI\nArmínio Fraga: Economista, ex-presidente do Banco Central do Brasil\nBernard Appy: Economista, ex-secretário da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nBráulio Borges: Economista-sênior da LCA e pesquisador-associado do FGV IBRE\nCamilla Cavalcanti: Ex-diretora da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nCarlos Eugenio da Costa: Professor e pesquisador da FGV/EPGE\nCésar Mattos: Economista e consultor da Câmara\nCiro Biderman: Diretor do FGV Cidades\nCleveland Prates: Ex-conselheiro do CADE e consultor\nCristiane Alkmin Junqueira Schmidt: Economista e Professora da FGV\nCristina Pinotti: Economista e consultora\nDaniel Loria: Ex-diretor da Secretaria Extraordinária da Reforma Tributária do Ministério da Fazenda\nDécio Padilha: Ex-secretário da Fazenda de Pernambuco\nEduardo Fleury: Advogado e economista, ex-consultor do Banco Mundial\nElena Landau: Advogada e economista, ex-diretora do BNDES\nErnesto Lozardo: Professor de economia da EAESP-FGV e ex-presidente do IPEA\nEurico de Santi: Professor e coordenador do NEF da FGV Direito SP e diretor do CCiF\nFábio Colletti Barbosa: Administrador e executivo\nFábio Giambiagi: Ex-superintendente de Planejamento do BNDES e exconsultor do BID\nFelipe Salto: Ex-diretor-executivo da IFI, ex-secretário da Fazenda e Planejamento de São Paulo, economista-chefe\nFernando de Holanda Barbosa: Professor da FGV/EPGE\nFernando de Holanda Barbosa Filho: Professor e pesquisador do FGV/IBRE\nFernando Valente Pimentel: Representante de setor empresarial\nGeorge Bezerra: Ex-economista da CNI e professor de economia\nGiovanni Padilha: Auditor fiscal da Receita Estadual na Sefaz-RS\nHaroldo Ferreira: Representante de setor empresarial\nHelcio Tokeshi: Economista, ex-secretário da Fazenda do Estado de São Paulo e ex-secretário de Acompanhamento Econômico do Ministério da Fazenda\nHeleno Torres: Professor Titular de Direito Financeiro da Faculdade de Direito da USP e advogado\nHorácio Lafer Piva: Empresário\nIdarilho Gonçalves Nascimento Neto: Representante de setor empresarial\nIsaías Coelho: Pesquisador do Núcleo de Estudos Fiscais da FGV Direito SP\nJoão Batista Ferreira Dornellas: Representante de setor empresarial\nJorge Arbache: Professor de Economia da UnB e ex-economista sênior do Banco Mundial\nJorge Gerdau Johannpeter: Empresário\nJorge Jatobá: Ex-secretário de Política de Emprego e Salário do Ministério do Trabalho e secretário da Fazenda de Pernambuco, professor titular aposentado da UFPE\nJosé Augusto de Castro: Representante de setor empresarial\nJosé Ricardo Roriz Coelho: Representante de setor empresarial \nJosé Roberto Mendonça de Barros: Ex-secretário de Política Econômica do Ministério da Fazenda e ex-secretário-executivo da Câmara de Comércio Exterior da Presidência da República\nJosé Teófilo Oliveira: Ex-secretário da Fazenda do Espírito Santo\nJosé Velloso Dias Cardoso: Representante de setor empresarial\nJosué Gomes da Silva: Empresário, ex-presidente da FIESP\nJosué Pellegrini: Ex-diretor da IFI\nLeonardo Alvim: Procurador da Fazenda Nacional, coordenador do Comitê Tributário da Câmara de Segurança Jurídica da AGU\nLeonel Pessoa: Professor da FGV Direito SP\nLuiz Carlos Hauly: Deputado Federal\nLuiz Henrique Braido: Professor e pesquisador da FGV/EPGE\nMaílson da Nóbrega: Economista, ex-ministro da Fazenda no período 1988- 1990\nManoel Procópio Moura Júnior: Ex-diretor da Secretaria Extraordinária da Reforma Tributária\nMarcelo Chara: Representante de setor empresarial\nMarcelo Portugal: Professor titular da Universidade Federal do Rio Grande do Sul\nMarcio Ferreira Verdi: Secretário-executivo do CIAT\nMárcio Holland: Professor da EESP/FGV e ex-secretário de Política Econômica\nMarco Polo de Mello Lopes: Representante de setor empresarial\nMarcos Mendes: Doutor em economia e pesquisador associado do Insper\nMarcus Pestana: Diretor-executivo da Instituição Fiscal Independente (IFI)\nMaria Carolina Gontijo: Advogada tributarista, professora e dona do perfil Duquesa de Tax nas redes sociais\nMaria Helena Zockun: Diretora de pesquisas da FIPE\nMario Engler: Professor da FGV Direito SP\nMario Ramos Ribeiro: Professor titular da UFPA\nMário Sérgio Carraro Telles: Mestre em economia pelo CEDEPLAR/UFMG\nMarta Arretche: Cientista política, professora titular do Departamento de Ciência Política da USP\nMartus Tavares: Ex-ministro do Planejamento\nMiguel Abuhab: Engenheiro e empresário global na área de tecnologia\nNelson Machado: Diretor do Centro de Cidadania Fiscal. Ex-ministro da Previdência Social\nOtaviano Canuto: Ex-vice-presidente e diretor executivo no Banco Mundial, ex-diretor executivo no FMI e ex-vice-presidente no BID\nPaulo Camilla Penna: Representante de setor empresarial\nPaulo Tafner: Economista e diretor presidente do IMDS\nPedro Cavalcanti: Professor e pesquisador da FGV/EPGE\nPedro Fernando Nery: Professor de Economia do IDP\nPedro Humberto Bruno de Carvalho Junior: Economista e pesquisador em política tributária\nPedro Passos: Empresário\nPedro Wongtschowski: Empresário\nRaul Velloso: Economista e presidente do INAE\nRenato Baumann: Economista do IPEA e professor da UnB\nRenato Fragelli Cardoso: Professor e pesquisador da FGV-EPGE\nRenato Villela: Ex-secretário da Fazenda de SP e RJ\nRicardo Varsano: Consultor de política tributária, ex-economista sênior do FMI e ex-diretor de pesquisa do Ipea\nRodrigo Maia: Ex-presidente da Câmara dos Deputados\nRozane Siqueira: Professora titular do Departamento de Economia da UFPE\nSamuel Pessôa: Economista e pesquisador do FGV IBRE \nSérgio Gobetti: Pesquisador do IPEA, ex-secretário adjunto de Política Fiscal e Tributária da SPE/Ministério da Fazenda\nSérgio Prado: Professor livre-docente do Instituto de Economia da Universidade Estadual de Campinas\nSilvia Mattos: Professora e Pesquisadora do FGV/IBRE\nSynésio Batista da Costa: Representante de setor empresarial\nTatiana Ribeiro: Diretora Executiva do Movimento Brasil Competitivo, entidade que reúne mais de 80 empresas\nVander Lucas: Professor da Universidade de Brasília\nVanessa Rahal Canado: Professora do Insper e ex-assessora especial do Ministro da Economia para assuntos relacionados à reforma tributária\nZeina Abdel Latif: Economista e Consultora da Gibraltar Consulting",
       "tags": [
         "reforma tributária"
       ],
