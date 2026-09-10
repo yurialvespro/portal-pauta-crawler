@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:47:56.005723+00:00",
+  "generated_at": "2026-09-10T01:15:03.639509+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,12 +15,14 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 08 Sep 2026 15:54:28 GMT"
     },
     {
@@ -201,26 +203,27 @@
       "publishedRaw": "09 Sep 2026 20:17:00 -0300"
     },
     {
-      "id": "667c5309bb03",
-      "source": "Folha de São Paulo",
+      "id": "6660100549b9",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Decisão de Fachin de cancelar sessão não foi informada antes a ministros do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/decisao-de-fachin-de-cancelar-sessao-nao-foi-informada-antes-a-ministros-do-stf.shtml",
-      "summary": "A decisão do presidente do STF (Supremo Tribunal Federal), Edson Fachin, de cancelar a sessão marcada para esta quarta-feira (9), pegou integrantes da corte de surpresa.\nLeia mais (09/09/2026 - 19h36)",
+      "title": "Caiado muda estratégia na TV e sobe tom contra STF, Lula e Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-muda-estrategia-na-tv-e-sobe-tom-contra-stf-lula-e-flavio/",
+      "summary": "Campanha deixará foco em resultados de Goiás e propostas para adotar discurso mais contundente contra grupos políticos",
       "tags": [
-        "STF"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "09 Sep 2026 19:36:00 -0300"
+      "publishedRaw": "Thu, 10 Sep 2026 00:22:32 +0000"
     },
     {
       "id": "4e2e51b32bd1",
@@ -243,50 +246,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 09 Sep 2026 23:56:34 +0000"
-    },
-    {
-      "id": "d921abd4c316",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relembre o inquérito das fake news, aberto há sete anos no STF",
-      "link": "https://www.cnnbrasil.com.br/politica/relembre-o-inquerito-das-fake-news-aberto-ha-sete-anos-no-stf/",
-      "summary": "Investigação foi instaurada em 2019 e já teve decisões que atingiram empresários, políticos e jornalistas",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 23:51:10 +0000"
-    },
-    {
-      "id": "19e2f0b5918a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado diz que indicará Raquel Dodge para o STF se for eleito",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-diz-que-indicara-raquel-dodge-para-o-stf-se-for-eleito/",
-      "summary": "Ex-procuradora-geral da república assumiu o cargo em 2017 após indicação do então presidente Michel Temer",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 23:44:46 +0000"
     },
     {
       "id": "133d4825a7ca",
@@ -466,28 +425,6 @@
       "publishedRaw": "Wed, 09 Sep 2026 14:54:41 +0000"
     },
     {
-      "id": "53d55ea5cbb0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Os riscos que a crise do STF oferece à democracia",
-      "link": "https://www.estadao.com.br/politica/carolina-brigido/os-riscos-que-a-crise-do-stf-oferece-a-democracia/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 09 Sep 2026 21:00:00 +0000"
-    },
-    {
       "id": "a9bb22f947af",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -620,6 +557,165 @@
       "publishedRaw": "Wed, 09 Sep 2026 23:20:23 +0000"
     },
     {
+      "id": "4de29a8feba1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Não venha o tribunal eleitoral querer falcatrua', diz Lula após citar possível interferência dos EUA nas eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/nao-venha-o-tribunal-eleitoral-querer-falcatrua-diz-lula-apos-citar-possivel-interferencia-dos-eua-nas-eleicoes.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) voltou a falar nesta quarta-feira (9) que não aceita a possibilidade de os Estados Unidos interferirem nas eleições do Brasil.\nDurante discurso em um ato de campanha em Teresina, no Piauí, o petista afirmou que sabe do que o governo de Donald Trump é capaz e que, por isso, espera que \"o tribunal eleitoral não venha querer falcatrua\". O presidente não deixou claro se fazia referência ao Tribunal Superior Eleitoral na declaração.\n\"Queremos provar que o brasileiro não deve nada a ninguém. Que não venham os americanos quererem influir nas nossas eleições. Que não venha o tribunal eleitoral querer falcatrua. Porque a gente sabe o que são eles são capazes, e se vierem se meter aqui, a gente vai derrotá-los, vai derrotar os americanos e vai derrotar quem se meter\", disse Lula.\nAgora no g1\nNo fim de agosto, Lula e Trump conversaram por telefone durante 1h20, após um pedido do presidente brasileiro para falar com o americano. \nNa ligação, Trump perguntou a Lula sobre as eleições de outubro. Lula já afirmou que disse ao presidente dos EUA que o Brasil não aceita ingerência de ninguém nas eleições. \nNo discurso desta quarta no Piauí, o petista voltou a se posicionar.\n\"O Trump que se meta no país dele, aqui é problema nosso, dos brasileiros e ninguém tasca. eles vão ter que aprender conosco uma lição. Nós somos pobres, mas somos orgulhosos. Nós temos que dizer para eles que caráter e dignidade a gente não compra em shopping, não compra em aeroporto, traz da barriga da mãe, do pai\", disse o presidente.\n\"Isso a gente ensina para qualquer país que quiser se meter em nosso processo eleitoral. Essa eleição o que está em jogo é se a gente vai continuar avançando ou retroceder.\"\nPresidente da República, Luiz Inácio Lula da Silva, durante Entrevista a Meteoro Brasil e Os Três Elementos, no Palácio da Alvorada. Brasília - DF.Foto: Ricardo Stuckert\nRicardo Stuckert",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 10 Sep 2026 01:07:42 -0000"
+    },
+    {
+      "id": "c159ff32aca3",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Carlos e ala radical voltam a cobrar conexão de Flávio Bolsonaro com o pai e criticar Daniella Marques",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carlos-e-ala-radical-voltam-a-cobrar-conexao-de-flavio-bolsonaro-com-o-pai-e-criticar-daniella-marques.shtml",
+      "summary": "As tensões internas do bolsonarismo voltaram a se acirrar em meio à crise no STF (Supremo Tribunal Federal) com cobranças da ala mais radical sobre o senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República. Sob reserva, esses apoiadores pedem mais gestos em relação a Jair Bolsonaro (PL) e reclamam de Daniella Marques, conselheira econômica do filho 01.\nLeia mais (09/09/2026 - 22h12)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "09 Sep 2026 22:12:00 -0300"
+    },
+    {
+      "id": "764fd85ce2a9",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Casal Estevam e Sonia Hernandes, da Renascer, fecha apoio a Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casal-estevam-e-sonia-hernandes-da-renascer-fecha-apoio-a-flavio-bolsonaro.shtml",
+      "summary": "O apóstolo Estevam Hernandes declarou nesta quarta (9) que vai votar em Flávio Bolsonaro (PL) para presidente. Não que a opção à direita chegue a surpreender: líder da igreja Renascer em Cristo e idealizador da Marcha para Jesus, Estevam já havia endossado o pai de Flávio em 2022.\nLeia mais (09/09/2026 - 21h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "09 Sep 2026 21:00:00 -0300"
+    },
+    {
+      "id": "33b703a3db23",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
+    },
+    {
+      "id": "58941435ac9c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT inicia ofensiva contra André Mendonça que envolve Lula e pede apoio de militantes",
+      "link": "https://www.estadao.com.br/politica/eleicoes/pt-inicia-ofensiva-contra-andre-mendonca-que-envolve-lula-e-pede-apoio-de-militantes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+    },
+    {
+      "id": "b78520ffcdbb",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
+    },
+    {
+      "id": "ad373d7f16f0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news que sai de Moraes e vai para Fachin",
+      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
+    },
+    {
+      "id": "abccfc59c43a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja diz que, se dependesse de Bolsonaro, nordestinos “comiam capim”",
+      "link": "https://www.poder360.com.br/poder-gente/janja-diz-que-se-dependesse-de-bolsonaro-nordestinos-comiam-capim/",
+      "summary": "Primeira-dama afirma que ex-presidente não tem projeto para o país e que seu governo foi de “barbárie”",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 83,
+      "publishedRaw": "Thu, 10 Sep 2026 00:54:07 +0000"
+    },
+    {
       "id": "f380b7521f00",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -637,44 +733,6 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 23:43:27 -0000"
-    },
-    {
-      "id": "764fd85ce2a9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Casal Estevam e Sonia Hernandes, da Renascer, fecha apoio a Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/casal-estevam-e-sonia-hernandes-da-renascer-fecha-apoio-a-flavio-bolsonaro.shtml",
-      "summary": "O apóstolo Estevam Hernandes declarou nesta quarta (9) que vai votar em Flávio Bolsonaro (PL) para presidente. Não que a opção à direita chegue a surpreender: líder da igreja Renascer em Cristo e idealizador da Marcha para Jesus, Estevam já havia endossado o pai de Flávio em 2022.\nLeia mais (09/09/2026 - 21h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "09 Sep 2026 21:00:00 -0300"
-    },
-    {
-      "id": "33b703a3db23",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle entra de vez na campanha de Flávio Bolsonaro e convoca ‘Exército rosa’ para eleger enteado",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/michelle-entra-de-vez-na-campanha-de-flavio-bolsonaro-e-convoca-exercito-rosa-para-eleger-enteado/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 23:11:25 +0000"
     },
     {
       "id": "5ced05940e18",
@@ -696,59 +754,64 @@
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
-      "id": "58941435ac9c",
-      "source": "Estadão",
+      "id": "d0f5f02111ad",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT inicia ofensiva contra André Mendonça que envolve Lula e pede apoio de militantes",
-      "link": "https://www.estadao.com.br/politica/eleicoes/pt-inicia-ofensiva-contra-andre-mendonca-que-envolve-lula-e-pede-apoio-de-militantes/",
-      "summary": "",
+      "category": "Economia",
+      "title": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max",
+      "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
+      "summary": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max Big tech também anunciou novos Apple Watches e AirPods 5, além de trazer novidades nas câmeras dos iPhones. Empresa lançou nesta quarta-feira os iPhones 18 Pro e Pro Max, que custarão até R$ 21.990. Também apresentou o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.990. John Ternus fez sua 1ª apresentação como CEO da empresa; conheça o executivo",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Economia",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Wed, 09 Sep 2026 16:40:17 +0000"
+      "score": 81,
+      "publishedRaw": "Wed, 09 Sep 2026 22:05:19 -0000"
     },
     {
-      "id": "b78520ffcdbb",
-      "source": "Estadão",
+      "id": "e5e77a51ca1d",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio faz motociata e comício em palco de atentado a Bolsonaro e aproveita para criticar Dino",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-faz-motociata-e-comicio-em-palco-de-atentado-a-bolsonaro-e-aproveita-para-criticar-dino/",
-      "summary": "",
+      "category": "Economia",
+      "title": "Lula assina decreto que reduz tributos sobre gasolina e MP que cria subsídio para diesel",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/09/lula-assina-decreto-que-reduz-tributos-sobre-gasolina-e-mp-que-cria-subsidio-para-diesel.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (9) um decreto que amplia a subvenção à gasolina de R$ 0,44 por litro, ou seja, reduz os tributos incidentes sobre o combustível neste montante. O decreto também zera os tributos sobre o etanol hidratado, com diminuição de R$ 0,19 por litro.\nO secretário executivo do Ministério da Fazenda, Rogério Ceron, informou em entrevista coletiva que houve um erro na data de vigência do decreto. Diferente do informado anteriormente, a norma vale até 9 de outubro e não 5 de outubro.  \nO petista assinou também uma medida provisória que autoriza uma subvenção de R$ 1 por litro para o diesel. A medida se soma ao subsídio de R$1,12, que vale até o dia 26 de setembro.\nPreço do barril de petróleo volta a passar de US$ 100\nOu seja, no momento em que as duas medidas estiverem coexistindo, a subvenção alcança o valor de R$ 2,12.\nAs medidas foram anunciadas a menos de um mês da eleição presidencial e em meio à alta do petróleo no mercado internacional. \nO petróleo do tipo Brent, referência internacional, voltou a ultrapassar a marca de US$ 100 por barril nesta quarta, após o agravamento dos conflitos no Oriente Médio. Mais de 25% do diesel consumido no Brasil é importado.\nA subvenção ao diesel será concedida a produtores e importadores que aderirem ao programa. O valor de R$ 1 por litro poderá ser alterado ou interrompido de acordo com as condições do mercado, e o desconto deverá ser repassado ao preço de venda.\nNa gasolina, a redução de R$ 0,63 por litro é exclusivamente uma redução nos tributos. Ela substitui a subvenção que estava em vigor e termina nesta quarta-feira.\nCusto das medidas\nO governo estima arrecadar mais de R$ 10 bilhões em receitas extras com o petróleo neste mês. \nSegundo o secretário-executivo do Ministério da Fazenda, Rogério Ceron, o valor é mais do que suficiente para compensar a renúncia de R$ 2 bilhões com as medidas para gasolina e etanol.\nEssa receita adicional será considerada no próximo relatório bimestral de receitas e despesas.\nNo caso da subvenção ao diesel, Ceron afirmou que o gasto extra também será incluído no próximo relatório. Se houver necessidade de fazer ajustes para garantir o cumprimento da meta de resultado primário, o governo poderá recorrer a contingenciamentos.\nDesde do momento que foram anunciadas, as medidas sobre os combustíveis já custaram R$25 bilhões, segundo os ministros.\n➡️Subvenção de R$ 1,12 para o diesel: vigente até 26 de setembro. Custa R$ 5,5 bilhões em um mês.\n➡️Nova subvenção de R$ 1 para o diesel: custo estimado em cerca de R$ 5 bilhões em um mês.\n➡️Subsídios previstos no decreto: a subvenção de R$ 0,44 na gasolina custou cerca de R$ 1,2 bilhão. A nova desoneração deve ter impacto de cerca de R$ 2 bilhões, somando:\nR$ 1,2 bilhão referentes aos R$ 0,44;\nR$ 500 milhões referentes ao adicional de R$ 0,19, que elevou o subsídio da gasolina para R$ 0,63;\nR$ 300 milhões referentes à desoneração de R$ 0,19 no etanol, que zera os impostos federais sobre o biocombustível.\n“Não vamos permitir que essa guerra irresponsável chegue no seu bolso e muito menos no prato de comida do povo brasileiro”, afirmou Lula em vídeo divulgado nesta quarta\".\nLula durante visita à sonda NS-42, da Petrobras, na Margem Equatorial\nDivulgação/Ricardo Stuckert",
       "tags": [
-        "Bolsonaro"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo"
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "Wed, 09 Sep 2026 22:42:57 +0000"
+      "score": 81,
+      "publishedRaw": "Wed, 09 Sep 2026 19:30:31 -0000"
     },
     {
-      "id": "ad373d7f16f0",
-      "source": "Estadão",
+      "id": "0b8f501b2b56",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news que sai de Moraes e vai para Fachin",
-      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-usado-por-moraes-contra-mendonca/",
-      "summary": "",
+      "category": "Economia",
+      "title": "Apple lança o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.999",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
+      "summary": "iPhone Duo: Apple lança seu primeiro celular dobrável\nA Apple apresentou nesta quarta-feira (9) o iPhone Duo, com preços que partem de R$ 21.999 e vão R$ 30.999, dependendo da capacidade de armazenamento. (veja todos os preços)\nO modelo é o primeiro dobrável da Apple e marca a entrada da empresa em um segmento já explorado por concorrentes como Samsung e Huawei.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nO iPhone Duo segue a proposta de outros celulares dobráveis: uma tela externa de 5,4 polegadas permite acessar praticamente todos os recursos do iOS sem precisar abrir o aparelho.\nQuando aberto, o aparelho revela uma tela de 7,6 polegadas, pouco menor que a de 8,3 polegadas do iPad Mini.\niPhone Duo\ndivulgação/Apple\nA tela maior amplia a área para assistir a vídeos e oferece recursos extras em aplicativos de terceiros, como o Zoom. Também é possível usar dois aplicativos ao mesmo tempo.\nAté a chegada do iPhone Duo, o uso de dois aplicativos ao mesmo tempo era restrito aos iPads entre os dispositivos móveis da Apple. O Duo também é o primeiro iPhone compatível com a Apple Pencil, até então disponível apenas para iPads.\nPara reforçar a estrutura do iPhone Duo, a Apple usou titânio na carcaça. Segundo a empresa, uma textura aplicada à tela interna também ajuda a reduzir o vinco comum em celulares dobráveis.\nO aparelho tem quatro câmeras:\nDuas traseiras de 48 megapixels;\nUma frontal externa de 12 megapixels;\nUma câmera interna, sob a tela, capaz de gravar em Full HD (1080p).\nVeja abaixo as imagens do novo iPhone Duo:\niPhone Duo\nDiferentemente dos demais iPhones vendidos atualmente pela Apple, o Duo não tem reconhecimento facial nem entrada para chip físico de operadora — o aparelho utiliza apenas o chip virtual, chamado eSIM.\nNo lugar do reconhecimento facial, a autenticação biométrica é feita por um leitor de impressões digitais na lateral do aparelho.\nO iPhone Duo usa o mesmo chip A20 Pro dos novos iPhones 18 Pro e 18 Pro Max, também lançados nesta quarta-feira.\nA Apple não informa a capacidade da bateria, mas afirma que o aparelho oferece até 24 horas de uso típico. Segundo a empresa, a autonomia pode chegar a 44 horas usando a tela externa e a 31 horas com a tela interna.\nCom um carregador de 60 watts ou mais, a bateria pode chegar a 50% da carga em até 20 minutos, segundo a Apple.\nO iPhone Duo entra em pré-venda no dia 16 de outubro, e as entregas começam em 23 de outubro. \nConfira os preços do aparelho no Brasil:\niPhone Duo (256 GB): R$ 21.999;\niPhone Duo (512 GB): R$ 23.499;\niPhone Duo (1 TB): R$ 26.499;\niPhone Duo (2 TB): R$ 30.999.\nVeja também os preços do aparelho nos EUA:\niPhone Duo (256 GB): US$ 1.999;\niPhone Duo (512 GB): US$ 2.199;\niPhone Duo (1 TB): US$ 2.599;\niPhone Duo (2 TB): US$ 3.199.\nRumores já indicavam o iPhone dobrável\nO iPhone Duo retomou o uso do leitor de impressões digitais (Touch ID) para desbloquear o aparelho. Outros iPhones usam o reconhecimento facial (FaceID).\nReprodução\nEm 2024, o site de tecnologia \"The Information\" já havia noticiado que a Apple poderia lançar um modelo dobrável em 2026.\nNa época, o \"The Information\" afirmou que a Apple buscava fornecedores na Ásia para fabricar componentes do aparelho e havia dado ao projeto o codinome interno V68. \nRelembre as principais mudanças do iPhone desde o lançamento:\n2007: Apple lança o primeiro iPhone com tela multitoque;\n2008: iPhone 3G chega com conexão 3G e loja de aplicativos, a App Store;\n2011: Siri é lançada oficialmente integrada ao iPhone 4S;\n2012: conexão 4G chega ao iPhone 5;\n2013: sensor de impressão digital (Touch ID) chega ao iPhone 5S;\n2017: iPhone ganha carregamento sem fio, a partir do iPhone 8;\n2018: iPhone XS Max chega com a maior tela já usada em um iPhone;\n2020: Apple retoma design semelhante ao do iPhone 4 no iPhone 12, que também ganha conexão 5G;\n2022: iPhone 14 Pro e Pro Max ganham entalhe interativo na tela, chamado de Ilha Dinâmica (Dynamic Island);\n2023: iPhone abandona a conexão própria Lightning e ganha USB-C, já presente em aparelhos Android;\n2025: iPhone reformula totalmente o design da linha Pro e Pro Max e lança uma nova categoria: o iPhone Air, um smartphone ultrafino.\niPhone Duo branco e preto\ndivulgação/Apple",
       "tags": [
-        "Bolsonaro"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo"
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "Fri, 04 Sep 2026 01:39:12 +0000"
+      "score": 81,
+      "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
     },
     {
       "id": "a68c011ff308",
@@ -803,63 +866,6 @@
       ],
       "score": 77,
       "publishedRaw": "Wed, 09 Sep 2026 10:22:34 -0000"
-    },
-    {
-      "id": "d0f5f02111ad",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max",
-      "link": "https://g1.globo.com/tecnologia/ao-vivo/apple-lancamento-iphone-18.ghtml",
-      "summary": "Apple lança iPhone Duo, seu primeiro celular dobrável, e os novos 18 Pro e Pro Max Big tech também anunciou novos Apple Watches e AirPods 5, além de trazer novidades nas câmeras dos iPhones. Empresa lançou nesta quarta-feira os iPhones 18 Pro e Pro Max, que custarão até R$ 21.990. Também apresentou o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.990. John Ternus fez sua 1ª apresentação como CEO da empresa; conheça o executivo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 09 Sep 2026 22:05:19 -0000"
-    },
-    {
-      "id": "e5e77a51ca1d",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula assina decreto que reduz tributos sobre gasolina e MP que cria subsídio para diesel",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/09/lula-assina-decreto-que-reduz-tributos-sobre-gasolina-e-mp-que-cria-subsidio-para-diesel.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (9) um decreto que amplia a subvenção à gasolina de R$ 0,44 por litro, ou seja, reduz os tributos incidentes sobre o combustível neste montante. O decreto também zera os tributos sobre o etanol hidratado, com diminuição de R$ 0,19 por litro.\nO secretário executivo do Ministério da Fazenda, Rogério Ceron, informou em entrevista coletiva que houve um erro na data de vigência do decreto. Diferente do informado anteriormente, a norma vale até 9 de outubro e não 5 de outubro.  \nO petista assinou também uma medida provisória que autoriza uma subvenção de R$ 1 por litro para o diesel. A medida se soma ao subsídio de R$1,12, que vale até o dia 26 de setembro.\nPreço do barril de petróleo volta a passar de US$ 100\nOu seja, no momento em que as duas medidas estiverem coexistindo, a subvenção alcança o valor de R$ 2,12.\nAs medidas foram anunciadas a menos de um mês da eleição presidencial e em meio à alta do petróleo no mercado internacional. \nO petróleo do tipo Brent, referência internacional, voltou a ultrapassar a marca de US$ 100 por barril nesta quarta, após o agravamento dos conflitos no Oriente Médio. Mais de 25% do diesel consumido no Brasil é importado.\nA subvenção ao diesel será concedida a produtores e importadores que aderirem ao programa. O valor de R$ 1 por litro poderá ser alterado ou interrompido de acordo com as condições do mercado, e o desconto deverá ser repassado ao preço de venda.\nNa gasolina, a redução de R$ 0,63 por litro é exclusivamente uma redução nos tributos. Ela substitui a subvenção que estava em vigor e termina nesta quarta-feira.\nCusto das medidas\nO governo estima arrecadar mais de R$ 10 bilhões em receitas extras com o petróleo neste mês. \nSegundo o secretário-executivo do Ministério da Fazenda, Rogério Ceron, o valor é mais do que suficiente para compensar a renúncia de R$ 2 bilhões com as medidas para gasolina e etanol.\nEssa receita adicional será considerada no próximo relatório bimestral de receitas e despesas.\nNo caso da subvenção ao diesel, Ceron afirmou que o gasto extra também será incluído no próximo relatório. Se houver necessidade de fazer ajustes para garantir o cumprimento da meta de resultado primário, o governo poderá recorrer a contingenciamentos.\nDesde do momento que foram anunciadas, as medidas sobre os combustíveis já custaram R$25 bilhões, segundo os ministros.\n➡️Subvenção de R$ 1,12 para o diesel: vigente até 26 de setembro. Custa R$ 5,5 bilhões em um mês.\n➡️Nova subvenção de R$ 1 para o diesel: custo estimado em cerca de R$ 5 bilhões em um mês.\n➡️Subsídios previstos no decreto: a subvenção de R$ 0,44 na gasolina custou cerca de R$ 1,2 bilhão. A nova desoneração deve ter impacto de cerca de R$ 2 bilhões, somando:\nR$ 1,2 bilhão referentes aos R$ 0,44;\nR$ 500 milhões referentes ao adicional de R$ 0,19, que elevou o subsídio da gasolina para R$ 0,63;\nR$ 300 milhões referentes à desoneração de R$ 0,19 no etanol, que zera os impostos federais sobre o biocombustível.\n“Não vamos permitir que essa guerra irresponsável chegue no seu bolso e muito menos no prato de comida do povo brasileiro”, afirmou Lula em vídeo divulgado nesta quarta\".\nLula durante visita à sonda NS-42, da Petrobras, na Margem Equatorial\nDivulgação/Ricardo Stuckert",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 09 Sep 2026 19:30:31 -0000"
-    },
-    {
-      "id": "0b8f501b2b56",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Apple lança o iPhone Duo, primeiro celular dobrável da marca, por até R$ 30.999",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/09/apple-iphone-dobravel.ghtml",
-      "summary": "iPhone Duo: Apple lança seu primeiro celular dobrável\nA Apple apresentou nesta quarta-feira (9) o iPhone Duo, com preços que partem de R$ 21.999 e vão R$ 30.999, dependendo da capacidade de armazenamento. (veja todos os preços)\nO modelo é o primeiro dobrável da Apple e marca a entrada da empresa em um segmento já explorado por concorrentes como Samsung e Huawei.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nO iPhone Duo segue a proposta de outros celulares dobráveis: uma tela externa de 5,4 polegadas permite acessar praticamente todos os recursos do iOS sem precisar abrir o aparelho.\nQuando aberto, o aparelho revela uma tela de 7,6 polegadas, pouco menor que a de 8,3 polegadas do iPad Mini.\niPhone Duo\ndivulgação/Apple\nA tela maior amplia a área para assistir a vídeos e oferece recursos extras em aplicativos de terceiros, como o Zoom. Também é possível usar dois aplicativos ao mesmo tempo.\nAté a chegada do iPhone Duo, o uso de dois aplicativos ao mesmo tempo era restrito aos iPads entre os dispositivos móveis da Apple. O Duo também é o primeiro iPhone compatível com a Apple Pencil, até então disponível apenas para iPads.\nPara reforçar a estrutura do iPhone Duo, a Apple usou titânio na carcaça. Segundo a empresa, uma textura aplicada à tela interna também ajuda a reduzir o vinco comum em celulares dobráveis.\nO aparelho tem quatro câmeras:\nDuas traseiras de 48 megapixels;\nUma frontal externa de 12 megapixels;\nUma câmera interna, sob a tela, capaz de gravar em Full HD (1080p).\nVeja abaixo as imagens do novo iPhone Duo:\niPhone Duo\nDiferentemente dos demais iPhones vendidos atualmente pela Apple, o Duo não tem reconhecimento facial nem entrada para chip físico de operadora — o aparelho utiliza apenas o chip virtual, chamado eSIM.\nNo lugar do reconhecimento facial, a autenticação biométrica é feita por um leitor de impressões digitais na lateral do aparelho.\nO iPhone Duo usa o mesmo chip A20 Pro dos novos iPhones 18 Pro e 18 Pro Max, também lançados nesta quarta-feira.\nA Apple não informa a capacidade da bateria, mas afirma que o aparelho oferece até 24 horas de uso típico. Segundo a empresa, a autonomia pode chegar a 44 horas usando a tela externa e a 31 horas com a tela interna.\nCom um carregador de 60 watts ou mais, a bateria pode chegar a 50% da carga em até 20 minutos, segundo a Apple.\nO iPhone Duo entra em pré-venda no dia 16 de outubro, e as entregas começam em 23 de outubro. \nConfira os preços do aparelho no Brasil:\niPhone Duo (256 GB): R$ 21.999;\niPhone Duo (512 GB): R$ 23.499;\niPhone Duo (1 TB): R$ 26.499;\niPhone Duo (2 TB): R$ 30.999.\nVeja também os preços do aparelho nos EUA:\niPhone Duo (256 GB): US$ 1.999;\niPhone Duo (512 GB): US$ 2.199;\niPhone Duo (1 TB): US$ 2.599;\niPhone Duo (2 TB): US$ 3.199.\nRumores já indicavam o iPhone dobrável\nO iPhone Duo retomou o uso do leitor de impressões digitais (Touch ID) para desbloquear o aparelho. Outros iPhones usam o reconhecimento facial (FaceID).\nReprodução\nEm 2024, o site de tecnologia \"The Information\" já havia noticiado que a Apple poderia lançar um modelo dobrável em 2026.\nNa época, o \"The Information\" afirmou que a Apple buscava fornecedores na Ásia para fabricar componentes do aparelho e havia dado ao projeto o codinome interno V68. \nRelembre as principais mudanças do iPhone desde o lançamento:\n2007: Apple lança o primeiro iPhone com tela multitoque;\n2008: iPhone 3G chega com conexão 3G e loja de aplicativos, a App Store;\n2011: Siri é lançada oficialmente integrada ao iPhone 4S;\n2012: conexão 4G chega ao iPhone 5;\n2013: sensor de impressão digital (Touch ID) chega ao iPhone 5S;\n2017: iPhone ganha carregamento sem fio, a partir do iPhone 8;\n2018: iPhone XS Max chega com a maior tela já usada em um iPhone;\n2020: Apple retoma design semelhante ao do iPhone 4 no iPhone 12, que também ganha conexão 5G;\n2022: iPhone 14 Pro e Pro Max ganham entalhe interativo na tela, chamado de Ilha Dinâmica (Dynamic Island);\n2023: iPhone abandona a conexão própria Lightning e ganha USB-C, já presente em aparelhos Android;\n2025: iPhone reformula totalmente o design da linha Pro e Pro Max e lança uma nova categoria: o iPhone Air, um smartphone ultrafino.\niPhone Duo branco e preto\ndivulgação/Apple",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Wed, 09 Sep 2026 17:54:14 -0000"
     },
     {
       "id": "ec15858513d3",
