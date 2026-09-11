@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:46:13.428137+00:00",
+  "generated_at": "2026-09-11T01:13:51.756420+00:00",
   "items": [
     {
       "id": "7597345f0f62",
@@ -209,28 +209,6 @@
       "publishedRaw": "10 Sep 2026 20:17:00 -0300"
     },
     {
-      "id": "ac718ddc8b7f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cármen Lúcia cancela ida à Bienal do Livro em meio a crise no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/carmen-lucia-cancela-ida-a-bienal-do-livro-em-meio-a-crise-no-stf.shtml",
-      "summary": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), cancelou a participação que faria nesta sexta-feira (11) na Bienal do Livro de São Paulo, em meio à crise aguda que divide a corte.\nLeia mais (09/10/2026 - 19h53)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "10 Sep 2026 19:53:00 -0300"
-    },
-    {
       "id": "f959028104aa",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -251,6 +229,28 @@
       ],
       "score": 90,
       "publishedRaw": "Fri, 11 Sep 2026 00:30:32 +0000"
+    },
+    {
+      "id": "20b43e0659e8",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "CNBB manifesta em preocupação com as instituições democráticas e defende Código de Ética no STF",
+      "link": "https://www.estadao.com.br/politica/cnbb-se-manifesta-em-preocupacao-com-as-instituicoes-democraticas-e-defende-conduta-mais-etica-nprp/",
+      "summary": "No documento, a Conferência dos Bispos sustenta que questões de relevância institucional sejam examinadas de maneira colegiada, pública e transparente; preocupação é maior devido ao período eleitoral",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Fri, 11 Sep 2026 00:45:29 +0000"
     },
     {
       "id": "494e90c9a762",
@@ -580,28 +580,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 23:53:10 +0000"
     },
     {
-      "id": "6f73a721987c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Dark Horse’ vira pangaré e possível efeito eleitoral chega tarde para Flávio e Lula",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/dark-horse-vira-pangare-e-possivel-efeito-eleitoral-chega-tarde-para-flavio-e-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 23:57:27 +0000"
-    },
-    {
       "id": "ae5a14035387",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -624,6 +602,28 @@
       "publishedRaw": "Thu, 10 Sep 2026 20:25:44 +0000"
     },
     {
+      "id": "6f73a721987c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Dark Horse’ vira pangaré e possível efeito eleitoral chega tarde para Flávio e Lula",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/dark-horse-vira-pangare-e-possivel-efeito-eleitoral-chega-tarde-para-flavio-e-lula/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 10 Sep 2026 23:57:27 +0000"
+    },
+    {
       "id": "b059e21a17a2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -642,6 +642,28 @@
       ],
       "score": 85,
       "publishedRaw": ""
+    },
+    {
+      "id": "6428166679b7",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sem citar Mendonça, Lula diz que juiz não pode vazar só o que o interessa",
+      "link": "https://www.poder360.com.br/poder-governo/sem-citar-mendonca-lula-diz-que-juiz-nao-pode-vazar-so-o-que-o-interessa/",
+      "summary": "Presidente afirmou que ação pode prejudicar processo eleitoral; “em vez de vazamento seletivo, que abra-se a janela”, acrescentou",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 11 Sep 2026 00:51:46 +0000"
     },
     {
       "id": "ae62f255613c",
@@ -827,7 +849,7 @@
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Thu, 10 Sep 2026 15:57:43 GMT"
+      "publishedRaw": "Fri, 11 Sep 2026 01:07:22 GMT"
     },
     {
       "id": "5ced05940e18",
