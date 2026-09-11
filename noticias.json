@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:14:58.234214+00:00",
+  "generated_at": "2026-09-11T05:42:58.287954+00:00",
   "items": [
     {
       "id": "7597345f0f62",
@@ -495,28 +495,6 @@
       "publishedRaw": "Fri, 11 Sep 2026 01:22:42 +0000"
     },
     {
-      "id": "b898ef00c1c7",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Leia a íntegra da resolução da Executiva do PT que aborda crise do STF",
-      "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-da-resolucao-da-executiva-do-pt-que-aborda-crise-do-stf/",
-      "summary": "\"É inegável a crise que vivenciamos, quando a Suprema Corte brasileira trava uma 'guerra' aos olhos estarrecidos da sociedade\", afirma a sigla",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Fri, 11 Sep 2026 00:37:52 +0000"
-    },
-    {
       "id": "627c99943231",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -820,6 +798,24 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
+      "id": "f5d7abc23c0d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veja em cinco pontos a convenção de Trump para eleições de Meio de Mandato",
+      "link": "https://www.cnnbrasil.com.br/internacional/veja-em-cinco-pontos-a-convencao-de-trump-para-eleicoes-de-meio-de-mandato/",
+      "summary": "Presidente americano enalteceu feitos de sua mandato, criticou democratas e prometeu US$ 5 mil para adultos americanos caso republicanos vençam disputa no Congresso",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 78,
+      "publishedRaw": "Fri, 11 Sep 2026 05:06:43 +0000"
+    },
+    {
       "id": "356a9ba6e924",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -902,21 +898,6 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Thu, 10 Sep 2026 18:03:28 +0000"
-    },
-    {
-      "id": "67b4242e4b23",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zema vai unificar programas sociais sob novo Bolsa Família e quer vincular gastos a metas, diz assessor",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/zema-vai-unificar-programas-sociais-sob-novo-bolsa-familia-e-quer-vincular-gastos-a-metas-diz-assessor.shtml",
-      "summary": "O candidato à Presidência Romeu Zema (Novo) fará, caso eleito, uma unificação do Bolsa Família ao BPC (Benefício de Prestação Continuada), Pé-de-Meia, Gás do Povo, abono salarial e outros programas sociais, diz Carlos Da Costa, assessor econômico da campanha.\nLeia mais (09/10/2026 - 23h00)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "10 Sep 2026 23:00:00 -0300"
     }
   ]
 }
