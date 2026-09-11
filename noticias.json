@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:43:49.252927+00:00",
+  "generated_at": "2026-09-11T04:16:57.876380+00:00",
   "items": [
     {
       "id": "7597345f0f62",
@@ -15,6 +15,7 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -61,7 +62,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -85,6 +85,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -106,6 +107,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -127,6 +129,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -172,6 +175,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -193,6 +197,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -214,6 +219,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -235,6 +241,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -256,6 +263,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -263,6 +271,28 @@
       ],
       "score": 90,
       "publishedRaw": "10 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "32c91be5363e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Tirar sigilo do Master não contribui com imagem do STF”, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/tirar-sigilo-do-master-nao-contribui-com-imagem-do-stf-diz-especialista/",
+      "summary": "Ao WW, diretor de análise política da Prospectiva Thiago Vidal avalia que decisão de Fachin é sintoma da crise institucional do Supremo e não resolve os problemas da corte",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Fri, 11 Sep 2026 03:45:39 +0000"
     },
     {
       "id": "494e90c9a762",
@@ -301,6 +331,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -322,6 +353,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -342,6 +374,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -363,6 +396,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -384,6 +418,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -405,6 +440,7 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -427,6 +463,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -448,6 +485,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -469,6 +507,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -491,6 +530,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -533,6 +573,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -582,90 +623,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 23:11:21 +0000"
     },
     {
-      "id": "e2ca40b71aa2",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula sai em defesa de Andrei: 'é da minha total confiança'",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml",
-      "summary": "Presidente Luiz Inácio Lula da Silva (PT)\nRicardo Stuckert\nO presidente Luiz Inácio Lula da Silva (PT) saiu em defesa do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, em entrevista ao SBT nesta quinta-feira (10). \n\"O Andrei é um policial federal muito competente, tem mais de 30 anos de carreira, é o companheiro que possivelmente fez a maior busca e apreensão da história do crime organizado deste país. É o companheiro que fiscalizou o Banco Master, que prendeu Vorcaro [Daniel Vorcaro]\", afirmou o presidente Lula. \nNa terça-feira (8), o ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou o afastamento preventivo Andrei. \n\nSegundo Mendonça, a cúpula da PF promoveu monitoramento ilegal e \"arapongagem\" contra ele próprio e contra o advogado-geral da União, Jorge Messias, ao produzir relatórios de inteligência que, posteriormente, embasaram medidas tomadas pelo ministro Alexandre de Moraes.\nMendonça solicitou que a Segunda Turma do STF analisasse a decisão em uma sessão virtual. O colegiado formou maioria de três votos para manter os afastamentos, mas o julgamento foi interrompido após um pedido de vista de Gilmar Mendes. \nNa quarta-feira (9), o ministro Flávio Dino reverteu o afastamento de Andrei em outra decisão. A decisão atendeu a um pedido formulado pelo diretor-geral da PF. \nNo mesmo dia, o presidente do STF, Edson Fachin, suspendeu as duas decisões, mantendo, por ora, Andrei no cargo. \n Segundo o presidente Lula, Andrei incomoda \"porque a Polícia Federal nunca trabalhou tanto\". \n\"Ele é um funcionário do estado brasileiro e, portanto, nós temos responsabilidade sobre ele. Ele fez um trabalho extraordinário. Aliás, acho que ele incomoda muita gente porque a Polícia Federal nunca trabalhou tanto, nunca prendeu tanto, nunca resgatou tanto dinheiro e tanta droga nesse mandato do Andrei. Por isso, eu quero dizer em alto e bom som o Andrei é da minha total confiança, é um companheiro, sabe, perito, como poucos delegados na história desse país\", disse Lula.\n\nNa decisão, Fachin disse que Andrei poderia prestar informações em até 48 horas. Depois desse prazo, o presidente do STF decidirá sobre a permanência dele no cargo.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 23:31:09 -0000"
-    },
-    {
-      "id": "3e67362de3a7",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mais de 50 toneladas de celulares são apreendidas em operação do MPSP",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mais-de-50-toneladas-de-celulares-sao-apreendidas-em-operacao-do-mpsp/",
-      "summary": "Ação do MPSP em São Paulo e Goiás mira rede criminosa de furto, roubo e receptação de aparelhos com 15 presos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 11 Sep 2026 01:40:25 +0000"
-    },
-    {
-      "id": "ae5a14035387",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bastidores: PT dá guinada na campanha de Lula e aponta ligações perigosas entre Flávio e Mendonça",
-      "link": "https://www.estadao.com.br/politica/pt-da-guinada-na-campanha-de-lula-e-aponta-ligacoes-perigosas-entre-flavio-e-mendonca/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 20:25:44 +0000"
-    },
-    {
-      "id": "6f73a721987c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Dark Horse’ vira pangaré e possível efeito eleitoral chega tarde para Flávio e Lula",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/dark-horse-vira-pangare-e-possivel-efeito-eleitoral-chega-tarde-para-flavio-e-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 23:57:27 +0000"
-    },
-    {
       "id": "b059e21a17a2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -686,6 +643,66 @@
       "publishedRaw": ""
     },
     {
+      "id": "e2ca40b71aa2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sai em defesa de Andrei: 'é da minha total confiança'",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/10/lula-sai-em-defesa-de-andrei-e-da-minha-total-confianca.ghtml",
+      "summary": "Presidente Luiz Inácio Lula da Silva (PT)\nRicardo Stuckert\nO presidente Luiz Inácio Lula da Silva (PT) saiu em defesa do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, em entrevista ao SBT nesta quinta-feira (10). \n\"O Andrei é um policial federal muito competente, tem mais de 30 anos de carreira, é o companheiro que possivelmente fez a maior busca e apreensão da história do crime organizado deste país. É o companheiro que fiscalizou o Banco Master, que prendeu Vorcaro [Daniel Vorcaro]\", afirmou o presidente Lula. \nNa terça-feira (8), o ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou o afastamento preventivo Andrei. \n\nSegundo Mendonça, a cúpula da PF promoveu monitoramento ilegal e \"arapongagem\" contra ele próprio e contra o advogado-geral da União, Jorge Messias, ao produzir relatórios de inteligência que, posteriormente, embasaram medidas tomadas pelo ministro Alexandre de Moraes.\nMendonça solicitou que a Segunda Turma do STF analisasse a decisão em uma sessão virtual. O colegiado formou maioria de três votos para manter os afastamentos, mas o julgamento foi interrompido após um pedido de vista de Gilmar Mendes. \nNa quarta-feira (9), o ministro Flávio Dino reverteu o afastamento de Andrei em outra decisão. A decisão atendeu a um pedido formulado pelo diretor-geral da PF. \nNo mesmo dia, o presidente do STF, Edson Fachin, suspendeu as duas decisões, mantendo, por ora, Andrei no cargo. \n Segundo o presidente Lula, Andrei incomoda \"porque a Polícia Federal nunca trabalhou tanto\". \n\"Ele é um funcionário do estado brasileiro e, portanto, nós temos responsabilidade sobre ele. Ele fez um trabalho extraordinário. Aliás, acho que ele incomoda muita gente porque a Polícia Federal nunca trabalhou tanto, nunca prendeu tanto, nunca resgatou tanto dinheiro e tanta droga nesse mandato do Andrei. Por isso, eu quero dizer em alto e bom som o Andrei é da minha total confiança, é um companheiro, sabe, perito, como poucos delegados na história desse país\", disse Lula.\n\nNa decisão, Fachin disse que Andrei poderia prestar informações em até 48 horas. Depois desse prazo, o presidente do STF decidirá sobre a permanência dele no cargo.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 10 Sep 2026 23:31:09 -0000"
+    },
+    {
+      "id": "ae5a14035387",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bastidores: PT dá guinada na campanha de Lula e aponta ligações perigosas entre Flávio e Mendonça",
+      "link": "https://www.estadao.com.br/politica/pt-da-guinada-na-campanha-de-lula-e-aponta-ligacoes-perigosas-entre-flavio-e-mendonca/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 10 Sep 2026 20:25:44 +0000"
+    },
+    {
+      "id": "6f73a721987c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Dark Horse’ vira pangaré e possível efeito eleitoral chega tarde para Flávio e Lula",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/dark-horse-vira-pangare-e-possivel-efeito-eleitoral-chega-tarde-para-flavio-e-lula/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 10 Sep 2026 23:57:27 +0000"
+    },
+    {
       "id": "dce0f26b91e9",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -698,12 +715,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 11 Sep 2026 02:03:56 +0000"
     },
     {
@@ -719,34 +735,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 11 Sep 2026 00:51:46 +0000"
-    },
-    {
-      "id": "ae62f255613c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Andrei tem minha total confiança, diz Lula",
-      "link": "https://www.poder360.com.br/poder-governo/andrei-tem-minha-total-confianca-diz-lula/",
-      "summary": "Presidente cita diretor da PF pela 1ª vez desde revelação de mensagens entre Moraes e Vorcaro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 11 Sep 2026 00:29:32 +0000"
     },
     {
       "id": "85489762b58c",
@@ -766,27 +760,6 @@
       ],
       "score": 83,
       "publishedRaw": "Thu, 10 Sep 2026 21:36:35 -0000"
-    },
-    {
-      "id": "ac09c62429a5",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Dinamarca quer proibir celulares nas escolas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/dinamarca-quer-proibir-celulares-nas-escolas.ghtml",
-      "summary": "Jovem usa o celular em Sidney, na Austrália; país aprovou lei que proíbe acesso de menores de 16 anos às redes sociais\nHollie Adams/Reuters\nO governo da Dinamarca, que planeja proibir o uso de redes sociais por menores de 15 anos, também quer vetar a presença de celulares em escolas e centros de ensino médio, anunciou a primeira-ministra Mette Frederiksen nesta quinta-feira (10).\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\n\"Este governo propõe uma proibição total dos celulares\", declarou Frederiksen durante uma coletiva de imprensa.\nA proibição valerá tanto para as salas de aula quanto para os pátios de recreio, acrescentou.\nA medida abrangerá os alunos desde o primeiro ano do ensino fundamental até o fim do ensino médio.\nAgora no g1\nO anúncio foi feito logo após a divulgação do mais recente relatório internacional PISA, que mostrou uma forte queda no desempenho dos jovens dinamarqueses.\nCom 478 pontos, a Dinamarca ficou ligeiramente abaixo da média europeia, de 482.\n\"Os resultados em leitura, matemática e ciências são os piores já registrados\", reagiu o ministro da Educação, Magnus Heunicke, após a divulgação dos dados, na terça-feira (08). \n\"Estou convencida de que os resultados estão estreitamente relacionados com o fato de que na Dinamarca temos uma das infâncias mais conectadas\", afirmou a chefe de governo.\n\"Nós, adultos, permitimos que as crianças e os jovens passem horas demais por dia em frente a uma tela\", lamentou Frederiksen.\nSeu governo anterior já havia estudado legislar sobre o tema, mas o projeto, que nunca chegou a ser debatido no Parlamento, previa apenas obrigar os conselhos escolares a estabelecer regras para transformar as escolas em espaços livres de celulares.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
       "id": "4604b5cc53bb",
@@ -825,6 +798,26 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
+    },
+    {
+      "id": "ac09c62429a5",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dinamarca quer proibir celulares nas escolas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/10/dinamarca-quer-proibir-celulares-nas-escolas.ghtml",
+      "summary": "Jovem usa o celular em Sidney, na Austrália; país aprovou lei que proíbe acesso de menores de 16 anos às redes sociais\nHollie Adams/Reuters\nO governo da Dinamarca, que planeja proibir o uso de redes sociais por menores de 15 anos, também quer vetar a presença de celulares em escolas e centros de ensino médio, anunciou a primeira-ministra Mette Frederiksen nesta quinta-feira (10).\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\n\"Este governo propõe uma proibição total dos celulares\", declarou Frederiksen durante uma coletiva de imprensa.\nA proibição valerá tanto para as salas de aula quanto para os pátios de recreio, acrescentou.\nA medida abrangerá os alunos desde o primeiro ano do ensino fundamental até o fim do ensino médio.\nAgora no g1\nO anúncio foi feito logo após a divulgação do mais recente relatório internacional PISA, que mostrou uma forte queda no desempenho dos jovens dinamarqueses.\nCom 478 pontos, a Dinamarca ficou ligeiramente abaixo da média europeia, de 482.\n\"Os resultados em leitura, matemática e ciências são os piores já registrados\", reagiu o ministro da Educação, Magnus Heunicke, após a divulgação dos dados, na terça-feira (08). \n\"Estou convencida de que os resultados estão estreitamente relacionados com o fato de que na Dinamarca temos uma das infâncias mais conectadas\", afirmou a chefe de governo.\n\"Nós, adultos, permitimos que as crianças e os jovens passem horas demais por dia em frente a uma tela\", lamentou Frederiksen.\nSeu governo anterior já havia estudado legislar sobre o tema, mas o projeto, que nunca chegou a ser debatido no Parlamento, previa apenas obrigar os conselhos escolares a estabelecer regras para transformar as escolas em espaços livres de celulares.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
       "id": "356a9ba6e924",
