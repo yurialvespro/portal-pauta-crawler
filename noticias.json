@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T06:47:53.210854+00:00",
+  "generated_at": "2026-09-11T07:16:34.485844+00:00",
   "items": [
     {
       "id": "7597345f0f62",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "'Cruzada' de Mendonça no STF traz eleitor evangélico de volta pra Flávio Bolsonaro, diz Renato Meirelles",
+      "title": "'Cruzada' de Mendonça no STF traz eleitor evangélico de volta para Flávio Bolsonaro, diz Renato Meirelles",
       "link": "https://www.bbc.com/portuguese/articles/cn8m4k81x52o?at_medium=RSS&at_campaign=rss",
       "summary": "Pesquisador da classe C brasileira, Meirelles explica que campanha de Flávio pode ganhar ânimo agora. Para ele, transformar essa crise em uma cruzada é a 'forma mais eficiente para que o eleitorado bolsonarista consiga recuperar a força que a Michelle Bolsonaro tinha deixado em cima da mesa'.",
       "tags": [
@@ -17,7 +17,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -41,7 +40,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -63,36 +61,12 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 10 Sep 2026 09:19:35 GMT"
-    },
-    {
-      "id": "6e3c0120184e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Condenação de Bolsonaro completa um ano com STF em crise e clã na disputa pela Presidência",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/condenacao-de-bolsonaro-completa-um-ano-com-stf-em-crise-e-cla-na-disputa-pela-presidencia.shtml",
-      "summary": "A condenação do ex-presidente Jair Bolsonaro (PL) por tentativa de golpe de Estado completa um ano nesta sexta-feira (11) com o STF (Supremo Tribunal Federal) imerso na crise mais grave de sua história e com um representante da família, o senador Flávio Bolsonaro (PL), na disputa pela Presidência da República.\nLeia mais (09/10/2026 - 23h00)",
-      "tags": [
-        "STF",
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "10 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "05acc3690dc7",
@@ -109,7 +83,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -131,7 +104,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -154,7 +126,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -177,7 +148,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -199,7 +169,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -207,70 +176,25 @@
       "publishedRaw": "Thu, 10 Sep 2026 14:55:41 -0000"
     },
     {
-      "id": "a231d197b02a",
-      "source": "Folha de São Paulo",
+      "id": "f0aa2080a9c1",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "STF teme que vídeos de sessão sobre crise Moraes-Mendonça virem munição para campanhas nas redes",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-teme-que-videos-de-sessao-sobre-crise-moraes-mendonca-virem-municao-para-campanhas-nas-redes.shtml",
-      "summary": "Ministros de alas distintas do STF (Supremo Tribunal Federal) temem que a transmissão da sessão em que será discutida a crise entre Alexandre de Moraes e André Mendonça vire munição para as campanhas, a partir de \"cortes\" feitos para viralizar nas redes sociais.\nLeia mais (09/10/2026 - 23h04)",
+      "title": "Rito da sessão sobre Moraes no STF é incerto e divide ministros",
+      "link": "https://www.cnnbrasil.com.br/politica/rito-da-sessao-sobre-moraes-no-stf-e-incerto-e-divide-ministros/",
+      "summary": "Fachin se reuniu com Paulo Gonet para discutir formato da sessão plenária marcada para terça-feira (15); desfecho também é imprevisível",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "10 Sep 2026 23:04:00 -0300"
-    },
-    {
-      "id": "a936126b6ba9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Operação da PF com aval de Dino põe 'Dark Horse' e Mario Frias no alvo em meio a crise no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/operacao-da-pf-com-aval-de-dino-poe-dark-horse-e-mario-frias-no-alvo-em-meio-a-crise-no-stf.shtml",
-      "summary": "A Polícia Federal realizou nesta quinta-feira (10) operação autorizadapelo ministro Flávio Dino, do STF (Supremo Tribunal Federal), sobre suspeitas de desvio de dinheiro público para o filme \"Dark Horse\", que trata da vida do ex-presidente Jair Bolsonaro (PL).\nLeia mais (09/10/2026 - 23h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "10 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "ca330d9de24b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Observatório do STF cobra de Fachin proteção à corte e critica ministros que querem influenciar eleição",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/observatorio-do-stf-cobra-de-fachin-protecao-a-corte-e-critica-ministros-que-querem-influenciar-eleicao.shtml",
-      "summary": "O Observatório do STF (Supremo Tribunal Federal), que reúne acadêmicos que acompanham o Judiciário, enviou nesta quarta-feira (9) uma carta ao presidente da corte, Edson Fachin, demonstrando preocupação com a atuação individual de alguns ministros, que querem influenciar o processo eleitoral. O órgão vive em uma crise sem precedentes.\nLeia mais (09/10/2026 - 23h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "10 Sep 2026 23:00:00 -0300"
+      "publishedRaw": "Fri, 11 Sep 2026 06:50:30 +0000"
     },
     {
       "id": "32c91be5363e",
@@ -286,7 +210,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -309,7 +232,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -332,7 +254,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -354,7 +275,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -376,7 +296,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -398,7 +317,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -420,7 +338,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -442,7 +359,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -465,7 +381,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -487,7 +402,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -510,32 +424,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Fri, 11 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "65a45c1999e2",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml",
-      "summary": "Ação sobre 'Dark Horse' mostra desvio no destino de emendas parlamentares\nFlávio Bolsonaro (PL) chamou de \"tentativa de golpe\" a operação da Polícia Federal (PF), realizada na manhã desta quinta-feira (10), envolvendo empresas ligadas ao filme Dark Horse, sobre a história do ex-presidente Jair Bolsonaro (PL), e emendas parlamentares do deputado federal Mário Frias (PL-SP).\n\"Nós já havíamos esclarecido. Quer dizer, [não tem] nada de errado, mas faltam 24 dias para a eleição, gente. Eles precisam inventar alguma coisa contra mim\", afirmou o candidato, que atacou o ministro Flávio Dino, do Supremo Tribunal Federal (STF). \"O nome da operação tinha que ser tentativa de golpe. Fica a dica aí, Dino, Tentativa de golpe o nome da sua ação\".\nOperação deflagrada nesta quinta-feira (10) investiga o suposto desvio de emendas de Frias pagas a entidades de propriedade da produtora Karina Ferreira da Gama. \"Dark Horse\" é um filme sobre a vida do ex-presidente Jair Bolsonaro (PL).\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários, e disse acreditar que o caso será arquivado.\nDino e Moraes 'tentaram interferir nas eleições'\nA declaração de Flávio Bolsonaro foi dada em uma live feita pelo senador em seu canal do YouTube, em que ele afirmou que tanto Dino quanto Alexandre de Moraes \"tentaram interferir nas eleições\" presidenciais deste ano. Bolsonaro disse que irá entrar com ação contra Dino no STF.\n\"A nossa defesa, e eu acho que as outras defesas também, tanto da produtora como de outras pessoas, vão entrar com pedido junto ao presidente do Supremo Tribunal Federal, Edson Fachin, para que o Dino seja formalmente investigado por essa articulação política\", afirmou.\nFlávio Bolsonaro alegou que a data da autorização da operação, com assinatura de Dino no dia 3 de setembro, coincide com denúncia que ele fez na rede social X em que alegou que haveria uma tentativa de golpe nas eleições. \nDe acordo com o senador, todas as questões de pagamentos envolvendo o filme que trata da história de seu pai já foram explicadas às autoridades. Ele também citou pesquisas de intenções de voto que o mostram tecnicamente empatado com Lula como argumento para a operação da PF.\n\"Está muito claro para todo mundo que não tem nada de errado. O que tem claro é que a gente passou nas pesquisas; o que está claro é que o Lula vai perder a eleição; o que está claro é que eu vou proteger o Supremo Tribunal Federal desses ministros que estão afundando e destruindo a nossa democracia\", disse.\nO candidato a presidência da República, Flávio Bolsonaro, durante a convenção do Republicanos que oficializou a candidatura à reeleição do Governador de São Paulo, Tarcísio de Freitas, no Ginásio do Ibirapuera, zona sul de São Paulo, neste sábado (1°).\nMarina Uezima/Agência O Dia/Estadão Conteúdo",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 10 Sep 2026 22:54:53 -0000"
     },
     {
       "id": "b72c437e5224",
@@ -552,73 +445,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Thu, 10 Sep 2026 21:58:35 +0000"
-    },
-    {
-      "id": "3f3b7621cd57",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml",
-      "summary": "Nesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em uma operação sobre os indícios de que o filme 'Dark Horse' recebeu dinheiro de emendas parlamentares. Entre os alvos estavam Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) – o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC), presididos por Karina, também foram alvos. A Controladoria-Geral da União (CGU) apontou suspeita de desvio da emenda de R$ 2 milhões indicada por Frias para entidades de Karina. E a PF destacou ainda que a Go Up, empresa que produz o filme, movimentou R$ 19 milhões. Em outra investigação sobre possíveis financiamentos irregulares da cinebiografia de Jair Bolsonaro, o ministro André Mendonça homologou a delação premiada do empresário Antonio Carlos Freixo Junior, o Mineiro, dono da Entre Investimentos, no âmbito do Caso Master: ele listou repasses que somam US$ 12 milhões de Daniel Vorcaro para o fundo financeiro criado para administrar os recursos de 'Dark Horse' nos EUA. \nNeste episódio, Natuza Nery entrevista o jornalista Guilherme Balza, que está acompanhando as investigações do caso 'Dark Horse' desde o início. Balza detalha toda a linha de investigação que liga as emendas parlamentares ao filme e explica o que está em cada um dos inquéritos sobre a cinebiografia de Bolsonaro. \nConvidados: Guilherme Balza, repórter de política da GloboNews em Brasília.\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nDelação premiada afirma que fundo recebeu US$ 12 milhões de Vorcaro\nO que você precisa saber: \nPF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse';\nCaso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente;\nPF aponta coincidência entre gastos durante gravações de filme 'Dark Horse' e envio de emendas para produtora;\nOperação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos;\nDino proíbe Mario Frias de sair do país e ter contato com outros investigados;\nONG de Karina da Gama e fornecedores ligados ao contrato de wi-fi da Prefeitura de SP também são alvo de operação da PF;\nRecursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro;\nKarina da Gama: quem é a produtora de 'Dark Horse' alvo de operação da Polícia Federal em SP;\nFlávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse';\nVALDO CRUZ: Governo Lula torce para STF sair da agenda e investigação da PF sobre financiamento do filme 'Dark Horse' dominar as atenções;\nO Assunto #1732: A nova suspeita de fraude no caso 'Dark Horse'.\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 86,
-      "publishedRaw": "Fri, 11 Sep 2026 03:30:00 -0000"
-    },
-    {
-      "id": "2dd908d66e5c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes autoriza novas visitas permanentes a Jair Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/moraes-autoriza-novas-visitas-a-jair-bolsonaro-nprp/",
-      "summary": "O pedido foi feito para a permanência de familiares na residência durante ausência de Michelle Bolsonaro. As visitas foram permitidas dentro de critérios já estabelecidos",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 10 Sep 2026 23:11:21 +0000"
-    },
-    {
-      "id": "b059e21a17a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
-      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": ""
     },
     {
       "id": "e2ca40b71aa2",
@@ -721,42 +553,99 @@
       "publishedRaw": "Fri, 11 Sep 2026 00:51:46 +0000"
     },
     {
-      "id": "85489762b58c",
+      "id": "3f3b7621cd57",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PF suspeita que ao menos R$ 750 mil de verbas públicas foram desviadas para produtora que fez filme sobre Bolsonaro",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-suspeita-que-ao-menos-r-750-mil-de-verbas-publicas-foram-desviadas-para-produtora-que-fez-filme-sobre-bolsonaro.ghtml",
-      "summary": "Karina Gama, produtora do filme 'Dark Horse', e o deputado Mario Frias (PL-SP) são alvos de ação da Polícia Federal, que cumpre mandados de busca nesta quinta-feira (10).\nReprodução e Câmara dos Deputados\nA Polícia Federal suspeita que pelo menos R$ 750 mil de verbas públicas federais de emendas parlamentares destinadas ao Instituto Conhecer Brasil (ICB) foram trianguladas para financiar a produtora Go Up Entertainment Ltda., responsável pelo filme \"Dark Horse\", cinebiografia do ex-presidente Jair Bolsonaro (PL).\nNesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em operação relacionada ao financiamento do filme. Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) foram alvos da ação. Duas entidades de propriedade de Karina também teve buscas de agentes da PF: o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC).\nO senador e candidato à Presidência Flávio Bolsonaro (PL), filho do ex-presidente, sempre afirmou que não foram utilizados recursos públicos no filme. Ele não é investigado neste inquérito.\nSegundo o relatório da Polícia Federal, o esquema investigado envolve o repasse total de R$ 2 milhões em emendas parlamentares do deputado federal Mário Frias (PL-SP) ao ICB, que presta diversos serviços.\nNo primeiro convênio, de R$ 1 milhão, o ICB contratou duas empresas ligadas ao grupo empresarial de Heric Fabiano Dias: a Dinâmica Editora (R$ 400 mil) e o Instituto Super Poder Educacional (R$ 300 mil), repassando-lhes aproximadamente R$ 700 mil sob justificativa de fornecer kits pedagógicos.\nNa sequência das transações, a empresa NTT Brasil Ltda., também administrada por Heric Dias, efetuou um repasse único de R$ 750.000,00 para a conta corrente da Go Up Entertainment Ltda.\nConforme ressalta o relatório da investigação, \"tais fatos chamam a atenção porque a Go Up Entertainment é a empresa responsável pelo filme Dark Horse, acerca da trajetória do ex-presidente Jair Bolsonaro, que tem como produtor executivo o deputado federal Mário Frias\".\nAs filmagens do longa-metragem foram realizadas em São Paulo entre 20 de outubro e 7 de dezembro de 2025, intervalo no qual a Go Up registrou movimentação financeira atípica de R$ 19.033.071,00. \n \"Chama a atenção a coincidência temporal das gravações com o período da referida comunicação, bem como a natureza das despesas, que envolvem hotel de alto padrão e refeições, além de despesas com produtoras\", diz a PF no relatório.\nRelatório da PF sobre suspeita de desvio de verbas parlamentares\nReprodução\nNo mesmo intervalo de menos de 60 dias, o próprio deputado Mário Frias efetuou transferências pessoais que somaram R$ 645.400,00 para a Go Up Entertainment.\nPara a Polícia Federal e a Controladoria-Geral da União (CGU), há indícios de que os contratos do ICB com as empresas do grupo de Heric Dias foram simulados mediante pesquisas de preços fraudadas para desviar verbas públicas e, posteriormente, reinserir R$ 750 mil na produtora para custear a obra audiovisual.\nA defesa de Karina Ferreira da Gama informou que apresentou uma reclamação constitucional ao STF após a operação da Polícia Federal desta quinta-feira (10). Segundo o advogado Ricardo Sayeg, a medida não questiona o mérito da investigação e busca garantir o cumprimento de decisões da Presidência do STF e a competência do juiz natural. \nA defesa afirma ainda que Karina vinha colaborando espontaneamente com a investigação e entregou à PF, na última sexta-feira, mais de 20 mil páginas de documentos.\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários e disse acreditar que o caso será arquivado.\n🎥 O filme \"Dark Horse\" (termo em inglês para \"azarão\") passou a ser alvo de investigações após reportagens revelarem que a produção teria sido financiada por Daniel Vorcaro, dono do extinto Banco Master. Ele está preso em Brasília. \nOutras emendas\nDino derruba sigilo de ação sobre Dark Horse\nA Polícia Federal (PF) aponta que, além do deputado federal Mario Frias, os parlamentares Marcos Pollon (PL-MS) e Bia Kicis (PL-DF) também assinaram emendas parlamentares para uma organização presidida por Karina Gama.\nA Academia Nacional de Cultura (ANC), organização também presidida por Karina, foi indicada como beneficiária de R$ 1 milhão em emendas destinadas por Marcos Pollon; e R$ 150 mil destinadas por Bia Kicis. Esses valores, porém, não foram efetivamente pagos.\nA PF destaca que Marcos Pollon é eleito pelo Mato Grosso do Sul, e Bia Kicis pelo Distrito Federal. As emendas analisadas, porém, foram destinadas ao estado de São Paulo.\nEssa diferença entre o estado pelo qual os parlamentares foram eleitos e o local que recebeu os recursos, segundo os investigadores, pode indicar descumprimento das regras que exigem uma relação entre a origem da emenda e o estado beneficiado.\nOperação 'Make Up'\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução\nO ministro Flávio Dino autorizou o cumprimento de mandados de busca e apreensão no âmbito da Operação Make Up, realizada conjuntamente pela Polícia Federal e pela Controladoria-Geral da União (CGU).\nA ação cumpriu 49 mandados de busca e apreensão em São Paulo, Rio de Janeiro, Ceará e no Distrito Federal. \nDino é o responsável por autorizar esse tipo de ação porque ele é o relator de processos no Supremo que investigam irregularidades no repasse desses recursos públicos, enviados por parlamentares para suas bases eleitorais.\nO ministro também determinou a aplicação de medidas cautelares contra Mario Frias, proibindo o parlamentar de deixar o país e de manter qualquer contato com os demais investigados no inquérito que apura desvios de recursos públicos oriundos de emendas parlamentares.\nPolícia Federal mira Mario Frias e produtora de Dark Horse",
+      "title": "'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml",
+      "summary": "Nesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em uma operação sobre os indícios de que o filme 'Dark Horse' recebeu dinheiro de emendas parlamentares. Entre os alvos estavam Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) – o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC), presididos por Karina, também foram alvos. A Controladoria-Geral da União (CGU) apontou suspeita de desvio da emenda de R$ 2 milhões indicada por Frias para entidades de Karina. E a PF destacou ainda que a Go Up, empresa que produz o filme, movimentou R$ 19 milhões. Em outra investigação sobre possíveis financiamentos irregulares da cinebiografia de Jair Bolsonaro, o ministro André Mendonça homologou a delação premiada do empresário Antonio Carlos Freixo Junior, o Mineiro, dono da Entre Investimentos, no âmbito do Caso Master: ele listou repasses que somam US$ 12 milhões de Daniel Vorcaro para o fundo financeiro criado para administrar os recursos de 'Dark Horse' nos EUA. \nNeste episódio, Natuza Nery entrevista o jornalista Guilherme Balza, que está acompanhando as investigações do caso 'Dark Horse' desde o início. Balza detalha toda a linha de investigação que liga as emendas parlamentares ao filme e explica o que está em cada um dos inquéritos sobre a cinebiografia de Bolsonaro. \nConvidados: Guilherme Balza, repórter de política da GloboNews em Brasília.\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nDelação premiada afirma que fundo recebeu US$ 12 milhões de Vorcaro\nO que você precisa saber: \nPF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse';\nCaso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente;\nPF aponta coincidência entre gastos durante gravações de filme 'Dark Horse' e envio de emendas para produtora;\nOperação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos;\nDino proíbe Mario Frias de sair do país e ter contato com outros investigados;\nONG de Karina da Gama e fornecedores ligados ao contrato de wi-fi da Prefeitura de SP também são alvo de operação da PF;\nRecursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro;\nKarina da Gama: quem é a produtora de 'Dark Horse' alvo de operação da Polícia Federal em SP;\nFlávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse';\nVALDO CRUZ: Governo Lula torce para STF sair da agenda e investigação da PF sobre financiamento do filme 'Dark Horse' dominar as atenções;\nO Assunto #1732: A nova suspeita de fraude no caso 'Dark Horse'.\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução",
       "tags": [
-        "Bolsonaro"
+        "Bolsonaro",
+        "Jair Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 83,
-      "publishedRaw": "Thu, 10 Sep 2026 21:36:35 -0000"
+      "score": 82,
+      "publishedRaw": "Fri, 11 Sep 2026 03:30:00 -0000"
     },
     {
-      "id": "4604b5cc53bb",
-      "source": "BBC Brasil",
+      "id": "65a45c1999e2",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
+      "category": "Política",
+      "title": "'Faltam 24 dias para a eleição, precisam inventar algo contra mim', diz Flávio Bolsonaro sobre ação da PF envolvendo 'Dark Horse'",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/10/flavio-bolsonaro-operacao-dark-horse-pf.ghtml",
+      "summary": "Ação sobre 'Dark Horse' mostra desvio no destino de emendas parlamentares\nFlávio Bolsonaro (PL) chamou de \"tentativa de golpe\" a operação da Polícia Federal (PF), realizada na manhã desta quinta-feira (10), envolvendo empresas ligadas ao filme Dark Horse, sobre a história do ex-presidente Jair Bolsonaro (PL), e emendas parlamentares do deputado federal Mário Frias (PL-SP).\n\"Nós já havíamos esclarecido. Quer dizer, [não tem] nada de errado, mas faltam 24 dias para a eleição, gente. Eles precisam inventar alguma coisa contra mim\", afirmou o candidato, que atacou o ministro Flávio Dino, do Supremo Tribunal Federal (STF). \"O nome da operação tinha que ser tentativa de golpe. Fica a dica aí, Dino, Tentativa de golpe o nome da sua ação\".\nOperação deflagrada nesta quinta-feira (10) investiga o suposto desvio de emendas de Frias pagas a entidades de propriedade da produtora Karina Ferreira da Gama. \"Dark Horse\" é um filme sobre a vida do ex-presidente Jair Bolsonaro (PL).\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários, e disse acreditar que o caso será arquivado.\nDino e Moraes 'tentaram interferir nas eleições'\nA declaração de Flávio Bolsonaro foi dada em uma live feita pelo senador em seu canal do YouTube, em que ele afirmou que tanto Dino quanto Alexandre de Moraes \"tentaram interferir nas eleições\" presidenciais deste ano. Bolsonaro disse que irá entrar com ação contra Dino no STF.\n\"A nossa defesa, e eu acho que as outras defesas também, tanto da produtora como de outras pessoas, vão entrar com pedido junto ao presidente do Supremo Tribunal Federal, Edson Fachin, para que o Dino seja formalmente investigado por essa articulação política\", afirmou.\nFlávio Bolsonaro alegou que a data da autorização da operação, com assinatura de Dino no dia 3 de setembro, coincide com denúncia que ele fez na rede social X em que alegou que haveria uma tentativa de golpe nas eleições. \nDe acordo com o senador, todas as questões de pagamentos envolvendo o filme que trata da história de seu pai já foram explicadas às autoridades. Ele também citou pesquisas de intenções de voto que o mostram tecnicamente empatado com Lula como argumento para a operação da PF.\n\"Está muito claro para todo mundo que não tem nada de errado. O que tem claro é que a gente passou nas pesquisas; o que está claro é que o Lula vai perder a eleição; o que está claro é que eu vou proteger o Supremo Tribunal Federal desses ministros que estão afundando e destruindo a nossa democracia\", disse.\nO candidato a presidência da República, Flávio Bolsonaro, durante a convenção do Republicanos que oficializou a candidatura à reeleição do Governador de São Paulo, Tarcísio de Freitas, no Ginásio do Ibirapuera, zona sul de São Paulo, neste sábado (1°).\nMarina Uezima/Agência O Dia/Estadão Conteúdo",
       "tags": [
-        "Bolsonaro"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 10 Sep 2026 22:54:53 -0000"
+    },
+    {
+      "id": "b81e34ebec02",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Por que o eleitor votará em dois senadores neste ano",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-por-que-o-eleitor-votara-em-dois-senadores-neste-ano/",
+      "summary": "Casa Alta trocará dois terços de suas 81 cadeiras, ou seja, 54 vagas, sendo duas por estado e pelo Distrito Federal",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 11 Sep 2026 06:30:30 +0000"
+    },
+    {
+      "id": "0fc3139ddc1f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: eleitor pode votar sem o título? Entenda",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-eleitor-pode-votar-sem-o-titulo-entenda/",
+      "summary": "Documento oficial com foto é suficiente para identificação na seção eleitoral",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 11 Sep 2026 06:30:24 +0000"
+    },
+    {
+      "id": "2dd908d66e5c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes autoriza novas visitas permanentes a Jair Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/moraes-autoriza-novas-visitas-a-jair-bolsonaro-nprp/",
+      "summary": "O pedido foi feito para a permanência de familiares na residência durante ausência de Michelle Bolsonaro. As visitas foram permitidas dentro de critérios já estabelecidos",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Fri, 11 Sep 2026 01:07:22 GMT"
+      "publishedRaw": "Thu, 10 Sep 2026 23:11:21 +0000"
     },
     {
       "id": "5ced05940e18",
@@ -798,6 +687,43 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
+      "id": "b059e21a17a2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
+      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": ""
+    },
+    {
+      "id": "85489762b58c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF suspeita que ao menos R$ 750 mil de verbas públicas foram desviadas para produtora que fez filme sobre Bolsonaro",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/pf-suspeita-que-ao-menos-r-750-mil-de-verbas-publicas-foram-desviadas-para-produtora-que-fez-filme-sobre-bolsonaro.ghtml",
+      "summary": "Karina Gama, produtora do filme 'Dark Horse', e o deputado Mario Frias (PL-SP) são alvos de ação da Polícia Federal, que cumpre mandados de busca nesta quinta-feira (10).\nReprodução e Câmara dos Deputados\nA Polícia Federal suspeita que pelo menos R$ 750 mil de verbas públicas federais de emendas parlamentares destinadas ao Instituto Conhecer Brasil (ICB) foram trianguladas para financiar a produtora Go Up Entertainment Ltda., responsável pelo filme \"Dark Horse\", cinebiografia do ex-presidente Jair Bolsonaro (PL).\nNesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em operação relacionada ao financiamento do filme. Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) foram alvos da ação. Duas entidades de propriedade de Karina também teve buscas de agentes da PF: o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC).\nO senador e candidato à Presidência Flávio Bolsonaro (PL), filho do ex-presidente, sempre afirmou que não foram utilizados recursos públicos no filme. Ele não é investigado neste inquérito.\nSegundo o relatório da Polícia Federal, o esquema investigado envolve o repasse total de R$ 2 milhões em emendas parlamentares do deputado federal Mário Frias (PL-SP) ao ICB, que presta diversos serviços.\nNo primeiro convênio, de R$ 1 milhão, o ICB contratou duas empresas ligadas ao grupo empresarial de Heric Fabiano Dias: a Dinâmica Editora (R$ 400 mil) e o Instituto Super Poder Educacional (R$ 300 mil), repassando-lhes aproximadamente R$ 700 mil sob justificativa de fornecer kits pedagógicos.\nNa sequência das transações, a empresa NTT Brasil Ltda., também administrada por Heric Dias, efetuou um repasse único de R$ 750.000,00 para a conta corrente da Go Up Entertainment Ltda.\nConforme ressalta o relatório da investigação, \"tais fatos chamam a atenção porque a Go Up Entertainment é a empresa responsável pelo filme Dark Horse, acerca da trajetória do ex-presidente Jair Bolsonaro, que tem como produtor executivo o deputado federal Mário Frias\".\nAs filmagens do longa-metragem foram realizadas em São Paulo entre 20 de outubro e 7 de dezembro de 2025, intervalo no qual a Go Up registrou movimentação financeira atípica de R$ 19.033.071,00. \n \"Chama a atenção a coincidência temporal das gravações com o período da referida comunicação, bem como a natureza das despesas, que envolvem hotel de alto padrão e refeições, além de despesas com produtoras\", diz a PF no relatório.\nRelatório da PF sobre suspeita de desvio de verbas parlamentares\nReprodução\nNo mesmo intervalo de menos de 60 dias, o próprio deputado Mário Frias efetuou transferências pessoais que somaram R$ 645.400,00 para a Go Up Entertainment.\nPara a Polícia Federal e a Controladoria-Geral da União (CGU), há indícios de que os contratos do ICB com as empresas do grupo de Heric Dias foram simulados mediante pesquisas de preços fraudadas para desviar verbas públicas e, posteriormente, reinserir R$ 750 mil na produtora para custear a obra audiovisual.\nA defesa de Karina Ferreira da Gama informou que apresentou uma reclamação constitucional ao STF após a operação da Polícia Federal desta quinta-feira (10). Segundo o advogado Ricardo Sayeg, a medida não questiona o mérito da investigação e busca garantir o cumprimento de decisões da Presidência do STF e a competência do juiz natural. \nA defesa afirma ainda que Karina vinha colaborando espontaneamente com a investigação e entregou à PF, na última sexta-feira, mais de 20 mil páginas de documentos.\nEm vídeo publicado nas redes sociais nesta quarta, Mário Frias classificou como “cortina de fumaça” a operação da Polícia Federal que realizou buscas em sua residência. O parlamentar negou irregularidades, afirmou que vai colaborar com as investigações e entregar todos os documentos necessários e disse acreditar que o caso será arquivado.\n🎥 O filme \"Dark Horse\" (termo em inglês para \"azarão\") passou a ser alvo de investigações após reportagens revelarem que a produção teria sido financiada por Daniel Vorcaro, dono do extinto Banco Master. Ele está preso em Brasília. \nOutras emendas\nDino derruba sigilo de ação sobre Dark Horse\nA Polícia Federal (PF) aponta que, além do deputado federal Mario Frias, os parlamentares Marcos Pollon (PL-MS) e Bia Kicis (PL-DF) também assinaram emendas parlamentares para uma organização presidida por Karina Gama.\nA Academia Nacional de Cultura (ANC), organização também presidida por Karina, foi indicada como beneficiária de R$ 1 milhão em emendas destinadas por Marcos Pollon; e R$ 150 mil destinadas por Bia Kicis. Esses valores, porém, não foram efetivamente pagos.\nA PF destaca que Marcos Pollon é eleito pelo Mato Grosso do Sul, e Bia Kicis pelo Distrito Federal. As emendas analisadas, porém, foram destinadas ao estado de São Paulo.\nEssa diferença entre o estado pelo qual os parlamentares foram eleitos e o local que recebeu os recursos, segundo os investigadores, pode indicar descumprimento das regras que exigem uma relação entre a origem da emenda e o estado beneficiado.\nOperação 'Make Up'\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução\nO ministro Flávio Dino autorizou o cumprimento de mandados de busca e apreensão no âmbito da Operação Make Up, realizada conjuntamente pela Polícia Federal e pela Controladoria-Geral da União (CGU).\nA ação cumpriu 49 mandados de busca e apreensão em São Paulo, Rio de Janeiro, Ceará e no Distrito Federal. \nDino é o responsável por autorizar esse tipo de ação porque ele é o relator de processos no Supremo que investigam irregularidades no repasse desses recursos públicos, enviados por parlamentares para suas bases eleitorais.\nO ministro também determinou a aplicação de medidas cautelares contra Mario Frias, proibindo o parlamentar de deixar o país e de manter qualquer contato com os demais investigados no inquérito que apura desvios de recursos públicos oriundos de emendas parlamentares.\nPolícia Federal mira Mario Frias e produtora de Dark Horse",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 10 Sep 2026 21:36:35 -0000"
+    },
+    {
       "id": "f5d7abc23c0d",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -816,40 +742,22 @@
       "publishedRaw": "Fri, 11 Sep 2026 05:06:43 +0000"
     },
     {
-      "id": "356a9ba6e924",
-      "source": "CNN Brasil",
+      "id": "4604b5cc53bb",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump pede que apoiadores votem e “trapaceiem pra valer” nas eleições",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-pede-que-apoiadores-votem-e-trapaceiem-pra-valer-nas-eleicoes/",
-      "summary": "Presidente americano não especificou, durante o discurso de encerramento da convenção do Partido Republicano, o que seria trapacear nas votações de Meio de Mandato",
+      "category": "Internacional",
+      "title": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+      "summary": "PF diz que a operação apura suposto desvio de recursos públicos oriundos de emendas parlamentares repassadas a organização da sociedade civil.",
       "tags": [
-        "eleições"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia"
+        "Estadão",
+        "G1 - Política"
       ],
       "score": 78,
-      "publishedRaw": "Fri, 11 Sep 2026 03:15:25 +0000"
-    },
-    {
-      "id": "2280d82126a4",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump pede para apoiadores fingirem que ele “está na chapa” nas eleições",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-pede-para-apoiadores-fingirem-que-ele-esta-na-chapa-nas-eleicoes/",
-      "summary": "Presidente americano fez o discurso de encerramento da convenção republicana para as eleições de Meio de Mandato na noite desta quinta-feira (10)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia"
-      ],
-      "score": 78,
-      "publishedRaw": "Fri, 11 Sep 2026 03:03:51 +0000"
+      "publishedRaw": "Fri, 11 Sep 2026 01:07:22 GMT"
     },
     {
       "id": "19ba97c5d0ac",
@@ -898,6 +806,21 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Thu, 10 Sep 2026 18:03:28 +0000"
+    },
+    {
+      "id": "565641afe94f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos participa de sabatina da Folha/UOL nesta sexta (11)",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/renan-santos-participa-de-sabatina-da-folhauol-nesta-sexta-11.shtml",
+      "summary": "O presidenciável Renan Santos, do Missão, participa nesta sexta-feira (11) de sabatina da Folha e do UOL.\nLeia mais (09/11/2026 - 04h00)",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "11 Sep 2026 04:00:00 -0300"
     }
   ]
 }
