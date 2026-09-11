@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:43:27.814198+00:00",
+  "generated_at": "2026-09-11T11:15:26.770718+00:00",
   "items": [
     {
       "id": "32f374f64113",
@@ -299,26 +299,6 @@
       "publishedRaw": ""
     },
     {
-      "id": "b059e21a17a2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
-      "summary": "O deputado federal Mario Frias (PL-SP) e a produtora Karina da Gama são alvos da ação, apurou a BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": ""
-    },
-    {
       "id": "59c3f340b555",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -437,6 +417,24 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
+    },
+    {
+      "id": "99d4190dc4ff",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Grupos no STF travam disputa sobre sigilo e sessão fechada no caso Master; pedido de vista entra no radar",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/11/stf-master-moraes-fachin.ghtml",
+      "summary": "Mendonça, Moraes e Fachin\nReprodução\nMinistros do Supremo Tribunal Federal (STF) querem saber como vai ser o rito da sessão de terça-feira (15). O presidente da Corte, ministro Edson Fachin, está consultando os ministros, e há uma disputa nos bastidores sobre o que exatamente será julgado e se a sessão será aberta ou fechada.\nA ala de ministros próximos a Moraes defende uma sessão fechada, como o blog revelou na quinta-feira (10), sob o argumento de que uma discussão envolvendo investigação sobre integrante do próprio Supremo deve ocorrer sob sigilo. Do outro lado, pesa o precedente do caso Toffoli e a repercussão negativa de uma deliberação a portas fechadas.\nAgora no g1\nHá ainda uma cobrança para que Fachin delimite previamente o objeto do julgamento. Hoje, concretamente, o que está sobre a mesa é o pedido da PGR para anular e arquivar o material cujo sigilo André Mendonça derrubou — material que contém, entre outros elementos, conversas de Alexandre de Moraes com Daniel Vorcaro, ex-dono do Banco Master.\nMendonça foi consultado sobre a decisão de Fachin, num sinal do alinhamento entre o presidente da Corte e o relator do caso Master na condução desse rito. A distribuição do material aos demais ministros serve justamente para que todos cheguem preparados à sessão, na argumentação de interlocutores do gabinete de Mendonça.\nHá também uma disputa sobre o sigilo. O grupo de Moraes pressiona para que todo o material seja tornado público, incluindo a investigação do caso Dark Horse. \nE interpreta essa derrubada de sigilo e a sessão aberta como uma forma de constranger os ministros do grupo de Moraes.\nÉ nesse cenário que ganha força uma possibilidade já discutida nos bastidores: um pedido de vista na terça-feira, adiando mais uma vez uma definição do Supremo sobre o caso.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 11 Sep 2026 11:10:59 -0000"
     },
     {
       "id": "4a1f683eb093",
