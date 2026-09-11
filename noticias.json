@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:15:34.686068+00:00",
+  "generated_at": "2026-09-11T03:43:49.252927+00:00",
   "items": [
     {
       "id": "7597345f0f62",
@@ -15,7 +15,6 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -39,6 +38,7 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -85,7 +85,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -107,7 +106,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -129,7 +127,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -175,7 +172,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -197,7 +193,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -219,7 +214,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -241,7 +235,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -263,7 +256,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -271,30 +263,6 @@
       ],
       "score": 90,
       "publishedRaw": "10 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "11708aefbdcf",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Waack: Pesquisas apontam crise do STF como maior risco a Lula",
-      "link": "https://www.cnnbrasil.com.br/politica/waack-pesquisas-apontam-crise-do-stf-como-maior-risco-a-lula/",
-      "summary": "O que se detecta hoje é uma espécie de sentimento geral que vai mais longe do que as denúncias de relações promíscuas, seja de quem for",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Fri, 11 Sep 2026 01:03:35 +0000"
     },
     {
       "id": "494e90c9a762",
@@ -333,7 +301,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -355,7 +322,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -376,7 +342,6 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -398,7 +363,6 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -420,7 +384,6 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -442,7 +405,6 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -465,7 +427,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -487,7 +448,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -509,7 +469,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -532,7 +491,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -575,7 +533,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -583,6 +540,26 @@
       ],
       "score": 87,
       "publishedRaw": "Thu, 10 Sep 2026 21:58:35 +0000"
+    },
+    {
+      "id": "3f3b7621cd57",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Dark Horse': as emendas parlamentares e o filme sobre Jair Bolsonaro - O Assunto #1802",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/11/dark-horse-as-emendas-parlamentares-e-o-filme-sobre-jair-bolsonaro-o-assunto-1802.ghtml",
+      "summary": "Nesta quinta-feira (10), a Polícia Federal cumpriu 49 mandados de busca e apreensão em uma operação sobre os indícios de que o filme 'Dark Horse' recebeu dinheiro de emendas parlamentares. Entre os alvos estavam Karina Gama, produtora do filme, e o deputado federal Mario Frias (PL-SP) – o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC), presididos por Karina, também foram alvos. A Controladoria-Geral da União (CGU) apontou suspeita de desvio da emenda de R$ 2 milhões indicada por Frias para entidades de Karina. E a PF destacou ainda que a Go Up, empresa que produz o filme, movimentou R$ 19 milhões. Em outra investigação sobre possíveis financiamentos irregulares da cinebiografia de Jair Bolsonaro, o ministro André Mendonça homologou a delação premiada do empresário Antonio Carlos Freixo Junior, o Mineiro, dono da Entre Investimentos, no âmbito do Caso Master: ele listou repasses que somam US$ 12 milhões de Daniel Vorcaro para o fundo financeiro criado para administrar os recursos de 'Dark Horse' nos EUA. \nNeste episódio, Natuza Nery entrevista o jornalista Guilherme Balza, que está acompanhando as investigações do caso 'Dark Horse' desde o início. Balza detalha toda a linha de investigação que liga as emendas parlamentares ao filme e explica o que está em cada um dos inquéritos sobre a cinebiografia de Bolsonaro. \nConvidados: Guilherme Balza, repórter de política da GloboNews em Brasília.\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nO que você precisa saber: \nPF faz operação para investigar suposto desvio de emendas para filme 'Dark Horse';\nCaso Dark Horse: operação da PF investiga envio de R$ 2 milhões em emendas para produtora de filme do ex-presidente;\nPF aponta coincidência entre gastos durante gravações de filme 'Dark Horse' e envio de emendas para produtora;\nOperação da PF contra Mario Frias atinge ex-chefe de gabinete e dois assessores que atuam hoje na Câmara; veja lista de alvos;\nDino proíbe Mario Frias de sair do país e ter contato com outros investigados;\nONG de Karina da Gama e fornecedores ligados ao contrato de wi-fi da Prefeitura de SP também são alvo de operação da PF;\nRecursos para 'Dark Horse', malas para dinheiro vivo e repasses nas Bahamas: o que se sabe da delação de empresário ligado a Vorcaro;\nKarina da Gama: quem é a produtora de 'Dark Horse' alvo de operação da Polícia Federal em SP;\nFlávio acusa Dino de interferência política ao comentar operação da PF contra desvio de emendas para 'Dark Horse';\nVALDO CRUZ: Governo Lula torce para STF sair da agenda e investigação da PF sobre financiamento do filme 'Dark Horse' dominar as atenções;\nO Assunto #1732: A nova suspeita de fraude no caso 'Dark Horse'.\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nO ator norte-americano Jim Caviezel interpreta o ex-presidente Jair Bolsonaro no filme 'Dark Horse'\nReprodução",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 11 Sep 2026 03:30:00 -0000"
     },
     {
       "id": "2dd908d66e5c",
@@ -843,10 +820,47 @@
         "eleições 2026"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "G1 - Economia"
       ],
-      "score": 77,
+      "score": 82,
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
+    },
+    {
+      "id": "356a9ba6e924",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump pede que apoiadores votem e “trapaceiem pra valer” nas eleições",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-pede-que-apoiadores-votem-e-trapaceiem-pra-valer-nas-eleicoes/",
+      "summary": "Presidente americano não especificou, durante o discurso de encerramento da convenção do Partido Republicano, o que seria trapacear nas votações de Meio de Mandato",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 78,
+      "publishedRaw": "Fri, 11 Sep 2026 03:15:25 +0000"
+    },
+    {
+      "id": "2280d82126a4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump pede para apoiadores fingirem que ele “está na chapa” nas eleições",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-pede-para-apoiadores-fingirem-que-ele-esta-na-chapa-nas-eleicoes/",
+      "summary": "Presidente americano fez o discurso de encerramento da convenção republicana para as eleições de Meio de Mandato na noite desta quinta-feira (10)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 78,
+      "publishedRaw": "Fri, 11 Sep 2026 03:03:51 +0000"
     },
     {
       "id": "19ba97c5d0ac",
@@ -860,9 +874,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil"
+        "BBC Brasil",
+        "CNN Brasil"
       ],
-      "score": 72,
+      "score": 77,
       "publishedRaw": "Thu, 10 Sep 2026 12:00:14 -0000"
     },
     {
