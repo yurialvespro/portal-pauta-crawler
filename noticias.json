@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:42:49.105890+00:00",
+  "generated_at": "2026-09-11T21:14:47.875915+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,12 +15,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 17:22:40 GMT"
     },
     {
@@ -37,11 +38,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 90,
       "publishedRaw": "Fri, 11 Sep 2026 17:03:13 +0000"
+    },
+    {
+      "id": "2fa02bff4b77",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Preocupado com o STF, Planalto mira Flávio e evita exposição de Lula",
+      "link": "https://www.poder360.com.br/poder-governo/preocupado-com-o-stf-planalto-mira-flavio-e-evita-exposicao-de-lula/",
+      "summary": "Palacianos usam investigação contra o senador para deslocar o debate e reduzir a associação do petista com o Supremo e Moraes",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Fri, 11 Sep 2026 20:11:45 +0000"
     },
     {
       "id": "692846131df4",
@@ -64,24 +89,218 @@
       "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
     },
     {
-      "id": "2fa02bff4b77",
-      "source": "Poder360",
+      "id": "c7c72dbed494",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Preocupado com o STF, Planalto mira Flávio e evita exposição de Lula",
-      "link": "https://www.poder360.com.br/poder-governo/preocupado-com-o-stf-planalto-mira-flavio-e-evita-exposicao-de-lula/",
-      "summary": "Palacianos usam investigação contra o senador para deslocar o debate e reduzir a associação do petista com o Supremo e Moraes",
+      "title": "Após pedido de Zanin, Mendonça diz que celular de Vorcaro está com a PF e que gabinete possui apenas cópia 'lacrada' de conteúdo",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/11/em-resposta-a-fachin-mendonca-diz-que-celular-de-vorcaro-esta-com-a-policia-federal.ghtml",
+      "summary": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (11) que o aparelho celular de Daniel Vorcaro apreendido nas investigações não se encontra em seu gabinete, mas, sim, sob a custódia da Polícia Federal.\nA manifestação está em uma resposta de Mendonça ao presidente do STF, Luiz Edson Fachin. \nO posicionamento veio após o ministro Cristiano Zanin solicitar a Fachin acesso a todo o celular de Daniel Vorcaro. O presidente da Corte, por sua vez, pediu a Mendonça que disponibilizasse o conteúdo. \nNo documento, Mendonça detalhou que o telefone — identificado como um iPhone 17 Pro apreendido pela corporação — permaneceu nas instalações da PF em razão de uma decisão de 19 de fevereiro de 2026. \nNa ocasião, ao assumir a relatoria do caso, o ministro ordenou expressamente que os materiais originais ficassem guardados nos depósitos da própria PF.\nAgora no g1\nSegundo o ministro, o objetivo da medida foi atender às exigências legais de preservação da chamada cadeia de custódia, ou seja, de armazenamento das provas.\n\"Ao assumir a relatoria dos feitos [...] autorizei expressamente a adoção do fluxo ordinário de trabalho da Polícia Federal, bem como determinei que a custódia do original do material apreendido fosse feita nos depósitos da própria instituição\", disse Mendonça na resposta a Fachin. \nGabinete possui apenas cópia lacrada, diz Mendonça\nAinda de acordo com o despacho, o gabinete de André Mendonça possui exclusivamente uma cópia de segurança dos dados extraídos do telefone.\nO material consiste em um HD criptografado entregue voluntariamente pela PF em março de 2026, acondicionado em envelope fechado. \nMendonça enfatizou que o disco rígido segue intacto e lacrado, sem qualquer violação ou manuseio até o momento.\nDaniel Vorcaro\nJornal Nacional/ Reprodução",
       "tags": [
-        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 20:35:16 -0000"
+    },
+    {
+      "id": "73f1c129685a",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ala pró-Moraes articula adiar sessão do STF com pressão para incluir Mendonça",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ala-pro-moraes-articula-adiar-sessao-do-stf-com-pressao-para-incluir-mendonca.shtml",
+      "summary": "O ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), articula com ministros aliados a possibilidade de adiar o julgamento da próxima terça-feira (15), quando o plenário se reúne para discutir a crise inédita que se abateu sobre a corte.\nLeia mais (09/11/2026 - 17h58)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "11 Sep 2026 17:58:00 -0300"
+    },
+    {
+      "id": "f0a4c671e253",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pressionada, campanha de Lula troca “legado” por propostas de “futuro”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pressionada-campanha-de-lula-troca-legado-por-propostas-de-futuro/",
+      "summary": "Choque de reação passa por linha propositiva com medidas sobre saúde, educação e reforma do judiciário",
+      "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 20:48:24 +0000"
+    },
+    {
+      "id": "63f069d32be4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros próximos a Moraes pressionam por adiamento de sessão extraordinária do STF",
+      "link": "https://www.estadao.com.br/politica/ministros-proximos-a-moraes-pressionam-por-adiamento-de-sessao-extraordinaria-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 19:48:58 +0000"
+    },
+    {
+      "id": "1f4626741c2a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Instituto dos Advogados de SP fará ‘vigília cívica’ no dia do julgamento de Moraes no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/instituto-dos-advogados-de-sp-fara-vigilia-civica-em-defesa-da-transparencia-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 19:41:22 +0000"
+    },
+    {
+      "id": "aee4ec3f65d7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Como se arma a blindagem para impedir a investigação sobre Moraes no STF",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/como-se-arma-a-blindagem-para-impedir-a-investigacao-sobre-moraes-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 19:23:19 +0000"
+    },
+    {
+      "id": "f1181e2d37e7",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quem é quem nas mensagens que desencadearam a maior crise da história do STF",
+      "link": "https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alexandre de Moraes, Paulo Gonet, Andrei Rodrigues, Fábio Faria, Viviane Barci de Moraes, o advogado Ciro Soares e os filhos do ministro — veja o papel de cada um nas mensagens que levaram o STF à maior crise de sua história.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
+    },
+    {
+      "id": "f982a08c8589",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes",
+      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
+      "summary": "A convocação de sessão plenária extraordinária aconteceu nesta quarta-feira (9/9), pelo presidente do STF, ministro Edson Fachin, que tomou uma série de decisões para tentar frear a crise na Corte",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 10 Sep 2026 10:27:41 GMT"
+    },
+    {
+      "id": "912863d59aae",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça diz que celular de Vorcaro está com a PF",
+      "link": "https://www.poder360.com.br/poder-justica/mendonca-diz-que-celular-de-vorcaro-esta-com-a-pf/",
+      "summary": "Ministro disse ter uma cópia de segurança lacrada dos dados extraídos do aparelho do fundador do Banco Master",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Fri, 11 Sep 2026 20:11:45 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 21:09:28 +0000"
+    },
+    {
+      "id": "42c4089d5134",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula volta a pedir fim do sigilo do Master: “Quem não deve não teme”",
+      "link": "https://www.poder360.com.br/poder-governo/lula-volta-a-pedir-fim-do-sigilo-do-master-quem-nao-deve-nao-teme/",
+      "summary": "Presidente diz que brasileiros precisam conhecer a verdade; o petista já criticou o que chamou de \"vazamentos seletivos\" na apuração",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 20:35:01 +0000"
+    },
+    {
+      "id": "89c1e6c901a3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: Lula discute fundo para infraestrutura climática no RS",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-discute-fundo-para-infraestrutura-climatica-no-rs/",
+      "summary": "Com o governador Eduardo Leite, petista tem reunião sobre o Fundo de Apoio à Infraestrutura para Recuperação e Adaptação a Eventos Climáticos Extremos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 19:48:06 +0000"
     },
     {
       "id": "e5d821cd0a0d",
@@ -101,6 +320,25 @@
       ],
       "score": 82,
       "publishedRaw": "Fri, 11 Sep 2026 20:34:59 GMT"
+    },
+    {
+      "id": "cc7ca68cc214",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
+      "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Inquérito da PF diz que Flávio foi 'interlocutor direto' do banqueiro em tratativas relacionadas ao filme 'Dark Horse', inclusive com cobranças de pagamentos, reuniões presenciais e acompanhamento do andamento das gravações. Senador nega qualquer irregularidade e pede o fim do sigilo total do inquérito do Master.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
     },
     {
       "id": "be47724eb4a4",
@@ -141,25 +379,6 @@
       "publishedRaw": "Fri, 11 Sep 2026 15:27:50 +0000"
     },
     {
-      "id": "17fca4435d14",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alexandre de Moraes vota para manter condenação de Eduardo Bolsonaro a 4 anos e 2 meses",
-      "link": "https://www.estadao.com.br/politica/moraes-vota-para-manter-condenacao-de-eduardo-bolsonaro-a-4-anos-e-2-meses-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 81,
-      "publishedRaw": "Fri, 11 Sep 2026 18:39:47 +0000"
-    },
-    {
       "id": "b059e21a17a2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -179,32 +398,13 @@
       "publishedRaw": ""
     },
     {
-      "id": "c7c72dbed494",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em resposta a Fachin, Mendonça diz que celular de Vorcaro está com a Polícia Federal",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/em-resposta-a-fachin-mendonca-diz-que-celular-de-vorcaro-esta-com-a-policia-federal.ghtml",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 20:35:16 -0000"
-    },
-    {
       "id": "f6fe0247ad86",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Datafolha: Michelle Bolsonaro e Leila do Vôlei lideram disputa ao Senado pelo DF",
+      "title": "Datafolha: Michelle Bolsonaro (PL) e Leila do Vôlei (PDT) lideram disputa ao Senado pelo DF",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-michelle-bolsonaro-e-leila-do-volei-lideram-disputa-ao-senado-pelo-df.shtml",
-      "summary": "A ex-primeira-dama Michelle Bolsonaro (PL) e a Leila do Vôlei (PDT) mantêm a liderança na disputa por duas vagas ao Senado Federal pelo Distrito Federal, mostra pesquisa Datafolha divulgada nesta sexta-feira (11).\nLeia mais (09/11/2026 - 17h31)",
+      "summary": "A ex-primeira-dama Michelle Bolsonaro (PL) e a Leila do Vôlei (PDT) mantêm a liderança na disputa por duas vagas ao Senado pelo Distrito Federal, mostra pesquisa Datafolha divulgada nesta sexta-feira (11).\nLeia mais (09/11/2026 - 17h31)",
       "tags": [
         "Bolsonaro",
         "Michelle Bolsonaro"
@@ -215,226 +415,6 @@
       ],
       "score": 80,
       "publishedRaw": "11 Sep 2026 17:31:00 -0300"
-    },
-    {
-      "id": "63f069d32be4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros próximos a Moraes pressionam por adiamento de sessão extraordinária do STF",
-      "link": "https://www.estadao.com.br/politica/ministros-proximos-a-moraes-pressionam-por-adiamento-de-sessao-extraordinaria-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:48:58 +0000"
-    },
-    {
-      "id": "1f4626741c2a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Instituto dos Advogados de SP fará ‘vigília cívica’ no dia do julgamento de Moraes no STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/instituto-dos-advogados-de-sp-fara-vigilia-civica-em-defesa-da-transparencia-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:41:22 +0000"
-    },
-    {
-      "id": "aee4ec3f65d7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como se arma a blindagem para impedir a investigação sobre Moraes no STF",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/como-se-arma-a-blindagem-para-impedir-a-investigacao-sobre-moraes-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:23:19 +0000"
-    },
-    {
-      "id": "61ebcfc4d649",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zanin pede a Fachin acesso a dados brutos do celular de Vorcaro antes de análise do caso Moraes",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/zanin-pede-a-fachin-acesso-a-dados-brutos-do-celular-de-vorcaro-antes-de-analise-do-caso-moraes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 16:45:32 +0000"
-    },
-    {
-      "id": "e0d6c4432732",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tensão no STF ganha destaque na imprensa internacional: ‘a maior crise interna enfrentada’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/crise-no-stf-ganha-destaque-na-imprensa-internacional-a-maior-crise-interna-enfrentada-pelo-stf-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 16:37:02 +0000"
-    },
-    {
-      "id": "f1181e2d37e7",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quem é quem nas mensagens que desencadearam a maior crise da história do STF",
-      "link": "https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Alexandre de Moraes, Paulo Gonet, Andrei Rodrigues, Fábio Faria, Viviane Barci de Moraes, o advogado Ciro Soares e os filhos do ministro — veja o papel de cada um nas mensagens que levaram o STF à maior crise de sua história.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
-    },
-    {
-      "id": "dc64cc934e3f",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "STF salvou a democracia brasileira, mas agora a está sufocando, diz The Economist",
-      "link": "https://www.bbc.com/portuguese/articles/cg492rdelyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Artigo da revista britânica publicado nesta quinta-feira (10/09) aborda 'disfunção' no STF e os desdobramentos do Caso Master para Alexandre de Moraes e para a Corte.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Thu, 10 Sep 2026 21:16:51 GMT"
-    },
-    {
-      "id": "f982a08c8589",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes",
-      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
-      "summary": "A convocação de sessão plenária extraordinária aconteceu nesta quarta-feira (9/9), pelo presidente do STF, ministro Edson Fachin, que tomou uma série de decisões para tentar frear a crise na Corte",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Thu, 10 Sep 2026 10:27:41 GMT"
-    },
-    {
-      "id": "42c4089d5134",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula volta a pedir fim do sigilo do Master: “Quem não deve não teme”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-volta-a-pedir-fim-do-sigilo-do-master-quem-nao-deve-nao-teme/",
-      "summary": "Presidente diz que brasileiros precisam conhecer a verdade; o petista já criticou o que chamou de \"vazamentos seletivos\" na apuração",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 20:35:01 +0000"
-    },
-    {
-      "id": "89c1e6c901a3",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: Lula discute fundo para infraestrutura climática no RS",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-discute-fundo-para-infraestrutura-climatica-no-rs/",
-      "summary": "Com o governador Eduardo Leite, petista tem reunião sobre o Fundo de Apoio à Infraestrutura para Recuperação e Adaptação a Eventos Climáticos Extremos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:48:06 +0000"
-    },
-    {
-      "id": "e590ae1948af",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 48,8% contra 45,6% de Flávio no 2º turno no PA, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-488-contra-456-de-flavio-no-2o-turno-no-pa-diz-pesquisa/",
-      "summary": "Levantamento AtlasIntel ouviu 1.212 eleitores no Estado, de 5 a 10 de setembro; a margem de erro é de 3 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:07:06 +0000"
-    },
-    {
-      "id": "416c9bc95719",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Petista aciona STF para saber se Flávio usou dinheiro dos EUA",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/petista-aciona-stf-para-saber-se-flavio-usou-dinheiro-dos-eua/",
-      "summary": "Lindbergh Farias cita declarações de Renan Santos sobre apoio da Rockbridge Network à campanha; não há provas de repasses estrangeiros",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 11 Sep 2026 19:06:03 +0000"
     },
     {
       "id": "4604b5cc53bb",
@@ -455,6 +435,63 @@
       "publishedRaw": "Fri, 11 Sep 2026 09:32:31 GMT"
     },
     {
+      "id": "315caa40f01a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE forma maioria para rejeitar registro da candidatura de Pablo Marçal à Presidência",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/tse-forma-maioria-para-rejeitar-registro-da-candidatura-de-pablo-marcal-a-presidencia.ghtml",
+      "summary": "TSE proíbe Pablo Marçal de ir a debates, fazer campanha na TV e ter acesso a fundo eleitor\nO Tribunal Superior Eleitoral (TSE) formou maioria de votos nesta sexta-feira (11) para rejeitar o registro de candidatura de Pablo Marçal (PRTB) à Presidência da República. \nO julgamento ocorre no plenário virtual da Corte. Relatora do caso, a ministra Estela Aranha propôs a rejeição do registro diante da inelegibilidade de Marçal. O voto foi seguido pelos ministros Nunes Marques, André Mendonça e Ricardo Bôas Villas Cueva.\nO Ministério Público Eleitoral (MPE) pediu que a rejeição do registro de candidatura. O PRTB protocolou o pedido de registro da candidatura do empresário e influenciador Pablo Marçal à Presidência da República após uma decisão da Justiça Eleitoral autorizar sua filiação ao partido.\nPablo Marçal está inelegível até 2032. O Tribunal Regional Eleitoral de São Paulo (TRE-SP) rejeitou, por unanimidade, os embargos de declaração apresentados pela defesa do empresário e manteve a condenação que o tornou inelegível por oito anos por uso indevido dos meios de comunicação durante a campanha eleitoral de 2024.\nO candidato do PRTB à Presidência, Pablo Marçal, durante a campanha de prefeito de SP, em 2024.\nRenato Pizzutto/Band\nO MPE afirmou que a candidatura não preenche os requisitos de prova de filiação ao PRTB dentro do prazo legal e aponta que em abril, prazo final para um candidato estar filiado a um partido político para disputar a eleição outubro, Pablo Marçal estava nos quadros do União Brasil.\n“Incontroverso, pois, que pesquisas em diversas fontes abertas na internet apontam, de modo convergente, que o impugnado Pablo Marçal (dentro do prazo fixado em lei para filiação partidária com o objetivo de concorrer ao cargo de Presidente da República apresentava-se publicamente como membro filiado ao partido União Brasil”.\nO MPE pede que o TSE conceda uma decisão provisória impedido que Pablo Marçal tenha acesso aos recursos públicos de campanha eleitoral e seja impedido de realizar propaganda eleitoral gratuita no rádio e televisão, bem como aos demais atos de propaganda eleitoral.",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 74,
+      "publishedRaw": "Fri, 11 Sep 2026 20:19:56 -0000"
+    },
+    {
+      "id": "7fb1423c3019",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE forma maioria para rejeitar candidatura de Pablo Marçal à Presidência",
+      "link": "https://www.cnnbrasil.com.br/politica/tse-forma-maioria-para-rejeitar-candidatura-de-pablo-marcal-a-presidencia/",
+      "summary": "Relatora Estela Aranha votou pelo indeferimento do registro; outros quatro ministros acompanharam o entendimento nesta sexta-feira (11)",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Fri, 11 Sep 2026 20:40:18 +0000"
+    },
+    {
+      "id": "2026e7720659",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE forma maioria para negar candidatura de Pablo Marçal à Presidência",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-julga-pablo-marcal-registro-candidatura-11-setembro/",
+      "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Fri, 11 Sep 2026 12:07:31 +0000"
+    },
+    {
       "id": "5ced05940e18",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -471,40 +508,19 @@
       "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
-      "id": "315caa40f01a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE forma maioria para rejeitar registro da candidatura de Pablo Marçal à Presidência",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/11/tse-forma-maioria-para-rejeitar-registro-da-candidatura-de-pablo-marcal-a-presidencia.ghtml",
-      "summary": "TSE proíbe Pablo Marçal de ir a debates, fazer campanha na TV e ter acesso a fundo eleitor\nO Tribunal Superior Eleitoral (TSE) formou maioria de votos nesta sexta-feira (11) para rejeitar o registro de candidatura de Pablo Marçal (PRTB) à Presidência da República. \nO julgamento ocorre no plenário virtual da Corte. Relatora do caso, a ministra Estela Aranha propôs a rejeição do registro diante da inelegibilidade de Marçal. O voto foi seguido pelos ministros Nunes Marques, André Mendonça e Ricardo Bôas Villas Cueva.\nO Ministério Público Eleitoral (MPE) pediu que a rejeição do registro de candidatura. O PRTB protocolou o pedido de registro da candidatura do empresário e influenciador Pablo Marçal à Presidência da República após uma decisão da Justiça Eleitoral autorizar sua filiação ao partido.\nMarçal está inelegível até 2032. O Tribunal Regional Eleitoral de São Paulo (TRE-SP) rejeitou, por unanimidade, os embargos de declaração apresentados pela defesa do empresário e manteve a condenação que o tornou inelegível por oito anos por uso indevido dos meios de comunicação durante a campanha eleitoral de 2024.\nO candidato do PRTB à Presidência, Pablo Marçal, durante a campanha de prefeito de SP, em 2024.\nRenato Pizzutto/Band\nO MPE afirmou que a candidatura não preenche os requisitos de prova de filiação ao PRTB dentro do prazo legal e aponta que em abril, prazo final para um candidato estar filiado a um partido político para disputar a eleição outubro, Pablo Marçal estava nos quadros do União Brasil.\n“Incontroverso, pois, que pesquisas em diversas fontes abertas na internet apontam, de modo convergente, que o impugnado Pablo Marçal (dentro do prazo fixado em lei para filiação partidária com o objetivo de concorrer ao cargo de Presidente da República apresentava-se publicamente como membro filiado ao partido União Brasil”.\nO MPE pede que o TSE conceda uma decisão provisória impedido que Pablo Marçal tenha acesso aos recursos públicos de campanha eleitoral e seja impedido de realizar propaganda eleitoral gratuita no rádio e televisão, bem como aos demais atos de propaganda eleitoral.",
-      "tags": [
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 70,
-      "publishedRaw": "Fri, 11 Sep 2026 20:19:56 -0000"
-    },
-    {
-      "id": "2026e7720659",
+      "id": "fba0bc0cd851",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE forma maioria para negar candidatura de Pablo Marçal à Presidência",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-julga-pablo-marcal-registro-candidatura-11-setembro/",
+      "title": "MP eleitoral dá parecer pela inelegibilidade de Helder Barbalho",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mp-eleitoral-da-parecer-pela-inelegibilidade-de-helder-barbalho/",
       "summary": "",
       "tags": [
-        "candidatura",
-        "TSE"
+        "inelegibilidade"
       ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 70,
-      "publishedRaw": "Fri, 11 Sep 2026 12:07:31 +0000"
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Fri, 11 Sep 2026 20:28:23 +0000"
     },
     {
       "id": "030a82faa3cd",
