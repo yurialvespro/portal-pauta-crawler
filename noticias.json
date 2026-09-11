@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:16:47.084668+00:00",
+  "generated_at": "2026-09-11T10:43:27.814198+00:00",
   "items": [
     {
       "id": "32f374f64113",
@@ -382,6 +382,25 @@
       "publishedRaw": "Thu, 10 Sep 2026 16:34:31 -0000"
     },
     {
+      "id": "0d2477dd2b0d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mercado de previsão proibido no Brasil registra 40 tipos de apostas nos resultados das eleições 2026",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mercado-de-previsao-proibido-no-brasil-registra-40-tipos-de-apostas-nos-resultados-das-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 10 Sep 2026 19:39:21 +0000"
+    },
+    {
       "id": "4604b5cc53bb",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -399,6 +418,25 @@
       ],
       "score": 82,
       "publishedRaw": "Fri, 11 Sep 2026 09:32:31 GMT"
+    },
+    {
+      "id": "5ced05940e18",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
+      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
       "id": "4a1f683eb093",
@@ -637,24 +675,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 21:58:35 +0000"
     },
     {
-      "id": "5ced05940e18",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
-      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "G1 - Economia"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
-    },
-    {
       "id": "19ba97c5d0ac",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -666,9 +686,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil"
+        "BBC Brasil",
+        "Estadão"
       ],
-      "score": 72,
+      "score": 77,
       "publishedRaw": "Thu, 10 Sep 2026 12:00:14 -0000"
     },
     {
@@ -685,21 +706,6 @@
       "crossOutlets": [],
       "score": 67,
       "publishedRaw": "Thu, 10 Sep 2026 19:04:27 -0000"
-    },
-    {
-      "id": "c76838add48f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ronaldo Caiado é internado com faringite aguda em São Paulo",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ronaldo-caiado-e-internado-com-faringite-aguda-em-sao-paulo/",
-      "summary": "",
-      "tags": [
-        "Ronaldo Caiado"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "Thu, 10 Sep 2026 18:03:28 +0000"
     }
   ]
 }
