@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:41:42.620192+00:00",
+  "generated_at": "2026-09-12T02:15:46.348534+00:00",
   "items": [
     {
       "id": "71aa693cb979",
@@ -18,9 +18,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 22:20:41 -0000"
     },
     {
@@ -40,9 +41,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 21:39:12 -0000"
     },
     {
@@ -62,10 +64,33 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 21:39:07 -0000"
+    },
+    {
+      "id": "cb8fc1766d98",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quebra de sigilo do Master expõe Flávio Bolsonaro investigado e gera nova troca de ataques no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/quebra-de-sigilo-do-master-expoe-flavio-bolsonaro-investigado-e-gera-nova-troca-de-ataques-no-stf.shtml",
+      "summary": "A retirada do sigilo de parte das investigações do caso do Banco Master abriu uma nova frente de embates entre ministros do STF (Supremo Tribunal Federal) em meio à tentativa do presidente da corte, Edson Fachin, de estancar a crise sem precedentes na cúpula do Judiciário.\nLeia mais (09/11/2026 - 23h00)",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "11 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "b53d99535c5d",
@@ -83,10 +108,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 21:41:32 +0000"
     },
     {
@@ -105,10 +131,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 12 Sep 2026 00:08:59 GMT"
     },
     {
@@ -127,11 +154,34 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 11 Sep 2026 17:22:40 GMT"
+    },
+    {
+      "id": "692846131df4",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Obra, que é cercada de controvérsias ligadas ao dono do Banco Master, deverá ser lançado só depois das eleições.",
+      "tags": [
+        "eleições",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
     },
     {
       "id": "0642cd7c1e34",
@@ -155,24 +205,165 @@
       "publishedRaw": "Sat, 12 Sep 2026 00:48:29 -0000"
     },
     {
-      "id": "692846131df4",
+      "id": "e13904ba2634",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que cobrará Trump na ONU por respeito às eleições do Brasil",
+      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-cobrara-trump-na-onu-por-respeito-as-eleicoes-do-brasil/",
+      "summary": "Presidente declara que respeita o resultado dos EUA e que pedirá ao norte-americano que não interfira no pleito brasileiro",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Sat, 12 Sep 2026 01:58:28 +0000"
+    },
+    {
+      "id": "ebd50460bf28",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça libera sigilo de novos documentos do caso Master sobre Flávio Bolsonaro, Ciro Nogueira e Jaques Wagner",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml",
+      "summary": "Mendonça libera sigilo de mais documentos do caso Master\nO ministro André Mendonça, do Supremo Tribunal Federal (STF),  liberou na noite desta sexta-feira (11) o sigilo de mais documentos do caso Master.\nEntre os processos com quebra de sigilo hoje estão casos sobre o senador Flávio Bolsonaro (PL-RJ), Ciro Nogueira (PP-PI), Cláudio Castro (PL-RJ), Jaques Wagner (PT-BA) e Thiago Miranda.\nFlávio Bolsonaro é investigado pela Polícia Federal (PF) em inquérito aberto para apurar a possível prática de crimes relacionados ao financiamento da produção do filme \"Dark Horse\", sobre a trajetória do ex-presidente Jair Bolsonaro.\nO procedimento foi autorizado em julho pelo ministro André Mendonça STF após pedido da PF.\nNesta sexta, a Procuradoria-Geral da República (PGR) pediu a retirada de sigilo de mais documentos do caso Master. A PGR argumentou que liberar apenas parte da documentação poderia \"induzir à ideia equivocada de transparência\".\nSegundo a PGR, a lista de documentos enviada pelo relator do caso, ministro André Mendonça, omitiu a maior parte dos procedimentos ligados à investigação mais ampla da Polícia Federal.\nMendonça atendeu ao pedido da PGR e liberou o sigilo de 18 processos envolvendo o caso Master. Além disso, tirou o sigilo de mais 20 processos. \nNa noite desta quinta-feira (10), Mendonça determinou o levantamento do sigilo das principais investigações relacionadas ao Banco Master que tramitam no Supremo Tribunal Federal (STF).\nAo todo, 53 procedimentos vinculados à apuração serão tornados públicos.\nArgumentos da PGR\nAo pedir a retirada do sigilo, a Procuradoria-Geral da República (PGR) afirmou que a divulgação apenas de parte dos autos poderia criar uma \"ideia equivocada de transparência\". \nO órgão argumentou que a lista de documentos liberados por André Mendonça não incluía diversos procedimentos ligados ao núcleo principal da investigação da Operação Compliance Zero.\nSegundo a PGR, a lista de documentos enviada pelo relator do caso, ministro André Mendonça, omitiu a maior parte dos procedimentos ligados à investigação mais ampla da Polícia Federal.\n\"O que se verifica, porém, da listagem encaminhada é que nela não se contêm grande parte dos procedimentos atualmente correlatos à investigação mais ampla da chamada Operação Compliance Zero\", diz o documento.\n\"Fato que, embora se suponha motivado por alguma razão escusável de ordem administrativa, pode induzir à ideia equivocada de que a transparência [...] perca, ao fim e ao cabo, o seu sentido último\", prossegue. \nO pedido, direcionado ao  presidente do STF, Edson Fachin, foi assinado pelo vice-procurador-geral da República Hindenburgo Chateaubriand Filho.\nChateaubriand Filho e o procurador-geral da República, Paulo Gonet, vão atuar juntos no caso.\nPedidos de Moraes e Zanin\nMoraes pede a Fachin retirada de sigilo de todos documentos do caso Master\nMais cedo, os ministros Alexandre de Moraes e Cristiano Zanin encaminharam ofícios ao presidente do STF defendendo medidas semelhantes às propostas pela PGR para ampliar o acesso aos documentos relacionados ao caso Master.\nZanin solicitou acesso a uma mídia específica relacionada ao caso. Segundo o ministro, o material é necessário para a análise de requerimentos apresentados pela PGR que serão apreciados pelo tribunal na próxima semana.\nNo ofício enviado a Fachin, o ministro afirmou ainda que a mídia estaria abrangida tanto pela decisão de compartilhamento dos autos quanto pelo levantamento de sigilo determinado pelo ministro André Mendonça.\nJá Moraes defendeu o levantamento integral do sigilo dos procedimentos relacionados ao caso Master. \nO ministro criticou o que classificou como uma retirada \"seletiva\" do sigilo e afirmou que parte das peças e documentos ainda não foi disponibilizada aos integrantes da Corte.\nSegundo Moraes, foram excluídos 180 documentos e arquivos digitais do conjunto de procedimentos liberados aos ministros. Para ele, a disponibilização parcial do material prejudica a análise completa dos fatos investigados.\nO ministro também pediu que duas petições relacionadas ao caso sejam julgadas em conjunto: uma que trata de mensagens trocadas entre ele e o ex-banqueiro Daniel Vorcaro e outra que reúne relatórios sobre a atuação de Mendonça em investigações.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nCrise Master no STF\nO embate ocorre após André Mendonça retirar, nesta quinta (10), o sigilo das principais apurações envolvendo o Banco Master e o ex-banqueiro Daniel Vorcaro a pedido de Fachin.\nContudo, a liberação manteve em segredo outras frentes, como apurações ligadas ao senador Jaques Wagner (PT-BA) e ao financiamento do filme \"Dark Horse\" — cinebiografia sobre o ex-presidente Jair Bolsonaro que colocou sob apuração da Polícia Federal conversas entre Vorcaro e o senador Flávio Bolsonaro (PL-RJ). \nA disputa expôs divergências públicas entre integrantes da Corte, a Procuradoria-Geral da República e a direção-geral da PF.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 87,
+      "publishedRaw": "Fri, 11 Sep 2026 22:47:40 -0000"
+    },
+    {
+      "id": "e5d821cd0a0d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
-      "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Obra, que é cercada de controvérsias ligadas ao dono do Banco Master, deverá ser lançado só depois das eleições.",
+      "title": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o que falta ser esclarecido",
+      "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigação foi instaurada em julho, mas desdobramentos ainda estão em sigilo",
       "tags": [
-        "eleições",
         "Bolsonaro",
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
+      "score": 87,
+      "publishedRaw": "Sat, 12 Sep 2026 00:50:05 GMT"
+    },
+    {
+      "id": "cc7ca68cc214",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
+      "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Inquérito da PF diz que Flávio foi 'interlocutor direto' do banqueiro em tratativas relacionadas ao filme 'Dark Horse', inclusive com cobranças de pagamentos, reuniões presenciais e acompanhamento do andamento das gravações. Senador nega qualquer irregularidade e pede o fim do sigilo total do inquérito do Master.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
+    },
+    {
+      "id": "7d80d15d595e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira (11)",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml",
+      "summary": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira\nOs candidatos ao governo de Goiás cumpriram agenda de campanha nesta sexta-feira (11). Em Goiânia, Marconi Perillo (PSDB) fez uma caminhada e conversou com comerciantes em Aparecida de Goiânia. Já Daniel Vilela (MDB) foi entrevistado em um podcast em Goi e respondeu perguntas sobre vários temas. Confira as agendas dos demais candidatos.\nDaniel Vilela (MDB)\nEm entrevista a um podcast em Goiânia, Daniel Vilela (MDB) defendeu a ampliação do uso de tecnologia e inovação nos serviços estaduais para reduzir despesas. O candidato enfatizou a expansão da plataforma \"Goiás na Palma da Mão\", que já disponibiliza procedimentos como a emissão da identidade nacional e da CNH via WhatsApp.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nLuis César Bueno (PT)\nNesta sexta-feira (11), o candidato Luis Cesar Bueno (PT), esteve na Federação do Comércio de Bens, Serviços e Turismo do Estado de Goiás (Fecomércio) para discutir temas sobre desenvolvimento econômico, social e político. Na ocasião, o candidato apresentou propostas de seu plano de governo e ouviu representantes do setor de comércio de bens e turismo. \nMarconi Perillo (PSDB)\nEm Aparecida de Goiânia, Marconi Perillo (PSDB) conversou com eleitores em frente ao Restaurante do Bem e fez uma caminhada de quase 1 km ao longo da Avenida Independência para dialogar com comerciantes. O candidato defendeu a implantação de uma \"cidade da inteligência artificial\" na Região Metropolitana, projeto concebido para integrar a Universidade Estadual de Goiás (UEG), a Universidade Federal de Goiás (UFG), institutos federais e o setor privado.\nEleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira (11)\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\nWilder Morais (PL)\nO candidato Wilder Morais (PL) participou de uma sabatina em Goiânia e afirmou que a reestruturação da saúde pública é a principal prioridade de sua campanha, apresentando como propostas a criação do \"SUS Goiano\". O projeto vai credenciar hospitais particulares e filantrópicos, além de implantar uma fila única com data definida para cirurgias e entrega domiciliar de medicamentos controlados.\nOutros candidatos\nA candidata Luciana Amorim (UP) foi entrevistada em uma rádio de Goiânia nesta sexta-feira (11). O candidato Danilo Pinheiro Evangelista da Silva (PCO) não divulgou agenda.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Sat, 12 Sep 2026 00:14:40 -0000"
+    },
+    {
+      "id": "5c14f38d0e58",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-11ghtml.ghtml",
+      "summary": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial\nEm visita a Aparecida de Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar um polo de inteligência artificial e tecnologia. A declaração ocorreu durante caminhada de quase 1 km pela Avenida Independência, onde conversou com comerciantes locais e também defendeu a ampliação do hospital de urgências da cidade e novos investimentos industriais.\nDe acordo com o candidato, o projeto visa integrar a Universidade Estadual de Goiás (UEG), a Universidade Federal de Goiás (UFG), os institutos federais de educação e o setor produtivo privado. A estrutura foi chamada por ele de \"cidade da inteligência artificial\".\n✅ Clique e siga o canal do g1 GO no WhatsApp\nMarconi começou o dia com uma conversa com eleitores em frente ao Restaurante do Bem. Na sequência, Marconi realizou a caminhada, onde cumprimentou os comerciantes locais.\nEleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nEleições 2026: Marconi Perillo visita TCM e comerciantes de Anápolis nesta segunda-feira (31)\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\n\"Vamos ter os cursos de qualificação nessa cidade da inteligência artificial e da tecnologia e vamos garantir que, através da pesquisa e da inovação, a universidade e a fundação de pesquisa cresçam cada vez mais, tenham recursos para investir sempre cada vez mais nessa cidade da inteligência artificial\", disse Marconi.\nO candidato também abordou outras áreas da administração pública e afirmou que, se eleito, pretende realizar investimentos em saneamento básico, viabilizar a criação de novos polos industriais no município e promover a ampliação do Hospital Estadual de Urgências de Aparecida de Goiânia (Heapa).\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 11 Sep 2026 23:26:16 -0000"
+    },
+    {
+      "id": "0d2477dd2b0d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mercado de previsão proibido no Brasil registra 40 tipos de apostas nos resultados das eleições 2026",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mercado-de-previsao-proibido-no-brasil-registra-40-tipos-de-apostas-nos-resultados-das-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Thu, 10 Sep 2026 19:39:21 +0000"
+    },
+    {
+      "id": "5ced05940e18",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
+      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
     },
     {
       "id": "827e916449dd",
@@ -215,32 +406,13 @@
       "publishedRaw": "Fri, 11 Sep 2026 21:41:53 -0000"
     },
     {
-      "id": "61a7eec402b9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ganhando tempo com os 'podres de todos' no STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/ganhando-tempo-com-os-podres-de-todos-no-stf.shtml",
-      "summary": "É a balbúrdia total. A tentativa de um freio de arrumação na crise do STF não durou muito após os primeiros movimentos do presidente Edson Fachin para conter o tsunami institucional que, com ele, arrasta a campanha eleitoral deste ano.\nLeia mais (09/11/2026 - 21h10)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "11 Sep 2026 21:10:00 -0300"
-    },
-    {
-      "id": "d3080f725a0f",
+      "id": "192fd4a04f2b",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mendonça cede em processos, mas mantém sigilo sobre celular de Vorcaro",
-      "link": "https://www.cnnbrasil.com.br/politica/mendonca-cede-em-processos-mas-mantem-sigilo-sobre-celular-de-vorcaro/",
-      "summary": "Ministro enfrenta ofensiva de colegas; \"guerra de despachos\" escancarou crise instaurada no STF",
+      "title": "Derrubar sigilo de celular de Vorcaro comprometeria inquérito, diz Mendonça",
+      "link": "https://www.cnnbrasil.com.br/politica/derrubar-sigilo-de-celular-de-vorcaro-compromete-inquerito-diz-mendonca/",
+      "summary": "Ministro resiste a pressão, rebate Zanin e fala em “mácula” não desejada por nenhum dos “eminentes pares”",
       "tags": [
         "Lula"
       ],
@@ -251,46 +423,7 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Sat, 12 Sep 2026 00:27:04 +0000"
-    },
-    {
-      "id": "22e1b23d00b0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: aliados de Flávio lideram corrida ao governo em 9 Estados e no DF; de Lula, em 4",
-      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-aliados-de-flavio-lideram-corrida-ao-governo-em-9-estados-e-no-df-de-lula-em-4/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 11 Sep 2026 23:23:51 +0000"
-    },
-    {
-      "id": "6f30d81c228f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Resposta de Andrei ao STF sobre relatório apócrifo tem ao menos 4 contradições com teor do documento",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/resposta-de-andrei-ao-stf-sobre-relatorio-apocrifo-tem-ao-menos-4-contradicoes-com-teor-do-documento/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 11 Sep 2026 23:10:45 +0000"
+      "publishedRaw": "Sat, 12 Sep 2026 01:52:20 +0000"
     },
     {
       "id": "cd477cd9226e",
@@ -333,12 +466,12 @@
       "publishedRaw": "Fri, 11 Sep 2026 22:20:58 +0000"
     },
     {
-      "id": "960627aba4f8",
+      "id": "22e1b23d00b0",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mendonça frustra Zanin e diz que dados do celular de Vorcaro estão lacrados e intocados em gabinete",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mendonca-frustra-zanin-e-diz-que-dados-do-celular-de-vorcaro-estao-lacrados-e-intocados-em-gabinete/",
+      "title": "Quaest: aliados de Flávio lideram corrida ao governo em 9 Estados e no DF; de Lula, em 4",
+      "link": "https://www.estadao.com.br/politica/eleicoes/quaest-aliados-de-flavio-lideram-corrida-ao-governo-em-9-estados-e-no-df-de-lula-em-4/",
       "summary": "",
       "tags": [
         "Lula"
@@ -350,7 +483,26 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Fri, 11 Sep 2026 21:06:40 +0000"
+      "publishedRaw": "Fri, 11 Sep 2026 23:23:51 +0000"
+    },
+    {
+      "id": "6f30d81c228f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Resposta de Andrei ao STF sobre relatório apócrifo tem ao menos 4 contradições com teor do documento",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/resposta-de-andrei-ao-stf-sobre-relatorio-apocrifo-tem-ao-menos-4-contradicoes-com-teor-do-documento/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 11 Sep 2026 23:10:45 +0000"
     },
     {
       "id": "f1181e2d37e7",
@@ -470,63 +622,6 @@
       "publishedRaw": "Sat, 12 Sep 2026 00:43:30 +0000"
     },
     {
-      "id": "7d80d15d595e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira (11)",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml",
-      "summary": "Eleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira\nOs candidatos ao governo de Goiás cumpriram agenda de campanha nesta sexta-feira (11). Em Goiânia, Marconi Perillo (PSDB) fez uma caminhada e conversou com comerciantes em Aparecida de Goiânia. Já Daniel Vilela (MDB) foi entrevistado em um podcast em Goi e respondeu perguntas sobre vários temas. Confira as agendas dos demais candidatos.\nDaniel Vilela (MDB)\nEm entrevista a um podcast em Goiânia, Daniel Vilela (MDB) defendeu a ampliação do uso de tecnologia e inovação nos serviços estaduais para reduzir despesas. O candidato enfatizou a expansão da plataforma \"Goiás na Palma da Mão\", que já disponibiliza procedimentos como a emissão da identidade nacional e da CNH via WhatsApp.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nLuis César Bueno (PT)\nNesta sexta-feira (11), o candidato Luis Cesar Bueno (PT), esteve na Federação do Comércio de Bens, Serviços e Turismo do Estado de Goiás (Fecomércio) para discutir temas sobre desenvolvimento econômico, social e político. Na ocasião, o candidato apresentou propostas de seu plano de governo e ouviu representantes do setor de comércio de bens e turismo. \nMarconi Perillo (PSDB)\nEm Aparecida de Goiânia, Marconi Perillo (PSDB) conversou com eleitores em frente ao Restaurante do Bem e fez uma caminhada de quase 1 km ao longo da Avenida Independência para dialogar com comerciantes. O candidato defendeu a implantação de uma \"cidade da inteligência artificial\" na Região Metropolitana, projeto concebido para integrar a Universidade Estadual de Goiás (UEG), a Universidade Federal de Goiás (UFG), institutos federais e o setor privado.\nEleições 2026: Veja como foi a agenda de candidatos ao governo de Goiás nesta sexta-feira (11)\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\nWilder Morais (PL)\nO candidato Wilder Morais (PL) participou de uma sabatina em Goiânia e afirmou que a reestruturação da saúde pública é a principal prioridade de sua campanha, apresentando como propostas a criação do \"SUS Goiano\". O projeto vai credenciar hospitais particulares e filantrópicos, além de implantar uma fila única com data definida para cirurgias e entrega domiciliar de medicamentos controlados.\nOutros candidatos\nA candidata Luciana Amorim (UP) foi entrevistada em uma rádio de Goiânia nesta sexta-feira (11). O candidato Danilo Pinheiro Evangelista da Silva (PCO) não divulgou agenda.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 12 Sep 2026 00:14:40 -0000"
-    },
-    {
-      "id": "5c14f38d0e58",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-agenda-de-marconi-perillo-de-sexta-feira-11ghtml.ghtml",
-      "summary": "Eleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial\nEm visita a Aparecida de Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar um polo de inteligência artificial e tecnologia. A declaração ocorreu durante caminhada de quase 1 km pela Avenida Independência, onde conversou com comerciantes locais e também defendeu a ampliação do hospital de urgências da cidade e novos investimentos industriais.\nDe acordo com o candidato, o projeto visa integrar a Universidade Estadual de Goiás (UEG), a Universidade Federal de Goiás (UFG), os institutos federais de educação e o setor produtivo privado. A estrutura foi chamada por ele de \"cidade da inteligência artificial\".\n✅ Clique e siga o canal do g1 GO no WhatsApp\nMarconi começou o dia com uma conversa com eleitores em frente ao Restaurante do Bem. Na sequência, Marconi realizou a caminhada, onde cumprimentou os comerciantes locais.\nEleições 2026: Marconi Perillo fala sobre criação de polo de inteligência artificial em visita a Aparecida de Goiânia\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nEleições 2026: Marconi Perillo visita TCM e comerciantes de Anápolis nesta segunda-feira (31)\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\n\"Vamos ter os cursos de qualificação nessa cidade da inteligência artificial e da tecnologia e vamos garantir que, através da pesquisa e da inovação, a universidade e a fundação de pesquisa cresçam cada vez mais, tenham recursos para investir sempre cada vez mais nessa cidade da inteligência artificial\", disse Marconi.\nO candidato também abordou outras áreas da administração pública e afirmou que, se eleito, pretende realizar investimentos em saneamento básico, viabilizar a criação de novos polos industriais no município e promover a ampliação do Hospital Estadual de Urgências de Aparecida de Goiânia (Heapa).\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 11 Sep 2026 23:26:16 -0000"
-    },
-    {
-      "id": "ebd50460bf28",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça libera sigilo de novos documentos do caso Master sobre Flávio Bolsonaro, Ciro Nogueira e Jaques Wagner",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml",
-      "summary": "Mendonça libera sigilo de mais documentos do caso Master\nO ministro André Mendonça, do Supremo Tribunal Federal (STF),  liberou na noite desta sexta-feira (11) o sigilo de mais documentos do caso Master.\nEntre os processos com quebra de sigilo hoje estão casos sobre o senador Flávio Bolsonaro (PL-RJ), Ciro Nogueira (PP-PI), Cláudio Castro (PL-RJ), Jaques Wagner (PT-BA) e Thiago Miranda.\nFlávio Bolsonaro é investigado pela Polícia Federal (PF) em inquérito aberto para apurar a possível prática de crimes relacionados ao financiamento da produção do filme \"Dark Horse\", sobre a trajetória do ex-presidente Jair Bolsonaro.\nO procedimento foi autorizado em julho pelo ministro André Mendonça STF após pedido da PF.\nNesta sexta, a Procuradoria-Geral da República (PGR) pediu a retirada de sigilo de mais documentos do caso Master. A PGR argumentou que liberar apenas parte da documentação poderia \"induzir à ideia equivocada de transparência\".\nSegundo a PGR, a lista de documentos enviada pelo relator do caso, ministro André Mendonça, omitiu a maior parte dos procedimentos ligados à investigação mais ampla da Polícia Federal.\nMendonça atendeu ao pedido da PGR e liberou o sigilo de 18 processos envolvendo o caso Master. Além disso, tirou o sigilo de mais 20 processos. \nNa noite desta quinta-feira (10), Mendonça determinou o levantamento do sigilo das principais investigações relacionadas ao Banco Master que tramitam no Supremo Tribunal Federal (STF).\nAo todo, 53 procedimentos vinculados à apuração serão tornados públicos.\nArgumentos da PGR\nAo pedir a retirada do sigilo, a Procuradoria-Geral da República (PGR) afirmou que a divulgação apenas de parte dos autos poderia criar uma \"ideia equivocada de transparência\". \nO órgão argumentou que a lista de documentos liberados por André Mendonça não incluía diversos procedimentos ligados ao núcleo principal da investigação da Operação Compliance Zero.\nSegundo a PGR, a lista de documentos enviada pelo relator do caso, ministro André Mendonça, omitiu a maior parte dos procedimentos ligados à investigação mais ampla da Polícia Federal.\n\"O que se verifica, porém, da listagem encaminhada é que nela não se contêm grande parte dos procedimentos atualmente correlatos à investigação mais ampla da chamada Operação Compliance Zero\", diz o documento.\n\"Fato que, embora se suponha motivado por alguma razão escusável de ordem administrativa, pode induzir à ideia equivocada de que a transparência [...] perca, ao fim e ao cabo, o seu sentido último\", prossegue. \nO pedido, direcionado ao  presidente do STF, Edson Fachin, foi assinado pelo vice-procurador-geral da República Hindenburgo Chateaubriand Filho.\nChateaubriand Filho e o procurador-geral da República, Paulo Gonet, vão atuar juntos no caso.\nPedidos de Moraes e Zanin\nMoraes pede a Fachin retirada de sigilo de todos documentos do caso Master\nMais cedo, os ministros Alexandre de Moraes e Cristiano Zanin encaminharam ofícios ao presidente do STF defendendo medidas semelhantes às propostas pela PGR para ampliar o acesso aos documentos relacionados ao caso Master.\nZanin solicitou acesso a uma mídia específica relacionada ao caso. Segundo o ministro, o material é necessário para a análise de requerimentos apresentados pela PGR que serão apreciados pelo tribunal na próxima semana.\nNo ofício enviado a Fachin, o ministro afirmou ainda que a mídia estaria abrangida tanto pela decisão de compartilhamento dos autos quanto pelo levantamento de sigilo determinado pelo ministro André Mendonça.\nJá Moraes defendeu o levantamento integral do sigilo dos procedimentos relacionados ao caso Master. \nO ministro criticou o que classificou como uma retirada \"seletiva\" do sigilo e afirmou que parte das peças e documentos ainda não foi disponibilizada aos integrantes da Corte.\nSegundo Moraes, foram excluídos 180 documentos e arquivos digitais do conjunto de procedimentos liberados aos ministros. Para ele, a disponibilização parcial do material prejudica a análise completa dos fatos investigados.\nO ministro também pediu que duas petições relacionadas ao caso sejam julgadas em conjunto: uma que trata de mensagens trocadas entre ele e o ex-banqueiro Daniel Vorcaro e outra que reúne relatórios sobre a atuação de Mendonça em investigações.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nCrise Master no STF\nO embate ocorre após André Mendonça retirar, nesta quinta (10), o sigilo das principais apurações envolvendo o Banco Master e o ex-banqueiro Daniel Vorcaro a pedido de Fachin.\nContudo, a liberação manteve em segredo outras frentes, como apurações ligadas ao senador Jaques Wagner (PT-BA) e ao financiamento do filme \"Dark Horse\" — cinebiografia sobre o ex-presidente Jair Bolsonaro que colocou sob apuração da Polícia Federal conversas entre Vorcaro e o senador Flávio Bolsonaro (PL-RJ). \nA disputa expôs divergências públicas entre integrantes da Corte, a Procuradoria-Geral da República e a direção-geral da PF.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 11 Sep 2026 22:47:40 -0000"
-    },
-    {
       "id": "05456c9aaacd",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -547,82 +642,6 @@
       "publishedRaw": "Fri, 11 Sep 2026 23:32:04 +0000"
     },
     {
-      "id": "0d2477dd2b0d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mercado de previsão proibido no Brasil registra 40 tipos de apostas nos resultados das eleições 2026",
-      "link": "https://www.estadao.com.br/politica/eleicoes/mercado-de-previsao-proibido-no-brasil-registra-40-tipos-de-apostas-nos-resultados-das-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 10 Sep 2026 19:39:21 +0000"
-    },
-    {
-      "id": "e5d821cd0a0d",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o que falta ser esclarecido",
-      "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investigação foi instaurada em julho, mas desdobramentos ainda estão em sigilo",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 12 Sep 2026 00:50:05 GMT"
-    },
-    {
-      "id": "cc7ca68cc214",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
-      "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Inquérito da PF diz que Flávio foi 'interlocutor direto' do banqueiro em tratativas relacionadas ao filme 'Dark Horse', inclusive com cobranças de pagamentos, reuniões presenciais e acompanhamento do andamento das gravações. Senador nega qualquer irregularidade e pede o fim do sigilo total do inquérito do Master.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
-    },
-    {
-      "id": "5ced05940e18",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições 2026: o que os candidatos propõem para a Educação?",
-      "link": "https://www.bbc.com/portuguese/articles/cjrx48eep5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC News Brasil levantou quais são as principais propostas e posicionamentos de todos os candidatos para a área",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 09 Sep 2026 17:14:31 GMT"
-    },
-    {
       "id": "4604b5cc53bb",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -635,10 +654,26 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 78,
+      "score": 82,
       "publishedRaw": "Fri, 11 Sep 2026 09:32:31 GMT"
+    },
+    {
+      "id": "030a82faa3cd",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Anthony Garotinho tem candidatura ao governo do Rio de Janeiro barrada pelo TRE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/anthony-garotinho-tem-candidatura-ao-governo-do-rio-de-janeiro-barrada-pelo-tre-nprp/",
+      "summary": "Com a decisão, seu registro de candidatura ao Governo do Rio de Janeiro foi impedido. Político fala em recorrer",
+      "tags": [
+        "candidatura"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Fri, 11 Sep 2026 19:19:02 +0000"
     },
     {
       "id": "71d91b32eac1",
@@ -654,21 +689,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Sat, 12 Sep 2026 00:05:01 +0000"
-    },
-    {
-      "id": "afa52bf5f632",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nepal: Famílias buscam desaparecidos após inundação na fronteira com Tibete",
-      "link": "https://www.cnnbrasil.com.br/internacional/nepal-familias-buscam-desaparecidos-apos-inundacao-na-fronteira-com-tibete/",
-      "summary": "Pouco mais de três semanas depois da tragédia que deixou quase 1400 mortos, a esperança de encontrar entes queridos com vida continua",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Fri, 11 Sep 2026 23:49:29 +0000"
     }
   ]
 }
