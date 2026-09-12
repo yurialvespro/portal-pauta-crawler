@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:15:53.772111+00:00",
+  "generated_at": "2026-09-12T08:42:41.712543+00:00",
   "items": [
     {
       "id": "99c50152bc78",
@@ -26,75 +26,6 @@
       "publishedRaw": "11 Sep 2026 23:35:00 -0300"
     },
     {
-      "id": "b53d99535c5d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 46% no segundo turno contra 44% de Flávio Bolsonaro, diz Datafolha",
-      "link": "https://www.estadao.com.br/politica/lula-tem-46-no-segundo-turno-contra-44-de-flavio-bolsonaro-diz-datafolha/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Fri, 11 Sep 2026 21:41:32 +0000"
-    },
-    {
-      "id": "9cd90f49e48a",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
-      "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Novos documentos sobre o caso Master vieram a público após o presidente do STF dar 24h para o ministro André Mendonça levantar o sigilo de 'todas as peças' relativas à investigação.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Sat, 12 Sep 2026 00:08:59 GMT"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Fri, 11 Sep 2026 17:22:40 GMT"
-    },
-    {
       "id": "692846131df4",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -115,6 +46,72 @@
       ],
       "score": 94,
       "publishedRaw": "Thu, 10 Sep 2026 12:10:12 GMT"
+    },
+    {
+      "id": "b53d99535c5d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 46% no segundo turno contra 44% de Flávio Bolsonaro, diz Datafolha",
+      "link": "https://www.estadao.com.br/politica/lula-tem-46-no-segundo-turno-contra-44-de-flavio-bolsonaro-diz-datafolha/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Fri, 11 Sep 2026 21:41:32 +0000"
+    },
+    {
+      "id": "9cd90f49e48a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
+      "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Novos documentos sobre o caso Master vieram a público após o presidente do STF dar 24h para o ministro André Mendonça levantar o sigilo de 'todas as peças' relativas à investigação.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Sat, 12 Sep 2026 00:08:59 GMT"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Fri, 11 Sep 2026 17:22:40 GMT"
     },
     {
       "id": "29134eed78a6",
@@ -275,7 +272,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -304,24 +300,24 @@
       "publishedRaw": "Sat, 12 Sep 2026 07:05:36 +0000"
     },
     {
-      "id": "ded0db8048cc",
-      "source": "CNN Brasil",
+      "id": "628a9c9325bc",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Não é papel do STF estabelecer limites operacionais à PF, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/nao-e-papel-do-stf-estabelecer-limites-operacionais-a-pf-diz-especialista/",
-      "summary": "Gustavo Sampaio analisa sessão plenária sobre indícios de relação entre Daniel Vorcaro e Alexandre de Moraes",
+      "title": "Julgamento no STF põe liderança de Fachin à prova e abre impasse sobre afastamento de Moraes",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/julgamento-no-stf-poe-lideranca-de-fachin-a-prova-e-abre-impasse-sobre-afastamento-de-moraes/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Sat, 12 Sep 2026 06:40:42 +0000"
+      "publishedRaw": "Sat, 12 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "6f30d81c228f",
@@ -477,34 +473,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "11 Sep 2026 23:26:00 -0300"
-    },
-    {
-      "id": "30f8b52608a0",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como uma polipílula brasileira pode ajudar a prevenir o AVC e a demência",
-      "link": "https://www.cnnbrasil.com.br/saude/como-uma-polipilula-brasileira-pode-ajudar-a-prevenir-o-avc-e-a-demencia/",
-      "summary": "Estudo investiga se a combinação de medicamentos para pressão e colesterol pode evitar eventos cardiovasculares e o declínio cognitivo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 12 Sep 2026 06:34:34 +0000"
     },
     {
       "id": "cd477cd9226e",
@@ -519,12 +493,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 11 Sep 2026 22:43:19 +0000"
     },
     {
@@ -540,12 +513,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 11 Sep 2026 22:20:58 +0000"
     },
     {
@@ -561,12 +533,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 11 Sep 2026 23:23:51 +0000"
     },
     {
@@ -582,12 +553,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 12 Sep 2026 07:50:10 +0000"
     },
     {
