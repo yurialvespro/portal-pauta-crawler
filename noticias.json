@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:14:49.175197+00:00",
+  "generated_at": "2026-09-13T22:42:06.055513+00:00",
   "items": [
     {
       "id": "1c38952f142b",
@@ -38,6 +38,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -61,6 +62,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -492,6 +494,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -513,6 +516,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -520,6 +524,28 @@
       ],
       "score": 85,
       "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
+    },
+    {
+      "id": "15919b1e1b74",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Comer olhando o celular pode atrapalhar a saciedade e fazer você comer mais depois",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/comer-olhando-o-celular-pode-atrapalhar-a-saciedade-e-fazer-voce-comer-mais-depois/",
+      "summary": "Especialistas explicam como as telas durante as refeições podem afetar a percepção de fome, aumentar o consumo automático e até influenciar escolhas alimentares",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 22:18:05 +0000"
     },
     {
       "id": "5e693236ce39",
@@ -534,6 +560,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -555,6 +582,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -576,6 +604,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -597,6 +626,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -618,6 +648,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -735,6 +766,23 @@
       "publishedRaw": "Sun, 13 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "77f0a2941c53",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento do filme",
+      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Entre os alvos da investigação que está sob relatoria de Dino no STF estão o deputado federal Mario Frias (PL-SP), produtor executivo do filme, e Karina Gama, dona da produtora responsável.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 73,
+      "publishedRaw": "Sun, 13 Sep 2026 14:23:42 GMT"
+    },
+    {
       "id": "98329f7a3a2b",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -781,6 +829,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Sun, 13 Sep 2026 00:33:35 -0000"
+    },
+    {
+      "id": "7098065e885c",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bloco de centro-esquerda da Suécia deve vencer eleição por uma cadeira, projeta autoridade eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/bloco-de-centro-esquerda-da-suecia-deve-vencer-eleicao-por-uma-cadeira-projeta-autoridade-eleitoral.shtml",
+      "summary": "O bloco de oposição de centro-esquerda da Suécia deve conquistar uma maioria de apenas uma cadeira na votação deste domingo (13) para o Parlamento do país, segundo projeção da autoridade eleitoral.\nLeia mais (09/13/2026 - 19h27)",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "13 Sep 2026 19:27:00 -0300"
     }
   ]
 }
