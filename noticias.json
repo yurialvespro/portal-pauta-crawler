@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T00:23:21.123976+00:00",
+  "generated_at": "2026-09-13T00:47:16.562973+00:00",
   "items": [
     {
       "id": "9411a88534fd",
@@ -163,6 +163,50 @@
       "publishedRaw": "Sat, 12 Sep 2026 21:42:58 +0000"
     },
     {
+      "id": "8eb8a1f62547",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PGR reforça pedido para que todos os ministros do STF tenham acesso integral aos dados extraídos do celular de Vorcaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/12/pgr-reforca-pedido-para-que-todos-os-ministros-do-stf-tenham-acesso-integral-aos-dados-do-caso-master.ghtml",
+      "summary": "PGR reforça pedido para ministros do STF terem acesso a dados do celular de Vorcaro\nA Procuradoria-Geral da República (PGR) encaminhou neste sábado (12) nova manifestação ao presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, defendendo que todos os ministros da Corte tenham acesso integral dos dados extraídos do celular do ex-banqueiro Daniel Vorcaro antes do julgamento marcado para terça-feira (15).\n\nNo documento, o procurador-geral da República, Paulo Gonet, reitera posição apresentada na véspera e afirma considerar relevante que os integrantes do tribunal conheçam previamente \"a integralidade dos dados necessários\" para formar convicção sobre o caso.\n\"Da mesma forma, parece-nos relevante, sobretudo e especialmente dadas as peculiaridades da causa, que todos ministros tenham conhecimento prévio da integralidade dos dados necessários para a formação de juízo sobre o tema posto em debate\", escreveu Gonet.\nA manifestação também é assinada pelo subprocuradores-gerais da República Antônio Edílio Magalhães Teixeira e André de Carvalho Ramos, e pelo vice-procurador-Geral da República Hindemburgo Chateaubriand Filho, que fez o primeiro pedido de acesso total aos dados do Master. \nO pedido da PGR ocorre um dia depois de os ministros Cristiano Zanin, Alexandre de Moraes e Gilmar Mendes se manifestarem pelo acesso integral dos dados extraídos do celular de Vorcaro.\nMendonça diz que celular de Vorcaro está com a PF e que dados estão lacrados\nEles defenderam que o conteúdo completo do aparelho seja compartilhado com todos os integrantes do STF antes da sessão que analisará relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro e Moraes.\nNesta sexta (11), Gilmar Mendes enviou ofício a Fachin sustentando que o acesso restrito ao material compromete a colegialidade do tribunal e pediu que, caso o ministro André Mendonça não disponibilize os arquivos, a Presidência do STF solicite diretamente à Polícia Federal o envio das cópias aos gabinetes dos ministros.\nDelegados da PF pedem que Paulo Gonet se declare impedido de atuar em apuração sobre mensagens de Daniel Vorcaro\nJornal Nacional/ Reprodução\nA ofensiva de Gilmar Mendes se somou a movimentos feitos por Cristiano Zanin e por Alexandre de Moraes:\nZanin acionou Fachin cobrando acesso à íntegra do espelhamento do telefone de Vorcaro, um iPhone 17 Pro apreendido pela PF, argumentando que o plenário precisa conhecer o contexto integral dos dados antes de julgar o caso.\nAndré Mendonça informou a Fachin que o aparelho físico original não está sob sua posse, mas sim guardado nos depósitos da própria PF para preservar a cadeia de custódia da prova. O relator declarou que possui apenas uma cópia de segurança em disco rígido criptografado, enviada pela PF em março de 2026, que permanece intacta e lacrada.\nEm novo ofício, Zanin contestou a justificativa de Mendonça, sustentando que o lacre de uma cópia de segurança não impede o compartilhamento com os demais julgadores, lembrando ainda que a própria defesa de Vorcaro já obteve acesso à integralidade do material. Moraes reforçou o pedido e afirmou que \"não cabe ao relator escolher quais os documentos acessíveis ao colegiado\".\nCom o novo documento enviado a Fachin, Gilmar Mendes consolidou a pressão sobre o relator para que o conteúdo seja destravado, seja por via do gabinete de Mendonça ou diretamente pela PF, antes da sessão de terça-feira.\nEm outro ofício, o próprio Moraes reforçou o pedido de Zanin. \"Não cabe ao ministro relator escolher quais os documentos acessíveis ao Colegiado para realizar seu julgamento\", declarou.",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 12 Sep 2026 18:45:03 -0000"
+    },
+    {
+      "id": "ab48ee7bacb2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "summary": "O acesso ao conteúdo completo extraído do celular do banqueiro Daniel Vorcaro virou novo tema de embate entre os ministros do Supremo Tribunal Federal (STF).",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 12 Sep 2026 22:16:24 GMT"
+    },
+    {
       "id": "49f410eed31f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -175,12 +219,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 23:23:55 -0000"
     },
     {
@@ -196,12 +239,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 21:21:33 -0000"
     },
     {
@@ -217,59 +259,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 19:53:05 -0000"
-    },
-    {
-      "id": "8eb8a1f62547",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PGR reforça pedido para que todos os ministros do STF tenham acesso integral aos dados extraídos do celular de Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/pgr-reforca-pedido-para-que-todos-os-ministros-do-stf-tenham-acesso-integral-aos-dados-do-caso-master.ghtml",
-      "summary": "PGR reforça pedido para ministros do STF terem acesso a dados do celular de Vorcaro\nA Procuradoria-Geral da República (PGR) encaminhou neste sábado (12) nova manifestação ao presidente do Supremo Tribunal Federal (STF), Luiz Edson Fachin, defendendo que todos os ministros da Corte tenham acesso integral dos dados extraídos do celular do ex-banqueiro Daniel Vorcaro antes do julgamento marcado para terça-feira (15).\n\nNo documento, o procurador-geral da República, Paulo Gonet, reitera posição apresentada na véspera e afirma considerar relevante que os integrantes do tribunal conheçam previamente \"a integralidade dos dados necessários\" para formar convicção sobre o caso.\n\"Da mesma forma, parece-nos relevante, sobretudo e especialmente dadas as peculiaridades da causa, que todos ministros tenham conhecimento prévio da integralidade dos dados necessários para a formação de juízo sobre o tema posto em debate\", escreveu Gonet.\nA manifestação também é assinada pelo subprocuradores-gerais da República Antônio Edílio Magalhães Teixeira e André de Carvalho Ramos, e pelo vice-procurador-Geral da República Hindemburgo Chateaubriand Filho, que fez o primeiro pedido de acesso total aos dados do Master. \nO pedido da PGR ocorre um dia depois de os ministros Cristiano Zanin, Alexandre de Moraes e Gilmar Mendes se manifestarem pelo acesso integral dos dados extraídos do celular de Vorcaro.\nMendonça diz que celular de Vorcaro está com a PF e que dados estão lacrados\nEles defenderam que o conteúdo completo do aparelho seja compartilhado com todos os integrantes do STF antes da sessão que analisará relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro e Moraes.\nNesta sexta (11), Gilmar Mendes enviou ofício a Fachin sustentando que o acesso restrito ao material compromete a colegialidade do tribunal e pediu que, caso o ministro André Mendonça não disponibilize os arquivos, a Presidência do STF solicite diretamente à Polícia Federal o envio das cópias aos gabinetes dos ministros.\nDelegados da PF pedem que Paulo Gonet se declare impedido de atuar em apuração sobre mensagens de Daniel Vorcaro\nJornal Nacional/ Reprodução\nA ofensiva de Gilmar Mendes se somou a movimentos feitos por Cristiano Zanin e por Alexandre de Moraes:\nZanin acionou Fachin cobrando acesso à íntegra do espelhamento do telefone de Vorcaro, um iPhone 17 Pro apreendido pela PF, argumentando que o plenário precisa conhecer o contexto integral dos dados antes de julgar o caso.\nAndré Mendonça informou a Fachin que o aparelho físico original não está sob sua posse, mas sim guardado nos depósitos da própria PF para preservar a cadeia de custódia da prova. O relator declarou que possui apenas uma cópia de segurança em disco rígido criptografado, enviada pela PF em março de 2026, que permanece intacta e lacrada.\nEm novo ofício, Zanin contestou a justificativa de Mendonça, sustentando que o lacre de uma cópia de segurança não impede o compartilhamento com os demais julgadores, lembrando ainda que a própria defesa de Vorcaro já obteve acesso à integralidade do material. Moraes reforçou o pedido e afirmou que \"não cabe ao relator escolher quais os documentos acessíveis ao colegiado\".\nCom o novo documento enviado a Fachin, Gilmar Mendes consolidou a pressão sobre o relator para que o conteúdo seja destravado, seja por via do gabinete de Mendonça ou diretamente pela PF, antes da sessão de terça-feira.\nEm outro ofício, o próprio Moraes reforçou o pedido de Zanin. \"Não cabe ao ministro relator escolher quais os documentos acessíveis ao Colegiado para realizar seu julgamento\", declarou.",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 12 Sep 2026 18:45:03 -0000"
-    },
-    {
-      "id": "4131dfd18f97",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Crise Master' no STF: em Curitiba, Lula diz que 'ninguém pode ser ministro da Suprema Corte para ficar rico'",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/crise-master-no-stf-em-curitiba-lula-diz-que-ninguem-pode-ser-ministro-da-suprema-corte-para-ficar-rico.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, afirmou neste sábado (12) que ninguém pode ser ministro do Supremo Tribunal Federal (STF) para ficar rico. \nSegundo Lula, o cargo equivale a um \"sacerdócio\", ou seja, deve ser exercido com dignidade — comparado a ministros de um culto religioso.\nDurante campanha em Curitiba (PR), o Lula repetiu que seu filho mais velho, Fábio Luís Lula da Silva, conhecido como Lulinha, não será protegido.\nLulinha é investigado em três inquéritos que tramitam no Supremo. Um deles, apura suspeitas de corrupção e tráfico de influência em uma tentativa de obter um contrato com o Ministério da Saúde para fornecer medicamentos à base de canabidiol ao SUS.\n\"Ele [Lulinha] nasceu para fazer as coisas certas e eu acredito na inocência dele. Mas se ele cometeu um erro, ele terá de pagar pelo erro que cometeu\", afirmou o presidente.\nLula pede quebra total de sigilo em investigações do caso Master; Renata Lo Prete analisa\n\"Isso vale pra mim, isso vale pro meu filho, isso vale para qualquer ministro da Suprema Corte. Ninguém pode ser ministro da suprema corte para ficar rico, aquilo é um sacerdócio. As pessoas têm que se dedicar. Porque é a Corte Suprema, quando ela toma uma decisão, ninguém pode mudar. As pessoas têm de ter um padrão de comportamento acima da média da sociedade\", prosseguiu.\n'Crise Master' no STF\n A crise começou no início de setembro, quando vieram à tona relatórios da Polícia Federal indicando trocas de mensagens entre o ex-banqueiro Daniel Vorcaro, do extinto Banco Master, e o ministro Alexandre de Moraes sobre operações policiais, além de registros sobre a atuação do ministro na edição de um contrato de R$ 130 milhões entre o escritório de sua esposa e o ex-banqueiro.\nParalelamente, relatórios de inteligência da PF passaram a apontar suspeitas de assimetria e direcionamento por parte do ministro André Mendonça na condução das operações \"Sem Desconto\" e \"Compliance Zero\".\nDiante da manutenção do segredo sobre os autos, a Procuradoria-Geral da República (PGR) acionou o presidente do STF, Edson Fachin, argumentando que a divulgação de apenas uma fração das peças poderia criar uma \"ideia equivocada de transparência\" e omitir o núcleo da investigação. \nAcolhendo o pedido da PGR, Fachin deu um prazo de 24 horas para que Mendonça derrubasse o sigilo das apurações do caso Master. Em cumprimento à determinação, Mendonça retirou o segredo de dezenas de procedimentos relacionados ao caso. \nO relator afirmou ter divulgado todos os processos principais disponíveis e argumentou que a manutenção do sigilo sobre trechos específicos foi uma medida \"prudente e responsável\" para proteger investigações em andamento e dados pessoais, bancários e fiscais de investigados.\nAntes da liberação dos novos documentos, o ministro Alexandre de Moraes encaminhou um ofício a Fachin acusando Mendonça de promover uma \"escolha seletiva\" na divulgação. \nMoraes apontou que o colega disponibilizou apenas 15 procedimentos de forma incompleta, omitindo 180 peças e arquivos do sistema do tribunal. \nCom isso, Moraes formalizou três pedidos à Presidência: a derrubada total e irrestrita do sigilo, a intimação de magistrados citados nos autos e o julgamento conjunto da petição sobre suas mensagens com o processo que avalia a conduta de Mendonça.\nEm despacho assinado neste sábado (12), o presidente Edson Fachin indeferiu o pedido de julgamento conjunto. \nO presidente do STF manteve a Sessão Plenária Extraordinária para analisar a petição de relatoria de Mendonça e agendou a apreciação da petição que reúne as informações sobre Moraes para o dia 23 de setembro, após a conclusão dos prazos de instrução.\nO presidente Lula durante cerimônia no Palácio do Planalto em 3 de setembro de 2026\nAdriano Machado/Reuters\nCaso Master\nDurante comício em Cutitiba, o presidente Lula afirmou que a oposição transformou, em 2019, um agiota em banqueiro, em referência a Daniel Vorcaro — que está no epicentro de uma investigação que começou com fraude bilionária envolvendo o Banco Master e evoluiu para um escândalo com repercussões no sistema financeiro, na política e no Judiciário.\n\"Eu estive com o Fachin [presidente do STF] e disse que não era possível um cidadão que é um juiz relator [André Mendonça] ficar soltando matéria pensada, somente sobre o que interessava a ele. Pedi para liberar todo processo. Para sabver quem é que está por trás disso. E vamos deixar às claras para ver de verdade quem é ladrão e corrupto nesse país. E a família Bolsonaro não escapa. Por isso, eu estou feliz que o povo brasileiro vai saber a verdade, quem fez o que nesse país\", concluiu.",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 12 Sep 2026 14:55:44 -0000"
     },
     {
       "id": "1ea7ae128f7e",
@@ -284,12 +279,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "12 Sep 2026 21:00:00 -0300"
     },
     {
@@ -305,34 +299,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "12 Sep 2026 20:30:00 -0300"
-    },
-    {
-      "id": "c55216d2c69e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF irá transmitir ao vivo sessão sobre mensagens de Moraes e Vorcaro",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-ira-transmitir-ao-vivo-sessao-sobre-mensagens-de-moraes-e-vorcaro/",
-      "summary": "Corte abriu credenciamento para imprensa e informou que sessão de terça-feira (15), às 10h, terá transmissão pela TV Justiça e YouTube",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 12 Sep 2026 22:36:43 +0000"
     },
     {
       "id": "33bf8af9e6d8",
@@ -347,12 +319,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 20:00:00 +0000"
     },
     {
@@ -368,12 +339,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 14:25:31 +0000"
     },
     {
@@ -389,36 +359,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "id": "ab48ee7bacb2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "summary": "O acesso ao conteúdo completo extraído do celular do banqueiro Daniel Vorcaro virou novo tema de embate entre os ministros do Supremo Tribunal Federal (STF).",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 12 Sep 2026 22:16:24 GMT"
     },
     {
       "id": "f1181e2d37e7",
@@ -432,13 +378,12 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
     },
     {
@@ -454,12 +399,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 12 Sep 2026 22:00:01 +0000"
     },
     {
@@ -481,28 +425,6 @@
       ],
       "score": 87,
       "publishedRaw": "Sat, 12 Sep 2026 21:49:00 -0000"
-    },
-    {
-      "id": "05456c9aaacd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Renan Santos diz que STF está ‘completamente insano’ e que caso Master chega a ser ‘cômico’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/renan-santos-diz-que-stf-esta-completamente-insano-e-que-caso-master-chega-a-ser-comico/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Renan Santos"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Fri, 11 Sep 2026 23:32:04 +0000"
     },
     {
       "id": "44d2eecd616d",
@@ -563,6 +485,27 @@
       ],
       "score": 87,
       "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
+    },
+    {
+      "id": "05456c9aaacd",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos diz que STF está ‘completamente insano’ e que caso Master chega a ser ‘cômico’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/renan-santos-diz-que-stf-esta-completamente-insano-e-que-caso-master-chega-a-ser-comico/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 11 Sep 2026 23:32:04 +0000"
     },
     {
       "id": "90c7055d6887",
@@ -804,6 +747,36 @@
       "crossOutlets": [],
       "score": 71,
       "publishedRaw": "Sat, 12 Sep 2026 20:22:12 -0000"
+    },
+    {
+      "id": "855c4d87cd06",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos critica bolsonarismo em SC e defende pena de 30 anos para assalto à mão armada",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/renan-santos-agenda-joinville-santa-catarina.ghtml",
+      "summary": "Renan Santos, candidato do Missão, à presidência cumpriu agenda em Santa Catarina\nTV Globo/Reprodução\nO candidato do Missão à presidência da República Renan Santos cumpriu agenda de campanha neste sábado (12) em Joinville, cidade mais populosa de Santa Catarina. Durante congresso promovido pelo partido, disse que busca combater o bolsonarismo no estado, e reforçou bandeiras como a revisão do pacto federativo e o aumento para 30 anos da pena para assalto à mão armada. \nRenan chegou à cidade no início da tarde e o evento aconteceu até à noite, com discurso voltado a aliados e apoiadores da Missão. Sobre o bolsonarismo, criticou a candidatura de Carlos Bolsonaro ao Senado por Santa Catarina após sete mandatos como vereador no Rio de Janeiro.\n✅Clique e siga o canal do g1 SC no WhatsApp\n\"Os bolsonaristas achavam que Santa Catarina era um estoque de voto, tratado aqui como um estoque: 'Ah, basta mandar alguém pra cá que os votos virão'. Não é o que tá acontecendo, nós estamos crescendo rápido. Essa vai ser a última eleição que os catarinenses vão ainda votar em bolsonarista. Nas próximas, Santa Catarina vai se livrar\", declarou.\nSobre as promessas de campanha, reforçou o aumento de penas e o fim da progressão de penas para crimes à mão armada, citando roubo e latrocínio. \n\"Ou seja, pegou, vai ficar 30 anos e vai ficar na cadeia sem choro nem vela. Cometer um crime à mão armada no Brasil, esta é a base de todos os grandes crimes que tornam a vida dos brasileiros um inferno. O assalto à mão armada vai ser punido com uma pena de trinta anos. Será uma das maiores penas do mundo pra esse crime\", completou. \nAlém do aumento das penas, defendeu um sistema de financiamento para que municípios ampliem o monitoramento para evitar as práticas. \n\"Espalhar isso pelo Brasil, colocar as polícias equipadas com uma ligação direta com esses equipamentos, de modo a gente evitar e coibir de maneira bem clara os assaltos à mão armada\".\nAgora no g1\nMetas de desempenho para prefeitos e governadores\nRenan reforçou em Santa Catarina a criação da chamada Lei de Responsabilidade Gerencial, estabelecendo metas para prefeitos e governadores em áreas como segurança, saúde, educação e saneamento básico.\n\"Os estados que fizerem os investimentos certos e tiverem melhores índices, serão privilegiados por parte do governo federal, porque assim os administradores públicos, como os governadores, eles vão ter agora metas pra bater\", disse.\nRenan declarou que o Santa Catarina \"será vista de forma diferente\", caso eleito. Criticou o pacto federativo, apontando que o estado está entre os estados menos beneficiados pela atual distribuição de recursos da União.\n\"O governo federal sabota institucionalmente Santa Catarina, manda pouco dinheiro de volta e aí na hora que você vai escoar a produção que é feita aqui no estado, no porto, não tem estrada, não tem ferrovia condizente com isso. É uma das coisas mais horríveis que eu vi. Eu vi outros estados da federação recebendo dinheiro muito mal gasto, que vem daqui de Santa Catarina, vem de estados como São Paulo, enquanto aqui, que é só investir que as coisas funcionam, não vem\".\n\"Isso é um tanto quanto bizarro, porque a gente tira o dinheiro de onde tá saindo dinheiro, basicamente a gente tá tirando a mata da galinha dos ovos de ouro, pra colocar em áreas não produtivas e na mão dos políticos menos produtivos do Brasil\", reiterou.\nVÍDEOS: mais assistidos do g1 SC nos últimos 7 dias",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Sun, 13 Sep 2026 00:33:35 -0000"
+    },
+    {
+      "id": "5090dd6a96fb",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan Santos chama Flávio de “bandido” e “vassalo de Trump”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-chama-flavio-de-bandido-e-vassalo-de-trump/",
+      "summary": "Candidato do Missão afirma que campanha de seu adversário do PL manteria relação com integrantes de grupo norte-americano e pede investigação",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Sun, 13 Sep 2026 00:40:39 +0000"
     }
   ]
 }
