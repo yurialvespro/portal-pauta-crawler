@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:15:13.760094+00:00",
+  "generated_at": "2026-09-13T20:41:19.344026+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,12 +15,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 12 Sep 2026 15:06:17 GMT"
     },
     {
@@ -37,12 +38,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 12 Sep 2026 00:08:59 GMT"
     },
     {
@@ -59,11 +61,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sun, 13 Sep 2026 14:31:12 -0000"
     },
     {
@@ -80,12 +83,57 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sun, 13 Sep 2026 15:42:32 +0000"
+    },
+    {
+      "id": "ab48ee7bacb2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "summary": "No comunicado, a PF afirma que possui \"plenas condições técnicas para produzir e encaminhar cópia idêntica da extração aos demais gabinetes\" de ministros do Supremo.",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sun, 13 Sep 2026 19:13:15 GMT"
+    },
+    {
+      "id": "ab48ee7bacb2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "summary": "No comunicado, a PF afirma que possui \"plenas condições técnicas para produzir e encaminhar cópia idêntica da extração aos demais gabinetes\" de ministros do Supremo.",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sun, 13 Sep 2026 19:13:15 GMT"
     },
     {
       "id": "1c38952f142b",
@@ -109,65 +157,24 @@
       "publishedRaw": "Sun, 13 Sep 2026 08:30:00 +0000"
     },
     {
-      "id": "ab48ee7bacb2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "summary": "No comunicado, a PF afirma que possui \"plenas condições técnicas para produzir e encaminhar cópia idêntica da extração aos demais gabinetes\" de ministros do Supremo.",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sun, 13 Sep 2026 19:13:15 GMT"
-    },
-    {
-      "id": "ab48ee7bacb2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "summary": "No comunicado, a PF afirma que possui \"plenas condições técnicas para produzir e encaminhar cópia idêntica da extração aos demais gabinetes\" de ministros do Supremo.",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sun, 13 Sep 2026 19:13:15 GMT"
-    },
-    {
       "id": "490051d84096",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Zanin manda PF entregar cópia de todo celular do Vorcaro até as 23h deste domingo",
+      "title": "Zanin manda PF entregar ao seu gabinete cópia de todo celular do Vorcaro até as 23h deste domingo",
       "link": "https://g1.globo.com/politica/noticia/2026/09/13/zanin-manda-pf-entregar-copia-de-todo-celular-do-vorcaro-ate-as-23h-deste-domingo.ghtml",
-      "summary": "",
+      "summary": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), determinou que o diretor-geral da Polícia Federal, Andrei Rodrigues, entregue até as 23h deste domingo (13) uma cópia integral do celular de Daniel Vorcaro apreendido na Operação Compliance Zero.\nZanin comunicou ao presidente do STF, ministro Luiz Edson Fachin, a sua determinação.\nO aparelho em questão se trata de um iPhone 17 Pro apreendido pela Polícia Federal em 18 de novembro de 2025, quando Vorcaro foi preso pela primeira vez.\nA decisão de Zanin aprofunda o clima de tensão no STF a apenas dois dias do julgamento marcado no plenário para a próxima terça-feira (15), quando os ministros devem analisar o relatório sobre mensagens envolvendo Vorcaro e o ministro Alexandre de Moraes.\nFachin relatará mensagens entre Vorcaro e Moraes e pede dados de Master e INSS\nMais cedo neste domingo, o ministro André Mendonça enviou ofício sustentando que a abertura e o compartilhamento de todo o conteúdo extraído do celular \"somente contribuiria para tumultuar o julgamento\" e colocaria \"em risco todo o seguimento e êxito das investigações\". \nMendonça alegou que todos os ministros já contavam com o mesmo material necessário para o julgamento e pediu que Fachin ouvisse quatro delegados da PF sobre o trâmite do relatório.\nEm contrapartida, ministros como Alexandre de Moraes, Gilmar Mendes e o próprio Zanin vinham cobrando acesso irrestrito ao espelhamento completo do aparelho para contextualização ampla dos fatos antes de qualquer deliberação do plenário.\nO que diz Zanin?\nEm seu despacho à Polícia Federal, Zanin rebateu a restrição e argumentou que não existe \"hierarquia entre os ministros do STF\". Ele também disse que as provas pertencem ao plenário do STF e a seus integrantes e não a um ministro especificamente.\nZanin também disse que a própria PF informou que tem plenas condições de franquear cópia da mídia a todos os gabinetes da Corte sem prejuízo à cadeia de armazenamento de provas.\nEle também reitera que o material já foi disponibilizado aos advogados de Daniel Vorcaro\nO ministro também afirmou precisar do material na íntegra para formar convicção e julgar o caso na terça-feira (15), pontuando que \"não se pode opor aos julgadores qualquer restrição ao acesso a informações, até porque todos eles estão submetidos ao dever de sigilo e de bem desempenhar suas funções, com imparcialidade e independência\".\nAo final do ofício, o ministro frisou que a determinação de entrega até as 23h deste domingo se dá \"sem prejuízo de outros Gabinetes que possam encaminhar idêntica requisição para obter os mesmos dados colocados à disposição do Relator\".\nCristiano Zanin em sessão da Primeira Turma do STF\nLuiz Silveira/STF",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 13 Sep 2026 20:11:52 -0000"
     },
     {
@@ -183,12 +190,137 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
+    },
+    {
+      "id": "99f081ad3d36",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zanin manda PF entregar dados de celular de Vorcaro em seu gabinete",
+      "link": "https://www.cnnbrasil.com.br/politica/zanin-manda-pf-entregar-dados-de-celular-de-vorcaro-eu-seu-gabinete/",
+      "summary": "A ordem foi dada após a PF informar que tem condições de fornecer cópias idênticas do material aos ministros",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 20:15:43 +0000"
+    },
+    {
+      "id": "291f1d898557",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça insiste no sigilo de dados de celular de Vorcaro: ‘contribuiria para tumultuar julgamento’",
+      "link": "https://www.estadao.com.br/politica/mendonca-insiste-no-sigilo-de-dados-de-celular-de-vorcaro-contribuiria-para-tumultuar-julgamento/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 17:49:55 +0000"
+    },
+    {
+      "id": "b3e4e326f963",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com palanque duplo em Brasília, Lula prioriza Grass em comício na 4ª",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-palanque-duplo-em-brasilia-lula-prioriza-grass-em-comicio-na-4a/",
+      "summary": "Presidente participará de ato na Praça do Trabalhador, em Ceilândia, às 19h, e terá outros aliados, como a senadora Leila do Vôlei e a deputada e candidata ao Senado Erika Kokay",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 19:23:54 +0000"
+    },
+    {
+      "id": "bf5cbe4de3b5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça diz que tirar sigilo do celular de Vorcaro tumultuaria julgamento",
+      "link": "https://www.poder360.com.br/poder-justica/mendonca-diz-que-tirar-sigilo-do-celular-de-vorcaro-tumultua-julgamento/",
+      "summary": "Em despacho, ministro afirma que todo material que será utilizado na sessão extraordinária de 3ª feira (15.set) já está disponível na íntegra",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 18:15:00 +0000"
+    },
+    {
+      "id": "b70beff27b21",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Maria Bethânia declara voto em Lula e Janja compartilha o momento",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/maria-bethania-declara-voto-em-lula-e-janja-compartilha-o-momento/",
+      "summary": "Cantora fez o “L” com os dedos durante apresentação no Coala Festival, em São Paulo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 13 Sep 2026 17:55:08 +0000"
+    },
+    {
+      "id": "dc11a9e14923",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ex-ministros, juristas e empresários assinam carta de apoio a Fachin em meio à crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/13/ex-ministros-juristas-e-empresarios-assinam-carta-de-apoio-a-fachin-em-meio-a-crise-no-stf.ghtml",
+      "summary": "Decisões de Edson Fachin foram notícia na imprensa internacional\nGetty Images via BBC\nUm grupo de autoridades, incluindo ex-ministros dos governos Fernando Henrique Cardoso, Lula e Dilma Rousseff, juristas, empresários e líderes da sociedade civil, assinou uma carta em apoio ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, em meio à crise institucional que atinge a Corte. O documento foi enviado ao ministro neste domingo (13).\nO manifesto afirma que as revelações recentes sobre as relações de ministros do Supremo com o ex-banqueiro Daniel Vorcaro e os desdobramentos do episódio compõem a “mais grave crise da história do Supremo” e da história republicana do Brasil.\n“A apuração dos fatos e a responsabilização daqueles que eventualmente violaram a lei e a dignidade de seus cargos são indispensáveis para que possamos recobrar a confiança nas instituições e preservar nossa democracia”, diz o documento.\nO grupo também defende reformas institucionais “capazes de fortalecer a colegialidade, assegurar a imparcialidade dos julgamentos, prevenir conflitos de interesse e estabelecer padrões rigorosos de conduta”.\nAo todo, são 198 assinaturas (veja a íntegra da carta ao final da reportagem).\nEntenda a crise no STF\nA crise no Supremo se intensificou no início de setembro, após o ministro André Mendonça retirar o sigilo de um relatório da Polícia Federal produzido no âmbito das investigações sobre o Banco Master. \nO documento revelou mensagens e contatos entre o ex-banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. As apurações sobre o banco também trouxeram à tona relações de Vorcaro com outros integrantes da Corte e negócios envolvendo familiares de ministros, ampliando os questionamentos sobre possíveis conflitos de interesse.\nA divulgação do material desencadeou um embate público dentro do Supremo. Moraes reagiu e pediu a investigação de Mendonça por suposto abuso de autoridade. A tensão aumentou com decisões conflitantes entre ministros, incluindo o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, determinado por Mendonça, e sua posterior reintegração por decisão de Flávio Dino. A sucessão de medidas expôs uma divisão interna na Corte e levou Fachin a cancelar sessões plenárias para evitar um encontro público entre os ministros no auge da crise.\nDiante da escalada, Fachin passou a centralizar as decisões relacionadas à crise. O presidente do STF suspendeu medidas conflitantes dos colegas, manteve Andrei Rodrigues no comando da PF, retirou Moraes da relatoria do inquérito das fake news e determinou que eventuais procedimentos envolvendo investigações contra ministros da Corte sejam previamente submetidos à Presidência do tribunal. \nFachin também marcou para terça-feira (15) uma sessão do plenário para analisar o relatório da PF que aponta a relação entre Moraes e Vorcaro e o pedido da Procuradoria-Geral da República para anulá-lo.\nAgora no g1\nVeja a carta na íntegra:\nA S. Ex.ª o Ministro Edson Fachin\nPresidente do Supremo Tribunal Federal\nBrasília, 13 de setembro de 2026\nSenhor Ministro Presidente,\nOs cidadãos e representantes da sociedade civil abaixo assinados vêm manifestar seu integral apoio às medidas adotadas por V. Ex.ª, com o objetivo de preservar a autoridade do Supremo Tribunal Federal e promover, sob a estrita observância do devido processo legal, a mais rigorosa e imparcial apuração dos fatos e das gravíssimas acusações que vieram a público nas últimas semanas.\nPara isso, é fundamental assegurar ampla transparência às investigações e à sessão plenária marcada para o próximo dia 15 de setembro, que deve ocorrer de forma pública, nos termos do artigo 93, IX, da Constituição Federal.\nEstamos vivendo a mais grave crise da história do Supremo Tribunal Federal e certamente uma das mais graves de nossa acidentada história republicana. A apuração dos fatos e a responsabilização daqueles que eventualmente violaram a lei e a dignidade de seus cargos são indispensáveis para que possamos recobrar a confiança nas instituições e preservar nossa democracia.\nEntendemos, ainda, que a superação dessa crise exigirá reformas institucionais urgentes, capazes de fortalecer a colegialidade, assegurar a imparcialidade dos julgamentos, prevenir conflitos de interesse, estabelecer padrões rigorosos de conduta e ampliar a transparência e o controle social sobre a Corte e seus integrantes.\nO Supremo Tribunal Federal não pode deixar que sua jurisdição seja capturada por interesses escusos, de natureza pessoal, política ou econômica, que atentem contra nossa democracia constitucional.\nRespeitosamente,\nAdriana Maria Martins\nAdriano Fernandes Ferreira\nAffonso Bevilaqua\nAinah Angelini\nAlcir Rocha dos Santos\nAlessandro Lombardi\nAlexandra Benedito\nAlexandre Lima Wunderlich\nAlexandre Schwartsman\nAlexandre Silva\nAline Maron Setenta\nAmarílio Macêdo\nAmauri Guilherme Bier\nAna Carla Abrão\nAna Elisa Bechara\nAna Frazão\nAna Paula Pessoa\nAndré Lara Resende\nAndré Rosilho\nAngélica Maria de Queiroz\nAntonio Angelo Faragone\nAntonio Carlos Aidar\nAntonio Claudio Mariz de Oliveira\nAntonio Jacinto Matias\nAntonio Luiz Seabra\nAntonio Machado de Barros\nAntônio Neto\nAntonio Nobrega\nArminio Fraga\nAtila Roque\nAyrton Jorge Neto\nBeatriz Montenegro Castelo\nBernardo Machado de Barros\nCaio Mario da Silva Pereira Neto\nCamila Werneck\nCamilo Zufelato\nCandido Bracher\nCarla Müller da Rosa\nCarlos Ari Sundfeld\nCarlos Francisco Jereissati\nCelso Campilongo\nCelso Cintra Mori\nCida Bento\nClarissa Gross\nClaudio Contador\nClaudio Haddad\nClemente Ganz Lúcio\nCristina Pinotti\nDaniel Gleizer\nDaniel Goldberg\nDaniel Mitidiero\nDanilo Cunha Lopes\nDemosthenes Madureira de Pinho Neto\nDenis Mizne\nDiogo Leonardo Machado de Melo\nDuda Sirotsky\nEdmar Bacha\nEleazar de Carvalho Filho\nEliana Anastasia Cardoso\nElizângela Treméa\nEloise Torres Amado\nEugenio Bucci\nFabiana Severi\nFábio Azem\nFabio Barbosa\nFabio Ulhoa Coelho\nFelipe Cardoso Moreira de Oliveira\nFernando Bueno\nFernando Kuyven\nFilipe Lôbo Gomes\nFlavia Piovesan\nFlávia Rahal\nFlávio Unes\nFrancisco Gomes\nGabriela Machado\nGabriella Hizume\nGeorges Grego\nGerson Branco\nGisela Sampaio Guedes\nGuilherme Carneiro Monteiro Nitschke\nGuilherme Passos\nGuilherme Peirão Leal\nHélio Santos\nHenrique Cambiaghi Filho\nHorácio Piva\nIgor Rocha\nJacintho Arruda Câmara\nJackson Medeiros Schneider\nJoão Carlos Gonçalves (Juruna)\nJoão Cesar de Queiroz Tourinho\nJoaquim Falcão\nJorge Kalil\nJosé Araújo Avelino\nJosé Carlos Dias\nJosé Eduardo Martins Cardozo\nJosé Emílio Nunes Pinto\nJosé Guimarães Monforte\nJosé Horácio Halfeld\nJosé Pio Borges\nJosé Reginaldo Inácio\nJosé Roberto Mendonça de Barros\nJosé Vicente\nJosué Christiano Gomes da Silva\nJosué Emilio Möller\nJudith Martins Costa\nJúlia Dias Leite\nJúlio César de Sá da Rocha\nJulio Gonzaga Andrade Neves\nLeandro Pinto\nLeonardo Burlamaqui\nLeonardo Sica\nLucas Dutra Bortolozzo\nLucas Silveira dos Anjos\nLúcia Hauptman\nLuciana de Oliveira Hall\nLuciano Coutinho\nLuis Stuhlberger\nLuis Terepins\nLuiz Felipe de Alencastro\nLuiz Fernando Figueiredo\nManoel Poladian\nManuela Carneiro da Cunha\nMarcelo Barbará\nMarcelo Buttelli\nMarcelo Pereira Lopes de Medeiros\nMárcia Santana Fernandes\nMarcos Alberto Lederman\nMarcos Kisil\nMarcos Mendes\nMaria Hermínia Tavares de Almeida\nMaria Lúcia Gonçalves Pereira\nMaria Paula Dallari\nMaria Silvia Bastos Marques\nMaria Stella Gregori\nMaria Tereza Fleury\nMaria Thereza Sadek\nMariana Conti Craveiro\nMário Bernardini\nMario Engler\nMário Magalhães Carvalho Mesquita\nMario Shapiro\nMateus Bandeira\nMatheus Falc\nMaura de Salles Aguiar\nMiguel Reale Jr.\nMiguel Torres\nMilton Seligman\nNilza Pereira Almeida\nOscar Ferreira da Silva\nOscar Vilhena Vieira\nPatrícia Fortes Attademo Ferreira\nPatrícia Passos\nPatrícia Vanzolini\nPaulo Doron R. de Araujo\nPaulo Vannuchi\nPedro de Camargo Neto\nPedro Evangelinos\nPedro Jereissati\nPedro Luiz Barreiros Passos\nPedro Malan\nPedro Parente\nPedro Wongtschowski\nPérsio Arida\nRafael Branco Xavier\nRicardo Gallo\nRicardo Patah\nRicardo Steinbruch\nRoberta Alexandr Sundfeld\nRoberto Beck\nRoberto Bielawski\nRoberto Brant\nRoberto Cruz Garcia\nRoberto Dias\nRoberto Nagy\nRonaldo Leite\nRonaldo Porto Macedo Júnior\nRui Carlo Dissenha\nRuy Souza e Silva\nSabrina Cassol\nSalo Seibel\nSergio Fausto\nSergio Nobre\nSonia Quintella de Carvalho\nSônia Zerino\nSylvia Demetresco\nTeca Grego\nTercio Sampaio Ferraz\nTeresa Bracher\nTeresa Vendramini\nTheo Dias\nThiago Amparo\nTorquato da Silva Castro Júnior\nTula Wesendonck\nValdecir Nascimento\nVanessa Beca\nVera Monteiro\nWalter Schalka\nYasser Gabriel",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 13 Sep 2026 20:28:26 -0000"
     },
     {
       "id": "40b70072106f",
@@ -229,45 +361,6 @@
       "publishedRaw": "Sat, 12 Sep 2026 23:23:55 -0000"
     },
     {
-      "id": "90c7055d6887",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin dá 24 horas para PF prestar informações sobre celular de Vorcaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/fachin-da-24-horas-para-pf-prestar-informacoes-sobre-celular-de-vorcaro.ghtml",
-      "summary": "Fachin dá prazo de 24 horas para a PF se manifestar sobre celular de Daniel Vorcaro\nO presidente do Supremo Tribunal Federal, ministro Luiz Edson Fachin, deu 24 horas para a Polícia Federal prestar informações sobre o celular do ex-banqueiro Daniel Vorcaro e as condições em que se encontra o material. \nA determinação de Fachin veio em resposta às manifestações dos ministros Gilmar Mendes, Cristiano Zanin e Alexandre de Moraes que cobram acesso a todo conteúdo do aparelho do ex-banqueiro antes do julgamento na Corte marcado para a próxima terça (15).\nDecisões de Edson Fachin foram notícia na imprensa internacional\nGetty Images via BBC\nNo documento, Fachin cita a resposta dada pelo ministro André Mendonça após o ministro Cristiano Zanin solicitar ao presidente do STF acesso a todo o aparelho de Vorcaro na sexta-feira (11). \nNa ocasião, Mendonça afirmou que o celular \"permanece lacrado no Gabinete e portanto, encontra-se inacessível\" e que \"nunca o manuseou. Trata-se de contraprova a ser utilizada apenas em caso de necessidade em decorrência da perda ou do extravio do material original, o qual encontra-se em poder da Polícia Federal, dentro de sua cadeia de custódia.\"\nEntenda o impasse\nZanin acionou Fachin cobrando acesso à íntegra do espelhamento do telefone de Vorcaro, um iPhone 17 Pro apreendido pela PF, argumentando que o plenário precisa conhecer o contexto integral dos dados antes de julgar o caso.\nAndré Mendonça informou a Fachin que o aparelho físico original não está sob sua posse, mas sim guardado nos depósitos da própria PF para preservar a cadeia de custódia da prova. O relator declarou que possui apenas uma cópia de segurança em disco rígido criptografado, enviada pela PF em março de 2026, que permanece intacta e lacrada.\nEm novo ofício, Zanin contestou a justificativa de Mendonça, sustentando que o lacre de uma cópia de segurança não impede o compartilhamento com os demais julgadores, lembrando ainda que a própria defesa de Vorcaro já obteve acesso à integralidade do material. Moraes reforçou o pedido e afirmou que \"não cabe ao relator escolher quais os documentos acessíveis ao colegiado\".\nCom o novo documento enviado a Fachin, Gilmar Mendes consolidou a pressão sobre o relator para que o conteúdo seja destravado, seja por via do gabinete de Mendonça ou diretamente pela PF, antes da sessão de terça-feira.\nEm outro ofício, o próprio Moraes reforçou o pedido de Zanin. \"Não cabe ao ministro relator escolher quais os documentos acessíveis ao Colegiado para realizar seu julgamento\", declarou.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 12 Sep 2026 21:23:59 -0000"
-    },
-    {
-      "id": "87a855e61f86",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: mais de 80% dizem que crise no STF não alterou voto para presidente",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/12/datafolha-stf-voto.ghtml",
-      "summary": "Na imagem, ministros do STF: Alexandre de Moraes (dir.) e André Mendonça\nFotos de: Fabio Rodrigues-Pozzebom da Agência Brasil e Carlos Moura do STF\nPesquisa Datafolha divulgada neste sábado (12) mediu o impacto da crise no Supremo Tribunal Federal (STF) na eleição do próximo presidente do Brasil.\nSegundo o levantamento, 85% disseram que não mudaram de voto após ficarem sabendo da troca de mensagens entre Daniel Vorcaro, ex-dono do Banco Master, e o ministro Alexandre de Moraes. Outros 7% não mudaram, mas ficaram em dúvida. Os que mudaram o voto e os que não sabem tiveram a mesma proporção: 4% cada.\nA revelação das conversas entre Vorcaro e Moraes:\nNão mudou nem deve mudar o voto: 85%\nNão mudou, mas deixou em dúvida: 7%\nMudou de ideia sobre o voto para presidente: 4%\nNão sabe: 4%\nResultado similar teve o impacto do requerimento de Alexandre de Moraes que, por sua vez, pediu para que o ministro André Mendonça fosse investigado. O ministro se baseou em relatórios de inteligência da PF que não possuem 'valor probatório.'\nNeste caso, 86% dos entrevistados disseram não ter mudado o voto para presidente ao saber do pedido de investigação. Outros 7% não mudaram, mas ficaram em dúvida. 2% alteraram o candidato a presidente e 4% disseram não saber.\nO pedido de investigação de Mendonça após suspeita levantada por Moraes:\nNão mudou nem deve mudar o voto: 86%\nNão mudou, mas deixou em dúvida: 7%\nMudou de ideia sobre o voto para presidente: 2% \nNão sabe: 4%\nEm outra questão abordada pelo Datafolha, 71% afirmam concordar que o STF é essencial para proteger a democracia no Brasil. Outros 21% discordam e 3% não concordam nem discordam. Por fim, 5% não souberam responder. \nAgora no g1\nA pesquisa foi encomendada pelo jornal Folha de S.Paulo e pela Globo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 8 e 10 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-01833/2026. \nCrise no STF se intensificou nas últimas semanas  \nA crise no Supremo Tribunal Federal se intensificou após a divulgação de um relatório da Polícia Federal (PF) produzido no âmbito do caso do banco Master.   \nTornado público em 1º de setembro por decisão do ministro André Mendonça, relator do caso no STF, o documento reúne mensagens enviadas pelo ex-banqueiro Daniel Vorcaro a um contato atribuído pelos investigadores ao ministro Alexandre de Moraes, além de referências a encontros e pedidos de orientação e proteção diante do avanço das investigações.  \nOs ministros do STF Edson Fachin, André Mendonça, Flávio Dino e Alexandre de Moraes\nAlejandro Zambrana/STF, Antonio Augusto/STF e Gustavo Moreno/STF\nParte das mensagens foi trocada nos dias anteriores à primeira prisão de Vorcaro, em novembro de 2025. Como o material foi extraído do celular do ex-banqueiro, o relatório não contém eventuais respostas de Moraes.  \nA Procuradoria-Geral da República (PGR) pediu a nulidade do documento, e o plenário do Supremo deverá decidir sobre os próximos passos.  \nO conflito ganhou nova dimensão em 3 de setembro. Com base em relatórios internos de inteligência da PF, Moraes sustentou haver indícios de irregularidades na atuação de Mendonça, citando, em tese, improbidade administrativa, abuso de autoridade, crime de responsabilidade e possível favorecimento político na condução de apurações relacionadas aos casos Master e INSS. Os documentos, porém, continham ressalvas de que não havia valor probatório nas informações.  \nCom base nesses elementos, Moraes pediu que Mendonça fosse investigado no inquérito das fake news, do qual era relator. Mendonça, por sua vez, afirmou ter sido alvo de monitoramento pela PF e apontou possíveis irregularidades na elaboração dos documentos usados contra ele. Depois, Fachin retirou esse pedido do inquérito das fake news e tirou de Moraes a relatoria.\nAfastamento e reintegração de diretores da PF  \nA disputa também alcançou o comando da Polícia Federal. No dia 8, Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues, e do diretor de Inteligência, Leandro Almada.     \nO ministro disse que a PF o submeteu a monitoramento ilegal. No dia seguinte, o ministro Flávio Dino determinou a reintegração de Rodrigues e Almada, em uma nova decisão, paralela à de Mendonça. Em seguida, o presidente do STF, Edson Fachin, suspendeu as duas medidas conflitantes — a de afastamento e a de reintegração —, o que manteve Andrei no cargo, e pediu explicações ao diretor-geral da PF.  \nEm manifestação enviada a Fachin nesta sexta-feira (11), Andrei Rodrigues negou que a PF tenha monitorado Mendonça e afirmou que os relatórios foram produzidos de forma regular pela área de inteligência da corporação e encaminhados a Moraes em cumprimento de ordem judicial.  \nFachin convocou para terça-feira (15) uma sessão extraordinária do plenário para discutir o relatório da PF sobre as mensagens de Vorcaro a Moraes e o encaminhamento do caso. Além disso, determinou a abertura integral dos documentos vinculados ao Master sob a relatoria de Mendonça. O objetivo é assegurar que os ministros tenham acesso ao acervo antes da sessão.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 12 Sep 2026 21:21:33 -0000"
-    },
-    {
       "id": "737d2904fc5f",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -285,26 +378,6 @@
       ],
       "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 16:37:55 +0000"
-    },
-    {
-      "id": "291f1d898557",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça insiste no sigilo de dados de celular de Vorcaro: ‘contribuiria para tumultuar julgamento’",
-      "link": "https://www.estadao.com.br/politica/mendonca-insiste-no-sigilo-de-dados-de-celular-de-vorcaro-contribuiria-para-tumultuar-julgamento/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 13 Sep 2026 17:49:55 +0000"
     },
     {
       "id": "5712ee8e65ba",
@@ -383,73 +456,13 @@
       "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
     },
     {
-      "id": "b3e4e326f963",
+      "id": "b81217038a4a",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Com palanque duplo em Brasília, Lula prioriza Grass em comício na 4ª",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-palanque-duplo-em-brasilia-lula-prioriza-grass-em-comicio-na-4a/",
-      "summary": "Presidente participará de ato na Praça do Trabalhador, em Ceilândia, às 19h, e terá outros aliados, como a senadora Leila do Vôlei e a deputada e candidata ao Senado Erika Kokay",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 13 Sep 2026 19:23:54 +0000"
-    },
-    {
-      "id": "bf5cbe4de3b5",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça diz que tirar sigilo do celular de Vorcaro tumultuaria julgamento",
-      "link": "https://www.poder360.com.br/poder-justica/mendonca-diz-que-tirar-sigilo-do-celular-de-vorcaro-tumultua-julgamento/",
-      "summary": "Em despacho, ministro afirma que todo material que será utilizado na sessão extraordinária de 3ª feira (15.set) já está disponível na íntegra",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 13 Sep 2026 18:15:00 +0000"
-    },
-    {
-      "id": "b70beff27b21",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Maria Bethânia declara voto em Lula e Janja compartilha o momento",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/maria-bethania-declara-voto-em-lula-e-janja-compartilha-o-momento/",
-      "summary": "Cantora fez o “L” com os dedos durante apresentação no Coala Festival, em São Paulo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 13 Sep 2026 17:55:08 +0000"
-    },
-    {
-      "id": "1eba450fa9b3",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF torna reeleição de Alcolumbre no Senado incerta",
-      "link": "https://www.poder360.com.br/poder-congresso/crise-no-stf-torna-reeleicao-de-alcolumbre-no-senado-incerta/",
-      "summary": "Senadores avaliam que resistência do presidente em abrir processo de impeachment podem fortalecer candidatos da oposição; vitória de Flávio é o pior cenário",
+      "title": "Fábio Porchat ironiza STF e Vorcaro em desabafo de pijama na cama",
+      "link": "https://www.poder360.com.br/poder-gente/fabio-porchat-ironiza-stf-e-vorcaro-em-desabafo-de-pijama-na-cama/",
+      "summary": "Humorista satirizou a rotina de jornalistas que precisam cobrir vazamentos frequentes e decisões conflitantes de ministros da Corte",
       "tags": [
         "STF"
       ],
@@ -459,7 +472,7 @@
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Sun, 13 Sep 2026 17:00:34 +0000"
+      "publishedRaw": "Sun, 13 Sep 2026 20:17:05 +0000"
     },
     {
       "id": "042cca8ffaef",
@@ -479,6 +492,27 @@
       ],
       "score": 82,
       "publishedRaw": "Sat, 12 Sep 2026 21:49:00 -0000"
+    },
+    {
+      "id": "73f883e4b591",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que é preciso parar com 'babaquice de fazer superávit' para governo investir",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/12/para-o-governo-investir-e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (12) que a economia brasileira precisa crescer para gerar empregos no país. \nO petista acrescentou que, para isso, o governo precisa investir e parar com o que chamou de \"babaquice de fazer superávit\".\nAs declarações foram dadas durante comício em Curitiba (PR). Lula concorre à reeleição para a Presidência da República no pleito de outubro. \n\"Pra gerar emprego, a economia tem que crescer, e para economia crescer, o governo tem que investir. E para governo investir, é preciso parar com essa babaquice de fazer superávit, fazer superávit, de ter controle fiscal. Porque a grande dívida do Brasil é a taxa de juros que nós pagamos, R$ 1,3 trilhão. O restante é investimento\", declarou o presidente.\nLula diz que 'ninguém pode ser ministro da Suprema Corte para ficar rico'\n▶️Analistas têm manifestado preocupação com a trajetória das contas públicas. Eles avaliam que os reiterados déficits fiscais dos últimos anos pressionam a taxa de juros e, consequentemente, o endividamento público. Para baixar o juro e conter a dívida, cobram um ajuste fiscal mais forte por parte do governo.\n▶️Economistas observam que reduzir a taxa básica da economia, a Selic — atualmente em 14% ao ano — por decisão sem embasamento técnico não garante juros menores na economia. Isso porque o juro de longo prazo é definido pelo mercado e reflete expectativas sobre inflação, atividade econômica e gastos públicos. \n▶️Diante da disparada da dívida pública e do aumento da desconfiança sobre as contas do governo, os investidores passaram a exigir taxas de juros mais altas para financiar o governo. Isso eleva o custo da chamada rolagem da dívida pública, feita por meio da emissão de títulos pelo Tesouro Nacional, e também o endividamento brasileiro (em um \"ciclo vicioso\").\nLula em comício em Porto Alegre\nBruno Todeschini/ Grupo RBS\nLula vinha prometendo saldo positivo\nAs declarações do presidente contradizem o plano de governo petista para o próximo mandato, protocolado no Tribunal Superior Eleitoral (TSE), que promete uma \"política fiscal responsável\" para impulsionar ainda mais os investimentos produtivos, o crescimento econômico de longo prazo a uma redução sustentada da taxa de juros. \n\"O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento  econômico, do controle do aumento do gasto primário, investindo na melhoria da  eficiência e da qualidade do gasto público, da promoção de justiça tributária e do  combate aos privilégios e às distorções\", diz o documento.\nTambém contrariam suas próprias declarações em entrevista à TV Globo, no fim de agosto, quando o presidente garantiu que o país terá superávit e disse que pretende fazer uma “revolução tecnológica” no país em um eventual próximo mandato, com investimentos em inteligência artificial, minerais críticos, terras raras e defesa.\n“Eu quero voltar a fazer com que esse país dispute com o mundo rico. Esse país vai ter que ser dono dos minerais críticos, das terras raras. [...] É esse o futuro que eu quero para o país e é por isso que eu estou pleiteando o quarto mandato. Eu já acabei com a fome duas vezes. Quando eu voltei agora, esse país estava destruído. O déficit era 2,8%. O último foi 0,8% e, agora, vai ser positivo. Nós vamos fazer superávit\", disse Lula, em agosto.\nJuros altos\nO ministro da Fazenda, Dario Durigan, que tem sido destacado para falar em nome da campanha de Lula, reiterou nas últimas semanas que o governo buscará retomar a trajetória de superávit nas contas do governo a partir de 2027, se reeleito. \nA proposta de orçamento enviada ao Congresso Nacional contempla uma projeção de saldo positivo de R$ 18,6 bilhões — após a previsão do atual mandato inteiro com as contas no vermelho. O objetivo da área econômica é possibilitar um corte da taxa de juros, atualmente em 14% ao ano. Em termos reais, está entre os maiores juros do mundo.\nAs declarações do ministro da Fazenda e a proposta de orçamento abrangem um ajuste das contas do governo em dois pontos do PIB em um eventual novo mandato de Lula, mantendo um ritmo gradual de melhora das contas públicas. \nO objetivo seria justamente tentar conter o crescimento da dívida pública, que atingiu 82% em junho, o maior patamar desde a pandemia, com um forte crescimento de mais de 10 pontos na parcial da atual gestão de Lula, para baixar a taxa de juros da economia.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Sat, 12 Sep 2026 16:10:30 -0000"
     },
     {
       "id": "95a2f4f6d5e9",
@@ -575,26 +609,6 @@
       ],
       "score": 82,
       "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
-    },
-    {
-      "id": "73f883e4b591",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que é preciso parar com 'babaquice de fazer superávit' para governo investir",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/12/para-o-governo-investir-e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (12) que a economia brasileira precisa crescer para gerar empregos no país. \nO petista acrescentou que, para isso, o governo precisa investir e parar com o que chamou de \"babaquice de fazer superávit\".\nAs declarações foram dadas durante comício em Curitiba (PR). Lula concorre à reeleição para a Presidência da República no pleito de outubro. \n\"Pra gerar emprego, a economia tem que crescer, e para economia crescer, o governo tem que investir. E para governo investir, é preciso parar com essa babaquice de fazer superávit, fazer superávit, de ter controle fiscal. Porque a grande dívida do Brasil é a taxa de juros que nós pagamos, R$ 1,3 trilhão. O restante é investimento\", declarou o presidente.\nLula diz que 'ninguém pode ser ministro da Suprema Corte para ficar rico'\n▶️Analistas têm manifestado preocupação com a trajetória das contas públicas. Eles avaliam que os reiterados déficits fiscais dos últimos anos pressionam a taxa de juros e, consequentemente, o endividamento público. Para baixar o juro e conter a dívida, cobram um ajuste fiscal mais forte por parte do governo.\n▶️Economistas observam que reduzir a taxa básica da economia, a Selic — atualmente em 14% ao ano — por decisão sem embasamento técnico não garante juros menores na economia. Isso porque o juro de longo prazo é definido pelo mercado e reflete expectativas sobre inflação, atividade econômica e gastos públicos. \n▶️Diante da disparada da dívida pública e do aumento da desconfiança sobre as contas do governo, os investidores passaram a exigir taxas de juros mais altas para financiar o governo. Isso eleva o custo da chamada rolagem da dívida pública, feita por meio da emissão de títulos pelo Tesouro Nacional, e também o endividamento brasileiro (em um \"ciclo vicioso\").\nLula em comício em Porto Alegre\nBruno Todeschini/ Grupo RBS\nLula vinha prometendo saldo positivo\nAs declarações do presidente contradizem o plano de governo petista para o próximo mandato, protocolado no Tribunal Superior Eleitoral (TSE), que promete uma \"política fiscal responsável\" para impulsionar ainda mais os investimentos produtivos, o crescimento econômico de longo prazo a uma redução sustentada da taxa de juros. \n\"O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento  econômico, do controle do aumento do gasto primário, investindo na melhoria da  eficiência e da qualidade do gasto público, da promoção de justiça tributária e do  combate aos privilégios e às distorções\", diz o documento.\nTambém contrariam suas próprias declarações em entrevista à TV Globo, no fim de agosto, quando o presidente garantiu que o país terá superávit e disse que pretende fazer uma “revolução tecnológica” no país em um eventual próximo mandato, com investimentos em inteligência artificial, minerais críticos, terras raras e defesa.\n“Eu quero voltar a fazer com que esse país dispute com o mundo rico. Esse país vai ter que ser dono dos minerais críticos, das terras raras. [...] É esse o futuro que eu quero para o país e é por isso que eu estou pleiteando o quarto mandato. Eu já acabei com a fome duas vezes. Quando eu voltei agora, esse país estava destruído. O déficit era 2,8%. O último foi 0,8% e, agora, vai ser positivo. Nós vamos fazer superávit\", disse Lula, em agosto.\nJuros altos\nO ministro da Fazenda, Dario Durigan, que tem sido destacado para falar em nome da campanha de Lula, reiterou nas últimas semanas que o governo buscará retomar a trajetória de superávit nas contas do governo a partir de 2027, se reeleito. \nA proposta de orçamento enviada ao Congresso Nacional contempla uma projeção de saldo positivo de R$ 18,6 bilhões — após a previsão do atual mandato inteiro com as contas no vermelho. O objetivo da área econômica é possibilitar um corte da taxa de juros, atualmente em 14% ao ano. Em termos reais, está entre os maiores juros do mundo.\nAs declarações do ministro da Fazenda e a proposta de orçamento abrangem um ajuste das contas do governo em dois pontos do PIB em um eventual novo mandato de Lula, mantendo um ritmo gradual de melhora das contas públicas. \nO objetivo seria justamente tentar conter o crescimento da dívida pública, que atingiu 82% em junho, o maior patamar desde a pandemia, com um forte crescimento de mais de 10 pontos na parcial da atual gestão de Lula, para baixar a taxa de juros da economia.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Sat, 12 Sep 2026 16:10:30 -0000"
     },
     {
       "id": "5a8f86209346",
