@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:41:00.622125+00:00",
+  "generated_at": "2026-09-13T06:24:08.818608+00:00",
   "items": [
     {
       "id": "9411a88534fd",
@@ -112,28 +112,6 @@
       "publishedRaw": "Sat, 12 Sep 2026 00:08:59 GMT"
     },
     {
-      "id": "ab48ee7bacb2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "summary": "O acesso ao conteúdo completo extraído do celular do banqueiro Daniel Vorcaro virou novo tema de embate entre os ministros do Supremo Tribunal Federal (STF).",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 12 Sep 2026 22:16:24 GMT"
-    },
-    {
       "id": "49f410eed31f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -146,11 +124,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 12 Sep 2026 23:23:55 -0000"
     },
     {
@@ -166,11 +145,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 12 Sep 2026 21:21:33 -0000"
     },
     {
@@ -186,11 +166,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 12 Sep 2026 19:53:05 -0000"
     },
     {
@@ -206,12 +187,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "12 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "69b64fe20754",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Imprevisibilidade mostra mal funcionamento do STF, diz Conrado Hübner",
+      "link": "https://www.cnnbrasil.com.br/politica/imprevisibilidade-mostra-mal-funcionamento-do-stf-diz-conrado-hubner/",
+      "summary": "Ao WW Especial, professor de Direito Constitucional da USP afirma que politização do sistema judiciário leva a decisões casuísticas",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sun, 13 Sep 2026 06:00:11 +0000"
     },
     {
       "id": "33bf8af9e6d8",
@@ -226,11 +229,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 12 Sep 2026 20:00:00 +0000"
     },
     {
@@ -246,12 +250,36 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 12 Sep 2026 14:25:31 +0000"
+    },
+    {
+      "id": "ab48ee7bacb2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "summary": "O acesso ao conteúdo completo extraído do celular do banqueiro Daniel Vorcaro virou novo tema de embate entre os ministros do Supremo Tribunal Federal (STF).",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 12 Sep 2026 22:16:24 GMT"
     },
     {
       "id": "f1181e2d37e7",
@@ -265,12 +293,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
     },
     {
@@ -286,11 +315,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sun, 13 Sep 2026 01:22:16 +0000"
     },
     {
@@ -306,11 +336,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sun, 13 Sep 2026 00:49:23 +0000"
     },
     {
@@ -327,11 +358,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Fri, 11 Sep 2026 23:32:04 +0000"
     },
     {
@@ -433,25 +465,6 @@
       ],
       "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 00:57:30 +0000"
-    },
-    {
-      "id": "5a8f86209346",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: qual é a ordem de votação? Veja como montar sua colinha e treinar em uma urna virtual",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/eleicoes-2026-ordem-votacao-colinha-eleitoral-simulador-urna.ghtml",
-      "summary": "Simulador da Justiça Eleitoral permite escolher a eleição e o turno para treinar a votação\nReprodução/TSE\nA 21 dias do primeiro turno das eleições de 2026, já dá para preparar a colinha: em 4 de outubro, o eleitor fará seis escolhas na urna eletrônica, começando por deputado federal e terminando com presidente da República. A sequência inclui dois votos para senador, um após o outro.\nPara não esquecer os números, vale preparar uma colinha de papel com os candidatos na ordem de votação. Antes da eleição, também é possível praticar no simulador da Justiça Eleitoral, que reproduz as etapas da urna com candidaturas fictícias.\nA ferramenta permite escolher o cenário da eleição, montar uma colinha para o treinamento, selecionar recursos de acessibilidade e simular os votos (veja o passo a passo abaixo).\nACESSE o simulador de votação da Justiça Eleitoral\nInfográfico mostra a ordem de votação nas eleições de 2026\nEquipe de arte/g1\nQual é a ordem de votação em 2026?\nNo primeiro turno, a sequência será:\nDeputado federal: quatro dígitos;\nDeputado estadual ou distrital, no Distrito Federal: cinco dígitos;\nSenador, primeira vaga: três dígitos;\nSenador, segunda vaga: três dígitos;\nGovernador: dois dígitos;\nPresidente da República: dois dígitos.\nA cada etapa, confira os dados que aparecem na tela antes de apertar “Confirma” e passar para a próxima escolha.\nNo segundo turno, a sequência será:\nGovernador: dois dígitos;\nPresidente da República: dois dígitos.\nO segundo turno está marcado para 25 de outubro e só ocorrerá para os cargos cuja disputa não for definida no primeiro. Se houver apenas uma disputa pendente, o eleitor votará somente para aquele cargo.\nImagem urna eletrônica\nReprodução/TV Globo\nPor que são dois votos para senador?\nEm 2026, estarão em disputa duas das três cadeiras do Senado de cada estado e do Distrito Federal, totalizando 54 vagas. Por isso, a urna apresentará duas etapas consecutivas para o cargo.\nPara que os dois votos sejam válidos para candidatos, é necessário escolher nomes diferentes. Se o eleitor repetir e confirmar o mesmo candidato nas duas opções, o segundo voto será considerado nulo.\nGuia do eleitor: saiba como votar para as duas vagas para o Senado e evitar erros\nComo montar a colinha eleitoral?\nModelo da Justiça Eleitoral de 'colinha', para que o eleitor tenha os números e nomes dos candidatos em que quer votar\nReprodução/TV Globo\nAnote os números dos candidatos em uma folha de papel, seguindo a sequência dos cargos na urna. Lembre-se de reservar dois espaços para o Senado, um para cada candidato escolhido.\nA Justiça Eleitoral disponibiliza um modelo com os campos para preencher:\nBaixe a colinha eleitoral de 2026 para imprimir.\nAtenção: a colinha para o dia da eleição deve ser de papel. O celular não pode ser usado na cabine de votação e deve ficar no local indicado pelos mesários enquanto o eleitor vota.\nComo usar o simulador da Justiça Eleitoral?\nO treinamento é dividido em quatro etapas. Veja como funciona:\n1. Escolha a eleição e o turno\nAo acessar o simulador, selecione “Eleições Gerais — 1º turno” para praticar a sequência de votos de outubro.\nHá uma opção específica para o Distrito Federal, onde a escolha é para deputado distrital. A página também oferece outros cenários, como segundo turno, votação no exterior e eleições municipais.\n2. Conheça os candidatos fictícios e monte a colinha\nNa etapa seguinte, o sistema apresenta os candidatos disponíveis para o treinamento. Clique em um candidato ou digite o número para incluí-lo na colinha exibida ao lado da tela.\nTambém é possível usar o botão “Gerar exemplo” para preencher a lista automaticamente.\nOs nomes e números dessa etapa são fictícios e servem apenas para a simulação. Para votar no dia da eleição, prepare outra colinha com os números dos candidatos reais que você escolheu.\n3. Selecione os recursos de acessibilidade\nO usuário pode escolher se deseja ouvir a voz da urna durante a simulação. O recurso informa o cargo em votação, os números digitados e o nome da candidatura escolhida.\n4. Simule a votação\nNa última etapa, aparecem a urna virtual e a colinha montada durante o treinamento. Digite os números e confira os dados antes de confirmar cada voto.\nUma barra na parte superior da tela mostra a sequência dos cargos, ajudando a acompanhar o andamento da votação.\nA ferramenta também permite praticar o uso das teclas “Corrige” e “Branco”. O treinamento pode ser repetido quantas vezes o usuário quiser.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Sun, 13 Sep 2026 03:00:02 -0000"
     },
     {
       "id": "042cca8ffaef",
@@ -568,43 +581,6 @@
       "publishedRaw": "Sat, 12 Sep 2026 15:16:35 +0000"
     },
     {
-      "id": "4f01ef49d17b",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Suécia vai às urnas para eleições acirradas com foco em discurso anti-imigração e empobrecimento da população",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/13/suecia-vai-as-urnas-para-eleicoes-acirradas-com-foco-em-discurso-anti-imigracao-e-empobrecimento-da-populacao.ghtml",
-      "summary": "Homem caminha diante de cartaz do Partido Democrata da Suécia, em 11 de setembro de 2026.\nDenis Balibouse/ Reuters\nApós uma campanha dominada por uma população mais empobrecida e em um contexto de segurança cada vez mais tenso, os suecos comparecerão às urnas neste domingo (13) para eleições gerais que prometem ser fortemente acirradas. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n➡️ Durante vários meses, tudo parecia decidido: as pesquisas apontavam a ampla vantagem do bloco de oposição do centro e da esquerda, liderada pelos social-democratas de Magdalena Andersson. Nas últimas semanas, no entanto, a coalizão de centro-direita do primeiro-ministro, Ulf Kristersson, reduziu a diferença. Segundo analistas, o resultado da votação pode ser decidido por uma margem estreita.\nKristersson é apoiado pelo partido anti-imigração Democratas da Suécia (SD). \n\"Ainda há um pouco de suspense\", destacou Jan Teorell, cientista político da Universidade de Estocolmo. As três pesquisas mais recentes mostram o bloco de esquerda e de centro com quase 50% das intenções de voto, contra 47% para as quatro legendas de direita.\nDesigualdades crescentes\nEleitor deposita cédula em urna em votação antecipada em Estocolmo, na Suécia, em 11 de setembro de 2026.\nDenis Balibouse/ Reuters\nO bloco de direita prometeu continuar com a política de combate à criminalidade, ao mesmo tempo em que endurece as medidas na área de imigração.\nMas o lema, que permitiu sua chegada ao poder em 2022, enfrenta dificuldades atualmente para gerar o mesmo entusiasmo, segundo Teorell.\nKristersson \"chegou ao poder com um programa focado, em particular, no combate à criminalidade e na redução dos preços da energia. A criminalidade e os preços da gasolina diminuíram e, portanto, estes temas já não estão entre as principais preocupações dos eleitores\", explicou o cientista político.\nMas, em um país em que as desigualdades não param de crescer e o poder de compra da população diminiu, a esquerda anunciou a intenção de aumentar os impostos sobre os bancos e sobre as rendas mais elevadas para investir em saúde e educação, além de uma proposta de apoio financeiro às famílias. \n\"Acho que a Suécia mudou e que está muito mais dividida. É necessário melhorar o sistema de saúde e a proteção social\", declarou à agência de notícias AFP Hanna Justine Hallbom, de 46 anos, que trabalha na indústria da moda.\nPara a líder dos social-democratas, o desafio é determinar \"que tipo de país a Suécia deveria ser\".\nA escolha é entre \"uma Suécia onde as pessoas têm trabalho e onde podemos melhorar nosso modelo de proteção social e um país completamente diferente, com um governo dominado pelos Democratas da Suécia, um partido de extrema direita fundado por neonazistas\", declarou Magdalena Andersson à AFP durante um comício.\nEsta legenda superou, em 2022, o partido de Kristersson para se tornar a segunda força política do país, com quase 20% dos votos.\nExtrema direita no governo?\nAgora no g1\nEm caso de uma nova vitória do bloco de direita, os Democratas da Suécia, anti-imigração, esperam entrar no governo pela primeira vez em sua história e não apenas apoiá-lo, como fizeram durante quatro anos.\nO partido exige ministérios desta vez. O primeiro-ministro em fim de mandato prometeu alguns, em particular a pasta da Imigração.\nAlguns dias antes das eleições de 13 de setembro, a fundação Expo, que documenta a evolução da extrema direita sueca, revelou que uma funcionária dos SD no Parlamento compartilhou propaganda pró-Rússia diversas vezes.\nUlf Kristersson, que sobreviveu a uma série de escândalos durante seu mandato, reagiu de maneira enérgica. \n\"Estamos em plena guerra na Europa\", declarou ao jornal Aftonbladet. \"Não podemos ter no Parlamento pessoas que divulgam discursos pró-Rússia\".",
-      "tags": [
-        "eleições",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Sun, 13 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "dbe00b78412d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Equador vive crise eleitoral sob Noboa com partidos suspensos e eleições regionais antecipadas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/equador-vive-crise-eleitoral-sob-noboa-com-partidos-suspensos-e-eleicoes-regionais-antecipadas.shtml",
-      "summary": "Luisa González já tentou três caminhos para disputar o governo de Manabí nas eleições regionais do Equador, em 29 de novembro. Ex-candidata à Presidência e uma das principais lideranças da oposição ao presidente Daniel Noboa, pretendia concorrer pela Revolución Ciudadana (RC), partido do ex-presidente Rafael Correa.\nLeia mais (09/12/2026 - 23h00)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "12 Sep 2026 23:00:00 -0300"
-    },
-    {
       "id": "4604b5cc53bb",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -621,6 +597,42 @@
       ],
       "score": 78,
       "publishedRaw": "Fri, 11 Sep 2026 09:32:31 GMT"
+    },
+    {
+      "id": "5a8f86209346",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: qual é a ordem de votação? Veja como montar sua colinha e treinar em uma urna virtual",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/13/eleicoes-2026-ordem-votacao-colinha-eleitoral-simulador-urna.ghtml",
+      "summary": "Simulador da Justiça Eleitoral permite escolher a eleição e o turno para treinar a votação\nReprodução/TSE\nA 21 dias do primeiro turno das eleições de 2026, já dá para preparar a colinha: em 4 de outubro, o eleitor fará seis escolhas na urna eletrônica, começando por deputado federal e terminando com presidente da República. A sequência inclui dois votos para senador, um após o outro.\nPara não esquecer os números, vale preparar uma colinha de papel com os candidatos na ordem de votação. Antes da eleição, também é possível praticar no simulador da Justiça Eleitoral, que reproduz as etapas da urna com candidaturas fictícias.\nA ferramenta permite escolher o cenário da eleição, montar uma colinha para o treinamento, selecionar recursos de acessibilidade e simular os votos (veja o passo a passo abaixo).\nACESSE o simulador de votação da Justiça Eleitoral\nInfográfico mostra a ordem de votação nas eleições de 2026\nEquipe de arte/g1\nQual é a ordem de votação em 2026?\nNo primeiro turno, a sequência será:\nDeputado federal: quatro dígitos;\nDeputado estadual ou distrital, no Distrito Federal: cinco dígitos;\nSenador, primeira vaga: três dígitos;\nSenador, segunda vaga: três dígitos;\nGovernador: dois dígitos;\nPresidente da República: dois dígitos.\nA cada etapa, confira os dados que aparecem na tela antes de apertar “Confirma” e passar para a próxima escolha.\nNo segundo turno, a sequência será:\nGovernador: dois dígitos;\nPresidente da República: dois dígitos.\nO segundo turno está marcado para 25 de outubro e só ocorrerá para os cargos cuja disputa não for definida no primeiro. Se houver apenas uma disputa pendente, o eleitor votará somente para aquele cargo.\nImagem urna eletrônica\nReprodução/TV Globo\nPor que são dois votos para senador?\nEm 2026, estarão em disputa duas das três cadeiras do Senado de cada estado e do Distrito Federal, totalizando 54 vagas. Por isso, a urna apresentará duas etapas consecutivas para o cargo.\nPara que os dois votos sejam válidos para candidatos, é necessário escolher nomes diferentes. Se o eleitor repetir e confirmar o mesmo candidato nas duas opções, o segundo voto será considerado nulo.\nGuia do eleitor: saiba como votar para as duas vagas para o Senado e evitar erros\nComo montar a colinha eleitoral?\nModelo da Justiça Eleitoral de 'colinha', para que o eleitor tenha os números e nomes dos candidatos em que quer votar\nReprodução/TV Globo\nAnote os números dos candidatos em uma folha de papel, seguindo a sequência dos cargos na urna. Lembre-se de reservar dois espaços para o Senado, um para cada candidato escolhido.\nA Justiça Eleitoral disponibiliza um modelo com os campos para preencher:\nBaixe a colinha eleitoral de 2026 para imprimir.\nAtenção: a colinha para o dia da eleição deve ser de papel. O celular não pode ser usado na cabine de votação e deve ficar no local indicado pelos mesários enquanto o eleitor vota.\nComo usar o simulador da Justiça Eleitoral?\nO treinamento é dividido em quatro etapas. Veja como funciona:\n1. Escolha a eleição e o turno\nAo acessar o simulador, selecione “Eleições Gerais — 1º turno” para praticar a sequência de votos de outubro.\nHá uma opção específica para o Distrito Federal, onde a escolha é para deputado distrital. A página também oferece outros cenários, como segundo turno, votação no exterior e eleições municipais.\n2. Conheça os candidatos fictícios e monte a colinha\nNa etapa seguinte, o sistema apresenta os candidatos disponíveis para o treinamento. Clique em um candidato ou digite o número para incluí-lo na colinha exibida ao lado da tela.\nTambém é possível usar o botão “Gerar exemplo” para preencher a lista automaticamente.\nOs nomes e números dessa etapa são fictícios e servem apenas para a simulação. Para votar no dia da eleição, prepare outra colinha com os números dos candidatos reais que você escolheu.\n3. Selecione os recursos de acessibilidade\nO usuário pode escolher se deseja ouvir a voz da urna durante a simulação. O recurso informa o cargo em votação, os números digitados e o nome da candidatura escolhida.\n4. Simule a votação\nNa última etapa, aparecem a urna virtual e a colinha montada durante o treinamento. Digite os números e confira os dados antes de confirmar cada voto.\nUma barra na parte superior da tela mostra a sequência dos cargos, ajudando a acompanhar o andamento da votação.\nA ferramenta também permite praticar o uso das teclas “Corrige” e “Branco”. O treinamento pode ser repetido quantas vezes o usuário quiser.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 77,
+      "publishedRaw": "Sun, 13 Sep 2026 03:00:02 -0000"
+    },
+    {
+      "id": "4f01ef49d17b",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Suécia vai às urnas para eleições acirradas com foco em discurso anti-imigração e empobrecimento da população",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/13/suecia-vai-as-urnas-para-eleicoes-acirradas-com-foco-em-discurso-anti-imigracao-e-empobrecimento-da-populacao.ghtml",
+      "summary": "Homem caminha diante de cartaz do Partido Democrata da Suécia, em 11 de setembro de 2026.\nDenis Balibouse/ Reuters\nApós uma campanha dominada por uma população mais empobrecida e em um contexto de segurança cada vez mais tenso, os suecos comparecerão às urnas neste domingo (13) para eleições gerais que prometem ser fortemente acirradas. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n➡️ Durante vários meses, tudo parecia decidido: as pesquisas apontavam a ampla vantagem do bloco de oposição do centro e da esquerda, liderada pelos social-democratas de Magdalena Andersson. Nas últimas semanas, no entanto, a coalizão de centro-direita do primeiro-ministro, Ulf Kristersson, reduziu a diferença. Segundo analistas, o resultado da votação pode ser decidido por uma margem estreita.\nKristersson é apoiado pelo partido anti-imigração Democratas da Suécia (SD). \n\"Ainda há um pouco de suspense\", destacou Jan Teorell, cientista político da Universidade de Estocolmo. As três pesquisas mais recentes mostram o bloco de esquerda e de centro com quase 50% das intenções de voto, contra 47% para as quatro legendas de direita.\nDesigualdades crescentes\nEleitor deposita cédula em urna em votação antecipada em Estocolmo, na Suécia, em 11 de setembro de 2026.\nDenis Balibouse/ Reuters\nO bloco de direita prometeu continuar com a política de combate à criminalidade, ao mesmo tempo em que endurece as medidas na área de imigração.\nMas o lema, que permitiu sua chegada ao poder em 2022, enfrenta dificuldades atualmente para gerar o mesmo entusiasmo, segundo Teorell.\nKristersson \"chegou ao poder com um programa focado, em particular, no combate à criminalidade e na redução dos preços da energia. A criminalidade e os preços da gasolina diminuíram e, portanto, estes temas já não estão entre as principais preocupações dos eleitores\", explicou o cientista político.\nMas, em um país em que as desigualdades não param de crescer e o poder de compra da população diminiu, a esquerda anunciou a intenção de aumentar os impostos sobre os bancos e sobre as rendas mais elevadas para investir em saúde e educação, além de uma proposta de apoio financeiro às famílias. \n\"Acho que a Suécia mudou e que está muito mais dividida. É necessário melhorar o sistema de saúde e a proteção social\", declarou à agência de notícias AFP Hanna Justine Hallbom, de 46 anos, que trabalha na indústria da moda.\nPara a líder dos social-democratas, o desafio é determinar \"que tipo de país a Suécia deveria ser\".\nA escolha é entre \"uma Suécia onde as pessoas têm trabalho e onde podemos melhorar nosso modelo de proteção social e um país completamente diferente, com um governo dominado pelos Democratas da Suécia, um partido de extrema direita fundado por neonazistas\", declarou Magdalena Andersson à AFP durante um comício.\nEsta legenda superou, em 2022, o partido de Kristersson para se tornar a segunda força política do país, com quase 20% dos votos.\nExtrema direita no governo?\nAgora no g1\nEm caso de uma nova vitória do bloco de direita, os Democratas da Suécia, anti-imigração, esperam entrar no governo pela primeira vez em sua história e não apenas apoiá-lo, como fizeram durante quatro anos.\nO partido exige ministérios desta vez. O primeiro-ministro em fim de mandato prometeu alguns, em particular a pasta da Imigração.\nAlguns dias antes das eleições de 13 de setembro, a fundação Expo, que documenta a evolução da extrema direita sueca, revelou que uma funcionária dos SD no Parlamento compartilhou propaganda pró-Rússia diversas vezes.\nUlf Kristersson, que sobreviveu a uma série de escândalos durante seu mandato, reagiu de maneira enérgica. \n\"Estamos em plena guerra na Europa\", declarou ao jornal Aftonbladet. \"Não podemos ter no Parlamento pessoas que divulgam discursos pró-Rússia\".",
+      "tags": [
+        "eleições",
+        "urnas"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 73,
+      "publishedRaw": "Sun, 13 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "bf24773bb5ed",
