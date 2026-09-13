@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:13:50.164354+00:00",
+  "generated_at": "2026-09-13T01:42:33.531672+00:00",
   "items": [
     {
       "id": "9411a88534fd",
@@ -324,26 +324,6 @@
       "publishedRaw": "Sat, 12 Sep 2026 14:25:31 +0000"
     },
     {
-      "id": "35df73f910f3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisa vai medir confiança do brasileiro no STF e na Polícia Federal",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pesquisa-vai-medir-confianca-do-brasileiro-no-stf-e-na-policia-federal/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 12 Sep 2026 15:00:00 +0000"
-    },
-    {
       "id": "f1181e2d37e7",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -364,6 +344,26 @@
       "publishedRaw": "Fri, 11 Sep 2026 15:10:58 GMT"
     },
     {
+      "id": "ea059fc5959c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo do DF pede ao STF devolução de R$ 12 bi do Master ao BRB",
+      "link": "https://www.poder360.com.br/poder-justica/governo-do-df-pede-ao-stf-devolucao-de-r-12-bi-do-master-ao-brb/",
+      "summary": "Pedido é para rastreamento e bloqueio de recursos usados na compra de carteiras investigadas por fraude",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Sun, 13 Sep 2026 01:22:16 +0000"
+    },
+    {
       "id": "8a4c7b47a1bd",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -382,26 +382,6 @@
       ],
       "score": 89,
       "publishedRaw": "Sun, 13 Sep 2026 00:49:23 +0000"
-    },
-    {
-      "id": "9a0fed10fb07",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino diz ter dificuldades para dormir com “barulho” no STF",
-      "link": "https://www.poder360.com.br/poder-justica/dino-diz-ter-dificuldades-para-dormir-com-barulho-no-stf/",
-      "summary": "Ministro disse durante palestra no Maranhão que “todo mundo sabe as dificuldades” vividas pela Corte",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 12 Sep 2026 22:00:01 +0000"
     },
     {
       "id": "042cca8ffaef",
@@ -723,6 +703,22 @@
       "crossOutlets": [],
       "score": 71,
       "publishedRaw": "Sat, 12 Sep 2026 20:22:12 -0000"
+    },
+    {
+      "id": "21b10ae7afd8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Advogado de Marçal alega “injustiça” por TSE barrar candidatura",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/advogado-de-marcal-alega-injustica-por-tse-barrar-candidatura/",
+      "summary": "­Tassio Renam diz que filiação retroativa ao PRTB foi determinada pela Justiça; Pablo Marçal está inelegível até 2032",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Sun, 13 Sep 2026 01:39:02 +0000"
     },
     {
       "id": "855c4d87cd06",
