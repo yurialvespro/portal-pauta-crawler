@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:14:20.346906+00:00",
+  "generated_at": "2026-09-14T23:41:06.439122+00:00",
   "items": [
     {
       "id": "abba2515c0c5",
@@ -19,8 +19,8 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 95,
       "publishedRaw": "14 Sep 2026 20:06:00 -0300"
@@ -65,11 +65,34 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Mon, 14 Sep 2026 22:52:06 +0000"
+    },
+    {
+      "id": "b4863e060f53",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Oposição articula regra para destravar impeachment de ministros do STF",
+      "link": "https://www.poder360.com.br/poder-congresso/oposicao-articula-regra-para-destravar-impeachment-de-ministros-do-stf/",
+      "summary": "Proposta ainda em elaboração defende que pedido passe a tramitar se tiver 49 assinaturas, mas não traz detalhes",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Mon, 14 Sep 2026 23:27:31 +0000"
     },
     {
       "id": "70a5035b549a",
@@ -88,7 +111,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 21:17:20 -0000"
@@ -110,7 +133,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 20:53:32 -0000"
@@ -132,7 +155,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 20:53:05 -0000"
@@ -154,7 +177,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 19:28:58 -0000"
@@ -175,31 +198,55 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
     },
     {
-      "id": "b784d9c7c886",
-      "source": "G1 - Mundo",
+      "id": "86163cc243c2",
+      "source": "Estadão",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
-      "summary": "Flávio Bolsonaro e Lula\nGetty Images via BBC\nUma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisivo na eleição presidencial brasileira do próximo mês.\nO jornal britânico descreve a crise como uma \"disputa acirrada\" entre os ministros Alexandre de Moraes e André Mendonça, que está \"lançando uma sombra sobre a disputa\" entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).\nO Agregador de Pesquisa da BBC News Brasil sugere que Lula e Flávio Bolsonaro estão empatados no segundo turno.\n\"Embora Lula não tenha sido acusado no caso Banco Master, o episódio atinge um ponto sensível do veterano líder de esquerda, que no passado foi preso por corrupção em condenações posteriormente anuladas\", afirma o jornal.\n\"Flávio Bolsonaro tem tentado tirar proveito da situação ao renovar as exigências pela destituição de Moraes, que condenou seu pai. 'Um voto em Lula é um voto em Moraes', disse ele a apoiadores na semana passada.\"\nO jornal destaca que Flávio Bolsonaro foi citado no caso do Banco Master, que é tema de inquérito no STF, após revelações em maio de que ele pediu dinheiro ao banqueiro Daniel Vorcaro para a produção do filme Dark Horse — algo que o senador disse não ser ilegal.\n\"Apesar dessas revelações, [Flávio] Bolsonaro reduziu nas últimas semanas a diferença nas pesquisas de opinião, chegando a um empate técnico com Lula, que busca um quarto mandato não consecutivo.\"\nDatafolha: qual o impacto eleitoral da crise no STF?\nO jornal cita analistas ao dizer que a crise no STF é potencialmente prejudicial a Lula na disputa eleitoral. Um analista afirma que existe uma percepção em parte do eleitorado brasileiro de que Alexandre de Moraes está de alguma forma alinhado ao lado do governo.\n\"O episódio manchou a credibilidade de uma instituição aclamada internacionalmente nos últimos anos por defender o Brasil contra uma tentativa de golpe militar de Jair Bolsonaro, após sua derrota eleitoral para Lula em 2022\", diz o jornal.\n\"Isso também revitalizou a direita brasileira, que há muito acusa Moraes de perseguir injustamente conservadores e restringir a liberdade de expressão.\"\n\"O episódio levou o tribunal à beira de um colapso institucional e alimentou apelos por uma reforma do Judiciário.\"\nLEIA TAMBÉM:\nO Assunto: as veias abertas do STF e os embates sobre o fim do sigilo no Caso Master\nSTF se tornou ameaça à democracia no Brasil, diz revista 'The Economist'",
+      "category": "Política",
+      "title": "Mendonça vai antecipar voto e articula para Fachin e Fux votarem sobre Moraes mesmo com vista no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-vai-antecipar-voto-e-articula-para-fachin-e-fux-votarem-sobre-moraes-mesmo-com-vista-no-stf/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
+      "publishedRaw": "Mon, 14 Sep 2026 12:36:25 +0000"
+    },
+    {
+      "id": "b35e9dd0212b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Da revelação das mensagens de Vorcaro a Moraes aos 30 ofícios: veja a guerra de decisões no STF",
+      "link": "https://www.estadao.com.br/politica/da-revelacao-das-mensagens-de-vorcaro-a-moraes-aos-30-oficios-veja-a-guerra-de-decisoes-no-stf-npr/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 21:37:12 +0000"
     },
     {
       "id": "63ccbb595f08",
@@ -217,8 +264,8 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 20:19:19 +0000"
@@ -239,33 +286,11 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 18:15:00 +0000"
-    },
-    {
-      "id": "b35e9dd0212b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Da revelação das mensagens de Vorcaro a Moraes aos 30 ofícios: veja a guerra de decisões no STF",
-      "link": "https://www.estadao.com.br/politica/da-revelacao-das-mensagens-de-vorcaro-a-moraes-aos-30-oficios-veja-a-guerra-de-decisoes-no-stf-npr/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 21:37:12 +0000"
     },
     {
       "id": "250b3074b3e1",
@@ -283,8 +308,8 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 19:47:15 +0000"
@@ -305,8 +330,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 22:22:49 GMT"
@@ -327,8 +352,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 18:36:24 GMT"
@@ -349,8 +374,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 18:46:55 GMT"
@@ -396,106 +421,6 @@
       "publishedRaw": "Mon, 14 Sep 2026 14:39:15 +0000"
     },
     {
-      "id": "c061d07e8792",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula sanciona lei que destina crédito de até R$ 30 bilhões para taxistas e motoristas de aplicativo",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/14/lula-sanciona-lei-que-destina-credito-de-ate-r-30-bilhoes-para-taxistas-e-motoristas-de-aplicativo.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta segunda-feira (14) um projeto de lei de conversão que destina até R$ 30 bilhões em linhas de crédito disponíveis para motoristas de aplicativo, de transporte escolar, taxistas e cooperativas de taxistas para aquisição de veículos novos que atendam a critérios de sustentabilidade.\nLula editou uma Medida Provisória (MP) em junho deste ano como uma continuidade do programa Move Brasil, que não teve todos os seus recursos utilizados no crédito colocado à disposição.  \nO texto foi aprovado pelo Congresso Nacional e perderia a validade se não fosse aprovado em definitivo. O prazo de validade da MP terminava em 15 de setembro. No final de agosto, a Câmara aprovou a MP, mas fez modificações no texto.\nDevido às mudanças, a MP foi transformada em projeto de lei de conversão. No dia seguinte, o Senado aprovou o projeto, que seguiu para a sanção da Presidência.\nAgora no g1\nCom a sanção, a lei passa a prever:\ncontinuidade e ampliação do programa de renovação de frota que oferece condições especiais de financiamento para motoristas e entregadores;\nsistema de amortização variável (prestação balão);\nseis meses de cadastro ativo na plataforma para motoristas e entregadores (prazo foi reduzido, antes eram 12 meses);\ncarros de até R$ 200 mil movidos a etanol, flex, elétricos e híbridos;\nparcelamento em até 84 vezes;\ninclusão de veículos utilitários; e\nfinanciamento de adaptações veiculares destinadas a pessoas com deficiência.\nPara todos os casos (carros e motos), os juros são de 12,6% ao ano para homens e 11,5% ao ano para mulheres, já incluídos spread e taxas bancárias. As demais condições variam com a modalidade do programa.\nQuem pode participar?\nMotoristas de app: com cadastro há pelo menos 6 meses, contados da data do pedido de habilitação, e que tenham realizado ao menos 100 corridas nesse período na mesma plataforma\nTaxistas: com licenças e registros ativos junto aos órgãos de trânsito e com regularidade fiscal, bem como motoristas de cooperativas\nComo acessar a linha de crédito\nAs linhas serão fornecidas pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), o Banco do Brasil S.A. e a Caixa Econômica Federal ou instituições habilitadas por eles.\nO projeto autoriza a utilização de recursos do Fundo de Garantia de Operações (FGO) para a cobertura das operações nas linhas de financiamento.\nAs instituições financeiras poderão contar com a garantia a ser prestada pelo FGO de até 100% do valor de cada operação garantida em até, no máximo 50% da carteira garantida de cada instituição financeira.\nOs Ministérios da Fazenda e do Desenvolvimento, Indústria, Comércio e Serviços definirão os critérios de elegibilidade para as aquisições, levando em consideração \"critérios de sustentabilidade ambiental, social ou econômica\".\nO acesso à linha de crédito fica limitado a um veículo por motorista de transporte privado ou taxista e, no caso das cooperativas, a um veículo por cooperado. O texto também permite o financiamento do seguro do veículo e do seguro prestamista, desde que sejam contratados com o bem financiado.\nAlém disso, o texto permite o uso da linha de crédito para custear a adaptação de veículos para motoristas com deficiência e para a adaptação de táxis ao transporte de passageiros em cadeiras de rodas.\nA proposta também trata do financiamento de itens de segurança para mulheres motoristas. Nesse sentido, atribui ao Conselho Monetário Nacional (CMN) a competência para estabelecer taxas, prazos e carências com condições diferenciadas para mulheres.\nPeças de carro estão em falta nas fábricas\nReprodução/Bom Dia Brasil",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 19:27:42 -0000"
-    },
-    {
-      "id": "3a9105ac4ce6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio busca grandes líderes e Lula vai atrás de igrejas menores para atrair voto de evangélicos",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-busca-grandes-lideres-e-lula-vai-atras-de-igrejas-menores-para-atrair-voto-de-evangelicos/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 18:00:00 +0000"
-    },
-    {
-      "id": "837081bc8e4a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula critica quem diz que governo “gasta muito” em políticas públicas",
-      "link": "https://www.poder360.com.br/poder-governo/lula-critica-quem-diz-que-governo-gasta-muito-em-politicas-publicas/",
-      "summary": "Presidente afirma que Estado deve ampliar oportunidades e cita financiamento de veículos como exemplo de ação necessária",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 22:21:42 +0000"
-    },
-    {
-      "id": "b689974cb1a0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula sanciona Redata na 3ª feira e PL dos minerais críticos na 4ª",
-      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-redata-na-3a-feira-e-pl-dos-minerais-criticos-na-4a/",
-      "summary": "Presidente comanda cerimônias no Planalto para oficializar projetos aprovados durante esforço concentrado no Senado",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 21:57:50 +0000"
-    },
-    {
-      "id": "d0fd41e76598",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula recebeu “vítimas das bets” no Alvorada: “É doença, não é jogo”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-recebeu-vitimas-das-bets-no-alvorada-e-doenca-nao-e-jogo/",
-      "summary": "Presidente tem se posicionado contra as apostas on-line; afirmou que anunciará mais medidas restritivas ao setor “logo, logo”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 21:47:29 +0000"
-    },
-    {
       "id": "66f85663a909",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -515,6 +440,82 @@
       "publishedRaw": "Mon, 14 Sep 2026 19:24:26 -0000"
     },
     {
+      "id": "c061d07e8792",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sanciona lei que destina crédito de até R$ 30 bilhões para taxistas e motoristas de aplicativo",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/14/lula-sanciona-lei-que-destina-credito-de-ate-r-30-bilhoes-para-taxistas-e-motoristas-de-aplicativo.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou nesta segunda-feira (14) um projeto de lei de conversão que destina até R$ 30 bilhões em linhas de crédito disponíveis para motoristas de aplicativo, de transporte escolar, taxistas e cooperativas de taxistas para aquisição de veículos novos que atendam a critérios de sustentabilidade.\nLula editou uma Medida Provisória (MP) em junho deste ano como uma continuidade do programa Move Brasil, que não teve todos os seus recursos utilizados no crédito colocado à disposição.  \nO texto foi aprovado pelo Congresso Nacional e perderia a validade se não fosse aprovado em definitivo. O prazo de validade da MP terminava em 15 de setembro. No final de agosto, a Câmara aprovou a MP, mas fez modificações no texto.\nDevido às mudanças, a MP foi transformada em projeto de lei de conversão. No dia seguinte, o Senado aprovou o projeto, que seguiu para a sanção da Presidência.\nAgora no g1\nCom a sanção, a lei passa a prever:\ncontinuidade e ampliação do programa de renovação de frota que oferece condições especiais de financiamento para motoristas e entregadores;\nsistema de amortização variável (prestação balão);\nseis meses de cadastro ativo na plataforma para motoristas e entregadores (prazo foi reduzido, antes eram 12 meses);\ncarros de até R$ 200 mil movidos a etanol, flex, elétricos e híbridos;\nparcelamento em até 84 vezes;\ninclusão de veículos utilitários; e\nfinanciamento de adaptações veiculares destinadas a pessoas com deficiência.\nPara todos os casos (carros e motos), os juros são de 12,6% ao ano para homens e 11,5% ao ano para mulheres, já incluídos spread e taxas bancárias. As demais condições variam com a modalidade do programa.\nQuem pode participar?\nMotoristas de app: com cadastro há pelo menos 6 meses, contados da data do pedido de habilitação, e que tenham realizado ao menos 100 corridas nesse período na mesma plataforma\nTaxistas: com licenças e registros ativos junto aos órgãos de trânsito e com regularidade fiscal, bem como motoristas de cooperativas\nComo acessar a linha de crédito\nAs linhas serão fornecidas pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), o Banco do Brasil S.A. e a Caixa Econômica Federal ou instituições habilitadas por eles.\nO projeto autoriza a utilização de recursos do Fundo de Garantia de Operações (FGO) para a cobertura das operações nas linhas de financiamento.\nAs instituições financeiras poderão contar com a garantia a ser prestada pelo FGO de até 100% do valor de cada operação garantida em até, no máximo 50% da carteira garantida de cada instituição financeira.\nOs Ministérios da Fazenda e do Desenvolvimento, Indústria, Comércio e Serviços definirão os critérios de elegibilidade para as aquisições, levando em consideração \"critérios de sustentabilidade ambiental, social ou econômica\".\nO acesso à linha de crédito fica limitado a um veículo por motorista de transporte privado ou taxista e, no caso das cooperativas, a um veículo por cooperado. O texto também permite o financiamento do seguro do veículo e do seguro prestamista, desde que sejam contratados com o bem financiado.\nAlém disso, o texto permite o uso da linha de crédito para custear a adaptação de veículos para motoristas com deficiência e para a adaptação de táxis ao transporte de passageiros em cadeiras de rodas.\nA proposta também trata do financiamento de itens de segurança para mulheres motoristas. Nesse sentido, atribui ao Conselho Monetário Nacional (CMN) a competência para estabelecer taxas, prazos e carências com condições diferenciadas para mulheres.\nPeças de carro estão em falta nas fábricas\nReprodução/Bom Dia Brasil",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 14 Sep 2026 19:27:42 -0000"
+    },
+    {
+      "id": "a48ee0d378ad",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros recebem íntegra do que foi encontrado no celular de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/ministros-recebem-integra-do-que-foi-encontrado-no-celular-de-vorcaro/",
+      "summary": "PF deu todos os dados brutos para análise dos magistrados do Supremo antes do julgamento sobre caso Vorcaro-Moraes",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 14 Sep 2026 23:17:52 +0000"
+    },
+    {
+      "id": "837081bc8e4a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula critica quem diz que governo “gasta muito” em políticas públicas",
+      "link": "https://www.poder360.com.br/poder-governo/lula-critica-quem-diz-que-governo-gasta-muito-em-politicas-publicas/",
+      "summary": "Presidente afirma que Estado deve ampliar oportunidades e cita financiamento de veículos como exemplo de ação necessária",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 14 Sep 2026 22:21:42 +0000"
+    },
+    {
+      "id": "b689974cb1a0",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula sanciona Redata na 3ª feira e PL dos minerais críticos na 4ª",
+      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-redata-na-3a-feira-e-pl-dos-minerais-criticos-na-4a/",
+      "summary": "Presidente comanda cerimônias no Planalto para oficializar projetos aprovados durante esforço concentrado no Senado",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 14 Sep 2026 21:57:50 +0000"
+    },
+    {
       "id": "5f2eee9af1e4",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -527,11 +528,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Mon, 14 Sep 2026 07:00:01 -0000"
     },
     {
