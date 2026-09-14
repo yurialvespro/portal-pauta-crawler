@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:47:12.861180+00:00",
+  "generated_at": "2026-09-14T09:17:59.870496+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -257,44 +257,24 @@
       "publishedRaw": "Mon, 14 Sep 2026 06:53:22 +0000"
     },
     {
-      "id": "7fbe05bb3a60",
-      "source": "CNN Brasil",
+      "id": "6920c8f83860",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Fim de semana teve 10 movimentações do STF; entenda como impacta julgamento",
-      "link": "https://www.cnnbrasil.com.br/politica/fim-de-semana-teve-10-movimentacoes-do-stf-entenda-como-impacta-julgamento/",
-      "summary": "Despachos de Fachin, Mendonça, Zanin, Moraes, Gilmar Mendes e Flávio Dino tratam do acesso à íntegra dos dados do celular de Daniel Vorcaro e antecedem a sessão de terça-feira (15), que analisa as mensagens entre o ex-banqueiro e Alexandre de Moraes.",
+      "title": "Crise no STF expõe concentração sob Moraes, que lidera casos sem sorteio e decisões individuais",
+      "link": "https://www.estadao.com.br/politica/crise-no-stf-expoe-concentracao-sob-moraes-que-lidera-casos-sem-sorteio-e-decisoes-individuais/",
+      "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Mon, 14 Sep 2026 03:01:12 +0000"
-    },
-    {
-      "id": "fabf5fb7ae21",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF foi incapaz de compreender as demandas da sociedade, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-foi-incapaz-de-compreender-as-demandas-da-sociedade-diz-especialista/",
-      "summary": "Jurista Oscar Vilhena afirma ao CNN Agora que crise interna no Supremo é a maior em 135 anos e cobra transparência e responsabilização",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 14 Sep 2026 01:44:41 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "c8abc412f445",
@@ -335,26 +315,6 @@
       ],
       "score": 89,
       "publishedRaw": "Sun, 13 Sep 2026 16:37:55 +0000"
-    },
-    {
-      "id": "5712ee8e65ba",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do STF esperam receber rito da sessão sobre investigação de Moraes na segunda-feira",
-      "link": "https://www.estadao.com.br/politica/ministros-do-stf-esperam-receber-rito-da-sessao-sobre-investigacao-de-moraes-na-segunda-feira/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Sun, 13 Sep 2026 17:29:35 +0000"
     },
     {
       "id": "f1181e2d37e7",
@@ -437,6 +397,26 @@
       "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
     },
     {
+      "id": "6e821853f000",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bastidores: Time de Lula já contava com ação de Dino no caso Dark Horse para ‘salvação’ no 1º turno",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/time-de-lula-torce-para-stf-adiar-acao-sobre-moraes-e-espera-dados-de-dino-sobre-dark-horse/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 14 Sep 2026 08:30:00 +0000"
+    },
+    {
       "id": "5e693236ce39",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -497,13 +477,13 @@
       "publishedRaw": "Sun, 13 Sep 2026 17:49:55 +0000"
     },
     {
-      "id": "06bc756c95b1",
+      "id": "ab09d298e150",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Caetano Veloso declara novamente apoio a Lula para presidente",
-      "link": "https://www.poder360.com.br/poder-governo/caetano-veloso-declara-novamente-apoio-a-lula-para-presidente/",
-      "summary": "Cantor e compositor baiano também fez o “L” com os dedos e esteve com Janja durante show em Taguatinga, no Distrito Federal",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-2a-feira-6/",
+      "summary": "Eventos da Esfera Brasil em São Paulo e reuniões ministeriais na AGU e no Palácio do Planalto movimentam o dia",
       "tags": [
         "Lula"
       ],
@@ -514,16 +494,16 @@
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 01:59:53 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 09:00:53 +0000"
     },
     {
-      "id": "0d85a1359a07",
+      "id": "d7af0618e930",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que apostador fez 1.400 pix em 3 meses e questiona BC",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-apostador-fez-1-400-pix-em-3-meses-e-questiona-bc/",
-      "summary": "“O Banco Central não descobriu que é pix demais para a mesma empresa?”, perguntou; presidente afirma que se reuniu neste domingo (13.set.2026) com “8 vítimas da bets”",
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 2ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-2a-feira-6/",
+      "summary": "Sanção do PLV 10 de 2026, encontros com a Casa Civil e reunião com Fazenda e Planejamento marcam o dia no Planalto",
       "tags": [
         "Lula"
       ],
@@ -534,7 +514,27 @@
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 01:40:30 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 09:00:39 +0000"
+    },
+    {
+      "id": "7984936ba309",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula, Flávio e Cury não têm ajuste capaz de conter dívida, diz economista",
+      "link": "https://www.poder360.com.br/poderdata/lula-flavio-e-cury-nao-tem-ajuste-capaz-de-conter-divida-diz-economista/",
+      "summary": "Ao PoderDataCast, Pedro Menezes declarou que candidatos não apresentam mudanças necessárias para equilibrar as contas públicas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 14 Sep 2026 09:00:03 +0000"
     },
     {
       "id": "e67f8cecae0c",
@@ -592,25 +592,6 @@
       ],
       "score": 82,
       "publishedRaw": "Sat, 12 Sep 2026 16:11:04 GMT"
-    },
-    {
-      "id": "cc7ca68cc214",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
-      "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Inquérito da PF diz que Flávio foi 'interlocutor direto' do banqueiro em tratativas relacionadas ao filme 'Dark Horse', inclusive com cobranças de pagamentos, reuniões presenciais e acompanhamento do andamento das gravações. Senador nega qualquer irregularidade e pede o fim do sigilo total do inquérito do Master.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
     },
     {
       "id": "5f2eee9af1e4",
