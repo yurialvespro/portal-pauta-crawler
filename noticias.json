@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:49:34.248966+00:00",
+  "generated_at": "2026-09-14T07:17:35.319848+00:00",
   "items": [
-    {
-      "id": "8ba2499209a8",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como Lula e Flávio Bolsonaro querem atrair dinheiro?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/09/como-lula-e-flavio-bolsonaro-querem-atrair-dinheiro.shtml",
-      "summary": "Como pragmático persistente, teimo em falar sobre coisas que existem. Ler planos de governo exige alguma concessão. Esses documentos costumam ter a mesma função das redações escolares: conseguir aprovação para o ano seguinte.\nLeia mais (09/13/2026 - 23h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "13 Sep 2026 23:00:00 -0300"
-    },
     {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
@@ -222,25 +199,46 @@
       "publishedRaw": "13 Sep 2026 23:21:00 -0300"
     },
     {
-      "id": "c0cd0a1dab8b",
-      "source": "Folha de São Paulo",
+      "id": "b8f895f6eee3",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Talvez não seja tão complicado pensar em um código de ética para o STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/09/talvez-nao-seja-tao-complicado-pensar-em-um-codigo-de-etica-para-o-stf.shtml",
-      "summary": "O conceito de pecado continua sendo um excelente operador para a análise do comportamento dos homens. Para os incautos, vale salientar que você não precisa ser religioso para entender o valor dos pecados como marcadores de vícios de comportamento.\nLeia mais (09/13/2026 - 23h00)",
+      "title": "Guerra de ofícios aumenta tensão e expõe racha no STF em semana-chave",
+      "link": "https://www.cnnbrasil.com.br/politica/guerra-de-oficios-aumenta-tensao-e-expoe-racha-no-stf-em-semana-chave/",
+      "summary": "Ministros divergem sobre acesso a dados de Vorcaro e abertura de processos às vésperas de sessão que pode definir futuro de Moraes",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "13 Sep 2026 23:00:00 -0300"
+      "publishedRaw": "Mon, 14 Sep 2026 07:01:19 +0000"
+    },
+    {
+      "id": "7c3bc3e6614c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Judicialização da política levou à politização do STF, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/judicializacao-da-politica-levou-a-politizacao-do-stf-diz-especialista/",
+      "summary": "Vera Chemim avalia ao CNN Agora que a judicialização da política levou à politização do STF e alerta para riscos ao Estado democrático de direito",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 06:53:22 +0000"
     },
     {
       "id": "7fbe05bb3a60",
@@ -283,27 +281,6 @@
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 01:44:41 +0000"
-    },
-    {
-      "id": "47576a3377f6",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT aciona STF para apurar suposto custeio estrangeiro à campanha de Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/pt-aciona-stf-para-apurar-suposto-custeio-estrangeiro-a-campanha-de-flavio/",
-      "summary": "Petição relaciona fundo de investimento co-fundado por J.D. Vance, vice-presidente norte-americano, e apresentação sobre terras raras feita pelo candidato ao governo do Rio, André Marinho",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sun, 13 Sep 2026 23:47:10 +0000"
     },
     {
       "id": "c8abc412f445",
@@ -470,11 +447,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 23:30:09 -0000"
     },
     {
@@ -491,11 +467,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 20:11:52 -0000"
     },
     {
@@ -512,11 +487,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
     },
     {
@@ -532,12 +506,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 20:48:10 +0000"
     },
     {
@@ -553,12 +526,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 21:00:00 +0000"
     },
     {
@@ -574,12 +546,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 13 Sep 2026 17:49:55 +0000"
     },
     {
@@ -596,11 +567,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Mon, 14 Sep 2026 01:59:53 +0000"
     },
     {
@@ -617,11 +587,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Mon, 14 Sep 2026 01:40:30 +0000"
     },
     {
@@ -638,33 +607,30 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Mon, 14 Sep 2026 00:43:30 +0000"
     },
     {
-      "id": "73f883e4b591",
-      "source": "G1 - Economia",
+      "id": "e67f8cecae0c",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que é preciso parar com 'babaquice de fazer superávit' para governo investir",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/12/para-o-governo-investir-e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (12) que a economia brasileira precisa crescer para gerar empregos no país. \nO petista acrescentou que, para isso, o governo precisa investir e parar com o que chamou de \"babaquice de fazer superávit\".\nAs declarações foram dadas durante comício em Curitiba (PR). Lula concorre à reeleição para a Presidência da República no pleito de outubro. \n\"Pra gerar emprego, a economia tem que crescer, e para economia crescer, o governo tem que investir. E para governo investir, é preciso parar com essa babaquice de fazer superávit, fazer superávit, de ter controle fiscal. Porque a grande dívida do Brasil é a taxa de juros que nós pagamos, R$ 1,3 trilhão. O restante é investimento\", declarou o presidente.\nLula diz que 'ninguém pode ser ministro da Suprema Corte para ficar rico'\n▶️Analistas têm manifestado preocupação com a trajetória das contas públicas. Eles avaliam que os reiterados déficits fiscais dos últimos anos pressionam a taxa de juros e, consequentemente, o endividamento público. Para baixar o juro e conter a dívida, cobram um ajuste fiscal mais forte por parte do governo.\n▶️Economistas observam que reduzir a taxa básica da economia, a Selic — atualmente em 14% ao ano — por decisão sem embasamento técnico não garante juros menores na economia. Isso porque o juro de longo prazo é definido pelo mercado e reflete expectativas sobre inflação, atividade econômica e gastos públicos. \n▶️Diante da disparada da dívida pública e do aumento da desconfiança sobre as contas do governo, os investidores passaram a exigir taxas de juros mais altas para financiar o governo. Isso eleva o custo da chamada rolagem da dívida pública, feita por meio da emissão de títulos pelo Tesouro Nacional, e também o endividamento brasileiro (em um \"ciclo vicioso\").\nLula em comício em Porto Alegre\nBruno Todeschini/ Grupo RBS\nLula vinha prometendo saldo positivo\nAs declarações do presidente contradizem o plano de governo petista para o próximo mandato, protocolado no Tribunal Superior Eleitoral (TSE), que promete uma \"política fiscal responsável\" para impulsionar ainda mais os investimentos produtivos, o crescimento econômico de longo prazo a uma redução sustentada da taxa de juros. \n\"O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento  econômico, do controle do aumento do gasto primário, investindo na melhoria da  eficiência e da qualidade do gasto público, da promoção de justiça tributária e do  combate aos privilégios e às distorções\", diz o documento.\nTambém contrariam suas próprias declarações em entrevista à TV Globo, no fim de agosto, quando o presidente garantiu que o país terá superávit e disse que pretende fazer uma “revolução tecnológica” no país em um eventual próximo mandato, com investimentos em inteligência artificial, minerais críticos, terras raras e defesa.\n“Eu quero voltar a fazer com que esse país dispute com o mundo rico. Esse país vai ter que ser dono dos minerais críticos, das terras raras. [...] É esse o futuro que eu quero para o país e é por isso que eu estou pleiteando o quarto mandato. Eu já acabei com a fome duas vezes. Quando eu voltei agora, esse país estava destruído. O déficit era 2,8%. O último foi 0,8% e, agora, vai ser positivo. Nós vamos fazer superávit\", disse Lula, em agosto.\nJuros altos\nO ministro da Fazenda, Dario Durigan, que tem sido destacado para falar em nome da campanha de Lula, reiterou nas últimas semanas que o governo buscará retomar a trajetória de superávit nas contas do governo a partir de 2027, se reeleito. \nA proposta de orçamento enviada ao Congresso Nacional contempla uma projeção de saldo positivo de R$ 18,6 bilhões — após a previsão do atual mandato inteiro com as contas no vermelho. O objetivo da área econômica é possibilitar um corte da taxa de juros, atualmente em 14% ao ano. Em termos reais, está entre os maiores juros do mundo.\nAs declarações do ministro da Fazenda e a proposta de orçamento abrangem um ajuste das contas do governo em dois pontos do PIB em um eventual novo mandato de Lula, mantendo um ritmo gradual de melhora das contas públicas. \nO objetivo seria justamente tentar conter o crescimento da dívida pública, que atingiu 82% em junho, o maior patamar desde a pandemia, com um forte crescimento de mais de 10 pontos na parcial da atual gestão de Lula, para baixar a taxa de juros da economia.",
+      "category": "Política",
+      "title": "Mensagens tentam associar Flávio Bolsonaro ao PCC",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/mensagens-tentam-associar-flavio-bolsonaro-ao-pcc.shtml",
+      "summary": "A decisão do ministro Flávio Dino de retirar o sigilo do material da Polícia Civil de São Paulo sobre financiamento do filme \"Dark Horse\" e enviar o conteúdo à Polícia Federal deu novamente centralidade ao caso Banco Master na campanha de Flávio Bolsonaro.\nLeia mais (09/14/2026 - 04h06)",
       "tags": [
-        "Lula"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Sat, 12 Sep 2026 16:10:30 -0000"
+      "publishedRaw": "14 Sep 2026 04:06:00 -0300"
     },
     {
       "id": "44d2eecd616d",
@@ -724,6 +690,46 @@
       "publishedRaw": "Fri, 11 Sep 2026 20:39:48 GMT"
     },
     {
+      "id": "5f2eee9af1e4",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Criminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/criminosos-criam-site-e-app-falsos-do-mercado-livre-para-invadir-celulares-de-vitimas.ghtml",
+      "summary": "Operação logística do Mercado Livre\nMercado Livre\nGolpistas desenvolveram um site e um aplicativo falsos em nome do Mercado Livre Coleta para tentar invadir celulares e obter dados pessoais das vítimas. A ação foi descoberta pela empresa de segurança digital ESET. O g1 teve acesso aos links usados no golpe e confirmou a prática.\nO Mercado Livre Coleta é um serviço de logística voltado aos vendedores que usam a plataforma. Com ele, o próprio Mercado Livre retira os produtos no endereço dos lojistas e faz a entrega aos clientes que realizaram a compra.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA empresa, no entanto, não oferece um aplicativo exclusivo para esse serviço. Por isso, o app apresentado pelos criminosos como parte do Mercado Livre Coleta não é oficial.\nO site que divulga o aplicativo também dá indícios de não ser oficial, já que termina em \"pages.dev\". Sites oficiais de grandes empresas costumam terminar em \".com.br\" ou \".com\".\nAgora no g1\nProcurado pelo g1, o Mercado Livre disse que tomou conhecimento do golpe e que está atuando para derrubar a URL maliciosa. \n\"A companhia reforça que não envia links para downloads de aplicativos fora das lojas oficiais, como Google Play e App Store\", completou. (leia a nota abaixo)\nComo os criminosos atuam\nCriminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas\nReprodução\nAo acessar o site falso, os criminosos tentam atrair a vítima com informações atrativas: \"Acumule pontos e aproveite! Troque por viagens, descontos na fatura, cashback ou até Pix direto na conta. Tudo pelo app!\", diz a mensagem.\nLogo abaixo, há um botão \"Baixar APK\". É ali que está o arquivo malicioso, disfarçado de aplicativo e capaz de infectar o celular da vítima.\nAPK é a sigla para \"Android Package Kit\", um formato de arquivo usado pelo Android para distribuir e instalar aplicativos no celular. Normalmente, os apps são baixados pela Google Play Store, loja oficial do Android, mas também é possível instalar arquivos APK obtidos fora dela.\nEsse tipo de instalação pode oferecer riscos, principalmente quando o arquivo vem de uma fonte desconhecida, como neste caso.\nSegundo a ESET, o próprio Android alerta que baixar o aplicativo pode trazer riscos. No teste feito pelo g1, o sistema exibiu um aviso de que o \"arquivo pode ser nocivo\", mas ainda assim permitiu a instalação. (veja na imagem acima)\n\"Após a instalação, surge uma tela solicitando a liberação de acesso a uma VPN externa, o que permite que o dispositivo da vítima se conecte à mesma rede do criminoso, possibilitando o acesso remoto ao aparelho\", explicou a empresa de segurança.\nApp pede permissão para acessar informações no celular\nReprodução\nApós a instalação, o app falso solicita permissões para gravar a tela, capturar o que é digitado no teclado e acessar a câmera. Com esses acessos, os criminosos conseguem controlar o aparelho sem que a vítima perceba.\nA partir daí, eles podem tentar roubar senhas, números de cartões de crédito e códigos de autenticação recebidos por SMS. Também podem ativar recursos de acessibilidade do celular para monitorar senhas digitadas, mensagens enviadas e outras ações realizadas no aparelho.\n\"As permissões solicitadas são justamente o que pode transformar um simples download em uma porta de entrada para o criminoso acessar recursos críticos. Por isso, qualquer pedido de acesso a VPN, acessibilidade ou controle remoto feito por um app desconhecido deve ser tratado como um forte sinal de alerta\", explica Jonathan Ramos, pesquisador de segurança da ESET Brasil.\nO que fazer se você baixou o app falso e como se proteger\nSe você baixou esse ou qualquer outro app suspeito, a recomendação é ativar o modo avião e desligar as conexões Wi-Fi e de rede móvel do celular. Isso pode interromper a comunicação do aplicativo com os criminosos.\nEm seguida, tente desinstalar o app. Caso não seja possível removê-lo, a recomendação é restaurar o aparelho para as configurações de fábrica. Esse procedimento apaga os dados armazenados no celular, por isso é importante manter um backup atualizado.\nTambém é aconselhável alterar as senhas de contas importantes, como as de bancos, e-mail e redes sociais. \"Deve-se procurar as instituições financeiras em que tem conta para acompanhar possíveis movimentações suspeitas. A ativação da autenticação em duas etapas nas contas importantes adiciona uma camada extra de proteção\", aconselha a ESET.\nVeja, a seguir, outras dicas para se proteger:\n🌎 Observe o endereço (URL): o endereço de sites oficiais de grandes empresas costuma usar o domínio da própria companhia. No Brasil, é comum que esses endereços terminem em \".com.br\", mas algumas empresas usam apenas \".com\" ou outros domínios. Por isso, confira se a URL corresponde ao endereço oficial da empresa e se não há alterações ou caracteres estranhos.\n🦹‍♂️ Analise a estrutura do site: golpistas costumam copiar páginas oficiais, mas erros de português, imagens de baixa qualidade, informações inconsistentes e elementos que não funcionam corretamente podem indicar uma tentativa de fraude.\n📱 Baixe aplicativos apenas de fontes confiáveis: evite instalar APKs recebidos por links, mensagens ou sites desconhecidos. Dê preferência às lojas oficiais, como a App Store, no iPhone, e a Google Play Store, no Android.\n📣 Desconfie de mensagens que criam senso de urgência: páginas falsas podem exibir alertas de tempo esgotando ou \"últimas unidades\", por exemplo, para pressionar a vítima a clicar e concluir uma compra rapidamente. Também desconfie de ofertas que prometem vantagens fáceis ou benefícios muito acima do normal, como cashback, dinheiro ou pontos para trocar por viagens.\n🤑 Atenção a preços muito abaixo do mercado: em sites que anunciam produtos e serviços, criminosos podem oferecer preços muito inferiores aos praticados por lojas confiáveis para atrair vítimas. Desconfie de ofertas que estejam muito abaixo do valor normalmente cobrado.\n⚠️ Cuidado com anúncios na internet: criminosos podem usar anúncios patrocinados em redes sociais e mecanismos de busca para aumentar a visibilidade e a aparência de legitimidade de páginas falsas. Por isso, mesmo que o site apareça como anúncio, confira o endereço antes de fornecer dados ou fazer uma compra.\n💳  Caiu em um golpe? Entre em contato com o banco o quanto antes e solicite o Mecanismo Especial de Devolução (MED) para tentar reverter o PIX.\nO que diz o Mercado Livre\n\"O Mercado Livre informa que tomou conhecimento do caso e acionou suas equipes para a análise do conteúdo e solicitação de derrubada da URL maliciosa. A empresa esclarece que a ação se trata de uma tentativa de fraude externa ao seu ecossistema e que não possui um aplicativo ou site exclusivo para o serviço Mercado Livre Coleta.\nA companhia reforça que não envia links para downloads de aplicativos fora das lojas oficiais (como Google Play e App Store) e reitera que todas as operações e interações devem ser realizadas exclusivamente por meio do site ou aplicativo oficial do Mercado Livre.\nO Mercado Livre mantém monitoramento contínuo para atuar preventivamente na identificação de uso indevido de sua marca e reafirma seu compromisso com a segurança e a proteção do seu ecossistema e de seus usuários.\"\niPhone Duo: Apple lança seu primeiro celular dobrável\nSistemas de câmeras usam inteligência artificial e prometem se antecipar a crimes",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Mon, 14 Sep 2026 07:00:01 -0000"
+    },
+    {
+      "id": "73f883e4b591",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que é preciso parar com 'babaquice de fazer superávit' para governo investir",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/12/para-o-governo-investir-e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou neste sábado (12) que a economia brasileira precisa crescer para gerar empregos no país. \nO petista acrescentou que, para isso, o governo precisa investir e parar com o que chamou de \"babaquice de fazer superávit\".\nAs declarações foram dadas durante comício em Curitiba (PR). Lula concorre à reeleição para a Presidência da República no pleito de outubro. \n\"Pra gerar emprego, a economia tem que crescer, e para economia crescer, o governo tem que investir. E para governo investir, é preciso parar com essa babaquice de fazer superávit, fazer superávit, de ter controle fiscal. Porque a grande dívida do Brasil é a taxa de juros que nós pagamos, R$ 1,3 trilhão. O restante é investimento\", declarou o presidente.\nLula diz que 'ninguém pode ser ministro da Suprema Corte para ficar rico'\n▶️Analistas têm manifestado preocupação com a trajetória das contas públicas. Eles avaliam que os reiterados déficits fiscais dos últimos anos pressionam a taxa de juros e, consequentemente, o endividamento público. Para baixar o juro e conter a dívida, cobram um ajuste fiscal mais forte por parte do governo.\n▶️Economistas observam que reduzir a taxa básica da economia, a Selic — atualmente em 14% ao ano — por decisão sem embasamento técnico não garante juros menores na economia. Isso porque o juro de longo prazo é definido pelo mercado e reflete expectativas sobre inflação, atividade econômica e gastos públicos. \n▶️Diante da disparada da dívida pública e do aumento da desconfiança sobre as contas do governo, os investidores passaram a exigir taxas de juros mais altas para financiar o governo. Isso eleva o custo da chamada rolagem da dívida pública, feita por meio da emissão de títulos pelo Tesouro Nacional, e também o endividamento brasileiro (em um \"ciclo vicioso\").\nLula em comício em Porto Alegre\nBruno Todeschini/ Grupo RBS\nLula vinha prometendo saldo positivo\nAs declarações do presidente contradizem o plano de governo petista para o próximo mandato, protocolado no Tribunal Superior Eleitoral (TSE), que promete uma \"política fiscal responsável\" para impulsionar ainda mais os investimentos produtivos, o crescimento econômico de longo prazo a uma redução sustentada da taxa de juros. \n\"O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento  econômico, do controle do aumento do gasto primário, investindo na melhoria da  eficiência e da qualidade do gasto público, da promoção de justiça tributária e do  combate aos privilégios e às distorções\", diz o documento.\nTambém contrariam suas próprias declarações em entrevista à TV Globo, no fim de agosto, quando o presidente garantiu que o país terá superávit e disse que pretende fazer uma “revolução tecnológica” no país em um eventual próximo mandato, com investimentos em inteligência artificial, minerais críticos, terras raras e defesa.\n“Eu quero voltar a fazer com que esse país dispute com o mundo rico. Esse país vai ter que ser dono dos minerais críticos, das terras raras. [...] É esse o futuro que eu quero para o país e é por isso que eu estou pleiteando o quarto mandato. Eu já acabei com a fome duas vezes. Quando eu voltei agora, esse país estava destruído. O déficit era 2,8%. O último foi 0,8% e, agora, vai ser positivo. Nós vamos fazer superávit\", disse Lula, em agosto.\nJuros altos\nO ministro da Fazenda, Dario Durigan, que tem sido destacado para falar em nome da campanha de Lula, reiterou nas últimas semanas que o governo buscará retomar a trajetória de superávit nas contas do governo a partir de 2027, se reeleito. \nA proposta de orçamento enviada ao Congresso Nacional contempla uma projeção de saldo positivo de R$ 18,6 bilhões — após a previsão do atual mandato inteiro com as contas no vermelho. O objetivo da área econômica é possibilitar um corte da taxa de juros, atualmente em 14% ao ano. Em termos reais, está entre os maiores juros do mundo.\nAs declarações do ministro da Fazenda e a proposta de orçamento abrangem um ajuste das contas do governo em dois pontos do PIB em um eventual novo mandato de Lula, mantendo um ritmo gradual de melhora das contas públicas. \nO objetivo seria justamente tentar conter o crescimento da dívida pública, que atingiu 82% em junho, o maior patamar desde a pandemia, com um forte crescimento de mais de 10 pontos na parcial da atual gestão de Lula, para baixar a taxa de juros da economia.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Sat, 12 Sep 2026 16:10:30 -0000"
+    },
+    {
       "id": "77f0a2941c53",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -778,21 +784,6 @@
       "publishedRaw": "Sun, 13 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "02cc8a14b21f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impeachment de juízes de supremas cortes é raridade em democracias pelo mundo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/impeachment-de-juizes-de-supremas-cortes-e-raridade-em-democracias-pelo-mundo.shtml",
-      "summary": "A crise vivida pelo STF (Supremo Tribunal Federal), desencadeada pelas suspeitas sobre Alexandre de Moraes no caso do Banco Master, tem levantado novamente a discussão sobre a abertura de um processo de impeachment no Senado contra o ministro.\nLeia mais (09/13/2026 - 23h00)",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "13 Sep 2026 23:00:00 -0300"
-    },
-    {
       "id": "1509b7a6ab81",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -809,21 +800,6 @@
       ],
       "score": 70,
       "publishedRaw": "Sun, 13 Sep 2026 21:27:27 -0000"
-    },
-    {
-      "id": "ff1e07bcf15a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Centro-esquerda lidera por pouco em eleição parlamentar na Suécia",
-      "link": "https://www.cnnbrasil.com.br/internacional/centro-esquerda-lidera-por-pouco-em-eleicao-parlamentar-na-suecia/",
-      "summary": "Apuração parcial mostra empate técnico, com bloco liderado pelo Partido Social-Democrata projetado para conquistar 175 cadeiras",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Sun, 13 Sep 2026 23:29:50 +0000"
     },
     {
       "id": "85bec5e3c54d",
