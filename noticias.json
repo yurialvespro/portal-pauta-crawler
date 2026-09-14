@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:21:27.597772+00:00",
+  "generated_at": "2026-09-14T12:49:52.395993+00:00",
   "items": [
     {
       "id": "bb71bed5dba3",
@@ -74,6 +74,29 @@
       "publishedRaw": "Sat, 12 Sep 2026 15:06:17 GMT"
     },
     {
+      "id": "c19908165fc3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O silêncio dos militares e como a crise do STF afeta o futuro dos condenados pelo golpe de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-silencio-dos-militares-e-como-a-crise-do-stf-afeta-o-futuro-dos-condenados-pelo-golpe-de-bolsonaro/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Mon, 14 Sep 2026 12:30:00 +0000"
+    },
+    {
       "id": "81aa7917c722",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -96,6 +119,28 @@
       ],
       "score": 91,
       "publishedRaw": "Sun, 13 Sep 2026 23:11:46 -0000"
+    },
+    {
+      "id": "745967999a86",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF deixa eleições mais polarizadas, avalia CEO da Nexus",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/crise-no-stf-deixa-eleicoes-mais-polarizadas-avalia-ceo-da-nexus/",
+      "summary": "Pesquisa Nexus/BTG mostra empate técnico entre Lula e Flávio Bolsonaro no segundo turno; Marcelo Tokarski avalia cenário eleitoral ao CNN Novo Dia",
+      "tags": [
+        "STF",
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Mon, 14 Sep 2026 12:30:11 +0000"
     },
     {
       "id": "e7443cacdf04",
@@ -204,6 +249,48 @@
       "publishedRaw": "Sun, 13 Sep 2026 20:28:26 -0000"
     },
     {
+      "id": "e60439137f2b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dólar abre em alta de olho em crise no STF e temor geopolítico",
+      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-dolar-ibovespa-14-setembro-2026/",
+      "summary": "Na sexta-feira (11), a moeda fechou em alta de 0,47%, recuperando os R$ 5,1252 na venda",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 12:34:27 +0000"
+    },
+    {
+      "id": "86163cc243c2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça vai antecipar voto e articula para Fachin e Fux votarem sobre Moraes mesmo com vista no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-vai-antecipar-voto-e-articula-para-fachin-e-fux-votarem-sobre-moraes-mesmo-com-vista-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 12:36:25 +0000"
+    },
+    {
       "id": "33bf8af9e6d8",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -244,27 +331,6 @@
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "c8abc412f445",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Grupo em defesa da democracia manifesta apoio a medidas adotadas por Fachin em carta enviada ao STF",
-      "link": "https://www.estadao.com.br/politica/grupo-em-defesa-da-democracia-manifesta-apoio-a-medidas-adotadas-por-fachin-em-carta-enviada-ao-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Sun, 13 Sep 2026 20:58:25 +0000"
     },
     {
       "id": "5231aa781158",
@@ -393,26 +459,6 @@
       "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
     },
     {
-      "id": "44d2eecd616d",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-      "link": "https://www.bbc.com/portuguese/articles/cm2rllgyjdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Produtor ouvido pela BBC News Brasil diz que ator Jim Caviezel recebeu para interpretar Jair Bolsonaro o mesmo cachê que Robert Downey Jr. teve para participar da megaprodução 'Oppenheimer'.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Sat, 12 Sep 2026 21:02:26 GMT"
-    },
-    {
       "id": "e5d821cd0a0d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -499,6 +545,28 @@
       "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
     },
     {
+      "id": "868f5df98d32",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: Em SP, Flávio tem 39% e Lula, 32% no 1º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-sp-flavio-tem-39-e-lula-32-no-1o-turno/",
+      "summary": "Instituto fez 2.000 entrevistas, entre os dias 9 e 12 de setembro, por telefone e por meios digitais; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 12:17:39 +0000"
+    },
+    {
       "id": "d5aa497eafa7",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -521,48 +589,26 @@
       "publishedRaw": "Mon, 14 Sep 2026 11:56:03 +0000"
     },
     {
-      "id": "a4ff78709661",
-      "source": "CNN Brasil",
+      "id": "9105714f8db0",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Real Time RJ: Flávio tem 40%, Lula, 33% e Cury, 8% no 1º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-rj-flavio-tem-40-lula-33-e-cury-8-no-1o-turno/",
-      "summary": "Foram entrevistadas 2.000 pessoas, entre os dias 9 e 12 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "title": "Hidrovias: setor espera salto nos 100 primeiros dias de novo governo, seja de Lula ou Flávio",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/hidrovias-setor-espera-salto-nos-100-primeiros-dias-de-novo-governo-seja-de-lula-ou-flavio/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Mon, 14 Sep 2026 11:47:13 +0000"
-    },
-    {
-      "id": "dfae8c10d353",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time RJ: Flávio tem 47% no 2º turno; Lula, 41%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-flavio-tem-47-no-rj-no-2o-turno-lula-41/",
-      "summary": "Instituto ouviu 2.000 eleitores entre os dias 9 e 12 de setembro, margem de erro é de dois pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 14 Sep 2026 11:28:35 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 12:30:00 +0000"
     },
     {
       "id": "6e821853f000",
@@ -607,6 +653,28 @@
       ],
       "score": 85,
       "publishedRaw": "Sun, 13 Sep 2026 20:48:10 +0000"
+    },
+    {
+      "id": "cf4412101c80",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 39%, contra 32% de Lula no 1º turno em SP, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-39-contra-32-de-lula-no-1o-turno-em-sp-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data mostra que 53% dos eleitores paulistas dizem que não votariam em Lula e 55% desaprovam seu trabalho",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 12:33:24 +0000"
     },
     {
       "id": "f39779be322e",
