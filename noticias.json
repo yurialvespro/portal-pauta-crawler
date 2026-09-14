@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:18:30.528571+00:00",
+  "generated_at": "2026-09-14T18:47:45.625309+00:00",
   "items": [
-    {
-      "id": "052efaec0334",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF retoma julgamento contra Eduardo Bolsonaro por difamação",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/stf-retoma-julgamento-contra-eduardo-bolsonaro-por-difamacao/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 94,
-      "publishedRaw": "Mon, 14 Sep 2026 15:23:45 +0000"
-    },
     {
       "id": "b5e153bac7f9",
       "source": "G1 - Política",
@@ -114,28 +90,6 @@
       "publishedRaw": "Mon, 14 Sep 2026 13:16:49 -0000"
     },
     {
-      "id": "43fa223b1a1c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Flávio Bolsonaro marca 42% contra 40% de Lula em eventual segundo turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/pesquisa-quaest-14-setembro-lula-luiz-inacio-lula-silva-flavio-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 93,
-      "publishedRaw": "Mon, 14 Sep 2026 13:22:20 +0000"
-    },
-    {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -155,7 +109,7 @@
         "G1 - Política"
       ],
       "score": 93,
-      "publishedRaw": "Sat, 12 Sep 2026 15:06:17 GMT"
+      "publishedRaw": "Mon, 14 Sep 2026 18:30:54 GMT"
     },
     {
       "id": "fd49e01745aa",
@@ -266,6 +220,50 @@
       "publishedRaw": "Mon, 14 Sep 2026 17:57:22 +0000"
     },
     {
+      "id": "56b3fd5ee833",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tereza Cristina aciona 40 senadores para acompanhar em Brasília julgamento de Moraes no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tereza-cristina-aciona-40-senadores-para-acompanhar-em-brasilia-julgamento-de-moraes-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 18:15:00 +0000"
+    },
+    {
+      "id": "f6336c95e395",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Estará com ministro kassio?’: PF aponta ‘despachos’ de deputado Cezinha com Nunes Marques do STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/estara-com-ministro-kassio-pf-aponta-despachos-de-deputado-cezinha-com-nunes-marques-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 18:11:53 +0000"
+    },
+    {
       "id": "0a8a3d29f6db",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -329,7 +327,7 @@
         "G1 - Política"
       ],
       "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 18:16:36 GMT"
+      "publishedRaw": "Mon, 14 Sep 2026 18:36:24 GMT"
     },
     {
       "id": "5231aa781158",
@@ -373,7 +371,7 @@
         "G1 - Política"
       ],
       "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 09:53:34 GMT"
+      "publishedRaw": "Mon, 14 Sep 2026 18:46:55 GMT"
     },
     {
       "id": "b93614419132",
@@ -518,6 +516,25 @@
       "publishedRaw": "Mon, 14 Sep 2026 14:02:58 -0000"
     },
     {
+      "id": "3a9105ac4ce6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio busca grandes líderes e Lula vai atrás de igrejas menores para atrair voto de evangélicos",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-busca-grandes-lideres-e-lula-vai-atras-de-igrejas-menores-para-atrair-voto-de-evangelicos/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 14 Sep 2026 18:00:00 +0000"
+    },
+    {
       "id": "659920245a19",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -554,25 +571,6 @@
       ],
       "score": 80,
       "publishedRaw": "Mon, 14 Sep 2026 16:15:52 +0000"
-    },
-    {
-      "id": "4a8c3774240f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "​Poder de compra divide o País: classe média do Sul critica Lula e baixa renda do Nordeste aprova",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/poder-de-compra-divide-o-pais-classe-media-do-sul-critica-lula-e-baixa-renda-do-nordeste-aprova/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Mon, 14 Sep 2026 15:13:21 +0000"
     },
     {
       "id": "0d2477dd2b0d",
@@ -662,21 +660,6 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Mon, 14 Sep 2026 11:00:00 +0000"
-    },
-    {
-      "id": "194a4de6ca7d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Inspirado em turnê de Bob Dylan, Renan Santos percorre País de ônibus na reta final da campanha",
-      "link": "https://www.estadao.com.br/politica/eleicoes/inspirado-em-turne-de-bob-dylan-renan-santos-percorre-pais-de-onibus-na-reta-final-da-campanha/",
-      "summary": "",
-      "tags": [
-        "Renan Santos"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Mon, 14 Sep 2026 14:57:20 +0000"
     }
   ]
 }
