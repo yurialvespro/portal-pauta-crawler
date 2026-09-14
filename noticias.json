@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:49:52.395993+00:00",
+  "generated_at": "2026-09-14T13:18:16.616598+00:00",
   "items": [
     {
       "id": "bb71bed5dba3",
@@ -91,7 +91,8 @@
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Mon, 14 Sep 2026 12:30:00 +0000"
@@ -135,6 +136,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -143,26 +145,68 @@
       "publishedRaw": "Mon, 14 Sep 2026 12:30:11 +0000"
     },
     {
-      "id": "e7443cacdf04",
-      "source": "CNN Brasil",
+      "id": "27ef7de6627e",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "“Crise sem precedentes” no STF pode impactar eleições, diz Financial Times",
-      "link": "https://www.cnnbrasil.com.br/internacional/crise-sem-precedentes-no-stf-pode-impactar-eleicoes-diz-financial-times/",
-      "summary": "Jornal britânico aponta que atritos entre ministros Mendonça e Moraes projetam sombra sobre a corrida presidencial de outubro",
+      "title": "Flávio Bolsonaro chama operação da PF sobre emendas para filme de ‘interferência política’ de Dino",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-de-dino-nprp/",
+      "summary": "Operação da PF investiga supostos desvios de dinheiro público para a produção de “Dark Horse”, biografia de Jair Bolsonaro",
       "tags": [
-        "STF",
-        "eleições"
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
+    },
+    {
+      "id": "01169fa1e6a8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro lidera disputa presidencial no RJ, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-lidera-disputa-presidencial-no-rj-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data mostra senador com 47% contra 41% de Lula; no 1º turno, candidato do PL também lidera cenário estimulado",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 91,
-      "publishedRaw": "Mon, 14 Sep 2026 11:56:06 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 13:00:51 +0000"
+    },
+    {
+      "id": "0fb41066bfbc",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Grupo de Moraes no STF atua para evitar abertura de investigação contra colega, avaliam juristas e ex-ministros do Supremo",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/14/grupo-de-moraes-no-stf-atua-para-evitar-abertura-de-investigacao-contra-colega-avaliam-juristas-e-ex-ministros-do-stf.ghtml",
+      "summary": "O grupo de apoio ao ministro Alexandre de Moraes no Supremo Tribunal Federal (STF) está deixando muito claro que atua para impedir a abertura de investigação contra o colega.\nA avaliação é de juristas e ex-ministros do STF depois dos diversos pedidos formulados por esse grupo para a realização da sessão de terça-feira (15), como a íntegra do celular do ex-banqueiro Daniel Vorcaro.\nSegundo um ex-ministro do Supremo, está muito claro que o grupo de Moraes está trabalhando para inviabilizar a sessão desta terça-feira (15) no tribunal. \nEle lembra que o pedido de acesso à integra do celular do banqueiro faz parte das estratégias, mas destaca que o STF já fez análises em outros inquéritos com base apenas nos trechos de conversas referentes ao tema em pauta nas sessões.\nSTF vai decidir se abre investigação contra Moraes\nA estratégia dos ministros aliados de Alexandre de Moraes é alegar que eles não tiveram tempo para analisar o celular de Daniel Vorcaro, cuja íntegra deve ser encaminhada apenas nesta segunda (14) à tarde para todos os magistrados do STF. \nSe o plenário não acolher esse argumento, e o julgamento prosseguir, um dos apoiadores de Alexandre de Moraes pode pedir vista e adiar a decisão.\nDurante o julgamento, a ala pró-Moraes deve ainda levantar dúvidas sobre o relatório da Polícia Federal em relação ao envio de mensagens de Daniel Vorcaro para o magistrado.\nA PF conseguiu associar mensagens registradas no bloco de notas do celular de Vorcaro ao horário em que o banqueiro envia mensagens para Moraes. Ministros devem alegar que isso precisa ser mais aprofundado nas investigações.\nA sessão de amanhã será inédita no STF, quando estará em pauta o pedido de um ministro para investigar outro colega. \nAté agora, o ministro Alexandre de Moraes não deu explicações sobre o que conversou com Daniel Vorcaro. Inicialmente, ele chegou a dizer que não havia conversado com o banqueiro. \nDepois, porém, a PF mostrou que o celular destinatário das mensagens do dono do Master estava em posse de Alexandre de Moraes, para o qual Vorcaro enviou 52 mensagens.\nOs ministros Alexandre de Moraes e André Mendonça durante sessão plenária do STF no dia 17 de outubro de 2024\nAntonio Augusto/STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 12:46:06 -0000"
     },
     {
       "id": "f6091ff3f26f",
@@ -179,6 +223,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
@@ -192,7 +237,7 @@
       "category": "Política",
       "title": "Ministros do STF discutem se Moraes e Mendonça devem participar de julgamento na terça",
       "link": "https://g1.globo.com/politica/noticia/2026/09/14/ministros-do-stf-discutem-se-moraes-e-mendonca-devem-participar-de-julgamento-na-terca.ghtml",
-      "summary": "O Supremo Tribunal Federal chega às vésperas da sessão desta terça-feira (15) que pode decidir sobre a abertura de uma apuração contra o ministro Alexandre de Moraes por mensagens enviadas por Daniel Vorcaro sem definição do rito e principalmente do quórum que vai analisar o relatório da Polícia Federal.   \nMinistros discutem nos bastidores se os colegas Alexandre de Moraes e André Mendonça devem participar da sessão que vai decidir sobre a regularidade do relatório. \nAté agora, o Supremo só confirmou que a sessão será transmitida na TV Justiça e o acesso ao plenário restrito. \nAlvo do relatório da Polícia Federal que apontou 52 mensagens de Vorcaro, Moraes indicou em conversas internas que ainda não teria decidido se vai ou não pedir para se manifestar e até mesmo votar. \nUma ala do Supremo avalia que o ideal seria que Moraes não comparecesse ao plenário para não representar um movimento de pressão sobre os colegas. \nJá ministros alinhados com Moraes também discutem se vão levantar uma questão de ordem para que o ministro André Mendonça não possa participar da análise do caso. \nOs ministros Alexandre de Moraes e André Mendonça, do Supremo Tribunal Federal\nREUTERS/Adriano Machado\nO argumento é de que os questionamentos pela condução do relatório sobre Moraes impediria que votasse no caso. \nA Procuradoria-Geral da República defendeu a nulidade do relatório e argumentou que Mendonça não só direcionou a busca de dados contra Moraes pela PF, como não consultou a Presidência sobre as medidas contra os colegas.  Portanto, uma das possibilidades é que, se os ministros não decidirem  o afastamento por iniciativa própria, o caso possa ser colocado para discussão do plenário.\nAo assumir a relatoria do caso de Moraes para a sessão, o presidente do STF, Edson Fachin, afirmou que, a depender do resultado da sessão, poderia ser aplicado trecho do Código de Processo Civil sobre o impedimento do relator. \nFachin conversou com Mendonça no sábado (12) sobre a medida, que foi elogiada por ministros alinhados a Moraes. \nFachin rejeita discutir na mesma sessão os casos dos ministros Moraes e Mendonça\nJornal Nacional/Reprodução\nAlternativas em discussão\nOutra possiblidade é que os ministros ainda discutam a participação de outros ministros que supostamente teriam algum tipo de citação no caso Master, como Dias Toffoli, Kassio Nunes Marques e Luiz Fux. \nToffoli deixou a relatoria do caso Master após a PF apontar relação do ministro e empresa da família com Vorcaro. Em relação a Nunes e Fux há uma possível menção a filhos dos ministros no material. Os três ministros negam qualquer irregularidade. A tendência é que o plenário apoie a participação de Fux e Nunes Marques. \nO quórum da sessão pode ser uma das questões preliminares a ser debatida. \nNos bastidores, ministros não descartam um pedido de vista ou até mesmo o adiamento da sessão para discutir caso de Moraes. Outro ponto em aberto é se não haverá discussão sobre a sessão ser fechada.",
+      "summary": "O Supremo Tribunal Federal (STF) chega às vésperas da sessão desta terça-feira (15) que pode decidir sobre a abertura de uma apuração contra o ministro Alexandre de Moraes por mensagens enviadas por Daniel Vorcaro sem definição do rito e, principalmente, do quórum que vai analisar o relatório da Polícia Federal.\nMinistros discutem nos bastidores se os colegas Alexandre de Moraes e André Mendonça devem participar da sessão que vai decidir sobre a regularidade do relatório.\nAté agora, o Supremo só confirmou que a sessão será transmitida na TV Justiça e que o acesso ao plenário será restrito.\nAlvo do relatório da Polícia Federal que apontou 52 mensagens de Vorcaro, Moraes indicou em conversas internas que ainda não teria decidido se vai ou não pedir para se manifestar e até mesmo votar. \nUma ala do Supremo avalia que o ideal seria que Moraes não comparecesse ao plenário para não representar um movimento de pressão sobre os colegas. \nJá ministros alinhados com Moraes também discutem se vão levantar uma questão de ordem para que o ministro André Mendonça não possa participar da análise do caso. \nOs ministros Alexandre de Moraes e André Mendonça, do Supremo Tribunal Federal\nREUTERS/Adriano Machado\nO argumento é de que os questionamentos pela condução do relatório sobre Moraes impediriam que votasse no caso. \nA Procuradoria-Geral da República defendeu a nulidade do relatório e argumentou que Mendonça não só direcionou a busca de dados contra Moraes pela PF, como não consultou a Presidência sobre as medidas contra os colegas. Portanto, uma das possibilidades é que, se os ministros não decidirem o afastamento por iniciativa própria, o caso possa ser colocado para discussão do plenário.\nAo assumir a relatoria do caso de Moraes para a sessão, o presidente do STF, Edson Fachin, afirmou que, a depender do resultado da sessão, poderia ser aplicado trecho do Código de Processo Civil sobre o impedimento do relator. \nFachin conversou com Mendonça no sábado (12) sobre a medida, que foi elogiada por ministros alinhados a Moraes. \nFachin rejeita discutir na mesma sessão os casos dos ministros Moraes e Mendonça\nJornal Nacional/Reprodução\nAlternativas em discussão\nOutra possibilidade é que os ministros ainda discutam a participação de outros membros da Corte que supostamente teriam algum tipo de citação no caso Master, como Dias Toffoli, Kassio Nunes Marques e Luiz Fux. \nToffoli deixou a relatoria do caso Master após a PF apontar relação do ministro e da empresa da família com Vorcaro. Em relação a Nunes e Fux há uma possível menção a filhos dos ministros no material. Os três ministros negam qualquer irregularidade. A tendência é que o plenário apoie a participação de Fux e Nunes Marques. \nO quórum da sessão pode ser uma das questões preliminares a serem debatidas. \nNos bastidores, ministros não descartam um pedido de vista ou até mesmo o adiamento da sessão para discutir o caso de Moraes. Outro ponto em aberto é se não haverá discussão sobre a sessão ser fechada.\nAgora no g1",
       "tags": [
         "STF"
       ],
@@ -200,6 +245,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
@@ -221,6 +267,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
@@ -242,11 +289,78 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
       "score": 90,
       "publishedRaw": "Sun, 13 Sep 2026 20:28:26 -0000"
+    },
+    {
+      "id": "b784d9c7c886",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
+      "summary": "Flávio Bolsonaro e Lula\nGetty Images via BBC\nUma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisivo na eleição presidencial brasileira do próximo mês.\nO jornal britânico descreve a crise como uma \"disputa acirrada\" entre os ministros Alexandre de Moraes e André Mendonça, que está \"lançando uma sombra sobre a disputa\" entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).\nO Agregador de Pesquisa da BBC News Brasil sugere que Lula e Flávio Bolsonaro estão empatados no segundo turno.\n\"Embora Lula não tenha sido acusado no caso Banco Master, o episódio atinge um ponto sensível do veterano líder de esquerda, que no passado foi preso por corrupção em condenações posteriormente anuladas\", afirma o jornal.\n\"Flávio Bolsonaro tem tentado tirar proveito da situação ao renovar as exigências pela destituição de Moraes, que condenou seu pai. 'Um voto em Lula é um voto em Moraes', disse ele a apoiadores na semana passada.\"\nO jornal destaca que Flávio Bolsonaro foi citado no caso do Banco Master, que é tema de inquérito no STF, após revelações em maio de que ele pediu dinheiro ao banqueiro Daniel Vorcaro para a produção do filme Dark Horse — algo que o senador disse não ser ilegal.\n\"Apesar dessas revelações, [Flávio] Bolsonaro reduziu nas últimas semanas a diferença nas pesquisas de opinião, chegando a um empate técnico com Lula, que busca um quarto mandato não consecutivo.\"\nDatafolha: qual o impacto eleitoral da crise no STF?\nO jornal cita analistas ao dizer que a crise no STF é potencialmente prejudicial a Lula na disputa eleitoral. Um analista afirma que existe uma percepção em parte do eleitorado brasileiro de que Alexandre de Moraes está de alguma forma alinhado ao lado do governo.\n\"O episódio manchou a credibilidade de uma instituição aclamada internacionalmente nos últimos anos por defender o Brasil contra uma tentativa de golpe militar de Jair Bolsonaro, após sua derrota eleitoral para Lula em 2022\", diz o jornal.\n\"Isso também revitalizou a direita brasileira, que há muito acusa Moraes de perseguir injustamente conservadores e restringir a liberdade de expressão.\"\n\"O episódio levou o tribunal à beira de um colapso institucional e alimentou apelos por uma reforma do Judiciário.\"\nLEIA TAMBÉM:\nO Assunto: as veias abertas do STF e os embates sobre o fim do sigilo no Caso Master\nSTF se tornou ameaça à democracia no Brasil, diz revista 'The Economist'",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
+    },
+    {
+      "id": "b784d9c7c886",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
+      "summary": "Flávio Bolsonaro e Lula\nGetty Images via BBC\nUma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisivo na eleição presidencial brasileira do próximo mês.\nO jornal britânico descreve a crise como uma \"disputa acirrada\" entre os ministros Alexandre de Moraes e André Mendonça, que está \"lançando uma sombra sobre a disputa\" entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).\nO Agregador de Pesquisa da BBC News Brasil sugere que Lula e Flávio Bolsonaro estão empatados no segundo turno.\n\"Embora Lula não tenha sido acusado no caso Banco Master, o episódio atinge um ponto sensível do veterano líder de esquerda, que no passado foi preso por corrupção em condenações posteriormente anuladas\", afirma o jornal.\n\"Flávio Bolsonaro tem tentado tirar proveito da situação ao renovar as exigências pela destituição de Moraes, que condenou seu pai. 'Um voto em Lula é um voto em Moraes', disse ele a apoiadores na semana passada.\"\nO jornal destaca que Flávio Bolsonaro foi citado no caso do Banco Master, que é tema de inquérito no STF, após revelações em maio de que ele pediu dinheiro ao banqueiro Daniel Vorcaro para a produção do filme Dark Horse — algo que o senador disse não ser ilegal.\n\"Apesar dessas revelações, [Flávio] Bolsonaro reduziu nas últimas semanas a diferença nas pesquisas de opinião, chegando a um empate técnico com Lula, que busca um quarto mandato não consecutivo.\"\nDatafolha: qual o impacto eleitoral da crise no STF?\nO jornal cita analistas ao dizer que a crise no STF é potencialmente prejudicial a Lula na disputa eleitoral. Um analista afirma que existe uma percepção em parte do eleitorado brasileiro de que Alexandre de Moraes está de alguma forma alinhado ao lado do governo.\n\"O episódio manchou a credibilidade de uma instituição aclamada internacionalmente nos últimos anos por defender o Brasil contra uma tentativa de golpe militar de Jair Bolsonaro, após sua derrota eleitoral para Lula em 2022\", diz o jornal.\n\"Isso também revitalizou a direita brasileira, que há muito acusa Moraes de perseguir injustamente conservadores e restringir a liberdade de expressão.\"\n\"O episódio levou o tribunal à beira de um colapso institucional e alimentou apelos por uma reforma do Judiciário.\"\nLEIA TAMBÉM:\nO Assunto: as veias abertas do STF e os embates sobre o fim do sigilo no Caso Master\nSTF se tornou ameaça à democracia no Brasil, diz revista 'The Economist'",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
+    },
+    {
+      "id": "046d033cf8ab",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF entrega conteúdo do celular de Vorcaro a gabinete de Zanin no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml",
+      "summary": "A Polícia Federal entregou o conteúdo integral do celular do ex-banqueiro Daniel Vorcaro ao gabinete do ministro Cristiano Zanin, do STF (Supremo Tribunal Federal), que analisa o seu conteúdo.\nLeia mais (09/14/2026 - 10h05)",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "14 Sep 2026 10:05:00 -0300"
     },
     {
       "id": "e60439137f2b",
@@ -262,12 +376,37 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 12:34:27 +0000"
+    },
+    {
+      "id": "f8c9427f81be",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do STF recebem dados do celular de Vorcaro e iniciam varredura nas conversas do banqueiro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stf-recebem-dados-do-celular-de-vorcaro-e-iniciam-varredura-nas-conversas-do-banqueiro/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 13:05:31 +0000"
     },
     {
       "id": "86163cc243c2",
@@ -283,6 +422,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -304,6 +444,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -325,6 +466,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -346,6 +488,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -367,6 +510,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
@@ -399,84 +543,46 @@
       "publishedRaw": "Mon, 14 Sep 2026 00:26:41 GMT"
     },
     {
-      "id": "b784d9c7c886",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
-      "summary": "Flávio Bolsonaro e Lula\nGetty Images via BBC\nUma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisivo na eleição presidencial brasileira do próximo mês.\nO jornal britânico descreve a crise como uma \"disputa acirrada\" entre os ministros Alexandre de Moraes e André Mendonça, que está \"lançando uma sombra sobre a disputa\" entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).\nO Agregador de Pesquisa da BBC News Brasil sugere que Lula e Flávio Bolsonaro estão empatados no segundo turno.\n\"Embora Lula não tenha sido acusado no caso Banco Master, o episódio atinge um ponto sensível do veterano líder de esquerda, que no passado foi preso por corrupção em condenações posteriormente anuladas\", afirma o jornal.\n\"Flávio Bolsonaro tem tentado tirar proveito da situação ao renovar as exigências pela destituição de Moraes, que condenou seu pai. 'Um voto em Lula é um voto em Moraes', disse ele a apoiadores na semana passada.\"\nO jornal destaca que Flávio Bolsonaro foi citado no caso do Banco Master, que é tema de inquérito no STF, após revelações em maio de que ele pediu dinheiro ao banqueiro Daniel Vorcaro para a produção do filme Dark Horse — algo que o senador disse não ser ilegal.\n\"Apesar dessas revelações, [Flávio] Bolsonaro reduziu nas últimas semanas a diferença nas pesquisas de opinião, chegando a um empate técnico com Lula, que busca um quarto mandato não consecutivo.\"\nDatafolha: qual o impacto eleitoral da crise no STF?\nO jornal cita analistas ao dizer que a crise no STF é potencialmente prejudicial a Lula na disputa eleitoral. Um analista afirma que existe uma percepção em parte do eleitorado brasileiro de que Alexandre de Moraes está de alguma forma alinhado ao lado do governo.\n\"O episódio manchou a credibilidade de uma instituição aclamada internacionalmente nos últimos anos por defender o Brasil contra uma tentativa de golpe militar de Jair Bolsonaro, após sua derrota eleitoral para Lula em 2022\", diz o jornal.\n\"Isso também revitalizou a direita brasileira, que há muito acusa Moraes de perseguir injustamente conservadores e restringir a liberdade de expressão.\"\n\"O episódio levou o tribunal à beira de um colapso institucional e alimentou apelos por uma reforma do Judiciário.\"\nLEIA TAMBÉM:\nO Assunto: as veias abertas do STF e os embates sobre o fim do sigilo no Caso Master\nSTF se tornou ameaça à democracia no Brasil, diz revista 'The Economist'",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
-    },
-    {
-      "id": "b784d9c7c886",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz Financial Times",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/crise-no-stf-pode-ter-impacto-decisivo-na-eleicao-brasileira-diz-financial-times.ghtml",
-      "summary": "Flávio Bolsonaro e Lula\nGetty Images via BBC\nUma reportagem do jornal \"Financial Times\", publicada neste domingo (13), afirma que a crise sem precedentes no Supremo Tribunal Federal (STF) poderá ter um impacto decisivo na eleição presidencial brasileira do próximo mês.\nO jornal britânico descreve a crise como uma \"disputa acirrada\" entre os ministros Alexandre de Moraes e André Mendonça, que está \"lançando uma sombra sobre a disputa\" entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).\nO Agregador de Pesquisa da BBC News Brasil sugere que Lula e Flávio Bolsonaro estão empatados no segundo turno.\n\"Embora Lula não tenha sido acusado no caso Banco Master, o episódio atinge um ponto sensível do veterano líder de esquerda, que no passado foi preso por corrupção em condenações posteriormente anuladas\", afirma o jornal.\n\"Flávio Bolsonaro tem tentado tirar proveito da situação ao renovar as exigências pela destituição de Moraes, que condenou seu pai. 'Um voto em Lula é um voto em Moraes', disse ele a apoiadores na semana passada.\"\nO jornal destaca que Flávio Bolsonaro foi citado no caso do Banco Master, que é tema de inquérito no STF, após revelações em maio de que ele pediu dinheiro ao banqueiro Daniel Vorcaro para a produção do filme Dark Horse — algo que o senador disse não ser ilegal.\n\"Apesar dessas revelações, [Flávio] Bolsonaro reduziu nas últimas semanas a diferença nas pesquisas de opinião, chegando a um empate técnico com Lula, que busca um quarto mandato não consecutivo.\"\nDatafolha: qual o impacto eleitoral da crise no STF?\nO jornal cita analistas ao dizer que a crise no STF é potencialmente prejudicial a Lula na disputa eleitoral. Um analista afirma que existe uma percepção em parte do eleitorado brasileiro de que Alexandre de Moraes está de alguma forma alinhado ao lado do governo.\n\"O episódio manchou a credibilidade de uma instituição aclamada internacionalmente nos últimos anos por defender o Brasil contra uma tentativa de golpe militar de Jair Bolsonaro, após sua derrota eleitoral para Lula em 2022\", diz o jornal.\n\"Isso também revitalizou a direita brasileira, que há muito acusa Moraes de perseguir injustamente conservadores e restringir a liberdade de expressão.\"\n\"O episódio levou o tribunal à beira de um colapso institucional e alimentou apelos por uma reforma do Judiciário.\"\nLEIA TAMBÉM:\nO Assunto: as veias abertas do STF e os embates sobre o fim do sigilo no Caso Master\nSTF se tornou ameaça à democracia no Brasil, diz revista 'The Economist'",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
-    },
-    {
-      "id": "27ef7de6627e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro chama operação da PF sobre emendas para filme de ‘interferência política’ de Dino",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-de-dino-nprp/",
-      "summary": "Operação da PF investiga supostos desvios de dinheiro público para a produção de “Dark Horse”, biografia de Jair Bolsonaro",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 10 Sep 2026 19:16:12 +0000"
-    },
-    {
-      "id": "e5d821cd0a0d",
+      "id": "77f0a2941c53",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
-      "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investigação foi instaurada em julho; detalhes sobre os desdobramentos foram revelados em nova leva de documentos liberados pelo ministro André Mendonça.",
+      "title": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
+      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Entre os alvos da investigação que está sob relatoria de Dino no STF estão o deputado federal Mario Frias (PL-SP), produtor executivo do filme, e Karina Gama, dona da produtora responsável.",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 87,
-      "publishedRaw": "Sat, 12 Sep 2026 16:11:04 GMT"
+      "publishedRaw": "Sun, 13 Sep 2026 23:09:45 GMT"
+    },
+    {
+      "id": "c3ba50351f29",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zanin recebe acesso integral a conteúdo no celular de Daniel Vorcaro apreendido pela PF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/14/pf-compartilha-dados-de-celular-de-vorcaro-apos-pedido-de-zanin.ghtml",
+      "summary": "PF entrega dados de celular de Vorcaro a Zanin\nO gabinete do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), confirmou que o magistrado recebeu nesta segunda-feira (14) o conteúdo integral do celular de Daniel Vorcaro, dono do extinto Banco Master. \nA entrega ocorreu após o ministro determinar, nesse domingo (13), que o  diretor-geral da Polícia Federal (PF), Andrei Rodrigues, compartilhasse com ele uma cópia do material na íntegra. O aparelho foi apreendido em novembro, durante a Operação Compliance Zero. \nA decisão de Zanin aprofundou o clima de tensão no STF. Nesta terça-feira (15), os ministros vão analisar se a Corte deve apurar uma troca de mensagens entre Vorcaro e o ministro Alexandre de Moraes.\nZanin durante julgamento dos acusados de mandar matar Marielle Franco\nGustavo Moreno/STF\nMendonça afirmou que conteúdo iria 'tumultuar julgamento'\nHoras antes, no domingo, o ministro André Mendonça enviou ofício sustentando que a abertura e o compartilhamento de todo o conteúdo extraído do celular \"somente contribuiria para tumultuar o julgamento\" e colocaria \"em risco todo o seguimento e êxito das investigações\".\nMendonça alegou que todos os ministros já contavam com o mesmo material necessário para o julgamento.\nDe outro lado, ministros como Alexandre de Moraes, Gilmar Mendes e o próprio Zanin vinham cobrando acesso irrestrito ao espelhamento completo do aparelho para contextualização ampla dos fatos antes de qualquer deliberação do plenário.\n- Esta reportagem está em atualização.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 12:59:26 -0000"
     },
     {
       "id": "a91a113ffec2",
@@ -523,26 +629,48 @@
       "publishedRaw": "Sun, 13 Sep 2026 20:11:52 -0000"
     },
     {
-      "id": "2d4bb4b3ed3f",
-      "source": "G1 - Política",
+      "id": "9c6af0ae9fff",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mendonça diz que compartilhar conteúdo do celular de Vorcaro só serviria para 'tumultuar' e pode colocar investigações em risco",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/13/mendonca-celular-vorcaro.ghtml",
-      "summary": "O ministro do Supremo Tribunal Federal (STF) André Mendonça afirmou, em ofício neste domingo (13), que incluir novos elementos e abrir a íntegra das informações extraídas do celular do ex-banqueiro Daniel Vorcaro \"somente contribuiria para tumultuar o julgamento\" e \"colocaria em risco todo o seguimento e êxito das investigações\".\nA manifestação ocorre a dois dias do julgamento no plenário do STF, marcado para a próxima terça-feira (15), no qual os ministros devem analisar o relatório da Polícia Federal sobre mensagens trocadas entre Vorcaro e o ministro Alexandre de Moraes.\n\"A inserção de elementos adicionais, que não constam dos autos até o presente momento, o que inclui a abertura de todas as informações contidas no celular do senhor Daniel Vorcaro, somente contribuiria para tumultuar o julgamento, bem como colocaria em risco todo o seguimento e êxito das investigações, dando ensejo à suscitação de questionamentos de toda ordem, para desviar o feito especificamente apregoado para julgamento de seu caminho natural\", disse Mendonça. \nNos últimos dias, os ministros Cristiano Zanin, Gilmar Mendes e o próprio Alexandre de Moraes acionaram a presidência da Corte para cobrar o acesso integral ao espelhamento do aparelho — um iPhone apreendido pela PF nas apurações ligadas ao Banco Master. \nAgora no g1\nZanin e Gilmar argumentaram que os magistrados precisam de todo o contexto para decidir, enquanto Moraes pontuou que \"não cabe ao relator escolher quais os documentos acessíveis ao Colegiado para realizar seu julgamento\".\nNo documento deste domingo, Mendonça rebateu as cobranças e assegurou que todos os integrantes do tribunal têm acesso ao mesmo material que ele próprio utilizará.\n\"Reitero que todo o material utilizado para o julgamento da próxima terça-feira encontra-se disponível, na íntegra, a todos os ministros deste tribunal. Para tal fim, este ministro dispõe exatamente do mesmo conjunto de elementos de informação franqueado aos demais pares que irão participar da referida sessão\", escreveu.\nAo citar o presidente da Corte, Luiz Edson Fachin, Mendonça concluiu afirmando que \"como bem enfatizou o eminente Presidente, 'a gravidade dos fatos não autoriza atalhos', mas também não tolera subterfúgios ou desvios de rotas, rumo a outros interesses que não os da Justiça\".\nPedido de explicações a delegados da PF\nAndré Mendonça\nRosinei Coutinho/STF\nNo mesmo despacho, Mendonça solicitou a Fachin que determine a quatro delegados da PF a prestação de informações, no prazo de 24 horas, sobre como se deu o envio de relatórios e mídias ao seu gabinete em março de 2026.\nMendonça solicitou que os policiais esclareçam as circunstâncias da entrega do material e informem se sofreram eventuais \"constrangimentos sofridos ao longo das investigações\".\nImpasse pré-julgamento\nAliados de Moraes devem apontar falhas processuais\nA manifestação de Mendonça é mais um capítulo da crise e da troca de ofícios que se intensificou no STF às vésperas da sessão de terça-feira (15).\nNo sábado (12), Fachin havia concedido prazo de 24 horas para que a Polícia Federal esclarecesse a situação do celular de Vorcaro e a integridade da cadeia de armazenamento das provas. \nNa manhã deste domingo (13), a PF respondeu que o aparelho e a extração originais permanecem guardados com segurança na corporação e que tem plenas condições técnicas de remeter cópias idênticas a todos os gabinetes que requisitarem.\nA PF pontuou ainda que o arquivo repassado ao gabinete de Mendonça em março era uma cópia, atendendo a uma solicitação formal do relator. \nMendonça, por sua vez, já havia argumentado anteriormente que mantinha os arquivos lacrados e criptografados em seu gabinete como contraprova de segurança, sem tê-los manuseado.\nEnquanto isso, a ala de Moraes no Supremo articula levantar questões preliminares e nulidades processuais na sessão de terça-feira, apontando supostas irregularidades na confecção e no direcionamento do relatório de Mendonça e a falta de acesso prévio a todo o celular de Vorcaro.\nSeria uma tentativa de barrar a abertura de uma apuração contra o ministro. A Procuradoria-Geral da República (PGR) também já opinou pelo arquivamento do relatório com base em vícios de tramitação.\nMinistros do STF Alexandre de Moraes, André Mendonça, Cristiano Zanin e Edson Fachin\nReprodução",
+      "title": "PF entrega dados do celular de Vorcaro ao gabinete de Zanin",
+      "link": "https://www.cnnbrasil.com.br/politica/pf-entrega-dados-do-celular-de-vorcaro-ao-gabinete-de-zanin/",
+      "summary": "Equipe do ministro do STF já iniciou a análise do material recebido",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Sun, 13 Sep 2026 17:20:15 -0000"
+      "publishedRaw": "Mon, 14 Sep 2026 12:59:17 +0000"
+    },
+    {
+      "id": "7ff00b584c9b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Folha de louro na capa do celular: para que serve e por que recomendam",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/folha-de-louro-na-capa-do-celular-para-que-serve-e-por-que-recomendam/",
+      "summary": "Prática popularizada nas redes sociais une simbolismo antigo e rotina moderna como lembrete diário de foco e prosperidade",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 12:45:02 +0000"
     },
     {
       "id": "868f5df98d32",
@@ -565,28 +693,6 @@
       ],
       "score": 85,
       "publishedRaw": "Mon, 14 Sep 2026 12:17:39 +0000"
-    },
-    {
-      "id": "d5aa497eafa7",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: Em São Paulo, Flávio tem 50% no 2º turno; Lula, 44%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-sp-flavio-tem-50-no-2o-turno-lula-44/",
-      "summary": "Instituto fez 2.000 entrevistas entre os dias 9 e 12 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 14 Sep 2026 11:56:03 +0000"
     },
     {
       "id": "9105714f8db0",
@@ -655,6 +761,28 @@
       "publishedRaw": "Sun, 13 Sep 2026 20:48:10 +0000"
     },
     {
+      "id": "899e212b7648",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF entrega a Zanin cópia dos dados do celular de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/pf-entrega-ao-gabinete-de-zanin-copia-do-celular-de-vorcaro/",
+      "summary": "No domingo, a corporação informou ao STF que tinha condições técnicas de enviar o conteúdo do aparelho ao gabinete dos ministros",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 12:56:15 +0000"
+    },
+    {
       "id": "cf4412101c80",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -675,28 +803,6 @@
       ],
       "score": 85,
       "publishedRaw": "Mon, 14 Sep 2026 12:33:24 +0000"
-    },
-    {
-      "id": "f39779be322e",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 47% contra 46% de Flávio no 2º turno, mostra BTG/Nexus",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-47-contra-46-de-flavio-no-2o-turno-mostra-btg-nexus/",
-      "summary": "Levantamento mostra presidente e candidato do PL empatados na margem de erro de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 14 Sep 2026 10:44:07 +0000"
     },
     {
       "id": "0240ecf82072",
@@ -740,25 +846,6 @@
       "publishedRaw": "Mon, 14 Sep 2026 07:00:01 -0000"
     },
     {
-      "id": "77f0a2941c53",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
-      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Entre os alvos da investigação que está sob relatoria de Dino no STF estão o deputado federal Mario Frias (PL-SP), produtor executivo do filme, e Karina Gama, dona da produtora responsável.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Sun, 13 Sep 2026 23:09:45 GMT"
-    },
-    {
       "id": "1509b7a6ab81",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -791,6 +878,21 @@
       "crossOutlets": [],
       "score": 65,
       "publishedRaw": "Mon, 14 Sep 2026 11:00:00 +0000"
+    },
+    {
+      "id": "a426ab58e1c5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Só 9% dos membros da bancada de educação no Congresso priorizam emendas para a área",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/09/so-9-dos-membros-da-bancada-de-educacao-no-congresso-priorizam-emendas-para-a-area.shtml",
+      "summary": "Somente 20 dos 227 parlamentares da Frente Parlamentar Mista de Educação destinaram as maiores parcelas de suas emendas individuais à educação em 2024 e 2025. Isso representa 9% dos parlamentares da bancada.\nLeia mais (09/14/2026 - 10h00)",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "14 Sep 2026 10:00:00 -0300"
     },
     {
       "id": "85bec5e3c54d",
