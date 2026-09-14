@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:16:36.051373+00:00",
+  "generated_at": "2026-09-14T20:42:49.319410+00:00",
   "items": [
     {
       "id": "b5e153bac7f9",
@@ -276,6 +276,29 @@
       "publishedRaw": "Mon, 14 Sep 2026 19:26:02 +0000"
     },
     {
+      "id": "250b3074b3e1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pesquisa Quaest: Desconfiança com o STF cresce 10 pontos e alcança 56%; só 9% confiam muito na Corte",
+      "link": "https://www.estadao.com.br/politica/pesquisa-quaest-desconfianca-com-o-stf-cresce-10-pontos-e-alcanca-56-so-9-confiam-muito-na-corte/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 19:47:15 +0000"
+    },
+    {
       "id": "56b3fd5ee833",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -529,7 +552,7 @@
       "category": "Política",
       "title": "Lula prorroga crédito de R$ 30 bi para motoristas de aplicativo e inclui vans escolares",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-prorroga-credito-de-r-30-bi-para-motoristas-de-aplicativo-e-inclui-vans-escolares.shtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou na tarde desta segunda-feira (14) o projeto de lei que prorroga o programa Move Brasil Táxi e Aplicativos, com R$ 30 bilhões em crédito subsidiado para aquisição de veículos novos e seminovos por entregadores, motoristas de táxi, aplicativoe transporte escolar.\nLeia mais (09/14/2026 - 16h34)",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) sancionou na tarde desta segunda-feira (14) o projeto de lei que prorroga o programa Move Brasil Táxi e Aplicativos, com R$ 30 bilhões em crédito subsidiado para aquisição de veículos novos e seminovos por motoristas de táxi, aplicativos e transporte escolar.\nLeia mais (09/14/2026 - 16h34)",
       "tags": [
         "Lula"
       ],
@@ -607,6 +630,27 @@
       "publishedRaw": "Mon, 14 Sep 2026 16:15:52 +0000"
     },
     {
+      "id": "8bf7adc87359",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Petistas falam em Lula atrás de Flávio, ajustes e vitória no 2º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/petistas-falam-em-lula-atras-de-flavio-ajustes-e-vitoria-no-2o-turno/",
+      "summary": "Há menção a dificuldades na campanha e do presidente em melhorar sua aprovação, além de acirramento nas eleições",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 14 Sep 2026 20:29:23 +0000"
+    },
+    {
       "id": "30cac1d27666",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -666,25 +710,6 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 14 Sep 2026 07:00:01 -0000"
-    },
-    {
-      "id": "4e718302999b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vitória de Flávio Bolsonaro no 1º turno não seria uma surpresa, diz o economista Maurício Moura",
-      "link": "https://www.estadao.com.br/politica/eleicoes/vitoria-de-flavio-bolsonaro-no-1-turno-nao-seria-uma-surpresa-diz-o-economista-mauricio-moura/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 14 Sep 2026 15:00:00 +0000"
     },
     {
       "id": "ab48ee7bacb2",
@@ -789,6 +814,21 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "14 Sep 2026 16:22:00 -0300"
+    },
+    {
+      "id": "2cd145563f0f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Receita envia ao TCU modelo de cálculo da nova contribuição da reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/receita-envia-ao-tcu-modelo-de-calculo-da-nova-contribuicao-da-reforma-tributaria.shtml",
+      "summary": "A Receita Federal envia nesta segunda-feira (14) ao TCU (Tribunal de Contas da União) o modelo de cálculo da CBS, a contribuição sobre bens e serviços que substitui três outros tributos a partir de janeiro de 2027 (PIS, Cofins e IOF-Seguros) e também repõe parte da arrecadação do IPI (Imposto sobre Produtos Industrializados).\nLeia mais (09/14/2026 - 17h25)",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "14 Sep 2026 17:25:00 -0300"
     }
   ]
 }
