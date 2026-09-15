@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:18:15.974865+00:00",
+  "generated_at": "2026-09-15T09:47:16.537144+00:00",
   "items": [
     {
       "id": "5e2e7e99525d",
@@ -264,6 +264,27 @@
       "publishedRaw": "15 Sep 2026 05:00:00 -0300"
     },
     {
+      "id": "6183d8998505",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin será o primeiro a votar em sessão histórica do STF; entenda rito",
+      "link": "https://www.cnnbrasil.com.br/politica/fachin-sera-o-primeiro-a-votar-em-sessao-historica-do-stf-entenda-rito/",
+      "summary": "Presidente da Corte apresentará relatório e voto antes dos demais ministros; plenário também pode discutir validade da apuração e abertura de investigação contra Moraes",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 15 Sep 2026 09:00:27 +0000"
+    },
+    {
       "id": "9885b19eb516",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -283,27 +304,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 15 Sep 2026 08:30:45 +0000"
-    },
-    {
-      "id": "b84a0119f321",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Julgamento de Moraes é algo único na história do STF e República, diz Arko",
-      "link": "https://www.cnnbrasil.com.br/politica/julgamento-de-moraes-e-algo-unico-na-historia-do-stf-e-republica-diz-arko/",
-      "summary": "Ao WW, Murillo de Aragão, CEO da Arko Advice, avalia sessão do STF que analisa pedido de investigação contra Alexandre de Moraes como momento único na história da República",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Tue, 15 Sep 2026 07:13:26 +0000"
     },
     {
       "id": "48bc1bb2a066",
@@ -455,32 +455,11 @@
       "publishedRaw": "Mon, 14 Sep 2026 20:19:19 +0000"
     },
     {
-      "id": "56b3fd5ee833",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tereza Cristina aciona 40 senadores para acompanhar em Brasília julgamento de Moraes no STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tereza-cristina-aciona-40-senadores-para-acompanhar-em-brasilia-julgamento-de-moraes-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 18:15:00 +0000"
-    },
-    {
       "id": "995c18eff79c",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "AO VIVO: Caso Moraes-Vorcaro é analisado em sessão plenária pelo STF; acompanhe",
+      "title": "Caso Moraes-Vorcaro é analisado em sessão plenária pelo STF; acompanhe",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "summary": "Ministros fazem sessão para discutir crise aberata após a divulgação de conversas suspeitas entre Alexandre de Moraes e o banqueiro Daniel Vorcaro, do Banco Master. Eles também devem analisar uma possível abertura de investigação para apurar a conduta do ministro Moraes.",
       "tags": [
@@ -770,6 +749,21 @@
       "crossOutlets": [],
       "score": 68,
       "publishedRaw": "Mon, 14 Sep 2026 22:25:09 -0000"
+    },
+    {
+      "id": "ca17e7f78ac1",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
+      "link": "https://www.bbc.com/portuguese/articles/cm750xnveq4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Secretário da Força Aérea dos EUA afirma que as armas são necessárias para defender o país contra ações inimigas.",
+      "tags": [
+        "armamento"
+      ],
+      "crossOutlets": [],
+      "score": 50,
+      "publishedRaw": "Tue, 15 Sep 2026 09:40:59 GMT"
     }
   ]
 }
