@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:15:50.328661+00:00",
+  "generated_at": "2026-09-15T11:42:47.988400+00:00",
   "items": [
     {
       "id": "e39b5904187f",
@@ -16,11 +16,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
     },
     {
@@ -38,12 +39,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "5e2e7e99525d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vitória de Flávio Bolsonaro e derrota da Justiça no STF seriam reviravolta histórica no País",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/vitoria-de-flavio-bolsonaro-e-derrota-da-justica-no-stf-seriam-reviravolta-historica-no-pais/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 15 Sep 2026 00:03:45 +0000"
     },
     {
       "id": "d8d99dc846e6",
@@ -59,6 +83,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -81,6 +106,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -90,25 +116,24 @@
       "publishedRaw": "Tue, 15 Sep 2026 08:30:00 +0000"
     },
     {
-      "id": "5e2e7e99525d",
-      "source": "Estadão",
+      "id": "f0ef31995dd8",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Vitória de Flávio Bolsonaro e derrota da Justiça no STF seriam reviravolta histórica no País",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/vitoria-de-flavio-bolsonaro-e-derrota-da-justica-no-stf-seriam-reviravolta-historica-no-pais/",
-      "summary": "",
+      "title": "STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro",
+      "link": "https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml",
+      "summary": "STF analisa nesta terça se abre investigação contra Moraes por mensagens com Vorcaro Plenário analisa relatório da PF sobre conversas entre o ministro e o ex-banqueiro, pivô do Caso Master. Pela 1ª vez na história do STF,  ministros da Corte se reúnem nesta terça-feira (15) para decidir se um colega deve ou não ser investigado.. Os ministros vão analisar um relatório da PF que apontou 52 mensagens trocadas entre o ministro Alexandre de Moraes e o ex-dono do Banco Master, Daniel Vorcaro.. Moraes se manifestou pela 1ª vez ontem, chamou a apuração de Mendonça contra ele de ilegal e disse que nunca favoreceu Vorcaro.. . O 1º a votar será o presidente do STF, Edson Fachin, que assumiu a relatoria do caso. A sessão ainda está cercada de incertezas sobre o rito, o quórum e até mesmo a extensão do que será votado. O julgamento ocorre em meio a uma crise sem precedentes no Supremo, marcado por tensões e uma 'batalha' de pedidos entre ministros. Entenda a cronologia da crise",
       "tags": [
-        "STF",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 90,
-      "publishedRaw": "Tue, 15 Sep 2026 00:03:45 +0000"
+      "score": 89,
+      "publishedRaw": "Tue, 15 Sep 2026 11:32:27 -0000"
     },
     {
       "id": "5a8bf34f34b6",
@@ -123,10 +148,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 10:52:28 -0000"
     },
     {
@@ -142,10 +168,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:01 -0000"
     },
     {
@@ -161,10 +188,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:01 -0000"
     },
     {
@@ -180,10 +208,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
     },
     {
@@ -199,10 +228,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
     },
     {
@@ -218,10 +248,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 02:00:00 -0000"
     },
     {
@@ -237,30 +268,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "15 Sep 2026 06:00:00 -0300"
     },
     {
-      "id": "165a08e88627",
-      "source": "Folha de São Paulo",
+      "id": "66f18b807018",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Podcast debate como caso Master e crise no STF afetam campanha eleitoral",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-debate-como-caso-master-e-crise-no-stf-afetam-campanha-eleitoral.shtml",
-      "summary": "Os ministros do Supremo Tribunal Federal devem discutir a partir das 10h desta terça-feira (15) um relatório da Polícia Federal, produzido a pedido de André Mendonça, que aponta Alexandre de Moraes como interlocutor de Daniel Vorcaro, dono do extinto banco Master. O presidente do STF, Edson Fachin, divulgou regras genéricas para a sessão -ainda há dúvidas em aberto; por exemplo, como será a participação de Moraes no julgamento.\nLeia mais (09/15/2026 - 05h00)",
+      "title": "Ministros do STF precisam responder à sociedade, avalia especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/ministros-precisam-responder-a-sociedade-avalia-especialista/",
+      "summary": "Especialista avalia, ao CNN Novo Dia, sessão histórica do STF sobre relatório da PF com mensagens entre Alexandre de Moraes e Daniel Vorcaro",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "15 Sep 2026 05:00:00 -0300"
+      "score": 89,
+      "publishedRaw": "Tue, 15 Sep 2026 11:18:33 +0000"
     },
     {
       "id": "5b51103ca2bc",
@@ -275,10 +308,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 10:26:36 +0000"
     },
     {
@@ -294,10 +328,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 10:34:41 +0000"
     },
     {
@@ -313,10 +348,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 08:30:00 +0000"
     },
     {
@@ -332,10 +368,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 08:30:00 +0000"
     },
     {
@@ -351,10 +388,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Mon, 14 Sep 2026 21:37:12 +0000"
     },
     {
@@ -370,10 +408,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Tue, 15 Sep 2026 00:50:15 +0000"
     },
     {
@@ -389,10 +428,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Mon, 14 Sep 2026 12:36:25 +0000"
     },
     {
@@ -407,11 +447,12 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": ""
     },
     {
@@ -426,11 +467,12 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Mon, 14 Sep 2026 22:22:49 GMT"
     },
     {
@@ -445,31 +487,173 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Mon, 14 Sep 2026 18:36:24 GMT"
     },
     {
-      "id": "480cb68f7b40",
-      "source": "BBC Brasil",
+      "id": "491a90649823",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Guia explica tudo o que os ministros do STF decidiram sobre o caso Master no fim de semana",
-      "link": "https://www.bbc.com/portuguese/articles/czdzg00rzp4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fim de semana foi marcado por divulgação intensa de despachos e ofícios de ministros do Supremo Tribunal Federal em meio à crise sem precedentes da Corte.",
+      "category": "Política",
+      "title": "Real Time: Lula lidera cenários de 1º e 2º turnos em Pernambuco",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-lula-lidera-cenarios-de-1o-e-2o-turnos-em-pernambuco/",
+      "summary": "Pesquisa ouviu 1.600 eleitores pernambucanos entre 10 e 14 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
       "tags": [
-        "STF"
+        "Lula"
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 15 Sep 2026 11:05:08 +0000"
+    },
+    {
+      "id": "ca00abcf3799",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula lidera cenários de 1º e 2º turnos em Alagoas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-lidera-cenarios-de-1o-e-2o-turnos-em-alagoas/",
+      "summary": "Pesquisa ouviu 1.600 eleitores alagoanos entre 10 e 14 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 15 Sep 2026 11:01:31 +0000"
+    },
+    {
+      "id": "0470d1ff1d1c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula lidera cenários de 1º e 2º turnos no Pará",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-lidera-cenarios-de-1o-e-2o-turnos-no-para/",
+      "summary": "Pesquisa ouviu 1.600 eleitores paraenses entre 10 e 14 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 15 Sep 2026 11:00:27 +0000"
+    },
+    {
+      "id": "659920245a19",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Candidatos a presidente gastam R$ 150 milhões em menos de um mês, com Lula liderando despesas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/candidatos-a-presidente-gastam-r-150-milhoes-em-menos-de-um-mes-com-lula-liderando-despesas/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 14 Sep 2026 17:53:39 +0000"
+    },
+    {
+      "id": "120aea965786",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Huawei e Xiaomi abandonam modelos baratos e lançam celulares dobráveis",
+      "link": "https://www.poder360.com.br/poder-china/huawei-e-xiaomi-abandonam-modelos-baratos-e-lancam-celulares-dobraveis/",
+      "summary": "Alta no valor dos componentes eletrônicos faz as empresas apostarem em celulares premium para manter a margem de lucros",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Mon, 14 Sep 2026 18:46:55 GMT"
+      "publishedRaw": "Tue, 15 Sep 2026 10:03:42 +0000"
+    },
+    {
+      "id": "24f8b0ae0e84",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-7/",
+      "summary": "Cerimônia de sanção do Redata com presença de ministros no Planalto e viagem oficial a Angola movimentam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 15 Sep 2026 09:15:44 +0000"
+    },
+    {
+      "id": "64b6ccc6808a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Agenda de Lula: leia os compromissos do presidente 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-2/",
+      "summary": "Sanção do Redata no Palácio do Planalto e reunião sobre comunicação no Palácio do Alvorada movimentam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 15 Sep 2026 09:15:39 +0000"
+    },
+    {
+      "id": "48726f26ccb2",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Após crise do metanol, garrafas ganham selo que permite detectar bebidas falsificadas pelo celular",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/09/15/apos-crise-do-metanol-garrafas-ganham-selo-que-permite-detectar-bebidas-falsificadas-pelo-celular.ghtml",
+      "summary": "Um ano após crise do metanol, investigações avançam, mas ainda há mortes no país por intoxicação\nOs casos de intoxicação por metanol registrados ao longo de 2025, que deixaram ao menos 25 mortos no país e levaram autoridades de saúde a emitir alertas, colocaram a autenticidade das bebidas no centro das discussões.\nO tema, antes mais associado aos prejuízos econômicos da indústria e ao comércio ilegal, passou a envolver diretamente questões de saúde pública e fez a indústria de bebidas alcoólicas se mexer.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nNesta terça-feira (15), a Diageo, fabricante de bebidas e dona de marcas como Johnnie Walker e Smirnoff, anunciou uma solução feita em parceria com a Securetrace, empresa especializada em tecnologias de segurança usadas em documentos oficiais e sistemas de prevenção a fraudes, para verificar digitalmente a origem das bebidas da companhia.\nA proposta é simples: o consumidor aponta a câmera do celular para um selo na embalagem, e o sistema informa se a garrafa foi identificada como autêntica.\nO Selo Drink Seguro permite aos consumidores conferir a autenticidade de bebidas alcoólicas.\nRafaela Zem/g1\n➡️ A implementação, por enquanto, está restrita ao mercado brasileiro e abrange categorias que historicamente registram casos de falsificação, como uísques, vodcas, gins, tequilas e licores.\n“O selo é muito claramente para o consumidor, no sentido de resgatar a confiança, de ele conseguir ter autonomia e visibilidade daquilo que está consumindo. (...) Também é uma maneira de dar credibilidade para o estabelecimento”, afirma Paula Lindenberg, presidente da Diageo no Brasil.\nCerca de 4 milhões de garrafas já recebem o selo por mês. A tecnologia está presente em 100% do portfólio importado e na Smirnoff engarrafada no Brasil, o que corresponde a 95% do negócio de destilados da companhia no país.\nSegundo a Securetrace, o selo usa a mesma tecnologia presente em recursos de proteção do passaporte brasileiro, das cédulas de euro e dos elementos holográficos da nota de R$ 100.\n📎 Cada selo recebe uma espécie de impressão digital exclusiva, invisível ao consumidor, formada por padrões microscópicos que criam uma identificação única para cada unidade. Segundo a empresa, existem mais de 27 trilhões de combinações possíveis.\nQuando a câmera do celular é apontada para o selo, uma inteligência artificial analisa o padrão e o compara com o banco de dados do sistema. Se houver correspondência, a autenticidade é confirmada e a plataforma exibe a mensagem \"Verificado\".\nA tecnologia possui certificação internacional ISO 12931, norma voltada a sistemas de autenticação e combate à falsificação, explica Mario Nicoli Netto, CEO da Securetrace. Segundo a empresa, sua capacidade de impedir cópias chega a 99,99%.\n\"A tecnologia transforma a câmera do celular em uma ferramenta de acesso direto à origem do produto. Cada selo possui uma impressão digital única, protegida por uma tecnologia anticópia certificada internacionalmente, capaz de identificar tentativas de reprodução em segundos\", afirma Mario Nicoli Netto, CEO da Securetrace.\nJovem está com suspeita de intoxicação por metanol, em Goiás\nWesley Costa/O Popular\nCrise do Metanol\nOs episódios envolvendo metanol expuseram um dos riscos mais graves relacionados à falsificação e à adulteração de bebidas alcoólicas.\n🔎 Diferentemente do etanol utilizado na produção regular de bebidas, o metanol é uma substância altamente tóxica. Sua ingestão pode causar cegueira, danos neurológicos graves, insuficiência respiratória e morte.\nA crise ganhou dimensão nacional no segundo semestre de 2025. O aumento dos casos levou o governo federal a emitir alertas à população e a criar uma sala de situação para acompanhar as ocorrências.\nEmbora o período mais crítico tenha ficado para trás no fim daquele ano, novos episódios continuaram sendo registrados em 2026.\nUma reportagem exibida pelo Fantástico neste domingo (13) mostrou que, um ano após o início da crise, as investigações avançaram e já identificaram parte da cadeia de falsificação responsável por distribuir bebidas adulteradas. \nApesar disso, vítimas continuam convivendo com sequelas permanentes, e novos casos ainda vêm sendo registrados no país.\nMercado ilegal movimenta R$ 28 bilhões\nEmbora a falsificação tenha ganhado visibilidade por causa dos riscos à saúde, ela representa apenas uma parte de um mercado ilegal muito mais amplo.\nUm estudo da Euromonitor International estima que as atividades ilegais ligadas ao setor de bebidas movimentem aproximadamente R$ 28 bilhões por ano no Brasil. Nesse universo estão o contrabando, a sonegação fiscal, a produção sem registro e a falsificação.\nA pesquisa aponta ainda que a falsificação representa 4,7% do mercado total de bebidas destiladas no Brasil. Apesar da parcela menor, é a prática que mais preocupa pelo risco à saúde.\nAlém disso, o problema gera prejuízos para fabricantes, distribuidores, varejistas e para a arrecadação pública, ao desviar recursos de impostos e alimentar estruturas clandestinas de produção e distribuição.\nPor isso, o combate ao mercado ilegal tem mobilizado não apenas empresas privadas, mas também órgãos reguladores e autoridades públicas.\nChevrolet Onix ECO usa exclusivamente etanol no tanque\nDivulgação / GM\nCombate passa por diferentes frentes\nO lançamento da tecnologia da Diageo ocorre em paralelo a outras iniciativas voltadas ao enfrentamento do problema. Uma das medidas em discussão é conduzida pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).\nEm setembro, a agência aprovou um estudo que propõe alterações na composição do etanol hidratado combustível para dificultar o desvio do produto para a fabricação clandestina de bebidas.\nEntre as alternativas analisadas está a adição obrigatória de benzoato de denatônio, substância de sabor extremamente amargo, amplamente utilizada em produtos de higiene e limpeza para impedir a ingestão acidental.\nA ANP também trabalha em uma medida considerada mais imediata: a inclusão obrigatória de corante verde no etanol combustível produzido pelas usinas.\nA expectativa é que a mudança facilite a identificação do uso irregular do produto e reduza sua utilização em esquemas clandestinos de adulteração de bebidas.\nAs propostas ainda precisam passar por etapas regulatórias e avaliações técnicas, incluindo análises sobre eventuais impactos em veículos e motores.\nO avanço dessas discussões mostra que o combate à fraude não depende de uma única solução. \nEnquanto órgãos públicos tentam dificultar o acesso às matérias-primas utilizadas por fabricantes clandestinos, empresas investem em sistemas de autenticação, rastreamento e compartilhamento de informações com autoridades.\nAinda assim, especialistas destacam que nenhuma tecnologia é capaz de eliminar completamente a falsificação. Fiscalização, investigação policial, cooperação entre empresas e punição de grupos criminosos continuam centrais para reduzir a circulação de bebidas adulteradas.\n\"A preocupação de combater a falsificação é uma preocupação para sempre e é a partir daí que vem a iniciativa desse selo, com uma intenção clara de que episódios como esse nunca mais voltem a acontecer\", afirma Paula Lindenberg, da Diageo.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "5884d6e61821",
@@ -489,82 +673,6 @@
       ],
       "score": 81,
       "publishedRaw": "Tue, 15 Sep 2026 08:00:44 GMT"
-    },
-    {
-      "id": "659920245a19",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Candidatos a presidente gastam R$ 150 milhões em menos de um mês, com Lula liderando despesas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/candidatos-a-presidente-gastam-r-150-milhoes-em-menos-de-um-mes-com-lula-liderando-despesas/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Mon, 14 Sep 2026 17:53:39 +0000"
-    },
-    {
-      "id": "120aea965786",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Huawei e Xiaomi abandonam modelos baratos e lançam celulares dobráveis",
-      "link": "https://www.poder360.com.br/poder-china/huawei-e-xiaomi-abandonam-modelos-baratos-e-lancam-celulares-dobraveis/",
-      "summary": "Alta no valor dos componentes eletrônicos faz as empresas apostarem em celulares premium para manter a margem de lucros",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 15 Sep 2026 10:03:42 +0000"
-    },
-    {
-      "id": "24f8b0ae0e84",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-7/",
-      "summary": "Cerimônia de sanção do Redata com presença de ministros no Planalto e viagem oficial a Angola movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 15 Sep 2026 09:15:44 +0000"
-    },
-    {
-      "id": "64b6ccc6808a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Agenda de Lula: leia os compromissos do presidente 3ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-2/",
-      "summary": "Sanção do Redata no Palácio do Planalto e reunião sobre comunicação no Palácio do Alvorada movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 15 Sep 2026 09:15:39 +0000"
     },
     {
       "id": "f79db1dd63a4",
@@ -603,25 +711,6 @@
       "publishedRaw": "Tue, 15 Sep 2026 00:00:04 -0000"
     },
     {
-      "id": "48726f26ccb2",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Após crise do metanol, garrafas ganham selo que permite detectar bebidas falsificadas pelo celular",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/09/15/apos-crise-do-metanol-garrafas-ganham-selo-que-permite-detectar-bebidas-falsificadas-pelo-celular.ghtml",
-      "summary": "Um ano após crise do metanol, investigações avançam, mas ainda há mortes no país por intoxicação\nOs casos de intoxicação por metanol registrados ao longo de 2025, que deixaram ao menos 25 mortos no país e levaram autoridades de saúde a emitir alertas, colocaram a autenticidade das bebidas no centro das discussões.\nO tema, antes mais associado aos prejuízos econômicos da indústria e ao comércio ilegal, passou a envolver diretamente questões de saúde pública e fez a indústria de bebidas alcoólicas se mexer.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nNesta terça-feira (15), a Diageo, fabricante de bebidas e dona de marcas como Johnnie Walker e Smirnoff, anunciou uma solução feita em parceria com a Securetrace, empresa especializada em tecnologias de segurança usadas em documentos oficiais e sistemas de prevenção a fraudes, para verificar digitalmente a origem das bebidas da companhia.\nA proposta é simples: o consumidor aponta a câmera do celular para um selo na embalagem, e o sistema informa se a garrafa foi identificada como autêntica.\nO Selo Drink Seguro permite aos consumidores conferir a autenticidade de bebidas alcoólicas.\nRafaela Zem/g1\n➡️ A implementação, por enquanto, está restrita ao mercado brasileiro e abrange categorias que historicamente registram casos de falsificação, como uísques, vodcas, gins, tequilas e licores.\n“O selo é muito claramente para o consumidor, no sentido de resgatar a confiança, de ele conseguir ter autonomia e visibilidade daquilo que está consumindo. (...) Também é uma maneira de dar credibilidade para o estabelecimento”, afirma Paula Lindenberg, presidente da Diageo no Brasil.\nCerca de 4 milhões de garrafas já recebem o selo por mês. A tecnologia está presente em 100% do portfólio importado e na Smirnoff engarrafada no Brasil, o que corresponde a 95% do negócio de destilados da companhia no país.\nSegundo a Securetrace, o selo usa a mesma tecnologia presente em recursos de proteção do passaporte brasileiro, das cédulas de euro e dos elementos holográficos da nota de R$ 100.\n📎 Cada selo recebe uma espécie de impressão digital exclusiva, invisível ao consumidor, formada por padrões microscópicos que criam uma identificação única para cada unidade. Segundo a empresa, existem mais de 27 trilhões de combinações possíveis.\nQuando a câmera do celular é apontada para o selo, uma inteligência artificial analisa o padrão e o compara com o banco de dados do sistema. Se houver correspondência, a autenticidade é confirmada e a plataforma exibe a mensagem \"Verificado\".\nA tecnologia possui certificação internacional ISO 12931, norma voltada a sistemas de autenticação e combate à falsificação, explica Mario Nicoli Netto, CEO da Securetrace. Segundo a empresa, sua capacidade de impedir cópias chega a 99,99%.\n\"A tecnologia transforma a câmera do celular em uma ferramenta de acesso direto à origem do produto. Cada selo possui uma impressão digital única, protegida por uma tecnologia anticópia certificada internacionalmente, capaz de identificar tentativas de reprodução em segundos\", afirma Mario Nicoli Netto, CEO da Securetrace.\nJovem está com suspeita de intoxicação por metanol, em Goiás\nWesley Costa/O Popular\nCrise do Metanol\nOs episódios envolvendo metanol expuseram um dos riscos mais graves relacionados à falsificação e à adulteração de bebidas alcoólicas.\n🔎 Diferentemente do etanol utilizado na produção regular de bebidas, o metanol é uma substância altamente tóxica. Sua ingestão pode causar cegueira, danos neurológicos graves, insuficiência respiratória e morte.\nA crise ganhou dimensão nacional no segundo semestre de 2025. O aumento dos casos levou o governo federal a emitir alertas à população e a criar uma sala de situação para acompanhar as ocorrências.\nEmbora o período mais crítico tenha ficado para trás no fim daquele ano, novos episódios continuaram sendo registrados em 2026.\nUma reportagem exibida pelo Fantástico neste domingo (13) mostrou que, um ano após o início da crise, as investigações avançaram e já identificaram parte da cadeia de falsificação responsável por distribuir bebidas adulteradas. \nApesar disso, vítimas continuam convivendo com sequelas permanentes, e novos casos ainda vêm sendo registrados no país.\nMercado ilegal movimenta R$ 28 bilhões\nEmbora a falsificação tenha ganhado visibilidade por causa dos riscos à saúde, ela representa apenas uma parte de um mercado ilegal muito mais amplo.\nUm estudo da Euromonitor International estima que as atividades ilegais ligadas ao setor de bebidas movimentem aproximadamente R$ 28 bilhões por ano no Brasil. Nesse universo estão o contrabando, a sonegação fiscal, a produção sem registro e a falsificação.\nA pesquisa aponta ainda que a falsificação representa 4,7% do mercado total de bebidas destiladas no Brasil. Apesar da parcela menor, é a prática que mais preocupa pelo risco à saúde.\nAlém disso, o problema gera prejuízos para fabricantes, distribuidores, varejistas e para a arrecadação pública, ao desviar recursos de impostos e alimentar estruturas clandestinas de produção e distribuição.\nPor isso, o combate ao mercado ilegal tem mobilizado não apenas empresas privadas, mas também órgãos reguladores e autoridades públicas.\nChevrolet Onix ECO usa exclusivamente etanol no tanque\nDivulgação / GM\nCombate passa por diferentes frentes\nO lançamento da tecnologia da Diageo ocorre em paralelo a outras iniciativas voltadas ao enfrentamento do problema. Uma das medidas em discussão é conduzida pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).\nEm setembro, a agência aprovou um estudo que propõe alterações na composição do etanol hidratado combustível para dificultar o desvio do produto para a fabricação clandestina de bebidas.\nEntre as alternativas analisadas está a adição obrigatória de benzoato de denatônio, substância de sabor extremamente amargo, amplamente utilizada em produtos de higiene e limpeza para impedir a ingestão acidental.\nA ANP também trabalha em uma medida considerada mais imediata: a inclusão obrigatória de corante verde no etanol combustível produzido pelas usinas.\nA expectativa é que a mudança facilite a identificação do uso irregular do produto e reduza sua utilização em esquemas clandestinos de adulteração de bebidas.\nAs propostas ainda precisam passar por etapas regulatórias e avaliações técnicas, incluindo análises sobre eventuais impactos em veículos e motores.\nO avanço dessas discussões mostra que o combate à fraude não depende de uma única solução. \nEnquanto órgãos públicos tentam dificultar o acesso às matérias-primas utilizadas por fabricantes clandestinos, empresas investem em sistemas de autenticação, rastreamento e compartilhamento de informações com autoridades.\nAinda assim, especialistas destacam que nenhuma tecnologia é capaz de eliminar completamente a falsificação. Fiscalização, investigação policial, cooperação entre empresas e punição de grupos criminosos continuam centrais para reduzir a circulação de bebidas adulteradas.\n\"A preocupação de combater a falsificação é uma preocupação para sempre e é a partir daí que vem a iniciativa desse selo, com uma intenção clara de que episódios como esse nunca mais voltem a acontecer\", afirma Paula Lindenberg, da Diageo.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 76,
-      "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
-    },
-    {
       "id": "7e63086c34b4",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -637,21 +726,6 @@
       ],
       "score": 72,
       "publishedRaw": "Mon, 14 Sep 2026 23:39:10 -0000"
-    },
-    {
-      "id": "34cf9ea815bd",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "SP1 entrevista Tarcísio de Freitas nesta terça",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/sp1-entrevista-tarcisio.ghtml",
-      "summary": "SP1 entrevista Tarcísio de Freitas nesta terça Governador é o segundo entrevistado da TV Globo entre os candidatos ao governo de SP. Tarcísio de Freitas (Republicanos) será o segundo candidato a ser entrevistado na série de entrevistas da TV Globo com os candidatos ao governo de São Paulo; . A conversa sobre os principais temas do estado será exibida ao vivo no SP1, diretamente dos Estúdios Globo;. A entrevista é conduzida pelo jornalista Alan Severiano. Além da TV Globo, o público pode acompanhar a transmissão pelo g1;. Depois da exibição, o conteúdo ficará disponível na íntegra no Globoplay e no g1;",
-      "tags": [
-        "Tarcísio de Freitas"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "Mon, 14 Sep 2026 22:25:09 -0000"
     },
     {
       "id": "9a139d878553",
