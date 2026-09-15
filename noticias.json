@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T03:17:09.484147+00:00",
+  "generated_at": "2026-09-15T03:45:37.946700+00:00",
   "items": [
     {
       "id": "5e2e7e99525d",
@@ -41,7 +41,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -65,7 +64,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -88,7 +86,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -175,7 +172,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -246,13 +242,34 @@
       "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
     },
     {
+      "id": "1c1312a28376",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF realiza hoje sessão histórica para decidir futuro de Moraes",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-realiza-hoje-sessao-historica-para-decidir-futuro-de-moraes/",
+      "summary": "Plenário vai discutir validade de documento produzido a pedido de André Mendonça e decidir se há elementos para investigar ministro indicado por Michel Temer",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 15 Sep 2026 03:01:31 +0000"
+    },
+    {
       "id": "0e30fe0e5658",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Análise: A crise do STF e o preço da reputação internacional do Brasil",
       "link": "https://www.cnnbrasil.com.br/politica/analise-a-crise-do-stf-e-o-preco-da-reputacao-internacional-do-brasil/",
-      "summary": "",
+      "summary": "Instabilidade institucional afeta a confiança dos investidores, encarece o ambiente de negócios e compromete a imagem do país no exterior",
       "tags": [
         "STF"
       ],
@@ -477,28 +494,6 @@
       "publishedRaw": "Tue, 15 Sep 2026 00:15:14 +0000"
     },
     {
-      "id": "95be5cc26623",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gestão Lula perdoa R$ 1,2 bi em juros de acordos com empresas que confessaram corrupção na Lava Jato",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) perdoou R$ 1,2 bilhão em juros das indenizações a serem pagas por sete empresas que confessaram corrupção no âmbito da Operação Lava Jato e assinaram acordos com a administração federal para ressarcirem os cofres públicos.\nLeia mais (09/15/2026 - 00h01)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "15 Sep 2026 00:01:00 -0300"
-    },
-    {
       "id": "8cc42ffa9a2f",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -512,7 +507,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -534,7 +528,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -556,7 +549,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -579,50 +571,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Tue, 15 Sep 2026 02:09:56 +0000"
-    },
-    {
-      "id": "3a1487b84b1a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-agenda-de-marconi-perillo-de-segunda-feira-14.ghtml",
-      "summary": "Eleições 2026: Veja agenda de Marconi Perillo\nEm caminhada pela Avenida Bernardo Sayão, em Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar o \"Vapt Vupt da Saúde\" para agilizar o atendimento na rede pública. O candidato conversou com lojistas e vendedores, tirou fotos com os apoiadores e defendeu investimentos para o setor produtivo e a infraestrutura do estado.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nSegundo Marconi, a proposta tem como objetivo zerar as filas de cirurgias e exames médicos, além de firmar parcerias para contratar vagas na rede hospitalar particular. O candidato também afirmou que pretende implantar o \"Vapt Vupt Ambiental\" e promover uma reestruturação geral.\nO tucano ainda destacou que planeja colocar em prática um plano de fortalecimento para o setor de confecções em Goiás, contemplando a Bernardo Sayão, a Região da 44 e outros polos de vestuário no interior do estado.\nEleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Nós vamos criar o Vapt Vupt da Saúde para zerar as filas para exames, para cirurgias, e ao mesmo tempo vamos contratar vagas nos hospitais particulares para que as famílias não precisem mais ficar nas filas e, principalmente, em cima de macas nos hospitais do estado\", disse Marconi.\nO candidato também tratou de outras áreas da administração estadual e afirmou que, se eleito, pretende tirar do papel o projeto do anel viário, além de oferecer incentivos fiscais para atrair novas indústrias para Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 15 Sep 2026 00:00:04 -0000"
-    },
-    {
-      "id": "bf0a6af9e84e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml",
-      "summary": "David Almeida (Avante) deu entrevista a uma emissora de TV nesta segunda-feira (14).\nReprodução/Band\nO candidato ao Governo do Amazonas David Almeida (Avante) participou de uma entrevista a uma emissora de televisão nesta segunda-feira (14), em Manaus. Durante a conversa, ele apresentou propostas para fortalecimento do turismo na capital e no interior do estado.\nDavid Almeida disputa o cargo pela coligação \"Pra Cima, Amazonas\", formada por Avante, Solidariedade, PRD, PDT, Democracia Cristã (DC) e Agir. O candidato é ex-prefeito de Manaus, cumpriu três mandatos consecutivos como deputado estadual e assumiu interinamente o Governo do Amazonas por três meses, em 2017.\nAo discutir suas propostas para o Turismo no Amazonas, David Almeida disse que pretende investir em diferentes ramos turísticos, de acordo com cada município do estado, e que seus planos para Manaus envolvem o turismo de grandes eventos esportivos:\n📲 Participe do canal do g1 AM no WhatsApp\n\"Como governador, eu quero continuar investindo no turismo de aventura, no turismo de pesca, e acima de tudo, no turismo religioso nas cidades do interior. Atrair para a cidade de Manaus grandes eventos esportivos, a partir da climatização da Arena Amadeu Teixeira. Com isso, a gente vai atrair os grandes eventos. O turismo esportivo é um grande vetor do turismo a nível mundial\", propôs David Almeida.\nAgora no g1\nApós a entrevista, o próximo compromisso do candidato é no fim da tarde, quando participa de uma caminhada na Zona Leste de Manaus. Já à noite, David segue para um evento intitulado \"Mega Reunião do Esporte\", na zona Centro-Sul da capital.\nEleições 2026\nA campanha eleitoral começou no dia 16 de agosto em todo o país. Os candidatos já podem fazer propaganda nas ruas e na internet. Na TV e no rádio, a propaganda começou no 28 de agosto. O primeiro turno das eleições será no dia 4 de outubro.\nNeste ano, os brasileiros vão votar para:\npresidente;\ngovernador;\nsenador;\ndeputado federal;\ndeputado estadual.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 14 Sep 2026 21:38:00 -0000"
     },
     {
       "id": "48726f26ccb2",
@@ -639,7 +592,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -647,22 +599,40 @@
       "publishedRaw": "Tue, 15 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "8a8b6bddd359",
-      "source": "CNN Brasil",
+      "id": "3a1487b84b1a",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Renan diz que esclarecimentos de caso Master devem vir antes das eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-diz-que-esclarecimentos-de-caso-master-devem-vir-antes-das-eleicoes/",
-      "summary": "Candidato à Presidência defendeu a abertura dos sigilos relacionados ao caso e afirmou que falta de respostas pode colocar resultado das eleições sob suspeita",
+      "title": "Eleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-agenda-de-marconi-perillo-de-segunda-feira-14.ghtml",
+      "summary": "Eleições 2026: Veja agenda de Marconi Perillo\nEm caminhada pela Avenida Bernardo Sayão, em Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar o \"Vapt Vupt da Saúde\" para agilizar o atendimento na rede pública. O candidato conversou com lojistas e vendedores, tirou fotos com os apoiadores e defendeu investimentos para o setor produtivo e a infraestrutura do estado.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nSegundo Marconi, a proposta tem como objetivo zerar as filas de cirurgias e exames médicos, além de firmar parcerias para contratar vagas na rede hospitalar particular. O candidato também afirmou que pretende implantar o \"Vapt Vupt Ambiental\" e promover uma reestruturação geral.\nO tucano ainda destacou que planeja colocar em prática um plano de fortalecimento para o setor de confecções em Goiás, contemplando a Bernardo Sayão, a Região da 44 e outros polos de vestuário no interior do estado.\nEleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Nós vamos criar o Vapt Vupt da Saúde para zerar as filas para exames, para cirurgias, e ao mesmo tempo vamos contratar vagas nos hospitais particulares para que as famílias não precisem mais ficar nas filas e, principalmente, em cima de macas nos hospitais do estado\", disse Marconi.\nO candidato também tratou de outras áreas da administração estadual e afirmou que, se eleito, pretende tirar do papel o projeto do anel viário, além de oferecer incentivos fiscais para atrair novas indústrias para Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
       "tags": [
-        "eleições"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Mundo"
       ],
-      "score": 78,
-      "publishedRaw": "Tue, 15 Sep 2026 01:20:00 +0000"
+      "score": 77,
+      "publishedRaw": "Tue, 15 Sep 2026 00:00:04 -0000"
+    },
+    {
+      "id": "bf0a6af9e84e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml",
+      "summary": "David Almeida (Avante) deu entrevista a uma emissora de TV nesta segunda-feira (14).\nReprodução/Band\nO candidato ao Governo do Amazonas David Almeida (Avante) participou de uma entrevista a uma emissora de televisão nesta segunda-feira (14), em Manaus. Durante a conversa, ele apresentou propostas para fortalecimento do turismo na capital e no interior do estado.\nDavid Almeida disputa o cargo pela coligação \"Pra Cima, Amazonas\", formada por Avante, Solidariedade, PRD, PDT, Democracia Cristã (DC) e Agir. O candidato é ex-prefeito de Manaus, cumpriu três mandatos consecutivos como deputado estadual e assumiu interinamente o Governo do Amazonas por três meses, em 2017.\nAo discutir suas propostas para o Turismo no Amazonas, David Almeida disse que pretende investir em diferentes ramos turísticos, de acordo com cada município do estado, e que seus planos para Manaus envolvem o turismo de grandes eventos esportivos:\n📲 Participe do canal do g1 AM no WhatsApp\n\"Como governador, eu quero continuar investindo no turismo de aventura, no turismo de pesca, e acima de tudo, no turismo religioso nas cidades do interior. Atrair para a cidade de Manaus grandes eventos esportivos, a partir da climatização da Arena Amadeu Teixeira. Com isso, a gente vai atrair os grandes eventos. O turismo esportivo é um grande vetor do turismo a nível mundial\", propôs David Almeida.\nAgora no g1\nApós a entrevista, o próximo compromisso do candidato é no fim da tarde, quando participa de uma caminhada na Zona Leste de Manaus. Já à noite, David segue para um evento intitulado \"Mega Reunião do Esporte\", na zona Centro-Sul da capital.\nEleições 2026\nA campanha eleitoral começou no dia 16 de agosto em todo o país. Os candidatos já podem fazer propaganda nas ruas e na internet. Na TV e no rádio, a propaganda começou no 28 de agosto. O primeiro turno das eleições será no dia 4 de outubro.\nNeste ano, os brasileiros vão votar para:\npresidente;\ngovernador;\nsenador;\ndeputado federal;\ndeputado estadual.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 77,
+      "publishedRaw": "Mon, 14 Sep 2026 21:38:00 -0000"
     },
     {
       "id": "7e63086c34b4",
@@ -676,10 +646,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Mon, 14 Sep 2026 23:39:10 -0000"
     },
     {
