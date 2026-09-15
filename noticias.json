@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:41:06.439122+00:00",
+  "generated_at": "2026-09-15T00:23:31.608740+00:00",
   "items": [
     {
       "id": "abba2515c0c5",
@@ -26,6 +26,30 @@
       "publishedRaw": "14 Sep 2026 20:06:00 -0300"
     },
     {
+      "id": "5e2e7e99525d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vitória de Flávio Bolsonaro e derrota da Justiça no STF seriam reviravolta histórica no País",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/vitoria-de-flavio-bolsonaro-e-derrota-da-justica-no-stf-seriam-reviravolta-historica-no-pais/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 95,
+      "publishedRaw": "Tue, 15 Sep 2026 00:03:45 +0000"
+    },
+    {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -47,29 +71,6 @@
       ],
       "score": 94,
       "publishedRaw": "Mon, 14 Sep 2026 18:30:54 GMT"
-    },
-    {
-      "id": "e0a9b57d897c",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Oposição quer alterar regimento para pautar impeachment de ministros do STF",
-      "link": "https://www.cnnbrasil.com.br/politica/oposicao-quer-alterar-regimento-para-pautar-impeachment-de-ministros-do-stf/",
-      "summary": "Ideia dos opositores é que processos de impeachment contra integrantes do Supremo sejam abertos pelo Senado com 49 assinaturas; atualmente, abertura desse tipo de procedimento depende do presidente da Casa",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Mon, 14 Sep 2026 22:52:06 +0000"
     },
     {
       "id": "b4863e060f53",
@@ -205,26 +206,48 @@
       "publishedRaw": "Mon, 14 Sep 2026 10:27:55 -0000"
     },
     {
-      "id": "86163cc243c2",
-      "source": "Estadão",
+      "id": "efc1a776ee22",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mendonça vai antecipar voto e articula para Fachin e Fux votarem sobre Moraes mesmo com vista no STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-vai-antecipar-voto-e-articula-para-fachin-e-fux-votarem-sobre-moraes-mesmo-com-vista-no-stf/",
-      "summary": "",
+      "title": "Malafaia acusa Fachin de atuar contra Mendonça no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/malafaia-acusa-fachin-de-atuar-contra-mendonca-no-stf.shtml",
+      "summary": "O pastor Silas Malafaia criticou o ministro Edson Fachin, presidente do STF (Supremo Tribunal Federal), em vídeo que foi distribuído em suas redes. Ele questionou a imparcialidade do magistrado e o acusou de atuar em conjunto com outros integrantes da corte para beneficiar o governo Lula e atingir o ministro André Mendonça.\nLeia mais (09/14/2026 - 20h44)",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "14 Sep 2026 20:44:00 -0300"
+    },
+    {
+      "id": "e3d9b251605f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF: Carta de apoio a Fachin é busca por transparência, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-carta-de-apoio-a-fachin-e-busca-por-transparencia-diz-especialista/",
+      "summary": "Ao Hora H, Fábio Barbosa, um dos quase 200 signatários do documento, afirma que objetivo é fazer a sociedade ser ouvida pelo Supremo",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 12:36:25 +0000"
+      "publishedRaw": "Mon, 14 Sep 2026 23:57:21 +0000"
     },
     {
       "id": "b35e9dd0212b",
@@ -247,6 +270,28 @@
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 21:37:12 +0000"
+    },
+    {
+      "id": "86163cc243c2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça vai antecipar voto e articula para Fachin e Fux votarem sobre Moraes mesmo com vista no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-vai-antecipar-voto-e-articula-para-fachin-e-fux-votarem-sobre-moraes-mesmo-com-vista-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 12:36:25 +0000"
     },
     {
       "id": "63ccbb595f08",
@@ -291,28 +336,6 @@
       ],
       "score": 90,
       "publishedRaw": "Mon, 14 Sep 2026 18:15:00 +0000"
-    },
-    {
-      "id": "250b3074b3e1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisa Quaest: Desconfiança com o STF cresce 10 pontos e alcança 56%; só 9% confiam muito na Corte",
-      "link": "https://www.estadao.com.br/politica/pesquisa-quaest-desconfianca-com-o-stf-cresce-10-pontos-e-alcanca-56-so-9-confiam-muito-na-corte/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 14 Sep 2026 19:47:15 +0000"
     },
     {
       "id": "b19d8f9b6d63",
@@ -381,13 +404,57 @@
       "publishedRaw": "Mon, 14 Sep 2026 18:46:55 GMT"
     },
     {
-      "id": "72ab3304f6d7",
-      "source": "Folha de São Paulo",
+      "id": "61098d577d95",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "'Milei é um ótimo exemplo', diz assessora econômica de Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/milei-e-um-otimo-exemplo-diz-assessora-economica-de-flavio-bolsonaro.shtml",
-      "summary": "Daniella Marques, coordenadora econômica da campanha de Flávio Bolsonaro (PL) à Presidência, disse que a política econômica de Javier Milei, presidente da Argentina, é um exemplo a ser seguido pelo Brasil.\nLeia mais (09/14/2026 - 19h23)",
+      "title": "Com nariz de palhaço, advogado pede “julgamento justo” no STF",
+      "link": "https://www.poder360.com.br/poder-justica/com-nariz-de-palhaco-advogado-pede-julgamento-justo-no-stf/",
+      "summary": "Alex Lima protestou na véspera de sessão no Supremo que decidirá se a PF investiga Moraes por mensagens trocadas com Vorcaro",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 15 Sep 2026 00:15:14 +0000"
+    },
+    {
+      "id": "5cb11ad2f76e",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio cobra transparência do STF e diz que tudo deve vir à tona",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-cobra-transparencia-do-stf-e-diz-que-tudo-deve-vir-a-tona/",
+      "summary": "Candidato do PL defendeu que apurações sobre recursos para filme de Jair Bolsonaro e sobre caso Lulinha sejam divulgadas integralmente",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 14 Sep 2026 23:44:31 +0000"
+    },
+    {
+      "id": "825851afe15b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro sobre Moraes: 'Não é possível que fique impune e continue participando de julgamentos'",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/14/flavio-bolsonaro-sobre-moraes-nao-e-possivel-que-fique-impune-e-continue-participando-de-julgamentos.ghtml",
+      "summary": "Em Belém, Flávio Bolsonaro fala sobre Alexandre de Moares\nO candidato à Presidência da República Flávio Bolsonaro (do Partido Liberal - PL)  falou nesta segunda-feira (14), durante agenda em Belém, sobre suas expectativas para o julgamento  no Supremo Tribunal Federal (STF).\nMarcada para esta terça-feira (15), a sessão deve analisar o relatório da Polícia Federal (PF) que reuniu 52 mensagens trocadas entre o ex-dono do Banco Master, Daniel Vorcaro, e o ministro Alexandre de Moraes.\n\n\"É o início de um julgamento que eu tenho a certeza que vai fazer com que o Alexandre de Moraes seja oficialmente investigado. Porque não é possível alguém que tenha feito tudo isso que já veio à tona, que foi mostrado, que ele fique impune, que ele continue participando de julgamentos\", afirmou.\n✅ Receba as notícias do g1 Pará direto no WhatsApp\n\nAlém das críticas ao ministro, Flávio Bolsonaro defendeu a ampla divulgação de outras investigações em curso no STF.\n\"Eu quero transparência de todas as investigações que estão em andamento no Supremo, não apenas com relação ao filho do Bolsonaro, com relação ao INSS, com relação às fake news e com relação ao Lulinha\", declarou.\nFlávio Bolsonaro (PL) chegou no início da tarde a Belém onde foi recebido por apoiadores e por candidatos do PL no estado. \nCandidato à presidência, Flávio Bolsonaro cumpre agenda em Belém nesta segunda-feira,14 de setembro\nGil Sóter/g1\nQuestionado sobre suas propostas na área ambiental, o candidato à presidência da República defendeu rigor no cumprimento da lei. \n\"A questão ambiental é importante porque, muitas vezes, ela está mais relacionada aos crimes ambientais: a exploração ilegal de madeira, a exploração ilegal de ouro, de minérios. Isso tem que ser combatido com lei dura, com prisão de pessoas que fazem isso de forma ilegal\", disse. \nEm Belém, Flávio Bolsonaro fala sobre meio ambiente\nEle também falou em \"transformar as riquezas naturais do Pará e do Brasil em benefícios para a população” e criticou o que chamou de ideologização dos licenciamentos ambientais.\n\"A gente pode ter uma proposta para o ambiente que permita que possamos transformar riquezas que Deus deu, por exemplo, aqui ao estado do Pará, em riquezas para o povo do Pará, riquezas para o povo brasileiro, de forma responsável, sem ideologização dos licenciamentos ambientais, como acontece hoje, que acabam inviabilizando qualquer tipo de projeto, mesmo aqueles que tenham, claramente, como o seu escopo, a proteção e a preservação do meio ambiente\", afirmou.\nEle ainda destacou o turismo como alternativa econômica viável para auxiliar na proteção ambiental. \n\"Eu digo que o maior fiscal do meio ambiente é o próprio turista. É um segmento que nós temos que incentivar muito, o turismo, inclusive em áreas que são tocadas, como terras indígenas, quilombolas, reservas ambientais\", declarou.\nApós falar com a imprensa, ele seguiu em motocarreata de um hotel próximo ao aeroporto da capital paraense até o Complexo Ver-o-Rio, onde realizou um comício. No local, o candidato prometeu combater a facções e mílicias.\n\"Sei que o Pará também está sofrendo tanto com a violência como o Rio de Janeiro. Esses marginais, Comando Vermelho, PCC e milícia, vão ser tratados como terroristas e eu vou declarar guerra a eles. Vou libertar vocês dessas milícias. Eles serão presos ou neutralizados pela nossa polícia\", disse. \nO candidato também propôs a redução da menor idade penal para 16 anos. \"Eu vou reduzir a maioridade penal. Se comete crime de gente grande, vai responder como gente grande\", defendeu. \nVeja aqui tudo sobre as eleições no Pará \nVeja mais notícias sobre o Pará",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
@@ -395,10 +462,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
       "score": 87,
-      "publishedRaw": "14 Sep 2026 19:23:00 -0300"
+      "publishedRaw": "Mon, 14 Sep 2026 21:30:44 -0000"
     },
     {
       "id": "7d8ee8e30ead",
@@ -497,23 +564,40 @@
       "publishedRaw": "Mon, 14 Sep 2026 22:21:42 +0000"
     },
     {
-      "id": "b689974cb1a0",
-      "source": "Poder360",
+      "id": "3a1487b84b1a",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula sanciona Redata na 3ª feira e PL dos minerais críticos na 4ª",
-      "link": "https://www.poder360.com.br/poder-governo/lula-sanciona-redata-na-3a-feira-e-pl-dos-minerais-criticos-na-4a/",
-      "summary": "Presidente comanda cerimônias no Planalto para oficializar projetos aprovados durante esforço concentrado no Senado",
+      "title": "Eleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-agenda-de-marconi-perillo-de-segunda-feira-14.ghtml",
+      "summary": "Eleições 2026: Veja agenda de Marconi Perillo\nEm caminhada pela Avenida Bernardo Sayão, em Goiânia, o candidato ao governo de Goiás Marconi Perillo (PSDB) apresentou a proposta de criar o \"Vapt Vupt da Saúde\" para agilizar o atendimento na rede pública. O candidato conversou com lojistas e vendedores, tirou fotos com os apoiadores e defendeu investimentos para o setor produtivo e a infraestrutura do estado.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nSegundo Marconi, a proposta tem como objetivo zerar as filas de cirurgias e exames médicos, além de firmar parcerias para contratar vagas na rede hospitalar particular. O candidato também afirmou que pretende implantar o \"Vapt Vupt Ambiental\" e promover uma reestruturação geral.\nO tucano ainda destacou que planeja colocar em prática um plano de fortalecimento para o setor de confecções em Goiás, contemplando a Bernardo Sayão, a Região da 44 e outros polos de vestuário no interior do estado.\nEleições 2026: Marconi Perillo fala de criação de 'Vapt Vupt' da saúde durante caminhada em Goiânia\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nPSDB lança Marconi Perillo como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Nós vamos criar o Vapt Vupt da Saúde para zerar as filas para exames, para cirurgias, e ao mesmo tempo vamos contratar vagas nos hospitais particulares para que as famílias não precisem mais ficar nas filas e, principalmente, em cima de macas nos hospitais do estado\", disse Marconi.\nO candidato também tratou de outras áreas da administração estadual e afirmou que, se eleito, pretende tirar do papel o projeto do anel viário, além de oferecer incentivos fiscais para atrair novas indústrias para Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
       "tags": [
-        "Lula"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Mundo"
       ],
-      "score": 80,
-      "publishedRaw": "Mon, 14 Sep 2026 21:57:50 +0000"
+      "score": 77,
+      "publishedRaw": "Tue, 15 Sep 2026 00:00:04 -0000"
+    },
+    {
+      "id": "bf0a6af9e84e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml",
+      "summary": "David Almeida (Avante) deu entrevista a uma emissora de TV nesta segunda-feira (14).\nReprodução/Band\nO candidato ao Governo do Amazonas David Almeida (Avante) participou de uma entrevista a uma emissora de televisão nesta segunda-feira (14), em Manaus. Durante a conversa, ele apresentou propostas para fortalecimento do turismo na capital e no interior do estado.\nDavid Almeida disputa o cargo pela coligação \"Pra Cima, Amazonas\", formada por Avante, Solidariedade, PRD, PDT, Democracia Cristã (DC) e Agir. O candidato é ex-prefeito de Manaus, cumpriu três mandatos consecutivos como deputado estadual e assumiu interinamente o Governo do Amazonas por três meses, em 2017.\nAo discutir suas propostas para o Turismo no Amazonas, David Almeida disse que pretende investir em diferentes ramos turísticos, de acordo com cada município do estado, e que seus planos para Manaus envolvem o turismo de grandes eventos esportivos:\n📲 Participe do canal do g1 AM no WhatsApp\n\"Como governador, eu quero continuar investindo no turismo de aventura, no turismo de pesca, e acima de tudo, no turismo religioso nas cidades do interior. Atrair para a cidade de Manaus grandes eventos esportivos, a partir da climatização da Arena Amadeu Teixeira. Com isso, a gente vai atrair os grandes eventos. O turismo esportivo é um grande vetor do turismo a nível mundial\", propôs David Almeida.\nAgora no g1\nApós a entrevista, o próximo compromisso do candidato é no fim da tarde, quando participa de uma caminhada na Zona Leste de Manaus. Já à noite, David segue para um evento intitulado \"Mega Reunião do Esporte\", na zona Centro-Sul da capital.\nEleições 2026\nA campanha eleitoral começou no dia 16 de agosto em todo o país. Os candidatos já podem fazer propaganda nas ruas e na internet. Na TV e no rádio, a propaganda começou no 28 de agosto. O primeiro turno das eleições será no dia 4 de outubro.\nNeste ano, os brasileiros vão votar para:\npresidente;\ngovernador;\nsenador;\ndeputado federal;\ndeputado estadual.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 77,
+      "publishedRaw": "Mon, 14 Sep 2026 21:38:00 -0000"
     },
     {
       "id": "5f2eee9af1e4",
@@ -535,20 +619,21 @@
       "publishedRaw": "Mon, 14 Sep 2026 07:00:01 -0000"
     },
     {
-      "id": "bf0a6af9e84e",
-      "source": "G1 - Política",
+      "id": "7e63086c34b4",
+      "source": "G1 - Mundo",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: David Almeida participa de entrevista e propõe transformar Manaus em sede de grandes eventos esportivos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/14/eleicoes-2026-david-almeida-participa-de-entrevista-e-propoe-transformar-manaus-em-sede-de-grandes-eventos-esportivos.ghtml",
-      "summary": "David Almeida (Avante) deu entrevista a uma emissora de TV nesta segunda-feira (14).\nReprodução/Band\nO candidato ao Governo do Amazonas David Almeida (Avante) participou de uma entrevista a uma emissora de televisão nesta segunda-feira (14), em Manaus. Durante a conversa, ele apresentou propostas para fortalecimento do turismo na capital e no interior do estado.\nDavid Almeida disputa o cargo pela coligação \"Pra Cima, Amazonas\", formada por Avante, Solidariedade, PRD, PDT, Democracia Cristã (DC) e Agir. O candidato é ex-prefeito de Manaus, cumpriu três mandatos consecutivos como deputado estadual e assumiu interinamente o Governo do Amazonas por três meses, em 2017.\nAo discutir suas propostas para o Turismo no Amazonas, David Almeida disse que pretende investir em diferentes ramos turísticos, de acordo com cada município do estado, e que seus planos para Manaus envolvem o turismo de grandes eventos esportivos:\n📲 Participe do canal do g1 AM no WhatsApp\n\"Como governador, eu quero continuar investindo no turismo de aventura, no turismo de pesca, e acima de tudo, no turismo religioso nas cidades do interior. Atrair para a cidade de Manaus grandes eventos esportivos, a partir da climatização da Arena Amadeu Teixeira. Com isso, a gente vai atrair os grandes eventos. O turismo esportivo é um grande vetor do turismo a nível mundial\", propôs David Almeida.\nAgora no g1\nApós a entrevista, o próximo compromisso do candidato é no fim da tarde, quando participa de uma caminhada na Zona Leste de Manaus. Já à noite, David segue para um evento intitulado \"Mega Reunião do Esporte\", na zona Centro-Sul da capital.\nEleições 2026\nA campanha eleitoral começou no dia 16 de agosto em todo o país. Os candidatos já podem fazer propaganda nas ruas e na internet. Na TV e no rádio, a propaganda começou no 28 de agosto. O primeiro turno das eleições será no dia 4 de outubro.\nNeste ano, os brasileiros vão votar para:\npresidente;\ngovernador;\nsenador;\ndeputado federal;\ndeputado estadual.",
+      "category": "Internacional",
+      "title": "Em derrota para Trump, Suprema Corte dos EUA não permite que Serviço Postal restrinja votos por correio nas eleições de novembro",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/em-derrota-para-trump-suprema-corte-dos-eua-nao-permite-que-servico-postal-restrinja-votos-por-correio-nas-eleicoes-de-novembro.ghtml",
+      "summary": "Caixa do Serviço Postal dos EUA instalada em Manhattan, em Nova York\nAndrew Kelly/Reuters\nA Suprema Corte dos EUA recusou-se, nesta segunda-feira (14), a permitir que o Serviço Postal dos EUA aplicasse uma regra que dificultaria o envio de cédulas de votação por correio.\nA decisão é um revés aos esforços do presidente Donald Trump para restringir o voto por correspondência antes das eleições de meio de mandato de novembro, que definirão o controle do Congresso.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nTrump já votou várias vezes pelo correio, inclusive nas eleições de 2024, que ele venceu. Analistas políticos, contudo, acreditam que a modalidade tende historicamente a beneficiar candidatos democratas.\nOs magistrados rejeitaram o pedido do Departamento de Justiça para derrubar uma decisão da juíza federal Indira Talwani, de Boston, que impediu o Serviço Postal de aplicar a medida enquanto tramitam ações judiciais movidas por estados e grupos de defesa do direito ao voto.\nA agência adotou a medida depois que Trump emitiu uma ordem executiva em março visando endurecer as regras que regem o voto por correio.\nRelembre a tentativa de Trump restringir essa modalidade de voto nos EUA:\nGoverno Trump pede à Suprema Corte que limite o voto por correio\nO juiz Samuel Alito, da ala conservadora da corte, acompanhado pelo também conservador Clarence Thomas, divergiu da decisão de segunda-feira, escrevendo que o governo Trump \"provavelmente terá sucesso no mérito de seu recurso\".\nEleições de meio de mandato\nOs colegas republicanos de Trump travam uma disputa acirrada para manter o controle do Congresso nas eleições de meio de mandato. Restringir as cédulas por correio beneficiaria os republicanos, visto que os eleitores democratas utilizam esse método de forma desproporcional, segundo várias pesquisas.\nO presidente dos EUA, Donald Trump, fala com repórteres antes de embarcar no Air Force One na Base Aérea Conjunta Andrews, em Maryland, em 9 de setembro de 2026.\nFoto de BRENDAN SMIALOWSKI/AFP\nOutro juiz federal, Carl Nichols, de Washington, D.C., também decidiu contra a nova regra no domingo (13).\nPela nova regra, os estados devem fornecer ao Serviço Postal listas dos destinatários das cédulas e utilizar envelopes de envio e retorno aprovados pela agência, equipados com códigos de barras exclusivos. O Serviço Postal poderia, então, recusar-se a enviar cédulas que não estivessem em conformidade com os novos padrões ou que estivessem associadas a eleitores não constantes nas listas.\nCríticos afirmam que o plano poderia interromper a entrega de milhares de cédulas legítimas à medida que a votação de 3 de novembro se aproxima e causar caos, dados os planos iminentes de muitos estados de enviar cédulas por correio aos eleitores elegíveis.\nO governo alegou que a nova regra evitaria fraudes eleitorais, embora evidências de tais fraudes sejam raras.\nTrump assinou sua ordem executiva visando as cédulas por correio após anos questionando a segurança desse método, embora ele próprio vote frequentemente por correspondência. Trump fez alegações falsas de fraude generalizada nas eleições dos EUA, incluindo sua derrota em 2020 para o ex-presidente democrata Joe Biden.\nEm um pedido de emergência feito em 6 de setembro, o governo instou a Suprema Corte a permitir a implementação de uma \"importante política federal para proteger o serviço postal de ser utilizado para a prática de fraudes eleitorais\".\nUma coalizão de estados — a maioria governada por democratas — e Washington, D.C., bem como vários grupos de defesa do direito ao voto, contestaram a nova regra do USPS (Serviço Postal dos EUA).\nEm 4 de setembro, a juíza Talwani emitiu uma liminar suspendendo a regra, por entender que ela provavelmente violava a Constituição dos EUA, segundo a qual cabe aos estados administrar as eleições. Talwani também afirmou que seria impossível para os estados cumprirem a norma, dada a proximidade das eleições de meio de mandato.\nNa última quinta-feira, o Tribunal de Apelações do 1º Circuito dos EUA, sediado em Boston, recusou-se a suspender a decisão de Talwani. O tribunal declarou que a regra \"provavelmente resultará na privação do direito de voto de milhões de eleitores em todo o país, ao mesmo tempo em que oferece ganhos mínimos — se é que oferece algum — no combate à fraude eleitoral\".\nNichols atendeu a um pedido do Partido Democrata e de grupos como a NAACP, concedendo uma liminar para bloquear a regra. O juiz escreveu que a norma poderia dificultar o voto por correio para algumas pessoas e que excedia a autoridade do Serviço Postal.\n\"Nenhuma lei confere ao Serviço Postal o poder de emitir partes fundamentais da regra\", escreveu Nichols.\nModalidade permitida nos EUA\nTodos os 50 estados permitem alguma forma de votação por correio. Desses, 29 estados permitem que os eleitores solicitem o envio de votos pelo correio sem apresentar justificativa, e oito realizam suas eleições inteiramente por essa via.\nA disputa em torno dos votos por correio é uma das várias iniciativas do governo para ampliar o envolvimento federal no processo eleitoral antes das eleições de meio de mandato. Em 24 de agosto, a Suprema Corte revogou uma liminar anterior, imposta por Talwani em junho, que bloqueava uma ordem executiva de Trump — incluindo a regra do USPS, antes mesmo de sua finalização.",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "eleições"
       ],
-      "crossOutlets": [],
-      "score": 73,
-      "publishedRaw": "Mon, 14 Sep 2026 21:38:00 -0000"
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 72,
+      "publishedRaw": "Mon, 14 Sep 2026 23:39:10 -0000"
     },
     {
       "id": "34cf9ea815bd",
