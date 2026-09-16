@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:17:19.378999+00:00",
+  "generated_at": "2026-09-16T07:44:05.339910+00:00",
   "items": [
     {
       "id": "d6d068b10a0f",
@@ -258,27 +258,27 @@
       "publishedRaw": "15 Sep 2026 23:00:00 -0300"
     },
     {
-      "id": "b6cc1a54891e",
-      "source": "Folha de São Paulo",
+      "id": "b8edfbc005b4",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Crise no STF deve inviabilizar proposta de Fachin para código de conduta",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/crise-no-stf-deve-inviabilizar-proposta-de-fachin-para-codigo-de-conduta.shtml",
-      "summary": "Ministros do STF (Supremo Tribunal Federal) e observadores da corte avaliam que a proposta do ministro Edson Fachin de criar um código de conduta para integrantes da corte ficou definitivamente inviabilizada após a traumática sessão desta terça-feira (15).\nLeia mais (09/15/2026 - 23h00)",
+      "title": "Master: Possível investigação de ministros implodiu STF, diz pesquisador",
+      "link": "https://www.cnnbrasil.com.br/politica/master-possivel-investigacao-de-ministros-implodiu-stf-diz-pesquisador/",
+      "summary": "Ao WW, o jornalista e pesquisador do STF Felipe Recondo afirma que possibilidade de investigar ministros pelo envolvimento com Vorcaro causou implosão na Corte",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "15 Sep 2026 23:00:00 -0300"
+      "publishedRaw": "Wed, 16 Sep 2026 07:18:54 +0000"
     },
     {
       "id": "526844cd872f",
@@ -743,6 +743,30 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 02:08:39 +0000"
+    },
+    {
+      "id": "4549aa2cc255",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: crise no STF pode fazer eleitor definir questão jurídica nas urnas",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-crise-no-stf-pode-fazer-eleitor-definir-questao-juridica-nas-urnas/",
+      "summary": "Caio Junqueira aponta risco de disputa no Supremo ser resolvida nas urnas e critica \"desvirtuamento\" político no processo de escolha de ministros",
+      "tags": [
+        "STF",
+        "urnas"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 16 Sep 2026 07:15:12 +0000"
     },
     {
       "id": "f284161e436a",
