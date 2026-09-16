@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:17:18.880402+00:00",
+  "generated_at": "2026-09-16T08:45:36.620826+00:00",
   "items": [
     {
       "id": "d6d068b10a0f",
@@ -32,7 +32,7 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "title": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "tags": [
@@ -48,7 +48,7 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Mon, 14 Sep 2026 18:30:54 GMT"
+      "publishedRaw": "Wed, 16 Sep 2026 08:39:12 GMT"
     },
     {
       "id": "0df1a0456441",
@@ -164,29 +164,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "f0ef31995dd8",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF: placar fica em 4 a 3 para julgar separadas petições de Moraes e Mendonça",
-      "link": "https://g1.globo.com/politica/ao-vivo/stf-investigacao-moraes-mensagens-vorcaro.ghtml",
-      "summary": "STF: placar fica em 4 a 3 para julgar separadas petições de Moraes e Mendonça Placar termina a favor da análise separada das petições de Moraes e Mendonça; julgamento será retomado na próxima semana. Os ministros do STF se reuniram nesta terça-feira (15) para discutir se será aberta ou não, pela 1ª vez na história, uma investigação contra um colega de Corte.. O plenário decidiu, por 4 votos a 3, adiar a análise do caso para a próxima semana.. O foco da análise desta terça era Alexandre de Moraes. Um relatório da PF apontou mensagens trocadas entre o ministro e o ex-dono do Banco Master, Daniel Vorcaro.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Tue, 15 Sep 2026 21:47:34 -0000"
     },
     {
       "id": "13f92a69a498",
@@ -629,6 +606,52 @@
       "publishedRaw": "Wed, 16 Sep 2026 02:46:05 GMT"
     },
     {
+      "id": "1a6d9e89ba85",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cq1mv77n38zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Sessão extraordinária do STF que decidiria o destino de Alexandre de Moraes foi destaque na imprensa internacional.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 16 Sep 2026 08:43:54 GMT"
+    },
+    {
+      "id": "4ea7ed79eec2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quem venceu primeiro embate da batalha entre Moraes e Mendonça no STF? O que dizem os analistas",
+      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 16 Sep 2026 08:21:33 GMT"
+    },
+    {
       "id": "02df10dc1d2d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -720,30 +743,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 02:08:39 +0000"
-    },
-    {
-      "id": "4549aa2cc255",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: crise no STF pode fazer eleitor definir questão jurídica nas urnas",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-crise-no-stf-pode-fazer-eleitor-definir-questao-juridica-nas-urnas/",
-      "summary": "Caio Junqueira aponta risco de disputa no Supremo ser resolvida nas urnas e critica \"desvirtuamento\" político no processo de escolha de ministros",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 16 Sep 2026 07:15:12 +0000"
     },
     {
       "id": "f284161e436a",
@@ -893,21 +892,6 @@
       "crossOutlets": [],
       "score": 73,
       "publishedRaw": "Wed, 16 Sep 2026 00:19:09 -0000"
-    },
-    {
-      "id": "06bce2122ebd",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Damares diz que possível impeachment de Moraes não sairá neste ano",
-      "link": "https://www.poder360.com.br/poder-justica/damares-diz-que-possivel-impeachment-de-moraes-nao-saira-neste-ano/",
-      "summary": "Senadora disse que processo deve avançar em fevereiro, quando nova Mesa Diretora do Senado será eleita",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 16 Sep 2026 02:02:05 +0000"
     },
     {
       "id": "25f6ed566cd0",
