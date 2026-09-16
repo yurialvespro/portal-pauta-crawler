@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:14:28.183029+00:00",
+  "generated_at": "2026-09-16T23:41:17.084678+00:00",
   "items": [
     {
       "id": "d78af6d6614c",
@@ -48,29 +48,6 @@
       "publishedRaw": "Wed, 16 Sep 2026 12:38:08 -0000"
     },
     {
-      "id": "c7dabd5a7727",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que Flávio Bolsonaro precisa explicar os R$ 130 milhões de Vorcaro para ‘o filme do pai’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-flavio-bolsonaro-precisa-explicar-os-r-130-milhoes-de-vorcaro-para-o-filme-do-pai/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 16 Sep 2026 13:54:25 +0000"
-    },
-    {
       "id": "f1c076811651",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -92,6 +69,29 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 16 Sep 2026 20:01:07 +0000"
+    },
+    {
+      "id": "c7dabd5a7727",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que Flávio Bolsonaro precisa explicar os R$ 130 milhões de Vorcaro para ‘o filme do pai’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-flavio-bolsonaro-precisa-explicar-os-r-130-milhoes-de-vorcaro-para-o-filme-do-pai/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Wed, 16 Sep 2026 13:54:25 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -334,6 +334,27 @@
       "publishedRaw": "Wed, 16 Sep 2026 10:24:29 -0000"
     },
     {
+      "id": "e7a0247910de",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de pai de Vorcaro cita indefinição de caso Master no STF e pede fim de prisão",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/defesa-de-pai-de-vorcaro-cita-indefinicao-de-caso-master-no-stf-e-pede-fim-de-prisao.shtml",
+      "summary": "A defesa de Henrique Vorcaro, pai de Daniel Vorcaro, citou a indefinição da sessão do STF (Supremo Tribunal Federal) que decidiria se o ministro Alexandre de Moraes deveria ser investigado pelo seu suposto envolvimento no caso Master e os questionamentos sobre a relatoria do presidente da corte, Edson Fachin, para pedir mais uma vez pela sua soltura.\nLeia mais (09/16/2026 - 20h35)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "16 Sep 2026 20:35:00 -0300"
+    },
+    {
       "id": "955ba9690123",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -395,6 +416,27 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 22:22:32 +0000"
+    },
+    {
+      "id": "c35d86026e41",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do STF silenciam no plenário sobre crise um dia após hostilidades no julgamento de Moraes",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stf-se-reencontram-apos-atritos-na-sessao-sobre-o-caso-moraes-e-vorcaro-assista/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 16 Sep 2026 17:08:40 +0000"
     },
     {
       "id": "09311f93034d",
@@ -479,73 +521,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 20:23:34 +0000"
-    },
-    {
-      "id": "eb4810dc9cbb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que Fachin tem responsabilidade de impedir que crise no STF atrapalhe o processo eleitoral",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tenta-se-descolar-de-moraes-eu-nao-era-presidente-quando-ele-foi-indicado/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 16 Sep 2026 13:26:46 +0000"
-    },
-    {
-      "id": "e8f33c9e522b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cármen Lúcia diz lamentar descrença e desânimo com instituições em meio à crise no STF",
-      "link": "https://www.estadao.com.br/politica/carmen-lucia-diz-lamentar-descrenca-e-desanimo-com-instituicoes-em-meio-a-crise-no-stf-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 16 Sep 2026 19:25:43 +0000"
-    },
-    {
-      "id": "7e806347c6d7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministro de Lula diz que resultado do STF foi bom e mira agora ‘desconstruir imagem de Flávio’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ministro-de-lula-diz-que-resultado-do-stf-foi-bom-e-mira-agora-desconstruir-imagem-de-flavio/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 16 Sep 2026 18:36:38 +0000"
     },
     {
       "id": "1b786096ff1e",
@@ -716,13 +691,13 @@
       "publishedRaw": "Wed, 16 Sep 2026 17:31:09 -0000"
     },
     {
-      "id": "71044c6ebedb",
+      "id": "86f5f3fff8b7",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula deve defender não interferência estrangeira em seu último discurso do mandato na ONU",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-deve-defender-nao-interferencia-estrangeira-em-seu-ultimo-discurso-do-mandato-na-onu.shtml",
-      "summary": "Às vésperas do primeiro turno das eleições, o presidente Lula (PT) deve fazer uma defesa da não interferência estrangeira em assuntos domésticos de outros países durante seu discurso na 81ª Assembleia-Geral das Nações Unidas, na próxima terça-feira (22).\nLeia mais (09/16/2026 - 18h33)",
+      "title": "Defensores públicos pedem à campanha de Lula maior acesso à Justiça no combate a feminicídios e bets",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/defensores-publicos-pedem-a-campanha-de-lula-maior-acesso-a-justica-no-combate-a-feminicidios-e-bets.shtml",
+      "summary": "Defensores públicos apresentaram à campanha de reeleição do presidente Lula (PT) propostas de ampliação do acesso à Justiça no combate ao feminicídio e contra o superendividamento das apostas online.\nLeia mais (09/16/2026 - 20h27)",
       "tags": [
         "Lula"
       ],
@@ -734,7 +709,7 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "16 Sep 2026 18:33:00 -0300"
+      "publishedRaw": "16 Sep 2026 20:27:00 -0300"
     },
     {
       "id": "bb474bc602b3",
@@ -830,36 +805,6 @@
       "crossOutlets": [],
       "score": 67,
       "publishedRaw": "Wed, 16 Sep 2026 12:06:55 -0000"
-    },
-    {
-      "id": "92d8a8d1c9be",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Deputado americano cita Moraes e pede ação da OEA sobre liberdade de expressão no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/deputado-americano-cita-moraes-e-pede-acao-da-oea-sobre-liberdade-de-expressao-no-brasil.shtml",
-      "summary": "O deputado republicano Chris Smith, de Nova Jersey, cobrou da Comissão Interamericana de Direitos Humanos uma manifestação sobre a liberdade de expressão no Brasil e pediu que o órgão intensifique o monitoramento do país antes da eleição presidencial.\nLeia mais (09/16/2026 - 18h41)",
-      "tags": [
-        "liberdade de expressão"
-      ],
-      "crossOutlets": [],
-      "score": 67,
-      "publishedRaw": "16 Sep 2026 18:41:00 -0300"
-    },
-    {
-      "id": "361887bc1e53",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TCU autoriza fiscalização de testes de integridade das urnas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tcu-autoriza-fiscalizacao-de-testes-de-integridade-das-urnas/",
-      "summary": "Auditores acompanharão procedimentos realizados pelos 27 tribunais regionais eleitorais nas eleições de 2026",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "Wed, 16 Sep 2026 22:00:02 +0000"
     },
     {
       "id": "1b59c4fd51f0",
