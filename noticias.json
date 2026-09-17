@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T09:43:47.728533+00:00",
+  "generated_at": "2026-09-17T10:16:24.882186+00:00",
   "items": [
     {
       "id": "f1c076811651",
@@ -46,12 +46,12 @@
       "publishedRaw": "Thu, 17 Sep 2026 00:45:38 -0000"
     },
     {
-      "id": "c7dabd5a7727",
+      "id": "33e6e3199775",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que Flávio Bolsonaro precisa explicar os R$ 130 milhões de Vorcaro para ‘o filme do pai’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-flavio-bolsonaro-precisa-explicar-os-r-130-milhoes-de-vorcaro-para-o-filme-do-pai/",
+      "title": "Atlas: Flávio Bolsonaro tem 47,2% contra 46,8% de Lula em eventual segundo turno",
+      "link": "https://www.estadao.com.br/politica/eleicoes/atlas-flavio-bolsonaro-tem-472-contra-468-de-lula-em-eventual-segundo-turno/",
       "summary": "",
       "tags": [
         "Bolsonaro",
@@ -65,7 +65,7 @@
         "Poder360"
       ],
       "score": 93,
-      "publishedRaw": "Wed, 16 Sep 2026 13:54:25 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "78789d32f62e",
@@ -335,26 +335,6 @@
       "publishedRaw": "Wed, 16 Sep 2026 17:08:40 +0000"
     },
     {
-      "id": "09311f93034d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Tem de colocar um freio de arrumação urgente e imediato’, defende Simone Tebet sobre STF",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tem-que-colocar-um-freio-de-arrumacao-urgente-e-imediato-defende-simone-tebet-sobre-stf-nprp/",
-      "summary": "Em entrevista, candidata apoia reforma no Judiciário e defende sua candidatura ao Senado por São Paulo, Tebet aproveita para defender maior participação das mulheres na política",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 16 Sep 2026 21:28:19 +0000"
-    },
-    {
       "id": "88d6385da0de",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -475,6 +455,26 @@
       "publishedRaw": "Wed, 16 Sep 2026 20:13:55 -0000"
     },
     {
+      "id": "c2daf1de8965",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pesquisa Atlas: Lula é desaprovado por 53,6% dos brasileiros e aprovado por 45,4%",
+      "link": "https://www.estadao.com.br/politica/eleicoes/pesquisa-atlas-lula-e-desaprovado-por-536-dos-brasileiros-e-aprovado-por-454/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
+    },
+    {
       "id": "eaee7ac5dd3e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -535,6 +535,66 @@
       "publishedRaw": "Thu, 17 Sep 2026 00:23:17 +0000"
     },
     {
+      "id": "8d47ffedfc49",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 47,2% contra 46,8% de Lula no 2º turno, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-472-contra-468-de-lula-no-2o-turno-diz-pesquisa/",
+      "summary": "Segundo AtlasIntel, atual presidente está tecnicamente empatado com o seu principal adversário",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:53 +0000"
+    },
+    {
+      "id": "e58da92bf1a6",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AtlasIntel: Lula é rejeitado por 52% dos eleitores e Flávio por 50,2%",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/atlasintel-lula-e-rejeitado-por-52-dos-eleitores-e-flavio-por-502/",
+      "summary": "Levantamento divulgado nesta 5ª feira também mediu as intenções de voto para presidente e a aprovação do governo petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:03 +0000"
+    },
+    {
+      "id": "ed7f4de68ed6",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é aprovado por 45,4% e desaprovado por 53,6%, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-aprovado-por-454-e-desaprovado-por-536-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 5.018 eleitores do Brasil de 11 a 16 de setembro; a margem de erro é de 1 ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:02 +0000"
+    },
+    {
       "id": "48ad32faa07b",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -573,46 +633,6 @@
       ],
       "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 09:15:11 +0000"
-    },
-    {
-      "id": "26bfcd3dd5f7",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula vai pela 3ª vez na campanha a Minas Gerais, fiel da balança",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-vai-pela-3a-vez-na-campanha-a-minas-gerais-fiel-da-balanca/",
-      "summary": "Estado é considerado crucial para a reeleição do petista, que mesclará agenda de governo e de campanha em Montes Claros, nesta 5ª feira (17.set)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 09:00:45 +0000"
-    },
-    {
-      "id": "65f81c76eb24",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Flávio são os candidatos que foram a mais Estados na campanha",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-sao-os-candidatos-que-foram-a-mais-estados-na-campanha/",
-      "summary": "Presidente e senador foram a 11 UFs no 1º mês de campanha; petista priorizou compromissos em Brasília e senador foi a carreatas",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 09:00:39 +0000"
     },
     {
       "id": "18d004e66604",
