@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:44:23.781448+00:00",
+  "generated_at": "2026-09-17T14:17:21.913927+00:00",
   "items": [
     {
       "id": "1db9ecdda867",
@@ -76,30 +76,6 @@
       "publishedRaw": "Thu, 17 Sep 2026 00:45:38 -0000"
     },
     {
-      "id": "33e6e3199775",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas: Flávio Bolsonaro tem 47,2% contra 46,8% de Lula em eventual segundo turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlas-flavio-bolsonaro-tem-472-contra-468-de-lula-em-eventual-segundo-turno/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
-    },
-    {
       "id": "78789d32f62e",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -171,6 +147,29 @@
       "publishedRaw": "Thu, 17 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "22240fb7fe7a",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula vai culpar Bolsonaro por preços de alimentos e prometer limite maior para MEI",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-vai-culpar-bolsonaro-por-precos-de-alimentos-e-prometer-limite-maior-para-mei.shtml",
+      "summary": "A campanha de reeleição do presidente Lula (PT) levará à TV nesta quinta-feira (17) um programa eleitoral que coloca no governo Bolsonaro a culpa pelos preços dos alimentos. Além disso, o petista transformará em promessa de campanha o projeto de aumentar para até R$ 140 mil anuais o limite de receita bruta anual dos MEIs (microempreendedores individuais).\nLeia mais (09/17/2026 - 11h10)",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "17 Sep 2026 11:10:00 -0300"
+    },
+    {
       "id": "7e806347c6d7",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -214,38 +213,13 @@
       "publishedRaw": "Thu, 17 Sep 2026 05:00:00 -0000"
     },
     {
-      "id": "ddd71db1f008",
+      "id": "4c1c1f693006",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula anuncia reajuste do Bolsa Família para R$ 691 antes de eleições",
-      "link": "https://www.cnnbrasil.com.br/politica/lula-anuncia-reajuste-do-bolsa-familia-para-r-691-antes-de-eleicoes/",
-      "summary": "Benefício médio sai de R$ 675 para R$ 777",
-      "tags": [
-        "eleições",
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 13:40:44 +0000"
-    },
-    {
-      "id": "a04d698d41d8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futura: 60,4% desaprovam o STF; aprovação é de 29,3%",
-      "link": "https://www.cnnbrasil.com.br/politica/futura-604-desaprovam-o-stf-aprovacao-e-de-293/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 2.000 pessoas entre os dias 11 e 15 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "title": "Análise: Ofício de Gilmar Mendes a Luiz Fux acirra briga interna no STF",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-oficio-de-gilmar-mendes-a-luiz-fux-acirra-briga-interna-no-stf/",
+      "summary": "Segundo analista de Política da CNN Clarissa Oliveira, ao Live CNN, documento enviado na última sexta-feira (11) questiona condução da Segunda Turma e levanta suspeitas sobre interesses eleitorais",
       "tags": [
         "STF"
       ],
@@ -256,7 +230,7 @@
         "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 13:06:23 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 13:50:34 +0000"
     },
     {
       "id": "88d6385da0de",
@@ -319,26 +293,6 @@
       "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
     },
     {
-      "id": "2fe45810a73a",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista",
-      "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ministro pede mais tempo para apreciar questão de ordem após discussão entre Gilmar Mendes e André Mendonça e diz que pedido de vista ocorreu porque Fachin não tomou 'providências'.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 16 Sep 2026 07:50:33 GMT"
-    },
-    {
       "id": "4aec4ac24eca",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -357,46 +311,6 @@
       ],
       "score": 89,
       "publishedRaw": "Thu, 17 Sep 2026 12:56:41 +0000"
-    },
-    {
-      "id": "3bbacd53d130",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar questiona decisão da 2ª Turma do STF que afastou Andrei da PF",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-questiona-decisao-da-2a-turma-do-stf-que-afastou-andrei-da-pf/",
-      "summary": "Em ofício, ministro destaca a rapidez com que Luiz Fux e Kassio Nunes Marques formaram maioria com Mendonca para manter afastamento",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 12:19:51 +0000"
-    },
-    {
-      "id": "1978149005c2",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Não se reduz juros na canetada', diz Marcelo Kayath, cotado para Fazenda sob Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/nao-se-reduz-juros-na-canetada-diz-marcelo-kayath-cotado-para-fazenda-sob-flavio-bolsonaro.shtml",
-      "summary": "Ex-diretor do banco de investimentos do Credit Suisse, Marcelo Kayath diz que o próximo governo precisará corrigir a rota da política econômica, pois o desequilíbrio das contas públicas virou um problema da vida real dos brasileiros.\nLeia mais (09/17/2026 - 09h40)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "17 Sep 2026 09:40:00 -0300"
     },
     {
       "id": "5ef018d72ef2",
@@ -431,32 +345,12 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo"
       ],
       "score": 86,
       "publishedRaw": "Thu, 17 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "a7c90e6ba35f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Daniel Vilela promete uso de tecnologia e aumento da atuação de bombeiros no controle de queimadas",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/16/eleicoes-2026-agenda-de-daniel-vilela-de-quarta-feira-16.ghtml",
-      "summary": "Daniel Vilela promete uso de tecnologia e aumento da atuação de bombeiros\nEm Goiânia, o candidato ao governo de Goiás Daniel Vilela (MDB) se reuniu com representantes das forças de segurança, Defesa Civil, Corpo de Bombeiros e da Secretaria de Estado da Saúde durante o evento de apresentação do Cima, sistema voltado à resposta rápida contra o fogo no estado. Ele prometeu ampliar o uso de tecnologia e fortalecer a atuação das forças estaduais no combate a incêndios florestais. \nSegundo Daniel, a ferramenta utiliza inteligência artificial para consolidar dados estratégicos, como o relevo do terreno e a rota mais ágil para o deslocamento das equipes, com o objetivo de reduzir em média duas horas o tempo de chegada aos focos de chamas.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nO candidato do MDB ressaltou que, se for eleito, dará continuidade aos programas em andamento e ampliará a capilaridade das bases de atendimento por todo o estado. Entre as prioridades apontadas está a manutenção do programa de brigadistas comunitários, com foco prioritário na região nordeste de Goiás.\nEleições 2026: Daniel Vilela promete uso de tecnologia e aumento da atuação de bombeiros no controle de queimadas\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nMDB lança Daniel Vilela como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Além do uso de tecnologia, vamos buscar o aumento da capilaridade do Corpo de Bombeiros, da Defesa Civil em todo o estado. Fizemos também um programa dos brigadistas comunitários na região nordeste, que é a mais afetada com as queimadas\", disse.\nNo período da tarde, Daniel Vilela deu sequência aos atos de campanha fora da capital e participou de duas carreatas ao lado de lideranças e apoiadores nos municípios de Hidrolândia e Pontalina.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 17 Sep 2026 00:13:06 -0000"
     },
     {
       "id": "b98c9018728a",
@@ -481,13 +375,13 @@
       "publishedRaw": "Thu, 17 Sep 2026 00:47:14 -0000"
     },
     {
-      "id": "b90f87c38457",
+      "id": "dc75129519ce",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Futura: Lula é rejeitado por 49,7%; Flávio, por 45,3%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-lula-e-rejeitado-por-497-flavio-por-453/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 2.000 pessoas entre os dias 11 e 15 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "title": "Campanha de Lula vê risco em Minas Gerais e prioriza viagens ao estado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-ve-risco-em-minas-gerais-e-prioriza-viagens-ao-estado/",
+      "summary": "Petista vai a Montes Claros nesta quinta-feira (17) e faz de Minas estado mais visitado por sua campanha até agora",
       "tags": [
         "Lula"
       ],
@@ -500,73 +394,29 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 13:04:09 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 13:58:57 +0000"
     },
     {
-      "id": "c78597d99070",
-      "source": "CNN Brasil",
+      "id": "51e3a61834db",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Futura: 53,1% desaprovam trabalho de Lula; aprovação é de 44,1%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-531-desaprovam-trabalho-de-lula-aprovacao-e-de-441/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 2.000 pessoas entre os dias 11 e 15 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "title": "Bastidores: Aliados de Flávio vivem onda de otimismo e veem falta de alternativas para Lula",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-aliados-de-flavio-vivem-onda-de-otimismo-e-veem-falta-de-alternativas-para-lula/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 13:03:46 +0000"
-    },
-    {
-      "id": "142bf0062371",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futura: Lula tem 38,3% no 1º turno; Flávio, 37,7%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-lula-tem-383-no-1o-turno-flavio-377/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 2.000 pessoas entre os dias 11 e 15 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 13:02:15 +0000"
-    },
-    {
-      "id": "79245d283279",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futura: Flávio tem 48,1% no 2º turno; Lula, 43,7%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-481-no-2o-turno-lula-437/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 2.000 pessoas entre os dias 11 e 15 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 13:01:28 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 13:36:08 +0000"
     },
     {
       "id": "ea0af5930823",
@@ -611,50 +461,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "id": "eaee7ac5dd3e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula rebate gestão Trump e diz que proposta de cooperação contra crime segue ignorada",
-      "link": "https://www.estadao.com.br/politica/governo-lula-rebate-gestao-trump-e-diz-que-proposta-de-cooperacao-contra-crime-segue-ignorada/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 01:37:42 +0000"
-    },
-    {
-      "id": "76c79c304df1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula pede a brasiliense para não votar em Michelle ao Senado e volta a falar de Trump",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-pede-a-brasiliense-para-nao-votar-em-michelle-ao-senado-e-volta-a-falar-de-trump/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 01:33:39 +0000"
     },
     {
       "id": "fc8a5d69d9ec",
@@ -723,14 +529,15 @@
       "publishedRaw": "Thu, 17 Sep 2026 13:00:06 +0000"
     },
     {
-      "id": "7188d0d7de62",
-      "source": "Poder360",
+      "id": "e623a5903d01",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio tem 53,7% e Lula tem 34,0% no 1º turno no PR, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-537-e-lula-tem-340-no-1o-turno-no-pr-diz-pesquisa/",
-      "summary": "AtlasIntel indica que o senador lidera também em um eventual 2º turno entre os eleitores do Estado",
+      "title": "Lula deve se reunir com prefeito de Nova York em viagem para a Assembleia-Geral da ONU",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/17/lula-deve-se-reunir-com-prefeito-de-nova-york-em-viagem-para-a-assembleia-geral-da-onu.ghtml",
+      "summary": "O presidente brasileiro Luiz Inácio Lula da Silva discursa durante uma coletiva de imprensa na Embaixada do Brasil após seu encontro na Casa Branca com o presidente dos EUA, Donald Trump, em Washington, DC, em 7 de maio de 2026.\nAFP\nO presidente Luiz Inácio Lula da Silva (PT) avalia se reunir com o prefeito de Nova York, o democrata socialista Zohran Mamdani, durante sua passagem pela cidade para a abertura da Assembleia-Geral da Organização das Nações Unidas (ONU), na próxima semana.\nSegundo interlocutores do governo, Mamdani manifestou interesse em conhecer o presidente brasileiro e chegou a convidá-lo para participar de um evento com lideranças progressistas em Nova York.\nA avaliação na comitiva brasileira, contudo, é concentrar a agenda em moldes bilaterais. A tendência é que Lula receba o prefeito nova-iorquino na próxima segunda-feira (21), na residência oficial do embaixador Sérgio Danese, representante permanente do Brasil junto à ONU.\nApós ligação entre Lula e Trump, Brasil e EUA agendam reunião sobre tarifaço\nPor conta do calendário eleitoral no Brasil, Lula fará uma viagem mais enxuta aos Estados Unidos, focada no tradicional discurso de abertura dos debates da Assembleia-Geral.\nO presidente deve desembarcar em Nova York na noite de domingo (20). A segunda-feira (21) será dedicada a reuniões bilaterais com líderes e autoridades políticas globais. Já na terça-feira (22), após discursar na tribuna da ONU, Lula embarca de volta para o Brasil.",
       "tags": [
+        "MBL",
         "Lula"
       ],
       "crossOutlets": [
@@ -739,19 +546,42 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 11:52:37 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 13:47:56 -0000"
+    },
+    {
+      "id": "8d619cf3c538",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
+      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno das eleições presidenciais. \nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22 bilhões (leia mais aqui). \nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família estava sem reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nAgora no g1\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões.\nPara 2027, o impacto no aumento de gastos será de R$ 22 bilhões, acrescentou o ministro. \nCom isso, o valor proposta para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.\nValores pagos hoje\nAtualmente, o valor mínimo pago por família é de R$ 600. Além disso, há benefícios adicionais cumulativos. São eles:\nR$ 150 por criança de até 6 anos;\nR$ 50 por gestante;\nR$ 50 por jovem entre 7 e 18 anos incompletos.\nR$ 50 por bebê de até 6 meses.\nO governo ainda não detalhou quais serão os valores adicionais. \nMarca social de Lula\nCadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador\nGoverno Federal\nPrincipal vitrine na área social do presidente Lula, o Bolsa Família foi relançado pelo petista em março de 2023, primeiro ano de seu novo mandato.\nNa época, o governo estabeleceu um modelo de cálculo dos benefícios proporcional ao tamanho da família – o que é apontado por especialistas como um formato mais justo e que melhora a qualidade do gasto público.\nAlém disso, Lula cumpriu a promessa de campanha de manter o benefício mínimo em R$ 600 por família.\nA lei do novo Bolsa Família prevê que esses valores poderão ser corrigidos em, no máximo, dois anos. Na visão do governo, a lei autoriza o reajuste, mas não o torna obrigatório.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
     },
     {
       "id": "2b2d5f272e81",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula anuncia reajuste do Bolsa Família menos de três semanas antes do primeiro turno",
+      "title": "Lula anuncia reajuste de 15% no Bolsa Família a menos de um mês do primeiro turno",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-anuncia-reajuste-do-bolsa-familia-menos-de-tres-semanas-antes-do-primeiro-turno.shtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) anunciou, nesta quinta-feira (17), um reajuste 15,04% no Bolsa Família. O anúncio é realizado menos de três semanas antes do primeiro turno das eleições presidenciais.\nLeia mais (09/17/2026 - 10h33)",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira (17) um reajuste de 15,04% no Bolsa Família. O aumento é realizado a menos de três semanas do primeiro turno das eleições presidenciais.\nLeia mais (09/17/2026 - 10h44)",
       "tags": [
         "família",
         "Lula"
@@ -765,7 +595,53 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "17 Sep 2026 10:33:00 -0300"
+      "publishedRaw": "17 Sep 2026 10:44:00 -0300"
+    },
+    {
+      "id": "ddd71db1f008",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Às vésperas de eleição, Lula anuncia reajuste do Bolsa Família para R$ 691",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-anuncia-reajuste-do-bolsa-familia-para-r-691-antes-de-eleicoes/",
+      "summary": "Benefício médio do programa social sai de R$ 675 para R$ 777; mudança recompõe inflação, de acordo com o governo",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 13:40:44 +0000"
+    },
+    {
+      "id": "dd7fe69a23a5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula aumenta Bolsa Família para R$ 691 a 17 dias do 1º turno",
+      "link": "https://www.poder360.com.br/poder-governo/lula-aumenta-bolsa-familia-para-r-691-a-17-dias-do-1o-turno/",
+      "summary": "Moretti afirmou que a atualização foi autorizada pela legislação e será feita dentro do espaço fiscal do governo",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 13:47:59 +0000"
     },
     {
       "id": "51213a5cce35",
@@ -780,8 +656,8 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo"
       ],
       "score": 83,
@@ -810,6 +686,72 @@
       "publishedRaw": "Wed, 16 Sep 2026 20:47:14 -0000"
     },
     {
+      "id": "8d619cf3c538",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
+      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O Executivo ainda não informou a partir de quando o reajuste passa a valer. \nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22 bilhões (leia mais aqui). \nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família estava sem reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nAgora no g1\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões.\nPara 2027, o impacto no aumento de gastos será de R$ 22 bilhões, acrescentou o ministro. \nCom isso, o valor proposta para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.\nValores pagos hoje\nAtualmente, o valor mínimo pago por família é de R$ 600. Além disso, há benefícios adicionais cumulativos. São eles:\nR$ 150 por criança de até 6 anos;\nR$ 50 por gestante;\nR$ 50 por jovem entre 7 e 18 anos incompletos.\nR$ 50 por bebê de até 6 meses.\nO governo ainda não detalhou quais serão os valores adicionais. \nMarca social de Lula\nCadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador\nGoverno Federal\nPrincipal vitrine na área social do presidente Lula, o Bolsa Família foi relançado pelo petista em março de 2023, primeiro ano de seu novo mandato.\nNa época, o governo estabeleceu um modelo de cálculo dos benefícios proporcional ao tamanho da família – o que é apontado por especialistas como um formato mais justo e que melhora a qualidade do gasto público.\nAlém disso, Lula cumpriu a promessa de campanha de manter o benefício mínimo em R$ 600 por família.\nA lei do novo Bolsa Família prevê que esses valores poderão ser corrigidos em, no máximo, dois anos. Na visão do governo, a lei autoriza o reajuste, mas não o torna obrigatório.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
+    },
+    {
+      "id": "84f2aee9d699",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Primeiro-ministro da Suécia anuncia renúncia após vitória da centro-esquerda em eleições",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/primeiro-ministro-da-suecia-anuncia-renuncia-apos-vitoria-da-centro-esquerda-em-eleicoes.shtml",
+      "summary": "O primeiro-ministro da Suécia, Ulf Kristersson, anunciou sua renúncia após perder as eleições parlamentares do país, nesta quinta-feira (17), com a divulgação formal da contagem final dos votos.\nLeia mais (09/17/2026 - 10h51)",
+      "tags": [
+        "eleições",
+        "esquerda"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "17 Sep 2026 10:51:00 -0300"
+    },
+    {
+      "id": "f2ce91b7c92b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
+      "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Segundo governo, aumento é apenas reajuste da inflação após anos de congelamento dos benefícios.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 17 Sep 2026 13:59:15 GMT"
+    },
+    {
       "id": "516d7985aabe",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -822,72 +764,59 @@
         "esquerda"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 79,
       "publishedRaw": "Thu, 17 Sep 2026 11:19:08 -0000"
     },
     {
-      "id": "633717a8829b",
+      "id": "2d8925dda078",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Congresso da Bolívia amplia estado de emergência, que começou em junho, por mais 90 dias",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/congresso-da-bolivia-amplia-estado-de-emergencia-que-comecou-em-junho-por-mais-90-dias.shtml",
-      "summary": "O Congresso da Bolívia aprovou nesta quinta-feira (17), em sessão pública, a ampliação por mais 90 dias do estado de emergência que começou em junho. A decisão ocorre diante da preocupação com uma retomada dos protestos contra o governo.\nLeia mais (09/17/2026 - 09h45)",
+      "title": "Kassio diz no TSE que 'não é preciso aumentar o tom para ser ouvido' após sessão conturbada no Supremo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/kassio-diz-no-tse-que-nao-e-preciso-aumentar-o-tom-para-ser-ouvido-apos-sessao-conturbada-no-supremo.shtml",
+      "summary": "Em sua primeira manifestação pública depois da sessão do STF (Supremo Tribunal Federal) de terça-feira (15), marcada por duros embates entre magistrados, o ministro Kassio Nunes Marques disse nesta quinta (17) que \"não é preciso aumentar o tom para ser ouvido\".\nLeia mais (09/17/2026 - 10h55)",
       "tags": [
-        "Congresso"
+        "TSE"
       ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "17 Sep 2026 09:45:00 -0300"
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 68,
+      "publishedRaw": "17 Sep 2026 10:55:00 -0300"
     },
     {
-      "id": "8d619cf3c538",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
-      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento.\nA decisão, anunciada em meio à corrida eleitoral, representa a reposição inflacionária do início do governo Lula em 2023, até o mês atual.\nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família não havia tido reajustes.\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa social - marca do governo Lula na área social.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 blihões.\nPara 2027, o impacto no aumento de gastos será de R$ 22 bilhões, acrescentou o ministro. \nCom isso, o valor proposta para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
-    },
-    {
-      "id": "2f9527f34659",
+      "id": "a526627e6417",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Stray Kids envia flores à família de fã de 16 anos que morreu antes de show na Argentina",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/stray-kids-envia-flores-a-familia-de-fa-de-16-anos-que-morreu-antes-de-show-na-argentina.shtml",
-      "summary": "A família de Delfina Antonella González Plata, 16, recebeu uma homenagem do Stray Kids após a adolescente morrer antes de assistir ao show do grupo em Buenos Aires, na Argentina.\nLeia mais (09/17/2026 - 09h54)",
+      "title": "Google registra recorde de buscas sobre qual político é de direita ou de esquerda",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/google-registra-recorde-de-buscas-sobre-qual-politico-e-de-direita-ou-de-esquerda.shtml",
+      "summary": "Nunca houve tantas buscas no Google no Brasil por informações sobre se uma pessoa ou partido é de direita ou de esquerda como em agosto deste ano, segundo dados do Google Trends.\nLeia mais (09/17/2026 - 10h45)",
       "tags": [
-        "família"
+        "esquerda"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "17 Sep 2026 09:54:00 -0300"
+      "publishedRaw": "17 Sep 2026 10:45:00 -0300"
     },
     {
-      "id": "d85b0334ea8f",
+      "id": "e784b915dc5c",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Bolsa Família: Pagamentos de setembro começam nesta quinta (17); veja datas",
-      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/bolsa-familia-pagamentos-de-setembro-comecam-nesta-quinta-17-veja-datas/",
-      "summary": "Programa se destina a quem possui uma renda mensal familiar de até R$ 218 por pessoa",
+      "title": "Reajuste do Bolsa Família terá impacto de R$ 5,8 bi em 2026",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/reajuste-do-bolsa-familia-tera-impacto-de-r-58-bi-em-2026/",
+      "summary": "Governo anunciou que o valor médio do benefício será reajustado de R$ 675 para R$ 777",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Thu, 17 Sep 2026 13:07:30 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 13:50:47 +0000"
     },
     {
       "id": "3a42e5f5c756",
@@ -903,21 +832,6 @@
       "crossOutlets": [],
       "score": 52,
       "publishedRaw": "Thu, 17 Sep 2026 06:37:26 -0000"
-    },
-    {
-      "id": "8d619cf3c538",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Governo anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
-      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento.\nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família não havia tido reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto, para os valores do Bolsa Família.\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa social - marca do governo Lula na área social.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 blihões.\nPara 2027, o impacto no aumento de gastos será de R$ 22 bilhões, acrescentou o ministro. \nCom isso, o valor proposta para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 51,
-      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
     },
     {
       "id": "4a93fd7d6659",
