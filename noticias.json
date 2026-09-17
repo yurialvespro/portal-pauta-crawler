@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:18:51.082284+00:00",
+  "generated_at": "2026-09-17T18:46:09.866576+00:00",
   "items": [
     {
       "id": "b8874fe3f328",
@@ -16,8 +16,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -39,8 +39,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -62,7 +62,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -85,7 +84,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -107,8 +106,8 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -130,14 +129,123 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 16:50:14 GMT"
+    },
+    {
+      "id": "2b03653f9be0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula já pediu inelegibilidade de Bolsonaro por turbinar Bolsa Família na eleição",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-ja-pediu-inelegibilidade-de-bolsonaro-por-turbinar-bolsa-familia-na-eleicao/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "família",
+        "inelegibilidade",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 17 Sep 2026 17:54:38 +0000"
+    },
+    {
+      "id": "8452e2a4c7fb",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula aciona TSE e pede direito de resposta após propaganda eleitoral de Flávio",
+      "link": "https://www.estadao.com.br/politica/eleicoes/campanha-de-lula-aciona-tse-e-pede-direito-de-resposta-apos-propaganda-eleitoral-de-flavio-nprp/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 17 Sep 2026 17:53:11 +0000"
+    },
+    {
+      "id": "9550b1d5723c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF entrega dados do celular de Vorcaro a Mendonça e Fux",
+      "link": "https://www.cnnbrasil.com.br/politica/pf-entrega-dados-do-celular-de-vorcaro-a-mendonca-e-fux/",
+      "summary": "Ministros pediram acesso à íntegra do material após sessão do STF que analisaria se haveria abertura de inquérito com Moraes por suposta troca de mensagens com o dono do Banco Master",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 18:32:21 +0000"
+    },
+    {
+      "id": "66e4ebf18f3d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: Lula visita complexo da Eurofarma em Montes Claros",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-visita-complexo-da-eurofarma-em-montes-claros/",
+      "summary": "Presidente conhece linha de embalagens de medicamentos da nova unidade da farmacêutica em Minas Gerais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 18:30:54 +0000"
+    },
+    {
+      "id": "2638ff0a7d69",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atriz Malu Mader declara voto em Lula; assista",
+      "link": "https://www.poder360.com.br/poder-gente/atriz-malu-mader-declara-voto-em-lula-assista/",
+      "summary": "Sem citar nomes, disse que artistas antes eram considerados inimigos e que agora o cinema brasileiro renasceu",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 18:03:31 +0000"
     },
     {
       "id": "828eed041592",
@@ -152,11 +260,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 89,
+      "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 15:45:53 -0000"
     },
     {
@@ -172,272 +279,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 15:05:02 -0000"
-    },
-    {
-      "id": "2c066c1da03e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PoderData/Aya: 68% dizem que Master/STF não influencia voto para presidente",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-68-dizem-que-master-stf-nao-influencia-voto-para-presidente/",
-      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 3.000 pessoas entre os dias 13 e 16 de setembro; margem de erro é de 1,8 ponto percentual, para mais ou para menos, com intervalo de confiança de 95%",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 17:24:32 +0000"
-    },
-    {
-      "id": "f75ce4c4e454",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise, Renan retoma proposta de reforma que limite poderes do STF",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-meio-a-crise-renan-retoma-proposta-de-reforma-que-limite-poderes-do-stf/",
-      "summary": "Candidato à Presidência pelo Missão defendeu uma redução nas atribuições do Tribunal e o afastamento dos ministros Alexandre de  Moraes e Dias Toffoli",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 17:01:23 +0000"
-    },
-    {
-      "id": "770fb4781294",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como decisão de Fachin sobre Mendonça repercute na crise do STF",
-      "link": "https://www.cnnbrasil.com.br/politica/como-decisao-de-fachin-sobre-mendonca-repercute-na-crise-do-stf/",
-      "summary": "Adiamento do julgamento é visto como aceno ao grupo de Alexandre de Moraes, mas não há sinalizações de que crise vá arrefecer em breve",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 17:00:13 +0000"
-    },
-    {
-      "id": "3eaed5a598a0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF detectou pagamento anual de R$ 33 milhões do Master a advogada citada como ‘canal direto com STF’",
-      "link": "https://www.estadao.com.br/politica/pf-detectou-pagamento-anual-de-r-33-milhoes-do-master-a-advogada-citada-como-canal-direto-com-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 15:00:00 +0000"
-    },
-    {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
-    },
-    {
-      "id": "4ea7ed79eec2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Há 'vencedor' na disputa de alas do STF?",
-      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
-      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
-    },
-    {
-      "id": "e780c1482ca4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Com STF em crise, Fachin cancela 3ª sessão em duas semanas",
-      "link": "https://www.poder360.com.br/poder-flash/com-stf-em-crise-fachin-cancela-3a-sessao-em-duas-semanas/",
-      "summary": "Decisão foi anunciada horas depois de novo embate público entre Gilmar Mendes e André Mendonça",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 16:51:07 +0000"
-    },
-    {
-      "id": "c705ca36c214",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes aparece em 72% dos posts sobre Master durante sessão do STF",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-aparece-em-72-dos-posts-sobre-master-durante-sessao-do-stf/",
-      "summary": "Levantamento da DSC LAB considerou 153.485 publicações no Instagram e Facebook; Mendonça é o 2º mais citado",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 16:36:06 +0000"
-    },
-    {
-      "id": "a0e83802a7d0",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Propaganda de Flávio Bolsonaro com Michelle é exibida no horário eleitoral nesta quinta (17)",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/propaganda-de-flavio-bolsonaro-com-michelle-e-exibida-no-horario-eleitoral-nesta-quinta-17.ghtml",
-      "summary": "O candidato à Presidência Flávio Bolsonaro (PL-SP) e a candidata ao Senado Michelle Bolsonaro (PL-DF)\nreprodução\nA campanha de Flávio Bolsonaro (PL) exibiu nesta quinta-feira (17) uma propaganda eleitoral do candidato à Presidência ao lado da madrasta, a ex-primeira-dama Michelle Bolsonaro (PL). A peça, com duração de 12 segundos, foi gravada há cerca de um mês e marca a reaproximação dos dois após uma briga pública.\nNo vídeo, Michelle defende medidas voltadas às mulheres e afirma que um eventual governo de Flávio dará mais espaço a esse público.\n“Precisamos trabalhar para combater a violência, fortalecer o acolhimento e ampliar as oportunidades para as mulheres. O meu governo vai trazer proteção e mais protagonismo para as mulheres”, diz a ex-primeira-dama na propaganda.\nO material foi gravado em 11 de agosto, no primeiro encontro presencial entre madrasta e enteado depois da crise. Na ocasião, Flávio e Michelle divulgaram imagens dos bastidores, e a ex-primeira-dama afirmou que os dois haviam “colocado uma pedra” sobre o atrito.\nO senador Flávio Bolsonaro (PL) e a ex-primeira-dama Michelle Bolsonaro (PL-DF) em gravação da propaganda eleitoral.\nreprodução\nA reaproximação começou em 23 de julho, quando Flávio publicou um vídeo em defesa da união da direita e pediu desculpas a Michelle. A candidata ao Senado respondeu publicamente que aceitava o pedido e sinalizou disposição para participar da campanha presidencial do enteado.\nA briga veio a público em junho. No dia 24 daquele mês, Michelle publicou dois vídeos nas redes sociais em que afirmou ter sido maltratada e humilhada por Flávio. Ela também revelou que os dois não se falavam desde o fim de 2025.\nO desentendimento envolveu a disputa pela formação do palanque do PL no Ceará. Dirigentes do partido tentavam construir uma aliança com o ex-governador Ciro Gomes (PSDB), movimento criticado publicamente por Michelle.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 17 Sep 2026 17:42:37 -0000"
-    },
-    {
-      "id": "f559f1792a23",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro segura facão falso e defende castração química de estupradores",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-segura-facao-falso-e-defende-castracao-quimica-de-estupradores.shtml",
-      "summary": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, segurou um facão falso e defendeu a castração química de estupradores durante comício no Recife na noite desta quarta-feira (16), numa sequência de agendas eleitorais no Nordeste nesta semana.\nLeia mais (09/17/2026 - 14h13)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "17 Sep 2026 14:13:00 -0300"
-    },
-    {
-      "id": "0432eeb794f0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vídeo anunciado por Michelle aparece na propaganda de Flávio Bolsonaro na TV",
-      "link": "https://www.estadao.com.br/politica/eleicoes/video-anunciado-por-michelle-aparece-na-propaganda-de-flavio-bolsonaro-na-tv/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 17 Sep 2026 17:41:05 +0000"
-    },
-    {
-      "id": "03d10c2f54d5",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino acompanha Moraes para manter condenação de Eduardo Bolsonaro por coação",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/dino-acompanha-moraes-para-manter-condenacao-de-eduardo-bolsonaro-por-coacao/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 17 Sep 2026 14:51:58 +0000"
-    },
-    {
-      "id": "2638ff0a7d69",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atriz Malu Mader declara voto em Lula; assista",
-      "link": "https://www.poder360.com.br/poder-gente/atriz-malu-mader-declara-voto-em-lula-assista/",
-      "summary": "Sem citar nomes, disse que artistas antes eram considerados inimigos e que agora o cinema brasileiro renasceu",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 18:03:31 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 15:05:02 -0000"
     },
     {
       "id": "e623a5903d01",
@@ -453,11 +299,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 83,
+      "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 13:47:56 -0000"
     },
     {
@@ -474,11 +321,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 83,
+      "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 17:14:18 +0000"
     },
     {
@@ -495,69 +343,170 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 83,
+      "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 16:22:30 +0000"
     },
     {
-      "id": "7e696b16930e",
+      "id": "3eaed5a598a0",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Irmão de Bolsonaro diz a jornal que Flávio ‘não arrasta multidões’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/irmao-de-bolsonaro-diz-que-flavio-nao-arrasta-multidoes-nprp/",
+      "title": "PF detectou pagamento anual de R$ 33 milhões do Master a advogada citada como ‘canal direto com STF’",
+      "link": "https://www.estadao.com.br/politica/pf-detectou-pagamento-anual-de-r-33-milhoes-do-master-a-advogada-citada-como-canal-direto-com-stf/",
       "summary": "",
       "tags": [
-        "Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 83,
-      "publishedRaw": "Thu, 17 Sep 2026 13:54:03 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 15:00:00 +0000"
     },
     {
-      "id": "a632c3d97911",
-      "source": "Folha de São Paulo",
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Votar nas eleições de 2026 vale como prova de vida para o INSS",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/votar-nas-eleicoes-de-2026-vale-como-prova-de-vida-para-o-inss.shtml",
-      "summary": "O ministro da Previdência Social, Wolney Queiroz, afirmou nesta quinta-feira (17) que o comparecimento nas eleições de 2026 servirá como prova de vida para o INSS (Instituto Nacional do Seguro Social).\nLeia mais (09/17/2026 - 14h15)",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
       "tags": [
-        "eleições"
+        "STF"
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Mundo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "17 Sep 2026 14:15:00 -0300"
+      "score": 84,
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
-      "id": "e4b6e05aaa2c",
+      "id": "4ea7ed79eec2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Há 'vencedor' na disputa de alas do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
+    },
+    {
+      "id": "bec1e9ab99d8",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Trump exigiu eleições “livres” e proteção a “dissidentes” do Brasil",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-exigiu-eleicoes-livres-e-protecao-a-dissidentes-do-brasil/",
-      "summary": "Segundo informações do \"Estadão\", os EUA condicionaram acordo sobre tarifas à não detenção de opositores no pleito de 2026",
+      "title": "Ato de desespero de Lula, diz Flávio sobre reajuste do Bolsa Família",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-desespero-de-lula-diz-flavio-sobre-reajuste-do-bolsa-familia/",
+      "summary": "Candidato do PL pediu que seus eleitores “não caiam em mais uma falsa promessa” do atual presidente, que anunciou aumento do benefício",
       "tags": [
-        "eleições"
+        "família",
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 18:39:17 +0000"
+    },
+    {
+      "id": "e780c1482ca4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com STF em crise, Fachin cancela 3ª sessão em duas semanas",
+      "link": "https://www.poder360.com.br/poder-flash/com-stf-em-crise-fachin-cancela-3a-sessao-em-duas-semanas/",
+      "summary": "Decisão foi anunciada horas depois de novo embate público entre Gilmar Mendes e André Mendonça",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 16:51:07 +0000"
+    },
+    {
+      "id": "8d619cf3c538",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
+      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais. \nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22,7 bilhões (leia mais aqui). \nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família estava sem reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nAgora no g1\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nGoverno diz que reposição da inflação não viola lei eleitoral\nAumento não estava previsto no Orçamento de 2027\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões (referente ao período de outubro a dezembro).\nPara 2027 e 2028, o impacto anual no aumento de gastos será de R$ 22,7 bilhões, acrescentou o ministro. \nCom isso, o valor proposto para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.\nSegundo Moretti, há espaço fiscal de sobra para o aumento dos benefícios do programa.\n\"Ficará claro no relatório de setembro, tem espaço fiscal. Vamos divulgar no dia 24, nosso trabalho agora é de consolidação. Então, dia 24 vamos passar os números, mas temos segurança que o espaço fiscal é superior do que é preciso pra custear essa medida\", declarou o ministro.\nSegundo o governo, os mecanismos de combate a fraudes foram ampliados, o que também ajuda a viabilizar os aumentos no Bolsa Família. \nValores pagos hoje\nAtualmente, o valor mínimo pago por família é de R$ 600. Além disso, há benefícios adicionais cumulativos. São eles:\nR$ 150 por criança de até 6 anos;\nR$ 50 por gestante;\nR$ 50 por jovem entre 7 e 18 anos incompletos;\nR$ 50 por bebê de até 6 meses.\nSegundo decreto publicado pelo governo Lula, os adicionais passam a ser de: \n\nR$ 173 por criança entre zero e 7 anos de idade incompletos;\nR$ 58 por gestante;\nR$ 58 por pessoa entre 7 e 18 anos incompletos\nR$ 58 por bebê de até 6 meses\nMarca social de Lula\nCadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador\nGoverno Federal\nPrincipal vitrine na área social do presidente Lula, o Bolsa Família foi relançado pelo petista em março de 2023, primeiro ano de seu novo mandato.\nNa época, o governo estabeleceu um modelo de cálculo dos benefícios proporcional ao tamanho da família – o que é apontado por especialistas como um formato mais justo e que melhora a qualidade do gasto público.\nAlém disso, Lula cumpriu a promessa de campanha de manter o benefício mínimo em R$ 600 por família.\nA lei do novo Bolsa Família prevê que esses valores poderão ser corrigidos em, no máximo, dois anos. Na visão do governo, a lei autoriza o reajuste, mas não o torna obrigatório.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
+    },
+    {
+      "id": "a0e83802a7d0",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro e Michelle aparecem juntos em propaganda eleitoral",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/17/propaganda-de-flavio-bolsonaro-com-michelle-e-exibida-no-horario-eleitoral-nesta-quinta-17.ghtml",
+      "summary": "O candidato à Presidência Flávio Bolsonaro (PL-SP) e a candidata ao Senado Michelle Bolsonaro (PL-DF)\nReprodução\nA campanha de Flávio Bolsonaro (PL) exibiu nesta quinta-feira (17) uma propaganda eleitoral do candidato à Presidência ao lado da madrasta, a ex-primeira-dama Michelle Bolsonaro (PL). A peça, com duração de 12 segundos, foi gravada há cerca de um mês e marca a reaproximação dos dois após uma briga pública.\nNo vídeo, Michelle defende medidas voltadas às mulheres e afirma que um eventual governo de Flávio dará mais espaço a esse público.\n“Precisamos trabalhar para combater a violência, fortalecer o acolhimento e ampliar as oportunidades para as mulheres. O meu governo vai trazer proteção e mais protagonismo para as mulheres”, diz a ex-primeira-dama na propaganda.\nO material foi gravado em 11 de agosto, no primeiro encontro presencial entre madrasta e enteado depois da crise. Na ocasião, Flávio e Michelle divulgaram imagens dos bastidores, e a ex-primeira-dama afirmou que os dois haviam “colocado uma pedra” sobre o atrito.\nO senador Flávio Bolsonaro (PL) e a ex-primeira-dama Michelle Bolsonaro (PL-DF) em gravação da propaganda eleitoral.\nreprodução\nA reaproximação começou em 23 de julho, quando Flávio publicou um vídeo em defesa da união da direita e pediu desculpas a Michelle. A candidata ao Senado respondeu publicamente que aceitava o pedido e sinalizou disposição para participar da campanha presidencial do enteado.\nA briga veio a público em junho. No dia 24 daquele mês, Michelle publicou dois vídeos nas redes sociais em que afirmou ter sido maltratada e humilhada por Flávio. Ela também revelou que os dois não se falavam desde o fim de 2025.\nO desentendimento envolveu a disputa pela formação do palanque do PL no Ceará. Dirigentes do partido tentavam construir uma aliança com o ex-governador Ciro Gomes (PSDB), movimento criticado publicamente por Michelle.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
       ],
       "score": 82,
-      "publishedRaw": "Thu, 17 Sep 2026 16:38:12 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 17:42:37 -0000"
+    },
+    {
+      "id": "0432eeb794f0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vídeo anunciado por Michelle aparece na propaganda de Flávio Bolsonaro na TV",
+      "link": "https://www.estadao.com.br/politica/eleicoes/video-anunciado-por-michelle-aparece-na-propaganda-de-flavio-bolsonaro-na-tv/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 17 Sep 2026 17:41:05 +0000"
     },
     {
       "id": "8d619cf3c538",
@@ -573,6 +522,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
@@ -593,6 +543,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -600,6 +551,42 @@
       ],
       "score": 80,
       "publishedRaw": "Thu, 17 Sep 2026 15:16:37 GMT"
+    },
+    {
+      "id": "7e696b16930e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Irmão de Bolsonaro diz a jornal que Flávio ‘não arrasta multidões’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/irmao-de-bolsonaro-diz-que-flavio-nao-arrasta-multidoes-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 79,
+      "publishedRaw": "Thu, 17 Sep 2026 13:54:03 +0000"
+    },
+    {
+      "id": "e4b6e05aaa2c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump exigiu eleições “livres” e proteção a “dissidentes” do Brasil",
+      "link": "https://www.poder360.com.br/poder-internacional/trump-exigiu-eleicoes-livres-e-protecao-a-dissidentes-do-brasil/",
+      "summary": "Segundo informações do \"Estadão\", os EUA condicionaram acordo sobre tarifas à não detenção de opositores no pleito de 2026",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 78,
+      "publishedRaw": "Thu, 17 Sep 2026 16:38:12 +0000"
     },
     {
       "id": "516d7985aabe",
@@ -615,31 +602,29 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 79,
+      "score": 74,
       "publishedRaw": "Thu, 17 Sep 2026 11:19:08 -0000"
     },
     {
-      "id": "8d619cf3c538",
+      "id": "d81a80244d3d",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
-      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais. \nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22,7 bilhões (leia mais aqui). \nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família estava sem reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nAgora no g1\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nGoverno diz que reposição da inflação não viola lei eleitoral\nAumento não estava previsto no Orçamento de 2027\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões (referente ao período de outubro a dezembro).\nPara 2027 e 2028, o impacto anual no aumento de gastos será de R$ 22,7 bilhões, acrescentou o ministro. \nCom isso, o valor proposto para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.\nSegundo Moretti, há espaço fiscal de sobra para o aumento dos benefícios do programa.\n\"Ficará claro no relatório de setembro, tem espaço fiscal. Vamos divulgar no dia 24, nosso trabalho agora é de consolidação. Então, dia 24 vamos passar os números, mas temos segurança que o espaço fiscal é superior do que é preciso pra custear essa medida\", declarou o ministro.\nSegundo o governo, os mecanismos de combate a fraudes foram ampliados, o que também ajuda a viabilizar os aumentos no Bolsa Família. \nValores pagos hoje\nAtualmente, o valor mínimo pago por família é de R$ 600. Além disso, há benefícios adicionais cumulativos. São eles:\nR$ 150 por criança de até 6 anos;\nR$ 50 por gestante;\nR$ 50 por jovem entre 7 e 18 anos incompletos;\nR$ 50 por bebê de até 6 meses.\nSegundo decreto publicado pelo governo Lula, os adicionais passam a ser de: \n\nR$ 173 por criança entre zero e 7 anos de idade incompletos;\nR$ 58 por gestante;\nR$ 58 por pessoa entre 7 e 18 anos incompletos\nR$ 58 por bebê de até 6 meses\nMarca social de Lula\nCadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador\nGoverno Federal\nPrincipal vitrine na área social do presidente Lula, o Bolsa Família foi relançado pelo petista em março de 2023, primeiro ano de seu novo mandato.\nNa época, o governo estabeleceu um modelo de cálculo dos benefícios proporcional ao tamanho da família – o que é apontado por especialistas como um formato mais justo e que melhora a qualidade do gasto público.\nAlém disso, Lula cumpriu a promessa de campanha de manter o benefício mínimo em R$ 600 por família.\nA lei do novo Bolsa Família prevê que esses valores poderão ser corrigidos em, no máximo, dois anos. Na visão do governo, a lei autoriza o reajuste, mas não o torna obrigatório.",
+      "title": "Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família em período eleitoral",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/em-sc-renan-santos-diz-que-acionara-o-tse-contra-aumento-do-bolsa-familia-em-periodo-eleitoral.ghtml",
+      "summary": "Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família\nRenan Santos, candidato do partido Missão à presidência da República, disse nesta quinta-feira (17) que vai acionar o Tribunal Superior Eleitoral (TSE) contra o aumento de 15% do Bolsa Família anunciado pelo governo federal. Durante discurso de campanha em Chapecó, no Oeste de Santa Catarina, tratou o reajuste no benefício social ação como \"criminosa\" e \"compra de voto\". \n\"O Lula aumentou em coisa de 100 reais o Bolsa Família. Isto é ilegal, estou ingressando com uma ação no TSE. Você não pode aumentar benefício social na época do período eleitoral. O que o Lula está fazendo é criminoso, é compra de voto. Em uma nação normal isso deveria ser proibido, mas no Brasil isso é naturalizado\", declarou para apoiadores.\n✅Clique e siga o canal do g1 SC no WhatsApp\nA decisão de aumento do piso do Bolsa Família, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica do governo, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nCom isso, o piso do programa passa de R$ 600 para R$ 691 e o benefício médio subirá dos atuais R$ 675 para R$ 777.\nRenan Santos (Missão) discursou em Chapecó nesta quinta-feira (17)\nReprodução\nCampanha em Santa Catarina\nO candidato chegou a Chapecó por volta de 11h, vindo no ônibus de uma caravana da campanha que percorre cidades do Sul e do Sudeste do país. \nDa porta do veículo, atendeu à imprensa e discursou para apoiadores em uma praça. Entre os temas abordados, criticou o STF, a polarização política e apresentou propostas para o agronegócio, principal vetor econômico do oeste catarinense. \n\"Vou fazer valer o licenciamento ambiental. Vamos aumentar a taxa de investimento e isso é muito focado em regiões que já tem produção: Santa Catarina, interior e oeste do Paraná, região do Centro-Oeste, todas elas vão ter um choque de infraestrutura para levar estradas, rodagens e silos. É um absurdo, uma região que gera riqueza profunda como aqui, não ter meios de escoar essa produção como deveria\", frisou.\nSobre a crise no STF, apresentou propostas de uma reforma no Judiciário que inclui, entre outras medidas, um maior filtro para casos julgados pela corte focando em casos abstratos, proibição de haver escritórios de advocacia ligados a familiares de ministros e retirada do poder de foro privilegiado sobre membros do Senado e da Câmara dos Deputados. \n\"É assim nas maiores supremas cortes do mundo tem que ser assim no Brasil, tem que ser meramente uma corte constitucional\", completou.\nReveja os VÍDEOS mais assistidos do g1 SC",
       "tags": [
         "família",
-        "Lula"
+        "Renan Santos",
+        "TSE"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
+        "Estadão"
       ],
-      "score": 78,
-      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
+      "score": 71,
+      "publishedRaw": "Thu, 17 Sep 2026 17:08:35 -0000"
     },
     {
       "id": "673742ef424e",
@@ -655,23 +640,6 @@
       "crossOutlets": [],
       "score": 68,
       "publishedRaw": "17 Sep 2026 15:08:00 -0300"
-    },
-    {
-      "id": "d81a80244d3d",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família em período eleitoral",
-      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/17/em-sc-renan-santos-diz-que-acionara-o-tse-contra-aumento-do-bolsa-familia-em-periodo-eleitoral.ghtml",
-      "summary": "Em SC, Renan Santos diz que acionará o TSE contra aumento do Bolsa Família\nRenan Santos, candidato do partido Missão à presidência da República, disse nesta quinta-feira (17) que vai acionar o Tribunal Superior Eleitoral (TSE) contra o aumento de 15% do Bolsa Família anunciado pelo governo federal. Durante discurso de campanha em Chapecó, no Oeste de Santa Catarina, tratou o reajuste no benefício social ação como \"criminosa\" e \"compra de voto\". \n\"O Lula aumentou em coisa de 100 reais o Bolsa Família. Isto é ilegal, estou ingressando com uma ação no TSE. Você não pode aumentar benefício social na época do período eleitoral. O que o Lula está fazendo é criminoso, é compra de voto. Em uma nação normal isso deveria ser proibido, mas no Brasil isso é naturalizado\", declarou para apoiadores.\n✅Clique e siga o canal do g1 SC no WhatsApp\nA decisão de aumento do piso do Bolsa Família, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica do governo, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nCom isso, o piso do programa passa de R$ 600 para R$ 691 e o benefício médio subirá dos atuais R$ 675 para R$ 777.\nRenan Santos (Missão) discursou em Chapecó nesta quinta-feira (17)\nReprodução\nCampanha em Santa Catarina\nO candidato chegou a Chapecó por volta de 11h, vindo no ônibus de uma caravana da campanha que percorre cidades do Sul e do Sudeste do país. \nDa porta do veículo, atendeu à imprensa e discursou para apoiadores em uma praça. Entre os temas abordados, criticou o STF, a polarização política e apresentou propostas para o agronegócio, principal vetor econômico do oeste catarinense. \n\"Vou fazer valer o licenciamento ambiental. Vamos aumentar a taxa de investimento e isso é muito focado em regiões que já tem produção: Santa Catarina, interior e oeste do Paraná, região do Centro-Oeste, todas elas vão ter um choque de infraestrutura para levar estradas, rodagens e silos. É um absurdo, uma região que gera riqueza profunda como aqui, não ter meios de escoar essa produção como deveria\", frisou.\nSobre a crise no STF, apresentou propostas de uma reforma no Judiciário que inclui, entre outras medidas, um maior filtro para casos julgados pela corte focando em casos abstratos, proibição de haver escritórios de advocacia ligados a familiares de ministros e retirada do poder de foro privilegiado sobre membros do Senado e da Câmara dos Deputados. \n\"É assim nas maiores supremas cortes do mundo tem que ser assim no Brasil, tem que ser meramente uma corte constitucional\", completou.\nReveja os VÍDEOS mais assistidos do g1 SC",
-      "tags": [
-        "família",
-        "Renan Santos",
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 67,
-      "publishedRaw": "Thu, 17 Sep 2026 17:08:35 -0000"
     },
     {
       "id": "1905e37e98f4",
@@ -734,6 +702,36 @@
       "publishedRaw": "17 Sep 2026 14:41:00 -0300"
     },
     {
+      "id": "2061df75af1f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio vê “ato de desespero” em Bolsa Família e diz que medida é ilegal",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-ve-ato-de-desespero-em-bolsa-familia-e-diz-que-medida-e-ilegal/",
+      "summary": "Senador refutou também acusações de suposto custeio dos EUA à campanha à Presidência",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Thu, 17 Sep 2026 18:21:28 +0000"
+    },
+    {
+      "id": "a8842d704f2b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Quem Ama Cuida”: Heitor pode recuperar herança já distribuída na família?",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-heitor-pode-recuperar-heranca-ja-distribuida-na-familia/",
+      "summary": "Dado como morto, o herdeiro de Arthur Brandão (Antônio Fagundes) faz sua primeira aparição na trama de Walcyr Carrasco e Claudia Souto, nesta quinta-feira (17)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Thu, 17 Sep 2026 17:55:27 +0000"
+    },
+    {
       "id": "1617feb7d952",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -794,6 +792,21 @@
       "publishedRaw": "Thu, 17 Sep 2026 14:15:51 -0000"
     },
     {
+      "id": "9bf690ade607",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dólar oscila com aumento do Bolsa Família e após decisões de juros; Ibovespa sobe",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/17/dolar-ibovespa.ghtml",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair\nO dólar operava em queda de 0,04% por volta das 15h15 desta quinta-feira (17), cotado a R$ 5,1495. O Ibovespa, principal índice da bolsa de valores brasileira, avançava 0,45%, aos 186.388 pontos. \nOs investidores reagem ao reajuste do Bolsa Família e avaliam os impactos da medida para as contas públicas e a disputa eleitoral. Também seguem repercutindo as decisões de juros anunciadas ontem no Brasil e nos EUA, enquanto monitoram os preços do petróleo, que recuam levemente.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ O governo federal anunciou nesta quinta-feira o aumento do piso do Bolsa Família de R$ 600 para R$ 691, alta de cerca de 15%. O reajuste valerá a partir dos pagamentos de outubro e deve custar R$ 5,8 bilhões aos cofres públicos neste ano. Em 2027, o impacto estimado é de R$ 22,7 bilhões.\n▶️ A medida ocorre em meio a preocupações com as contas públicas. Primeiro reajuste do programa desde 2023, a mudança ajuda a recompor o poder de compra dos beneficiários, mas ocorre em um momento de dificuldades para o governo avançar no corte de despesas, segundo economistas.\n▶️ Há também o impacto eleitoral. Analistas veem o aumento do Bolsa Família como um fator capaz de influenciar a disputa pela Presidência, em um momento em que as pesquisas mais recentes apontam uma corrida mais acirrada entre o presidente Lula (PT) e o senador Flávio Bolsonaro (PL-RJ).\n▶️ Ontem, foi dia de Superquarta, com decisões de juros no Brasil e nos EUA. Por aqui, o Comitê de Política Monetária (Copom) reduziu a Selic em 0,25 ponto percentual, para 13,75% ao ano. Já nos EUA, o Federal Reserve (Fed) elevou os juros na mesma magnitude, para a faixa de 3,75% a 4% ao ano.\nBRASIL CORTA JUROS: Entenda como a decisão pode afetar o seu bolso\n▶️ Enquanto isso, os preços do petróleo operam em queda. Na véspera, notícias de que a Arábia Saudita estaria oferecendo cargas adicionais da commodity por meio de Omã ajudaram a amenizar preocupações com uma possível interrupção do abastecimento.\nPor volta das 15h10, o barril do Brent, referência internacional, operava em queda de 0,94%, cotado a US$ 104,84. Já o West Texas Intermediate (WTI), referência nos EUA, caía 0,45%, a US$ 101,97 o barril.\n▶️ A alta do Ibovespa é puxada pelo avanço de quase 1% das ações da Petrobras e de mais de 2% dos papéis da Vale, além do bom desempenho de grandes bancos, como Itaú e Santander.\n▶️ Na política, o mercado ainda monitora a tensão no STF. Nesta quinta-feira, o presidente da Corte, ministro Edson Fachin, retirou da pauta o julgamento que analisaria a atuação do ministro André Mendonça em apurações relacionadas ao Banco Master.\n▶️ A decisão ocorre após a sessão histórica realizada na terça-feira para discutir o caso Moraes-Vorcaro. Na ocasião, o plenário debateu pela primeira vez a possibilidade de abrir uma investigação contra um integrante da própria Corte. Veja em 10 pontos como foi a sessão no STF.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,51%;\nAcumulado do mês: -0,55%;\nAcumulado do ano: -6,15%.\n📈Ibovespa\n\nAcumulado da semana: -0,89%;\nAcumulado do mês: +4,58%;\nAcumulado do ano: +15,16%.\nAumento do Bolsa Família\nCom o aumento, o benefício médio passará dos atuais R$ 675 para R$ 777. O reajuste valerá para os pagamentos que começam em 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais.\nSegundo o Ministério do Planejamento, o custo da medida será de R$ 5,8 bilhões neste ano. Para 2027, o impacto estimado nas despesas chega a R$ 22,7 bilhões.\nDesde que foi relançado pelo governo Lula, em março de 2023, o Bolsa Família não passava por reajustes. Anunciada em meio à corrida eleitoral, a decisão representa, segundo a equipe econômica, a reposição da inflação acumulada entre o início do governo e agosto deste ano.\nA equipe econômica de Lula nega que o reajuste tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias.\n\"Creio que não [tem relação com as eleições]. Ficou claro que foi feito pelo esforço de cadastro. Precisávamos da clareza que temos espaço fiscal disponível. Identificamos e viemos dar a tranquilidade para o presidente que tínhamos capacidade [de reajustar]\", disse o ministro do Planejamento, Bruno Moretti.\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste.\nJuros no Brasil e nos EUA ficam no radar\nO 5º corte consecutivo da Selic por parte do BC fica no centro das atenções nesta quinta-feira. A decisão veio em linha com o esperado pelo mercado e levou a Selic para o menor patamar desde março do ano passado.\nA redução da taxa básica acompanha acompanha a desaceleração nos preços de inflação. Na semana passada, o IBGE indicou que o Índice de Preços ao Consumidor Amplo (IPCA) caiu 0,32% em agosto, na maior queda de preços desde 2022.\nJá nos EUA, o Federal Reserve (Fed, o banco central americano) elevou a taxa de juros do país em 0,25 ponto percentual, para a faixa de 3,75% a 4% ao ano. Foi a primeira alta desde julho de 2023. A decisão, anunciada nesta quarta-feira (16), foi unânime e veio em linha com as expectativas do mercado financeiro.\n➡️ O movimento interrompe uma sequência de cinco reuniões consecutivas com juros inalterados. A alta foi influenciada, entre outros fatores, pela disparada do preço do petróleo em meio ao aumento das tensões no Oriente Médio, o que reforçou as preocupações com a inflação.\nEm comunicado, o Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) afirmou que a atividade econômica americana continua se expandindo em ritmo sólido e que \"os gastos domésticos têm se mostrado resilientes\", apesar do cenário de incerteza elevada causado por \"acontecimentos geopolíticos\".\nFed eleva juros dos EUA pela 1ª vez em mais de 3 anos, para a faixa de 3,75% a 4% ao ano\nBolsas globais\nNos EUA, Wall Street se recupera nesta quinta-feira. A queda dos preços do petróleo, o recuo dos rendimentos dos títulos do Tesouro americano e dados sólidos do mercado de trabalho ajudam os investidores a deixar em segundo plano a alta de juros anunciada pelo Federal Reserve.\nO índice Dow Jones subia 0,71%, o S&amp;P 500 avançava 1,11% e o Nasdaq tinha ganhos de 1,56%.\nNa Ásia, as bolsas chinesas fecharam em queda, liderados por setores sensíveis às taxas de juros depois que o primeiro aumento das taxas de juros nos EUA em três anos aumentou preocupações com a saída de capitais.\nO SSEC, índice de Xangai e o CSI300, que reúne as maiores empresas das bolsas de Xangai e Shenzhen, caíram 0,4%. Já o Hang Seng, de Hong Kong, também teve perdas de 0,4%. \nEntre os demais mercados da região, o índice Nikkei, do Japão, subiu 0,33% e o Kospi, da Coreia do Sul, desvalorizou 0,04%.\n* Com informações da agência de notícias Reuters.\nDólar\nfreepik",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 51,
+      "publishedRaw": "Thu, 17 Sep 2026 12:00:00 -0000"
+    },
+    {
       "id": "4a93fd7d6659",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -822,21 +835,6 @@
       "crossOutlets": [],
       "score": 51,
       "publishedRaw": "Thu, 17 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "175ed9ccefe1",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que o Brasil sempre abre a Assembleia Geral da ONU",
-      "link": "https://www.bbc.com/portuguese/articles/cw0kl1x7pg54o?at_medium=RSS&at_campaign=rss",
-      "summary": "A resposta está menos em regras escritas e mais na tradição diplomática.",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 50,
-      "publishedRaw": "Thu, 17 Sep 2026 12:40:03 GMT"
     }
   ]
 }
