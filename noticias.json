@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:43:58.706738+00:00",
+  "generated_at": "2026-09-17T11:15:38.870307+00:00",
   "items": [
     {
       "id": "55122b2bbe2c",
@@ -46,29 +46,6 @@
       ],
       "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "id": "f1c076811651",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Flávio no STF’, sugere Eduardo Bolsonaro, com montagem do irmão como ministro da Corte",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-no-stf-sugere-eduardo-bolsonaro-com-montagem-do-irmao-como-ministro-da-corte/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 16 Sep 2026 20:01:07 +0000"
     },
     {
       "id": "78789d32f62e",
@@ -312,27 +289,6 @@
       "publishedRaw": "17 Sep 2026 05:00:00 -0300"
     },
     {
-      "id": "eda49c29c386",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF desmoralizado é presente para a extrema direita e Trump",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/09/stf-desmoralizado-e-presente-para-a-extrema-direita-e-trump.shtml",
-      "summary": "A sessão de terça-feira (15) do Supremo Tribunal Federal foi um dos episódios mais deprimentes da história recente da República. Assistiu-se a uma derrota cívica, vexame de grandes proporções encenado por uma corte acossada por suspeitas, conflitos de interesse e acusações recíprocas.\nLeia mais (09/17/2026 - 04h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "17 Sep 2026 04:00:00 -0300"
-    },
-    {
       "id": "7e697ce6651a",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -352,27 +308,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 23:46:20 +0000"
-    },
-    {
-      "id": "c35d86026e41",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do STF silenciam no plenário sobre crise um dia após hostilidades no julgamento de Moraes",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministros-do-stf-se-reencontram-apos-atritos-na-sessao-sobre-o-caso-moraes-e-vorcaro-assista/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 16 Sep 2026 17:08:40 +0000"
     },
     {
       "id": "88d6385da0de",
@@ -415,6 +350,48 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
+    },
+    {
+      "id": "4ea7ed79eec2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Há 'vencedor' na disputa de alas do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
+    },
+    {
+      "id": "2fe45810a73a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista",
+      "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministro pede mais tempo para apreciar questão de ordem após discussão entre Gilmar Mendes e André Mendonça e diz que pedido de vista ocorreu porque Fachin não tomou 'providências'.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 16 Sep 2026 07:50:33 GMT"
     },
     {
       "id": "198bcc71abf2",
@@ -501,13 +478,13 @@
       "publishedRaw": "Wed, 16 Sep 2026 20:13:55 -0000"
     },
     {
-      "id": "7c1ce930e1d4",
+      "id": "c1dd1ab777ae",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula é desaprovado por 53,6%; 45,4% aprovam, diz Atlas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-e-desaprovado-por-536-454-aprovam-diz-atlas/",
-      "summary": "Levantamento Atlas/Bloomberg ouviu 5.018 eleitores com margem de erro de um ponto percentual",
+      "title": "Gerp: Flávio tem 50% no 2º turno; Lula, 43%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-50-no-2o-turno-lula-43/",
+      "summary": "Pesquisa divulgada nesta quinta-feira (17) ouviu 2.400 pessoas entre os dias 14 e 16 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
       "tags": [
         "Lula"
       ],
@@ -519,16 +496,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 10:02:43 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 11:01:43 +0000"
     },
     {
-      "id": "712c23d923b7",
+      "id": "9b70d63738df",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula tem 44,1% no 1º turno; Flávio, 41,7%, diz Atlas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-441-no-1o-turno-flavio-417-diz-atlas/",
-      "summary": "Levantamento da AtlasIntel ouviu 5.018 eleitores em todo o país com margem de erro de um ponto percentual",
+      "title": "PoderData/Aya: 50% rejeitam votar em Lula; 46% em Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-50-rejeitam-votar-em-lula-46-em-flavio/",
+      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 3.000 pessoas entre os dias 13 e 16 de setembro; margem de erro é de 1,8 ponto percentual, para mais ou para menos, com intervalo de confiança de 95%",
       "tags": [
         "Lula"
       ],
@@ -540,16 +517,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 10:01:48 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 10:34:01 +0000"
     },
     {
-      "id": "aaefc1a4388c",
+      "id": "592661ad424a",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio tem 47,2% no 2º turno; Lula, 46,8%, diz Atlas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-tem-472-no-2o-turno-lula-468-diz-atlas/",
-      "summary": "Levantamento da AtlasIntel ouviu 5.018 eleitores entre os dias 11 e 16 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "title": "PoderData/Aya: Lula tem 37% no 1º turno; Flávio, 36%; e Cury, 8%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-lula-tem-37-no-1o-turno-flavio-36-e-cury-8/",
+      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 3.000 pessoas entre os dias 13 e 16 de setembro; margem de erro é de 1,8 ponto percentual, para mais ou para menos, com intervalo de confiança de 95%",
       "tags": [
         "Lula"
       ],
@@ -561,7 +538,49 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 10:00:20 +0000"
+      "publishedRaw": "Thu, 17 Sep 2026 10:33:16 +0000"
+    },
+    {
+      "id": "7b6c1de85fae",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: 52% desaprovam o governo Lula; 41% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-52-desaprovam-o-governo-lula-41-aprovam/",
+      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 3.000 pessoas entre os dias 13 e 16 de setembro; margem de erro é de 1,8 ponto percentual, para mais ou para menos, com intervalo de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:32:58 +0000"
+    },
+    {
+      "id": "520e59506352",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: Flávio tem 46% no 2º turno; Lula, 44%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/poderdata-aya-flavio-tem-46-no-2o-turno-lula-44/",
+      "summary": "Levantamento divulgado nesta quinta-feira (17) ouviu 3.000 pessoas entre os dias 13 e 16 de setembro; margem de erro é de 1,8 ponto percentual, para mais ou para menos, com intervalo de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:31:50 +0000"
     },
     {
       "id": "c2daf1de8965",
@@ -648,12 +667,33 @@
       "publishedRaw": "Thu, 17 Sep 2026 00:23:17 +0000"
     },
     {
-      "id": "b385231a47ce",
+      "id": "0db7d40b55a8",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "[6h] Lula tem 57,5% contra 36,2% de Flávio no 2º turno em PE, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/6h-lula-tem-575-contra-362-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
+      "title": "Flávio tem 50% contra 43% de Lula no 2º turno, diz Gerp",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-50-contra-43-de-lula-no-2o-turno-diz-gerp/",
+      "summary": "Levantamento ouviu 2.400 eleitores de 14 a 16 de setembro; Flávio lidera também no 1º turno",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 11:00:15 +0000"
+    },
+    {
+      "id": "74bf5dce0975",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 57,5% contra 36,2% de Flávio no 2º turno em PE, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-575-contra-362-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
       "summary": "Segundo Atlas/Intel, atual presidente tem 56% de aprovação entre eleitores pernambucanos",
       "tags": [
         "Lula"
@@ -751,27 +791,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 10:30:10 +0000"
-    },
-    {
-      "id": "8d47ffedfc49",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 47,2% contra 46,8% de Lula no 2º turno, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-472-contra-468-de-lula-no-2o-turno-diz-pesquisa/",
-      "summary": "Segundo AtlasIntel, atual presidente está tecnicamente empatado com o seu principal adversário",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 10:00:53 +0000"
     },
     {
       "id": "18d004e66604",
@@ -902,21 +921,6 @@
       "publishedRaw": "Wed, 16 Sep 2026 19:42:43 -0000"
     },
     {
-      "id": "2685523cf8fd",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump e Netanyahu transformam urnas em um jogo decisivo para a democracia",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/09/trump-e-netanyahu-transformam-urnas-em-um-jogo-decisivo-para-a-democracia.shtml",
-      "summary": "Vinte e sete de outubro e 3 de novembro de 2026 estão se configurando como duas das datas mais importantes da história de duas das mais importantes democracias -Israel e Estados Unidos. Esses países realizarão, nessas datas, eleições de consequências enormes, com apenas uma semana de intervalo.\nLeia mais (09/17/2026 - 04h00)",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "17 Sep 2026 04:00:00 -0300"
-    },
-    {
       "id": "1b59c4fd51f0",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -930,6 +934,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Wed, 16 Sep 2026 22:00:50 +0000"
+    },
+    {
+      "id": "d8cb3ba1b361",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Reforma tributária deve levar empresas a mudarem centros de distribuição",
+      "link": "https://www.cnnbrasil.com.br/infra/reforma-tributaria-deve-levar-empresas-a-mudarem-centros-de-distribuicao/",
+      "summary": "Pesquisa do Ilos (Instituto de Logística e Supply Chain) apontou tendência de mudança gradual ao longo dos próximos anos",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "Thu, 17 Sep 2026 11:00:03 +0000"
     },
     {
       "id": "3a42e5f5c756",
