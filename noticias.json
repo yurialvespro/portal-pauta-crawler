@@ -1,28 +1,6 @@
 {
-  "generated_at": "2026-09-17T10:16:24.882186+00:00",
+  "generated_at": "2026-09-17T10:43:58.706738+00:00",
   "items": [
-    {
-      "id": "f1c076811651",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Flávio no STF’, sugere Eduardo Bolsonaro, com montagem do irmão como ministro da Corte",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-no-stf-sugere-eduardo-bolsonaro-com-montagem-do-irmao-como-ministro-da-corte/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 16 Sep 2026 20:01:07 +0000"
-    },
     {
       "id": "55122b2bbe2c",
       "source": "G1 - Política",
@@ -38,11 +16,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 00:45:38 -0000"
     },
     {
@@ -60,12 +39,36 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "id": "f1c076811651",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Flávio no STF’, sugere Eduardo Bolsonaro, com montagem do irmão como ministro da Corte",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-no-stf-sugere-eduardo-bolsonaro-com-montagem-do-irmao-como-ministro-da-corte/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Wed, 16 Sep 2026 20:01:07 +0000"
     },
     {
       "id": "78789d32f62e",
@@ -81,12 +84,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 07:33:11 GMT"
     },
     {
@@ -103,12 +107,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 16 Sep 2026 08:39:12 GMT"
     },
     {
@@ -125,12 +130,58 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 16 Sep 2026 18:05:19 -0000"
+    },
+    {
+      "id": "5782fb03d283",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas: 49,5% dizem que crise no STF prejudica mais candidatura de Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-495-dizem-que-crise-no-stf-prejudica-mais-candidatura-de-lula/",
+      "summary": "Levantamento da AtlasIntel ouviu 5.018 eleitores no país entre 11 e 16 de setembro, com margem de erro de um ponto percentual",
+      "tags": [
+        "STF",
+        "candidatura",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 17 Sep 2026 10:05:19 +0000"
+    },
+    {
+      "id": "b491c37839c8",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à crise no STF, parlamentares articulam proposta de reforma do Judiciário",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/em-meio-a-crise-no-stf-parlamentares-articulam-proposta-de-reforma-do-judiciario.ghtml",
+      "summary": "Em meio à crise no Supremo Tribunal Federal (STF), parlamentares articulam no Congresso Nacional propostas para uma reforma do poder Judiciário. Ao menos 30 iniciativas sobre o tema tramitam nas duas casas.\nA maior parte delas está concentrada em mudanças relacionadas ao STF, como a criação de mandatos para ministros, alterações no sistema de indicação e novos critérios para ocupar uma vaga na Corte.\nNa semana passada, o deputado federal Reginaldo Lopes (PT-MG), apresentou uma proposta de emenda à Constituição (PEC) que prevê, entre outras medidas, mandato de dez anos e idade mínima de 50 anos para ministros da Corte.\nSTF estende crise\nO texto prevê mandato único e improrrogável de até dez anos para ministros e conselheiros de tribunais superiores, como o STF, e cortes de contas. O mandato começa na posse e termina no décimo aniversário da posse ou quando o magistrado completar 75 anos.\nAlém disso, estabelece a idade mínima de 50 anos e máxima de 70 anos para futuras nomeações nas Cortes superiores.\nNos próximos quatro anos, três ministros do Supremo Tribunal Federal irão atingir a idade de aposentadoria compulsória, são eles: Luiz Fux, Cármen Lúcia e Gilmar Mendes. Além dessas três vagas, há o posto aberto em decorrência da aposentadoria de Luís Roberto Barroso. \nCom isso, o próximo presidente poderá escolher até quatro ministros no Supremo.\nNa última semana, o deputado Danilo Forte (PP-CE) também apresentou uma proposta sobre o tema. Entre as principais mudanças estão a criação de mandato de oito anos para novos ministros do STF, a divisão das indicações à Corte entre Executivo, Legislativo e Judiciário e a adoção de novas regras de conduta e responsabilização para magistrados.\nA PEC pretende tornar a indicação de ministros rotativa pelos Poderes Executivo, Legislativo e Judiciário.\nA proposta também busca ampliar transparência da magistratura e estabelecer novos mecanismos de responsabilização. O texto também restringe decisões monocráticas.\nSegundo o texto, a proposta preserva os mandatos dos atuais integrantes da Corte e determina que o modelo seja implementado gradualmente, à medida que ocorrerem vagas na Corte.\n🔎 Os deputados ainda estão recolhendo assinaturas para protocolar as propostas. Para que uma PEC seja apresentada formalmente e passe a tramitar, são necessárias as assinaturas de pelo menos 171 dos 513 deputados.\nEm outra frente, a Comissão de Direitos Humanos (CDH) aprovou nesta terça-feira (15) uma indicação da senadora Damares Alves (Republicanos-DF) para que a Comissão de Constituição e Justiça (CCJ) crie um grupo de trabalho responsável por reunir propostas de reforma do Judiciário que já estão em tramitação no Congresso.\nA sugestão prevê que o colegiado consolide propostas de emenda à Constituição (PECs) e projetos de lei sobre o tema e apresente um texto unificado em até 60 dias. A indicação será encaminhada à CCJ, que decidirá se acolhe ou não a proposta.\nReforma do Judiciário \nA última reforma do Judiciário ocorreu em 2004, após quase 13 anos de tramitação no Congresso.\nA medida criou o Conselho Nacional de Justiça (CNJ) e o Conselho Nacional do Ministério Público (CNMP), além de promover mudanças em diversos dispositivos da Constituição relacionados ao funcionamento do sistema de Justiça.\nO Supremo também discute o tema. O grupo criado pelo STF para discutir a reforma do Judiciário recebeu 87 propostas apresentadas por diversos órgãos e entidades da sociedade civil e que trazem pontos polêmicos, como adoção de mandato para ministros do STF, limitação de decisões individuais, além de novos mecanismos de controle e responsabilização.\nA discussão sobre mudanças institucionais também inclui a elaboração de um código de ética, apontado como uma das prioridades do presidente da Corte, ministro Edson Fachin.\nA estátua 'A Justiça', em frente ao prédio do STF e ao fundo Prédio do Congresso Nacional.\nTON MOLINA/FOTOARENA/ESTADÃO CONTEÚDO\nEntenda a crise do Supremo\nA crise na Corte se intensificou após o ministro André Mendonça levantar o sigilo de relatórios da Polícia Federal sobre as investigações do Banco Master.\nUm dos documentos apontou 52 mensagens entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes, além de encontros presenciais entre os dois e de um contrato de R$ 130 milhões entre o banco e o escritório da mulher de Moraes, Viviane Barci de Moraes.\nLEIA TAMBÉM: Relação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as principais revelações do relatório da PF\nA divulgação dos documentos provocou um confronto entre Moraes e André Mendonça, relator das investigações do caso Master.\nMoraes acusou o colega de fazer uma liberação \"seletiva\" dos autos e de omitir documentos. Mendonça negou e afirmou que manteve sob sigilo apenas informações necessárias para preservar investigações em andamento e dados de terceiros.\nA disputa também envolveu o acesso às provas extraídas do celular de Vorcaro. Moraes, Cristiano Zanin e Gilmar Mendes pediram acesso integral ao material.\nApós determinação de Zanin, a PF confirmou, na segunda-feira (14), ter entregue cópias do acervo digital aos três gabinetes. A PGR também se manifestou a favor da ampliação do acesso aos documentos.\nDiante do conflito, o presidente do STF, Edson Fachin, decidiu separar os processos. O caso que envolve as mensagens entre Vorcaro e Moraes começou a ser analisado pelo Plenário nesta terça-feira (15).\nA sessão foi marcada por embates entre os ministros até ser interrompida por um pedido de vista do ministro Flávio Dino. Com o pedido de vista, Dino tem até 90 dias para devolver o processo para análise. O prazo se encerra em dezembro deste ano.\nJá as acusações de Moraes contra Mendonça ficaram para 23 de setembro.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 17 Sep 2026 05:00:00 -0000"
     },
     {
       "id": "2efa15b00bb2",
@@ -146,6 +197,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -153,26 +205,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 17 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "b491c37839c8",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise no STF, parlamentares articulam proposta de reforma do Judiciário",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/17/em-meio-a-crise-no-stf-parlamentares-articulam-proposta-de-reforma-do-judiciario.ghtml",
-      "summary": "Em meio à crise no Supremo Tribunal Federal (STF), parlamentares articulam no Congresso Nacional propostas para uma reforma do poder Judiciário. Ao menos 30 iniciativas sobre o tema tramitam nas duas casas.\nA maior parte delas está concentrada em mudanças relacionadas ao STF, como a criação de mandatos para ministros, alterações no sistema de indicação e novos critérios para ocupar uma vaga na Corte.\nNa semana passada, o deputado federal Reginaldo Lopes (PT-MG), apresentou uma proposta de emenda à Constituição (PEC) que prevê, entre outras medidas, mandato de dez anos e idade mínima de 50 anos para ministros da Corte.\nSTF estende crise\nO texto prevê mandato único e improrrogável de até dez anos para ministros e conselheiros de tribunais superiores, como o STF, e cortes de contas. O mandato começa na posse e termina no décimo aniversário da posse ou quando o magistrado completar 75 anos.\nAlém disso, estabelece a idade mínima de 50 anos e máxima de 70 anos para futuras nomeações nas Cortes superiores.\nNos próximos quatro anos, três ministros do Supremo Tribunal Federal irão atingir a idade de aposentadoria compulsória, são eles: Luiz Fux, Cármen Lúcia e Gilmar Mendes. Além dessas três vagas, há o posto aberto em decorrência da aposentadoria de Luís Roberto Barroso. \nCom isso, o próximo presidente poderá escolher até quatro ministros no Supremo.\nNa última semana, o deputado Danilo Forte (PP-CE) também apresentou uma proposta sobre o tema. Entre as principais mudanças estão a criação de mandato de oito anos para novos ministros do STF, a divisão das indicações à Corte entre Executivo, Legislativo e Judiciário e a adoção de novas regras de conduta e responsabilização para magistrados.\nA PEC pretende tornar a indicação de ministros rotativa pelos Poderes Executivo, Legislativo e Judiciário.\nA proposta também busca ampliar transparência da magistratura e estabelecer novos mecanismos de responsabilização. O texto também restringe decisões monocráticas.\nSegundo o texto, a proposta preserva os mandatos dos atuais integrantes da Corte e determina que o modelo seja implementado gradualmente, à medida que ocorrerem vagas na Corte.\n🔎 Os deputados ainda estão recolhendo assinaturas para protocolar as propostas. Para que uma PEC seja apresentada formalmente e passe a tramitar, são necessárias as assinaturas de pelo menos 171 dos 513 deputados.\nEm outra frente, a Comissão de Direitos Humanos (CDH) aprovou nesta terça-feira (15) uma indicação da senadora Damares Alves (Republicanos-DF) para que a Comissão de Constituição e Justiça (CCJ) crie um grupo de trabalho responsável por reunir propostas de reforma do Judiciário que já estão em tramitação no Congresso.\nA sugestão prevê que o colegiado consolide propostas de emenda à Constituição (PECs) e projetos de lei sobre o tema e apresente um texto unificado em até 60 dias. A indicação será encaminhada à CCJ, que decidirá se acolhe ou não a proposta.\nReforma do Judiciário \nA última reforma do Judiciário ocorreu em 2004, após quase 13 anos de tramitação no Congresso.\nA medida criou o Conselho Nacional de Justiça (CNJ) e o Conselho Nacional do Ministério Público (CNMP), além de promover mudanças em diversos dispositivos da Constituição relacionados ao funcionamento do sistema de Justiça.\nO Supremo também discute o tema. O grupo criado pelo STF para discutir a reforma do Judiciário recebeu 87 propostas apresentadas por diversos órgãos e entidades da sociedade civil e que trazem pontos polêmicos, como adoção de mandato para ministros do STF, limitação de decisões individuais, além de novos mecanismos de controle e responsabilização.\nA discussão sobre mudanças institucionais também inclui a elaboração de um código de ética, apontado como uma das prioridades do presidente da Corte, ministro Edson Fachin.\nA estátua 'A Justiça', em frente ao prédio do STF e ao fundo Prédio do Congresso Nacional.\nTON MOLINA/FOTOARENA/ESTADÃO CONTEÚDO\nEntenda a crise do Supremo\nA crise na Corte se intensificou após o ministro André Mendonça levantar o sigilo de relatórios da Polícia Federal sobre as investigações do Banco Master.\nUm dos documentos apontou 52 mensagens entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes, além de encontros presenciais entre os dois e de um contrato de R$ 130 milhões entre o banco e o escritório da mulher de Moraes, Viviane Barci de Moraes.\nLEIA TAMBÉM: Relação entre Vorcaro e Moraes: VEJA LISTA e ENTENDA as principais revelações do relatório da PF\nA divulgação dos documentos provocou um confronto entre Moraes e André Mendonça, relator das investigações do caso Master.\nMoraes acusou o colega de fazer uma liberação \"seletiva\" dos autos e de omitir documentos. Mendonça negou e afirmou que manteve sob sigilo apenas informações necessárias para preservar investigações em andamento e dados de terceiros.\nA disputa também envolveu o acesso às provas extraídas do celular de Vorcaro. Moraes, Cristiano Zanin e Gilmar Mendes pediram acesso integral ao material.\nApós determinação de Zanin, a PF confirmou, na segunda-feira (14), ter entregue cópias do acervo digital aos três gabinetes. A PGR também se manifestou a favor da ampliação do acesso aos documentos.\nDiante do conflito, o presidente do STF, Edson Fachin, decidiu separar os processos. O caso que envolve as mensagens entre Vorcaro e Moraes começou a ser analisado pelo Plenário nesta terça-feira (15).\nA sessão foi marcada por embates entre os ministros até ser interrompida por um pedido de vista do ministro Flávio Dino. Com o pedido de vista, Dino tem até 90 dias para devolver o processo para análise. O prazo se encerra em dezembro deste ano.\nJá as acusações de Moraes contra Mendonça ficaram para 23 de setembro.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 05:00:00 -0000"
     },
     {
       "id": "7379894b7030",
@@ -187,11 +219,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Thu, 17 Sep 2026 00:01:58 -0000"
     },
     {
@@ -207,11 +240,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 21:23:24 -0000"
     },
     {
@@ -227,11 +261,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 19:49:56 -0000"
     },
     {
@@ -247,11 +282,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 18:39:20 -0000"
     },
     {
@@ -267,11 +303,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "17 Sep 2026 05:00:00 -0300"
     },
     {
@@ -287,11 +324,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "17 Sep 2026 04:00:00 -0300"
     },
     {
@@ -307,11 +345,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 23:46:20 +0000"
     },
     {
@@ -327,11 +366,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 17:08:40 +0000"
     },
     {
@@ -346,12 +386,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 22:21:45 GMT"
     },
     {
@@ -366,12 +407,13 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
@@ -386,33 +428,35 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 16 Sep 2026 15:17:08 GMT"
     },
     {
-      "id": "662f5512bacc",
+      "id": "1a13d55facb2",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Plenário do STF: saiba quais ações estão na pauta desta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-5a-feira-6/",
-      "summary": "Reajuste de planos de saúde para idosos com contratos anteriores a 2003 é o destaque do julgamento presencial no Supremo",
+      "title": "PoderData/Aya: STF é desaprovado por 53% e aprovado por 30%",
+      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-stf-e-desaprovado-por-53-e-aprovado-por-30/",
+      "summary": "Levantamento de 13 a 16 de setembro mostra que 50% avaliam a atuação da Corte como “ruim” ou “péssima” e 18%, como “ótima” ou “boa”",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 09:17:50 +0000"
+      "score": 90,
+      "publishedRaw": "Thu, 17 Sep 2026 10:30:35 +0000"
     },
     {
       "id": "b98c9018728a",
@@ -427,11 +471,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 00:47:14 -0000"
     },
     {
@@ -447,12 +492,76 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 16 Sep 2026 20:13:55 -0000"
+    },
+    {
+      "id": "7c1ce930e1d4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é desaprovado por 53,6%; 45,4% aprovam, diz Atlas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-e-desaprovado-por-536-454-aprovam-diz-atlas/",
+      "summary": "Levantamento Atlas/Bloomberg ouviu 5.018 eleitores com margem de erro de um ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:02:43 +0000"
+    },
+    {
+      "id": "712c23d923b7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 44,1% no 1º turno; Flávio, 41,7%, diz Atlas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-441-no-1o-turno-flavio-417-diz-atlas/",
+      "summary": "Levantamento da AtlasIntel ouviu 5.018 eleitores em todo o país com margem de erro de um ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:01:48 +0000"
+    },
+    {
+      "id": "aaefc1a4388c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 47,2% no 2º turno; Lula, 46,8%, diz Atlas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-tem-472-no-2o-turno-lula-468-diz-atlas/",
+      "summary": "Levantamento da AtlasIntel ouviu 5.018 eleitores entre os dias 11 e 16 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:00:20 +0000"
     },
     {
       "id": "c2daf1de8965",
@@ -467,11 +576,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 10:00:00 +0000"
     },
     {
@@ -487,11 +597,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 01:37:42 +0000"
     },
     {
@@ -507,11 +618,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 01:33:39 +0000"
     },
     {
@@ -527,12 +639,118 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 00:23:17 +0000"
+    },
+    {
+      "id": "b385231a47ce",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "[6h] Lula tem 57,5% contra 36,2% de Flávio no 2º turno em PE, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/6h-lula-tem-575-contra-362-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
+      "summary": "Segundo Atlas/Intel, atual presidente tem 56% de aprovação entre eleitores pernambucanos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:37:29 +0000"
+    },
+    {
+      "id": "5e8fcca7c8b4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 46% e Lula, 44% no 2º turno, diz PoderData/Aya",
+      "link": "https://www.poder360.com.br/poderdata/flavio-tem-46-e-lula-44-no-2o-turno-diz-poderdata-aya/",
+      "summary": "Pesquisa realizada de 13 a 16 de setembro mostra que petista fica numericamente atrás do senador pela 3ª rodada seguida",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:30:57 +0000"
+    },
+    {
+      "id": "7ba3bbaad3c0",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula é rejeitado por 50% e Flávio, por 46%, diz PoderData/Aya",
+      "link": "https://www.poder360.com.br/poderdata/lula-e-rejeitado-por-50-e-flavio-por-46-diz-poderdata-aya/",
+      "summary": "Levantamento de 13 a 16 de setembro mostra que rejeição ao congressista oscilou 1 ponto para cima, enquanto a do petista se manteve estável",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:30:48 +0000"
+    },
+    {
+      "id": "1bb182e0b4a8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: Lula tem 37% contra 36% de Flávio no 1º turno",
+      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-lula-tem-37-contra-36-de-flavio-no-1o-turno/",
+      "summary": "Levantamento realizado de 13 a 16 de setembro mostra empate técnico entre o petista e o senador, com a menor diferença entre os 2 candidatos desde maio",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:30:31 +0000"
+    },
+    {
+      "id": "516b6e4f579f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PoderData/Aya: Lula é desaprovado por 50% e aprovado por 41%",
+      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-lula-e-desaprovado-por-50-e-aprovado-por-41/",
+      "summary": "Levantamento realizado de 13 a 16 de setembro mostra leve piora na percepção do eleitorado sobre o trabalho do petista, com oscilação dentro da margem de erro",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 10:30:10 +0000"
     },
     {
       "id": "8d47ffedfc49",
@@ -547,92 +765,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 10:00:53 +0000"
-    },
-    {
-      "id": "e58da92bf1a6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AtlasIntel: Lula é rejeitado por 52% dos eleitores e Flávio por 50,2%",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/atlasintel-lula-e-rejeitado-por-52-dos-eleitores-e-flavio-por-502/",
-      "summary": "Levantamento divulgado nesta 5ª feira também mediu as intenções de voto para presidente e a aprovação do governo petista",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 10:00:03 +0000"
-    },
-    {
-      "id": "ed7f4de68ed6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula é aprovado por 45,4% e desaprovado por 53,6%, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-aprovado-por-454-e-desaprovado-por-536-diz-pesquisa/",
-      "summary": "Levantamento AtlasIntel ouviu 5.018 eleitores do Brasil de 11 a 16 de setembro; a margem de erro é de 1 ponto percentual",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 10:00:02 +0000"
-    },
-    {
-      "id": "48ad32faa07b",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-5a-feira-5/",
-      "summary": "Visita à indústria farmacêutica e ato político em Montes Claros (MG) movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 09:15:35 +0000"
-    },
-    {
-      "id": "3a9228efc16c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-8/",
-      "summary": "Reunião no Planalto com Lula, vistorias em obras no Nordeste e eventos de infraestrutura movimentam o dia",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 09:15:11 +0000"
     },
     {
       "id": "18d004e66604",
@@ -675,6 +814,27 @@
       "publishedRaw": "Thu, 17 Sep 2026 01:00:47 +0000"
     },
     {
+      "id": "c67829b2fb5a",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/16/lula-sanciona-politica-para-exploracao-de-minerais-criticos-e-estrategicos-em-territorio-nacional.ghtml",
+      "summary": "Ana Flor: Brasil é a grande reserva de minerais críticos, por isso os EUA estão de olho\nO presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (16) o projeto que cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE). \nA legislação prevê a criação de um fundo garantidor para estimular investimentos no setor e institui um crédito tributário de R$ 5 bilhões para incentivar o processamento e a transformação de minerais em território nacional. O texto foi aprovado pelo Congresso no início deste mês.\nDurante o discurso, Lula afirmou que, com a sanção do projeto, o Brasil propõe uma nova agenda de mineração para o mundo.\n\"Antes de tudo, é preciso vencer os adversários internos. Como sempre, os traidores da pátria, mais uma vez, cairam de joelhos diante dos Estados Unidos.  Prometeram entregar nossos minerais críticos e terras raras em estado bruto, a preço de banana, como aconteceu no passado com nosso minério de ferro\", disse Lula.\n\"Não permitiremos que a história se repita. Que os inimigos do brasil entendam uma vez por todas: nossa soberania não está à venda. A riqueza do Brasil tem um único dono: o povo brasileiro\", completou.\n💰 A proposta autoriza a União a criar um fundo de natureza privada, do qual poderá participar como cotista com aporte de até R$ 2 bilhões (veja mais detalhes abaixo).\nSem mencionar os Estados Unidos, o ministro de Minas e Energia, Alexandre Silveira, classificou a política como uma \"declaração de independência econômica e de coragem política de uma nação que não se curva diante das ameaças externas\". \nO interesse dos norte-americanos pelos minerais brasileiro é mencionado com frequência pelo presidente norte-americano Donald Trump. E, no mês passado, a empresa americana USA Rare Earth comprou a mineradora Serra Verde, única mineradora de terras raras em operação no Brasil, o que foi alvo de críticas por setores brasileiros. \nSegundo Silveira, o normativo também contribui para a neoindustrialização.  \n\"A grande oportunidade não está somente na extração. Reside especialmente na capacidade de instalar no Brasil as etapas de beneficiamento, de separação, de refino, de transformação, de elaboração de materiais avançados, de componentes e de produtos industriais\", afirmou o ministro.\nEle lembrou, porém, os recursos diminutos da Agência Nacional de Mineração (ANM) para pesquisa do solo brasileiro. Atualmente, o orçamento para essa frente é de R$8 milhões, mas passará a R$300 milhões para o próximo ano, segundo o ministro.\nVeja, abaixo, os principais pontos do projeto:\nFundo Garantidor\nA lei sancionada por Lula cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE) e o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), vinculado à Presidência da República.\nSerá este conselho, inclusive, que elaborará a lista de minerais considerados críticos e estratégicos e que será revisada a cada quatro anos.\nA proposta autoriza a criação de um fundo garantidor de até R$ 5 bilhões para estimular projetos na área, com participação como cotista limitada a R$ 2 bilhões. De acordo com as regras, o fundo não poderá contar com qualquer tipo de garantia ou aval do poder público.\nEntenda projeto aprovado no Senado que cria regras para exploração de terras raras e outras riquezas minerais brasileiras\nJornal Nacional/ Reprodução\nDe natureza privada, o fundo atende a uma demanda do setor mineral. A iniciativa visa facilitar o acesso das empresas a crédito, ao permitir a apresentação de garantias em operações de financiamento.\nAlém das cotas previstas, também poderão entrar como patrimônio do fundo contribuições voluntárias dos estados, Distrito Federal e municípios, resultados das aplicações financeiras dos seus recursos, entre outros.\nPara fins de governança, será instituído um comitê gestor do fundo.\nConforme o relator, o BNDES estima que sejam necessários R$ 5 bilhões para destravar os projetos.\nEstímulo para agregar valor\nSegundo o Serviço Geológico dos Estados Unidos, o Brasil detém a segunda maior reserva de terras raras do mundo, com cerca de 21 milhões de toneladas, atrás apenas da China.\nMas, apesar do potencial, o Brasil ainda não domina plenamente a tecnologia de beneficiamento e transformação industrial das terras raras e demais minerais críticos e estratégicos.\nNa prática, isso significa que o país ainda exporta, em boa parte, os minerais como commodities brutas, sem agregar valor.\nDiante da lacuna, o projeto cria o Programa Federal de Beneficiamento e Transformação de Minerais Críticos e Estratégicos (PFMCE), cujo objetivo é ser uma fonte de recursos para o fomento do beneficiamento e transformação mineral e da mineração urbana dos minerais.\nSó terão direito ao benefício empresas constituídas sob a legislação brasileira e que tenham sede e administração no Brasil. \nEssas empresas terão que comprovar investimentos no processamento de minerais críticos e estratégicos no país.\nO crédito fiscal será concedido entre 2030 e 2034, com limite anual de R$ 1 bilhão.\nA proposta estabelece uma espécie de “escada” que aumenta o crédito à medida que se avance na cadeia. Entre os produtos produzidos pelas empresas estão:\nconcentrados;\nconcentrados em grau bateria: carbonatos, hidróxidos, sulfatos, óxidos, esferoides e materiais ativos de cátodo e precursores;\nconcentrados em grau adequado para a produção de ímãs permanentes para motores elétricos: óxidos, cloretos e metais ou ligas;\nfertilizantes: fosfatados, potássicos e nitrogenados;\nsistema de armazenamento de energia.\nO crédito também poderá ser concedido a empresas que firmarem contrato de longo prazo, de no mínimo 5 anos, para a compra de um ou mais produtos listados acima.\nConselho para Industrialização\nA estrutura, vinculada à Presidência da República, será responsável por homologar a venda de mineradoras que detém direitos de exploração de minerais críticos e estratégicos.\nCaberá ao conselho e à Agência Nacional de Mineração (ANM) a homologação sobre o acesso a informações geológicas de interesse estratégico ou participação de empresas estrangeiras em mineradoras credenciadas a explorar minérios críticos e estratégicos, além de:\ncontratos, acordos ou parcerias internacionais que envolvam fornecimento dos minerais críticos e estratégicos em condições que possam afetar a segurança econômica ou geopolítica do País;\nalienação, cessão ou oneração de ativos minerais pertencentes, direta ou indiretamente, à União.\nO conselho será composto por 15 representantes de órgãos do Poder Executivo, com um representante de estados e do Distrito Federal, um representante dos municípios, dois representantes do setor privado e um representante da sociedade civil.\nLeilões\nO texto define que as áreas com potencial para a produção de minerais críticos e estratégicos deverão ser priorizadas em leilões realizados pela Agência Nacional de Mineração (ANM).\nA área desonerada e aquela decorrente de qualquer forma de extinção do direito minerário deverá ser submetida a leilão pela ANM no prazo máximo de dois anos contado da data de sua desoneração ou extinção do direito minerário.\nDemais pontos:\nCadastro Nacional de Projetos de Minerais Críticos e Estratégicos, que reunirá todos os projetos de minerais críticos e estratégicos implementados em território nacional, nos termos do regulamento.\nSistema de rastreabilidade da cadeia produtiva, cujo objetivo é identificar eventuais ilicitudes.\nA proposta prevê um período de autorização para pesquisa em áreas de minerais críticos ou estratégicos de no máximo 10 anos. O relator ampliou o prazo, que antes era de 5 anos.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 16 Sep 2026 20:47:14 -0000"
+    },
+    {
       "id": "5ef018d72ef2",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -692,26 +852,6 @@
       ],
       "score": 82,
       "publishedRaw": "Thu, 17 Sep 2026 02:33:27 +0000"
-    },
-    {
-      "id": "c67829b2fb5a",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/16/lula-sanciona-politica-para-exploracao-de-minerais-criticos-e-estrategicos-em-territorio-nacional.ghtml",
-      "summary": "Ana Flor: Brasil é a grande reserva de minerais críticos, por isso os EUA estão de olho\nO presidente Luiz Inácio Lula da Silva (PT) sancionou nesta quarta-feira (16) o projeto que cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE). \nA legislação prevê a criação de um fundo garantidor para estimular investimentos no setor e institui um crédito tributário de R$ 5 bilhões para incentivar o processamento e a transformação de minerais em território nacional. O texto foi aprovado pelo Congresso no início deste mês.\nDurante o discurso, Lula afirmou que, com a sanção do projeto, o Brasil propõe uma nova agenda de mineração para o mundo.\n\"Antes de tudo, é preciso vencer os adversários internos. Como sempre, os traidores da pátria, mais uma vez, cairam de joelhos diante dos Estados Unidos.  Prometeram entregar nossos minerais críticos e terras raras em estado bruto, a preço de banana, como aconteceu no passado com nosso minério de ferro\", disse Lula.\n\"Não permitiremos que a história se repita. Que os inimigos do brasil entendam uma vez por todas: nossa soberania não está à venda. A riqueza do Brasil tem um único dono: o povo brasileiro\", completou.\n💰 A proposta autoriza a União a criar um fundo de natureza privada, do qual poderá participar como cotista com aporte de até R$ 2 bilhões (veja mais detalhes abaixo).\nSem mencionar os Estados Unidos, o ministro de Minas e Energia, Alexandre Silveira, classificou a política como uma \"declaração de independência econômica e de coragem política de uma nação que não se curva diante das ameaças externas\". \nO interesse dos norte-americanos pelos minerais brasileiro é mencionado com frequência pelo presidente norte-americano Donald Trump. E, no mês passado, a empresa americana USA Rare Earth comprou a mineradora Serra Verde, única mineradora de terras raras em operação no Brasil, o que foi alvo de críticas por setores brasileiros. \nSegundo Silveira, o normativo também contribui para a neoindustrialização.  \n\"A grande oportunidade não está somente na extração. Reside especialmente na capacidade de instalar no Brasil as etapas de beneficiamento, de separação, de refino, de transformação, de elaboração de materiais avançados, de componentes e de produtos industriais\", afirmou o ministro.\nEle lembrou, porém, os recursos diminutos da Agência Nacional de Mineração (ANM) para pesquisa do solo brasileiro. Atualmente, o orçamento para essa frente é de R$8 milhões, mas passará a R$300 milhões para o próximo ano, segundo o ministro.\nVeja, abaixo, os principais pontos do projeto:\nFundo Garantidor\nA lei sancionada por Lula cria a Política Nacional de Minerais Críticos e Estratégicos (PNMCE) e o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), vinculado à Presidência da República.\nSerá este conselho, inclusive, que elaborará a lista de minerais considerados críticos e estratégicos e que será revisada a cada quatro anos.\nA proposta autoriza a criação de um fundo garantidor de até R$ 5 bilhões para estimular projetos na área, com participação como cotista limitada a R$ 2 bilhões. De acordo com as regras, o fundo não poderá contar com qualquer tipo de garantia ou aval do poder público.\nEntenda projeto aprovado no Senado que cria regras para exploração de terras raras e outras riquezas minerais brasileiras\nJornal Nacional/ Reprodução\nDe natureza privada, o fundo atende a uma demanda do setor mineral. A iniciativa visa facilitar o acesso das empresas a crédito, ao permitir a apresentação de garantias em operações de financiamento.\nAlém das cotas previstas, também poderão entrar como patrimônio do fundo contribuições voluntárias dos estados, Distrito Federal e municípios, resultados das aplicações financeiras dos seus recursos, entre outros.\nPara fins de governança, será instituído um comitê gestor do fundo.\nConforme o relator, o BNDES estima que sejam necessários R$ 5 bilhões para destravar os projetos.\nEstímulo para agregar valor\nSegundo o Serviço Geológico dos Estados Unidos, o Brasil detém a segunda maior reserva de terras raras do mundo, com cerca de 21 milhões de toneladas, atrás apenas da China.\nMas, apesar do potencial, o Brasil ainda não domina plenamente a tecnologia de beneficiamento e transformação industrial das terras raras e demais minerais críticos e estratégicos.\nNa prática, isso significa que o país ainda exporta, em boa parte, os minerais como commodities brutas, sem agregar valor.\nDiante da lacuna, o projeto cria o Programa Federal de Beneficiamento e Transformação de Minerais Críticos e Estratégicos (PFMCE), cujo objetivo é ser uma fonte de recursos para o fomento do beneficiamento e transformação mineral e da mineração urbana dos minerais.\nSó terão direito ao benefício empresas constituídas sob a legislação brasileira e que tenham sede e administração no Brasil. \nEssas empresas terão que comprovar investimentos no processamento de minerais críticos e estratégicos no país.\nO crédito fiscal será concedido entre 2030 e 2034, com limite anual de R$ 1 bilhão.\nA proposta estabelece uma espécie de “escada” que aumenta o crédito à medida que se avance na cadeia. Entre os produtos produzidos pelas empresas estão:\nconcentrados;\nconcentrados em grau bateria: carbonatos, hidróxidos, sulfatos, óxidos, esferoides e materiais ativos de cátodo e precursores;\nconcentrados em grau adequado para a produção de ímãs permanentes para motores elétricos: óxidos, cloretos e metais ou ligas;\nfertilizantes: fosfatados, potássicos e nitrogenados;\nsistema de armazenamento de energia.\nO crédito também poderá ser concedido a empresas que firmarem contrato de longo prazo, de no mínimo 5 anos, para a compra de um ou mais produtos listados acima.\nConselho para Industrialização\nA estrutura, vinculada à Presidência da República, será responsável por homologar a venda de mineradoras que detém direitos de exploração de minerais críticos e estratégicos.\nCaberá ao conselho e à Agência Nacional de Mineração (ANM) a homologação sobre o acesso a informações geológicas de interesse estratégico ou participação de empresas estrangeiras em mineradoras credenciadas a explorar minérios críticos e estratégicos, além de:\ncontratos, acordos ou parcerias internacionais que envolvam fornecimento dos minerais críticos e estratégicos em condições que possam afetar a segurança econômica ou geopolítica do País;\nalienação, cessão ou oneração de ativos minerais pertencentes, direta ou indiretamente, à União.\nO conselho será composto por 15 representantes de órgãos do Poder Executivo, com um representante de estados e do Distrito Federal, um representante dos municípios, dois representantes do setor privado e um representante da sociedade civil.\nLeilões\nO texto define que as áreas com potencial para a produção de minerais críticos e estratégicos deverão ser priorizadas em leilões realizados pela Agência Nacional de Mineração (ANM).\nA área desonerada e aquela decorrente de qualquer forma de extinção do direito minerário deverá ser submetida a leilão pela ANM no prazo máximo de dois anos contado da data de sua desoneração ou extinção do direito minerário.\nDemais pontos:\nCadastro Nacional de Projetos de Minerais Críticos e Estratégicos, que reunirá todos os projetos de minerais críticos e estratégicos implementados em território nacional, nos termos do regulamento.\nSistema de rastreabilidade da cadeia produtiva, cujo objetivo é identificar eventuais ilicitudes.\nA proposta prevê um período de autorização para pesquisa em áreas de minerais críticos ou estratégicos de no máximo 10 anos. O relator ampliou o prazo, que antes era de 5 anos.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Wed, 16 Sep 2026 20:47:14 -0000"
     },
     {
       "id": "af2a8ed13108",
