@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-17T20:16:38.734837+00:00",
+  "generated_at": "2026-09-17T20:41:36.324898+00:00",
   "items": [
+    {
+      "id": "bbaa46fdece5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro vincula Lula a Moraes e diz que vai indicar 6 ministros do STF, caso eleito",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-vincula-lula-a-moraes-e-diz-que-vai-indicar-6-ministros-do-stf-caso-eleito/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "Thu, 17 Sep 2026 20:21:12 +0000"
+    },
     {
       "id": "b8874fe3f328",
       "source": "G1 - Política",
@@ -19,40 +44,18 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 15:53:48 -0000"
     },
     {
-      "id": "b1300d91ec7d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro diz que não tem ajuda do governo Trump nas eleições: ‘Quem resolve é a gente aqui’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-diz-que-nao-tem-ajuda-do-governo-trump-nas-eleicoes-quem-resolve-e-a-gente-aqui/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Thu, 17 Sep 2026 16:30:04 +0000"
-    },
-    {
       "id": "78789d32f62e",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir eventual 2º turno, segundo pesquisas",
+      "title": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas",
       "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
       "summary": "A quase duas semanas do primeiro turno da eleição presidencial, as pesquisas de intenção de voto ainda não apontam um favorito claro. A reportagem consultou cientistas políticos e mergulhou nos detalhes de quatro pesquisas divulgadas nos últimos dias para mapear 5 temas que podem ter influência importante em um eventual desempate no segundo turno.",
       "tags": [
@@ -64,11 +67,12 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Thu, 17 Sep 2026 16:53:47 GMT"
+      "publishedRaw": "Thu, 17 Sep 2026 20:35:01 GMT"
     },
     {
       "id": "e93ee1105bca",
@@ -87,6 +91,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -111,6 +116,7 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -133,6 +139,7 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -140,27 +147,27 @@
       "publishedRaw": "17 Sep 2026 16:34:00 -0300"
     },
     {
-      "id": "823fa5ca00b8",
-      "source": "Poder360",
+      "id": "1b9d599eeecb",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que governo “nem discutiu” documento dos EUA sobre eleições",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-governo-nem-discutiu-documento-dos-eua-sobre-eleicoes/",
-      "summary": "Presidente chamou de “ultrapassada” comunicação sigilosa da Casa Branca que trata de minerais críticos e processo eleitoral no Brasil",
+      "title": "Lula defende julgamento conjunto de Moraes e Mendonça no STF",
+      "link": "https://www.estadao.com.br/politica/lula-defende-julgamento-conjunto-de-moraes-e-mendonca-no-stf/",
+      "summary": "",
       "tags": [
-        "eleições",
+        "STF",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
-      "publishedRaw": "Thu, 17 Sep 2026 19:33:11 +0000"
+      "score": 90,
+      "publishedRaw": "Thu, 17 Sep 2026 20:03:42 +0000"
     },
     {
       "id": "a0e83802a7d0",
@@ -218,6 +225,7 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -229,9 +237,9 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Zé Trovão, aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator",
+      "title": "Zé Trovão (PL-SC), aliado de Flávio Bolsonaro, vai ao TSE contra reajuste do Bolsa Família; Mendonça vai ser o relator",
       "link": "https://g1.globo.com/politica/noticia/2026/09/17/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-do-bolsa-familia-mendonca-vai-ser-o-relator.ghtml",
-      "summary": "Ministro André Mendonça.\nLuiz Roberto/TSE\nO deputado federal Zé Tovão (PL-SC) acionou o Tribunal Superior Eleitoral (TSE) contra o reajuste do Bolsa Família anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (15).\nO ministro André Mendonça foi sorteado relator do caso no TSE. \nCom o reajuste, o piso do programa passa de R$ 600 para R$ 691. O novo valor passa a valer no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais.\nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22,7 bilhões.",
+      "summary": "Ministro André Mendonça.\nLuiz Roberto/TSE\nO deputado federal Zé Tovão (PL-SC), aliado do senador e candidato à Presidência da República, Falávio Bolsonaro (PL-RJ), acionou o Tribunal Superior Eleitoral (TSE) contra o reajuste do Bolsa Família anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (15).\nO ministro André Mendonça foi sorteado relator do caso no TSE. \nCom o reajuste, o piso do programa passa de R$ 600 para R$ 691. O novo valor começa a valer no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais.\nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22,7 bilhões.\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa. \nRepresentação TCU \nO Ministério Público junto ao Tribunal de Contas da União (TCU) pediu que a Corte suspenda o reajuste anunciado pelo governo. A representação foi assinada pelo procurador Lucas Furtado. \n\"O decreto produz efeitos financeiros a partir do primeiro dia do mês subsequente ao de sua publicação, gerando impacto orçamentário imediato e de grande monta, sem que haja qualquer indicação de prévia dotação orçamentária ou estimativa de impacto financeiro\", diz trecho do documento.  \nO que diz o governo \nO Ministério da Fazenda informou que o reajuste do Bolsa Família apenas repõe as perdas inflacionárias dos últimos anos, o que não equivaleria a um aumento do benefício social.   \nDe acordo com a Advocacia-Geral da União (AGU), a lei que instituiu o novo Bolsa Família, em 2023, autoriza o Poder Executivo a \"corrigir os valores dos benefícios e proíbe sua redução\".\n \"Ao editar o ato, o Governo Federal exerce, portanto, a competência que o Congresso Nacional lhe atribuiu\", acrescentou o orgão em posicionamento divulgado à imprensa.\nSegundo a AGU, a correção do benefício pela inflação, sem a ampliação do público beneficiado, está \"fora do alcance de qualquer vedação eleitoral\".\nGoverno anuncia reajuste de 15% no Bolsa Família",
       "tags": [
         "Bolsonaro",
         "família",
@@ -253,7 +261,7 @@
       "category": "Política",
       "title": "Zé Trovão, aliado de Flávio Bolsonaro, vai ao TSE contra reajuste no Bolsa Família e Mendonça será relator",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml",
-      "summary": "O deputado federal Zé Trovão (PL-SC) acionou o TSE (Tribunal Superior Eleitoral) contra o reajuste de 15,04% do Bolsa Família, anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (15). Em petição, o parlamentar acusa o petista de abuso de poder político durante o período eleitoral.\nLeia mais (09/17/2026 - 16h47)",
+      "summary": "O deputado federal Zé Trovão (PL-SC) acionou o TSE (Tribunal Superior Eleitoral) contra o reajuste de 15,04% do Bolsa Família, anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (17). Em petição, o parlamentar acusa o petista de abuso de poder político durante o período eleitoral.\nLeia mais (09/17/2026 - 16h47)",
       "tags": [
         "Bolsonaro",
         "família",
@@ -267,6 +275,27 @@
       ],
       "score": 86,
       "publishedRaw": "17 Sep 2026 16:47:00 -0300"
+    },
+    {
+      "id": "1487f547edc0",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula vê relatório sobre PCC e CV como 'muito grave' e brecha para ações militares dos Estados Unidos",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/governo-lula-ve-relatorio-sobre-pcc-e-cv-como-muito-grave-e-brecha-para-acoes-militares-dos-eua.ghtml",
+      "summary": "Auxiliares do presidente Luiz Inácio Lula da Silva (PT) avaliam como \"muito grave\" o relatório dos Estados Unidos que acusou o Brasil de ter falhado no combate às facções criminosas Primeiro Comando da Capital (PCC) e Comando Vermelho (CV).\nNo relatório enviado ao Congresso americano na terça-feira (15), o presidente Donald Trump fala na necessidade de adoção pelo Brasil, \"com urgência\", de \"medidas enérgicas para enfrentar\" as organizações criminosas. \nPCC e CV foram incluídos recentemente pelos EUA na lista de organizações terroristas. \nO documento diz ainda que, enquanto outros governos do hemisfério ocidental estão tomando \"medidas corajosas\" para erradicar cartéis, o Brasil não tem enfrentado o PCC e o CV.\nAgora no g1\nA avaliação na área internacional do governo brasileiro é que o documento relaciona o crime organizado e o narcotráfico à segurança nacional americana, o que \"abre margem para ações militarizadas dos EUA à revelia do direito internacional\".\nA exemplo do que ocorreu em janeiro deste ano com o presidente deposto da Venezuela, Nicolás Maduro, que foi capturado pelos Estados Unidos. Maduro foi acusado de conspirar a favor do narcoterrorismo e do tráfico de drogas.\nO relatório dos EUA sobre PCC e CV foi divulgado nesta quarta-feira (16) pelo Departamento de Estado. Horas depois, o governo brasileiro divulgou nota negando que existam falhas ou omissões no enfrentamento ao crime organizado transnacional. \n\"A alusão registrada no texto não corresponde à categoria jurídica de descumprimento formal prevista na legislação norte-americana que rege esse mecanismo anual. Trata-se, portanto, de manifestação circunstancial inserida na parte narrativa do documento, sem respaldo em sua parte dispositiva\", afirmou o governo brasileiro.\nEm nota, o Ministério da Justiça afirma que as alegações do governo americano desconsideram medidas adotadas pelo governo brasileiro, como a Lei Antifacção, aprovada pelo Congresso Nacional e sancionada por Lula.\nE também ignoram a cooperação já existente entre Brasil e EUA no combate ao crime organizado transnacional.\nItamaraty vê risco de os EUA usarem a força militar contra o Brasil depois de terem classificado PCC e CV como terroristas\nJornal Nacional/ Reprodução",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 20:16:18 -0000"
     },
     {
       "id": "6ad670910a45",
@@ -284,6 +313,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "Poder360"
       ],
       "score": 85,
@@ -305,6 +335,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "Poder360"
       ],
       "score": 85,
@@ -325,6 +356,7 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -332,25 +364,48 @@
       "publishedRaw": "17 Sep 2026 17:10:00 -0300"
     },
     {
-      "id": "aedfc877542c",
-      "source": "Folha de São Paulo",
+      "id": "ae8e580505c4",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Sem mencionar EUA, Lula vai abordar combate ao crime organizado na ONU",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/sem-mencionar-eua-lula-vai-abordar-combate-ao-crime-organizado-na-onu.shtml",
-      "summary": "Sem mencionar nominalmente os Estados Unidos ou o governo de Donald Trump, o presidente Lula (PT) deve abordar na ONU a importância do combate ao crime organizado e criticar as medidas que vêm sendo adotadas nesse setor nas Américas.\nLeia mais (09/17/2026 - 16h00)",
+      "title": "Lula inaugura uso inédito do Bolsa Famíla como moeda eleitoral: aumento 2 semanas antes do 1º turno",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-usa-bolsa-familia-como-moeda-eleitoral-e-da-xeque-mate-em-flavio-que-fica-de-maos-atadas/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Sep 2026 16:00:00 -0300"
+      "publishedRaw": "Thu, 17 Sep 2026 16:22:30 +0000"
+    },
+    {
+      "id": "ed8ec5ba746d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula endossou ato de Vieira de rejeitar exigências dos EUA sobre dissidentes, Boeing e terras raras",
+      "link": "https://www.estadao.com.br/politica/lula-endossou-ato-de-vieira-de-rejeitar-exigencias-dos-eua-sobre-dissidentes-boeing-e-terras-raras/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 20:15:02 +0000"
     },
     {
       "id": "4ff982ccde6b",
@@ -367,11 +422,78 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 19:27:27 +0000"
+    },
+    {
+      "id": "7fac1354543e",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: Lula participa de caminhada em Montes Claros",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-participa-de-caminhada-em-montes-claros/",
+      "summary": "Presidente, candidato à reeleição, faz ato de campanha ao lado de Patrus Ananias no Norte de Minas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 20:30:06 +0000"
+    },
+    {
+      "id": "c95234cd6704",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça estava utilizando o cargo para fazer política, diz Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mendonca-estava-utilizando-o-cargo-para-fazer-politica-diz-lula/",
+      "summary": "Presidente volta a fazer críticas à condução do então relator do caso envolvendo o Banco Master no STF",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 20:21:20 +0000"
+    },
+    {
+      "id": "a9d943c82705",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula vê relatório sobre CV e PCC como manobra segura de Trump",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-ve-relatorio-sobre-cv-e-pcc-como-manobra-segura-de-trump/",
+      "summary": "Planalto avalia que pressão sobre o STF perdeu força nos EUA e daria mais desgaste eleitoral que endurecer contra as facções",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 17 Sep 2026 20:19:18 +0000"
     },
     {
       "id": "73f986dabba1",
@@ -389,73 +511,49 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Thu, 17 Sep 2026 20:08:45 +0000"
     },
     {
-      "id": "658b0ba5ca62",
-      "source": "Poder360",
+      "id": "828eed041592",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Celina Leão diz que Lula a criticou por ser mulher",
-      "link": "https://www.poder360.com.br/poder-economia/celina-leao-diz-que-lula-a-criticou-por-ser-mulher/",
-      "summary": "Petista chamou governadora do Distrito Federal de \"cínica\" por estar negociando aval da administração Lula para empréstimo para o BRB, banco estatal de Brasília",
+      "title": "Diante da crise no STF, Fachin toma duas decisões no mesmo dia: cancela sessão e adia julgamento de Mendonça",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/diante-da-crise-no-stf-fachin-toma-duas-decisoes-no-mesmo-dia-cancela-sessao-e-adia-julgamento-de-mendonca.ghtml",
+      "summary": "Fachin vai remarcar sessão sobre atuação de André Mendonça\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, tomou duas decisões nesta quinta-feira (17) em meio à escalada da crise interna na Corte: \ncancelou uma sessão extraordinária do plenário; e \nretirou de pauta o julgamento que analisaria a atuação do ministro André Mendonça em apurações relacionadas ao Banco Master.\nAs medidas foram adotadas após uma semana marcada por bate-bocas entre ministros, divergências sobre a condução de investigações e novos atritos públicos envolvendo integrantes do tribunal.\nO julgamento sobre a atuação de Mendonça estava previsto para ocorrer em 23 de setembro. A sessão havia sido marcada por Fachin após o presidente do STF decidir que a análise do caso de Mendonça seguiria separada da discussão envolvendo o ministro Alexandre de Moraes.\nA decisão de retirar o caso da pauta ocorre dois dias depois de uma sessão tumultuada do Supremo. \nNa terça (15), ministros discutiram a forma de tramitação dos procedimentos ligados à crise do caso Master, mas o julgamento acabou interrompido após um pedido de vista do ministro Flávio Dino.\nAntes mesmo da decisão desta quinta, ministros alinhados a Mendonça já avaliavam que seria difícil manter o julgamento do dia 23. \nNos bastidores do tribunal, a avaliação era de que o pedido de vista e a indefinição sobre o rito dos processos comprometiam a realização da sessão.\nNa sessão de terça, ministros próximos a Moraes defenderam que a análise das condutas dos dois colegas ocorresse de forma conjunta. Fachin, porém, rejeitou a proposta.\nA questão passou a dominar o julgamento, provocou bate-bocas entre ministros e levou à suspensão da análise quando o placar estava em 4 votos a 3 para manter separados os dois casos.\nComo Dino tem até 90 dias para devolver o processo para julgamento, a definição sobre como essas ações serão analisadas permaneceu em aberto. \nNos bastidores, ministros apontavam que seria necessária uma nova deliberação de Fachin antes da sessão marcada para o dia 23.\nNo despacho desta quinta, o presidente do STF afirmou que ainda existem discussões pendentes com impacto direto sobre o julgamento de Mendonça.\nEntre elas estão questionamentos sobre a tramitação dos processos e a própria relatoria dos procedimentos.\n\"Considerando a direta relação dos pontos contidos na Questão de Ordem referida acima com a apreciação destes autos, abrangendo questionamento sobre a regularidade da própria relatoria, a inclusão em pauta será oportunamente redesignada\", escreveu Fachin na decisão sobre o adiamento do julgamento de Mendonça.\nO despacho não informa quando o julgamento será retomado.\nDecisões de Edson Fachin foram notícia na imprensa internacional\nGetty Images via BBC\nNovos atritos\nAs duas decisões adotadas por Fachin ocorreram no mesmo dia em que a crise voltou a transbordar para o ambiente público.\nTambém nesta quinta, o presidente do Supremo cancelou uma sessão extraordinária do plenário após novos atritos entre os ministros Gilmar Mendes e André Mendonça.\nMais cedo, Mendonça divulgou uma nota rebatendo declarações feitas por Gilmar sobre sua atuação no caso Banco Master e negando qualquer complacência com vazamentos de informações.\nSem citar o colega nominalmente, Mendonça afirmou que jamais transformou \"o plenário num palanque ou picadeiro\" para sustentar acusações sem fundamento jurídico.\nHoras antes, Gilmar havia publicado uma manifestação em defesa do procurador-geral da República, Paulo Gonet, e acusado Mendonça de agir com objetivos \"político-eleitorais\" ao divulgar informações relacionadas ao caso.\nNa publicação, o decano do STF chamou o colega de \"pixuleco eleitoral\" e comparou sua atuação à de Deltan Dallagnol e Sergio Moro durante a Operação Lava Jato.\nAs manifestações representam mais um capítulo dos confrontos envolvendo a condução do caso Master. \nDurante a sessão de terça, Gilmar e Mendonça já haviam protagonizado bate-bocas em plenário durante a discussão sobre os desdobramentos das investigações.\nCom o cancelamento da sessão extraordinária e a retirada do julgamento de Mendonça da pauta, as consequências da crise que atinge o Supremo se ampliaram. \nAs duas decisões de Fachin ocorreram em meio ao impasse aberto na Corte sobre os casos envolvendo Moraes e Mendonça e à crescente deterioração da relação entre ministros.",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 19:15:43 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 15:45:53 -0000"
     },
     {
-      "id": "7e87f34d315d",
-      "source": "Poder360",
+      "id": "2e60329e5870",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula tem 67% contra 27% de Flávio no 2º turno no PI, diz Datafolha",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-67-contra-27-de-flavio-no-2o-turno-no-pi-diz-datafolha/",
-      "summary": "Levantamento ouviu 826 eleitores de 14 e 16 de setembro; margem de erro é de 3 pontos percentuais",
+      "title": "Após novos embates entre ministros, presidente do STF cancela sessão prevista para esta quinta",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/apos-novos-embates-entre-ministros-presidente-do-stf-cancela-sessao-prevista-para-esta-quinta.ghtml",
+      "summary": "Fachin cancela sessão do STF desta quinta (17)\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou o cancelamento da sessão extraordinária da Corte prevista para esta quinta-feira (17). \nO motivo do cancelamento não foi informado pela assessoria do STF. A medida foi tomada após novo embate público entre os ministros Gilmar Mendes e André Mendonça. \nEsta é a terceira sessão plenária cancelada pela presidência do STF em duas semanas, diante da crise Master que atinge a Corte.\nO Supremo iria discutir nesta quinta desde reajustes de planos de saúde para idosos até a tributação de incentivos fiscais estaduais e os limites de acesso a dados de usuários por autoridades de investigação.\nAlém disso, a sessão para analisar a conduta de André Mendonça na relatoria do caso Master, que estava agendada para a próxima quarta-feira (23), também será remarcada por Fachin.\nEscalada de tensão\nO cancelamento da sessão plenária do STF pelo presidente Luís Edson Fachin se insere na escalada de tensão e sucessivos atritos públicos entre os ministros Gilmar Mendes e André Mendonça no âmbito dos desdobramentos do chamado caso Master.\nA crise se intensificou durante a análise de um relatório da Polícia Federal envolvendo mensagens apreendidas no celular de Daniel Vorcaro, dono do extinto Banco Master, processo sob relatoria do ministro André Mendonça. Entre os registros, constavam citações ao procurador-geral da República, Paulo Gonet.\nDurante a sessão da última terça-feira (15), sobre a situação de Moraes, Gonet declarou não ter relação com o ex-banqueiro. Gilmar Mendes saiu em sua defesa e atacou a postura de Mendonça, acusando-o de agir com \"desfaçatez\", \"leviandade\" e de adotar um \"sentimento policialesco\". \nNas horas que antecederam o cancelamento da sessão desta quinta-feira, ambos os ministros tornaram a se manifestar publicamente, aprofundando o desgaste institucional:\nNesta quinta, Gilmar afirmou publicamente que Paulo Gonet teve sua \"honra injustamente manchada\" pela retirada de sigilo de diálogos que, na avaliação do ministro, não continham qualquer ato ilícito.\nO decano, ministro com mais tempo no STF, também acusou André Mendonça de promover \"vazamento seletivo\" com intenções político-eleitorais para \"lucrar politicamente\", chegando a classificá-lo como \"boneco de campanha\" e \"pixuleco eleitoral\".\nPor meio de nota, Mendonça rebateu as afirmações, declarando que o pedido de retirada irrestrito de sigilo não partiu dele, mas de quem agora se mostrava indignado.\nSustentou que sua decisão ocorreu em procedimento específico e fundamentado, negando complacência com vazamentos e lembrando que determinou a apuração de desvios investigativos envolvendo até agentes policiais.\nEm resposta indireta às falas de Gilmar, afirmou que nunca \"transformou o plenário num palanque ou picadeiro, vociferando aos berros, para tentar mascarar com truculência ilações vazias\".\nPor fim, Mendonça defendeu a urgente aprovação de um código de ética para o STF, pauta encampada pelo próprio presidente da Corte, Edson Fachin, para regrar a conduta e o tratamento entre os ministros.\nEdson Fachin durante julgamento do caso das supostas mensagens de Vorcaro para Moraes\nRosinei Coutinho/STF",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 18:57:27 +0000"
-    },
-    {
-      "id": "6e34cd0956f1",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula espera reunir 1.000 em ato com artistas no Rio na 4ª feira",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-espera-reunir-1-000-em-ato-com-artistas-no-rio-na-4a-feira/",
-      "summary": "Expectativa é que nomes como Chico Buarque, Caetano Veloso e Maria Bethânia participem do evento na Fundição Progresso",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 18:51:13 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 17 Sep 2026 15:05:02 -0000"
     },
     {
       "id": "e623a5903d01",
@@ -474,6 +572,7 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "Poder360"
       ],
       "score": 84,
@@ -495,6 +594,7 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -502,83 +602,64 @@
       "publishedRaw": "Thu, 17 Sep 2026 17:14:18 +0000"
     },
     {
-      "id": "ae8e580505c4",
-      "source": "Estadão",
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula usa Bolsa Família como moeda eleitoral e dá xeque-mate em Flávio, que fica de mãos atadas",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-usa-bolsa-familia-como-moeda-eleitoral-e-da-xeque-mate-em-flavio-que-fica-de-maos-atadas/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
       "tags": [
-        "família",
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 16:22:30 +0000"
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
-      "id": "8d619cf3c538",
-      "source": "G1 - Política",
+      "id": "4ea7ed79eec2",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à corrida eleitoral, governo Lula anuncia reajuste de 15% para o Bolsa Família; piso sobe de R$ 600 para R$ 691",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/17/governo-anuncia-reajuste-de-15percent-para-o-bolsa-familia-piso-sobe-de-r-600-para-r-691.ghtml",
-      "summary": "O governo federal anunciou nesta quinta-feira (17) o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro, com pagamentos a partir de 19 de outubro, entre o primeiro e o segundo turno (se houver) das eleições presidenciais. \nSegundo o Ministério do Planejamento, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões. Para 2027, o impacto nas despesas será de R$ 22,7 bilhões (leia mais aqui). \nDesde que foi relançado em março de 2023 pelo governo petista, o Bolsa Família estava sem reajustes.\nA decisão, anunciada em meio à corrida eleitoral, representa, segundo a equipe econômica, a reposição inflacionária do início do governo Lula em 2023, até o mês de agosto.\nAgora no g1\nEm agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nGoverno diz que reposição da inflação não viola lei eleitoral\nAumento não estava previsto no Orçamento de 2027\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nRegras\nPara ter direito ao benefício, a renda mensal por pessoa deve ser de até R$ 218, e o Cadastro Único para todos os membros familiares deve estar atualizado. Também é necessário o cumprimento de compromissos em saúde e educação.\nEm agosto, o governo realizou o pagamento do benefício para cerca de 19,3 milhões de famílias no Brasil.\nNo ano passado, quando foi divulgada a proposta de orçamento deste ano, o benefício englobava 19,2 milhões de famílias em situação de pobreza.\nCusto do aumento\nDe acordo com o ministro do Planejamento, Bruno Moretti, o custo do reajuste do Bolsa Família, neste ano, será de R$ 5,8 bilhões (referente ao período de outubro a dezembro).\nPara 2027 e 2028, o impacto anual no aumento de gastos será de R$ 22,7 bilhões, acrescentou o ministro. \nCom isso, o valor proposto para 2027 passará de R$ 157,1 bilhões com o Bolsa Família para cerca de R$ 179 bilhões.\nSegundo Moretti, há espaço fiscal de sobra para o aumento dos benefícios do programa.\n\"Ficará claro no relatório de setembro, tem espaço fiscal. Vamos divulgar no dia 24, nosso trabalho agora é de consolidação. Então, dia 24 vamos passar os números, mas temos segurança que o espaço fiscal é superior do que é preciso pra custear essa medida\", declarou o ministro.\nSegundo o governo, os mecanismos de combate a fraudes foram ampliados, o que também ajuda a viabilizar os aumentos no Bolsa Família. \nValores pagos hoje\nAtualmente, o valor mínimo pago por família é de R$ 600. Além disso, há benefícios adicionais cumulativos. São eles:\nR$ 150 por criança de até 6 anos;\nR$ 50 por gestante;\nR$ 50 por jovem entre 7 e 18 anos incompletos;\nR$ 50 por bebê de até 6 meses.\nSegundo decreto publicado pelo governo Lula, os adicionais passam a ser de: \n\nR$ 173 por criança entre zero e 7 anos de idade incompletos;\nR$ 58 por gestante;\nR$ 58 por pessoa entre 7 e 18 anos incompletos\nR$ 58 por bebê de até 6 meses\nMarca social de Lula\nCadastro do Bolsa Família e BPC para quem mora sozinho pode ser atualizado sem visita em casa em Salvador\nGoverno Federal\nPrincipal vitrine na área social do presidente Lula, o Bolsa Família foi relançado pelo petista em março de 2023, primeiro ano de seu novo mandato.\nNa época, o governo estabeleceu um modelo de cálculo dos benefícios proporcional ao tamanho da família – o que é apontado por especialistas como um formato mais justo e que melhora a qualidade do gasto público.\nAlém disso, Lula cumpriu a promessa de campanha de manter o benefício mínimo em R$ 600 por família.\nA lei do novo Bolsa Família prevê que esses valores poderão ser corrigidos em, no máximo, dois anos. Na visão do governo, a lei autoriza o reajuste, mas não o torna obrigatório.",
+      "category": "Internacional",
+      "title": "Há 'vencedor' na disputa de alas do STF?",
+      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
       "tags": [
-        "família",
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
+    },
+    {
+      "id": "1487f547edc0",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Governo Lula vê relatório sobre PCC e CV como 'muito grave' e brecha para ações militares dos Estados Unidos",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/governo-lula-ve-relatorio-sobre-pcc-e-cv-como-muito-grave-e-brecha-para-acoes-militares-dos-eua.ghtml",
+      "summary": "Auxiliares do presidente Luiz Inácio Lula da Silva (PT) avaliam como \"muito grave\" o relatório dos Estados Unidos que acusou o Brasil de ter falhado no combate às facções criminosas Primeiro Comando da Capital (PCC) e Comando Vermelho (CV).\nNo relatório enviado ao Congresso americano na terça-feira (15), o presidente Donald Trump fala na necessidade de adoção pelo Brasil, \"com urgência\", de \"medidas enérgicas para enfrentar\" as organizações criminosas. \nPCC e CV foram incluídos recentemente pelos EUA na lista de organizações terroristas. \nO documento diz ainda que, enquanto outros governos do hemisfério ocidental estão tomando \"medidas corajosas\" para erradicar cartéis, o Brasil não tem enfrentado o PCC e o CV.\nAgora no g1\nA avaliação na área internacional do governo brasileiro é que o documento relaciona o crime organizado e o narcotráfico à segurança nacional americana, o que \"abre margem para ações militarizadas dos EUA à revelia do direito internacional\".\nA exemplo do que ocorreu em janeiro deste ano com o presidente deposto da Venezuela, Nicolás Maduro, que foi capturado pelos Estados Unidos. Maduro foi acusado de conspirar a favor do narcoterrorismo e do tráfico de drogas.\nO relatório dos EUA sobre PCC e CV foi divulgado nesta quarta-feira (16) pelo Departamento de Estado. Horas depois, o governo brasileiro divulgou nota negando que existam falhas ou omissões no enfrentamento ao crime organizado transnacional. \n\"A alusão registrada no texto não corresponde à categoria jurídica de descumprimento formal prevista na legislação norte-americana que rege esse mecanismo anual. Trata-se, portanto, de manifestação circunstancial inserida na parte narrativa do documento, sem respaldo em sua parte dispositiva\", afirmou o governo brasileiro.\nEm nota, o Ministério da Justiça afirma que as alegações do governo americano desconsideram medidas adotadas pelo governo brasileiro, como a Lei Antifacção, aprovada pelo Congresso Nacional e sancionada por Lula.\nE também ignoram a cooperação já existente entre Brasil e EUA no combate ao crime organizado transnacional.\nItamaraty vê risco de os EUA usarem a força militar contra o Brasil depois de terem classificado PCC e CV como terroristas\nJornal Nacional/ Reprodução",
+      "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 83,
-      "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
-    },
-    {
-      "id": "828eed041592",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Diante da crise no STF, Fachin toma duas decisões no mesmo dia: cancela sessão e adia julgamento de Mendonça",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/17/diante-da-crise-no-stf-fachin-toma-duas-decisoes-no-mesmo-dia-cancela-sessao-e-adia-julgamento-de-mendonca.ghtml",
-      "summary": "Fachin vai remarcar sessão sobre atuação de André Mendonça\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, tomou duas decisões nesta quinta-feira (17) em meio à escalada da crise interna na Corte: \ncancelou uma sessão extraordinária do plenário; e \nretirou de pauta o julgamento que analisaria a atuação do ministro André Mendonça em apurações relacionadas ao Banco Master.\nAs medidas foram adotadas após uma semana marcada por bate-bocas entre ministros, divergências sobre a condução de investigações e novos atritos públicos envolvendo integrantes do tribunal.\nO julgamento sobre a atuação de Mendonça estava previsto para ocorrer em 23 de setembro. A sessão havia sido marcada por Fachin após o presidente do STF decidir que a análise do caso de Mendonça seguiria separada da discussão envolvendo o ministro Alexandre de Moraes.\nA decisão de retirar o caso da pauta ocorre dois dias depois de uma sessão tumultuada do Supremo. \nNa terça (15), ministros discutiram a forma de tramitação dos procedimentos ligados à crise do caso Master, mas o julgamento acabou interrompido após um pedido de vista do ministro Flávio Dino.\nAntes mesmo da decisão desta quinta, ministros alinhados a Mendonça já avaliavam que seria difícil manter o julgamento do dia 23. \nNos bastidores do tribunal, a avaliação era de que o pedido de vista e a indefinição sobre o rito dos processos comprometiam a realização da sessão.\nNa sessão de terça, ministros próximos a Moraes defenderam que a análise das condutas dos dois colegas ocorresse de forma conjunta. Fachin, porém, rejeitou a proposta.\nA questão passou a dominar o julgamento, provocou bate-bocas entre ministros e levou à suspensão da análise quando o placar estava em 4 votos a 3 para manter separados os dois casos.\nComo Dino tem até 90 dias para devolver o processo para julgamento, a definição sobre como essas ações serão analisadas permaneceu em aberto. \nNos bastidores, ministros apontavam que seria necessária uma nova deliberação de Fachin antes da sessão marcada para o dia 23.\nNo despacho desta quinta, o presidente do STF afirmou que ainda existem discussões pendentes com impacto direto sobre o julgamento de Mendonça.\nEntre elas estão questionamentos sobre a tramitação dos processos e a própria relatoria dos procedimentos.\n\"Considerando a direta relação dos pontos contidos na Questão de Ordem referida acima com a apreciação destes autos, abrangendo questionamento sobre a regularidade da própria relatoria, a inclusão em pauta será oportunamente redesignada\", escreveu Fachin na decisão sobre o adiamento do julgamento de Mendonça.\nO despacho não informa quando o julgamento será retomado.\nDecisões de Edson Fachin foram notícia na imprensa internacional\nGetty Images via BBC\nNovos atritos\nAs duas decisões adotadas por Fachin ocorreram no mesmo dia em que a crise voltou a transbordar para o ambiente público.\nTambém nesta quinta, o presidente do Supremo cancelou uma sessão extraordinária do plenário após novos atritos entre os ministros Gilmar Mendes e André Mendonça.\nMais cedo, Mendonça divulgou uma nota rebatendo declarações feitas por Gilmar sobre sua atuação no caso Banco Master e negando qualquer complacência com vazamentos de informações.\nSem citar o colega nominalmente, Mendonça afirmou que jamais transformou \"o plenário num palanque ou picadeiro\" para sustentar acusações sem fundamento jurídico.\nHoras antes, Gilmar havia publicado uma manifestação em defesa do procurador-geral da República, Paulo Gonet, e acusado Mendonça de agir com objetivos \"político-eleitorais\" ao divulgar informações relacionadas ao caso.\nNa publicação, o decano do STF chamou o colega de \"pixuleco eleitoral\" e comparou sua atuação à de Deltan Dallagnol e Sergio Moro durante a Operação Lava Jato.\nAs manifestações representam mais um capítulo dos confrontos envolvendo a condução do caso Master. \nDurante a sessão de terça, Gilmar e Mendonça já haviam protagonizado bate-bocas em plenário durante a discussão sobre os desdobramentos das investigações.\nCom o cancelamento da sessão extraordinária e a retirada do julgamento de Mendonça da pauta, as consequências da crise que atinge o Supremo se ampliaram. \nAs duas decisões de Fachin ocorreram em meio ao impasse aberto na Corte sobre os casos envolvendo Moraes e Mendonça e à crescente deterioração da relação entre ministros.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Thu, 17 Sep 2026 15:45:53 -0000"
-    },
-    {
-      "id": "2e60329e5870",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após novos embates entre ministros, presidente do STF cancela sessão prevista para esta quinta",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/17/apos-novos-embates-entre-ministros-presidente-do-stf-cancela-sessao-prevista-para-esta-quinta.ghtml",
-      "summary": "Fachin cancela sessão do STF desta quinta (17)\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou o cancelamento da sessão extraordinária da Corte prevista para esta quinta-feira (17). \nO motivo do cancelamento não foi informado pela assessoria do STF. A medida foi tomada após novo embate público entre os ministros Gilmar Mendes e André Mendonça. \nEsta é a terceira sessão plenária cancelada pela presidência do STF em duas semanas, diante da crise Master que atinge a Corte.\nO Supremo iria discutir nesta quinta desde reajustes de planos de saúde para idosos até a tributação de incentivos fiscais estaduais e os limites de acesso a dados de usuários por autoridades de investigação.\nAlém disso, a sessão para analisar a conduta de André Mendonça na relatoria do caso Master, que estava agendada para a próxima quarta-feira (23), também será remarcada por Fachin.\nEscalada de tensão\nO cancelamento da sessão plenária do STF pelo presidente Luís Edson Fachin se insere na escalada de tensão e sucessivos atritos públicos entre os ministros Gilmar Mendes e André Mendonça no âmbito dos desdobramentos do chamado caso Master.\nA crise se intensificou durante a análise de um relatório da Polícia Federal envolvendo mensagens apreendidas no celular de Daniel Vorcaro, dono do extinto Banco Master, processo sob relatoria do ministro André Mendonça. Entre os registros, constavam citações ao procurador-geral da República, Paulo Gonet.\nDurante a sessão da última terça-feira (15), sobre a situação de Moraes, Gonet declarou não ter relação com o ex-banqueiro. Gilmar Mendes saiu em sua defesa e atacou a postura de Mendonça, acusando-o de agir com \"desfaçatez\", \"leviandade\" e de adotar um \"sentimento policialesco\". \nNas horas que antecederam o cancelamento da sessão desta quinta-feira, ambos os ministros tornaram a se manifestar publicamente, aprofundando o desgaste institucional:\nNesta quinta, Gilmar afirmou publicamente que Paulo Gonet teve sua \"honra injustamente manchada\" pela retirada de sigilo de diálogos que, na avaliação do ministro, não continham qualquer ato ilícito.\nO decano, ministro com mais tempo no STF, também acusou André Mendonça de promover \"vazamento seletivo\" com intenções político-eleitorais para \"lucrar politicamente\", chegando a classificá-lo como \"boneco de campanha\" e \"pixuleco eleitoral\".\nPor meio de nota, Mendonça rebateu as afirmações, declarando que o pedido de retirada irrestrito de sigilo não partiu dele, mas de quem agora se mostrava indignado.\nSustentou que sua decisão ocorreu em procedimento específico e fundamentado, negando complacência com vazamentos e lembrando que determinou a apuração de desvios investigativos envolvendo até agentes policiais.\nEm resposta indireta às falas de Gilmar, afirmou que nunca \"transformou o plenário num palanque ou picadeiro, vociferando aos berros, para tentar mascarar com truculência ilações vazias\".\nPor fim, Mendonça defendeu a urgente aprovação de um código de ética para o STF, pauta encampada pelo próprio presidente da Corte, Edson Fachin, para regrar a conduta e o tratamento entre os ministros.\nEdson Fachin durante julgamento do caso das supostas mensagens de Vorcaro para Moraes\nRosinei Coutinho/STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Thu, 17 Sep 2026 15:05:02 -0000"
+      "score": 82,
+      "publishedRaw": "Thu, 17 Sep 2026 20:16:18 -0000"
     },
     {
       "id": "8d619cf3c538",
@@ -596,29 +677,12 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
-    },
-    {
-      "id": "0076b27a52fb",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin cancelou sessão do STF por temer novos ataques de Gilmar a Mendonça e Fux",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/fachin-cancelou-sessao-do-stf-por-temer-novos-ataques-de-gilmar-a-mendonca-e-fux.shtml",
-      "summary": "A decisão do presidente do STF (Supremo Tribunal Federal), Edson Fachin, de cancelar a sessão plenária desta quinta-feira (17) passou por um temor de que o ministro Gilmar Mendes fizesse mais um duro pronunciamento sobre a atuação do ministro André Mendonça no caso do Banco Master.\nLeia mais (09/17/2026 - 16h09)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "17 Sep 2026 16:09:00 -0300"
     },
     {
       "id": "f2ce91b7c92b",
@@ -636,47 +700,12 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Thu, 17 Sep 2026 15:16:37 GMT"
-    },
-    {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
-    },
-    {
-      "id": "4ea7ed79eec2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Há 'vencedor' na disputa de alas do STF?",
-      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
-      "summary": "Especialistas ouvidos pela BBC avaliam que, embora a estratégia de ministros aliados a Moraes tenha sido bem-sucedida ao conseguir adiar a análise do caso, o STF é o maior perdedor da sessão.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 16 Sep 2026 13:44:39 GMT"
     },
     {
       "id": "d81a80244d3d",
@@ -710,27 +739,9 @@
         "eleições",
         "esquerda"
       ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 74,
-      "publishedRaw": "Thu, 17 Sep 2026 11:19:08 -0000"
-    },
-    {
-      "id": "9cf8d7cf1a06",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso prorroga MP de R$ 3,3 bi para subvenções a combustíveis",
-      "link": "https://www.poder360.com.br/poder-congresso/congresso-prorroga-mp-de-r-33-bi-para-subvencoes-a-combustiveis/",
-      "summary": "Subsídios de R$ 1,12 e R$ 1 por litro de diesel se sobrepõem até 26 de setembro; nova rodada vale inicialmente por 30 dias",
-      "tags": [
-        "Congresso"
-      ],
       "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Thu, 17 Sep 2026 19:16:21 +0000"
+      "score": 66,
+      "publishedRaw": "Thu, 17 Sep 2026 11:19:08 -0000"
     },
     {
       "id": "f942ba501dde",
@@ -769,13 +780,28 @@
       "category": "Política",
       "title": "Governo nega influência eleitoral na decisão de reajustar Bolsa Família; aumento não estava previsto no Orçamento de 2027",
       "link": "https://g1.globo.com/politica/noticia/2026/09/17/mesmo-sem-reajuste-previsto-no-orcamento-de-2027-governo-nega-influencia-eleitoral-em-reajuste-do-bolsa-familia.ghtml",
-      "summary": "A equipe econômica do governo Lula negou que o reajuste do Bolsa Família anunciado nesta quinta-feira (17)  tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias no Brasil.\nO anúncio ocorre a 17 dias do primeiro turno das eleições presidenciais, marcado para 4 de outubro. O presidente Luiz Inácio Lula da Silva (PT) é candidato à reeleição no pleito.\nEmbora apareça à frente na última pesquisa Quaest sobre o primeiro turno, Lula tem visto, nos levantamentos mais recentes, o avanço de seu principal adversário, Flávio Bolsonaro (PL), com empate técnico no segundo turno.\n\"Creio que não [tem relação com as eleições]. Ficou claro que foi feito pelo esforço de cadastro. Precisávamos da clareza que temos espaço fiscal disponível. Identificamos e viemos dar a tranquilidade para o presidente que tínhamos capacidade [de reajustar]\", disse o ministro do Planejamento, Bruno Moretti.\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nGoverno Lula anuncia reajuste no valor do Bolsa Família\nDe acordo com o governo,  o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro.\nNo fim de agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nQuestionado sobre o que mudou do fim de agosto até esta semana, o ministro do Planejamento afirmou que apareceram novas informações, relacionadas com o relatório do orçamento que será divulgado no fim de setembro.\n\"E o que mudou da proposta de Lei Orçamentária Anual para cá é o relatório trimestral, que será anunciado em setembro, e o monitoramento do andamento das despesas obrigatórias.  O pedido foi do Ministério [do Desenvolvimento Social] porque a lei já faz autorização. e combinamos identificar eventual espaço fiscal, e recebendo recente os dados, temos esse espaço e é possível', concluiu Moretti.",
+      "summary": "A equipe econômica do governo Lula negou que o reajuste do Bolsa Família anunciado nesta quinta-feira (17)  tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias no Brasil.\nO anúncio ocorre a 17 dias do primeiro turno das eleições presidenciais, marcado para 4 de outubro. O presidente Luiz Inácio Lula da Silva (PT) é candidato à reeleição no pleito.\nEmbora apareça à frente na última pesquisa Quaest sobre o primeiro turno, Lula tem visto, nos levantamentos mais recentes, o avanço de seu principal adversário, Flávio Bolsonaro (PL), com empate técnico no segundo turno.\n\"Creio que não [tem relação com as eleições]. Ficou claro que foi feito pelo esforço de cadastro. Precisávamos da clareza que temos espaço fiscal disponível. Identificamos e viemos dar a tranquilidade para o presidente que tínhamos capacidade [de reajustar]\", disse o ministro do Planejamento, Bruno Moretti.\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nGoverno Lula anuncia reajuste no valor do Bolsa Família\nDe acordo com o governo,  o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro.\nNo fim de agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nQuestionado sobre o que mudou do fim de agosto até esta semana, o ministro do Planejamento afirmou que apareceram novas informações, relacionadas com o relatório do orçamento que será divulgado no fim de setembro.\n\"E o que mudou da proposta de Lei Orçamentária Anual para cá é o relatório bimestral, que será anunciado em setembro, e o monitoramento do andamento das despesas obrigatórias.  O pedido foi do Ministério [do Desenvolvimento Social] porque a lei já faz autorização. e combinamos identificar eventual espaço fiscal, e recebendo recente os dados, temos esse espaço e é possível', concluiu Moretti.",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Thu, 17 Sep 2026 14:15:51 -0000"
+    },
+    {
+      "id": "adef8e969a2e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo terá que realocar novo orçamento para reajuste do Bolsa Família",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-tera-que-realocar-novo-orcamento-para-reajuste-do-bolsa-familia/",
+      "summary": "Impacto do reajuste será maior em 2027, quando o programa pode superar R$ 179 bilhões e transformar superávit em déficit; Gabriel Monteiro analisa cenário",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Thu, 17 Sep 2026 20:22:52 +0000"
     },
     {
       "id": "3ecf8e15c2bb",
@@ -859,7 +885,7 @@
       "category": "Economia",
       "title": "Governo nega influência eleitoral na decisão de reajustar Bolsa Família; aumento não estava previsto no Orçamento de 2027",
       "link": "https://g1.globo.com/politica/noticia/2026/09/17/mesmo-sem-reajuste-previsto-no-orcamento-de-2027-governo-nega-influencia-eleitoral-em-reajuste-do-bolsa-familia.ghtml",
-      "summary": "A equipe econômica do governo Lula negou que o reajuste do Bolsa Família anunciado nesta quinta-feira (17)  tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias no Brasil.\nO anúncio ocorre a 17 dias do primeiro turno das eleições presidenciais, marcado para 4 de outubro. O presidente Luiz Inácio Lula da Silva (PT) é candidato à reeleição no pleito.\nEmbora apareça à frente na última pesquisa Quaest sobre o primeiro turno, Lula tem visto, nos levantamentos mais recentes, o avanço de seu principal adversário, Flávio Bolsonaro (PL), com empate técnico no segundo turno.\n\"Creio que não [tem relação com as eleições]. Ficou claro que foi feito pelo esforço de cadastro. Precisávamos da clareza que temos espaço fiscal disponível. Identificamos e viemos dar a tranquilidade para o presidente que tínhamos capacidade [de reajustar]\", disse o ministro do Planejamento, Bruno Moretti.\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nGoverno Lula anuncia reajuste no valor do Bolsa Família\nDe acordo com o governo,  o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro.\nNo fim de agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nQuestionado sobre o que mudou do fim de agosto até esta semana, o ministro do Planejamento afirmou que apareceram novas informações, relacionadas com o relatório do orçamento que será divulgado no fim de setembro.\n\"E o que mudou da proposta de Lei Orçamentária Anual para cá é o relatório trimestral, que será anunciado em setembro, e o monitoramento do andamento das despesas obrigatórias.  O pedido foi do Ministério [do Desenvolvimento Social] porque a lei já faz autorização. e combinamos identificar eventual espaço fiscal, e recebendo recente os dados, temos esse espaço e é possível', concluiu Moretti.",
+      "summary": "A equipe econômica do governo Lula negou que o reajuste do Bolsa Família anunciado nesta quinta-feira (17)  tenha relação com as eleições de 2026. A medida deve beneficiar 19,3 milhões de famílias no Brasil.\nO anúncio ocorre a 17 dias do primeiro turno das eleições presidenciais, marcado para 4 de outubro. O presidente Luiz Inácio Lula da Silva (PT) é candidato à reeleição no pleito.\nEmbora apareça à frente na última pesquisa Quaest sobre o primeiro turno, Lula tem visto, nos levantamentos mais recentes, o avanço de seu principal adversário, Flávio Bolsonaro (PL), com empate técnico no segundo turno.\n\"Creio que não [tem relação com as eleições]. Ficou claro que foi feito pelo esforço de cadastro. Precisávamos da clareza que temos espaço fiscal disponível. Identificamos e viemos dar a tranquilidade para o presidente que tínhamos capacidade [de reajustar]\", disse o ministro do Planejamento, Bruno Moretti.\nApoiadores de Flávio já anunciaram que vão acionar a Justiça Eleitoral contra o reajuste anunciado pelo governo Lula.\nGoverno Lula anuncia reajuste no valor do Bolsa Família\nDe acordo com o governo,  o reajuste dos benefícios do Bolsa Família em cerca de 15,04%. Com isso, o piso do programa passa de R$ 600 para R$ 691.\nJá o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro.\nNo fim de agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 sem contemplar aumento nos valores do programa – marca do governo Lula na área social.\nQuestionado sobre o que mudou do fim de agosto até esta semana, o ministro do Planejamento afirmou que apareceram novas informações, relacionadas com o relatório do orçamento que será divulgado no fim de setembro.\n\"E o que mudou da proposta de Lei Orçamentária Anual para cá é o relatório bimestral, que será anunciado em setembro, e o monitoramento do andamento das despesas obrigatórias.  O pedido foi do Ministério [do Desenvolvimento Social] porque a lei já faz autorização. e combinamos identificar eventual espaço fiscal, e recebendo recente os dados, temos esse espaço e é possível', concluiu Moretti.",
       "tags": [
         "família"
       ],
