@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:41:33.285616+00:00",
+  "generated_at": "2026-09-18T21:15:09.657107+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -305,28 +305,6 @@
       "publishedRaw": "18 Sep 2026 17:30:00 -0300"
     },
     {
-      "id": "903f488d6505",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula foge de orientação de campanha ao elogiar Alexandre de Moraes",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-foge-de-orientacao-de-campanha-ao-elogiar-alexandre-de-moraes/",
-      "summary": "Aliados avaliam que declaração espontânea de Lula aumenta exposição do governo à crise no STF e pode reforçar mobilização antipetista; apuração de Tainá Falcão para o Bastidores CNN",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 19:47:37 +0000"
-    },
-    {
       "id": "b8cca122aadd",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -537,6 +515,29 @@
       "publishedRaw": "Fri, 18 Sep 2026 11:44:58 -0000"
     },
     {
+      "id": "e6be3314aed4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta “virar pauta” com Bolsa Família e canetas emagrecedoras",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-tenta-virar-pauta-com-bolsa-familia-e-canetas-emagrecedoras/",
+      "summary": "Campanha do presidente aposta em medidas de apelo popular para tentar tirar foco da crise do STF, que se tornou pública nesta semana",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 20:44:32 +0000"
+    },
+    {
       "id": "1934b7ba26bf",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -655,13 +656,13 @@
       "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
-      "id": "a05bf3571b9c",
+      "id": "5d9e603a62cb",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Planalto usa decisão do STF para justificar reajuste do Bolsa Família",
-      "link": "https://www.cnnbrasil.com.br/politica/planalto-usa-decisao-do-stf-para-justificar-reajuste-do-bolsa-familia/",
-      "summary": "Suprema Corte foi provocada pela DPU em ação que estava parada desde 2024 na véspera do anúncio que aumentou o piso do benefício social",
+      "title": "AGU pede que STF reconheça que reajuste do Bolsa Família é constitucional",
+      "link": "https://www.cnnbrasil.com.br/politica/agu-pede-que-stf-reconheca-que-reajuste-do-bolsa-familia-e-constitucional/",
+      "summary": "",
       "tags": [
         "STF",
         "família"
@@ -672,7 +673,7 @@
         "G1 - Política"
       ],
       "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 20:01:23 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 20:29:10 +0000"
     },
     {
       "id": "35bb3a8aeed2",
@@ -768,36 +769,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 13:00:07 GMT"
     },
     {
-      "id": "f8bca2be7e71",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Marinho propõe que 49 senadores possam levar impeachment ao plenário",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-propoe-que-49-senadores-possam-levar-impeachment-ao-plenario/",
-      "summary": "Projeto dá 30 dias para presidente do Senado decidir sobre pedidos contra ministros do STF e de outras autoridades",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Fri, 18 Sep 2026 18:35:41 +0000"
-    },
-    {
-      "id": "31cc532be545",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT acionará Justiça para investigar rede no Instagram que impulsionaria Flávio contra regra do TSE",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pt-acionara-justica-para-investigar-rede-no-instagram-que-impulsionaria-flavio-contra-regra-do-tse.shtml",
-      "summary": "Um levantamento de dados produzido pelo departamento Jurídico do PT e pelo monitoramento digital da Secretaria Nacional de Comunicação do partido diz ter identificado uma rede de 324 perfis no Instagram que usa uma ferramenta da própria plataforma que pode burlar uma determinação do TSE (Tribunal Superior Eleitoral) e impulsionar Flávio Bolsonaro (PL) e outros candidatos e lideranças da direita com ataques a Lula e ao Judiciário.\nLeia mais (09/18/2026 - 16h31)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "18 Sep 2026 16:31:00 -0300"
-    },
-    {
       "id": "c888e82dc165",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -811,21 +782,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 15:02:39 -0000"
-    },
-    {
-      "id": "600351015eb6",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O agro envergonhado e a esquerda sertaneja",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/09/o-agro-envergonhado-e-a-esquerda-sertaneja.shtml",
-      "summary": "Um fenômeno curiosíssimo acontece nos jingles das campanhas de Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) para o governo de São Paulo deste ano. Enquanto um abraça a música sertaneja com força, outro parece ignorá-la.\nLeia mais (09/18/2026 - 16h30)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "18 Sep 2026 16:30:00 -0300"
     },
     {
       "id": "daf714d81bda",
@@ -871,6 +827,21 @@
       "crossOutlets": [],
       "score": 53,
       "publishedRaw": "Fri, 18 Sep 2026 13:30:08 -0000"
+    },
+    {
+      "id": "c1e0185036ff",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Raquel defende cautela na reforma tributária; João encontra metalúrgicos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-defende-cautela-na-reforma-tributaria-joao-encontra-metalurgicos/",
+      "summary": "Agendas dos candidatos ao governo de Pernambuco foram concentradas no Recife e na região metropolitana nesta sexta-feira (18)",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "Fri, 18 Sep 2026 20:18:36 +0000"
     }
   ]
 }
