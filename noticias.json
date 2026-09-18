@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:15:57.023728+00:00",
+  "generated_at": "2026-09-18T07:42:41.825561+00:00",
   "items": [
     {
       "id": "03952075f45a",
@@ -613,60 +613,6 @@
       "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
     },
     {
-      "id": "ac023a83a1c2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF: “Estamos vendo uma degradação institucional há anos”, diz Eurasia",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-estamos-vendo-uma-degradacao-institucional-ha-anos-diz-eurasia/",
-      "summary": "Ao WW, Christopher Garman, diretor-executivo do Eurasia Group, aponta que contratação de advocacias de familiares de ministros prejudica ambiente de negócios no Brasil",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 05:42:39 +0000"
-    },
-    {
-      "id": "1934b7ba26bf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fotógrafo do Estadão conta bastidores de foto de Moraes no dia de julgamento inédito no STF",
-      "link": "https://www.estadao.com.br/politica/fotografo-do-estadao-conta-bastidores-de-foto-de-moraes-no-dia-de-julgamento-inedito-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
-    },
-    {
-      "id": "01a8a9abcdc9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Não é preciso alterar o tom para ser ouvido’, diz Nunes Marques após julgamento do STF",
-      "link": "https://www.estadao.com.br/politica/nao-e-preciso-alterar-o-tom-para-ser-ouvido-diz-nunes-marques-apos-julgamento-do-stf-nprp/",
-      "summary": "Fala do ministro ocorre em primeira manifestação pública após sessão conturbada do STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 01:02:04 +0000"
-    },
-    {
       "id": "f2ce91b7c92b",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -690,6 +636,40 @@
       "publishedRaw": "Fri, 18 Sep 2026 03:09:53 GMT"
     },
     {
+      "id": "1934b7ba26bf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fotógrafo do Estadão conta bastidores de foto de Moraes no dia de julgamento inédito no STF",
+      "link": "https://www.estadao.com.br/politica/fotografo-do-estadao-conta-bastidores-de-foto-de-moraes-no-dia-de-julgamento-inedito-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil"
+      ],
+      "score": 75,
+      "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
+    },
+    {
+      "id": "01a8a9abcdc9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Não é preciso alterar o tom para ser ouvido’, diz Nunes Marques após julgamento do STF",
+      "link": "https://www.estadao.com.br/politica/nao-e-preciso-alterar-o-tom-para-ser-ouvido-diz-nunes-marques-apos-julgamento-do-stf-nprp/",
+      "summary": "Fala do ministro ocorre em primeira manifestação pública após sessão conturbada do STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil"
+      ],
+      "score": 75,
+      "publishedRaw": "Fri, 18 Sep 2026 01:02:04 +0000"
+    },
+    {
       "id": "1b786096ff1e",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -701,10 +681,9 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
@@ -719,28 +698,9 @@
         "eleições",
         "eleições 2026"
       ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 77,
+      "crossOutlets": [],
+      "score": 73,
       "publishedRaw": "Fri, 18 Sep 2026 00:14:14 -0000"
-    },
-    {
-      "id": "617acce00207",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/perfil-mesarios-eleicoes-2026.ghtml",
-      "summary": "TRE/AC está com inscrições abertas para quem deseja ser mesário voluntário\nAs mulheres são pouco mais de sete em cada dez mesários registrados para o primeiro turno das eleições de 2026. Elas somam 1,31 milhão de pessoas e representam 71,4% do total, segundo levantamento do g1 com dados do Tribunal Superior Eleitoral (TSE). A participação feminina na função supera a observada em 2022, de 68,3%, e em 2018, de 66,4%.\n👀A composição por idade também mudou: pessoas com 40 anos ou mais passaram a ser maioria nos registros deste ano (53%), enquanto aquelas com idade entre 18 e 29 anos perderam espaço e representam 18,2% do total. Além disso, mais da metade dos mesários (58%) se apresentou de forma voluntária para a função.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nO levantamento considera 1.837.846 mesários registrados no Brasil e no exterior na base atualizada em 17 de setembro. Como os dados foram extraídos antes da votação, os números retratam os registros disponíveis nessa data, e não o comparecimento efetivo no dia da eleição.\nCabe a esses eleitores organizar o trabalho nas seções, conferir a identidade de quem vai votar e registrar as ocorrências da votação. Cada mesa receptora de votos tem quatro integrantes: presidente, primeiro mesário, segundo mesário e secretário. \n🔎 O que cada um faz, segundo o TSE: o presidente coordena os trabalhos, inicia e encerra a votação e autoriza os eleitores a votar. Os demais integrantes conferem a identidade de quem comparece à seção, organizam a fila respeitando as prioridades de atendimento, entregam os comprovantes de votação e registram em ata as ocorrências do dia.\nVeja os principais números de 2026:\nTotal de mesários registrados: 1.837.846;\nMulheres: 1.311.506, ou 71,4%;\nHomens: 526.319, ou 28,6%;\nPessoas com 40 anos ou mais: 974.102, ou 53%;\nPessoas de 18 a 29 anos: 333.760, ou 18,2%;\nVoluntários: 1.066.360, ou 58%;\nMesários no exterior: 4.828.\nHá 21 registros sem informação de gênero.\nMudança no perfil dos mesários desde as eleições 2018 até 2026\nArte g1\nConfira os números completos no gráfico ao final do texto.\nMulheres são maioria em todos os estados\nMesário conferem dados dos eleitores \nÉrika Rios\nA presença feminina predomina nos 26 estados e no Distrito Federal. O Espírito Santo tem a maior proporção de mulheres entre os mesários registrados: 76,3%. Na sequência aparecem Mato Grosso, com 75,5%, Tocantins, com 75,1%, e Minas Gerais, com 74,8%.\nMesmo nos estados com as menores proporções, elas representam mais de seis em cada dez mesários. É o caso da Paraíba, com 63,3%, do Rio Grande do Norte, com 64,2%, e de Alagoas, com 64,7%.\nNa comparação entre as três eleições, a participação das mulheres aumentou:\n2018: 66,4%, com 1.259.028 mesárias;\n2022: 68,3%, com 1.289.704;\n2026: 71,4%, com 1.311.506 registradas até 17 de setembro.\nO avanço foi de 3,1 pontos percentuais em relação a 2022. \nMais da metade tem 40 anos ou mais\nJustiça Eleitoral procura brasileiros para o serviço de mesário\nJornal Nacional/ Reprodução\nA mudança etária aparece tanto na faixa mais frequente quanto na distribuição do conjunto dos mesários.\nEm 2018, o maior grupo tinha de 30 a 34 anos. Em 2022, a faixa predominante passou a ser a de 35 a 39 anos. Neste ano, são os mesários de 40 a 44 anos, que somam 323.076 pessoas, ou 17,6% do total.\nConsiderando todas as faixas a partir dos 40 anos, a participação passou de 32,2% em 2018 para 40,4% em 2022 e chegou a 53% nos registros de 2026.\nNo sentido contrário, os jovens de 18 a 29 anos representavam 33,6% em 2018 e 27,3% em 2022. Agora, são 18,2%. A diferença em relação à eleição anterior é de 9,1 pontos percentuais.\nVeja a distribuição por idade em 2026:\nDe 18 a 29 anos: 333.760 pessoas, ou 18,2%;\nDe 30 a 39 anos: 529.983, ou 28,8%;\nDe 40 a 49 anos: 607.846, ou 33,1%;\nDe 50 a 59 anos: 296.429, ou 16,1%;\n60 anos ou mais: 69.827, ou 3,8%.\nMaioria é voluntária\nDe Santa Maria, Wanderson Thomaz, engenheiro agrônomo, se oferece para ser mesário em todas as eleições\nJuliana Motta/RBS TV\nDos mesários registrados para este ano, 1.066.360 são classificados como voluntários, o equivalente a 58%. Os outros 771.486, ou 42%, estão na categoria de não voluntários.\nSer voluntário significa se colocar à disposição da Justiça Eleitoral. A inscrição, porém, não garante a atuação: o cartório verifica a existência de vagas e de impedimentos antes de fazer a convocação. Segundo o TSE, a escolha dá preferência a eleitores do próprio local de votação, com prioridade para voluntários. \n🤔 Como funciona a seleção: o cartório eleitoral verifica a existência de vagas e se o eleitor atende aos requisitos para exercer a função. Podem ser convocadas pessoas a partir dos 18 anos, em situação regular com a Justiça Eleitoral e sem impedimentos legais, mesmo que não tenham se inscrito como voluntárias. A convocação informa a função, o local e a data de trabalho, além das orientações para o treinamento.\nAs mulheres também são maioria entre quem se voluntariou: são 753.339. \nNo exterior, voluntários são menos de um quarto\nEleições 2024 em Campinas: mesário acompanha votação\nPedro Amatuzzi/g1\nNos locais de votação fora do Brasil, a base reúne 4.828 mesários, ante 3.991 em 2022. São 837 registros a mais, um crescimento de 21%. Em 2018, eram 2.966.\nAs mulheres também predominam nesse grupo, mas em proporção menor que no conjunto dos mesários: são 2.957, ou 61,2%.\nA principal diferença está no tipo de convocação. Enquanto os voluntários representam 58,1% dos mesários que atuarão no Brasil, no exterior eles são 22,3%. Os demais 77,7% estão classificados como não voluntários.\nQuem tem domicílio eleitoral no exterior vota apenas para presidente e vice-presidente. A organização da eleição fora do país cabe ao Tribunal Regional Eleitoral do Distrito Federal, com apoio de consulados e missões diplomáticas. \nQuase 80% não têm informação de cor ou raça\nNo perfil racial, 1.465.558 registros, ou 79,7% do total, aparecem sem informação de cor ou raça. \nEntre os 372.288 registros que têm essa informação preenchida, a distribuição é:\nPardos: 172.719, ou 46,4%;\nBrancos: 155.459, ou 41,8%;\nPretos: 38.884, ou 10,4%;\nIndígenas: 2.641, ou 0,7%;\nAmarelos: 2.585, ou 0,7%.\nPretos e pardos, somados, representam 56,8% do grupo com informação racial disponível. Esse percentual não pode ser estendido ao conjunto dos mesários, porque não se conhece o perfil dos registros sem preenchimento.\nNos arquivos de 2018 e 2022 analisados, todos os registros aparecem como “não informado” nesse campo. \nPerfil dos mesários registrados para trabalhar nas eleições 2026\nArte g1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 74,
-      "publishedRaw": "Fri, 18 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "eb48579c7e9b",
@@ -762,22 +722,19 @@
       "publishedRaw": "Fri, 18 Sep 2026 00:38:09 -0000"
     },
     {
-      "id": "516d7985aabe",
-      "source": "G1 - Mundo",
+      "id": "617acce00207",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Esquerda vence eleições de Suécia, e extrema direita tem 1º recuo no país",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/17/esquerda-vence-eleicoes-de-suecia.ghtml",
-      "summary": "Um envelope de votação é depositado em uma urna em uma seção eleitoral na Prefeitura de Malmö, na Suécia, neste domingo (13).\nJohan Nilsson/TT News Agency via AP\nA oposição de centro-esquerda na Suécia venceu as eleições no país, anunciou nesta quinta-feira (17) a Justiça Eleitoral sueca. O resultado também revelou que a extrema direita reduziu seu tamanho no Parlamento. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO bloco da esquerda, liderado pela ex-primeira-ministra Magdalena Andersson e seu Partido Social-Democrata, tomará assim o poder do atual primeiro-ministro, de direita, que anunciou renúncia. \nA votação foi realizada no domingo (13), mas a contagem foi concluída nesta quinta. Segundo o resultado, os partidos de oposição de centro-esquerda, que concorream juntos, conquistaram 176 cadeiras no Parlamento, o que dá ao bloco a maioria no Parlamento. \nA expectativa agora é de que a líder do Partido Social-Democrata, Magdalena Andersson, retorne ao cargo de primeira-ministra após quatro anos na oposição.\nJá o bloco governista de direita garantiu 173 assentos, ainda de acordo com a Justiça Eleitoral. Com o resultado, o atual primeiro-minsitro, Ulf Kristersson, anunciou renuncia ao cargo. \nTodos os votos para o parlamento de 349 cadeiras já foram contabilizados, embora o resultado ainda dependa de certificação formal nos próximos dias.\n👉 A principal surpresa foi o desempenho dos Democratas da Suécia (SD), partido de extrema direita. A legenda pode registrar sua primeira queda no número de cadeiras desde que entrou no Parlamento, em 2010, e deixar de ser a segunda maior força política do país.\nAgora no g1\nO retorno de 'Magda'\nDurante meses, as pesquisas apontaram vantagem confortável para a oposição de centro-esquerda, liderada pela ex-primeira-ministra Magdalena Andersson e seu Partido Social-Democrata. Nos últimos dias de campanha, porém, a diferença diminuiu até chegar a um empate técnico.\nAos 59 anos, Andersson, conhecida como \"Magda\" na Suécia, tenta voltar ao comando do governo após deixar o cargo em 2022. \nAos 62 anos, Kristersson busca mais quatro anos no poder para \"tornar a Suécia grande novamente\", afirmou ela à agência de notícias francesa AFP, em referência ao slogan popularizado pelo presidente dos Estados Unidos, Donald Trump.\nMagdalena Andersson, aplaude enquanto aguarda, ao lado de apoiadores, os primeiros resultados das eleições gerais no centro de convenções Waterfront, em Estocolmo, Suécia, neste domingo (13).\nReuters\nOs social-democratas, que governaram a Suécia durante boa parte do século 20 e seguem como a principal força política do país, prometeram reforçar o Estado de bem-estar social e ajudar as famílias a enfrentar o aumento do custo de vida.\nJá o líder da extrema direita, Jimmie Åkesson, transformou nas últimas duas décadas os Democratas da Suécia, partido de origem neonazista, em uma das principais forças políticas do país. \nNo sábado (12), durante o último comício de campanha em Estocolmo, ele afirmou considerar a disputa eleitoral \"já vencida\".\n\"A Suécia está se tornando mais segura, melhor e mais sueca\", afirmou, cercado por bandeiras azuis e amarelas com a mensagem \"Faça a Suécia voltar a ser a Suécia\".\nEm uma publicação no Instagram, a ativista climática sueca Greta Thunberg pediu aos eleitores que impedissem a formação de uma aliança de governo entre a direita e a extrema direita. \"Nenhum fascista em nosso governo. Justiça climática já!\", escreveu.\nCerca de 8 milhões de pessoas estavam aptas a votar na eleição em um país de 10,6 milhões de habitantes, onde a participação eleitoral costuma superar 80%.\n* Com informações da AFP",
+      "category": "Política",
+      "title": "Mulheres são 7 em cada 10 mesários nas eleições de 2026; veja o perfil",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/perfil-mesarios-eleicoes-2026.ghtml",
+      "summary": "TRE/AC está com inscrições abertas para quem deseja ser mesário voluntário\nAs mulheres são pouco mais de sete em cada dez mesários registrados para o primeiro turno das eleições de 2026. Elas somam 1,31 milhão de pessoas e representam 71,4% do total, segundo levantamento do g1 com dados do Tribunal Superior Eleitoral (TSE). A participação feminina na função supera a observada em 2022, de 68,3%, e em 2018, de 66,4%.\n👀A composição por idade também mudou: pessoas com 40 anos ou mais passaram a ser maioria nos registros deste ano (53%), enquanto aquelas com idade entre 18 e 29 anos perderam espaço e representam 18,2% do total. Além disso, mais da metade dos mesários (58%) se apresentou de forma voluntária para a função.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nO levantamento considera 1.837.846 mesários registrados no Brasil e no exterior na base atualizada em 17 de setembro. Como os dados foram extraídos antes da votação, os números retratam os registros disponíveis nessa data, e não o comparecimento efetivo no dia da eleição.\nCabe a esses eleitores organizar o trabalho nas seções, conferir a identidade de quem vai votar e registrar as ocorrências da votação. Cada mesa receptora de votos tem quatro integrantes: presidente, primeiro mesário, segundo mesário e secretário. \n🔎 O que cada um faz, segundo o TSE: o presidente coordena os trabalhos, inicia e encerra a votação e autoriza os eleitores a votar. Os demais integrantes conferem a identidade de quem comparece à seção, organizam a fila respeitando as prioridades de atendimento, entregam os comprovantes de votação e registram em ata as ocorrências do dia.\nVeja os principais números de 2026:\nTotal de mesários registrados: 1.837.846;\nMulheres: 1.311.506, ou 71,4%;\nHomens: 526.319, ou 28,6%;\nPessoas com 40 anos ou mais: 974.102, ou 53%;\nPessoas de 18 a 29 anos: 333.760, ou 18,2%;\nVoluntários: 1.066.360, ou 58%;\nMesários no exterior: 4.828.\nHá 21 registros sem informação de gênero.\nMudança no perfil dos mesários desde as eleições 2018 até 2026\nArte g1\nConfira os números completos no gráfico ao final do texto.\nMulheres são maioria em todos os estados\nMesário conferem dados dos eleitores \nÉrika Rios\nA presença feminina predomina nos 26 estados e no Distrito Federal. O Espírito Santo tem a maior proporção de mulheres entre os mesários registrados: 76,3%. Na sequência aparecem Mato Grosso, com 75,5%, Tocantins, com 75,1%, e Minas Gerais, com 74,8%.\nMesmo nos estados com as menores proporções, elas representam mais de seis em cada dez mesários. É o caso da Paraíba, com 63,3%, do Rio Grande do Norte, com 64,2%, e de Alagoas, com 64,7%.\nNa comparação entre as três eleições, a participação das mulheres aumentou:\n2018: 66,4%, com 1.259.028 mesárias;\n2022: 68,3%, com 1.289.704;\n2026: 71,4%, com 1.311.506 registradas até 17 de setembro.\nO avanço foi de 3,1 pontos percentuais em relação a 2022. \nMais da metade tem 40 anos ou mais\nJustiça Eleitoral procura brasileiros para o serviço de mesário\nJornal Nacional/ Reprodução\nA mudança etária aparece tanto na faixa mais frequente quanto na distribuição do conjunto dos mesários.\nEm 2018, o maior grupo tinha de 30 a 34 anos. Em 2022, a faixa predominante passou a ser a de 35 a 39 anos. Neste ano, são os mesários de 40 a 44 anos, que somam 323.076 pessoas, ou 17,6% do total.\nConsiderando todas as faixas a partir dos 40 anos, a participação passou de 32,2% em 2018 para 40,4% em 2022 e chegou a 53% nos registros de 2026.\nNo sentido contrário, os jovens de 18 a 29 anos representavam 33,6% em 2018 e 27,3% em 2022. Agora, são 18,2%. A diferença em relação à eleição anterior é de 9,1 pontos percentuais.\nVeja a distribuição por idade em 2026:\nDe 18 a 29 anos: 333.760 pessoas, ou 18,2%;\nDe 30 a 39 anos: 529.983, ou 28,8%;\nDe 40 a 49 anos: 607.846, ou 33,1%;\nDe 50 a 59 anos: 296.429, ou 16,1%;\n60 anos ou mais: 69.827, ou 3,8%.\nMaioria é voluntária\nDe Santa Maria, Wanderson Thomaz, engenheiro agrônomo, se oferece para ser mesário em todas as eleições\nJuliana Motta/RBS TV\nDos mesários registrados para este ano, 1.066.360 são classificados como voluntários, o equivalente a 58%. Os outros 771.486, ou 42%, estão na categoria de não voluntários.\nSer voluntário significa se colocar à disposição da Justiça Eleitoral. A inscrição, porém, não garante a atuação: o cartório verifica a existência de vagas e de impedimentos antes de fazer a convocação. Segundo o TSE, a escolha dá preferência a eleitores do próprio local de votação, com prioridade para voluntários. \n🤔 Como funciona a seleção: o cartório eleitoral verifica a existência de vagas e se o eleitor atende aos requisitos para exercer a função. Podem ser convocadas pessoas a partir dos 18 anos, em situação regular com a Justiça Eleitoral e sem impedimentos legais, mesmo que não tenham se inscrito como voluntárias. A convocação informa a função, o local e a data de trabalho, além das orientações para o treinamento.\nAs mulheres também são maioria entre quem se voluntariou: são 753.339. \nNo exterior, voluntários são menos de um quarto\nEleições 2024 em Campinas: mesário acompanha votação\nPedro Amatuzzi/g1\nNos locais de votação fora do Brasil, a base reúne 4.828 mesários, ante 3.991 em 2022. São 837 registros a mais, um crescimento de 21%. Em 2018, eram 2.966.\nAs mulheres também predominam nesse grupo, mas em proporção menor que no conjunto dos mesários: são 2.957, ou 61,2%.\nA principal diferença está no tipo de convocação. Enquanto os voluntários representam 58,1% dos mesários que atuarão no Brasil, no exterior eles são 22,3%. Os demais 77,7% estão classificados como não voluntários.\nQuem tem domicílio eleitoral no exterior vota apenas para presidente e vice-presidente. A organização da eleição fora do país cabe ao Tribunal Regional Eleitoral do Distrito Federal, com apoio de consulados e missões diplomáticas. \nQuase 80% não têm informação de cor ou raça\nNo perfil racial, 1.465.558 registros, ou 79,7% do total, aparecem sem informação de cor ou raça. \nEntre os 372.288 registros que têm essa informação preenchida, a distribuição é:\nPardos: 172.719, ou 46,4%;\nBrancos: 155.459, ou 41,8%;\nPretos: 38.884, ou 10,4%;\nIndígenas: 2.641, ou 0,7%;\nAmarelos: 2.585, ou 0,7%.\nPretos e pardos, somados, representam 56,8% do grupo com informação racial disponível. Esse percentual não pode ser estendido ao conjunto dos mesários, porque não se conhece o perfil dos registros sem preenchimento.\nNos arquivos de 2018 e 2022 analisados, todos os registros aparecem como “não informado” nesse campo. \nPerfil dos mesários registrados para trabalhar nas eleições 2026\nArte g1",
       "tags": [
-        "eleições",
-        "esquerda"
+        "eleições"
       ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 70,
-      "publishedRaw": "Thu, 17 Sep 2026 11:19:08 -0000"
+      "crossOutlets": [],
+      "score": 69,
+      "publishedRaw": "Fri, 18 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "3d359402957d",
@@ -874,6 +831,21 @@
       "publishedRaw": "18 Sep 2026 04:00:00 -0300"
     },
     {
+      "id": "5d53d4601506",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Medida sobre Bolsa Família expõe alta preocupação com reeleição",
+      "link": "https://www.cnnbrasil.com.br/politica/analise-medida-sobre-bolsa-familia-expoe-alta-preocupacao-com-reeleicao/",
+      "summary": "Os analistas de Política da CNN Caio Junqueira e Jussara Soares avaliam, ao CNN Prime Time, que anúncio do aumento do benefício, a 17 dias do 1º turno, tem forte viés eleitoral",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 07:03:51 +0000"
+    },
+    {
       "id": "a2b4e1603316",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -902,21 +874,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 06:05:11 +0000"
-    },
-    {
-      "id": "46f009f52bc8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O Grande Debate: Reajuste do Bolsa Família a 17 dias do voto é ilegal?",
-      "link": "https://www.cnnbrasil.com.br/politica/o-grande-debate-reajuste-do-bolsa-familia-a-17-dias-do-voto-e-ilegal/",
-      "summary": "Participantes debatem legalidade e moralidade do aumento de 15% no benefício anunciado por Lula",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Fri, 18 Sep 2026 05:21:48 +0000"
     },
     {
       "id": "dec7044bf344",
