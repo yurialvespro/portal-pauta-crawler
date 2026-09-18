@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-18T21:15:09.657107+00:00",
+  "generated_at": "2026-09-18T21:40:44.437972+00:00",
   "items": [
+    {
+      "id": "c8d07138a885",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula ou Flávio Bolsonaro, o vencedor indicará quatro Dinos ao STF",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/lula-ou-flavio-bolsonaro-o-vencedor-indicara-quatro-dinos-ao-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "Fri, 18 Sep 2026 21:09:38 +0000"
+    },
     {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
@@ -413,28 +438,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 20:36:23 +0000"
     },
     {
-      "id": "909d4dcbca24",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Evangélicos do PT lançam panfleto que associa ações de Lula à Bíblia",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/evangelicos-do-pt-lancam-panfleto-que-associa-acoes-de-lula-a-biblia/",
-      "summary": "Em nova iniciativa voltada a atrair esse eleitorado, partido publica material atrelando versículos a programas sociais e medidas de governo em prol de religiosos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 19:12:47 +0000"
-    },
-    {
       "id": "56aa40d27b43",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -447,8 +450,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
@@ -489,8 +492,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 11:49:01 -0000"
@@ -508,8 +511,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 11:44:58 -0000"
@@ -538,61 +541,23 @@
       "publishedRaw": "Fri, 18 Sep 2026 20:44:32 +0000"
     },
     {
-      "id": "1934b7ba26bf",
+      "id": "925d1c162374",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Fotógrafo do Estadão conta bastidores de foto de Moraes no dia de julgamento inédito no STF",
-      "link": "https://www.estadao.com.br/politica/fotografo-do-estadao-conta-bastidores-de-foto-de-moraes-no-dia-de-julgamento-inedito-no-stf/",
+      "title": "Ex-ministro Marco Aurélio Mello critica sessão do STF e diz que Corte viveu ‘dia triste’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/marco-aurelio-critica-sessao-do-stf-e-diz-que-corte-vive-dia-triste-nprp/",
       "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
-    },
-    {
-      "id": "f521212824ce",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF e PGR travam investigação sobre envolvimento de Cezinha de Madureira em desvio de emendas em SP",
-      "link": "https://www.estadao.com.br/politica/stf-e-pgr-travam-investigacao-sobre-envolvimento-de-cezinha-de-madureira-em-desvio-de-emendas-em-sp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 09:37:24 +0000"
-    },
-    {
-      "id": "d4ecdb941c65",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impasse no STF: Pedido de liberdade de Daniel Vorcaro expõe indefinição e risco de nulidades no caso",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/impasse-no-stf-pedido-de-liberdade-de-daniel-vorcaro-expoe-indefinicao-e-risco-de-nulidades-no-caso/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 17:30:34 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
     },
     {
       "id": "1b786096ff1e",
@@ -606,9 +571,9 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
@@ -649,20 +614,20 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
       "score": 81,
       "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
-      "id": "5d9e603a62cb",
-      "source": "CNN Brasil",
+      "id": "08e84a7c5367",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "AGU pede que STF reconheça que reajuste do Bolsa Família é constitucional",
-      "link": "https://www.cnnbrasil.com.br/politica/agu-pede-que-stf-reconheca-que-reajuste-do-bolsa-familia-e-constitucional/",
-      "summary": "",
+      "title": "AGU pede ao STF que reconheça reajuste do Bolsa Família",
+      "link": "https://www.poder360.com.br/poder-governo/agu-pede-ao-stf-que-reconheca-reajuste-do-bolsa-familia/",
+      "summary": "Advocacia Geral da União alega que aumento não cria novo benefício e só corrige perda causada pela inflação, como manda a lei; MP e TCU pediram derrubada",
       "tags": [
         "STF",
         "família"
@@ -673,7 +638,7 @@
         "G1 - Política"
       ],
       "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 20:29:10 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 21:33:22 +0000"
     },
     {
       "id": "35bb3a8aeed2",
@@ -769,6 +734,21 @@
       "publishedRaw": "Fri, 18 Sep 2026 13:00:07 GMT"
     },
     {
+      "id": "281ab392b451",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda proposta de Marinho para destravar impeachment no Senado",
+      "link": "https://www.poder360.com.br/poder-congresso/entenda-proposta-de-marinho-para-destravar-impeachment-no-senado/",
+      "summary": "Senador do PL propõe prazo de 30 dias e recurso ao plenário com apoio de 49 senadores; quer disputar comando da Casa Alta em 2027",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Fri, 18 Sep 2026 21:17:48 +0000"
+    },
+    {
       "id": "c888e82dc165",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -827,21 +807,6 @@
       "crossOutlets": [],
       "score": 53,
       "publishedRaw": "Fri, 18 Sep 2026 13:30:08 -0000"
-    },
-    {
-      "id": "c1e0185036ff",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Raquel defende cautela na reforma tributária; João encontra metalúrgicos",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-defende-cautela-na-reforma-tributaria-joao-encontra-metalurgicos/",
-      "summary": "Agendas dos candidatos ao governo de Pernambuco foram concentradas no Recife e na região metropolitana nesta sexta-feira (18)",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Fri, 18 Sep 2026 20:18:36 +0000"
     }
   ]
 }
