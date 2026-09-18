@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:41:41.978518+00:00",
+  "generated_at": "2026-09-18T02:15:42.671696+00:00",
   "items": [
     {
       "id": "03952075f45a",
@@ -203,28 +203,6 @@
       "publishedRaw": "Thu, 17 Sep 2026 23:22:54 -0000"
     },
     {
-      "id": "d0be98128b03",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro repete Jair e diz que vai recrutar apoiadores para fiscalizar urnas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-repete-jair-e-diz-que-vai-recrutar-apoiadores-para-fiscalizar-urnas.shtml",
-      "summary": "O senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) afirmou, nesta quinta-feira (17), que vai recrutar voluntários para atuarem como seus fiscais de urna no dia da votação, lançando dúvidas a respeito do resultado das eleições de outubro.\nLeia mais (09/17/2026 - 20h54)",
-      "tags": [
-        "Bolsonaro",
-        "urnas",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 92,
-      "publishedRaw": "17 Sep 2026 20:54:00 -0300"
-    },
-    {
       "id": "0d2c5ce237a5",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -240,7 +218,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Fri, 18 Sep 2026 00:31:49 -0000"
@@ -263,7 +241,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Thu, 17 Sep 2026 20:13:56 -0000"
@@ -283,11 +261,32 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Thu, 17 Sep 2026 22:56:48 +0000"
+    },
+    {
+      "id": "1efb6feafd1a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro lidera em 5 das 10 UFs com menor pobreza extrema",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-lidera-em-5-das-10-ufs-com-menor-pobreza-extrema/",
+      "summary": "Lula está à frente em 2 dos Estados com menor proporção da população em extrema pobreza; há empate técnico em outros 3",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Fri, 18 Sep 2026 02:00:13 +0000"
     },
     {
       "id": "d4b3abd8ee14",
@@ -306,42 +305,19 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Thu, 17 Sep 2026 23:54:56 -0000"
     },
     {
-      "id": "b217a16ba6c5",
+      "id": "d7591e2ba839",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "'Bolsonaro fez a mesma coisa; é o jogo das eleições', diz leitor sobre reajuste do Bolsa Família",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/bolsonaro-fez-a-mesma-coisa-e-o-jogo-das-eleicoes-diz-leitor-sobre-reajuste-do-bolsa-familia.shtml",
-      "summary": "Auxílio\nLeia mais (09/17/2026 - 22h00)",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "17 Sep 2026 22:00:00 -0300"
-    },
-    {
-      "id": "d4fbce058331",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Lula ainda escapa de crise no STF, e Flávio tem sua melhor fase",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-ainda-escapa-de-crise-no-stf-e-flavio-tem-sua-melhor-fase.shtml",
-      "summary": "A corrida pela Presidência entra na reta final com um movimento de consolidação simultâneo nas duas principais campanhas. A nova pesquisa do Datafolha mostra que Lula (PT) atravessa a turbulenta crise do STF (Supremo Tribunal Federal) sem sinal de desgastes e com viés de alta na avaliação positiva do governo, enquanto Flávio Bolsonaro (PL) vive sua melhor fase, com alguns índices que já superam o patamar anterior ao escândalo \"Dark Horse\".\nLeia mais (09/17/2026 - 21h06)",
+      "title": "Lula reclama de atuação de Flávio Dino em sessão sobre Alexandre de Moraes no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-reclama-de-atuacao-de-flavio-dino-em-sessao-sobre-alexandre-de-moraes-no-stf.shtml",
+      "summary": "O presidente Lula (PT) se queixou a aliados da atuação do ministro Flávio Dino, do STF (Supremo Tribunal Federal), durante a turbulenta sessão da terça-feira (15).\nLeia mais (09/17/2026 - 23h00)",
       "tags": [
         "STF",
         "Lula"
@@ -356,7 +332,7 @@
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "17 Sep 2026 21:06:00 -0300"
+      "publishedRaw": "17 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "7d34859cf8b7",
@@ -374,8 +350,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Fri, 18 Sep 2026 01:08:27 +0000"
@@ -420,8 +396,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Fri, 18 Sep 2026 00:25:35 +0000"
@@ -441,55 +417,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Thu, 17 Sep 2026 22:32:30 +0000"
-    },
-    {
-      "id": "d36ba2d7f001",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "5 dos 10 ministros do STF já receberam dados do celular de Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/5-dos-10-ministros-do-stf-ja-receberam-dados-do-celular-de-vorcaro/",
-      "summary": "A cópia do HD com a extração das provas utilizadas pela PF foi encaminhada inicialmente para Cristiano Zanin, que havia requisitado a Edson Fachin a distribuição dos dados para todos os colegas",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 17 Sep 2026 23:28:14 +0000"
-    },
-    {
-      "id": "28a483b9faa9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vorcaro se reuniu com Gilmar Mendes no STF e pediu apoio em causa bilionária",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vorcaro-se-reuniu-com-gilmar-mendes-no-stf-e-pediu-apoio-em-causa-bilionaria.shtml",
-      "summary": "O ex-banqueiro Daniel Vorcaro se reuniu com o ministro do STF (Supremo Tribunal Federal) Gilmar Mendes no dia 11 de abril de 2024 para pedir que ele votasse a favor de uma causa bilionária envolvendo usinas do setor sucroalcooleiro que o beneficiariam diretamente.\nLeia mais (09/17/2026 - 22h23)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "17 Sep 2026 22:23:00 -0300"
     },
     {
       "id": "1934b7ba26bf",
@@ -546,8 +478,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Thu, 17 Sep 2026 21:26:09 GMT"
@@ -684,13 +616,13 @@
       "publishedRaw": "Thu, 17 Sep 2026 19:00:00 -0000"
     },
     {
-      "id": "3aba29798dd5",
+      "id": "3ff9ec2f97c9",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Medida de Lula une pânico eleitoral e populismo gastador",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/medida-de-lula-une-panico-eleitoral-e-populismo-gastador.shtml",
-      "summary": "A 17 dias do primeiro turno da corrida presidencial, o governo Luiz Inácio Lula da Silva (PT) reajusta o Bolsa Família em 15% -a primeira correção do benefício em três anos e meio. A medida custará R$ 22,7 bilhões em 2027, que não constam do projeto de Orçamento enviado pelo Executivo ao Congresso há menos de três semanas.\nLeia mais (09/17/2026 - 22h00)",
+      "title": "Pacote de Lula em ano eleitoral já mobiliza quase R$ 200 bilhões em bondades",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml",
+      "summary": "Com o reajuste do Bolsa Família e as recentes medidas para conter o preço dos combustíveis, o pacote de \"bondades\" do presidente Luiz Inácio Lula da Silva (PT) para o ano eleitoral já chega a quase R$ 200 bilhões em recursos mobilizados.\nLeia mais (09/17/2026 - 23h00)",
       "tags": [
         "Lula"
       ],
@@ -704,30 +636,30 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Sep 2026 22:00:00 -0300"
+      "publishedRaw": "17 Sep 2026 23:00:00 -0300"
     },
     {
-      "id": "842fabe9b94c",
-      "source": "Folha de São Paulo",
+      "id": "dde120762756",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula confirma encontro com prefeito Zohran Mamdani em Nova York",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/lula-confirma-encontro-com-prefeito-zohran-mamdani-em-nova-york.shtml",
-      "summary": "O presidente Lula (PT) confirmou o encontro com o prefeito de Nova York, o socialista democrata Zohran Mamdani, na manhã da próxima segunda-feira (21). O pedido partiu de Mamdani.\nLeia mais (09/17/2026 - 21h44)",
+      "title": "Lula promete caneta emagrecedora pelo SUS para pacientes com obesidade",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-promete-caneta-emagrecedora-pelo-sus-para-pacientes-com-obesidade/",
+      "summary": "Presidente propôs a distribuição do medicamento durante evento de visita à Eurofarma em MG; iniciativa do Ministério da Saúde faz parte de um estudo sobre o uso de análogos de GLP-1 em pacientes do SUS",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Sep 2026 21:44:00 -0300"
+      "publishedRaw": "Fri, 18 Sep 2026 01:39:25 +0000"
     },
     {
       "id": "4188903d0799",
@@ -822,6 +754,29 @@
       "publishedRaw": "Thu, 17 Sep 2026 21:50:28 +0000"
     },
     {
+      "id": "58166459ffeb",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula lidera no 1º turno em 5 dos 10 Estados com mais homicídios",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-lidera-no-1o-turno-em-5-dos-10-estados-com-mais-homicidios/",
+      "summary": "Flávio Bolsonaro está à frente em 3 Estados, enquanto há empate técnico em outros 2; critério é a taxa de homicídios por 100 mil habitantes em 2023",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 02:00:05 +0000"
+    },
+    {
       "id": "8e474e0df04f",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -843,53 +798,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 00:52:46 +0000"
-    },
-    {
-      "id": "e9e827fba838",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pazuello “entendia de tudo, menos de SUS”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-governo/pazuello-entendia-de-tudo-menos-de-sus-diz-lula/",
-      "summary": "Presidente afirma que profissionais da saúde evitaram tragédia maior durante pandemia e diz que SUS ressurgiu com mais força",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 23:09:10 +0000"
-    },
-    {
-      "id": "5e05d70098c5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula defende caneta emagrecedora de graça no SUS no mesmo dia de anúncio de reajuste para Bolsa Família",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-defende-caneta-emagrecedora-de-graca-no-sus-no-mesmo-dia-de-anuncio-de-reajuste-para-bolsa-familia.shtml",
-      "summary": "O presidente Lula (PT) afirmou nesta quinta-feira (17) que canetas para emagrecimento deverão ser oferecidas gratuitamente pelo SUS (Sistema Único de Saúde).\nLeia mais (09/17/2026 - 20h55)",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "17 Sep 2026 20:55:00 -0300"
     },
     {
       "id": "91664662a121",
@@ -1054,6 +962,24 @@
       "publishedRaw": "Thu, 17 Sep 2026 15:16:37 GMT"
     },
     {
+      "id": "e0a098cf82c1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições em território ocupado: por que a votação russa de 18 a 20 de setembro é juridicamente inválida",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eleicoes-em-territorio-ocupado-por-que-a-votacao-russa-de-18-a-20-de-setembro-e-juridicamente-invalida.shtml",
+      "summary": "Entre 18 e 20 de setembro, a Rússia realiza eleições para a Duma Estatal também nas partes ocupadas das regiões ucranianas de Donetsk, Luhansk, Zaporizhzhia e Kherson. Do ponto de vista jurídico, não se trata de um processo eleitoral convencional, mas de um procedimento sem fundamento legal desde a origem: uma potência ocupante organiza eleições para seu próprio Parlamento em um território que não lhe pertence.\nLeia mais (09/17/2026 - 23h00)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "17 Sep 2026 23:00:00 -0300"
+    },
+    {
       "id": "516d7985aabe",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -1121,21 +1047,6 @@
       "publishedRaw": "Thu, 17 Sep 2026 21:14:08 -0000"
     },
     {
-      "id": "d1cb30c743d7",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Milei envia ao Congresso projeto de lei para endurecer penas contra exploração de petróleo nas Malvinas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/milei-envia-ao-congresso-projeto-de-lei-para-endurecer-penas-contra-exploracao-de-petroleo-nas-malvinas.shtml",
-      "summary": "Javier Milei continua sua cruzada pelas ilhas Malvinas. Nesta quinta-feira (17), o presidente da Argentina enviou ao Congresso um projeto de lei para endurecer punições contra empresas que exploram recursos naturais no território, alvo de disputa com o Reino Unido há quase 200 anos.\nLeia mais (09/17/2026 - 20h36)",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "17 Sep 2026 20:36:00 -0300"
-    },
-    {
       "id": "38389bb4e336",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -1180,6 +1091,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Thu, 17 Sep 2026 19:00:14 -0000"
+    },
+    {
+      "id": "7912a647c183",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Família processa estado do Texas, nos EUA, após morte ligada à proibição do aborto",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/familia-processa-estado-do-texas-nos-eua-apos-morte-ligada-a-proibicao-do-aborto.shtml",
+      "summary": "Dias depois de uma emergência hospitalar de San Antonio mandar Tierra Walker para casa com um diagnóstico de pré-eclâmpsia, em 2024, seu filho a encontrou morta. Era o aniversário de 15 anos dele.\nLeia mais (09/17/2026 - 23h00)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "17 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "964c0fa9839e",
