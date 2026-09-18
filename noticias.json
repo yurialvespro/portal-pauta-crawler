@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:16:10.130408+00:00",
+  "generated_at": "2026-09-18T10:42:51.145698+00:00",
   "items": [
     {
       "id": "03952075f45a",
@@ -216,6 +216,28 @@
       "publishedRaw": "Thu, 17 Sep 2026 22:05:37 -0000"
     },
     {
+      "id": "91bd2657b9d1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Operação mira comércio ilegal de celulares em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-mira-comercio-ilegal-de-celulares-em-sp/",
+      "summary": "Ação iniciou nesta quinta-feira (17) e resultou em 15 mandados de busca e apreensão cumpridos, duas prisões e 253 aparelhos apreendidos na capital e na Grande São Paulo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 10:24:30 +0000"
+    },
+    {
       "id": "2e2cdce74674",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -368,28 +390,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 09:15:32 +0000"
-    },
-    {
-      "id": "72fb0984f6b2",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "75% dos eleitores de Flávio e 21% dos de Lula aprovam Mendonça",
-      "link": "https://www.poder360.com.br/poderdata/75-dos-eleitores-de-flavio-e-21-dos-de-lula-aprovam-mendonca/",
-      "summary": "Dados consideram a declaração de voto dos eleitores em eventual 2º turno entre Lula e Flávio; Moraes é aprovado por 67% dos lulistas e 4% dos que votam no senador do PL",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 09:00:01 +0000"
     },
     {
       "id": "91664662a121",
@@ -810,13 +810,13 @@
       "publishedRaw": "Fri, 18 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "4dac7191685c",
+      "id": "e084b53c0566",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Rússia realiza eleições parlamentares sem oposição em meio à guerra",
-      "link": "https://www.cnnbrasil.com.br/internacional/russia-realiza-eleicoes-parlamentares-sem-oposicao-em-meio-a-guerra/",
-      "summary": "Votação de três dias definirá a Duma, com Vladimir Putin a tratando como termômetro do apoio ao conflito na Ucrânia, que tem escalado",
+      "title": "O apoio de Trump poderia ser vantagem para Netanyahu nas eleições? Entenda",
+      "link": "https://www.cnnbrasil.com.br/internacional/o-apoio-de-trump-poderia-ser-vantagem-para-netanyahu-nas-eleicoes-entenda/",
+      "summary": "Entre altos e baixos na relação e divergências sobre a guerra, presidente americano não fez endosso formal a nenhum candidato ou partido israelense",
       "tags": [
         "eleições"
       ],
@@ -824,7 +824,7 @@
         "G1 - Política"
       ],
       "score": 74,
-      "publishedRaw": "Fri, 18 Sep 2026 09:16:33 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 10:12:36 +0000"
     },
     {
       "id": "67073227b646",
@@ -907,6 +907,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "0ced4f925635",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Livro reconstrói história contraditória dos Safra, uma das famílias mais ricas do Brasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/livro-reconstroi-historia-contraditoria-dos-safra-uma-das-familias-mais-ricas-do-brasil.shtml",
+      "summary": "O escritor F. Scott Fitzgerald disse certa vez que a prova de uma grande inteligência é a capacidade \"de sustentar duas ideias opostas na mente ao mesmo tempo\" e, ainda assim, continuar a funcionar.\nLeia mais (09/18/2026 - 07h27)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "18 Sep 2026 07:27:00 -0300"
     },
     {
       "id": "4c7df7d0b5be",
