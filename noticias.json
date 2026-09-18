@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-09-18T22:15:03.541995+00:00",
+  "generated_at": "2026-09-18T22:40:50.191708+00:00",
   "items": [
+    {
+      "id": "711c807a322e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio Bolsonaro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-crise-no-stf-e-campanha-eleitoral.ghtml",
+      "summary": "Pesquisa Datafolha divulgada nesta sexta-feira (18) mostra que 38% dos eleitores consideram que a crise do Supremo Tribunal Federal (STF) prejudica a campanha de Lula (PT), enquanto 31% dizem que Flávio Bolsonaro (PL) é o mais afetado. \nVeja os números abaixo:\nLula (PT): 38%\nFlávio Bolsonaro (PL): 31%\nRonaldo Caiado (PSD): 2%\nRenan Santos (Missão): 2%\nEscritor Augusto Cury (Avante): 1%\nRomeu Zema (Novo): 1%\nSamara Martins (UP): 0\nRui Costa Pimenta (PCO): 0\nEdmilson Costa (PCB): 0\nClariana Barão (DC): 0\nHertz Dias (PSTU): 0\nTodos: 5%\nNão prejudica os candidatos: 25%\nNão sabe: 14%\nDatafolha: Impacto de crise do STF nas campanhas políticas\nArte/g1\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nSadi: Vorcaro usa crise no STF para ganhar tempo\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nLula e Flávio Bolsonaro\nMontagem/g1",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "Fri, 18 Sep 2026 22:16:24 -0000"
+    },
+    {
+      "id": "1d139ef7ecdb",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 38% citam Lula como prejudicado por crise no STF, e 31% apontam Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml",
+      "summary": "Novo recorte de pesquisa Datafolha divulgado nesta sexta-feira (18) mostra que 38% dos eleitores citam o presidente Lula (PT) como candidato à Presidência prejudicado pela crise do STF (Supremo Tribunal Federal) e do Banco Master, e 31% apontam Flávio Bolsonaro (PL).\nLeia mais (09/18/2026 - 19h19)",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "18 Sep 2026 19:19:00 -0300"
+    },
     {
       "id": "c8d07138a885",
       "source": "Estadão",
@@ -17,6 +67,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -24,6 +75,28 @@
       ],
       "score": 96,
       "publishedRaw": "Fri, 18 Sep 2026 21:09:38 +0000"
+    },
+    {
+      "id": "b76564e39535",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF forma maioria para rejeitar recurso contra condenação de Eduardo Bolsonaro por coação em processo sobre trama golpista",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/stf-forma-maioria-para-rejeitar-recurso-contra-condenacao-de-eduardo-bolsonaro-por-coacao-em-processo-sobre-trama-golpista.ghtml",
+      "summary": "A Primeira Turma do Supremo Tribunal Federal (STF) formou maioria de votos para rejeitar recurso e manter a condenação do ex-deputado Eduardo Bolsonaro por tentativa de interferir no julgamento do pai, o ex-presidente Jair Bolsonaro (PL), na trama golpista.\nEduardo Bolsonaro foi condenado a quatro anos e dois meses de prisão em junho deste ano. A pena deverá começar a ser cumprida em regime semiaberto. Também ficará inelegível por 12 anos, sem poder ser eleito até 2038.\nO voto do ministro Alexandre de Moraes, relator, foi seguido por Flávio Dino e Cármen Lúcia no plenário virtual.\nAgora no g1\nAlém disso, Eduardo precisará pagar uma multa de R$ 162 mil reais referentes ao pagamento de 50 dias multa, um dia multa equivale a dois salários mínimos. \nAo votar pela condenação de Eduardo, Moraes entendeu que há elementos que comprovam que Eduardo Bolsonaro praticou o crime de coação no curso do processo, como acusou a Procuradoria Geral da República (PGR).\nEduardo Bolsonaro é acusado de promover junto ao governo Donald Trump, dos Estados Unidos, ações para criar um clima de instabilidade e temor, ameaçando e projetando retaliações estrangeiras contra ministros do STF e o Brasil. \nEduardo foi denunciado pela Procuradoria-geral da Pública e virou réu no STF. O objetivo das ações do deputado cassado no exterior, segundo a Procuradoria, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. Bolsonaro foi condenado a mais de 27 anos de prisão e cumpre prisão domiciliar. \nO ministro relator rebateu uma preliminar da defesa de Eduardo que alegava que ele estava protegido pela liberdade de expressão e pela imunidade parlamentar.\n“Não é função de deputado federal brasileiro fazer lobby no exterior contra o próprio país. Mesmo que estivesse no exercício do mandato e não licenciado, mesmo que estivesse no exercício, não estaria acobertado pela imunidade parlamentar”, afirmou. \nMoraes afirmou ainda que o próprio Eduardo disse que não comunicou mudança de domicílio para os EUA e que estava no exterior para fugir da Justiça.\n“Até hoje em momento algum nem o próprio réu em qualquer lugar disse que mudou seu domicílio. Ele só disse que não volta para o Brasil por medo de responder pelos crimes que praticou. Pode o réu, qualquer réu, se beneficiar da própria torpeza”.\nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados\n“O processo penal não é palhaçada,  a aplicação da justiça não é palhaçada. As normas existem para garantir o contraditório, a ampla defesa, dentro da paridade de armas, não para que fraudes e crimes praticados continuem se perpetuando”.\nMoraes destacou que Eduardo focou em ameaças com a pretensão de que seu pai não fosse condenado e que o STF não realizasse o julgamento da trama golpista. \n“Nenhuma relação com atividade parlamentar, mas ameaças pretendendo com isso que seu pai não fosse condenado”, afirmou.\nAcusação\nO objetivo de Eduardo, segundo a PGR, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. \nA procuradoria argumentou que as provas reunidas ao longo do processo confirmavam a conduta criminosa, sendo que o objetivo sempre foi o de sobrepor os interesses da família Bolsonaro às normas do devido processo legal e do bom ordenamento da Justiça para livrar o pai da responsabilização criminal. \nA Procuradoria listou uma série de declarações de Eduardo, em entrevistas e em postagens em redes sociais, além de trocas de mensagens com Jair Bolsonaro que revelam articulações nos Estados Unidos para constranger a cúpula do Judiciário.\nO subprocurador-geral da República Antônio Edílio Magalhães apresentou em sua manifestação uma série de publicações e mensagens trocadas entre Eduardo e seu pai para sustentar o pedido de condenação. \n\"Essa é uma situação relativamente simples do ponto de vista penal. Há todo um elemento, um contexto fático e conjunto de provas evidenciando que essa coação efetivamente existiu\", afirmou.\n“Quando se fala em defesa das instituições, fala-se em defesa, inclusive da cidadania, em defesa de todos. Então, a posição da Procuradoria Geral da República que é uma posição já evidenciada desde o início e reforçada nas alegações finais, é no sentido da procedência da presente ação penal.\"\nDefesa\nAdvogado que falou em defesa de Eduardo foi o Defensor Público Esdras dos Santos Carvalho. Eduardo não indicou advogado.\nEle pediu a absolvição do ex-deputado por falta de provas. A DPU afirmou que questões processuais justificam a anulação de todo o processo, entre elas, a participação de Moraes no julgamento.\nPara a Defensoria, Eduardo teve uma defesa \"meramente formal, produzida sem qualquer contato com o defendido, sem sua versão dos acontecimentos e sem sua orientação. \nA DPU afirmou que o caso é de absolvição por falta de provas, sendo que as condutas narradas pela Procuradoria não configuram crime e as declarações estavam protegidas por liberdade de expressão. \nA defesa enfatizou ainda que o ex-deputado não teria poder de decisão sobre os atos soberanos do governo americano.\n\"Entende a defensoria que o exame dos elementos dos autos, as manifestações políticas, estariam acobertados sob a liberdade de expressão que teria o então denunciado. E essas manifestações de natureza política, jamais poderiam ser consideradas infrações penais\", afirmou.",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Fri, 18 Sep 2026 22:26:13 -0000"
     },
     {
       "id": "e93ee1105bca",
@@ -39,6 +112,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -62,6 +136,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -86,6 +161,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -110,6 +186,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -134,6 +211,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -141,6 +219,48 @@
       ],
       "score": 93,
       "publishedRaw": "Fri, 18 Sep 2026 18:53:29 +0000"
+    },
+    {
+      "id": "f73496172b27",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 34% dizem que apoio ao  impeachment de ministros do STF aumenta chance de voto em candidato ao Senado",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-eleicao-senado-stf-voto.ghtml",
+      "summary": "Pesquisa Datafolha divulgada nesta sexta-feira (18) mostra o impacto do escândalo do banco Master e da crise no Supremo Tribunal Federal (STF) sobre a percepção dos eleitores a duas semanas da votação para presidente, governador, senador, deputado federal e deputado estadual.\nO Datafolha perguntou sobre a eleição do Senado, já que senadores têm a prerrogativa de julgar ministros do STF em eventuais processos de impeachment por crimes de responsabilidade.\nPergunta: o fato de um candidato ao Senado ser a favor do impeachment de ministros do STF aumenta, não muda ou diminui as chances de você votar nele?\nAumenta: 34%\nDiminui: 31%\nNão muda: 30%\nNão sabe: 5%\nOs números mudam conforme as preferências dos eleitores.\nEntre quem vota em Flávio Bolsonaro (PL), 49% afirmam que a posição pró-impeachment do candidato aumenta as chances de voto nele. Entre os eleitores de Lula (PT), 23% respondem isso. \nA pesquisa foi encomendada pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nNa eleição deste ano, o Senado vai renovar dois terços das cadeiras — 54 de 81. Por isso, cada eleitor terá que votar em dois candidatos diferentes. Entenda aqui o processo e veja como evitar erros.\nAgora no g1\nVotação para presidente\nA pesquisa mostra também se o caso Master e seus desdobramentos no Supremo influenciam a escolha dos eleitores na eleição para a Presidência da República.\nPara 47%, a crise terá influência no voto em 4 de outubro. Outros 49% afirmam que não terá influência. Veja os dados completos abaixo:\nPergunta: a crise no STF e o escândalo do Master influenciam seu voto para presidente?\nSim, grande influência: 36%\nSim, pequena influência: 11%\nNão terá influência: 49%\nNão sabe: 4%\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nSessão plenária do STF\nRosinei Coutinho/STF",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Fri, 18 Sep 2026 22:14:20 -0000"
+    },
+    {
+      "id": "7e7d1324fe70",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 34% dizem que apoio a impeachment no STF aumenta chance de voto para senador",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-34-dizem-que-apoio-a-impeachment-no-stf-aumenta-chance-de-voto-para-senador.shtml",
+      "summary": "Para 34% dos eleitores, a chance de votar em um candidato ao Senado Federal aumenta se ele apoiar o impeachment de ministros do STF (Supremo Tribunal Federal). O efeito é oposto para outros 31%, para quem a chance de voto diminui se o candidato defender a medida.\nLeia mais (09/18/2026 - 19h27)",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "18 Sep 2026 19:27:00 -0300"
     },
     {
       "id": "8a0bd386e81a",
@@ -156,6 +276,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -163,28 +284,6 @@
       ],
       "score": 90,
       "publishedRaw": "Fri, 18 Sep 2026 17:58:52 -0000"
-    },
-    {
-      "id": "2ea2bdb4bf36",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que Flávio tem ligação com milicianos e que Master virou banco no governo Bolsonaro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/18/lula-diz-que-flavio-tem-ligacao-com-milicianos-e-que-master-virou-banco-no-governo-bolsonaro.ghtml",
-      "summary": "O presidente Lula durante entrevista à Rádio Tupi, do Rio de Janeiro\nReprodução/YouTube Rádio Tupi\nO candidato do PT à reeleição, Luiz Inácio Lula da Silva (PT), afirmou nesta sexta-feira (18) que Flávio Bolsonaro (PL), principal adversário na disputa presidencial, tem ligação com milicianos e que o Master \"virou banco\" na gestão do ex-presidente Jair Bolsonaro. \nLula fez os ataques ao candidato do PL durante entrevista à Rádio Tupi, do Rio de Janeiro. O petista cumpre nesta sexta agenda de campanha no estado, que é berço político e reduto eleitoral de Flávio. \n\"Tem um candidato a presidente ligado a miliciado no Rio de Janeiro, muita gente da família Bolsonaro ligado com miliciano. É preciso limpar a política e a polícia. A sociedade brasileira tem que assumir a responsabilidade pelo futuro que quer. Acho inconcebível o Rio viver a realidade que vive\", disse Lula.\n🔎As suspeitas de elo entre Flávio e milicianos surgiram na época que ele era deputado estadual no Rio de Janeiro e contratou em seu gabinete na Alerj parentes do miliciano Adriano da Nóbrega, apontado como chefe do \"Escritório do Crime\". Além disso, quando era deputado estadual, Flávio concedeu honrarias a policiais suspeitos de envolvimento com milícias. \n🔎🔎O candidato do PL nega ligação com milicianos e diz que as condecorações dadas valorizavam policiais até então considerados \"fichas-limpas\".\nCaso Master\nAgora no g1\nDurante entrevista, o presidente também fez menções ao escândalo Master, de fraudes financeiras bilionárias. Lula disse que o Master, de Daniel Vorcaro, virou banco na gestão de Jair Bolsonaro. E que Vorcaro foi preso pela Polícia Federal no governo petista.\n\"O telefone do Vorcaro, o quanto ele esta nessa relação, maior escândalo de corrupção do país. O Master não era banco, a família Bolsonaro que fez virar banco. E o Vorcaro virou prisioneiro no meu governo\", declarou. \n🔎O empresário Daniel Vorcaro obteve autorização regulatória para assumir o controle do Banco Máxima em 2019. Em 2021, após a compra do Banco Vipal e um processo de reestruturação do Máxima, a instituição foi oficialmente rebatizada como Banco Master. Jair Bolsonaro presidiu o país de janeiro de 2019 a dezembro de 2022.\nEm outro momento da entrevista, Lula voltou a dizer que as irregularidades do Master tiveram origem na gestão Bolsonaro e mencionou um encontro que teve com Vorcaro no Palácio do Planalto. \n\"Esse Vorcaro me procurou um dia, disse: 'Olha estão me prejudicando'. E eu falei: 'Se seu banco for correto, não vai fechar... E fechou, porque não estava correto\", relatou Lula.\n'Como consertar a Suprema Corte?', questiona Lula\nAinda sobre o tema, Lula foi questionado sobre a crise no Supremo Tribunal Federal, resultante das revelações do escândalo Master. \nO petista disse que vê a crise institucional com \"tristeza\" e, novamente, afirmou que foi o governo Bolsonaro que permitiu que Vorcaro virasse \"banqueiro\". \n\"Você vê um cidadão [Vorcaro], zé ninguém, o governo Bolsonaro fez virar banqueiro, envolveu bancos, outras pessoas. Ele virou prisioneiro no meu governo. Ele [Vorcaro] corrompeu todo mundo, patrocinava orgia, trazia mulher para os bacanas brasileiros, envolveu deputado, senador, Suprema Corte, todo mundo\", disse.\nO presidente afirmou que, se reeleito, terá que debater como consertar o STF e defendeu uma reforma do Poder Judiciário. \n\"Me preocupa e vamos ter que discutir como consertar isso. Como consertar a Suprema Corte? Ministros ligados indireta e diretamente. A bronca [do Flávio] com Moraes não é pelo Master, mas pela prisão do pai\", disse o candidato do PT.\nLula também disse Alexandre de Moraes teve um papel \"importante\" no julgamento da trama golpista, em que atuou como relator, mas que \"ninguém defende o contrato\" milionário do Banco Master com a mulher do ministro do STF.\n\"Moraes teve papel importante na manutenção da democracia, general preso, e presidente preso por golpe, articulavam minha morte, a do Alckmin. Ninguém defende o contrato que ele [Moraes] fez com o Master, estamos defendendo que quem vai para Suprema Corte não pode  querer ser rico\", acrescentou Lula. \nEle disse ainda que o STF precisa ter seriedade e ética e que tudo parece estar \"apodrecendo\" na Corte.",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Fri, 18 Sep 2026 13:33:12 -0000"
     },
     {
       "id": "63841c29cbd6",
@@ -200,6 +299,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -207,6 +307,148 @@
       ],
       "score": 90,
       "publishedRaw": "Fri, 18 Sep 2026 17:38:59 +0000"
+    },
+    {
+      "id": "3db10e14eed5",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 48% dizem não confiar no STF",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-confianca-instituicoes.ghtml",
+      "summary": "Estátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília\nAntonio Augusto/STF\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra quais são as autoridades e instituições públicas em que a sociedade mais confia e em quais menos confia. Segundo o instituto, o Supremo Tribunal Federal é a instituição com maior índice de desconfiança entre eleitores.\nO STF é alvo de desconfiança de 48% dos eleitores brasileiros, maior índice registrado pela Corte desde o início da série histórica do Datafolha, em 2012. Outros 35% dizem confiar um pouco no Supremo, enquanto 14% afirmam confiar muito. Veja os números:\nSupremo\nConfia muito: 14%\nConfia um pouco: 35%\nNão confia: 48%\nSegundo o Datafolha, é a primeira vez que o STF aparece numericamente no topo da lista de desconfiança. Em outros momentos da série, essa posição já foi ocupada por partidos políticos, Congresso Nacional e Presidência da República.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição. Até então, era o maior índice da série. \nCongresso\nO Congresso Nacional aparece em patamar próximo. Segundo o Datafolha, 45% dos eleitores dizem não confiar nos deputados e senadores, mesmo percentual registrado em março. Outros 43% afirmam confiar um pouco no Congresso, enquanto 11% dizem confiar muito.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição — até então, o maior índice da série. Agora, além dos 48% que não confiam, 35% dizem confiar um pouco no STF e 14%, confiar muito. Veja os números:\nConfia muito: 11%\nConfia um pouco: 43%\nNão confia: 45%\nPresidência da República\nA Presidência da República registra 42% de desconfiança, ante 43% em março. Ao mesmo tempo, 25% dos entrevistados dizem confiar muito na Presidência e 32%, confiar um pouco. Em março, esses percentuais eram de 22% e 34%, respectivamente. Veja os números:\nConfia muito: 25%\nConfia um pouco: 32%\nNão confia: 42%\nO maior índice de desconfiança na Presidência registrado pelo Datafolha foi de 65%, em junho de 2017.\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 22:16:02 -0000"
+    },
+    {
+      "id": "56aa40d27b43",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
+      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
+    },
+    {
+      "id": "b8ba27da3912",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: Desconfiança no STF cresce, vai a 48% e atinge recorde",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-desconfianca-no-stf-dispara-vai-a-48-e-atinge-recorde.shtml",
+      "summary": "A desconfiança em relação ao STF (Supremo Tribunal Federal) disparou em meio à grave crise enfrentada pela instituição, chegando a 48% de entrevistados que afirmam não confiar na corte, mostra pesquisa Datafolha.\nLeia mais (09/18/2026 - 19h27)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "18 Sep 2026 19:27:00 -0300"
+    },
+    {
+      "id": "43e8a70b3da4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ex-ministro Marco Aurélio Mello critica sessão do STF e diz que Corte viveu ‘dia triste’",
+      "link": "https://www.estadao.com.br/politica/marco-aurelio-critica-sessao-do-stf-e-diz-que-corte-vive-dia-triste-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
+    },
+    {
+      "id": "c9a8081ce7a0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro repete estratégia do pai e recruta ‘fiscais’ para eleições",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-repete-estrategia-do-pai-e-recruta-fiscais-para-eleicoes-nprp/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 16:06:02 +0000"
+    },
+    {
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
+    },
+    {
+      "id": "58d06f3a0f63",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
+      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nBolsa Família\nLyon Santos/MDS\nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU.\nO governo pede que o Supremo reconheça que o decreto foi editado em conformidade com o quadro constitucional e legal.  \n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
+      "tags": [
+        "STF",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
       "id": "3e9118a9a3aa",
@@ -221,6 +463,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -242,6 +485,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -249,6 +493,28 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 16:32:03 -0000"
+    },
+    {
+      "id": "f2a5a00fc5aa",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Malu Mader, Caetano Veloso, Paulinho da Viola e outros artistas declaram voto a Lula em vídeo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/09/malu-mader-caetano-veloso-paulinho-da-viola-e-outros-artistas-declaram-voto-a-lula-em-video.shtml",
+      "summary": "Artistas como Caetano Veloso, Gilberto Gil e Malu Mader participaram de um vídeo publicado pelo Mídia Ninja e pelo 342 Artes, coletivo liderado por Paula Lavigne. Nas imagens, eles declaram apoio ao presidente Lula, que vai concorrer à reeleição este ano.\nLeia mais (09/18/2026 - 19h15)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "18 Sep 2026 19:15:00 -0300"
     },
     {
       "id": "83d7e5a39c8b",
@@ -263,6 +529,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -270,6 +537,28 @@
       ],
       "score": 85,
       "publishedRaw": "18 Sep 2026 18:46:00 -0300"
+    },
+    {
+      "id": "2b2dc322f5cd",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veritá: Flávio tem 45,6% no 2º turno em MG; Lula, 38,4%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/verita-flavio-tem-456-no-2o-turno-em-mg-lula-384/",
+      "summary": "Levantamento ouviu 2.030 eleitores mineiros entre os dias 12 e 17 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 22:15:36 +0000"
     },
     {
       "id": "b8cca122aadd",
@@ -284,6 +573,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -305,6 +595,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -326,6 +617,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -335,38 +627,19 @@
       "publishedRaw": "Fri, 18 Sep 2026 15:20:46 +0000"
     },
     {
-      "id": "c9a8081ce7a0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro repete estratégia do pai e recruta ‘fiscais’ para eleições",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-repete-estrategia-do-pai-e-recruta-fiscais-para-eleicoes-nprp/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 16:06:02 +0000"
-    },
-    {
-      "id": "3964920b0058",
+      "id": "79ee13c4f3f3",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Ao vivo: Lula vai a ato de campanha com Alckmin e Haddad",
-      "link": "https://www.poder360.com.br/poder-eleicoes/ao-vivo-lula-vai-a-ato-de-campanha-com-alckmin-e-haddad/",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-vai-a-ato-de-campanha-com-alckmin-e-haddad/",
       "summary": "Presidente participa do evento “Brasil Pronto pra Mais”, em Guarulhos, a partir das 19h",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -388,6 +661,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -395,230 +669,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 22:09:35 +0000"
-    },
-    {
-      "id": "666d7e04e16a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em decisão, Gilmar Mendes diz que reajuste do Bolsa Família feito por Lula não fere regras eleitorais",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/gilmar-mendes-diz-que-reajuste-do-bolsa-familia-feito-por-lula-nao-fere-regras-eleitorais.ghtml",
-      "summary": "Governo anuncia reajuste de 15% para o Bolsa Família\nO ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), decidiu que o decreto que reajusta o valor do benefício do Bolsa Família não fere as regras eleitorais. O ministro afirma, na decisão desta sexta-feira (18), que o aumento concedido é apenas \"atualização dos valores\" pelo critério de correção monetária.\n\"A providência adotada corresponde, portanto, à atualização periódica dos valores prevista no marco legal que disciplina atualmente a política pública e que já foi reconhecido por esta Corte como instrumento de concretização da ordem proferida nestes autos. [...] Além disso, a medida não importa criação de novo benefício, alteração dos critérios de elegibilidade ou ampliação do universo de beneficiários. Trata-se apenas de atualização dos valores das prestações integrantes de programa social já existente, mediante critério objetivo de correção monetária\", escreveu Gilmar Mendes.\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconhecesse que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. O pedido foi feito em uma ação em que Gilmar Mendes é relator. \n\"Com efeito, ressalto que o critério adotado para a atualização foi a variação acumulada do INPC entre março de 2023 e agosto de 2026, apurada em 15,04%, de modo que representa mero mecanismo de recomposição da inflação acumulada, e não aumento real\", continuou o ministro.\nO pedido da AGU ocorreu em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições. \nO candidato à Presidência da República Renan Santos (Missão) pediu ao Tribunal Superior Eleitoral (TSE) a suspensão do aumento alegando que a finalidade é eleitoreira. A ação ainda não foi analisada pelo tribunal. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nMinistro Gilmar Mendes do STF\nAndré Correa/STJ\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU no pedido.\nO governo pediu que o STF reconhecesse que o decreto foi editado em conformidade com o quadro constitucional e legal.\n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 21:49:28 -0000"
-    },
-    {
-      "id": "56aa40d27b43",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
-      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
-    },
-    {
-      "id": "38b6a2b455ed",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula recebe com alívio resultado do Datafolha e trabalha para mudar a pauta com Bolsa Família e canetas emagrecedoras no SUS",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/lula-recebe-com-alivio-resultado-do-datafolha-e-trabalha-para-mudar-a-pauta-com-bolsa-familia-e-canetas-emagrecedoras-no-sus.ghtml",
-      "summary": "Datafolha: Lula e Flávio Bolsonaro empatam no primeiro turno\nA equipe do presidente Luiz Inácio Lula da Silva (PT) temia um resultado negativo no DataFolha. O resultado de estabilidade, com Lula numericamente à frente no segundo turno, foi recebido com alívio. Agora, a ordem é sair da pauta da crise do STF e mudar a agenda.\nO comando da campanha de Lula acredita que já está conseguindo isso com o reajuste do Bolsa Família e o anúncio de que o SUS vai fornecer canetas emagrecedoras, mas ainda sem data. \nSão dois temas populares e que podem ajudar a melhorar a imagem do governo Lula nesta reta final da eleição presidencial.\n14.09.26 - Lula na sanção do PLV nº 10/2026, que institui linhas de financiamento do MOVE para veículos novos, no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nHavia um temor de que a semana negativa no STF pudesse afetar as intenções de voto do presidente Lula. Não foi o que aconteceu no Datafolha. \nNa simulação de primeiro turno, o petista manteve o percentual de 39%. Flávio Bolsonaro oscilou um ponto para cima, ficando com 36% e configurando um empate técnico. No segundo turno, Lula ficou com 46% e Flávio Bolsonaro com 44%, os mesmos percentuais da pesquisa anterior.\nAgora, a estratégia da campanha de Lula é seguir batendo no candidato do PL, dizendo que votar em Flávio Bolsonaro é o mesmo que votar em Daniel Vorcaro, cobrando explicações sobre o dinheiro do banqueiro que financiou o filme Dark Horse, cinebiografia do ex-presidente Bolsonaro.\nAlém de focar na agenda positiva do Bolsa Família e das canetas emagrecedoras.\nO PL está criticando a medida, chamando-a de eleitoreira, o que de fato é. Só que, o ex-presidente Jair Bolsonaro deu um reajuste ainda maior durante a eleição de 2022, elevando de R$ 400 para R$ 600 o então Auxílio Brasil em julho daquele ano.\nEm relação à pesquisa Datafolha, a campanha de Flávio Bolsonaro diz que, nos seus levantamentos, o candidato do PL já está à frente numericamente de Lula no segundo turno.\nOs assessores do senador do PL destacam, porém, como positivo a redução da distância no primeiro turno, configurando um empate técnico. A ordem será manter a agenda de que votar em Lula é votar em Moraes.\nTerá de lidar, porém, com o reajuste do Bolsa Família. O coordenador da campanha, Rogério Marinho, criticou o aumento do ponto de vista fiscal, mas não disse ser contra o reajuste. O PL não vai entrar no TSE, e gostou da iniciativa de Renan Santos de cumprir esse papel, depois de o ministro André Mendonça rejeitar a ação do deputado José Trovão.\nO governo Lula decidiu dar o aumento para o Bolsa Família diante do momento negativo na campanha. Foi uma reação ao risco de terminar a eleição em queda nas pesquisas e observar Flávio Bolsonaro subindo.\nPara este ano, o governo tem espaço fiscal para acomodar os R$ 5,8 bilhões de gastos extras. No ano que vem, o aumento vai representar mais gastos na casa de R$ 22,7 bilhões, previsão que não está na proposta orçamentária enviada ao Congresso. \nIsso vai tornar mais complicado ainda fazer um ajuste fiscal no ano que vem, considerado urgente por dez entre dez economistas.",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 13:33:40 -0000"
-    },
-    {
-      "id": "cb829c5ed9c0",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Vorcaro pede fim da prisão preventiva e cita indefinição sobre caso Master no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/defesa-de-vorcaro-pede-fim-da-prisao-preventiva.ghtml",
-      "summary": "Defesa de Daniel Vorcaro pede revogação da prisão\nA defesa do banqueiro Daniel Vorcaro, dono do extinto Banco Master, pediu nesta sexta-feira (18) a revogação da prisão preventiva dele decretada no âmbito da Operação Compliance Zero, que apura uma rede de crimes envolvendo a instituição financeira.\nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. \nSegundo a Polícia Federal, o ex-banqueiro seria o líder de uma organização criminosa para captação de recursos ilícitos e teria montado uma rede de monitoramento e influência, com potencial infiltração nas mais elevadas instâncias de diversas instituições da República. \n🔎O pai dele, Henrique Vorcaro e o cunhado, Fabiano Zettel, também pediram a revogação das respectivas prisões.\nOs pedidos vão ser analisados pelo ministro André Mendonça, relator do caso Master no Supremo Tribunal Federal (STF).\nDaniel Vorcaro\nDivulgação\nNo pedido, os advogados do ex-banqueiro alegam ao Supremo que o prazo de 90 dias para reavaliação dos elementos para a prisão, como determina o Código de Processo Penal, venceu no fim de agosto e não houve análise pelo tribunal sobre se os critérios para a manutenção da medida permanecem válidos.\nAlém disso, citam a indefinição da sessão do STF que decidiria se o ministro Alexandre de Moraes deveria ser investigado pelo seu suposto envolvimento no caso Master.\nA defesa alega ainda que Vorcaro tem tentado cooperar com as investigações e com a Justiça. \nAs propostas de delação do banqueiro foram rejeitadas pela Polícia Federal (PF) e pela Procuradoria-Geral da República (PGR) por serem consideradas insuficientes. Os advogados, no entanto, tentam reabrir as negociações. \n\"As oportunidades de se manifestar verbalmente foram escassas, mas em todas elas o peticionário [Vorcaro] se colocou à disposição das autoridades e reiterou o desejo de colaborar formalmente, oferecendo-se para relatar os fatos de que tem conhecimento, inclusive para otimização das investigações\".\nAo assumir a relatoria do caso que discute a possível abertura de investigação contra o ministro Alexandre de Moraes, Edson Fachin, presidente da Corte, também determinou que processos relacionados ao Master e ao caso do INSS fossem encaminhados à Presidência, suspendendo a tramitação enquanto a Corte discute quem deve conduzir essas apurações.\nOs advogados afirmam que a sessão não resolveu o dilema sobre qual será o órgão competente e qual será o relator para analisar matérias relacionadas ao caso Master. \nUm pedido de vista do ministro Flávio Dino suspendeu o julgamento de terça-feira (15), e adiou a sessão marcada para a próxima quarta (23).\nOutros pedidos \nA defesa de Henrique Vorcaro, pai do ex-banqueiro, pediu a revogação da prisão dele na quarta-feira (16). Os advogados afirmam que Henrique está preso há mais de 90 dias e que o Supremo Tribunal Federal (STF) não julgou até o momento nenhum recurso contra a prisão.\nHenrique Vorcaro foi preso em maio deste ano sob suspeita de integrar o chamado “núcleo violento” do grupo criminoso associado ao banqueiro preso, segundo uma fonte da Polícia Federal.\nEm junho, o STF confirmou e manteve a prisão preventiva. A operação mirou os nucleos conhecidos como \"A Turma\" e \"Os Meninos\", responsáveis por crimes de intimidação, coerção, obtenção de informações sigilosas e invasões a dispositivos informáticos.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 11:49:01 -0000"
-    },
-    {
-      "id": "dcb9dbb7a3f7",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vorcaro joga com crise no STF enquanto investigadores temem reviravolta no Master",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/18/vorcaro-joga-com-crise-no-stf.ghtml",
-      "summary": "Sadi: Defesa de Vorcaro aproveita crise no STF\nEnquanto o debate se concentra no plenário do Supremo Tribunal Federal (STF), nos embates entre ministros e nos vencedores e derrotados dessa disputa institucional, uma pergunta segue sem resposta: e a investigação do Master, como fica no meio disso tudo?\nA Polícia Federal intimou Daniel Vorcaro e o pai, Henrique Vorcaro, para novos depoimentos antes da conclusão dessa fase da investigação. Nos bastidores, investigadores acompanham com preocupação os efeitos da crise aberta no Supremo sobre o andamento do caso.\n📱 Acesse o Canal da Sadi no WhatsApp\nPorque as defesas vão usar justamente essa crise, os questionamentos sobre a condução dos procedimentos e a indefinição dentro do STF para reforçar os pedidos de liberdade — ou, pelo menos, de prisão domiciliar. O primeiro movimento é em relação a Henrique Vorcaro.\nE a estratégia, mais uma vez, é ganhar tempo. A defesa já sinalizou que pretende pedir novo adiamento de depoimentos. A estratégia é jogar parado e esperar para ver quem fica de pé no Supremo, com qual força e com qual controle sobre as investigações.\nIsso também ajuda a explicar por que Daniel Vorcaro não toma, até agora, uma decisão definitiva sobre uma eventual colaboração premiada. Na avaliação de investigadores, nas tentativas anteriores ele falou muito, mas entregou pouco do que pudesse efetivamente atingir as grandes figuras que aparecem no entorno do caso.\nA aposta que investigadores atribuem a Vorcaro é de acomodação. Passada a eleição e passada essa guerra dentro do Supremo, o sistema se reorganiza, sobrevive — e, nessa reorganização, ele também encontra uma saída.\nPor isso, o próximo capítulo é tão importante: quem ficará efetivamente com o comando da investigação do Master?\nPelas informações obtidas pelo blog, no entorno de André Mendonça não se trabalha com a hipótese de ele não retomar a condução do caso. Do outro lado, o grupo de Alexandre de Moraes rejeita essa possibilidade.\nEntão a disputa no Supremo não é apenas uma disputa entre ministros. Ela tem consequência concreta sobre o futuro da investigação, sobre as prisões, sobre uma eventual delação e sobre quem vai controlar o próximo capítulo do caso Master.\nE essa definição passa agora, mais uma vez, pelo presidente do Supremo, Edson Fachin.\nGloboPop: veja os vídeos do palco da Andréia Sadi",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 11:44:58 -0000"
-    },
-    {
-      "id": "2a948f11a73f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar Mendes decide que reajuste de Lula ao Bolsa Família 'não afronta' a lei eleitoral",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-mendes-decide-que-reajuste-de-lula-ao-bolsa-familia-nao-afronta-a-lei-eleitoral.shtml",
-      "summary": "O ministro do STF (Supremo Tribunal Federal) Gilmar Mendes decidiu nesta sexta (18) que o decreto do governo Lula que reajustou os valor do Bolsa Família pelo INPC é legal e cumpre uma determinação do próprio tribunal que, em 2023, afirmou que os valores devem ser sempre atualizados de acordo com a inflação.\nLeia mais (09/18/2026 - 19h06)",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "18 Sep 2026 19:06:00 -0300"
-    },
-    {
-      "id": "43e8a70b3da4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ex-ministro Marco Aurélio Mello critica sessão do STF e diz que Corte viveu ‘dia triste’",
-      "link": "https://www.estadao.com.br/politica/marco-aurelio-critica-sessao-do-stf-e-diz-que-corte-vive-dia-triste-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
-    },
-    {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
-    },
-    {
-      "id": "1bc0b4f4a523",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar valida reajuste do Bolsa Família por Lula em período eleitoral",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-valida-reajuste-do-bolsa-familia-por-lula-em-periodo-eleitoral/",
-      "summary": "Ministro do STF acolheu pedido da AGU para reconhecer que não houve violação eleitoral",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 22:13:36 +0000"
-    },
-    {
-      "id": "9f0e22614054",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
-    },
-    {
-      "id": "58d06f3a0f63",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
-      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nBolsa Família\nLyon Santos/MDS\nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU.\nO governo pede que o Supremo reconheça que o decreto foi editado em conformidade com o quadro constitucional e legal.  \n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
-      "tags": [
-        "STF",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
       "id": "08e84a7c5367",
@@ -635,32 +685,103 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 81,
+      "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 21:33:22 +0000"
     },
     {
-      "id": "35bb3a8aeed2",
-      "source": "BBC Brasil",
+      "id": "666d7e04e16a",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
-      "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
+      "category": "Política",
+      "title": "Em decisão, Gilmar Mendes diz que reajuste do Bolsa Família feito por Lula não fere regras eleitorais",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/gilmar-mendes-diz-que-reajuste-do-bolsa-familia-feito-por-lula-nao-fere-regras-eleitorais.ghtml",
+      "summary": "Gilmar Mendes diz que reajuste do Bolsa Família feito por Lula não fere regras eleitorais\nO ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), decidiu que o decreto que reajusta o valor do benefício do Bolsa Família não fere as regras eleitorais. O ministro afirma, na decisão desta sexta-feira (18), que o aumento concedido é apenas \"atualização dos valores\" pelo critério de correção monetária.\n\"A providência adotada corresponde, portanto, à atualização periódica dos valores prevista no marco legal que disciplina atualmente a política pública e que já foi reconhecido por esta Corte como instrumento de concretização da ordem proferida nestes autos. [...] Além disso, a medida não importa criação de novo benefício, alteração dos critérios de elegibilidade ou ampliação do universo de beneficiários. Trata-se apenas de atualização dos valores das prestações integrantes de programa social já existente, mediante critério objetivo de correção monetária\", escreveu Gilmar Mendes.\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconhecesse que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. O pedido foi feito em uma ação em que Gilmar Mendes é relator. \n\"Com efeito, ressalto que o critério adotado para a atualização foi a variação acumulada do INPC entre março de 2023 e agosto de 2026, apurada em 15,04%, de modo que representa mero mecanismo de recomposição da inflação acumulada, e não aumento real\", continuou o ministro.\nO pedido da AGU ocorreu em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições. \nO candidato à Presidência da República Renan Santos (Missão) pediu ao Tribunal Superior Eleitoral (TSE) a suspensão do aumento alegando que a finalidade é eleitoreira. A ação ainda não foi analisada pelo tribunal. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nMinistro Gilmar Mendes do STF\nAndré Correa/STJ\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU no pedido.\nO governo pediu que o STF reconhecesse que o decreto foi editado conforme o quadro constitucional e legal.\n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.\nAumento de Lula e Bolsonaro\nA mudança também reacendeu comparações com 2022, quando o então presidente Jair Bolsonaro (PL) promoveu uma ampliação de benefícios sociais durante a campanha eleitoral.\nNaquele caso, o Supremo Tribunal Federal (STF) posteriormente declarou inconstitucionais trechos da chamada \"PEC Kamikaze\", aprovada pelo Congresso em 2022. \nEspecialistas ouvidos pelo g1 avaliam, porém, que existem diferenças relevantes entre os dois episódios.\nEles questionam, no entanto, o momento escolhido para o anúncio e alertam para possíveis impactos sobre as contas públicas, a inflação e os juros nos próximos anos.\nCom a decisão do governo de reajustar o valor em 15,04%, o piso do programa passa de R$ 600 para R$ 691. Já o benefício médio subirá dos atuais R$ 675 para R$ 777, informou o Ministério do Planejamento. O reajuste passa a valer já no mês de outubro, com pagamentos a partir do dia 19.\nOs principais concorrentes de Lula à Presidência da República reagiram ao anúncio e chamaram a decisão de \"ato de desespero\" e \"'uso eleitoreiro\" do aumento.\nO que aproxima e o que diferencia os dois casos\nTanto o reajuste anunciado agora pelo governo Lula quanto as medidas adotadas por Jair Bolsonaro em 2022 foram divulgados durante a campanha presidencial e provocaram questionamentos de adversários sobre eventual uso eleitoral dos benefícios sociais.\nAs diferenças, porém, são apontadas por especialistas como centrais para a análise jurídica dos dois casos.\nSegundo eles, o governo Lula argumenta que o reajuste de 15,04% apenas recompõe a inflação acumulada desde a recriação do Bolsa Família, sem ganho real para os beneficiários.\nJá em 2022, o governo Bolsonaro elevou o valor do Auxílio Brasil em 50%, de R$ 400 para R$ 600. Também promoveu o aumento do Auxílio-Gás e criou um novo benefício, um voucher de R$ 1 mil para caminhoneiros.\nEm 2024, o STF declarou inconstitucionais dispositivos da chamada \"PEC Kamikaze\", que criou um estado de emergência para viabilizar a ampliação dos benefícios naquele ano.\nAo analisar o caso, os ministros afirmaram que regras eleitorais devem evitar que candidatos usem a máquina pública para obter vantagem sobre adversários, preservando a chamada paridade de armas (o equilíbrio entre os concorrentes) e a liberdade de escolha do eleitor.\n“A indevida utilização da máquina pública como meio para obtenção de vantagens eleitorais, de modo geral, caracteriza o abuso de uma circunstância fática de proeminência e, por conseguinte, evidencia ofensa ao núcleo essencial da liberdade de voto e paridade de armas, tendo em vista o emprego abusivo, arbitrário e injustificado de instrumentos que acentuam o desequilíbrio entre os candidatos”, diz a decisão do STF.\nDe acordo com o governo Lula, a atualização dos valores somente corrigiu a variação acumulada do Índice Nacional de Preços ao Consumidor (INPC), entre março de 2023 e agosto de 2026, sem ganho real. \nA Lei das Eleições, de 1997, que dispõe sobre as regras para a disputa eleitoral, proíbe a distribuição gratuita de bens, valores ou benefícios em ano de eleição, com exceções. Estão neste rol os programas autorizados em lei e que já tenham passado por execução orçamentária no ano anterior, como o Bolsa Família.\nNão há, em geral, um precedente do TSE dizendo literalmente que \"é permitida a correção do benefício pela inflação\". A analogia mais clara aparece na jurisprudência sobre remuneração de servidores. O TSE entende que a proibição eleitoral recai sobre aumentos reais, mas não sobre a recomposição inflacionária do poder aquisitivo.\n“É uma interpretação baseada nas chamadas condutas vedadas do artigo 73 da lei das eleições, com a jurisprudência do TSE”, explica o advogado eleitoral e membro da Academia Brasileira de Direito Eleitoral e Político (Abradep) Alexandre Bissoli.\nO entendimento é que a mera atualização monetária para preservar o valor real de um programa já existente não se confunde com a criação ou ampliação eleitoreira de benefício.\nNo caso do Bolsa Família, a lei que recriou o programa em 2023 permite ao governo corrigir os valores e proíbe a redução do benefício.\nO deputado federal e candidato à reeleição Zé Tovão (PL-SC), aliado do senador e candidato à Presidência da República, Flávio Bolsonaro (PL-RJ), acionou o TSE pedindo a suspensão do reajuste. O ministro André Mendonça foi sorteado relator do caso e negou o pedido de suspensão, sem apreciar o mérito, alegando que o pedido não poderia ser feito por um candidato a deputado federal.",
       "tags": [
         "família",
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 21:49:28 -0000"
+    },
+    {
+      "id": "38b6a2b455ed",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula recebe com alívio resultado do Datafolha e trabalha para mudar a pauta com Bolsa Família e canetas emagrecedoras no SUS",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/18/lula-recebe-com-alivio-resultado-do-datafolha-e-trabalha-para-mudar-a-pauta-com-bolsa-familia-e-canetas-emagrecedoras-no-sus.ghtml",
+      "summary": "Datafolha: Lula e Flávio Bolsonaro empatam no primeiro turno\nA equipe do presidente Luiz Inácio Lula da Silva (PT) temia um resultado negativo no DataFolha. O resultado de estabilidade, com Lula numericamente à frente no segundo turno, foi recebido com alívio. Agora, a ordem é sair da pauta da crise do STF e mudar a agenda.\nO comando da campanha de Lula acredita que já está conseguindo isso com o reajuste do Bolsa Família e o anúncio de que o SUS vai fornecer canetas emagrecedoras, mas ainda sem data. \nSão dois temas populares e que podem ajudar a melhorar a imagem do governo Lula nesta reta final da eleição presidencial.\n14.09.26 - Lula na sanção do PLV nº 10/2026, que institui linhas de financiamento do MOVE para veículos novos, no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nHavia um temor de que a semana negativa no STF pudesse afetar as intenções de voto do presidente Lula. Não foi o que aconteceu no Datafolha. \nNa simulação de primeiro turno, o petista manteve o percentual de 39%. Flávio Bolsonaro oscilou um ponto para cima, ficando com 36% e configurando um empate técnico. No segundo turno, Lula ficou com 46% e Flávio Bolsonaro com 44%, os mesmos percentuais da pesquisa anterior.\nAgora, a estratégia da campanha de Lula é seguir batendo no candidato do PL, dizendo que votar em Flávio Bolsonaro é o mesmo que votar em Daniel Vorcaro, cobrando explicações sobre o dinheiro do banqueiro que financiou o filme Dark Horse, cinebiografia do ex-presidente Bolsonaro.\nAlém de focar na agenda positiva do Bolsa Família e das canetas emagrecedoras.\nO PL está criticando a medida, chamando-a de eleitoreira, o que de fato é. Só que, o ex-presidente Jair Bolsonaro deu um reajuste ainda maior durante a eleição de 2022, elevando de R$ 400 para R$ 600 o então Auxílio Brasil em julho daquele ano.\nEm relação à pesquisa Datafolha, a campanha de Flávio Bolsonaro diz que, nos seus levantamentos, o candidato do PL já está à frente numericamente de Lula no segundo turno.\nOs assessores do senador do PL destacam, porém, como positivo a redução da distância no primeiro turno, configurando um empate técnico. A ordem será manter a agenda de que votar em Lula é votar em Moraes.\nTerá de lidar, porém, com o reajuste do Bolsa Família. O coordenador da campanha, Rogério Marinho, criticou o aumento do ponto de vista fiscal, mas não disse ser contra o reajuste. O PL não vai entrar no TSE, e gostou da iniciativa de Renan Santos de cumprir esse papel, depois de o ministro André Mendonça rejeitar a ação do deputado José Trovão.\nO governo Lula decidiu dar o aumento para o Bolsa Família diante do momento negativo na campanha. Foi uma reação ao risco de terminar a eleição em queda nas pesquisas e observar Flávio Bolsonaro subindo.\nPara este ano, o governo tem espaço fiscal para acomodar os R$ 5,8 bilhões de gastos extras. No ano que vem, o aumento vai representar mais gastos na casa de R$ 22,7 bilhões, previsão que não está na proposta orçamentária enviada ao Congresso. \nIsso vai tornar mais complicado ainda fazer um ajuste fiscal no ano que vem, considerado urgente por dez entre dez economistas.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 13:33:40 -0000"
+    },
+    {
+      "id": "2a948f11a73f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar decide que reajuste de Lula ao Bolsa Família é legal",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-mendes-decide-que-reajuste-de-lula-ao-bolsa-familia-nao-afronta-a-lei-eleitoral.shtml",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Gilmar Mendes decidiu nesta sexta (18) que o decreto do governo Lula que reajustou os valor do Bolsa Família pelo INPC é legal e cumpre uma determinação do próprio tribunal que, em 2021, afirmou que os valores devem ser sempre atualizados de acordo com a inflação.\nLeia mais (09/18/2026 - 19h06)",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 08:12:33 GMT"
+      "score": 84,
+      "publishedRaw": "18 Sep 2026 19:06:00 -0300"
+    },
+    {
+      "id": "1bc0b4f4a523",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar valida reajuste do Bolsa Família por Lula em período eleitoral",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-valida-reajuste-do-bolsa-familia-por-lula-em-periodo-eleitoral/",
+      "summary": "Ministro do STF acolheu pedido da AGU para reconhecer que não houve violação eleitoral",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 22:13:36 +0000"
     },
     {
       "id": "a7aae5e9fb72",
@@ -675,9 +796,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 79,
+      "score": 83,
       "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
     },
     {
@@ -693,10 +815,74 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 79,
+      "score": 83,
       "publishedRaw": "Fri, 18 Sep 2026 18:22:36 +0000"
+    },
+    {
+      "id": "9f0e22614054",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
+    },
+    {
+      "id": "35bb3a8aeed2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 18 Sep 2026 08:12:33 GMT"
+    },
+    {
+      "id": "281ab392b451",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda proposta de Marinho para destravar impeachment no Senado",
+      "link": "https://www.poder360.com.br/poder-congresso/entenda-proposta-de-marinho-para-destravar-impeachment-no-senado/",
+      "summary": "Senador do PL propõe prazo de 30 dias e recurso ao plenário com apoio de 49 senadores; quer disputar comando da Casa Alta em 2027",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 18 Sep 2026 21:17:48 +0000"
     },
     {
       "id": "6d31b867be1d",
@@ -733,34 +919,34 @@
       "publishedRaw": "Fri, 18 Sep 2026 13:00:07 GMT"
     },
     {
-      "id": "281ab392b451",
-      "source": "Poder360",
+      "id": "1123e7abdfef",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Entenda proposta de Marinho para destravar impeachment no Senado",
-      "link": "https://www.poder360.com.br/poder-congresso/entenda-proposta-de-marinho-para-destravar-impeachment-no-senado/",
-      "summary": "Senador do PL propõe prazo de 30 dias e recurso ao plenário com apoio de 49 senadores; quer disputar comando da Casa Alta em 2027",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Fri, 18 Sep 2026 21:17:48 +0000"
-    },
-    {
-      "id": "115ed0c51759",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TRE rejeita candidatura de Policial Edjane ao governo de SP",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tre-rejeita-candidatura-de-policial-edjane-ao-governo-de-sp/",
-      "summary": "Por decisão unânime, TRE-SP indefiriu a candidatura por  falta de comprovação de afastamento de cargo público",
+      "title": "Agir declara apoio a Tarcísio após retirada da candidatura de Policial Edjane",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/18/agir-declara-apoio-a-tarcisio-apos-retirada-da-candidatura-de-edjane.ghtml",
+      "summary": "A ex-candidata do Agir ao Governo de SP, Policial Edjane, e o governador Tarcísio de Freitas, do Republicanos\nReprodução/TV Globo e Divulgação/Republicanos\nCom a retirada da candidatura da Policial Edjane (Agir) ao governo de São Paulo, o Agir confirmou que irá apoiar a reeleição do governador Tarcísio de Freitas (Republicanos). A saída do pleito da única candidata de direita além de Tarcísio aumenta as chances de o governador conquistar a reeleição já no primeiro turno.\nPara isso acontecer, os votos válidos — sem brancos e nulos — em Tarcísio devem superar a soma dos votos nos demais candidatos.\nO candidato do Republicanos já apareceu em cenário de virtual vitória em primeiro turno nas últimas pesquisas Datafolha e Quaest, com percentual de intenção de votos superior à soma dos demais. No cálculo, além de brancos e nulos, são desconsiderados os eleitores indecisos.\nCom o apoio do Agir, espera-se uma transferência de votos que beneficie o governador. Na última pesquisa Datafolha, de 11 de setembro, Edjane estava com 3% de intenções de voto, em terceiro lugar na disputa. Na Quaest de 8 de setembro, com 1%.\nEm nota, a equipe de campanha do candidato agradeceu o apoio da chapa e disse entender \"que cada voto conta\". \"Mas nossa postura não muda: vamos trabalhar até o último minuto, com a mesma garra, para apresentar as realizações e propostas do governador Tarcísio de Freitas ao eleitor de São Paulo.”\nAlianças\nAo todo, a coligação de Tarcísio é composta por dez partidos, que somam 336 deputados federais, 65% da Câmara. Isso foi o suficiente para que a candidatura tivesse o dobro de tempo de rádio e televisão que o principal adversário, Fernando Haddad (PT).\nAlém dos dez partidos da coligação, o governador tem o apoio de PSDB, Cidadania, Novo, Podemos, Democrata e, agora, Agir — total de 16 partidos. Haddad, por sua vez, tem sete partidos na coligação e nenhum que o apoie sem estar coligado. Outros partidos de esquerda, PCB, PCO, PSTU e UP têm candidatos próprios ao Governo de São Paulo.\nAgora ex-candidata, Policial Edjane ainda não declarou apoio a algum dos seis concorrentes remanescentes, mas deve fazê-lo nos próximos dias. Como a saída dela da disputa se deu em racha com o partido (leia mais abaixo), o diretório estadual declarou apoio a Tarcísio de forma independente da outrora cabeça de chapa.\nPolicial Edjane, candidata ao governo de SP pelo Agir\nReprodução/TV Globo\nCandidata diz ter princípios; partido a acusa de estelionato\nO partido Agir, em São Paulo, desistiu da corrida eleitoral de Policial Edjane ao governo do Estado sob o argumento de não ter recebido repasses do Fundo Especial de Financiamento de Campanha do diretório nacional do partido.\nSem verba, a vice de Edjane, Professora Nayr Duarte, apresentou pedido de renúncia ao TRE  (Tribunal Regional Eleitoral) para poder concorrer a deputada estadual. O Tribunal julgou a candidatura da chapa como indeferida na sexta-feira (18), alegando ainda documentação insuficiente para comprovar a necessária desincompatibilização de Edjane da Polícia Militar e da certidão criminal para fins eleitorais.\nCom isso, a candidatura do Agir para o Executivo será cancelada. Cabe recurso ao TSE (Tribunal Superior Eleitoral), mas o diretório paulista do partido já afirmou que não irá recorrer. Já a candidata disse que a desistência ocorreu sem o seu consentimento.\nPosso afirmar que me mantive firme em minha decisão. Não renunciei. Eu tenho princípios e valores\nNo posicionamento divulgado à imprensa, o Agir-SP afirma que Edjane pratica estelionato ao pedir doações em redes sociais com a candidatura indeferida. \"Ela sabe que, com a renúncia já homologada pelo TRE-SP, o DRAP [documento que atesta regularidade] da campanha majoritária está indeferido.\"\nEleições 2026: Confira as propostas da Policial Edjane, do Agir, caso seja eleita",
       "tags": [
         "candidatura"
       ],
       "crossOutlets": [],
       "score": 60,
-      "publishedRaw": "Fri, 18 Sep 2026 21:30:56 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 22:18:17 -0000"
+    },
+    {
+      "id": "f6680c695594",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 34% dizem que caso Master envolve mais políticos de esquerda e 27% afirmam que são políticos de direita",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-caso-master-envolve-mais-politicos-de-esquerda-ou-direita.ghtml",
+      "summary": "O ex-banqueiro e dono do Banco Master, Daniel Vorcaro\nDivulgação\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra como os eleitores veem os impactos do escândalo do banco Master na classe política.\nO instituto perguntou aos eleitores se, na opinião deles, a investigação sobre as suspeitas de fraudes e a rede criminosa chefiada por Daniel Vorcaro afetam mais políticos de esquerda, de centro ou de direita. \nVeja os dados abaixo:\nPergunta: Na sua opinião, os políticos envolvidos com esse escândalo são, em sua maioria, de esquerda, de centro ou de direita?\nEsquerda: 34%\nCentro: 10%\nDireita: 27%\nTodos: 13%\nNenhum: 0%\nNão sabe: 16%\nDatafolha pergunta aos entrevistados qual é o posicionamento político predominante entre os envolvidos no caso Master.\narte G1\nAs conexões de Daniel Vorcaro\nAs investigações sobre o Master revelaram uma ampla rede de influência mantida por Daniel Vorcaro para blindar seus negócios, aproximar-se de autoridades e monitorar ilegalmente possíveis adversários. Segundo a PF, a estrutura alcança diferentes instâncias do poder público, de servidores do Banco Central a ministros do STF.\nO senador Ciro Nogueira (PP-PI) é suspeito de atuar no Congresso em defesa de interesses de Vorcaro em troca de pagamentos. Ele nega as acusações. A PF apura, em especial, a chamada “Emenda Master”, apresentada pelo senador para alterar regras do sistema financeiro em benefício do Master.\nOutra frente investiga as relações do senador Jaques Wagner (PT-BA) com Augusto Lima, ex-sócio do Master. A PF apura se Wagner atuou em favor de projetos de interesse do banco e aponta indícios de pagamento de vantagens indevidas, entre elas um apartamento de luxo em Salvador. Wagner nega ter cometido ato ilícito ou concedido benefícios ao Banco Master.\nO senador Flávio Bolsonaro é investigado por suspeitas de corrupção, lavagem de dinheiro e evasão de divisas relacionadas ao financiamento do filme \"Dark Horse\", sobre o ex-presidente Jair Bolsonaro. Em maio, mensagens reveladas pelo site Intercept Brasil mostraram Flávio pedindo dinheiro a Vorcaro. A PF busca esclarecer a origem e o destino dos recursos e se eles foram utilizados no filme ou desviados.\nOutro eixo da investigação sobre o \"Dark Horse\" apura se recursos públicos de emendas parlamentares destinados pelo deputado Mário Frias (PL-SP) foram desviados ou empregados em contratos não executados relacionados ao projeto.\nO ex-governador do Rio de Janeiro Cláudio Castro foi alvo de uma operação da Polícia Federal em maio, por suspeitas relacionadas à gestão de recursos do Rioprevidência, fundo de previdência dos servidores estaduais. A investigação apura possíveis irregularidades na transferência de cerca de R$ 3,7 bilhões para fundos ligados ao Master, entre 2023 e 2025. Castro nega favorecimento, recebimento de benefício pessoal ou qualquer relação indevida com Vorcaro.\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 22:15:53 -0000"
     },
     {
       "id": "c888e82dc165",
@@ -776,6 +962,51 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 15:02:39 -0000"
+    },
+    {
+      "id": "888ce77057cf",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Durigan diz que reajuste do Bolsa Família não deve pressionar a inflação",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-diz-que-reajuste-do-bolsa-familia-nao-deve-pressionar-a-inflacao/",
+      "summary": "Em entrevista à CNN, ministro da Fazenda afirmou que aumento de 15,04% não representa ganho real",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 22:05:08 +0000"
+    },
+    {
+      "id": "330252a8bc40",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo cortará gastos na Previdência por Bolsa Família, diz Durigan à CNN",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-cortara-gastos-na-previdencia-por-bolsa-familia-diz-durigan-a-cnn/",
+      "summary": "Ministro da Fazenda diz que governo vai detalhar em 24 de setembro quais despesas serão reduzidas para abrir espaço no Orçamento",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 22:02:44 +0000"
+    },
+    {
+      "id": "b4d283af7077",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsa Família: Se fosse eleitoral, teríamos feito antes, diz Durigan à CNN",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-se-fosse-eleitoral-teriamos-feito-antes-diz-durigan-a-cnn/",
+      "summary": "Ministro da Fazenda afirma que reajuste do Bolsa Família foi programado para outubro e negou que a medida tenha sido antecipada por causa das eleições",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 22:00:54 +0000"
     },
     {
       "id": "5686aea3de47",
@@ -806,21 +1037,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 20:29:12 +0000"
-    },
-    {
-      "id": "a9fc52446792",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reforma tributária: empresas do Simples escolherão modelo até setembro, mas poderão rever decisão depois que alíquota sair",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/18/reforma-tributaria-empresas-do-simples-escolherao-modelo-ate-setembro-mas-poderao-rever-decisao-depois-que-aliquota-sair.ghtml",
-      "summary": "O secretário da Receita Federal, Robinson Barreirinhas, lembrou nesta sexta-feira (18) que as empresas do Simples Nacional deverão optar até o fim deste mês entre o sistema \"híbrido\" de recolhimento dos novos tributos sobre o consumo ou a permanência no modelo tradicional — conhecido como Simples \"puro\". A escolha vale para o primeiro semestre de 2027.\nEle acrescentou, porém, que há um acordo com o Comitê Gestor do Imposto sobre Bens e Serviços, o IBS (tributo dos estados e municípios), para que essa opção, feita em setembro, possa ser revista depois que a alíquota do Contribuição Social sobre Bens e Serviços, o CBS —  tributo federal sobre o consumo —, for definida pelo Senado. Essa decisão deve ser tomada até o fim deste ano pelos senadores.\nA informação citada por Barreirinhas representa uma mudança em relação ao calendário vigente até o momento — que contempla a possibilidade de o empresário do Simples  rever sua opção somente até o fim do mês de novembro próximo, quando a alíquota pode ainda não estar definida pelo Senado.\n\"A empresa opta em setembro, mas, em novembro se achar que não vale mais, pode voltar atrás. E fomos além: se o Senado fixar só depois desse prazo, garantimos que ninguém vai ser prejudicado. Comitê gestor [do IBS] concordou que, se essa alíquota for fixada depois de novembro, sempre poderá optar por desistir depois dessa opção\", disse Barreirinhas.\nAgora no g1\nEm março do ano que vem, o prazo de escolha será aberto novamente para as empresas do Simples, desta vez com validade para as vendas do segundo semestre do próximo ano.\n➡️Dados da Receita Federal indicam que o Simples Nacional concentrava 7,35 milhões de empresas, sem contar MEIs e nanoempreendedores, no fim de 2025, o equivalente a 28,6% do total de empresas ativas no país.\nSimples Nacional.\nSimples Nacional/Divulgação\nEntenda\nSistema híbrido: ao optar por esse modelo, a empresa permanece no Simples Nacional para os demais tributos, mas passa a recolher a Contribuição sobre Bens e Serviços (CBS) e o Imposto sobre Bens e Serviços (IBS), os novos tributos sobre o consumo criados pela reforma tributária. \nCom isso, pode aproveitar créditos desses tributos sobre suas compras e também transferir créditos para empresas que adquirirem seus produtos ou serviços.\nPor exemplo: se a alíquota do IVA for de 20%, um produto vendido ao consumidor final por R$ 100 terá R$ 20 de imposto. Ao longo da cadeia produtiva, as empresas poderão descontar créditos relativos aos tributos pagos nas etapas anteriores, de modo que a tributação recaia apenas sobre o valor agregado em cada fase.\n🔎 A Contribuição sobre Bens e Serviços (CBS) é o tributo federal criado pela reforma tributária para substituir impostos como PIS e Cofins. Já o Imposto sobre Bens e Serviços (IBS) será compartilhado por estados e municípios e substituirá tributos como ICMS e ISS. Juntos, CBS e IBS formarão o novo sistema de tributação sobre o consumo no país.\nSistema puro: a empresa permanece no regime tradicional do Simples, no qual, geralmente, não aproveita créditos dos tributos incidentes nas etapas anteriores da cadeia produtiva nem transfere créditos tributários a seus clientes na venda de bens ou serviços.",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Fri, 18 Sep 2026 13:30:08 -0000"
     }
   ]
 }
