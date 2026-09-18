@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:15:22.642411+00:00",
+  "generated_at": "2026-09-18T20:41:33.285616+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -15,6 +15,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -38,6 +39,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -62,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -86,6 +89,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -110,6 +114,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -132,6 +137,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -154,6 +160,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -176,6 +183,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -183,28 +191,6 @@
       ],
       "score": 90,
       "publishedRaw": "Fri, 18 Sep 2026 17:38:59 +0000"
-    },
-    {
-      "id": "8452e2a4c7fb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula aciona TSE e pede direito de resposta após propaganda eleitoral de Flávio",
-      "link": "https://www.estadao.com.br/politica/eleicoes/campanha-de-lula-aciona-tse-e-pede-direito-de-resposta-apos-propaganda-eleitoral-de-flavio-nprp/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 17 Sep 2026 17:53:11 +0000"
     },
     {
       "id": "29fbbf0325b5",
@@ -221,6 +207,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -242,6 +229,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -263,6 +251,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -284,6 +273,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -291,6 +281,50 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 11:31:54 -0000"
+    },
+    {
+      "id": "0120996ebc53",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula inaugura espaço em SP e busca recrutar voluntários e mobilizar jovens",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-inaugura-espaco-em-sp-e-busca-recrutar-voluntarios-e-mobilizar-jovens.shtml",
+      "summary": "Após ver Flávio Bolsonaro (PL) ampliar a diferença na região Sudeste, a campanha de reeleição do presidente Lula inaugura no domingo (20) um espaço cultural em São Paulo.\nLeia mais (09/18/2026 - 17h30)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "18 Sep 2026 17:30:00 -0300"
+    },
+    {
+      "id": "903f488d6505",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula foge de orientação de campanha ao elogiar Alexandre de Moraes",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-foge-de-orientacao-de-campanha-ao-elogiar-alexandre-de-moraes/",
+      "summary": "Aliados avaliam que declaração espontânea de Lula aumenta exposição do governo à crise no STF e pode reforçar mobilização antipetista; apuração de Tainá Falcão para o Bastidores CNN",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 19:47:37 +0000"
     },
     {
       "id": "b8cca122aadd",
@@ -305,6 +339,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -326,6 +361,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -347,6 +383,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -376,6 +413,28 @@
       "publishedRaw": "Fri, 18 Sep 2026 16:06:02 +0000"
     },
     {
+      "id": "bc33ca9aa74a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Celina diz que vai à CVM contra Lula após falas sobre crise no BRB",
+      "link": "https://www.poder360.com.br/poder-economia/celina-diz-que-vai-a-cvm-contra-lula-apos-falas-sobre-crise-no-brb/",
+      "summary": "Governadora do DF diz que fala do presidente afeta liquidez de mercado; ela também classifica como \"crime\" declaração do petista sobre o banco",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 20:36:23 +0000"
+    },
+    {
       "id": "909d4dcbca24",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -388,6 +447,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -397,25 +457,23 @@
       "publishedRaw": "Fri, 18 Sep 2026 19:12:47 +0000"
     },
     {
-      "id": "7328bfbc5b9b",
-      "source": "Poder360",
+      "id": "56aa40d27b43",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio diz que Lula está “gagá” após fala sobre milicianos",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-lula-esta-gaga-apos-fala-sobre-milicianos/",
-      "summary": "Declaração recente do presidente não citou Flávio, mas mencionou a família Bolsonaro ao falar de possível elo de um candidato à Presidência com milícias do Rio",
+      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
+      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "CNN Brasil",
+        "Estadão"
       ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 18:21:02 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
     },
     {
       "id": "38b6a2b455ed",
@@ -431,6 +489,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -438,67 +497,6 @@
       ],
       "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 13:33:40 -0000"
-    },
-    {
-      "id": "e68d3157d894",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula avalia comprar dívidas antigas de famílias com dinheiro público",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-avalia-comprar-dividas-antigas-de-familias-com-dinheiro-publico.shtml",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) estuda usar recursos públicos para comprar dívidas antigas de consumidores que hoje estão na carteira de crédito dos bancos e têm baixas chances de recuperação.\nLeia mais (09/18/2026 - 16h11)",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "18 Sep 2026 16:11:00 -0300"
-    },
-    {
-      "id": "9f0e22614054",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
-    },
-    {
-      "id": "56aa40d27b43",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
-      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
     },
     {
       "id": "cb829c5ed9c0",
@@ -513,9 +511,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 11:49:01 -0000"
     },
     {
@@ -531,9 +530,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 11:44:58 -0000"
     },
     {
@@ -549,9 +549,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
     },
     {
@@ -567,9 +568,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 09:37:24 +0000"
     },
     {
@@ -585,28 +587,92 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 17:30:34 +0000"
     },
     {
-      "id": "2bfe0e99c393",
-      "source": "Estadão",
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar Mendes se reuniu com Vorcaro no STF sobre causa bilionária",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/gilmar-mendes-se-reuniu-com-vorcaro-no-stf-sobre-causa-bilionaria/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 16:07:28 +0000"
+      "score": 84,
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
+    },
+    {
+      "id": "9f0e22614054",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
+    },
+    {
+      "id": "58d06f3a0f63",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
+      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nBolsa Família\nLyon Santos/MDS\nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU.\nO governo pede que o Supremo reconheça que o decreto foi editado em conformidade com o quadro constitucional e legal.  \n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
+      "tags": [
+        "STF",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 81,
+      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
+    },
+    {
+      "id": "a05bf3571b9c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Planalto usa decisão do STF para justificar reajuste do Bolsa Família",
+      "link": "https://www.cnnbrasil.com.br/politica/planalto-usa-decisao-do-stf-para-justificar-reajuste-do-bolsa-familia/",
+      "summary": "Suprema Corte foi provocada pela DPU em ação que estava parada desde 2024 na véspera do anúncio que aumentou o piso do benefício social",
+      "tags": [
+        "STF",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Fri, 18 Sep 2026 20:01:23 +0000"
     },
     {
       "id": "35bb3a8aeed2",
@@ -621,6 +687,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -631,22 +698,22 @@
       "publishedRaw": "Fri, 18 Sep 2026 08:12:33 GMT"
     },
     {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
+      "id": "a7aae5e9fb72",
+      "source": "Estadão",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
+      "category": "Política",
+      "title": "Empresa é condenada a pagar indenizações por pressão para votar em Bolsonaro em 2022",
+      "link": "https://www.estadao.com.br/politica/eleicoes/empresa-e-condenada-a-pagar-indenizacoes-por-pressao-para-votar-em-bolsonaro-em-2022-nprp/",
+      "summary": "Dentro de ações trabalhistas, Comercial de Móveis Jordanésia deverá indenizar ex-funcionários por assédio eleitoral",
       "tags": [
-        "STF"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
+        "BBC Brasil",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
+      "score": 79,
+      "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
     },
     {
       "id": "c73e6d0354e5",
@@ -665,25 +732,6 @@
       ],
       "score": 79,
       "publishedRaw": "Fri, 18 Sep 2026 18:22:36 +0000"
-    },
-    {
-      "id": "58d06f3a0f63",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
-      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o Decreto nº 13.120/2026 não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no art. 7º, §§ 3º e 4º, da Lei nº 14.601/2023, marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", diz a AGU.",
-      "tags": [
-        "STF",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 76,
-      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
       "id": "6d31b867be1d",
@@ -745,10 +793,8 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 68,
+      "crossOutlets": [],
+      "score": 64,
       "publishedRaw": "18 Sep 2026 16:31:00 -0300"
     },
     {
@@ -782,19 +828,34 @@
       "publishedRaw": "18 Sep 2026 16:30:00 -0300"
     },
     {
-      "id": "71e26f78fe81",
-      "source": "CNN Brasil",
+      "id": "daf714d81bda",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Autoridades sem visto dos EUA podem ir à Assembleia da ONU em Nova York?",
-      "link": "https://www.cnnbrasil.com.br/internacional/autoridades-sem-visto-podem-ir-a-assembleia-da-onu-em-nova-york-eua/",
-      "summary": "Governo de Donald Trump negou visto para Mahmoud Abbas, presidente da Autoridade Palestina, pelo segundo ano seguido",
+      "title": "Reajuste do Bolsa Família fideliza eleitor mais do que vira voto, dizem analistas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/reajuste-do-bolsa-familia-fideliza-eleitor-mais-do-que-vira-voto-dizem-analistas/",
+      "summary": "",
       "tags": [
-        "MBL"
+        "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Fri, 18 Sep 2026 19:08:01 +0000"
+      "publishedRaw": "Fri, 18 Sep 2026 20:29:12 +0000"
+    },
+    {
+      "id": "bd9eaf93b6f1",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "MP junto ao TCU pede suspensão de reajuste do Bolsa Família",
+      "link": "https://www.poder360.com.br/poder-governo/mp-junto-ao-tcu-pede-suspensao-de-reajuste-do-bolsa-familia/",
+      "summary": "Subprocurador Lucas Rocha Furtado afirma que governo não demonstrou no decreto a adequação fiscal nem o impacto da medida",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 18 Sep 2026 20:37:38 +0000"
     },
     {
       "id": "a9fc52446792",
