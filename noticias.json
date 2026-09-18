@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:13:57.028383+00:00",
+  "generated_at": "2026-09-18T17:39:22.749276+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -18,7 +18,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -42,7 +41,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -67,7 +65,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 93,
@@ -90,7 +87,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 90,
@@ -114,7 +110,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 90,
@@ -137,7 +132,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 90,
@@ -159,7 +153,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -182,7 +175,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -206,7 +198,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 90,
@@ -250,12 +241,34 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Thu, 17 Sep 2026 17:53:11 +0000"
+    },
+    {
+      "id": "29fbbf0325b5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça vai relatar ação de Renan Santos contra reajuste do Bolsa Família feito por Lula",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mendonca-vai-relatar-acao-de-renan-santos-contra-reajuste-do-bolsa-familia-feito-por-lula/",
+      "summary": "",
+      "tags": [
+        "família",
+        "Renan Santos",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 18 Sep 2026 17:23:44 +0000"
     },
     {
       "id": "9904ca987c47",
@@ -273,7 +286,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 85,
@@ -295,11 +307,31 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 11:31:54 -0000"
+    },
+    {
+      "id": "75fa87a72761",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula vai a Pernambuco para ampliar vantagem no Nordeste e impulsionar João Campos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-vai-a-pernambuco-para-ampliar-vantagem-no-nordeste-e-impulsionar-joao-campos.shtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) decidiu que irá a Pernambuco para um ato de campanha antes do primeiro turno. A agenda visa consolidar a vantagem histórica do petista no estado e favorecer o ex-prefeito do Recife João Campos (PSB), que tem tido dificuldade para angariar os votos lulistas na disputa contra a governadora Raquel Lyra (PSD).\nLeia mais (09/18/2026 - 14h19)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "18 Sep 2026 14:19:00 -0300"
     },
     {
       "id": "f73f88380f67",
@@ -316,12 +348,32 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "18 Sep 2026 13:00:00 -0300"
+    },
+    {
+      "id": "1f4169f4c2f5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Planalto espera novo encontro informal entre Trump e Lula na ONU",
+      "link": "https://www.cnnbrasil.com.br/politica/planalto-espera-novo-encontro-informal-entre-trump-e-lula-na-onu/",
+      "summary": "Sem bilateral prevista, cronograma pode viabilizar contato entre os presidentes",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 16:52:34 +0000"
     },
     {
       "id": "c87113135eec",
@@ -338,7 +390,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -360,7 +411,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -382,7 +432,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -404,7 +453,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -426,7 +474,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -434,24 +481,25 @@
       "publishedRaw": "Fri, 18 Sep 2026 14:20:52 +0000"
     },
     {
-      "id": "34a16e842190",
-      "source": "BBC Brasil",
+      "id": "2d27110d0c08",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A nova ofensiva de Eduardo Bolsonaro em Washington por sanções contra autoridades brasileiras",
-      "link": "https://www.bbc.com/portuguese/articles/cwdr72zgnvmvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Em meio à crise no Supremo e a 17 dias da eleição presidencial, ex-deputado teve encontros com integrantes do Departamento de Estado e da Casa Branca.",
+      "category": "Política",
+      "title": "Lula rejeita chamar facções de terroristas como Trump",
+      "link": "https://www.poder360.com.br/poder-governo/lula-rejeita-chamar-faccoes-de-terroristas-como-trump/",
+      "summary": "Presidente diz que conceito defendido pelos EUA se relaciona à disputa pelo poder e diferencia atuação das organizações criminosas",
       "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 17 Sep 2026 21:26:09 GMT"
+      "publishedRaw": "Fri, 18 Sep 2026 17:13:42 +0000"
     },
     {
       "id": "7ffee6dd451a",
@@ -469,33 +517,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 17:02:18 +0000"
-    },
-    {
-      "id": "57e9c04e4805",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que muitos temem vazamentos do Master: “Orgia atrás de orgia”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-muitos-temem-vazamentos-do-master-orgia-atras-de-orgia/",
-      "summary": "Presidente diz que informações do caso ainda não foram divulgadas e volta a criticar divulgação seletiva de dados por Mendonça",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 15:23:15 +0000"
     },
     {
       "id": "38b6a2b455ed",
@@ -514,7 +539,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 84,
@@ -654,25 +678,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 12:50:09 +0000"
     },
     {
-      "id": "0b5d8c5501dd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Julgamento de Moraes no STF: o que é pedido de vista, quanto tempo dura e o que acontece se empatar",
-      "link": "https://www.estadao.com.br/politica/julgamento-de-moraes-no-stf-o-que-e-pedido-de-vista-quanto-tempo-dura-e-o-que-acontece-se-empatar/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 16 Sep 2026 00:49:57 +0000"
-    },
-    {
       "id": "1b786096ff1e",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -692,14 +697,15 @@
       "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
-      "id": "1487f547edc0",
-      "source": "G1 - Mundo",
+      "id": "1ed668f4e81f",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Governo Lula vê relatório sobre PCC e CV como 'muito grave' e brecha para ações militares dos Estados Unidos",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/17/governo-lula-ve-relatorio-sobre-pcc-e-cv-como-muito-grave-e-brecha-para-acoes-militares-dos-eua.ghtml",
-      "summary": "Auxiliares do presidente Luiz Inácio Lula da Silva (PT) avaliam como \"muito grave\" o relatório dos Estados Unidos que acusou o Brasil de ter falhado no combate às facções criminosas Primeiro Comando da Capital (PCC) e Comando Vermelho (CV).\nNo relatório enviado ao Congresso americano na terça-feira (15), o presidente Donald Trump fala na necessidade de adoção pelo Brasil, \"com urgência\", de \"medidas enérgicas para enfrentar\" as organizações criminosas. \nPCC e CV foram incluídos recentemente pelos EUA na lista de organizações terroristas. \nO documento diz ainda que, enquanto outros governos do hemisfério ocidental estão tomando \"medidas corajosas\" para erradicar cartéis, o Brasil não tem enfrentado o PCC e o CV.\nAgora no g1\nA avaliação na área internacional do governo brasileiro é que o documento relaciona o crime organizado e o narcotráfico à segurança nacional americana, o que \"abre margem para ações militarizadas dos EUA à revelia do direito internacional\".\nA exemplo do que ocorreu em janeiro deste ano com o presidente deposto da Venezuela, Nicolás Maduro, que foi capturado pelos Estados Unidos. Maduro foi acusado de conspirar a favor do narcoterrorismo e do tráfico de drogas.\nO relatório dos EUA sobre PCC e CV foi divulgado nesta quarta-feira (16) pelo Departamento de Estado. Horas depois, o governo brasileiro divulgou nota negando que existam falhas ou omissões no enfrentamento ao crime organizado transnacional. \n\"A alusão registrada no texto não corresponde à categoria jurídica de descumprimento formal prevista na legislação norte-americana que rege esse mecanismo anual. Trata-se, portanto, de manifestação circunstancial inserida na parte narrativa do documento, sem respaldo em sua parte dispositiva\", afirmou o governo brasileiro.\nEm nota, o Ministério da Justiça afirma que as alegações do governo americano desconsideram medidas adotadas pelo governo brasileiro, como a Lei Antifacção, aprovada pelo Congresso Nacional e sancionada por Lula.\nE também ignoram a cooperação já existente entre Brasil e EUA no combate ao crime organizado transnacional.\nItamaraty vê risco de os EUA usarem a força militar contra o Brasil depois de terem classificado PCC e CV como terroristas\nJornal Nacional/ Reprodução",
+      "category": "Política",
+      "title": "“Lula é de direita ou de esquerda” lidera buscas no Google",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-de-direita-ou-de-esquerda-lidera-buscas-no-google/",
+      "summary": "Buscas pelo espectro político dos candidatos nas eleições de 2026 triplicaram desde o início da campanha, em 16 de agosto",
       "tags": [
+        "esquerda",
         "Lula"
       ],
       "crossOutlets": [
@@ -707,11 +713,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Thu, 17 Sep 2026 20:16:18 -0000"
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 17:28:36 +0000"
     },
     {
       "id": "35bb3a8aeed2",
@@ -729,7 +734,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -752,7 +756,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -776,6 +779,24 @@
       ],
       "score": 78,
       "publishedRaw": "18 Sep 2026 13:50:00 -0300"
+    },
+    {
+      "id": "6d31b867be1d",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
       "id": "8f1865b8dab0",
@@ -887,21 +908,6 @@
       "crossOutlets": [],
       "score": 53,
       "publishedRaw": "Fri, 18 Sep 2026 13:30:08 -0000"
-    },
-    {
-      "id": "eaac7cad3e0e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ninguém é doido de recuar na reforma tributária, diz secretário da Receita",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ninguem-e-doido-de-recuar-na-reforma-tributaria-diz-secretario-da-receita/",
-      "summary": "Candidato do PL, Flávio Bolsonaro, propôs adiar a implementação do novo sistema para revisar a lei aprovada pelo Congresso Nacional",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Fri, 18 Sep 2026 16:26:47 +0000"
     },
     {
       "id": "5b4d31989550",
