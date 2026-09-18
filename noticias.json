@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:43:44.445075+00:00",
+  "generated_at": "2026-09-18T09:15:41.799578+00:00",
   "items": [
     {
       "id": "03952075f45a",
@@ -329,6 +329,27 @@
       "publishedRaw": "Thu, 17 Sep 2026 22:05:37 -0000"
     },
     {
+      "id": "3e909bd65322",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Assessora de Lula faz ofensiva pelo voto 70+: ‘Não peço que esqueça erros do Lula, nem entusiasmo’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/assessora-de-lula-faz-ofensiva-pelo-voto-70-nao-peco-que-esqueca-erros-do-lula-nem-entusiasmo/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 08:30:00 +0000"
+    },
+    {
       "id": "dacb119b6493",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -412,6 +433,27 @@
       "publishedRaw": "Thu, 17 Sep 2026 21:26:09 GMT"
     },
     {
+      "id": "72fb0984f6b2",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "75% dos eleitores de Flávio e 21% dos de Lula aprovam Mendonça",
+      "link": "https://www.poder360.com.br/poderdata/75-dos-eleitores-de-flavio-e-21-dos-de-lula-aprovam-mendonca/",
+      "summary": "Dados consideram a declaração de voto dos eleitores em eventual 2º turno entre Lula e Flávio; Moraes é aprovado por 67% dos lulistas e 4% dos que votam no senador do PL",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 18 Sep 2026 09:00:01 +0000"
+    },
+    {
       "id": "58166459ffeb",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -433,25 +475,80 @@
       "publishedRaw": "Fri, 18 Sep 2026 02:00:05 +0000"
     },
     {
-      "id": "8e474e0df04f",
-      "source": "Poder360",
+      "id": "b7694ace4228",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz não querer ser comparado a Flávio: “Ele não é ninguém”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-nao-querer-ser-comparado-a-flavio-ele-nao-e-ninguem/",
-      "summary": "Petista pediu que apoiadores façam comparativo com o pai do adversário, o ex-presidente Jair Bolsonaro, que “tentou dar um golpe”",
+      "title": "Proposta que prevê código de conduta aos ministros do STF está parada no Senado há quatro meses",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/proposta-que-preve-codigo-de-conduta-aos-ministros-do-stf-esta-parada-no-senado-ha-quatro-meses.shtml",
+      "summary": "Uma PEC (Proposta de Emenda à Constituição) que prevê um código de conduta aos agentes públicos, incluindo os ministros do STF (Supremo Tribunal Federal), está parada há cerca de quatro meses no Senado Federal.\nLeia mais (09/18/2026 - 06h00)",
       "tags": [
-        "Lula"
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 84,
+      "publishedRaw": "18 Sep 2026 06:00:00 -0300"
+    },
+    {
+      "id": "bc0f88e61748",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF ameaça deixar decisões importantes do agro em espera",
+      "link": "https://www.cnnbrasil.com.br/agro/crise-no-stf-ameaca-deixar-decisoes-importantes-do-agro-em-espera/",
+      "summary": "Cerca de 19 processos estão em espera; Marco temporal, regularização fundiária, terras estrangeiras e licenciamento ambiental estão entre temas que aguardam definição da Corte; especialistas apontam risco de mais insegurança jurídica",
+      "tags": [
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 00:52:46 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 08:00:30 +0000"
+    },
+    {
+      "id": "1934b7ba26bf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fotógrafo do Estadão conta bastidores de foto de Moraes no dia de julgamento inédito no STF",
+      "link": "https://www.estadao.com.br/politica/fotografo-do-estadao-conta-bastidores-de-foto-de-moraes-no-dia-de-julgamento-inedito-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
+    },
+    {
+      "id": "01a8a9abcdc9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Não é preciso alterar o tom para ser ouvido’, diz Nunes Marques após julgamento do STF",
+      "link": "https://www.estadao.com.br/politica/nao-e-preciso-alterar-o-tom-para-ser-ouvido-diz-nunes-marques-apos-julgamento-do-stf-nprp/",
+      "summary": "Fala do ministro ocorre em primeira manifestação pública após sessão conturbada do STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 01:02:04 +0000"
     },
     {
       "id": "91664662a121",
@@ -496,6 +593,25 @@
       ],
       "score": 84,
       "publishedRaw": "Thu, 17 Sep 2026 23:47:54 +0000"
+    },
+    {
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
       "id": "047d15e98122",
@@ -563,60 +679,6 @@
       "publishedRaw": "Thu, 17 Sep 2026 13:33:13 -0000"
     },
     {
-      "id": "bc0f88e61748",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF ameaça deixar decisões importantes do agro em espera",
-      "link": "https://www.cnnbrasil.com.br/agro/crise-no-stf-ameaca-deixar-decisoes-importantes-do-agro-em-espera/",
-      "summary": "Cerca de 19 processos estão em espera; Marco temporal, regularização fundiária, terras estrangeiras e licenciamento ambiental estão entre temas que aguardam definição da Corte; especialistas apontam risco de mais insegurança jurídica",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 08:00:30 +0000"
-    },
-    {
-      "id": "1934b7ba26bf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fotógrafo do Estadão conta bastidores de foto de Moraes no dia de julgamento inédito no STF",
-      "link": "https://www.estadao.com.br/politica/fotografo-do-estadao-conta-bastidores-de-foto-de-moraes-no-dia-de-julgamento-inedito-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 01:20:00 +0000"
-    },
-    {
-      "id": "01a8a9abcdc9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Não é preciso alterar o tom para ser ouvido’, diz Nunes Marques após julgamento do STF",
-      "link": "https://www.estadao.com.br/politica/nao-e-preciso-alterar-o-tom-para-ser-ouvido-diz-nunes-marques-apos-julgamento-do-stf-nprp/",
-      "summary": "Fala do ministro ocorre em primeira manifestação pública após sessão conturbada do STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 01:02:04 +0000"
-    },
-    {
       "id": "35bb3a8aeed2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -659,24 +721,6 @@
       ],
       "score": 80,
       "publishedRaw": "Fri, 18 Sep 2026 03:09:53 GMT"
-    },
-    {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
     },
     {
       "id": "47c00969ecdc",
@@ -836,21 +880,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 07:03:51 +0000"
-    },
-    {
-      "id": "a2b4e1603316",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsa Família: reajuste mantém distorção sobre crianças, dizem economistas",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-reajuste-mantem-distorcao-sobre-criancas-dizem-economistas/",
-      "summary": "Governo anuncia medida de R$ 22 bilhões a menos de 20 dias do primeiro turno",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Fri, 18 Sep 2026 06:49:19 +0000"
     },
     {
       "id": "dec7044bf344",
