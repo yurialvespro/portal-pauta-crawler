@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:40:46.362387+00:00",
+  "generated_at": "2026-09-19T21:14:18.403642+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -19,7 +19,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -68,7 +67,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 94,
@@ -90,7 +88,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -114,87 +111,12 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Fri, 18 Sep 2026 13:39:55 GMT"
-    },
-    {
-      "id": "78789d32f62e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas",
-      "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "A quase duas semanas do primeiro turno da eleição presidencial, as pesquisas de intenção de voto ainda não apontam um favorito claro. A reportagem consultou cientistas políticos e mergulhou nos detalhes de quatro pesquisas divulgadas nos últimos dias para mapear 5 temas que podem ter influência importante em um eventual desempate no segundo turno.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Thu, 17 Sep 2026 20:35:01 GMT"
-    },
-    {
-      "id": "8a0bd6cd3300",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz querer vencer eleições para manter Bolsonaro na prisão",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-querer-vencer-eleicoes-para-manter-bolsonaro-na-prisao/",
-      "summary": "Presidente declara que o candidato do PL à Presidência, Flávio Bolsonaro, busca vitória nas urnas com o objetivo de tirar o pai da cadeia",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 93,
-      "publishedRaw": "Sat, 19 Sep 2026 20:38:19 +0000"
-    },
-    {
-      "id": "ffc8c5bddcdb",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml",
-      "summary": "O candidato à Presidência Flávio Bolsonaro (PL) afirmou neste sábado (19), em ato de campanha em Joinville (SC), que o presidente Lula (PT) aumentou o valor do Bolsa Família em um \"ato de desespero\" para tentar obter votos.\nLeia mais (09/19/2026 - 16h21)",
-      "tags": [
-        "Bolsonaro",
-        "família",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "19 Sep 2026 16:21:00 -0300"
     },
     {
       "id": "2173ab43f3ff",
@@ -212,7 +134,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -235,13 +156,34 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Sat, 19 Sep 2026 02:40:18 +0000"
+    },
+    {
+      "id": "8a0bd6cd3300",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz querer ganhar eleição para manter Bolsonaro na cadeia",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-querer-vencer-eleicoes-para-manter-bolsonaro-na-prisao/",
+      "summary": "Presidente declara que o candidato do PL à Presidência, Flávio Bolsonaro, busca vitória nas urnas com o objetivo de tirar o pai da cadeia",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 19 Sep 2026 20:38:19 +0000"
     },
     {
       "id": "6e31b6b5c2f9",
@@ -288,46 +230,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 20:09:47 +0000"
     },
     {
-      "id": "a17dc6904e34",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: candidatos só poderão ser presos em flagrante a partir deste sábado até 48 horas depois do primeiro turno",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/eleicoes-2026-candidatos-so-poderao-ser-presos-em-flagrante-a-partir-deste-sabado-ate-48-horas-depois-do-primeiro.ghtml",
-      "summary": "Os candidatos que disputam as Eleições de 2026 passam a contar, a partir deste sábado (19), com uma proteção legal que limita prisões e detenções: os concorrentes só poderão ser presos em caso de flagrante delito. A limitação das prisões seguirá até 48 horas depois da votação do primeiro turno, marcado para 4 de outubro.\nA garantia está prevista no artigo 236 do Código Eleitoral e começa a valer 15 dias antes da eleição. Na prática, nenhum candidato poderá ser detido ou preso entre 19 de setembro e 6 de outubro, salvo se for preso enquanto comete um crime.\nA mesma regra será aplicada no segundo turno, agendado para 25 de outubro. Os candidatos que permanecerem na disputa estarão protegidos entre os dias 10 e 27 de outubro, também com exceção dos casos de flagrante.\nA medida tem como finalidade preservar a igualdade de condições entre os concorrentes e impedir que prisões sejam utilizadas para influenciar o resultado ou prejudicar candidaturas.\nAgora no g1\nQuando a prisão é permitida\nA restrição não impede a prisão em flagrante, situação em que a pessoa é presa cometendo um crime ou logo após sua prática.\nEntre os exemplos de crimes eleitorais que podem resultar em prisão imediata estão a compra de votos e a chamada boca de urna.\nCaso um candidato seja preso em flagrante, ele deverá ser apresentado logo em seguida a um juiz, que avaliará a legalidade da detenção. \nMesmo diante de uma prisão em flagrante, o candidato não perde automaticamente o direito de disputar a eleição. \nA legislação eleitoral prevê a inelegibilidade apenas em situações específicas, como condenações por órgão colegiado ou decisões transitadas em julgado.\nEleitores também têm proteção especial\nO Código Eleitoral estabelece uma garantia semelhante para os eleitores, embora por um período menor. \nNesse caso, a vedação às prisões começa cinco dias antes da votação e termina 48 horas depois da eleição.\nPara o primeiro turno, os eleitores não poderão ser presos entre 29 de setembro e 6 de outubro. No segundo turno, a proteção valerá de 20 a 27 de outubro. A regra existe para assegurar que os cidadãos possam exercer livremente o direito ao voto. \nExceções para os eleitores\nA proteção aos eleitores não é absoluta. A prisão poderá ocorrer em três hipóteses previstas na lei:\nem caso de flagrante delito;\npor sentença criminal condenatória definitiva relacionada a crime inafiançável;\npor desrespeito a salvo-conduto expedido pela Justiça Eleitoral para proteger o exercício do voto.\nRegras para mesários e fiscais\nMesários e fiscais de partidos também contam com imunidade eleitoral, mas apenas durante o período em que estiverem atuando nas seções de votação.\nAssim como ocorre com candidatos e eleitores, a proteção não afasta a possibilidade de prisão em flagrante delito durante o exercício da função.\nUrna eletrônica eleições mulher\nTribunal Superior Eleitoral/TSE",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Sat, 19 Sep 2026 13:24:14 -0000"
-    },
-    {
-      "id": "cbe80b73abe5",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-agenda-de-daniel-vilela-de-sexta-feira-18.ghtml",
-      "summary": "Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de IA\nO candidato ao governo de Goiás Daniel Vilela (MDB) prometeu reforçar a área da segurança pública com a ampliação de câmeras de monitoramento integradas a sistemas de inteligência artificial. O emedebista desembarcou em Uruaçu no fim da manhã desta sexta-feira (18), onde foi recepcionado por lideranças políticas, autoridades locais e apoiadores.\nSegundo Daniel, a tecnologia permite que as forças policiais identifiquem com rapidez veículos roubados ou suspeitos a partir de detalhes específicos, sem depender obrigatoriamente de reconhecimento facial ou da leitura nítida de placas. \n✅ Clique e siga o canal do g1 GO no WhatsApp\nO ainda candidato ressaltou o papel econômico do norte goiano para o estado, destacando as potencialidades locais na pecuária, agricultura, turismo e na exploração mineral. \nEleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nMDB lança Daniel Vilela como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Para que a gente possa atuar o mais rápido possível, porque as câmeras que não têm inteligência artificial, você necessita obrigatoriamente da identificação facial ou da placa do carro. No nosso sistema, não. Nós podemos, com um único detalhe, poder rapidamente encontrar um criminoso ou um veículo que foi assaltado\", disse.\nAo longo do dia, Daniel Vilela deu sequência aos compromissos eleitorais e cumpriu agenda em quatro cidades do norte do estado, onde se reuniu com a população e apresentou suas propostas para o governo.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Sat, 19 Sep 2026 00:00:10 -0000"
-    },
-    {
       "id": "883308a3ecd2",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -342,7 +244,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -356,7 +257,7 @@
       "category": "Política",
       "title": "Lula e Flávio fazem comícios simultâneos em SC, reduto do bolsonarismo",
       "link": "https://g1.globo.com/politica/noticia/2026/09/19/lula-flavio-comicios-sc-reduto-do-bolsonarismo.ghtml",
-      "summary": "Lula (PT) e Flávio Bolsonaro (PL) fizeram comícios simultâneos em Santa Catarina neste sábado (19)\nReprodução/TV Globo\nOs candidatos à Presidência Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) fizeram campanha em Santa Catarina neste sábado (19). \nO estado é um reduto bolsonarista: em 2022, o então candidato à reeleição Jair Bolsonaro (PL) obteve por lá 69% dos votos no segundo turno.\nNa última pesquisa Quaest para presidente em Santa Catarina, divulgada em 24 de agosto, Flávio Bolsonaro tinha 45% das intenções de voto e Lula, 20%. Foram ouvidas 804 pessoas de 16 anos ou mais entre os dias 20 e 23 de agosto. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. \nJá no cenário nacional, segundo a pesquisa Datafolha divulgada na quinta-feira (17), Lula tem 39% das intenções de voto no primeiro turno, e Flávio Bolsonaro, 36%. Os dois estão tecnicamente empatados, dentro da margem de erro de 2 pontos percentuais.\nAgora no g1\nLula promete acabar com as bets\nO atual presidente participou de um comício em Florianópolis, seu primeiro ato de campanha no estado neste ano.\nEm discurso, Lula criticou a carta em que times de futebol pedem que as apostas continuem autorizadas no país e se posicionou contra as bets, dizendo considerar um dos motivos para o endividamento da população. \n\"Tomei uma decisão. Se depender da minha vontade, vou conversar com meu pessoal [do Ministério da] Fazenda, meu pessoal do BC [Banco Central], mas a verdade é que eu quero acabar com as bets\", disse. \n➡️ Alguns dos principais clubes brasileiros defenderam o mercado regulado de apostas no país em um manifesto publicado nas redes sociais na quinta-feira. O texto diz que, se as bets forem proibidas, \"o futebol é que acaba\".\nLula também criticou Flávio Bolsonaro, ainda que sem citar diretamente o candidato. \"A ideia do outro [Flávio Bolsonaro]: 'Eu quero ganhar as eleições para tirar meu pai da cadeia'. E eu quero ganhar para manter ele na cadeia\", disse.\nTambém participaram do comício os candidatos da chapa petista: Gelson Merisio (PSB), ao governo, e Afrânio Boppré (PSOL) e Décio Lima (PT), ao Senado.\nFlávio acusa Lula de tentar comprar voto\nJá o senador Flávio Bolsonaro participou, pela manhã, de um comício em Joinville, no norte de Santa Catarina. \nO candidato afirmou que Lula tentou comprar o voto dos mais pobres ao assinar o decreto que reajustou o Bolsa Família em 15%. \n\"Ele [Lula] foi e tentou comprar o voto dos mais pobres, dando R$ 90 de reajuste para o Bolsa Família. Que vergonha, Lula, que vergonha. O Bolsonaro triplicou, deu mais R$ 420 do que era a média do Bolsa Família; você deu R$ 90\", afirmou.\n➡️ O reajuste foi anunciado na quinta-feira (17) e eleva o piso do programa de R$ 600 para R$ 691. Segundo o Ministério do Planejamento, o custo neste ano será de R$ 5,8 bilhões; para 2027, o impacto nas despesas será de R$ 22,7 bilhões.\nFlávio também prometeu levar a questão do licenciamento ambiental para a Presidência, ao dizer que uma \"burocracia danada\" trava empreendimentos no Brasil.\nParticiparam do evento dois irmãos de Flávio: Carlos Bolsonaro (PL), candidato ao Senado, e Jair Renan (PL), que disputa uma vaga de deputado federal. Completam a chapa do PL no estado Jorginho Mello (PL), candidato ao governo, e Caroline de Toni (PL), também ao Senado.\nNa última pesquisa Quaest com as intenções de voto em Santa Catarina, em 24 de agosto, Jorginho Mello (PL) tinha 50%; João Rodrigues (PSD), 17%; e Gelson Merísio (PSB), 4%. \nA pesquisa ouviu 804 pessoas de 16 anos ou mais entre os dias 20 e 23 de agosto. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no TSE sob o número SC-00517/2026 e BR-07160/2026.\nGuia do Eleitor: Quais documentos posso usar para votar?",
+      "summary": "Lula (PT) e Flávio Bolsonaro (PL) fizeram comícios simultâneos em Santa Catarina neste sábado (19)\nReprodução/TV Globo\nLula (PT) e Flávio Bolsonaro (PL), candidatos à Presidência, fizeram campanha em Santa Catarina neste sábado (19). \nO estado é um reduto bolsonarista: em 2022, o então candidato à reeleição Jair Bolsonaro (PL) obteve por lá 69% dos votos no 2º turno contra Lula.\nNa última pesquisa Quaest para presidente em Santa Catarina, divulgada em 24 de agosto, Flávio Bolsonaro tinha 45% das intenções de voto e Lula, 20%. Foram ouvidas 804 pessoas de 16 anos ou mais entre os dias 20 e 23 de agosto. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. \nJá no cenário nacional, segundo a pesquisa Datafolha divulgada na quinta-feira (17), Lula tem 39% das intenções de voto no 1º turno, e Flávio Bolsonaro, 36%. Os dois estão tecnicamente empatados, dentro do intervalo da margem de erro de 2 pontos percentuais.\nAgora no g1\nLula critica Flávio e promete acabar com as bets\nLula fez um comício em Florianópolis, seu primeiro ato de campanha no estado neste ano. Em discurso, criticou a carta em que times de futebol pedem que as apostas continuem autorizadas no país e se posicionou contra as bets, dizendo considerar um dos motivos para o endividamento da população. \n\"Tomei uma decisão. Se depender da minha vontade, vou conversar com meu pessoal [do Ministério da] Fazenda, meu pessoal do BC [Banco Central], mas a verdade é que eu quero acabar com as bets\", disse. \n➡️ Alguns dos principais clubes brasileiros defenderam o mercado regulado de apostas no país em um manifesto publicado nas redes sociais na quinta-feira. O texto diz que, se as bets forem proibidas, \"o futebol é que acaba\".\nLula também criticou Flávio Bolsonaro, ainda que sem citá-lo diretamente. O presidente afirmou que o adversário quer vencer a eleição para tirar o pai da cadeia. \"A ideia do outro [Flávio Bolsonaro]: 'Eu quero ganhar as eleições para tirar meu pai da cadeia'. E eu quero ganhar para manter ele na cadeia\", afirmou.\nParticiparam do comício os candidatos da chapa petista no estado: Gelson Merisio (PSB), que tenta o cargo de governador, e Afrânio Boppré (PSOL) e Décio Lima (PT), que concorrem ao Senado.\nFlávio acusa Lula de tentar comprar voto\nJá o senador Flávio Bolsonaro participou, pela manhã, de um comício em Joinville, no norte de Santa Catarina. \nO candidato afirmou que Lula tentou comprar o voto dos mais pobres ao assinar o decreto que reajustou o Bolsa Família em 15%. \n\"Ele [Lula] foi e tentou comprar o voto dos mais pobres, dando R$ 90 de reajuste para o Bolsa Família. Que vergonha, Lula, que vergonha. O Bolsonaro triplicou, deu mais R$ 420 do que era a média do Bolsa Família; você deu R$ 90\", afirmou.\n➡️ O reajuste foi anunciado na quinta-feira (17) e eleva o piso do programa de R$ 600 para R$ 691. Segundo o Ministério do Planejamento, o custo neste ano será de R$ 5,8 bilhões; para 2027, o impacto nas despesas será de R$ 22,7 bilhões.\nFlávio também prometeu levar a questão do licenciamento ambiental para a Presidência, ao dizer que uma \"burocracia danada\" trava empreendimentos no Brasil.\nParticiparam do evento dois irmãos de Flávio: Carlos Bolsonaro (PL), candidato ao Senado, e Jair Renan (PL), que disputa uma vaga de deputado federal. Completam a chapa do PL no estado Jorginho Mello (PL), candidato ao governo, e Caroline de Toni (PL), também ao Senado.\nNa última pesquisa Quaest com as intenções de voto em Santa Catarina, em 24 de agosto, Jorginho Mello (PL) tinha 50%; João Rodrigues (PSD), 17%; e Gelson Merísio (PSB), 4%. \nA pesquisa ouviu 804 pessoas de 16 anos ou mais entre os dias 20 e 23 de agosto. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no TSE sob o número SC-00517/2026 e BR-07160/2026.\nGuia do Eleitor: Quais documentos posso usar para votar?",
       "tags": [
         "Lula"
       ],
@@ -364,7 +265,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -386,7 +286,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -394,48 +293,46 @@
       "publishedRaw": "Sat, 19 Sep 2026 17:16:31 -0000"
     },
     {
-      "id": "b83d0784a859",
-      "source": "Folha de São Paulo",
+      "id": "2dbb8c407503",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mendonça diz que gabinete não conseguiu acessar conteúdo de celular de Vorcaro e pede ajuda à PF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-diz-que-gabinete-nao-conseguiu-acessar-conteudo-de-celular-de-vorcaro-e-pede-ajuda-a-pf.shtml",
-      "summary": "O ministro do STF (Supremo Tribunal Federal), André Mendonça, afirmou ao diretor-geral da PF (Polícia Federal), Andrei Rodrigues, que não conseguiu ter acesso efetivo ao material de um dos celulares de Daniel Vorcaro, ex-dono do Banco Master, apreendidos na ocasião da primeira prisão do ex-banqueiro, em 18 de novembro de 2025.\nLeia mais (09/19/2026 - 16h29)",
+      "title": "Análise: Pesquisas ligam alerta e Lula antecipa pacote eleitoral",
+      "link": "https://www.cnnbrasil.com.br/politica/pesquisas-ligam-alerta-e-lula-antecipa-pacote-eleitoral/",
+      "summary": "Âncora da CNN Débora Bergamasco comenta \"pacote de bondades\" do governo que pode injetar R$ 270 bilhões na economia; aumento do Bolsa Família é destaque",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 19 Sep 2026 20:55:09 +0000"
+    },
+    {
+      "id": "46b60b6ff760",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça e Fux afirmam à PF que não conseguiram acessar celular de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mendonca-e-fux-afirmam-a-pf-que-nao-conseguiram-acessar-celular-de-vorcaro/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "19 Sep 2026 16:29:00 -0300"
-    },
-    {
-      "id": "f6bcbce9f902",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça e Fux dizem à PF que ainda não acessaram celular de Vorcaro",
-      "link": "https://www.cnnbrasil.com.br/politica/mendonca-e-fux-dizem-a-pf-que-ainda-nao-acessaram-celular-de-vorcaro/",
-      "summary": "Ministros do STF afirmam que seus gabinetes não estão conseguindo ver as informações do aparelho e questionaram a corporação se o motivo é técnico ou de algum defeito físico nos materiais enviados pelos investigadores",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 19:50:06 +0000"
+      "publishedRaw": "Sat, 19 Sep 2026 20:28:57 +0000"
     },
     {
       "id": "4614932e83b6",
@@ -451,7 +348,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -473,7 +369,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -495,7 +390,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -518,7 +412,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -597,32 +490,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 17:12:20 +0000"
-    },
-    {
-      "id": "c9183f38fa57",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça prepara defesa no STF contra ‘ilegalidades’ de denúncia de Moraes e adotará tom moderado",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/mendonca-prepara-defesa-no-stf-contra-ilegalidades-de-denuncia-de-moraes-e-adotara-tom-moderado/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "d5eb2b30be8a",
@@ -659,7 +532,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -667,42 +539,42 @@
       "publishedRaw": "Sat, 19 Sep 2026 19:45:04 +0000"
     },
     {
-      "id": "d46bbf87bec5",
+      "id": "a17dc6904e34",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Pressão de Trump sobre Brasil é parte de plano para interferir em eleições da América Latina, diz professor",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/19/pressao-de-trump-sobre-brasil-e-parte-de-plano-para-interferir-em-eleicoes-da-america-latina-diz-professor.ghtml",
-      "summary": "O governo de Donald Trump tem ampliado a pressão sobre processos políticos e eleitorais de outros países, e o caso brasileiro faz parte dessa estratégia. A avaliação é do professor de Relações Internacionais da FGV e pesquisador do Carnegie Endowment Oliver Stuenkel, em entrevista ao podcast \"O Assunto\".\nA análise ocorre na discussão sobre a lista de 52 exigências enviada pelos Estados Unidos ao Brasil nas negociações para tentar reverter o tarifaço. Entre os itens estava a garantia de que \"dissidentes políticos\" pudessem disputar as eleições de 2026. \nA informação foi revelada pelo jornal \"O Estado de S. Paulo\" e confirmada pela GloboNews com fontes da diplomacia nesta quinta-feira (17). O governo brasileiro rejeitou essa e outras propostas e afirmou que questões políticas, judiciais e de soberania não estariam na mesa de negociação.\nPara Stuenkel, o documento mostra que a política tarifária americana foi usada com objetivos que vão além do comércio. \n\"O governo Trump utiliza tarifas para atingir metas em áreas não relacionadas ao comércio, utiliza tarifas como ferramenta política\", disse. Segundo ele, o texto enviado ao Brasil \"explicita claramente o desejo por parte dos Estados Unidos de interferir em assuntos internos\".\nTrump pediu que Brasil permitisse 'dissidentes políticos' a concorrer em 2026\nO professor avalia que o episódio não é isolado. \"O que estamos vendo no caso brasileiro faz parte de um projeto que se aplica a toda a América Latina\", afirmou. O que chama atenção, na avaliação dele, é o quanto essas ameaças são explícitas, algo pouco comum nesse tipo de relação.\nStuenkel cita dois casos de pressão americana sobre disputas eleitorais na região. Na Argentina, Trump manifestou preferência por um dos lados durante a eleição legislativa do ano passado e afirmou que a ajuda dos Estados Unidos ao país poderia não durar tanto tempo caso o grupo político adversário de Milei vencesse. \nO professor disse ter estado no país naquele momento e avaliou que o apoio americano provavelmente teve algum impacto para melhorar o resultado do atual presidente argentino, num cenário em que a moeda local estava fragilizada.\nO segundo caso é Honduras. Segundo o professor, Trump ameaçou uma grave crise na relação bilateral caso seu candidato preferido, Nasry Asfura, não fosse eleito. Por se tratar de um país bastante dependente dos Estados Unidos, ele avalia que a declaração também pode ter tido efeito sobre o eleitorado.\nFoto de arquivo: Trump mostra tabela do tarifaço em 2 de abril de 2025\nReuters/Carlos Barria/File Photo\nStuenkel afirma que a pressão americana não se restringe a períodos eleitorais e atinge decisões internas de outros países. Ele mencionou o Peru, pressionado a excluir atores chineses do controle de um porto estratégico, e o Panamá, pressionado a expulsar empresas chinesas que operam portos no canal. \"Da mesma forma, pressionam o Brasil a fazer certas mudanças na política interna\", disse.\nO professor acrescenta que essa movimentação é feita com a expectativa de que nem tudo funcione. \"Existe uma percepção aqui em Washington de que o governo Trump tenta algumas coisas e vê o que cola\", afirmou o pesquisador, que está na capital americana. \nSegundo ele, há também a percepção de que o Brasil, por ser um país maior, não necessariamente aceitará todas as demandas, mesmo sendo ameaçado.\nFora da América Latina, Stuenkel citou Alemanha, Austrália e Canadá. No caso alemão, o vice-presidente J.D. Vance esteve no país pouco antes das eleições e deixou clara a preferência do governo americano pelo AfD, partido de extrema direita.\nNa Austrália e no Canadá, avalia o professor, a pressão surtiu efeito contrário, e os candidatos alinhados a Trump foram prejudicados eleitoralmente. Segundo ele, os eleitores desses países se sentiram ameaçados e passaram a ver a integridade e a soberania nacionais sob risco.\nEsse tipo de atuação pública tem sido, para Stuenkel, a estratégia dominante do governo americano até aqui. Ele fez a ressalva de que isso vale \"por enquanto\" e que não há garantia de que outras estratégias não venham a ser usadas no futuro.",
+      "title": "Eleições 2026: candidatos só poderão ser presos em flagrante a partir deste sábado até 48 horas depois do primeiro turno",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/eleicoes-2026-candidatos-so-poderao-ser-presos-em-flagrante-a-partir-deste-sabado-ate-48-horas-depois-do-primeiro.ghtml",
+      "summary": "Os candidatos que disputam as Eleições de 2026 passam a contar, a partir deste sábado (19), com uma proteção legal que limita prisões e detenções: os concorrentes só poderão ser presos em caso de flagrante delito. A limitação das prisões seguirá até 48 horas depois da votação do primeiro turno, marcado para 4 de outubro.\nA garantia está prevista no artigo 236 do Código Eleitoral e começa a valer 15 dias antes da eleição. Na prática, nenhum candidato poderá ser detido ou preso entre 19 de setembro e 6 de outubro, salvo se for preso enquanto comete um crime.\nA mesma regra será aplicada no segundo turno, agendado para 25 de outubro. Os candidatos que permanecerem na disputa estarão protegidos entre os dias 10 e 27 de outubro, também com exceção dos casos de flagrante.\nA medida tem como finalidade preservar a igualdade de condições entre os concorrentes e impedir que prisões sejam utilizadas para influenciar o resultado ou prejudicar candidaturas.\nAgora no g1\nQuando a prisão é permitida\nA restrição não impede a prisão em flagrante, situação em que a pessoa é presa cometendo um crime ou logo após sua prática.\nEntre os exemplos de crimes eleitorais que podem resultar em prisão imediata estão a compra de votos e a chamada boca de urna.\nCaso um candidato seja preso em flagrante, ele deverá ser apresentado logo em seguida a um juiz, que avaliará a legalidade da detenção. \nMesmo diante de uma prisão em flagrante, o candidato não perde automaticamente o direito de disputar a eleição. \nA legislação eleitoral prevê a inelegibilidade apenas em situações específicas, como condenações por órgão colegiado ou decisões transitadas em julgado.\nEleitores também têm proteção especial\nO Código Eleitoral estabelece uma garantia semelhante para os eleitores, embora por um período menor. \nNesse caso, a vedação às prisões começa cinco dias antes da votação e termina 48 horas depois da eleição.\nPara o primeiro turno, os eleitores não poderão ser presos entre 29 de setembro e 6 de outubro. No segundo turno, a proteção valerá de 20 a 27 de outubro. A regra existe para assegurar que os cidadãos possam exercer livremente o direito ao voto. \nExceções para os eleitores\nA proteção aos eleitores não é absoluta. A prisão poderá ocorrer em três hipóteses previstas na lei:\nem caso de flagrante delito;\npor sentença criminal condenatória definitiva relacionada a crime inafiançável;\npor desrespeito a salvo-conduto expedido pela Justiça Eleitoral para proteger o exercício do voto.\nRegras para mesários e fiscais\nMesários e fiscais de partidos também contam com imunidade eleitoral, mas apenas durante o período em que estiverem atuando nas seções de votação.\nAssim como ocorre com candidatos e eleitores, a proteção não afasta a possibilidade de prisão em flagrante delito durante o exercício da função.\nUrna eletrônica eleições mulher\nTribunal Superior Eleitoral/TSE",
       "tags": [
-        "eleições"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 82,
-      "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
+      "publishedRaw": "Sat, 19 Sep 2026 13:24:14 -0000"
     },
     {
-      "id": "3875abb693a3",
+      "id": "cbe80b73abe5",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Às vésperas das eleições, ONU propõe a candidatos ações para combater desigualdades de gênero",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/19/as-vesperas-das-eleicoes-onu-propoe-a-candidatos-acoes-para-combater-desigualdades-de-genero.ghtml",
-      "summary": "Às vésperas do primeiro turno das eleições, a ONU Mulheres, braço da Organização das Nações Unidas, publicou um documento com propostas para candidatas, candidatos, partidos políticos, instituições públicas e toda a sociedade.\nAs medidas buscam reduzir a violência e as desigualdades de gênero e incluem temas como participação política, violência contra as mulheres, trabalho, cuidado e crise climática.\nSegundo a entidade, o documento busca ampliar o debate público e apresentar caminhos para transformar direitos reconhecidos em políticas públicas.\nO g1 ouviu especialistas para entender quais são, hoje, os principais obstáculos para que essas pautas avancem, de fato, na política brasileira e sejam transformadas em políticas públicas.\nAgora no g1\nPara o cientista político Elias Tavares, o principal desafio é garantir que as propostas não sejam lembradas apenas durante as eleições, mas tenham orçamento, metas e continuidade.\n“Afinal, uma proposta só se transforma em política pública quando sai do discurso, entra no planejamento do governo e chega efetivamente à vida das pessoas”, diz Elias.\nO cientista político Samuel Oliveira afirma que um dos obstáculos é evitar que essas pautas percam prioridade quando chega o momento de definir os recursos e executar as políticas públicas.\n“Prevenir feminicídio, ampliar creches, estruturar redes de cuidado ou mudar padrões dentro de partidos exige gasto permanente e produz resultado ao longo dos anos. O desafio é menos convencer que o problema existe e mais impedir que a pauta seja a primeira a ser relativizada quando chega à fase de execução.”\nEm carta, Gallianne Palayret, representante da ONU Mulheres no Brasil, afirmou que as propostas são \"caminhos objetivos para que a democracia brasileira represente, de fato, a maioria da sua população\".\nVeja abaixo as propostas: \nParidade de gênero\nNo Brasil, de 52,8% do eleitorado feminino, apenas 17,2% das mulheres estão na Câmara dos Deputados e 18,5% no Senado\nDas 91 deputadas eleitas em 2022, 29 são negras, o que equivale a menos de 6% da Câmara. \nPara reduzir as desigualdades e ampliar a participação feminina em cargos eletivos, lideranças do Legislativo e na direção dos partidos, a ONU propõe a definição de prazos e metas numéricas, além da publicação dos resultados para que a sociedade acompanhe de perto.\nCotas eleitorais\nPara que as cotas eleitorais passem a funcionar de forma efetiva, a ONU propõe fiscalização e que o dinheiro de campanha chegue às candidatas na hora certa e em partes justas, especialmente às mulheres negras.\nA entidade também aponta a necessidade de cobrar transparência dos partidos, responsabilizar quem descumpre as regras e abrir espaço para as mulheres na direção partidária.\nEntre 2010 e 2022, a proporção de candidaturas de mulheres nas eleições gerais aumentou, mas elas ainda são menos de 20% das eleitas no legislativo federal.\nCombate à violência política contra mulher\nTodas as mulheres que atuam na participação política e social são afetadas pela violência de gênero e raça. Mulheres negras, indígenas e outras mulheres sujeitas a múltiplas formas de discriminação enfrentam riscos ainda maiores de violência, inclusive nos ambientes digitais.\nA ONU afirma que a lei de combate à violência política contra a mulher precisa valer na prática. Além disso, fortalecer canais de denúncia acessíveis, oferecer proteção para quem denuncia e garantir resposta coordenada entre as instituições também integram a terceira proposta.\n🔎 A Lei de Combate à Violência Política contra a Mulher estabelece normas para prevenir, reprimir e combater a violência política contra a mulher nos espaços e atividades relacionados ao exercício de seus direitos políticos e de suas funções públicas, além de assegurar a participação de mulheres em debates eleitorais.\nMetas para evitar violência\nNo mundo, 1 em cada 3 mulheres sofre violência ao longo da vida\nCerca de 50 mil mulheres e meninas foram mortas por parceiros íntimos ou familiares em 2024, uma a cada dez minutos\nNo Brasil, 1.571 mulheres foram vítimas de feminicídio em 2025, 65,1% delas negras e 62,5% mortas dentro da própria casa.\nA ONU propõe serviços especializados em todo o país, medidas protetivas cada vez mais eficazes, investigação e respostas rápidas. Além disso, defende a participação de organizações de mulheres e movimentos feministas na construção e no acompanhamento das políticas.\nMachismo\n84,4% da população brasileira apresenta pelo menos um preconceito contra as mulheres, segundo o Índice de Normas Sociais de Gênero (GSNI 2023), do PNUD\nDessas, 39,9% com preconceitos relacionados à participação política e 31,1% relacionados à participação econômica.\nA quinta proposta inclui tratar o machismo como problema público, criar uma estratégia para mudar as normas que naturalizam a violência e limitam os direitos das mulheres, educar para a igualdade desde a infância, responsabilizar agentes públicos e empresas que reproduzem estereótipos e financiar as organizações de mulheres que lideram, acompanham e avaliam essa mudança.\nPlano Nacional de Cuidados\nNo Brasil, as mulheres dedicam 21,3 horas por semana a afazeres domésticos e cuidado de pessoas; os homens, 11,7 horas\nMulheres pretas e pardas dedicam 1,6 hora acima da média das mulheres brancas. \nNa sexta proposta, a ONU aponta a necessidade de colocar em prática o Plano Nacional de Cuidados, ampliar creches e serviços de cuidado e garantir formação, contrato formal, salário digno e proteção social às trabalhadoras do cuidado.\nSalário igual, trabalho formal e proteção social\nNo Brasil, as mulheres ainda recebem cerca de 21% menos que os homens nas empresas com mais de 100 funcionários\nEm 2024, 45,6% das mulheres negras ocupadas estavam na informalidade, ante 33,8% dos homens brancos\nA ONU propõe garantir às mulheres salário igual, trabalho formal e proteção social, com políticas que andem juntas. Qualificação, cuidado, transporte e inclusão digital precisam de uma abordagem integrada. A entidade também defende abrir acesso a empregos verdes, crédito, assistência técnica, mercados e compras públicas.\nFinanciamento climático\nAté 2050, a crise climática pode levar 158 milhões de mulheres e meninas à pobreza extrema, 16 milhões a mais do que homens e meninos. \n58 milhões de mulheres vivem em áreas rurais na América Latina, mas só 30% têm terra em seu nome. \nNa oitava proposta, a ONU reforça a importância de fazer o financiamento climático chegar a quem protege o território. Entre as medidas estão critérios de gênero e raça nos fundos que já existem, regras mais simples para que organizações comunitárias consigam acessá-los e fundos dedicados que repassem recursos diretamente às iniciativas lideradas por mulheres.\nParticipação nas decisões sobre mudanças climáticas \nNa COP30, em Belém, as mulheres foram 44% das delegações nacionais, mas 36% de quem as chefiava.\nNos ministérios de meio ambiente da América Latina, as mulheres ocupam 7% dos cargos de direção, o pior índice do mundo. \nA proposta é garantir a participação paritária e efetiva de mulheres, especialmente indígenas, negras, quilombolas e de povos e comunidades tradicionais, em órgãos de governança climática e na formulação e implementação de políticas. Além disso, a ONU defende metas de representação, mecanismos formais de consulta e apoio à formação de lideranças.\nPolítica climática que considere gênero e raça\nA ONU Mulheres identificou ao analisar os planos climáticos de 32 países que apenas 26 mencionam igualdade de gênero, mas só 10 a levam a todas as áreas da política, e quase nenhum reserva orçamento para isso. \nA proposta é garantir que toda política climática questione a quem ela alcança e quem ela deixa de fora. Isso significa considerar gênero e raça como critérios obrigatórios, além de estabelecer orçamento, metas e dados que mostrem o efeito real sobre mulheres e pessoas negras. Também são necessárias avaliações de impacto que permitam corrigir o rumo quando o resultado for desigual.",
+      "title": "Eleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/18/eleicoes-2026-agenda-de-daniel-vilela-de-sexta-feira-18.ghtml",
+      "summary": "Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de IA\nO candidato ao governo de Goiás Daniel Vilela (MDB) prometeu reforçar a área da segurança pública com a ampliação de câmeras de monitoramento integradas a sistemas de inteligência artificial. O emedebista desembarcou em Uruaçu no fim da manhã desta sexta-feira (18), onde foi recepcionado por lideranças políticas, autoridades locais e apoiadores.\nSegundo Daniel, a tecnologia permite que as forças policiais identifiquem com rapidez veículos roubados ou suspeitos a partir de detalhes específicos, sem depender obrigatoriamente de reconhecimento facial ou da leitura nítida de placas. \n✅ Clique e siga o canal do g1 GO no WhatsApp\nO ainda candidato ressaltou o papel econômico do norte goiano para o estado, destacando as potencialidades locais na pecuária, agricultura, turismo e na exploração mineral. \nEleições 2026: Daniel Vilela promete aumento no número de câmeras de monitoramento com uso de Inteligência Artificial\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nMDB lança Daniel Vilela como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"Para que a gente possa atuar o mais rápido possível, porque as câmeras que não têm inteligência artificial, você necessita obrigatoriamente da identificação facial ou da placa do carro. No nosso sistema, não. Nós podemos, com um único detalhe, poder rapidamente encontrar um criminoso ou um veículo que foi assaltado\", disse.\nAo longo do dia, Daniel Vilela deu sequência aos compromissos eleitorais e cumpriu agenda em quatro cidades do norte do estado, onde se reuniu com a população e apresentou suas propostas para o governo.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
       "tags": [
-        "eleições"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 82,
-      "publishedRaw": "Sat, 19 Sep 2026 03:00:00 -0000"
+      "publishedRaw": "Sat, 19 Sep 2026 00:00:10 -0000"
     },
     {
       "id": "9f0e22614054",
@@ -719,50 +591,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
-    },
-    {
-      "id": "9c6396967495",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições legislativas da Rússia são alvo de ataque hacker",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/19/eleicoes-legislativas-da-russia-sao-alvo-de-ataque-hacker.ghtml",
-      "summary": "Rússia realiza eleições marcadas pela guerra\nAs eleições legislativas da Rússia foram alvo de uma invasão hacker, informou a mídia estatal do país neste sábado (19).\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nSegundo o chefe da Comissão Eleitoral Central, Ella Pamfilova, o sistema de votação online de Moscou, a capital russa, foi alvo de um forte ataque durante a noite, mas a situação foi controlada.\nAinda de acordo com o representante do governo, os ataques continuam, mas todos estão sendo repelidos com sucesso.\nEm comunicado, o Ministério Digital da Rússia disse que também houve uma tentativa de sabotar as linhas de comunicação no extremo leste do país para interromper a realização das eleições.\nEstas são as primeiras eleições da Rússia desde o começo da guerra com a Ucrânia, em fevereiro de 2022. Os russos começaram a votar nesta sexta-feira (18) e a votação durará três dias .\nUcraniana vota em eleições parlamentares russas próxima a soldado russo armado com fuzil na Donetsk ocupada, na Ucrânia, em 18 de setembro de 2026.\nREUTERS/Alexander Ermochenko\ns\nAlém dos russos, ucranianos que vivem em regiões ocupadas pelas tropas do país vizinho também tiveram que ir às urnas. Imagens mostram zonas eleitorais sob a vigia de militares armados com fuzis (veja acima).\nO primeiro dia de votação começou com o lançamento de 350 drones ucranianos contra a região de Moscou, anunciou o prefeito da capital russa, mas a maioria foi interceptada e destruída.\nSaiba mais sobre as eleições\nA eleição vai renovar as 450 cadeiras da Duma, a câmara baixa do Parlamento russo, e durará até domingo (20), às 15h no horário de Brasília —21h no fuso local. Os resultados devem começar a sair logo depois.\nAs eleições servirão para o Kremlin medir o nível de apoio popular a uma guerra cujas consequências foram sentidas com mais força do que nunca neste ano.\nPutin governa o país desde a véspera do Ano Novo de 1999 e seu partido, Rússia Unida, domina a política do país desde o início dos anos 2000.\nPoucos na Rússia duvidam da vitória do partido de Putin, que votou eletronicamente nesta sexta-feira, segundo imagens da televisão pública do país.\nO partido Rússia Unida enfrenta apenas legendas que apoiam a maioria das políticas de Putin e a guerra na Ucrânia: o Partido Comunista, o nacionalista LDPR, Rússia Justa e o liberal Gente Nova.\nO partido Yabloko, que pede o fim da guerra, foi excluído da disputa pouco antes da votação. Um de seus principais dirigentes, Lev Shlosberg, foi preso por criticar o conflito.\nEm um breve discurso exibido na televisão na noite de quarta-feira, Putin conclamou os cidadãos a votar para mostrar às tropas que \"por trás de nossos combatentes há milhões de pessoas\" e para dar uma \"resposta conjunta àqueles que querem enfraquecer a Rússia\".\nAgora no g1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Sat, 19 Sep 2026 09:20:18 -0000"
-    },
-    {
-      "id": "d46bbf87bec5",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Pressão de Trump sobre Brasil é parte de plano para interferir em eleições da América Latina, diz professor",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/19/pressao-de-trump-sobre-brasil-e-parte-de-plano-para-interferir-em-eleicoes-da-america-latina-diz-professor.ghtml",
-      "summary": "O governo de Donald Trump tem ampliado a pressão sobre processos políticos e eleitorais de outros países, e o caso brasileiro faz parte dessa estratégia. A avaliação é do professor de Relações Internacionais da FGV e pesquisador do Carnegie Endowment Oliver Stuenkel, em entrevista ao podcast \"O Assunto\".\nA análise ocorre na discussão sobre a lista de 52 exigências enviada pelos Estados Unidos ao Brasil nas negociações para tentar reverter o tarifaço. Entre os itens estava a garantia de que \"dissidentes políticos\" pudessem disputar as eleições de 2026. \nA informação foi revelada pelo jornal \"O Estado de S. Paulo\" e confirmada pela GloboNews com fontes da diplomacia nesta quinta-feira (17). O governo brasileiro rejeitou essa e outras propostas e afirmou que questões políticas, judiciais e de soberania não estariam na mesa de negociação.\nPara Stuenkel, o documento mostra que a política tarifária americana foi usada com objetivos que vão além do comércio. \n\"O governo Trump utiliza tarifas para atingir metas em áreas não relacionadas ao comércio, utiliza tarifas como ferramenta política\", disse. Segundo ele, o texto enviado ao Brasil \"explicita claramente o desejo por parte dos Estados Unidos de interferir em assuntos internos\".\nTrump pediu que Brasil permitisse 'dissidentes políticos' a concorrer em 2026\nO professor avalia que o episódio não é isolado. \"O que estamos vendo no caso brasileiro faz parte de um projeto que se aplica a toda a América Latina\", afirmou. O que chama atenção, na avaliação dele, é o quanto essas ameaças são explícitas, algo pouco comum nesse tipo de relação.\nStuenkel cita dois casos de pressão americana sobre disputas eleitorais na região. Na Argentina, Trump manifestou preferência por um dos lados durante a eleição legislativa do ano passado e afirmou que a ajuda dos Estados Unidos ao país poderia não durar tanto tempo caso o grupo político adversário de Milei vencesse. \nO professor disse ter estado no país naquele momento e avaliou que o apoio americano provavelmente teve algum impacto para melhorar o resultado do atual presidente argentino, num cenário em que a moeda local estava fragilizada.\nO segundo caso é Honduras. Segundo o professor, Trump ameaçou uma grave crise na relação bilateral caso seu candidato preferido, Nasry Asfura, não fosse eleito. Por se tratar de um país bastante dependente dos Estados Unidos, ele avalia que a declaração também pode ter tido efeito sobre o eleitorado.\nFoto de arquivo: Trump mostra tabela do tarifaço em 2 de abril de 2025\nReuters/Carlos Barria/File Photo\nStuenkel afirma que a pressão americana não se restringe a períodos eleitorais e atinge decisões internas de outros países. Ele mencionou o Peru, pressionado a excluir atores chineses do controle de um porto estratégico, e o Panamá, pressionado a expulsar empresas chinesas que operam portos no canal. \"Da mesma forma, pressionam o Brasil a fazer certas mudanças na política interna\", disse.\nO professor acrescenta que essa movimentação é feita com a expectativa de que nem tudo funcione. \"Existe uma percepção aqui em Washington de que o governo Trump tenta algumas coisas e vê o que cola\", afirmou o pesquisador, que está na capital americana. \nSegundo ele, há também a percepção de que o Brasil, por ser um país maior, não necessariamente aceitará todas as demandas, mesmo sendo ameaçado.\nFora da América Latina, Stuenkel citou Alemanha, Austrália e Canadá. No caso alemão, o vice-presidente J.D. Vance esteve no país pouco antes das eleições e deixou clara a preferência do governo americano pelo AfD, partido de extrema direita.\nNa Austrália e no Canadá, avalia o professor, a pressão surtiu efeito contrário, e os candidatos alinhados a Trump foram prejudicados eleitoralmente. Segundo ele, os eleitores desses países se sentiram ameaçados e passaram a ver a integridade e a soberania nacionais sob risco.\nEsse tipo de atuação pública tem sido, para Stuenkel, a estratégia dominante do governo americano até aqui. Ele fez a ressalva de que isso vale \"por enquanto\" e que não há garantia de que outras estratégias não venham a ser usadas no futuro.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
     },
     {
       "id": "3f080af3d67f",
@@ -785,25 +618,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 00:18:06 +0000"
     },
     {
-      "id": "6d31b867be1d",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
-      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
-    },
-    {
       "id": "35bb3a8aeed2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -818,13 +632,84 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 80,
       "publishedRaw": "Sat, 19 Sep 2026 09:27:59 GMT"
+    },
+    {
+      "id": "d46bbf87bec5",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pressão de Trump sobre Brasil é parte de plano para interferir em eleições da América Latina, diz professor",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/19/pressao-de-trump-sobre-brasil-e-parte-de-plano-para-interferir-em-eleicoes-da-america-latina-diz-professor.ghtml",
+      "summary": "O governo de Donald Trump tem ampliado a pressão sobre processos políticos e eleitorais de outros países, e o caso brasileiro faz parte dessa estratégia. A avaliação é do professor de Relações Internacionais da FGV e pesquisador do Carnegie Endowment Oliver Stuenkel, em entrevista ao podcast \"O Assunto\".\nA análise ocorre na discussão sobre a lista de 52 exigências enviada pelos Estados Unidos ao Brasil nas negociações para tentar reverter o tarifaço. Entre os itens estava a garantia de que \"dissidentes políticos\" pudessem disputar as eleições de 2026. \nA informação foi revelada pelo jornal \"O Estado de S. Paulo\" e confirmada pela GloboNews com fontes da diplomacia nesta quinta-feira (17). O governo brasileiro rejeitou essa e outras propostas e afirmou que questões políticas, judiciais e de soberania não estariam na mesa de negociação.\nPara Stuenkel, o documento mostra que a política tarifária americana foi usada com objetivos que vão além do comércio. \n\"O governo Trump utiliza tarifas para atingir metas em áreas não relacionadas ao comércio, utiliza tarifas como ferramenta política\", disse. Segundo ele, o texto enviado ao Brasil \"explicita claramente o desejo por parte dos Estados Unidos de interferir em assuntos internos\".\nTrump pediu que Brasil permitisse 'dissidentes políticos' a concorrer em 2026\nO professor avalia que o episódio não é isolado. \"O que estamos vendo no caso brasileiro faz parte de um projeto que se aplica a toda a América Latina\", afirmou. O que chama atenção, na avaliação dele, é o quanto essas ameaças são explícitas, algo pouco comum nesse tipo de relação.\nStuenkel cita dois casos de pressão americana sobre disputas eleitorais na região. Na Argentina, Trump manifestou preferência por um dos lados durante a eleição legislativa do ano passado e afirmou que a ajuda dos Estados Unidos ao país poderia não durar tanto tempo caso o grupo político adversário de Milei vencesse. \nO professor disse ter estado no país naquele momento e avaliou que o apoio americano provavelmente teve algum impacto para melhorar o resultado do atual presidente argentino, num cenário em que a moeda local estava fragilizada.\nO segundo caso é Honduras. Segundo o professor, Trump ameaçou uma grave crise na relação bilateral caso seu candidato preferido, Nasry Asfura, não fosse eleito. Por se tratar de um país bastante dependente dos Estados Unidos, ele avalia que a declaração também pode ter tido efeito sobre o eleitorado.\nFoto de arquivo: Trump mostra tabela do tarifaço em 2 de abril de 2025\nReuters/Carlos Barria/File Photo\nStuenkel afirma que a pressão americana não se restringe a períodos eleitorais e atinge decisões internas de outros países. Ele mencionou o Peru, pressionado a excluir atores chineses do controle de um porto estratégico, e o Panamá, pressionado a expulsar empresas chinesas que operam portos no canal. \"Da mesma forma, pressionam o Brasil a fazer certas mudanças na política interna\", disse.\nO professor acrescenta que essa movimentação é feita com a expectativa de que nem tudo funcione. \"Existe uma percepção aqui em Washington de que o governo Trump tenta algumas coisas e vê o que cola\", afirmou o pesquisador, que está na capital americana. \nSegundo ele, há também a percepção de que o Brasil, por ser um país maior, não necessariamente aceitará todas as demandas, mesmo sendo ameaçado.\nFora da América Latina, Stuenkel citou Alemanha, Austrália e Canadá. No caso alemão, o vice-presidente J.D. Vance esteve no país pouco antes das eleições e deixou clara a preferência do governo americano pelo AfD, partido de extrema direita.\nNa Austrália e no Canadá, avalia o professor, a pressão surtiu efeito contrário, e os candidatos alinhados a Trump foram prejudicados eleitoralmente. Segundo ele, os eleitores desses países se sentiram ameaçados e passaram a ver a integridade e a soberania nacionais sob risco.\nEsse tipo de atuação pública tem sido, para Stuenkel, a estratégia dominante do governo americano até aqui. Ele fez a ressalva de que isso vale \"por enquanto\" e que não há garantia de que outras estratégias não venham a ser usadas no futuro.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo"
+      ],
+      "score": 78,
+      "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
+    },
+    {
+      "id": "3875abb693a3",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Às vésperas das eleições, ONU propõe a candidatos ações para combater desigualdades de gênero",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/19/as-vesperas-das-eleicoes-onu-propoe-a-candidatos-acoes-para-combater-desigualdades-de-genero.ghtml",
+      "summary": "Às vésperas do primeiro turno das eleições, a ONU Mulheres, braço da Organização das Nações Unidas, publicou um documento com propostas para candidatas, candidatos, partidos políticos, instituições públicas e toda a sociedade.\nAs medidas buscam reduzir a violência e as desigualdades de gênero e incluem temas como participação política, violência contra as mulheres, trabalho, cuidado e crise climática.\nSegundo a entidade, o documento busca ampliar o debate público e apresentar caminhos para transformar direitos reconhecidos em políticas públicas.\nO g1 ouviu especialistas para entender quais são, hoje, os principais obstáculos para que essas pautas avancem, de fato, na política brasileira e sejam transformadas em políticas públicas.\nAgora no g1\nPara o cientista político Elias Tavares, o principal desafio é garantir que as propostas não sejam lembradas apenas durante as eleições, mas tenham orçamento, metas e continuidade.\n“Afinal, uma proposta só se transforma em política pública quando sai do discurso, entra no planejamento do governo e chega efetivamente à vida das pessoas”, diz Elias.\nO cientista político Samuel Oliveira afirma que um dos obstáculos é evitar que essas pautas percam prioridade quando chega o momento de definir os recursos e executar as políticas públicas.\n“Prevenir feminicídio, ampliar creches, estruturar redes de cuidado ou mudar padrões dentro de partidos exige gasto permanente e produz resultado ao longo dos anos. O desafio é menos convencer que o problema existe e mais impedir que a pauta seja a primeira a ser relativizada quando chega à fase de execução.”\nEm carta, Gallianne Palayret, representante da ONU Mulheres no Brasil, afirmou que as propostas são \"caminhos objetivos para que a democracia brasileira represente, de fato, a maioria da sua população\".\nVeja abaixo as propostas: \nParidade de gênero\nNo Brasil, de 52,8% do eleitorado feminino, apenas 17,2% das mulheres estão na Câmara dos Deputados e 18,5% no Senado\nDas 91 deputadas eleitas em 2022, 29 são negras, o que equivale a menos de 6% da Câmara. \nPara reduzir as desigualdades e ampliar a participação feminina em cargos eletivos, lideranças do Legislativo e na direção dos partidos, a ONU propõe a definição de prazos e metas numéricas, além da publicação dos resultados para que a sociedade acompanhe de perto.\nCotas eleitorais\nPara que as cotas eleitorais passem a funcionar de forma efetiva, a ONU propõe fiscalização e que o dinheiro de campanha chegue às candidatas na hora certa e em partes justas, especialmente às mulheres negras.\nA entidade também aponta a necessidade de cobrar transparência dos partidos, responsabilizar quem descumpre as regras e abrir espaço para as mulheres na direção partidária.\nEntre 2010 e 2022, a proporção de candidaturas de mulheres nas eleições gerais aumentou, mas elas ainda são menos de 20% das eleitas no legislativo federal.\nCombate à violência política contra mulher\nTodas as mulheres que atuam na participação política e social são afetadas pela violência de gênero e raça. Mulheres negras, indígenas e outras mulheres sujeitas a múltiplas formas de discriminação enfrentam riscos ainda maiores de violência, inclusive nos ambientes digitais.\nA ONU afirma que a lei de combate à violência política contra a mulher precisa valer na prática. Além disso, fortalecer canais de denúncia acessíveis, oferecer proteção para quem denuncia e garantir resposta coordenada entre as instituições também integram a terceira proposta.\n🔎 A Lei de Combate à Violência Política contra a Mulher estabelece normas para prevenir, reprimir e combater a violência política contra a mulher nos espaços e atividades relacionados ao exercício de seus direitos políticos e de suas funções públicas, além de assegurar a participação de mulheres em debates eleitorais.\nMetas para evitar violência\nNo mundo, 1 em cada 3 mulheres sofre violência ao longo da vida\nCerca de 50 mil mulheres e meninas foram mortas por parceiros íntimos ou familiares em 2024, uma a cada dez minutos\nNo Brasil, 1.571 mulheres foram vítimas de feminicídio em 2025, 65,1% delas negras e 62,5% mortas dentro da própria casa.\nA ONU propõe serviços especializados em todo o país, medidas protetivas cada vez mais eficazes, investigação e respostas rápidas. Além disso, defende a participação de organizações de mulheres e movimentos feministas na construção e no acompanhamento das políticas.\nMachismo\n84,4% da população brasileira apresenta pelo menos um preconceito contra as mulheres, segundo o Índice de Normas Sociais de Gênero (GSNI 2023), do PNUD\nDessas, 39,9% com preconceitos relacionados à participação política e 31,1% relacionados à participação econômica.\nA quinta proposta inclui tratar o machismo como problema público, criar uma estratégia para mudar as normas que naturalizam a violência e limitam os direitos das mulheres, educar para a igualdade desde a infância, responsabilizar agentes públicos e empresas que reproduzem estereótipos e financiar as organizações de mulheres que lideram, acompanham e avaliam essa mudança.\nPlano Nacional de Cuidados\nNo Brasil, as mulheres dedicam 21,3 horas por semana a afazeres domésticos e cuidado de pessoas; os homens, 11,7 horas\nMulheres pretas e pardas dedicam 1,6 hora acima da média das mulheres brancas. \nNa sexta proposta, a ONU aponta a necessidade de colocar em prática o Plano Nacional de Cuidados, ampliar creches e serviços de cuidado e garantir formação, contrato formal, salário digno e proteção social às trabalhadoras do cuidado.\nSalário igual, trabalho formal e proteção social\nNo Brasil, as mulheres ainda recebem cerca de 21% menos que os homens nas empresas com mais de 100 funcionários\nEm 2024, 45,6% das mulheres negras ocupadas estavam na informalidade, ante 33,8% dos homens brancos\nA ONU propõe garantir às mulheres salário igual, trabalho formal e proteção social, com políticas que andem juntas. Qualificação, cuidado, transporte e inclusão digital precisam de uma abordagem integrada. A entidade também defende abrir acesso a empregos verdes, crédito, assistência técnica, mercados e compras públicas.\nFinanciamento climático\nAté 2050, a crise climática pode levar 158 milhões de mulheres e meninas à pobreza extrema, 16 milhões a mais do que homens e meninos. \n58 milhões de mulheres vivem em áreas rurais na América Latina, mas só 30% têm terra em seu nome. \nNa oitava proposta, a ONU reforça a importância de fazer o financiamento climático chegar a quem protege o território. Entre as medidas estão critérios de gênero e raça nos fundos que já existem, regras mais simples para que organizações comunitárias consigam acessá-los e fundos dedicados que repassem recursos diretamente às iniciativas lideradas por mulheres.\nParticipação nas decisões sobre mudanças climáticas \nNa COP30, em Belém, as mulheres foram 44% das delegações nacionais, mas 36% de quem as chefiava.\nNos ministérios de meio ambiente da América Latina, as mulheres ocupam 7% dos cargos de direção, o pior índice do mundo. \nA proposta é garantir a participação paritária e efetiva de mulheres, especialmente indígenas, negras, quilombolas e de povos e comunidades tradicionais, em órgãos de governança climática e na formulação e implementação de políticas. Além disso, a ONU defende metas de representação, mecanismos formais de consulta e apoio à formação de lideranças.\nPolítica climática que considere gênero e raça\nA ONU Mulheres identificou ao analisar os planos climáticos de 32 países que apenas 26 mencionam igualdade de gênero, mas só 10 a levam a todas as áreas da política, e quase nenhum reserva orçamento para isso. \nA proposta é garantir que toda política climática questione a quem ela alcança e quem ela deixa de fora. Isso significa considerar gênero e raça como critérios obrigatórios, além de estabelecer orçamento, metas e dados que mostrem o efeito real sobre mulheres e pessoas negras. Também são necessárias avaliações de impacto que permitam corrigir o rumo quando o resultado for desigual.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo"
+      ],
+      "score": 78,
+      "publishedRaw": "Sat, 19 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "9c6396967495",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições legislativas da Rússia são alvo de ataque hacker",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/19/eleicoes-legislativas-da-russia-sao-alvo-de-ataque-hacker.ghtml",
+      "summary": "Rússia realiza eleições marcadas pela guerra\nAs eleições legislativas da Rússia foram alvo de uma invasão hacker, informou a mídia estatal do país neste sábado (19).\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nSegundo o chefe da Comissão Eleitoral Central, Ella Pamfilova, o sistema de votação online de Moscou, a capital russa, foi alvo de um forte ataque durante a noite, mas a situação foi controlada.\nAinda de acordo com o representante do governo, os ataques continuam, mas todos estão sendo repelidos com sucesso.\nEm comunicado, o Ministério Digital da Rússia disse que também houve uma tentativa de sabotar as linhas de comunicação no extremo leste do país para interromper a realização das eleições.\nEstas são as primeiras eleições da Rússia desde o começo da guerra com a Ucrânia, em fevereiro de 2022. Os russos começaram a votar nesta sexta-feira (18) e a votação durará três dias .\nUcraniana vota em eleições parlamentares russas próxima a soldado russo armado com fuzil na Donetsk ocupada, na Ucrânia, em 18 de setembro de 2026.\nREUTERS/Alexander Ermochenko\ns\nAlém dos russos, ucranianos que vivem em regiões ocupadas pelas tropas do país vizinho também tiveram que ir às urnas. Imagens mostram zonas eleitorais sob a vigia de militares armados com fuzis (veja acima).\nO primeiro dia de votação começou com o lançamento de 350 drones ucranianos contra a região de Moscou, anunciou o prefeito da capital russa, mas a maioria foi interceptada e destruída.\nSaiba mais sobre as eleições\nA eleição vai renovar as 450 cadeiras da Duma, a câmara baixa do Parlamento russo, e durará até domingo (20), às 15h no horário de Brasília —21h no fuso local. Os resultados devem começar a sair logo depois.\nAs eleições servirão para o Kremlin medir o nível de apoio popular a uma guerra cujas consequências foram sentidas com mais força do que nunca neste ano.\nPutin governa o país desde a véspera do Ano Novo de 1999 e seu partido, Rússia Unida, domina a política do país desde o início dos anos 2000.\nPoucos na Rússia duvidam da vitória do partido de Putin, que votou eletronicamente nesta sexta-feira, segundo imagens da televisão pública do país.\nO partido Rússia Unida enfrenta apenas legendas que apoiam a maioria das políticas de Putin e a guerra na Ucrânia: o Partido Comunista, o nacionalista LDPR, Rússia Justa e o liberal Gente Nova.\nO partido Yabloko, que pede o fim da guerra, foi excluído da disputa pouco antes da votação. Um de seus principais dirigentes, Lev Shlosberg, foi preso por criticar o conflito.\nEm um breve discurso exibido na televisão na noite de quarta-feira, Putin conclamou os cidadãos a votar para mostrar às tropas que \"por trás de nossos combatentes há milhões de pessoas\" e para dar uma \"resposta conjunta àqueles que querem enfraquecer a Rússia\".\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Sat, 19 Sep 2026 09:20:18 -0000"
+    },
+    {
+      "id": "6d31b867be1d",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
       "id": "7e72ca2ef36e",
@@ -860,19 +745,19 @@
       "publishedRaw": "Fri, 18 Sep 2026 22:18:17 -0000"
     },
     {
-      "id": "c274c79cae8d",
-      "source": "CNN Brasil",
+      "id": "d97fd5e52759",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle Bachelet retira candidatura ao cargo de secretária-geral da ONU",
-      "link": "https://www.cnnbrasil.com.br/internacional/michelle-bachelet-retira-candidatura-ao-cargo-de-secretaria-geral-da-onu/",
-      "summary": "Nome da ex-presidente do Chile era apoiada pelo Brasil para suceder António Guterres mas perdeu força em consultas informais do Conselho de Segurança",
+      "title": "Candidata chilena apoiada pelo Brasil desiste da candidatura à Secretaria-Geral da ONU",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/candidata-chilena-apoiada-pelo-brasil-desiste-da-candidatura-a-secretaria-geral-da-onu.shtml",
+      "summary": "A ex-presidente do Chile Michelle Bachelet desistiu neste sábado (19) de sua candidatura à Secretaria-Geral da ONU (Organização das Nações Unidas). Bachelet era a postulante apoiada pelo Brasil, mas não tinha chances reais de assumir.\nLeia mais (09/19/2026 - 17h40)",
       "tags": [
         "candidatura"
       ],
       "crossOutlets": [],
       "score": 60,
-      "publishedRaw": "Sat, 19 Sep 2026 19:35:34 +0000"
+      "publishedRaw": "19 Sep 2026 17:40:00 -0300"
     },
     {
       "id": "0be5514ac4fe",
