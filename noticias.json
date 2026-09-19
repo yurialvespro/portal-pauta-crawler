@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:40:07.941009+00:00",
+  "generated_at": "2026-09-19T23:13:39.223890+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -442,25 +442,25 @@
       "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
     },
     {
-      "id": "47302e2ca512",
-      "source": "Estadão",
+      "id": "fe4b4300f486",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Campanha de Lula estimula ‘missões’ diárias para militância reagir à alta de Flávio nas pesquisas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/campanha-de-lula-estimula-missoes-diarias-para-militancia-reagir-a-alta-de-flavio-nas-pesquisas/",
-      "summary": "",
+      "title": "Propaganda de Lula destaca isenção do IR e fim da taxa das blusinhas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/propaganda-de-lula-destaca-isencao-do-ir-e-fim-da-taxa-das-blusinhas/",
+      "summary": "Peça de 5 minutos e 31 segundos reúne balanço econômico do governo e críticas aos Bolsonaros",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
+      "publishedRaw": "Sat, 19 Sep 2026 23:01:54 +0000"
     },
     {
       "id": "857148c6313c",
@@ -774,6 +774,24 @@
       ],
       "score": 77,
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
+    },
+    {
+      "id": "e503ac24bf9b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após embates com Mendonça e Nunes Marques, Gilmar defende evitar politização do TSE",
+      "link": "https://www.estadao.com.br/politica/apos-embates-com-mendonca-e-nunes-marques-gilmar-defende-evitar-politizacao-do-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 73,
+      "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
     },
     {
       "id": "1123e7abdfef",
