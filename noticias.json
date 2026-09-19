@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:43:04.548951+00:00",
+  "generated_at": "2026-09-19T02:15:07.759664+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -66,34 +66,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
       "score": 94,
       "publishedRaw": "Fri, 18 Sep 2026 22:26:13 -0000"
-    },
-    {
-      "id": "bca542b1d07b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "1ª Turma do STF tem maioria para manter condenação de Eduardo Bolsonaro em caso de coação",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/1a-turma-do-stf-tem-maioria-para-manter-condenacao-de-eduardo-bolsonaro-em-caso-de-coacao.shtml",
-      "summary": "A Primeira Turma do STF (Supremo Tribunal Federal) formou maioria nesta sexta-feira (18) para rejeitar o recurso apresentado pela defesa do ex-deputado Eduardo Bolsonaro (PL-SP), mantendo a sua condenação pelo crime de coação referente à sua atuação nos Estados Unidos para intimidar o Poder Judiciário brasileiro.  \nLeia mais (09/18/2026 - 20h37)",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "18 Sep 2026 20:37:00 -0300"
     },
     {
       "id": "4e8d323c7532",
@@ -110,9 +88,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 94,
       "publishedRaw": "Fri, 18 Sep 2026 23:08:27 +0000"
@@ -216,6 +194,48 @@
       "publishedRaw": "Fri, 18 Sep 2026 18:53:29 +0000"
     },
     {
+      "id": "d20800d61c79",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro usa Comissão de Segurança como vitrine eleitoral, mas faltou a 72% das sessões",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-usa-comissao-de-seguranca-como-vitrine-eleitoral-mas-faltou-a-72-das-sessoes.shtml",
+      "summary": "Mesmo em meio aos compromissos da campanha presidencial, o senador Flávio Bolsonaro (PL-RJ) esteve no Senado em agosto para participar da sessão da Comissão de Segurança Pública da Casa, que ele preside, e cujo papel tem sido usado como vitrine eleitoral, com destaque em sua propaganda veiculada no rádio e na TV.\nLeia mais (09/18/2026 - 23h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "18 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "ee902d73cbc3",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Campanha de Flávio Bolsonaro tenta evitar deslizes de aliados",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-campanha-de-flavio-bolsonaro-tenta-evitar-deslizes-de-aliados/",
+      "summary": "A 16 dias do primeiro turno, campanha adota postura cautelosa para não dar munição aos adversários políticos; a apuração é da analista de Política da CNN Jussara Soares",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Sat, 19 Sep 2026 01:28:28 +0000"
+    },
+    {
       "id": "8a0bd386e81a",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -239,27 +259,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 17:58:52 -0000"
     },
     {
-      "id": "4d31b910f14a",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "1ª Turma mantém condenação de Eduardo Bolsonaro por obstrução",
-      "link": "https://www.poder360.com.br/poder-justica/1a-turma-mantem-condenacao-de-eduardo-bolsonaro-por-obstrucao/",
-      "summary": "Por unanimidade, colegiado negou recurso para reduzir a pena de ex-deputado federal",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Fri, 18 Sep 2026 23:23:48 +0000"
-    },
-    {
       "id": "a7aae5e9fb72",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -272,9 +271,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 88,
       "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
@@ -292,52 +291,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 88,
       "publishedRaw": "Fri, 18 Sep 2026 18:22:36 +0000"
     },
     {
-      "id": "f73496172b27",
-      "source": "G1 - Política",
+      "id": "e91f5ef3290e",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Datafolha: 34% dizem que apoio ao  impeachment de ministros do STF aumenta chance de voto em candidato ao Senado",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-eleicao-senado-stf-voto.ghtml",
-      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra o impacto do escândalo do banco Master e da crise no Supremo Tribunal Federal (STF) sobre a percepção dos eleitores a duas semanas da votação para presidente, governador, senador, deputado federal e deputado estadual.\nO Datafolha perguntou sobre a eleição do Senado, já que senadores têm a prerrogativa de julgar ministros do STF em eventuais processos de impeachment por crimes de responsabilidade.\nPergunta: o fato de um candidato ao Senado ser a favor do impeachment de ministros do STF aumenta, não muda ou diminui as chances de você votar nele?\nAumenta: 34%\nDiminui: 31%\nNão muda: 30%\nNão sabe: 5%\nOs números mudam conforme as preferências dos eleitores. Entre quem vota em Flávio Bolsonaro (PL), 49% afirmam que a posição pró-impeachment do candidato aumenta as chances de voto nele. Entre os eleitores de Lula (PT), 23% respondem isso. \nDatafolha: eleição do Senado e impeachment de ministros do STF\nArte g1\nA pesquisa foi encomendada pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nNa eleição deste ano, o Senado vai renovar dois terços das cadeiras — 54 de 81. Por isso, cada eleitor terá que votar em dois candidatos diferentes. Entenda aqui o processo e veja como evitar erros.\nAgora no g1\nVotação para presidente\nA pesquisa mostra também se o caso Master e seus desdobramentos no Supremo influenciam a escolha dos eleitores na eleição para a Presidência da República.\nPara 47%, a crise terá influência no voto em 4 de outubro. Outros 49% afirmam que não terá influência. Veja os dados completos abaixo:\nPergunta: a crise no STF e o escândalo do Master influenciam seu voto para presidente?\nSim, grande influência: 36%\nSim, pequena influência: 11%\nNão terá influência: 49%\nNão sabe: 4%\nLEIA MAIS\n38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio\n34% dizem que caso Master envolve mais políticos de esquerda e 27% afirmam que são políticos de direita\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nSessão plenária do STF\nRosinei Coutinho/STF",
+      "title": "TSE aceita abrir ação contra Lula por desfile no Carnaval do Rio de Janeiro",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-aceita-abrir-acao-contra-lula-por-desfile-no-carnaval-do-rio-de-janeiro/",
+      "summary": "Corregedor-geral da Justiça Eleitoral admitiu ação protocolada por Flávio Bolsonaro, que acusa presidente de abuso de poder político e econômico e uso indevido dos meios de comunicação",
       "tags": [
-        "STF",
-        "impeachment"
+        "TSE",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 87,
-      "publishedRaw": "Fri, 18 Sep 2026 22:14:20 -0000"
-    },
-    {
-      "id": "97097334dd04",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Líder da Oposição quer obrigar presidente do Senado a decidir sobre impeachment do STF em até 30 dias",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lider-da-oposicao-quer-obrigar-presidente-do-senado-a-decidir-sobre-impeachment-do-stf-em-ate-30-dias.shtml",
-      "summary": "O líder da Oposição no Senado, Rogério Marinho (PL-RN), apresentou nesta sexta-feira (18) um projeto de resolução que dá 30 dias úteis para o presidente da Casa, cargo hoje ocupado por Davi Alcolumbre (União-AP), decidir se aceita ou não pedidos de impeachment de autoridades, incluindo ministros do STF (Supremo Tribunal Federal).\nLeia mais (09/18/2026 - 20h30)",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "18 Sep 2026 20:30:00 -0300"
+      "publishedRaw": "Sat, 19 Sep 2026 01:37:34 +0000"
     },
     {
       "id": "3e9118a9a3aa",
@@ -382,6 +364,28 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 16:32:03 -0000"
+    },
+    {
+      "id": "1d23627c3a1f",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministro defende que Lula divulgue carta com compromisso fiscal para novo mandato",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/ministro-defende-que-lula-divulgue-carta-com-compromisso-fiscal-para-novo-mandato.shtml",
+      "summary": "O ministro das Relações Institucionais, José Guimarães, tem defendido que a campanha do presidente Luiz Inácio Lula da Silva divulgue um documento com compromissos fiscais para um eventual novo mandato.\nLeia mais (09/18/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "18 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "43cbca08fed0",
@@ -448,28 +452,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 19 Sep 2026 00:10:13 +0000"
-    },
-    {
-      "id": "19db28b617a7",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula promete acabar com as bets e critica impacto dos jogos: “É uma doença”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-promete-acabar-com-as-bets-e-critica-impacto-dos-jogos-e-uma-doenca/",
-      "summary": "Presidente cita pessoas que venderam bens e enfrentaram situações extremas por causa dos jogos e critica os clubes de futebol.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 00:00:44 +0000"
     },
     {
       "id": "b8cca122aadd",
@@ -604,25 +586,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 23:26:06 +0000"
     },
     {
-      "id": "3db10e14eed5",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-confianca-instituicoes.ghtml",
-      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra que 48% dos eleitores brasileiros não confiam no Supremo Tribunal Federal (STF), o maior índice de desconfiança da Corte desde o início da série histórica, em 2012. Com o resultado, o STF aparece, numericamente, como a instituição com maior índice de desconfiança entre as avaliadas pelo instituto.\nA taxa subiu cinco pontos percentuais desde março, quando 43% diziam não confiar no Supremo — até então, o recorde da série. Na pesquisa atual, 35% afirmam confiar um pouco no STF e 14% dizem confiar muito. Veja os números:\nSupremo\nConfia muito: 14%\nConfia um pouco: 35%\nNão confia: 48%\nDatafolha - Nível de confiança no Supremo Tribunal Federal em setembro de 2026.\nArte/g1\nSegundo o Datafolha, é a primeira vez que o STF aparece numericamente no topo da lista de desconfiança. Em outros momentos da série, essa posição já foi ocupada por partidos políticos, Congresso Nacional e Presidência da República.\nEstátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília\nAntonio Augusto/STF\nCongresso\nO Congresso Nacional aparece em patamar próximo. Segundo o Datafolha, 45% dos eleitores dizem não confiar nos deputados e senadores, mesmo percentual registrado em março. Outros 43% afirmam confiar um pouco no Congresso, enquanto 11% dizem confiar muito.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição — até então, o maior índice da série. Agora, além dos 48% que não confiam, 35% dizem confiar um pouco no STF e 14%, confiar muito. Veja os números:\nConfia muito: 11%\nConfia um pouco: 43%\nNão confia: 45%\nPresidência da República\nA Presidência da República registra 42% de desconfiança, ante 43% em março. Ao mesmo tempo, 25% dos entrevistados dizem confiar muito na Presidência e 32%, confiar um pouco. Em março, esses percentuais eram de 22% e 34%, respectivamente. Veja os números:\nConfia muito: 25%\nConfia um pouco: 32%\nNão confia: 42%\nO maior índice de desconfiança na Presidência registrado pelo Datafolha foi de 65%, em junho de 2017.\nPartidos políticos\nOs partidos políticos são alvo de desconfiança de 45% dos eleitores brasileiros, segundo o Datafolha. O índice caiu sete pontos em relação a março, quando estava em 52%, e está distante do recorde de 69%, registrado em junho de 2017. Veja os números:\nConfia muito: 9%\nConfia um pouco: 44%\nNão confia: 45%\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nOs entrevistados também foram questionados sobre o nível de confiança em outras instituições, como a imprensa, as grandes empresas brasileiras, o Poder Judiciário e as Forças Armadas. Veja abaixo:\nImprensa\nConfia muito: 22%\nConfia um pouco: 44%\nNão confia: 33%\nGrandes empresas brasileiras\nConfia muito: 29%\nConfia um pouco: 46%\nNão confia: 23%\nPoder Judiciário\nConfia muito: 17%\nConfia um pouco: 43%\nNão confia: 38%\nForças Armadas\nConfia muito: 34%\nConfia um pouco: 39%\nNão confia: 25%\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 22:16:02 -0000"
-    },
-    {
       "id": "666d7e04e16a",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -644,25 +607,6 @@
       ],
       "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 21:49:28 -0000"
-    },
-    {
-      "id": "56aa40d27b43",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
-      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
     },
     {
       "id": "8e9e6683d4ea",
@@ -688,44 +632,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 00:49:53 +0000"
     },
     {
-      "id": "43e8a70b3da4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ex-ministro Marco Aurélio Mello critica sessão do STF e diz que Corte viveu ‘dia triste’",
-      "link": "https://www.estadao.com.br/politica/marco-aurelio-critica-sessao-do-stf-e-diz-que-corte-vive-dia-triste-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
-    },
-    {
-      "id": "1b786096ff1e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
-    },
-    {
       "id": "d93246d8124a",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -747,6 +653,25 @@
       ],
       "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 01:25:12 +0000"
+    },
+    {
+      "id": "f73496172b27",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 34% dizem que apoio ao  impeachment de ministros do STF aumenta chance de voto em candidato ao Senado",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-eleicao-senado-stf-voto.ghtml",
+      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra o impacto do escândalo do banco Master e da crise no Supremo Tribunal Federal (STF) sobre a percepção dos eleitores a duas semanas da votação para presidente, governador, senador, deputado federal e deputado estadual.\nO Datafolha perguntou sobre a eleição do Senado, já que senadores têm a prerrogativa de julgar ministros do STF em eventuais processos de impeachment por crimes de responsabilidade.\nPergunta: o fato de um candidato ao Senado ser a favor do impeachment de ministros do STF aumenta, não muda ou diminui as chances de você votar nele?\nAumenta: 34%\nDiminui: 31%\nNão muda: 30%\nNão sabe: 5%\nOs números mudam conforme as preferências dos eleitores. Entre quem vota em Flávio Bolsonaro (PL), 49% afirmam que a posição pró-impeachment do candidato aumenta as chances de voto nele. Entre os eleitores de Lula (PT), 23% respondem isso. \nDatafolha: eleição do Senado e impeachment de ministros do STF\nArte g1\nA pesquisa foi encomendada pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nNa eleição deste ano, o Senado vai renovar dois terços das cadeiras — 54 de 81. Por isso, cada eleitor terá que votar em dois candidatos diferentes. Entenda aqui o processo e veja como evitar erros.\nAgora no g1\nVotação para presidente\nA pesquisa mostra também se o caso Master e seus desdobramentos no Supremo influenciam a escolha dos eleitores na eleição para a Presidência da República.\nPara 47%, a crise terá influência no voto em 4 de outubro. Outros 49% afirmam que não terá influência. Veja os dados completos abaixo:\nPergunta: a crise no STF e o escândalo do Master influenciam seu voto para presidente?\nSim, grande influência: 36%\nSim, pequena influência: 11%\nNão terá influência: 49%\nNão sabe: 4%\nLEIA MAIS\n38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio\n34% dizem que caso Master envolve mais políticos de esquerda e 27% afirmam que são políticos de direita\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nSessão plenária do STF\nRosinei Coutinho/STF",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 83,
+      "publishedRaw": "Fri, 18 Sep 2026 22:14:20 -0000"
     },
     {
       "id": "9f0e22614054",
@@ -771,44 +696,58 @@
       "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
     },
     {
-      "id": "58d06f3a0f63",
+      "id": "3db10e14eed5",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
-      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nBolsa Família\nLyon Santos/MDS\nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU.\nO governo pede que o Supremo reconheça que o decreto foi editado em conformidade com o quadro constitucional e legal.  \n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
+      "title": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-confianca-instituicoes.ghtml",
+      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra que 48% dos eleitores brasileiros não confiam no Supremo Tribunal Federal (STF), o maior índice de desconfiança da Corte desde o início da série histórica, em 2012. Com o resultado, o STF aparece, numericamente, como a instituição com maior índice de desconfiança entre as avaliadas pelo instituto.\nA taxa subiu cinco pontos percentuais desde março, quando 43% diziam não confiar no Supremo — até então, o recorde da série. Na pesquisa atual, 35% afirmam confiar um pouco no STF e 14% dizem confiar muito. Veja os números:\nSupremo\nConfia muito: 14%\nConfia um pouco: 35%\nNão confia: 48%\nDatafolha - Nível de confiança no Supremo Tribunal Federal em setembro de 2026.\nArte/g1\nSegundo o Datafolha, é a primeira vez que o STF aparece numericamente no topo da lista de desconfiança. Em outros momentos da série, essa posição já foi ocupada por partidos políticos, Congresso Nacional e Presidência da República.\nEstátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília\nAntonio Augusto/STF\nCongresso\nO Congresso Nacional aparece em patamar próximo. Segundo o Datafolha, 45% dos eleitores dizem não confiar nos deputados e senadores, mesmo percentual registrado em março. Outros 43% afirmam confiar um pouco no Congresso, enquanto 11% dizem confiar muito.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição — até então, o maior índice da série. Agora, além dos 48% que não confiam, 35% dizem confiar um pouco no STF e 14%, confiar muito. Veja os números:\nConfia muito: 11%\nConfia um pouco: 43%\nNão confia: 45%\nPresidência da República\nA Presidência da República registra 42% de desconfiança, ante 43% em março. Ao mesmo tempo, 25% dos entrevistados dizem confiar muito na Presidência e 32%, confiar um pouco. Em março, esses percentuais eram de 22% e 34%, respectivamente. Veja os números:\nConfia muito: 25%\nConfia um pouco: 32%\nNão confia: 42%\nO maior índice de desconfiança na Presidência registrado pelo Datafolha foi de 65%, em junho de 2017.\nPartidos políticos\nOs partidos políticos são alvo de desconfiança de 45% dos eleitores brasileiros, segundo o Datafolha. O índice caiu sete pontos em relação a março, quando estava em 52%, e está distante do recorde de 69%, registrado em junho de 2017. Veja os números:\nConfia muito: 9%\nConfia um pouco: 44%\nNão confia: 45%\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nOs entrevistados também foram questionados sobre o nível de confiança em outras instituições, como a imprensa, as grandes empresas brasileiras, o Poder Judiciário e as Forças Armadas. Veja abaixo:\nImprensa\nConfia muito: 22%\nConfia um pouco: 44%\nNão confia: 33%\nGrandes empresas brasileiras\nConfia muito: 29%\nConfia um pouco: 46%\nNão confia: 23%\nPoder Judiciário\nConfia muito: 17%\nConfia um pouco: 43%\nNão confia: 38%\nForças Armadas\nConfia muito: 34%\nConfia um pouco: 39%\nNão confia: 25%\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
       "tags": [
-        "STF",
-        "família"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
+      "score": 80,
+      "publishedRaw": "Fri, 18 Sep 2026 22:16:02 -0000"
     },
     {
-      "id": "3f080af3d67f",
+      "id": "56aa40d27b43",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
+      "summary": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão\nO advogado Sérgio Leonardo, que faz parte da defesa do banqueiro Daniel Vorcaro, disse que irá recorrer ao plenário do Supremo Tribunal Federal caso o presidente da Corte, Edson Fachin, o mantenha preso. A declaração foi dada em entrevista à Globonews nesta sexta-feira (18).\n\"A defesa confia no Supremo Tribunal Federal e não escolhe o julgador. Se o caso momentaneamente está com o presidente, nós fazemos o pedido ao presidente. Ser ele indeferir o nosso pedido, nós vamos recorrer para o Plenário do Supremo Tribunal Federal. Que o presidente não relata processos nas turmas. Então, se o caso está com o presidente, o órgão competente será o Plenário do Supremo Tribunal Federal\", afirmou.\n🔎 O pedido é direcionado a Fachin e não a Mendonça porque, no dia 12 de setembro, presidente proferiu uma decisão determinando que a PET 15.556 fosse remetida ao seu gabinte, junto de todos os processos conexos. O caso é a petição em que foi decretada a prisão preventiva de Daniel Vorcaro em novembro de 2025.\nA fala de Leonardo ocorreu depois dele ser questionado se a defesa ainda se sente confortável com a Segunda Turma do Supremo, após as revelações sobre o colegiado. O grupo é formado por 5 ministros: \nDias Toffoli, que se declarou suspeito no inquérito original do qual era relator e no julgamento que analisaria o relatório da Polícia Federal a respeito da relação de Vorcaro com o ministro Alexandre de Moraes por suspeição de foro íntimo; \nNunes Marques, que se declarou impedido de participar do julgamento de terça-feira alegando que, por ser presidente do Tribunal Superior Eleitoral, não se sentia confortável em participar do julgamento e cujo filho foi citado em diálogos de Vorcario mencionando supostos pagamentos de R$500 mil;\nLuiz Fux, cujo filho aparece em diálogos vazados do celular do banqueiro;\nAndré Mendonça, cuja atuação enquanto relator do caso Master ainda será analisada pelo plenário do Supremo;\nGilmar Mendes, decano da Corte que tem defendido o procurador-geral da República, Paulo Gonet, mencionado no relatório da PF que seria analisado pelos ministros.\nSegundo Leonardo, a defesa de Vorcaro não irá questionar o voto passado de Nunes Marques em que ele referendou a manutenção da prisão preventiva do ex-banqueiro. \"O que a gente espera para o futuro, se o ministro agora entendeu que não pode mais participar dos julgamentos, que tenha coerência [...] Nós não vamos questionar a legalidade daquele julgamento ou da participação dele quando a prisão foi referendada. Nosso foco, agora, é no reexame da prisão preventiva\", declarou. \"A defesa do Daniel Vorcaro em nenhum momento questionou ou alegou suspeição em relação a nenhum magistrado.\"\nQuestionado sobre a possibilidade de uma terceira tentativa de delação premiada, o advogado respondeu que, neste momento, a prioridade da defesa é o \"reestabelecimento da liberdade do Daniel Vorcaro\". Segundo o advogado, mesmo se houvesse uma nova colaboração em curso, ele não poderia falar sobre o assunto por conta do termo de confidencialidade. \"Em liberade, ele pode defender-se de todas as acusações que são feitas de forma excessiva e descontextualizada\". \nVorcaro foi preso pela segunda vez há mais de seis meses e atualmente ocupa uma cela no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A defesa, por sua vez, reforça o prazo legal de 90 dias para o exame da manutenção da prisão preventiva a ser feito pelo órgão responsável.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 18 Sep 2026 18:26:23 -0000"
+    },
+    {
+      "id": "43e8a70b3da4",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Cury e Zema focam debate em críticas ao STF e a reajuste do Bolsa Família às vésperas da eleição",
-      "link": "https://www.estadao.com.br/politica/eleicoes/cury-e-zema-focam-em-criticas-ao-stf-e-a-reajuste-do-bolsa-familia-as-vesperas-da-eleicao/",
+      "title": "Ex-ministro Marco Aurélio Mello critica sessão do STF e diz que Corte viveu ‘dia triste’",
+      "link": "https://www.estadao.com.br/politica/marco-aurelio-critica-sessao-do-stf-e-diz-que-corte-vive-dia-triste-nprp/",
       "summary": "",
       "tags": [
-        "STF",
-        "família"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "Sat, 19 Sep 2026 00:18:06 +0000"
+      "score": 80,
+      "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
     },
     {
       "id": "35bb3a8aeed2",
@@ -834,6 +773,24 @@
       "publishedRaw": "Fri, 18 Sep 2026 08:12:33 GMT"
     },
     {
+      "id": "1b786096ff1e",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Dino, que pediu prazo para analisar o caso, pode autorizar a continuidade do julgamento antes do prazo, que vence em dezembro, mas isso é considerado improvável nos bastidores.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 16 Sep 2026 18:47:18 GMT"
+    },
+    {
       "id": "cbe80b73abe5",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -850,6 +807,44 @@
       ],
       "score": 77,
       "publishedRaw": "Sat, 19 Sep 2026 00:00:10 -0000"
+    },
+    {
+      "id": "58d06f3a0f63",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede que STF reconheça que decreto que reajustou valor do Bolsa Família é constitucional",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/agu-pede-que-stf-reconheca-que-decreto-que-reajustou-valor-do-bolsa-familia-e-constitucional.ghtml",
+      "summary": "Reajuste do Bolsa Família: governo diz que reposição da inflação não viola lei eleitoral\nA Advocacia-Geral da União (AGU) pediu nesta sexta-feira (18) que o Supremo Tribunal Federal (STF) reconheça que o decreto que reajustou em 15,04% os valores do Bolsa Família é constitucional. \nA medida ocorre em meio às críticas ao governo porque a medida foi adotada a poucos dias do primeiro turno das eleições e ao pedido do candidato à Presidência da República Renan Santos (Missão) para que o Tribunal Superior Eleitoral (TSE) suspenda o aumento alegando que a finalidade é eleitoreira. \nO piso, mantido em R$ 600 desde o início do terceiro mandato de Luiz Inácio Lula da Silva (PT), sobe para R$ 691. O reajuste passa a valer em outubro, com pagamentos a partir do dia 19, entre o primeiro e o segundo turno das eleições.\nSegundo o Ministério do Planejamento, o aumento no Bolsa Família vai custar, em 2026, R$ 5,8 bilhões e, em 2027, o impacto do reajuste nas contas públicas será de quase R$ 23 bilhões.\nO pedido do governo ao Supremo foi feito em uma ação na qual o tribunal determinou que a partir de 2022 fosse implementado o pagamento do programa de renda básica de cidadania para os brasileiros em situação de extrema pobreza e pobreza. \nBolsa Família\nLyon Santos/MDS\nEm junho de 2024, o relator, Gilmar Mendes, reconheceu que o Programa Bolsa Família é uma etapa da implementação progressiva da renda básica de cidadania, submetendoseus valores ao regime de atualização periódica.   \nUm dia antes da edição do decreto do Bolsa Família, a Defensoria acionou o Supremo pedindo que o Executivo se manifestasse sobre a pendência de atualização dos valores.  \n\"Registre-se que o decreto não institui benefício novo, não cria categoria adicional de beneficiários, não altera o critério legal de elegibilidade e não inaugura programa social. Trata-se, ao contrário, de providência voltada à preservação, no tempo, do cumprimento da ordem injuncional, ao implementar a atualização periódica dos valores expressamente prevista no marco legal já reconhecido  por essa Suprema Corte como apto a concretizar a decisão proferida nestes autos. Limita-se, assim, a preservar o valor real de prestações integrantes de política pública permanente, mediante aplicação da variação acumulada do INPC, sem modificação da arquitetura normativa do Programa Bolsa Família\", disse a AGU.\nO governo pede que o Supremo reconheça que o decreto foi editado em conformidade com o quadro constitucional e legal.  \n\"[O reajuste] constitui providência idônea à preservação, no tempo, do cumprimento da ordem injuncional, inserindo-se no processo gradual de implementação das medidas destinadas à concretização dos comandos constitucionais de erradicação da pobreza e da marginalização e de redução das desigualdades sociais e regionais, do qual decorreu, entre outras providências, a edição da Lei nº 14.601/2023, que 'prevê que os valores “poderão ser corrigidos a cada intervalo de, no máximo, 24 (vinte e quatro) meses, na forma estabelecida em regulamento, vedada sua redução'\", diz a AGU.",
+      "tags": [
+        "STF",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 76,
+      "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
+    },
+    {
+      "id": "3f080af3d67f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cury e Zema focam debate em críticas ao STF e a reajuste do Bolsa Família às vésperas da eleição",
+      "link": "https://www.estadao.com.br/politica/eleicoes/cury-e-zema-focam-em-criticas-ao-stf-e-a-reajuste-do-bolsa-familia-as-vesperas-da-eleicao/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Sat, 19 Sep 2026 00:18:06 +0000"
     },
     {
       "id": "6d31b867be1d",
@@ -946,6 +941,21 @@
       "publishedRaw": "18 Sep 2026 22:07:00 -0300"
     },
     {
+      "id": "707e68770e6c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado diz que reajuste do Bolsa Família antes de eleição é “o maior golpe”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-diz-que-reajuste-do-bolsa-familia-antes-de-eleicao-e-o-maior-golpe/",
+      "summary": "Candidato do PSD à Presidência afirma que aumento de R$ 91 no benefício seria tentativa de \"comprar o voto\" e disse que resultado final vai pesar no orçamento das famílias",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Sat, 19 Sep 2026 01:36:50 +0000"
+    },
+    {
       "id": "5686aea3de47",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -1004,6 +1014,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 20:29:12 +0000"
+    },
+    {
+      "id": "32d3b09e41c9",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Samara diz que “absurdo” é o “bolsa-banqueiro”, não o Bolsa Família",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/samara-diz-que-absurdo-e-o-bolsa-banqueiro-nao-o-bolsa-familia/",
+      "summary": "Candidata à Presidência defendeu a abertura de empregos e criticou o pagamento de juros da dívida pública",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Sat, 19 Sep 2026 02:00:00 +0000"
     }
   ]
 }
