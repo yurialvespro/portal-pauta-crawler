@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:14:32.901311+00:00",
+  "generated_at": "2026-09-19T15:40:40.865836+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -18,11 +18,36 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 95,
+      "score": 96,
       "publishedRaw": "Fri, 18 Sep 2026 22:16:24 -0000"
+    },
+    {
+      "id": "34f97b252f22",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro e outros candidatos de direita usam foto de Gonet para atacar Lula e STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-e-outros-candidatos-de-direita-usam-foto-de-gonet-para-atacar-lula-e-stf.shtml",
+      "summary": "O procurador-geral da República, Paulo Gonet, tornou-se alvo de bolsonaristas nas redes sociais após vir a público fotogradia dele fumando charuto e bebendo uísque ao lado do ex-banqueiro Daniel Vorcaro, do Banco Master. Investigado por pedidos de dinheiro feito ao ex-banqueiro, o senador Flávio Bolsonaro (PL-SP) citou a foto para criticar o governo Lula (PT).\nLeia mais (09/19/2026 - 12h16)",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 96,
+      "publishedRaw": "19 Sep 2026 12:16:00 -0300"
     },
     {
       "id": "c8d07138a885",
@@ -40,11 +65,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 95,
+      "score": 96,
       "publishedRaw": "Fri, 18 Sep 2026 21:09:38 +0000"
     },
     {
@@ -62,11 +88,12 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 18 Sep 2026 13:39:55 GMT"
     },
     {
@@ -84,35 +111,13 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 17 Sep 2026 20:35:01 GMT"
-    },
-    {
-      "id": "d6ea8e61aa19",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cury pede a eleitores de Flávio Bolsonaro que migrem para sua candidatura contra Lula",
-      "link": "https://www.estadao.com.br/politica/eleicoes/cury-pede-a-eleitores-de-flavio-bolsonaro-que-migrem-para-sua-candidatura-contra-lula/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "candidatura",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Fri, 18 Sep 2026 19:46:46 +0000"
     },
     {
       "id": "a17dc6904e34",
@@ -129,7 +134,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -151,7 +155,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -173,10 +176,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
     },
     {
@@ -194,12 +198,55 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Sat, 19 Sep 2026 02:40:18 +0000"
+    },
+    {
+      "id": "b76564e39535",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF rejeita recurso e mantém condenação de Eduardo Bolsonaro por coação em processo sobre trama golpista",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/18/stf-forma-maioria-para-rejeitar-recurso-contra-condenacao-de-eduardo-bolsonaro-por-coacao-em-processo-sobre-trama-golpista.ghtml",
+      "summary": "A Primeira Turma do Supremo Tribunal Federal (STF) rejeitou por unanimidade recurso apresentado pela defesa do ex-deputado Eduardo Bolsonaro contra a condenação por tentativa de interferir no julgamento do pai, o ex-presidente Jair Bolsonaro (PL), na trama golpista.\nEduardo Bolsonaro foi condenado a quatro anos e dois meses de prisão em junho deste ano. A pena deverá começar a ser cumprida em regime semiaberto. Também ficará inelegível por 12 anos, sem poder ser eleito até 2038.\nO voto do ministro Alexandre de Moraes, relator, foi seguido por Flávio Dino, Cármen Lúcia e Cristiano Zanin no plenário virtual.\nAgora no g1\nEduardo também precisará pagar uma multa de R$ 162 mil reais referentes ao pagamento de 50 dias multa, um dia multa equivale a dois salários mínimos. \nAo votar pela condenação de Eduardo, Moraes entendeu que há elementos que comprovam que Eduardo Bolsonaro praticou o crime de coação no curso do processo, como acusou a Procuradoria Geral da República (PGR).\nEduardo Bolsonaro é acusado de promover junto ao governo Donald Trump, dos Estados Unidos, ações para criar um clima de instabilidade e temor, ameaçando e projetando retaliações estrangeiras contra ministros do STF e o Brasil. \nEduardo foi denunciado pela Procuradoria-geral da Pública e virou réu no STF. O objetivo das ações do deputado cassado no exterior, segundo a Procuradoria, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. Bolsonaro foi condenado a mais de 27 anos de prisão e cumpre prisão domiciliar. \nO ministro relator rebateu uma preliminar da defesa de Eduardo que alegava que ele estava protegido pela liberdade de expressão e pela imunidade parlamentar.\n“Não é função de deputado federal brasileiro fazer lobby no exterior contra o próprio país. Mesmo que estivesse no exercício do mandato e não licenciado, mesmo que estivesse no exercício, não estaria acobertado pela imunidade parlamentar”, afirmou. \nMoraes afirmou ainda que o próprio Eduardo disse que não comunicou mudança de domicílio para os EUA e que estava no exterior para fugir da Justiça.\n“Até hoje em momento algum nem o próprio réu em qualquer lugar disse que mudou seu domicílio. Ele só disse que não volta para o Brasil por medo de responder pelos crimes que praticou. Pode o réu, qualquer réu, se beneficiar da própria torpeza”.\nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados\n“O processo penal não é palhaçada,  a aplicação da justiça não é palhaçada. As normas existem para garantir o contraditório, a ampla defesa, dentro da paridade de armas, não para que fraudes e crimes praticados continuem se perpetuando”.\nMoraes destacou que Eduardo focou em ameaças com a pretensão de que seu pai não fosse condenado e que o STF não realizasse o julgamento da trama golpista.\n“Nenhuma relação com atividade parlamentar, mas ameaças pretendendo com isso que seu pai não fosse condenado”, afirmou.\nAcusação\nO objetivo de Eduardo, segundo a PGR, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. \nA procuradoria argumentou que as provas reunidas ao longo do processo confirmavam a conduta criminosa, sendo que o objetivo sempre foi o de sobrepor os interesses da família Bolsonaro às normas do devido processo legal e do bom ordenamento da Justiça para livrar o pai da responsabilização criminal. \nA Procuradoria listou uma série de declarações de Eduardo, em entrevistas e em postagens em redes sociais, além de trocas de mensagens com Jair Bolsonaro que revelam articulações nos Estados Unidos para constranger a cúpula do Judiciário.\nO subprocurador-geral da República Antônio Edílio Magalhães apresentou em sua manifestação uma série de publicações e mensagens trocadas entre Eduardo e seu pai para sustentar o pedido de condenação. \n\"Essa é uma situação relativamente simples do ponto de vista penal. Há todo um elemento, um contexto fático e conjunto de provas evidenciando que essa coação efetivamente existiu\", afirmou.\n\"Quando se fala em defesa das instituições, fala-se em defesa, inclusive da cidadania, em defesa de todos. Então, a posição da Procuradoria Geral da República que é uma posição já evidenciada desde o início e reforçada nas alegações finais, é no sentido da procedência da presente ação penal\".\nDefesa\nAdvogado que falou em defesa de Eduardo foi o Defensor Público Esdras dos Santos Carvalho. Eduardo não indicou advogado.\nEle pediu a absolvição do ex-deputado por falta de provas. A DPU afirmou que questões processuais justificam a anulação de todo o processo, entre elas, a participação de Moraes no julgamento.\nPara a Defensoria, Eduardo teve uma defesa \"meramente formal, produzida sem qualquer contato com o defendido, sem sua versão dos acontecimentos e sem sua orientação. \nA DPU afirmou que o caso é de absolvição por falta de provas, sendo que as condutas narradas pela Procuradoria não configuram crime e as declarações estavam protegidas por liberdade de expressão. \nA defesa enfatizou ainda que o ex-deputado não teria poder de decisão sobre os atos soberanos do governo americano.\n\"Entende a defensoria que o exame dos elementos dos autos, as manifestações políticas, estariam acobertados sob a liberdade de expressão que teria o então denunciado. E essas manifestações de natureza política, jamais poderiam ser consideradas infrações penais\", afirmou.",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 22:26:13 -0000"
+    },
+    {
+      "id": "4e8d323c7532",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Primeira Turma do STF rejeita recurso e mantém condenação de Eduardo Bolsonaro por coação",
+      "link": "https://www.estadao.com.br/politica/primeira-turma-do-stf-rejeita-recurso-e-mantem-condenacao-de-eduardo-bolsonaro-por-coacao/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 18 Sep 2026 23:08:27 +0000"
     },
     {
       "id": "d46bbf87bec5",
@@ -215,11 +262,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
     },
     {
@@ -236,54 +282,51 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Sat, 19 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "31630b614dfe",
-      "source": "Folha de São Paulo",
+      "id": "f73496172b27",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Rússia relata ataques ao sistema de votação no segundo dia de eleições parlamentares",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-relata-ataques-ao-sistema-de-votacao-no-segundo-dia-de-eleicoes-parlamentares.shtml",
-      "summary": "As autoridades da Rússia relataram ataques a sistemas de votação e de comunicação em todo o país neste sábado (19), segundo dia das eleições parlamentares que o Kremlin trata como teste do apoio popular à guerra na Ucrânia.\nLeia mais (09/19/2026 - 10h57)",
+      "title": "Datafolha: 34% dizem que apoio ao  impeachment de ministros do STF aumenta chance de voto em candidato ao Senado",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-eleicao-senado-stf-voto.ghtml",
+      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra o impacto do escândalo do banco Master e da crise no Supremo Tribunal Federal (STF) sobre a percepção dos eleitores a duas semanas da votação para presidente, governador, senador, deputado federal e deputado estadual.\nO Datafolha perguntou sobre a eleição do Senado, já que senadores têm a prerrogativa de julgar ministros do STF em eventuais processos de impeachment por crimes de responsabilidade.\nPergunta: o fato de um candidato ao Senado ser a favor do impeachment de ministros do STF aumenta, não muda ou diminui as chances de você votar nele?\nAumenta: 34%\nDiminui: 31%\nNão muda: 30%\nNão sabe: 5%\nOs números mudam conforme as preferências dos eleitores. Entre quem vota em Flávio Bolsonaro (PL), 49% afirmam que a posição pró-impeachment do candidato aumenta as chances de voto nele. Entre os eleitores de Lula (PT), 23% respondem isso. \nDatafolha: eleição do Senado e impeachment de ministros do STF\nArte g1\nA pesquisa foi encomendada pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nNa eleição deste ano, o Senado vai renovar dois terços das cadeiras — 54 de 81. Por isso, cada eleitor terá que votar em dois candidatos diferentes. Entenda aqui o processo e veja como evitar erros.\nAgora no g1\nVotação para presidente\nA pesquisa mostra também se o caso Master e seus desdobramentos no Supremo influenciam a escolha dos eleitores na eleição para a Presidência da República.\nPara 47%, a crise terá influência no voto em 4 de outubro. Outros 49% afirmam que não terá influência. Veja os dados completos abaixo:\nPergunta: a crise no STF e o escândalo do Master influenciam seu voto para presidente?\nSim, grande influência: 36%\nSim, pequena influência: 11%\nNão terá influência: 49%\nNão sabe: 4%\nLEIA MAIS\n38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio\n34% dizem que caso Master envolve mais políticos de esquerda e 27% afirmam que são políticos de direita\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nSessão plenária do STF\nRosinei Coutinho/STF",
       "tags": [
-        "eleições"
+        "STF",
+        "impeachment"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 88,
-      "publishedRaw": "19 Sep 2026 10:57:00 -0300"
+      "score": 87,
+      "publishedRaw": "Fri, 18 Sep 2026 22:14:20 -0000"
     },
     {
-      "id": "371dee03b13e",
+      "id": "6599ad4b3374",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "O que os russos esperam das eleições parlamentares de Putin",
-      "link": "https://www.cnnbrasil.com.br/internacional/o-que-os-russos-esperam-das-eleicoes-parlamentares-de-putin/",
-      "summary": "Muitos cidadãos duvidam da capacidade do voto de mudar algo, enquanto observadores apontam para resultados predeterminados",
+      "title": "Rejeição a data centers vira aposta de democratas em eleições nos EUA",
+      "link": "https://www.cnnbrasil.com.br/internacional/rejeicao-a-data-centers-vira-aposta-de-democratas-em-eleicoes-nos-eua/",
+      "summary": "Em Ohio, comunidade coleta assinaturas para proposta de emenda constitucional e aprova moratória contra grandes instalações de tecnologia",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 88,
-      "publishedRaw": "Sat, 19 Sep 2026 13:55:32 +0000"
+      "score": 87,
+      "publishedRaw": "Sat, 19 Sep 2026 15:15:25 +0000"
     },
     {
       "id": "46bbf60956d3",
@@ -299,11 +342,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Sat, 19 Sep 2026 15:13:18 +0000"
     },
     {
@@ -320,11 +362,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Sat, 19 Sep 2026 14:53:04 +0000"
     },
     {
@@ -341,7 +382,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -362,7 +402,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -382,7 +421,6 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -403,53 +441,12 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Fri, 18 Sep 2026 13:00:07 GMT"
-    },
-    {
-      "id": "b76564e39535",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF rejeita recurso e mantém condenação de Eduardo Bolsonaro por coação em processo sobre trama golpista",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/18/stf-forma-maioria-para-rejeitar-recurso-contra-condenacao-de-eduardo-bolsonaro-por-coacao-em-processo-sobre-trama-golpista.ghtml",
-      "summary": "A Primeira Turma do Supremo Tribunal Federal (STF) rejeitou por unanimidade recurso apresentado pela defesa do ex-deputado Eduardo Bolsonaro contra a condenação por tentativa de interferir no julgamento do pai, o ex-presidente Jair Bolsonaro (PL), na trama golpista.\nEduardo Bolsonaro foi condenado a quatro anos e dois meses de prisão em junho deste ano. A pena deverá começar a ser cumprida em regime semiaberto. Também ficará inelegível por 12 anos, sem poder ser eleito até 2038.\nO voto do ministro Alexandre de Moraes, relator, foi seguido por Flávio Dino, Cármen Lúcia e Cristiano Zanin no plenário virtual.\nAgora no g1\nEduardo também precisará pagar uma multa de R$ 162 mil reais referentes ao pagamento de 50 dias multa, um dia multa equivale a dois salários mínimos. \nAo votar pela condenação de Eduardo, Moraes entendeu que há elementos que comprovam que Eduardo Bolsonaro praticou o crime de coação no curso do processo, como acusou a Procuradoria Geral da República (PGR).\nEduardo Bolsonaro é acusado de promover junto ao governo Donald Trump, dos Estados Unidos, ações para criar um clima de instabilidade e temor, ameaçando e projetando retaliações estrangeiras contra ministros do STF e o Brasil. \nEduardo foi denunciado pela Procuradoria-geral da Pública e virou réu no STF. O objetivo das ações do deputado cassado no exterior, segundo a Procuradoria, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. Bolsonaro foi condenado a mais de 27 anos de prisão e cumpre prisão domiciliar. \nO ministro relator rebateu uma preliminar da defesa de Eduardo que alegava que ele estava protegido pela liberdade de expressão e pela imunidade parlamentar.\n“Não é função de deputado federal brasileiro fazer lobby no exterior contra o próprio país. Mesmo que estivesse no exercício do mandato e não licenciado, mesmo que estivesse no exercício, não estaria acobertado pela imunidade parlamentar”, afirmou. \nMoraes afirmou ainda que o próprio Eduardo disse que não comunicou mudança de domicílio para os EUA e que estava no exterior para fugir da Justiça.\n“Até hoje em momento algum nem o próprio réu em qualquer lugar disse que mudou seu domicílio. Ele só disse que não volta para o Brasil por medo de responder pelos crimes que praticou. Pode o réu, qualquer réu, se beneficiar da própria torpeza”.\nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados\n“O processo penal não é palhaçada,  a aplicação da justiça não é palhaçada. As normas existem para garantir o contraditório, a ampla defesa, dentro da paridade de armas, não para que fraudes e crimes praticados continuem se perpetuando”.\nMoraes destacou que Eduardo focou em ameaças com a pretensão de que seu pai não fosse condenado e que o STF não realizasse o julgamento da trama golpista.\n“Nenhuma relação com atividade parlamentar, mas ameaças pretendendo com isso que seu pai não fosse condenado”, afirmou.\nAcusação\nO objetivo de Eduardo, segundo a PGR, era tentar impedir que o ex-presidente Jair Bolsonaro fosse condenado na chamada trama golpista. \nA procuradoria argumentou que as provas reunidas ao longo do processo confirmavam a conduta criminosa, sendo que o objetivo sempre foi o de sobrepor os interesses da família Bolsonaro às normas do devido processo legal e do bom ordenamento da Justiça para livrar o pai da responsabilização criminal. \nA Procuradoria listou uma série de declarações de Eduardo, em entrevistas e em postagens em redes sociais, além de trocas de mensagens com Jair Bolsonaro que revelam articulações nos Estados Unidos para constranger a cúpula do Judiciário.\nO subprocurador-geral da República Antônio Edílio Magalhães apresentou em sua manifestação uma série de publicações e mensagens trocadas entre Eduardo e seu pai para sustentar o pedido de condenação. \n\"Essa é uma situação relativamente simples do ponto de vista penal. Há todo um elemento, um contexto fático e conjunto de provas evidenciando que essa coação efetivamente existiu\", afirmou.\n\"Quando se fala em defesa das instituições, fala-se em defesa, inclusive da cidadania, em defesa de todos. Então, a posição da Procuradoria Geral da República que é uma posição já evidenciada desde o início e reforçada nas alegações finais, é no sentido da procedência da presente ação penal\".\nDefesa\nAdvogado que falou em defesa de Eduardo foi o Defensor Público Esdras dos Santos Carvalho. Eduardo não indicou advogado.\nEle pediu a absolvição do ex-deputado por falta de provas. A DPU afirmou que questões processuais justificam a anulação de todo o processo, entre elas, a participação de Moraes no julgamento.\nPara a Defensoria, Eduardo teve uma defesa \"meramente formal, produzida sem qualquer contato com o defendido, sem sua versão dos acontecimentos e sem sua orientação. \nA DPU afirmou que o caso é de absolvição por falta de provas, sendo que as condutas narradas pela Procuradoria não configuram crime e as declarações estavam protegidas por liberdade de expressão. \nA defesa enfatizou ainda que o ex-deputado não teria poder de decisão sobre os atos soberanos do governo americano.\n\"Entende a defensoria que o exame dos elementos dos autos, as manifestações políticas, estariam acobertados sob a liberdade de expressão que teria o então denunciado. E essas manifestações de natureza política, jamais poderiam ser consideradas infrações penais\", afirmou.",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 22:26:13 -0000"
-    },
-    {
-      "id": "4e8d323c7532",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Primeira Turma do STF rejeita recurso e mantém condenação de Eduardo Bolsonaro por coação",
-      "link": "https://www.estadao.com.br/politica/primeira-turma-do-stf-rejeita-recurso-e-mantem-condenacao-de-eduardo-bolsonaro-por-coacao/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 23:08:27 +0000"
     },
     {
       "id": "1caebe76148b",
@@ -464,11 +461,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
     },
     {
@@ -484,12 +482,55 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "b9915b401e12",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dirigente de ONG com recursos federais lidera movimento pró-Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/dirigente-de-ong-com-recursos-federais-lidera-movimento-pro-lula/",
+      "summary": "Organização ligada a Mehl recebeu cerca de R$ 5,7 milhões de 2 ministérios; grupo nega uso de verba pública",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 19 Sep 2026 15:37:24 +0000"
+    },
+    {
+      "id": "502ffcc52d21",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja convoca mulheres a buscar votos para Lula em SC",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/janja-convoca-mulheres-a-buscar-votos-para-lula-em-sc/",
+      "summary": "Primeira-dama orientou apoiadores a dialogar com indecisos e eleitores do bolsonarismo sobre trabalho, apostas e políticas públicas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 19 Sep 2026 15:21:25 +0000"
     },
     {
       "id": "9442a5549898",
@@ -505,30 +546,31 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 19 Sep 2026 14:47:58 +0000"
     },
     {
-      "id": "f73496172b27",
+      "id": "3db10e14eed5",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Datafolha: 34% dizem que apoio ao  impeachment de ministros do STF aumenta chance de voto em candidato ao Senado",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-eleicao-senado-stf-voto.ghtml",
-      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra o impacto do escândalo do banco Master e da crise no Supremo Tribunal Federal (STF) sobre a percepção dos eleitores a duas semanas da votação para presidente, governador, senador, deputado federal e deputado estadual.\nO Datafolha perguntou sobre a eleição do Senado, já que senadores têm a prerrogativa de julgar ministros do STF em eventuais processos de impeachment por crimes de responsabilidade.\nPergunta: o fato de um candidato ao Senado ser a favor do impeachment de ministros do STF aumenta, não muda ou diminui as chances de você votar nele?\nAumenta: 34%\nDiminui: 31%\nNão muda: 30%\nNão sabe: 5%\nOs números mudam conforme as preferências dos eleitores. Entre quem vota em Flávio Bolsonaro (PL), 49% afirmam que a posição pró-impeachment do candidato aumenta as chances de voto nele. Entre os eleitores de Lula (PT), 23% respondem isso. \nDatafolha: eleição do Senado e impeachment de ministros do STF\nArte g1\nA pesquisa foi encomendada pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nNa eleição deste ano, o Senado vai renovar dois terços das cadeiras — 54 de 81. Por isso, cada eleitor terá que votar em dois candidatos diferentes. Entenda aqui o processo e veja como evitar erros.\nAgora no g1\nVotação para presidente\nA pesquisa mostra também se o caso Master e seus desdobramentos no Supremo influenciam a escolha dos eleitores na eleição para a Presidência da República.\nPara 47%, a crise terá influência no voto em 4 de outubro. Outros 49% afirmam que não terá influência. Veja os dados completos abaixo:\nPergunta: a crise no STF e o escândalo do Master influenciam seu voto para presidente?\nSim, grande influência: 36%\nSim, pequena influência: 11%\nNão terá influência: 49%\nNão sabe: 4%\nLEIA MAIS\n38% dizem que crise no STF prejudica Lula e 31% afirmam que prejudica Flávio\n34% dizem que caso Master envolve mais políticos de esquerda e 27% afirmam que são políticos de direita\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.\nSessão plenária do STF\nRosinei Coutinho/STF",
+      "title": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-confianca-instituicoes.ghtml",
+      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra que 48% dos eleitores brasileiros não confiam no Supremo Tribunal Federal (STF), o maior índice de desconfiança da Corte desde o início da série histórica, em 2012. Com o resultado, o STF aparece, numericamente, como a instituição com maior índice de desconfiança entre as avaliadas pelo instituto.\nA taxa subiu cinco pontos percentuais desde março, quando 43% diziam não confiar no Supremo — até então, o recorde da série. Na pesquisa atual, 35% afirmam confiar um pouco no STF e 14% dizem confiar muito. Veja os números:\nSupremo\nConfia muito: 14%\nConfia um pouco: 35%\nNão confia: 48%\nDatafolha - Nível de confiança no Supremo Tribunal Federal em setembro de 2026.\nArte/g1\nSegundo o Datafolha, é a primeira vez que o STF aparece numericamente no topo da lista de desconfiança. Em outros momentos da série, essa posição já foi ocupada por partidos políticos, Congresso Nacional e Presidência da República.\nEstátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília\nAntonio Augusto/STF\nCongresso\nO Congresso Nacional aparece em patamar próximo. Segundo o Datafolha, 45% dos eleitores dizem não confiar nos deputados e senadores, mesmo percentual registrado em março. Outros 43% afirmam confiar um pouco no Congresso, enquanto 11% dizem confiar muito.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição — até então, o maior índice da série. Agora, além dos 48% que não confiam, 35% dizem confiar um pouco no STF e 14%, confiar muito. Veja os números:\nConfia muito: 11%\nConfia um pouco: 43%\nNão confia: 45%\nPresidência da República\nA Presidência da República registra 42% de desconfiança, ante 43% em março. Ao mesmo tempo, 25% dos entrevistados dizem confiar muito na Presidência e 32%, confiar um pouco. Em março, esses percentuais eram de 22% e 34%, respectivamente. Veja os números:\nConfia muito: 25%\nConfia um pouco: 32%\nNão confia: 42%\nO maior índice de desconfiança na Presidência registrado pelo Datafolha foi de 65%, em junho de 2017.\nPartidos políticos\nOs partidos políticos são alvo de desconfiança de 45% dos eleitores brasileiros, segundo o Datafolha. O índice caiu sete pontos em relação a março, quando estava em 52%, e está distante do recorde de 69%, registrado em junho de 2017. Veja os números:\nConfia muito: 9%\nConfia um pouco: 44%\nNão confia: 45%\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nOs entrevistados também foram questionados sobre o nível de confiança em outras instituições, como a imprensa, as grandes empresas brasileiras, o Poder Judiciário e as Forças Armadas. Veja abaixo:\nImprensa\nConfia muito: 22%\nConfia um pouco: 44%\nNão confia: 33%\nGrandes empresas brasileiras\nConfia muito: 29%\nConfia um pouco: 46%\nNão confia: 23%\nPoder Judiciário\nConfia muito: 17%\nConfia um pouco: 43%\nNão confia: 38%\nForças Armadas\nConfia muito: 34%\nConfia um pouco: 39%\nNão confia: 25%\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
       "tags": [
-        "STF",
-        "impeachment"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 83,
-      "publishedRaw": "Fri, 18 Sep 2026 22:14:20 -0000"
+      "score": 84,
+      "publishedRaw": "Fri, 18 Sep 2026 22:16:02 -0000"
     },
     {
       "id": "666d7e04e16a",
@@ -545,49 +587,12 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 83,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 21:49:28 -0000"
-    },
-    {
-      "id": "9f0e22614054",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
-    },
-    {
-      "id": "3db10e14eed5",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-confianca-instituicoes.ghtml",
-      "summary": "Datafolha: Desconfiança no STF sobe a 48% e bate recorde\nPesquisa Datafolha divulgada nesta sexta-feira (18) mostra que 48% dos eleitores brasileiros não confiam no Supremo Tribunal Federal (STF), o maior índice de desconfiança da Corte desde o início da série histórica, em 2012. Com o resultado, o STF aparece, numericamente, como a instituição com maior índice de desconfiança entre as avaliadas pelo instituto.\nA taxa subiu cinco pontos percentuais desde março, quando 43% diziam não confiar no Supremo — até então, o recorde da série. Na pesquisa atual, 35% afirmam confiar um pouco no STF e 14% dizem confiar muito. Veja os números:\nSupremo\nConfia muito: 14%\nConfia um pouco: 35%\nNão confia: 48%\nDatafolha - Nível de confiança no Supremo Tribunal Federal em setembro de 2026.\nArte/g1\nSegundo o Datafolha, é a primeira vez que o STF aparece numericamente no topo da lista de desconfiança. Em outros momentos da série, essa posição já foi ocupada por partidos políticos, Congresso Nacional e Presidência da República.\nEstátua da Justiça, em frente à sede do Supremo Tribunal Federal, em Brasília\nAntonio Augusto/STF\nCongresso\nO Congresso Nacional aparece em patamar próximo. Segundo o Datafolha, 45% dos eleitores dizem não confiar nos deputados e senadores, mesmo percentual registrado em março. Outros 43% afirmam confiar um pouco no Congresso, enquanto 11% dizem confiar muito.\nA desconfiança no Supremo subiu cinco pontos desde março, quando 43% afirmavam não confiar na instituição — até então, o maior índice da série. Agora, além dos 48% que não confiam, 35% dizem confiar um pouco no STF e 14%, confiar muito. Veja os números:\nConfia muito: 11%\nConfia um pouco: 43%\nNão confia: 45%\nPresidência da República\nA Presidência da República registra 42% de desconfiança, ante 43% em março. Ao mesmo tempo, 25% dos entrevistados dizem confiar muito na Presidência e 32%, confiar um pouco. Em março, esses percentuais eram de 22% e 34%, respectivamente. Veja os números:\nConfia muito: 25%\nConfia um pouco: 32%\nNão confia: 42%\nO maior índice de desconfiança na Presidência registrado pelo Datafolha foi de 65%, em junho de 2017.\nPartidos políticos\nOs partidos políticos são alvo de desconfiança de 45% dos eleitores brasileiros, segundo o Datafolha. O índice caiu sete pontos em relação a março, quando estava em 52%, e está distante do recorde de 69%, registrado em junho de 2017. Veja os números:\nConfia muito: 9%\nConfia um pouco: 44%\nNão confia: 45%\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. O Datafolha ouviu 2.002 pessoas de 16 anos ou mais entre os dias 15 e 16 de setembro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é BR-04029/2026.\nOs entrevistados também foram questionados sobre o nível de confiança em outras instituições, como a imprensa, as grandes empresas brasileiras, o Poder Judiciário e as Forças Armadas. Veja abaixo:\nImprensa\nConfia muito: 22%\nConfia um pouco: 44%\nNão confia: 33%\nGrandes empresas brasileiras\nConfia muito: 29%\nConfia um pouco: 46%\nNão confia: 23%\nPoder Judiciário\nConfia muito: 17%\nConfia um pouco: 43%\nNão confia: 38%\nForças Armadas\nConfia muito: 34%\nConfia um pouco: 39%\nNão confia: 25%\nCrise no STF e embates entre ministros\nA pesquisa foi realizada em meio à crise no STF, intensificada nas últimas semanas depois que o ministro André Mendonça levantou o sigilo de um relatório da Polícia Federal sobre mensagens trocadas entre o ex-banqueiro Daniel Vorcaro e um número atribuído ao ministro Alexandre de Moraes. Desde então, vieram a público outros documentos e mensagens — parte deles ainda sob sigilo — com citações a outros integrantes da Corte e a seus familiares.\nMoraes e Gilmar Mendes criticam a condução de Mendonça no caso Master. Moraes o acusa de ter cometido irregularidades e de atropelar procedimentos aplicáveis a investigações que envolvem autoridades com foro. Gilmar afirma que a atuação do colega teve motivação político-eleitoral. Mendonça nega as acusações.\nNa última terça-feira (15), terminou sem decisão a sessão extraordinária convocada pelo presidente do STF, Edson Fachin, para discutir o relatório da PF que atribui a Moraes mensagens trocadas com Vorcaro. A sessão foi marcada por embates e trocas de acusações entre os integrantes do tribunal.\nFlávio Dino pediu vista — ou seja, mais tempo para analisar o caso — e tem até 90 dias para devolver o processo ao plenário. O prazo termina em dezembro, após as eleições. Se ele não os devolver nesse período, o assunto fica automaticamente liberado para nova inclusão em pauta.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 18 Sep 2026 22:16:02 -0000"
     },
     {
       "id": "c9183f38fa57",
@@ -602,9 +607,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
     },
     {
@@ -620,9 +626,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 18 Sep 2026 21:29:45 +0000"
     },
     {
@@ -638,49 +645,52 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 09:18:39 GMT"
     },
     {
-      "id": "35bb3a8aeed2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
-      "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 19 Sep 2026 09:27:59 GMT"
-    },
-    {
-      "id": "a7aae5e9fb72",
+      "id": "6e31b6b5c2f9",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Empresa é condenada a pagar indenizações por pressão para votar em Bolsonaro em 2022",
-      "link": "https://www.estadao.com.br/politica/eleicoes/empresa-e-condenada-a-pagar-indenizacoes-por-pressao-para-votar-em-bolsonaro-em-2022-nprp/",
-      "summary": "Dentro de ações trabalhistas, Comercial de Móveis Jordanésia deverá indenizar ex-funcionários por assédio eleitoral",
+      "title": "Candidato usa Bolsonaro em santinho apesar de veto do TSE",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/candidato-usa-bolsonaro-em-santinho-apesar-de-veto-do-tse/",
+      "summary": "",
       "tags": [
-        "Bolsonaro"
+        "Bolsonaro",
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
+      "score": 83,
+      "publishedRaw": "Sat, 19 Sep 2026 15:00:00 +0000"
+    },
+    {
+      "id": "9f0e22614054",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que petróleo da Margem Equatorial pode ser um 'novo pré-sal' e alerta sobre interesse de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/18/lula-diz-que-petroleo-da-margem-equatorial-pode-ser-um-novo-pre-sal-e-alerta-sobre-interesse-de-trump.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (18) que a Margem Equatorial brasileira tem potencial para se tornar um novo pré-sal e afirmou que o Brasil precisa proteger suas riquezas naturais, diante do interesse do presidente dos Estados Unidos, Donald Trump, por petróleo, minerais críticos e terras raras.\nSegundo Lula, o petróleo encontrado na região \"parece ser de mais qualidade\" do que o produzido no pré-sal.\n\"Lá há petróleo... possivelmente o novo pré-sal. Parece ser de mais qualidade\", disse Lula em uma base da Polícia Rodoviária Federal (PRF), no Rio de Janeiro.\nA Petrobras anunciou recentemente a descoberta de petróleo no campo de Morpho, na Bacia da Foz do Amazonas, na costa do Amapá, dentro da Margem Equatorial. A empresa já recebeu licença do Ibama para ampliar a exploração em outros poços próximos a Morpho.\nO pré-sal produz petróleo de alta qualidade e responde por grande parte da produção brasileira de petróleo e gás.\nLula afirmou que o Brasil precisa cuidar dessas riquezas e citou o interesse de Trump por recursos naturais considerados estratégicos.\n\"O Trump está atrás de minerais críticos, petróleo e terras raras. Não, isso aqui é nosso\", afirmou Lula, sob aplausos da plateia, formada majoritariamente por agentes de segurança.\nO presidente também disse que o governo precisará fazer grandes investimentos para garantir o controle sobre essas riquezas em um país de dimensões continentais como o Brasil.\nNa mesma ocasião, Lula voltou a criticar Trump e o governo dos Estados Unidos pela classificação de facções criminosas brasileiras como organizações terroristas.\n\"Não aceito a ideia de que as facções de bandidos são terroristas, como diz o Trump. Quando ele fala em terrorismo, fala em termos de Estado\", declarou o presidente.\n*Com informações da Reuters\nSonda de perfuração de petróleo NS-42\nPetrobras/Divulgação",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
     },
     {
       "id": "58d06f3a0f63",
@@ -696,9 +706,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 76,
+      "score": 81,
       "publishedRaw": "Fri, 18 Sep 2026 20:06:48 -0000"
     },
     {
@@ -715,10 +726,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 76,
+      "score": 81,
       "publishedRaw": "Sat, 19 Sep 2026 00:18:06 +0000"
+    },
+    {
+      "id": "35bb3a8aeed2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Segundo governo, aumento de 15% é apenas reajuste da inflação após anos de congelamento dos benefícios; para cientista político, medida é iniciativa econômica lançada de olho no possível impacto eleitoral.",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 19 Sep 2026 09:27:59 GMT"
     },
     {
       "id": "1123e7abdfef",
@@ -766,6 +800,21 @@
       "publishedRaw": "Fri, 18 Sep 2026 22:15:53 -0000"
     },
     {
+      "id": "10ee5682b087",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Durigan defende reajuste do Bolsa Família às vésperas da eleição: ‘Foi pela inflação, não foi real’",
+      "link": "https://www.estadao.com.br/economia/durigan-defende-reajuste-do-bolsa-familia-as-vesperas-da-eleicao-foi-pela-inflacao-nao-foi-real/",
+      "summary": "",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Sat, 19 Sep 2026 15:14:20 +0000"
+    },
+    {
       "id": "5686aea3de47",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -809,21 +858,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 18 Sep 2026 22:15:40 +0000"
-    },
-    {
-      "id": "daf714d81bda",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reajuste do Bolsa Família fideliza eleitor mais do que vira voto, dizem analistas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/reajuste-do-bolsa-familia-fideliza-eleitor-mais-do-que-vira-voto-dizem-analistas/",
-      "summary": "",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Fri, 18 Sep 2026 20:29:12 +0000"
     }
   ]
 }
