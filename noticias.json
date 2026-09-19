@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T02:15:07.759664+00:00",
+  "generated_at": "2026-09-19T02:41:32.402392+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -432,28 +432,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 00:45:27 +0000"
     },
     {
-      "id": "7b8e925a356b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Frente parlamentar da Câmara repudia fala de Lula sobre Igreja Católica",
-      "link": "https://www.cnnbrasil.com.br/politica/frente-parlamentar-da-camara-repudia-fala-de-lula-sobre-igreja-catolica/",
-      "summary": "Durante encontro com lideranças protestantes nesta semana, presidente disse que igrejas evangélicas dão mais liberdade e espaço para mulheres e defendeu fim do celibato no catolicismo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 00:10:13 +0000"
-    },
-    {
       "id": "b8cca122aadd",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -474,6 +452,28 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 16:54:09 +0000"
+    },
+    {
+      "id": "837a291735e4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula prepara caminhada com João Campos no Recife na 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/lula-prepara-caminhada-com-joao-campos-no-recife-na-6a-feira/",
+      "summary": "Presidente decide ir no 1º turno a Pernambuco, onde nasceu, em gesto ao aliado do PSB",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 19 Sep 2026 02:40:25 +0000"
     },
     {
       "id": "169ce633458c",
@@ -540,50 +540,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 18 Sep 2026 23:54:46 +0000"
-    },
-    {
-      "id": "d9dd810ff739",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarcísio deixou SP “de pires na mão” e é ingrato com Lula, diz Haddad",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-deixou-sp-de-pires-na-mao-e-e-ingrato-com-lula-diz-haddad/",
-      "summary": "Petista critica gestão estadual e cita apoio do governo federal durante mandato do governador",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 23:31:12 +0000"
-    },
-    {
-      "id": "c62399951007",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Decidi que vou acabar com as bets”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/decidi-que-vou-acabar-com-as-bets-diz-lula/",
-      "summary": "Em tom crítico, presidente afirma que conversou com apostadores viciados para justificar decisão",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 18 Sep 2026 23:26:06 +0000"
     },
     {
       "id": "666d7e04e16a",
@@ -879,21 +835,6 @@
       ],
       "score": 72,
       "publishedRaw": "Fri, 18 Sep 2026 13:00:07 GMT"
-    },
-    {
-      "id": "8958571390bd",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tebet diz que Flávio não pode ir às urnas sem explicar Master",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tebet-diz-que-flavio-nao-pode-ir-as-urnas-sem-explicar-master/",
-      "summary": "Candidata ao Senado diz que ex-presidente deve explicar pedido de R$ 130 milhões a Daniel Vorcaro",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "Fri, 18 Sep 2026 23:36:12 +0000"
     },
     {
       "id": "1123e7abdfef",
