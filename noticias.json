@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:13:56.991882+00:00",
+  "generated_at": "2026-09-19T07:40:53.153824+00:00",
   "items": [
     {
       "id": "711c807a322e",
@@ -238,29 +238,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
     },
     {
-      "id": "a598fc9a5516",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Brasileiro associa corrupção ao governo Lula e STF, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/brasileiro-associa-corrupcao-ao-governo-lula-e-stf-diz-especialista/",
-      "summary": "Ao WW, o diretor de inteligência da Quaest Guilherme Russo afirma que pacote de medidas do governo Lula visa desviar atenção das pesquisas negativas ligadas ao STF",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 19 Sep 2026 06:25:44 +0000"
-    },
-    {
       "id": "c99330f6c478",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -325,13 +302,13 @@
       "publishedRaw": "19 Sep 2026 04:00:00 -0300"
     },
     {
-      "id": "92d45753ea30",
+      "id": "487bad478b3c",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Guerra de despachos no STF teve ao menos 44 movimentações em duas semanas",
-      "link": "https://www.cnnbrasil.com.br/politica/guerra-de-despachos-no-stf-teve-ao-menos-44-movimentacoes-em-duas-semanas/",
-      "summary": "Sequência de cobranças entre os ministros ampliou tensão sobre a Corte e expôs tribunal dividido entre alas pró-Moraes e pró-Mendonça",
+      "title": "Não temos leis que resolvam a falta de quórum no STF, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/politica/nao-temos-leis-que-resolvam-a-falta-de-quorum-no-stf-diz-especialista/",
+      "summary": "Ao WWW, o advogado doutor em processo penal da USP Fauzi Choukr alerta que, se Mendonça e Moraes forem investigados, o STF ficará sem quórum e sem previsão legal para reposição de ministros.",
       "tags": [
         "STF"
       ],
@@ -342,7 +319,7 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Sat, 19 Sep 2026 06:15:10 +0000"
+      "publishedRaw": "Sat, 19 Sep 2026 07:05:13 +0000"
     },
     {
       "id": "43e8a70b3da4",
@@ -669,6 +646,45 @@
       "publishedRaw": "Sat, 19 Sep 2026 01:25:12 +0000"
     },
     {
+      "id": "cc5d859d67cb",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Congresso tem vetos para análise desde o governo Bolsonaro; entenda o rito",
+      "link": "https://www.cnnbrasil.com.br/politica/congresso-tem-vetos-para-analise-desde-o-governo-bolsonaro-entenda-o-rito/",
+      "summary": "Regimento do Parlamento prevê que atos precisam ser incluídos na ordem do dia da sessão conjunta entre Câmara e Senado em até 30 dias após recebimento",
+      "tags": [
+        "Congresso",
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 19 Sep 2026 07:15:15 +0000"
+    },
+    {
+      "id": "a7aae5e9fb72",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Empresa é condenada a pagar indenizações por pressão para votar em Bolsonaro em 2022",
+      "link": "https://www.estadao.com.br/politica/eleicoes/empresa-e-condenada-a-pagar-indenizacoes-por-pressao-para-votar-em-bolsonaro-em-2022-nprp/",
+      "summary": "Dentro de ações trabalhistas, Comercial de Móveis Jordanésia deverá indenizar ex-funcionários por assédio eleitoral",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
+    },
+    {
       "id": "3875abb693a3",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -807,24 +823,6 @@
       ],
       "score": 80,
       "publishedRaw": "Fri, 18 Sep 2026 08:12:33 GMT"
-    },
-    {
-      "id": "a7aae5e9fb72",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Empresa é condenada a pagar indenizações por pressão para votar em Bolsonaro em 2022",
-      "link": "https://www.estadao.com.br/politica/eleicoes/empresa-e-condenada-a-pagar-indenizacoes-por-pressao-para-votar-em-bolsonaro-em-2022-nprp/",
-      "summary": "Dentro de ações trabalhistas, Comercial de Móveis Jordanésia deverá indenizar ex-funcionários por assédio eleitoral",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Fri, 18 Sep 2026 20:33:43 +0000"
     },
     {
       "id": "d46bbf87bec5",
