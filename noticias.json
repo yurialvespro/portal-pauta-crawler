@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:39:54.749536+00:00",
+  "generated_at": "2026-09-20T00:23:14.506317+00:00",
   "items": [
     {
       "id": "e431658c6afa",
@@ -86,12 +86,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Sat, 19 Sep 2026 17:14:58 +0000"
     },
     {
@@ -108,13 +107,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Fri, 18 Sep 2026 13:39:55 GMT"
     },
     {
@@ -131,7 +129,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -155,7 +152,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -178,13 +174,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Sat, 19 Sep 2026 20:38:19 +0000"
+    },
+    {
+      "id": "6e31b6b5c2f9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Candidato usa Bolsonaro em santinho apesar de veto do TSE",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/candidato-usa-bolsonaro-em-santinho-apesar-de-veto-do-tse/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Sat, 19 Sep 2026 15:00:00 +0000"
     },
     {
       "id": "1fac377a1ebf",
@@ -213,9 +229,9 @@
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE acolhe ação de Flávio contra Lula por desfile no Carnaval do Rio",
+      "title": "TSE aceita julgar ação contra Lula por propaganda no Carnaval",
       "link": "https://www.poder360.com.br/poder-justica/tse-acata-acao-de-flavio-contra-lula-por-desfile-no-carnaval-do-rio/",
-      "summary": "Ação cita irregularidades que envolvem financiamento com dinheiro público e propaganda eleitoral antecipada",
+      "summary": "Processo proposto por Flávio Bolsonaro (PL) cita o desfile de 2026, no Rio de Janeiro, quando Lula foi homenageado pela Acadêmicos de Niterói",
       "tags": [
         "TSE",
         "Lula"
@@ -243,12 +259,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 19:38:41 -0000"
     },
     {
@@ -264,12 +279,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 18:21:25 -0000"
     },
     {
@@ -285,160 +299,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 19 Sep 2026 17:16:31 -0000"
-    },
-    {
-      "id": "2d60704c69b2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O Grande Debate: Lula ou Flávio tem mais fôlego para crescer?",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-lula-ou-flavio-tem-mais-folego-para-crescer/",
-      "summary": "Datafolha mostra empate técnico no 2º turno: Lula com 46% e Flávio Bolsonaro com 44%; debatedores analisam cenário eleitoral",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 21:45:00 +0000"
-    },
-    {
-      "id": "0c9ffd6302eb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Comunista’, ‘vira-lata’, ‘sem condição psiquiátrica’: Lula e Flávio sobem o tom neste sábado em SC",
-      "link": "https://www.estadao.com.br/politica/eleicoes/comunista-vira-lata-sem-condicao-psiquiatrica-lula-e-flavio-sobem-o-tom-neste-sabado-em-sc/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 22:29:26 +0000"
-    },
-    {
-      "id": "46b60b6ff760",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça e Fux afirmam à PF que não conseguiram acessar celular de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mendonca-e-fux-afirmam-a-pf-que-nao-conseguiram-acessar-celular-de-vorcaro/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 20:28:57 +0000"
-    },
-    {
-      "id": "4614932e83b6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "A ideia de Flávio é ganhar eleição para tirar o pai da cadeia; quero ganhar para mantê-lo, diz Lula",
-      "link": "https://www.estadao.com.br/politica/a-ideia-de-flavio-e-ganhar-eleicao-para-tirar-o-pai-da-cadeia-quero-ganhar-para-mante-lo-diz-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 17:58:10 +0000"
-    },
-    {
-      "id": "1caebe76148b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dono de ONG bancada pelo governo mobiliza campanha paralela de Lula com aval de Janja",
-      "link": "https://www.estadao.com.br/politica/dono-de-ong-bancada-pelo-governo-mobiliza-campanha-paralela-de-lula-com-aval-de-janja/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "fe4b4300f486",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Propaganda de Lula destaca isenção do IR e fim da taxa das blusinhas",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/propaganda-de-lula-destaca-isencao-do-ir-e-fim-da-taxa-das-blusinhas/",
-      "summary": "Peça de 5 minutos e 31 segundos reúne balanço econômico do governo e críticas aos Bolsonaros",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 23:01:54 +0000"
-    },
-    {
-      "id": "857148c6313c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT no Rio reclama de falta de estrutura na campanha de Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-no-rio-reclama-de-falta-de-estrutura-na-campanha-de-lula/",
-      "summary": "Vice-presidente estadual diz que Direção Nacional reservou mais de R$ 120 milhões, mas não repassou recursos aos Estados",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 19 Sep 2026 20:02:15 +0000"
     },
     {
       "id": "0cd297a20657",
@@ -479,6 +345,66 @@
       "publishedRaw": "19 Sep 2026 20:30:00 -0300"
     },
     {
+      "id": "edfb70460723",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Vorcaro comprou Alexandre de Moraes e no pacote veio Lula, e também comprou Flávio’, diz Caiado",
+      "link": "https://www.estadao.com.br/politica/eleicoes/vorcaro-comprou-alexandre-de-moraes-e-no-pacote-veio-lula-e-tambem-comprou-flavio-diz-caiado/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 19 Sep 2026 23:50:57 +0000"
+    },
+    {
+      "id": "0c9ffd6302eb",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Comunista’, ‘vira-lata’, ‘sem condição psiquiátrica’: Lula e Flávio sobem o tom neste sábado em SC",
+      "link": "https://www.estadao.com.br/politica/eleicoes/comunista-vira-lata-sem-condicao-psiquiatrica-lula-e-flavio-sobem-o-tom-neste-sabado-em-sc/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 19 Sep 2026 22:29:26 +0000"
+    },
+    {
+      "id": "46b60b6ff760",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça e Fux afirmam à PF que não conseguiram acessar celular de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mendonca-e-fux-afirmam-a-pf-que-nao-conseguiram-acessar-celular-de-vorcaro/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 19 Sep 2026 20:28:57 +0000"
+    },
+    {
       "id": "51ce54f84804",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -498,26 +424,24 @@
       "publishedRaw": "Sat, 19 Sep 2026 18:01:00 +0000"
     },
     {
-      "id": "9dd6ad727559",
+      "id": "4614932e83b6",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio acusa Lula de aumentar Bolsa Família por ‘desespero’ e tentar ‘comprar voto dos pobres’",
-      "link": "https://www.estadao.com.br/politica/flavio-acusa-lula-de-aumentar-bolsa-familia-por-desespero-e-tentar-comprar-voto-dos-pobres/",
+      "title": "A ideia de Flávio é ganhar eleição para tirar o pai da cadeia; quero ganhar para mantê-lo, diz Lula",
+      "link": "https://www.estadao.com.br/politica/a-ideia-de-flavio-e-ganhar-eleicao-para-tirar-o-pai-da-cadeia-quero-ganhar-para-mante-lo-diz-lula/",
       "summary": "",
       "tags": [
-        "família",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Sat, 19 Sep 2026 17:12:20 +0000"
+      "publishedRaw": "Sat, 19 Sep 2026 17:58:10 +0000"
     },
     {
       "id": "d5eb2b30be8a",
@@ -539,24 +463,65 @@
       "publishedRaw": "Sat, 19 Sep 2026 09:18:39 GMT"
     },
     {
-      "id": "6e31b6b5c2f9",
-      "source": "Estadão",
+      "id": "fe4b4300f486",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Candidato usa Bolsonaro em santinho apesar de veto do TSE",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/candidato-usa-bolsonaro-em-santinho-apesar-de-veto-do-tse/",
-      "summary": "",
+      "title": "Propaganda de Lula destaca isenção do IR e fim da taxa das blusinhas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/propaganda-de-lula-destaca-isencao-do-ir-e-fim-da-taxa-das-blusinhas/",
+      "summary": "Peça de 5 minutos e 31 segundos reúne balanço econômico do governo e críticas aos Bolsonaros",
       "tags": [
-        "Bolsonaro",
-        "TSE"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 19 Sep 2026 23:01:54 +0000"
+    },
+    {
+      "id": "857148c6313c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT no Rio reclama de falta de estrutura na campanha de Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-no-rio-reclama-de-falta-de-estrutura-na-campanha-de-lula/",
+      "summary": "Vice-presidente estadual diz que Direção Nacional reservou mais de R$ 120 milhões, mas não repassou recursos aos Estados",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 19 Sep 2026 20:02:15 +0000"
+    },
+    {
+      "id": "9dd6ad727559",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio acusa Lula de aumentar Bolsa Família por ‘desespero’ e tentar ‘comprar voto dos pobres’",
+      "link": "https://www.estadao.com.br/politica/flavio-acusa-lula-de-aumentar-bolsa-familia-por-desespero-e-tentar-comprar-voto-dos-pobres/",
+      "summary": "",
+      "tags": [
+        "família",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 83,
-      "publishedRaw": "Sat, 19 Sep 2026 15:00:00 +0000"
+      "publishedRaw": "Sat, 19 Sep 2026 17:12:20 +0000"
     },
     {
       "id": "a17dc6904e34",
@@ -609,12 +574,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Fri, 18 Sep 2026 17:58:07 -0000"
     },
     {
@@ -670,7 +634,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -716,6 +679,24 @@
       "publishedRaw": "Sat, 19 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "d065e5550d58",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/19/jornalista-candidata-eleicoes-regionais-peru-assassinada.ghtml",
+      "summary": "Susy Aponte, jornalista e candidata às eleições regionais do Peru, foi assassinada durante evento de campanha neste sábado (19)\nReprodução/Instagram/@chinapolo_dominical\nA jornalista Susy Aponte, candidata às eleições regionais no Peru, foi assassinada a tiros neste sábado (19) enquanto realizava um ato de campanha em um mercado, informaram as autoridades locais.\nSusy tinha 44 anos e concorria ao governo do departamento de Áncash. As eleições acontecem no dia 4 de outubro.\nEla foi atacada durante evento junto a apoiadores no distrito de Caraz. O ataque deixou outras cinco pessoas feridas a tiros, que foram levadas ao hospital regional. \nUm homem venezuelano foi preso, informou a polícia em nota. A identidade dele ainda não foi divulgada.\nAgora no g1\nSusy mantinha um portal informativo, \"China Polo Dominical\", onde divulgava denúncias sobre supostas irregularidades e casos de corrupção na polícia. Há alguns dias, ela denunciou em suas redes sociais que havia recebido ameaças vindas das prisões.\nO perfil do portal no Instagram cobrou investigações: \"[Susy] havia denunciado ameaças contra sua vida e nunca deixou de investigar. Por isso, exigimos uma investigação completa, independente e sem intocáveis.\"\nO Conselho da Imprensa Peruana, que reúne jornalistas no Peru, pediu que a morte da comunicadora seja investigada.\n\"É necessário que se esclareçam os motivos do homicídio. Outros casos de assassinatos não foram esclarecidos\", afirmou a entidade em suas redes sociais.\nQuatro jornalistas peruanos foram assassinados em 2025, segundo a polícia.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Sat, 19 Sep 2026 23:35:29 -0000"
+    },
+    {
       "id": "9c6396967495",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -734,6 +715,44 @@
       "publishedRaw": "Sat, 19 Sep 2026 09:20:18 -0000"
     },
     {
+      "id": "7e8ce263024e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar: Quem age com partidarismo no TSE deve repensar permanência na Corte",
+      "link": "https://www.cnnbrasil.com.br/politica/gilmar-quem-age-com-partidarismo-no-tse-deve-repensar-permanencia-na-corte/",
+      "summary": "Em meio à crise no STF, ministro decano diz que \"risco de politização que vem de dentro\" da Justiça Eleitoral é grave, e que o Supremo atuará como \"instância de supervisão\"; Nunes Marques e André Mendonça estão no comando do TSE",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Sat, 19 Sep 2026 23:32:33 +0000"
+    },
+    {
+      "id": "e503ac24bf9b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após embates com Mendonça e Nunes Marques, Gilmar defende evitar politização do TSE",
+      "link": "https://www.estadao.com.br/politica/apos-embates-com-mendonca-e-nunes-marques-gilmar-defende-evitar-politizacao-do-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
+    },
+    {
       "id": "6d31b867be1d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -750,24 +769,6 @@
       ],
       "score": 77,
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
-    },
-    {
-      "id": "e503ac24bf9b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após embates com Mendonça e Nunes Marques, Gilmar defende evitar politização do TSE",
-      "link": "https://www.estadao.com.br/politica/apos-embates-com-mendonca-e-nunes-marques-gilmar-defende-evitar-politizacao-do-tse/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 73,
-      "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
     },
     {
       "id": "1123e7abdfef",
@@ -789,7 +790,7 @@
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Candidata chilena apoiada pelo Brasil desiste da candidatura à Secretaria-Geral da ONU",
+      "title": "Apoiada pelo Brasil, Michelle Bachelet desiste da candidatura à Secretaria-Geral da ONU",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/candidata-chilena-apoiada-pelo-brasil-desiste-da-candidatura-a-secretaria-geral-da-onu.shtml",
       "summary": "A ex-presidente do Chile Michelle Bachelet desistiu neste sábado (19) de sua candidatura à Secretaria-Geral da ONU (Organização das Nações Unidas). Bachelet era a postulante apoiada pelo Brasil, mas não tinha chances reais de assumir.\nLeia mais (09/19/2026 - 17h40)",
       "tags": [
@@ -798,6 +799,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "19 Sep 2026 17:40:00 -0300"
+    },
+    {
+      "id": "618b983ca082",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com reajuste, Bolsa Família chegará a 48% do salário mínimo, diz economista",
+      "link": "https://www.cnnbrasil.com.br/economia/com-reajuste-bolsa-familia-chegara-a-48-do-salario-minimo-diz-economista/",
+      "summary": "Para Zeina Latif, reajuste de 15% no programa social parte de base já elevada e não responde a urgência social perto da eleição",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Sat, 19 Sep 2026 23:30:02 +0000"
     },
     {
       "id": "5897059ce582",
