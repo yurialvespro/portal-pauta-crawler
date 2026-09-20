@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:42:33.516335+00:00",
+  "generated_at": "2026-09-20T04:15:56.173162+00:00",
   "items": [
     {
       "id": "e431658c6afa",
@@ -799,26 +799,6 @@
       "publishedRaw": "Sat, 19 Sep 2026 09:18:39 GMT"
     },
     {
-      "id": "6e31b6b5c2f9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Candidato usa Bolsonaro em santinho apesar de veto do TSE",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/candidato-usa-bolsonaro-em-santinho-apesar-de-veto-do-tse/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 83,
-      "publishedRaw": "Sat, 19 Sep 2026 15:00:00 +0000"
-    },
-    {
       "id": "9f0e22614054",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -906,6 +886,26 @@
       "publishedRaw": "Sat, 19 Sep 2026 09:27:59 GMT"
     },
     {
+      "id": "aa21a384dde5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE suspende candidatura de Deltan Dallagnol ao Senado pelo Paraná",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tse-suspende-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana.shtml",
+      "summary": "O TSE (Tribunal Superior Eleitoral) suspendeu, em decisão liminar, a candidatura do ex-deputado federal Deltan Dallagnol (Novo-PR) ao Senado pelo Paraná. A medida, assinada pelo ministro Floriano de Azevedo Marques, impede o candidato de realizar atos de campanha até o julgamento de um recurso contra o registro.\nLeia mais (09/20/2026 - 01h00)",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 78,
+      "publishedRaw": "20 Sep 2026 01:00:00 -0300"
+    },
+    {
       "id": "51e8325c19e2",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -918,10 +918,11 @@
         "TSE"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 74,
+      "score": 78,
       "publishedRaw": "Sun, 20 Sep 2026 01:35:03 +0000"
     },
     {
@@ -937,9 +938,10 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 73,
+      "score": 77,
       "publishedRaw": "Sun, 20 Sep 2026 01:20:39 -0000"
     },
     {
@@ -954,10 +956,11 @@
         "TSE"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 73,
+      "score": 77,
       "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
     },
     {
@@ -973,9 +976,10 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 73,
+      "score": 77,
       "publishedRaw": "Sun, 20 Sep 2026 02:14:34 +0000"
     },
     {
@@ -991,10 +995,26 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 73,
+      "score": 77,
       "publishedRaw": "Sun, 20 Sep 2026 01:45:04 +0000"
+    },
+    {
+      "id": "4546777bebaf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Deltan Dallagnol diz que pode lançar esposa ao Senado pelo PR se tiver candidatura indeferida",
+      "link": "https://www.estadao.com.br/politica/deltan-dallagnol-diz-pode-lancar-esposa-ao-senado-pr-se-tiver-candidatura-indeferida-nprp/",
+      "summary": "",
+      "tags": [
+        "candidatura"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Wed, 24 Jun 2026 22:30:49 +0000"
     },
     {
       "id": "0be5514ac4fe",
