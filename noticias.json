@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:15:55.635681+00:00",
+  "generated_at": "2026-09-21T11:43:24.417951+00:00",
   "items": [
     {
       "id": "e431658c6afa",
@@ -73,29 +73,6 @@
       "publishedRaw": "21 Sep 2026 07:59:00 -0300"
     },
     {
-      "id": "6b8029f3231c",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Podcast: a reta final da corrida eleitoral e as preocupações de Lula e Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/09/podcast-a-reta-final-da-corrida-eleitoral-e-as-preocupacoes-de-lula-e-flavio-bolsonaro.shtml",
-      "summary": "A menos de 15 dias do primeiro turno da eleição, o cenário da corrida presidencial está acirrado. A última pesquisa do Datafolha, divulgada na quinta-feira (17), mostra Lula (PT) e Flávio Bolsonaro (PL) empatados tecnicamente no primeiro e no segundo turno, com o presidente numericamente à frente do senador nos dois casos.\nLeia mais (09/21/2026 - 05h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "21 Sep 2026 05:00:00 -0300"
-    },
-    {
       "id": "2901cbdf8c13",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -162,47 +139,6 @@
       ],
       "score": 90,
       "publishedRaw": "Sun, 20 Sep 2026 22:12:01 +0000"
-    },
-    {
-      "id": "1a5b7bad53a0",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 10:02:01 GMT"
-    },
-    {
-      "id": "e978fe5f5074",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "564b635e9a04",
@@ -289,6 +225,27 @@
       "publishedRaw": "Sat, 19 Sep 2026 18:21:25 -0000"
     },
     {
+      "id": "60ee27cb190d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: Flávio tem 46% no 2º turno em Minas; Lula, 45%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-flavio-tem-46-no-2o-turno-em-minas-lula-45/",
+      "summary": "Candidatos do PT e do PL aparecem tecnicamente empatados nos dois turnos da disputa em MG",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 21 Sep 2026 11:01:38 +0000"
+    },
+    {
       "id": "896d19e2557a",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -329,69 +286,6 @@
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 10:43:59 +0000"
-    },
-    {
-      "id": "c69a1199e51f",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nexus/BTG: Flávio é rejeitado por 50%; Lula, por 49%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-flavio-e-rejeitado-por-50-lula-por-49-2/",
-      "summary": "Foram entrevistados 2.006 eleitores, entre os dias 18 e 20 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 10:35:47 +0000"
-    },
-    {
-      "id": "219b6167cc82",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Itatiaia/Ver: Flávio tem 45,8% e Lula, 41% no 2º turno em MG",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/itatiaia-ver-flavio-tem-458-e-lula-41-no-2o-turno-em-mg/",
-      "summary": "Pesquisa ouviu 1.197 eleitores mineiros entre 17 e 20 de setembro; margem de erro é de 2,8 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 10:30:27 +0000"
-    },
-    {
-      "id": "2b0788464b16",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Itatiaia/Ver: Lula e Flávio empatam com 34,6% no 1º turno em Minas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/itatiaia-ver-lula-e-flavio-empatam-com-346-no-1o-turno-em-minas/",
-      "summary": "Pesquisa ouviu 1.197 eleitores mineiros entre 17 e 20 de setembro; margem de erro é de 2,8 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 10:30:12 +0000"
     },
     {
       "id": "ba2287cbae2b",
@@ -520,6 +414,27 @@
       "publishedRaw": "Sat, 19 Sep 2026 22:29:26 +0000"
     },
     {
+      "id": "82077827656a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 51% contra 45% de Lula no 2º turno em SP, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-51-contra-45-de-lula-no-2o-turno-em-sp-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data entrevistou 2.000 eleitores de São Paulo de 16 a 19 de setembro de 2026",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 21 Sep 2026 11:27:41 +0000"
+    },
+    {
       "id": "989deb22d2e5",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -562,46 +477,6 @@
       "publishedRaw": "Mon, 21 Sep 2026 09:15:35 +0000"
     },
     {
-      "id": "156d900b51be",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula é desaprovado por 50% e aprovado por 46%, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-50-e-aprovado-por-46-diz-pesquisa/",
-      "summary": "Pesquisa BTG/Nexus também mediu intenções de voto para presidente e rejeição dos candidatos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 09:15:34 +0000"
-    },
-    {
-      "id": "b744b5619cae",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Julgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/20/julgamento-sobre-moraes-deixa-questoes-em-aberto-no-stf-entenda-o-que-ainda-precisa-ser-definido.ghtml",
-      "summary": "A sessão inédita do Supremo Tribunal Federal (STF) que começou a discutir a abertura ou não de uma apuração contra o ministro Alexandre de Moraes deu sinais de que ainda existem várias questões em aberto que precisam ser definidas pelo plenário que vão além de um julgamento em conjunto com André Mendonça.\nLEIA TAMBÉM: Após pedido de vista, STF interrompe sessão sem definir se junta ou mantém separados casos de Moraes e Mendonça\nEntre os pontos centrais estão o rito para a análise de uma apuração contra ministros da Corte e se uma investigação depende de um pedido da Procuradoria-Geral da República (PGR). \nEm outra frente, o presidente do Supremo, Edson Fachin, ainda precisa decidir sobre o afastamento ou não do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, que também divide as duas alas do Supremo, e a retomada dos inquéritos do Master e do INSS, que estão paralisados na Presidência.\nSTF estende crise\nA medida foi determinada por Fachin em meio aos embates na Corte. \nPrimeiro, Mendonça tirou o sigilo de um relatório que indicou Moraes como interlocutor de 52 mensagens de Daniel Vorcaro. Em retaliação, Moraes enviou um relatório de inteligência feito pela PF questionando a condução de Mendonça nos inquéritos.\nNos bastidores, ministros apontam que ainda há dificuldades para construir uma saída institucional para a crise sem precedentes e instalada há mais de 15 dias, que já levou a bate-bocas e trocas de acusações públicas, guerra de liminares e a cancelamento de sessões, prejudicando o avanço da pauta de julgamentos.\nBate-bocas, pedido de vista e indefinição: veja em 10 pontos como foi a sessão do STF sobre o caso Moraes\nBatalha de ofícios: ministros trocam farpas em comunicações oficiais do STF\nNo Supremo, há quem aposte que uma solução possa só começar a se desenhar após as eleições e um dos caminhos seria avançar com medidas não só contra Moraes e Mendonça, mas também em relação aos demais integrantes da Corte que tiveram menções no caso Master ou parentes.\nMas, por enquanto, não há indicação de que nenhuma ala mostre disposição de fazer alguma composição.\nA análise sobre Moraes foi suspensa após pedido de vista do ministro Flávio Dino, que tem até 90 dias para devolver o caso para julgamento.\nO caso é inédito no Supremo. Nunca a Corte discutiu a abertura de uma investigação de um integrante.\nAté mesmo o rito de julgamento, com os procedimentos que deveriam ser adotados, eram desconhecidos e só foram divulgados na véspera da sessão.\nQual o caminho para investigar um ministro do STF?\nUma questão levantada por Alexandre de Moraes levou Fachin a indicar uma nova divergência no julgamento. Para o presidente, o plenário poderia determinar uma apuração contra um ministro, mesmo sem pedido da PGR ou da PF.\nFachin argumentou que, na hipótese de a maioria rejeitar a nulidade pedida pela PGR, caberia ao plenário decidir se abre ou não a investigação contra Moraes.\n\"Na interpretação que fiz, se o tribunal não acolher a preliminar caberia ao tribunal dizer se autoriza ou não autoriza o prosseguimento da investigação\", afirmou. \n\"O tribunal precisa decidir sobre a preliminar e afastando a preliminar precisa dizer o que vai fazer e no meu modo de ver o tribunal, o plenário, neste caso, diria ‘a investigação prossegue ou por alguma outra razão, não prossegue\", disse Fachin.\nMoraes afirmou que, no caso de rejeição do pedido de nulidade, a petição deveria ser devolvida à PGR para nova manifestação.\nJá Fachin argumentou que o tribunal pode avaliar se há indícios que justifiquem a abertura de uma investigação antes de enviar o caso à PGR.\n\"O tribunal pode eventualmente dizer que talvez haja hipoteticamente alguma razão para investigar, mas ouço o titular da ação penal, mas isso em um momento subsequente se a preliminar for afastada\", afirmou.\nMoraes rebateu: \"Então, se não aprovar [a nulidade], significa que o plenário vai estar alterando posicionamento da titularidade da ação penal. Se vossa excelência está dizendo que ao não arquivar o plenário pode dizer que pode ser que haja indícios, o plenário está substituindo o titular da ação penal\".\nO que está em julgamento?\nDurante a sessão, Fachin e Moraes divergiram sobre o que de fato seria julgado após a votação da questão de ordem apresentada.\n\"Nós não temos o procedimento para essa situação, o ministro Flávio Dino bem disse\", afirmou Moraes durante o julgamento.\nPara Moraes, o único pedido existente dentro do processo é um pedido de nulidade, apresentado pela PGR, do relatório elaborado pela PF.\nA PGR argumentou que Mendonça agiu como investigador e determinou a apuração contra um colega sem autorização do plenário, órgão competente para autorizar a investigação contra um integrante do tribunal.\n“Consta pedido de investigação feito pela Polícia Federal? Não. Consta pedido de investigação feito pela Procuradoria Geral da República? Não. Consta pedido de investigação feito pelo ministro André Mendonça? Não. Consta algum pedido de investigação com relação a mim? Não. Vossa excelência vai votar o que, presidente? Vai votar um pedido do quê?”, questionou Moraes.\nPor isso, para o ministro, não haveria espaço para o plenário decidir sobre abertura ou não de investigação.\nCaso contrário, segundo Moraes, o tribunal estaria decidindo abrir de ofício — sem pedido da PGR e da PF — uma investigação contra um integrante da Corte.\n“O titular da ação é o Ministério Público. Esse colegiado de ofício vai votar algo que não está pedido nem pela polícia, nem pelo Ministério Público, instaurando uma investigação que não foi pedida pelo Ministério Público? E depois? Também vamos nos reunir para oferecer uma denúncia se o MP não oferecer? Não existe isso, presidente”.\nFlávio Dino, André Mendonça e Alexandre de Moraes no plenário do Supremo Tribunal Federal (STF)\nAlejandro Zambrana/STF\nVoto de desempate\nOutra questão que deverá ser decidida antes de o julgamento ser finalizado é sobre o voto de Fachin em caso de um provável empate.\nIsso porque o ministro Flávio Dino, autor do pedido de vista, já se manifestou favoravelmente à questão de Gilmar, seguida por Moraes e Cristiano Zanin. Com isso, o julgamento ficaria em um empata, com quatro votos favoráveis e quatro votos contra.\nO regimento garante ao presidente o “voto de qualidade” para desempatar julgamentos. No entanto, não diz se Fachin pode votar para desempatar quando, além de presidente, ele é o relator do feito.\nUm ministro consultado pela TV Globo disse que essa é uma questão aberta e que caberá ao presidente decidir.\nUma ala diz que Fachin não pode votar, porque a petição sobre o tema trata de processo penal e, em caso de empate, prevalecerá a decisão mais favorável ao imputado, no caso, Moraes.\n“A presente PET foi autuada pelo presidente como direito processual penal, investigação penal. A presente PET tem natureza de investigação penal”, afirmou Moraes no plenário.\nJá outra ala da Corte diz que o empate não aprova a questão apresentada por Gilmar Mendes automaticamente e que caberia ao presidente votar por se tratar de organização interna do plenário.\nVotos \nO partido Novo pediu que na retomada do julgamento o plenário discuta se Moraes pode mesmo votar no caso que discute elementos reunidos pela PF contra ele. Esse ponto não foi enfrentado na primeira sessão. \nA ala de Moraes também entende que, se Moraes não puder votar, Mendonça pode ser impedido de participar porque também tem seus atos questionados.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 20 Sep 2026 03:00:00 -0000"
-    },
-    {
       "id": "4338940fabb5",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -624,64 +499,23 @@
       "publishedRaw": "Sun, 20 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "34cd6bd5df43",
-      "source": "CNN Brasil",
+      "id": "1a5b7bad53a0",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF inicia 4ª semana de crise sob desgaste e dúvida",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-inicia-4a-semana-de-crise-sob-desgaste-e-duvida/",
-      "summary": "Analista de Política da CNN Teo Cury comenta desgaste institucional e ausência de perspectivas claras de resolução que marcam início de mais uma semana turbulenta no Supremo Tribunal Federal",
+      "category": "Internacional",
+      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
       "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 10:39:11 +0000"
-    },
-    {
-      "id": "924b587086ed",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O que esperar da Assembleia Geral da ONU, da qual Lula e Trump participam",
-      "link": "https://www.cnnbrasil.com.br/internacional/o-que-esperar-da-assembleia-geral-da-onu-da-qual-lula-e-trump-participam/",
-      "summary": "Encontro de líderes mundiais terá despedida de António Guterres e Emmanuel Macron, além de discursos de Zelensky e Netanyahu",
-      "tags": [
-        "MBL",
-        "Lula"
+        "STF",
+        "impeachment"
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 10:19:13 +0000"
-    },
-    {
-      "id": "a6968f72945f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caso Master: Ala do STF fez ‘defesa pela impunidade’ de Moraes no caso Vorcaro, diz Maierovitch",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ala-do-stf-fez-defesa-pela-impunidade-de-moraes-no-caso-vorcaro-diz-maierovitch/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Sun, 20 Sep 2026 08:30:00 +0000"
+      "score": 83,
+      "publishedRaw": "Mon, 21 Sep 2026 10:02:01 GMT"
     },
     {
       "id": "f16bc2fdf5b0",
@@ -709,7 +543,7 @@
       "category": "Internacional",
       "title": "Lula se reúne com Mamdani, prefeito de Nova York, que também receberá Trump",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/21/lula-se-reune-com-mamdani-prefeito-de-nova-york-que-tambem-recebera-trump.ghtml",
-      "summary": "Lula e Trump se encontraram pela última vez na Casa Branca em maio\nRicardo Stuckert / PR\nNa véspera do iníco da Assembleia Geral da Organização das Nações Unidas (ONU), as reuniões informais entre líderes já começarão nesta segunda-feira (21). O presidente Luiz Inácio Lula da Silva, que chegou no domingo (20) a Nova York, se reunirá nesta manhã com o prefeito da cidade, Zohran Mamdani. \nMamdani, um dos principais desafetos políticos de Donald Trump, também se reunirá com o presidente dos Estados Unidos nesta segunda. \nOs encontros, no entanto, ocorrerão em locais diferentes. Lula e Trump só se encontrarão na terça-feira (22), quando a assembelia começar. \nEsta reportagem está em atualização.",
+      "summary": "Lula e Trump se encontraram pela última vez na Casa Branca em maio\nRicardo Stuckert / PR\nNa véspera do iníco da Assembleia Geral da Organização das Nações Unidas (ONU), as reuniões informais entre líderes já começarão nesta segunda-feira (21). O presidente Luiz Inácio Lula da Silva, que chegou no domingo (20) a Nova York, se reunirá nesta manhã com o prefeito da cidade, Zohran Mamdani. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nMamdani, um dos principais desafetos políticos de Donald Trump, também se reunirá com o presidente dos Estados Unidos nesta segunda. \nOs encontros, no entanto, ocorrerão em locais diferentes. Lula e Trump não têm reunião bilateral prevista, mas podem se encontrar durante a primeira sessão de discursos da Assembleia Geral. \nO Brasil, tradicionalmente, abre a plentária da assembleia, e é seguido pelos Estados Unidos. \nSérie especial sobre a ONU: organização tem 193 países mas poder de veto restrito a cinco garante protagonismo\nEsta reportagem está em atualização.",
       "tags": [
         "Lula"
       ],
@@ -722,6 +556,26 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 11:01:29 -0000"
+    },
+    {
+      "id": "e978fe5f5074",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
+      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "impeachment",
+        "esquerda"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "90d8f4899724",
@@ -743,22 +597,40 @@
       "publishedRaw": "Sun, 20 Sep 2026 23:00:00 +0000"
     },
     {
-      "id": "66e26c7bddfa",
-      "source": "G1 - Mundo",
+      "id": "b744b5619cae",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Resultados preliminares apontam vitória do partido do Putin nas eleições legislativas da Rússia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/20/resultados-preliminares-apontam-partido-do-putin-com-57percent-dos-votos-nas-eleicoes-legislativas-da-russia.ghtml",
-      "summary": "O presidente russo Vladimir Putin conversa com representantes de agências de notícias internacionais durante o Fórum Econômico Internacional de São Petersburgo, na Rússia.\nAP/Dmitri Lovetsky\nO partido Rússia Unida, do presidente Vladimir Putin, lidera as eleições legislativas da Rússia com 57,54% dos votos, segundo resultados preliminares da Comissão Eleitoral Central do país, divulgados pela Reuters neste domingo (20).\nA votação encerrou neste domingo (20), às 15h no horário de Brasília —21h no fuso local. O percentual foi registrado após a apuração de quase 14% dos votos. \nA participação eleitoral ultrapassou 56%, também de acordo com dados divulgados pela Comissão Eleitoral Central.\nA eleição vai renovar as 450 cadeiras da Duma, a câmara baixa do Parlamento russo. O resultado parcial coloca a legenda governista à frente na disputa.\nPoucos na Rússia duvidam da vitória do partido de Putin, que votou eletronicamente nesta sexta-feira (18), segundo imagens da televisão pública do país. Ele governa o país desde a véspera do Ano Novo de 1999 e seu partido domina a política do país desde o início dos anos 2000.\nAgora no g1\nO presidente russo tratou a votação como um teste do apoio da população à guerra na Ucrânia. O pleito ocorre após mais de quatro anos de conflito e em um ambiente político marcado por fortes restrições à oposição. \nCríticos do Kremlin afirmam que o sistema político russo não permite dissidência significativa. O governo, por sua vez, argumenta que a unidade nacional e determinadas medidas de censura são necessárias durante o conflito, que Moscou chama de “operação militar especial”.\nOposição à guerra fora da disputa\nO partido Rússia Unida enfrenta apenas legendas que apoiam a maioria das políticas de Putin e a guerra na Ucrânia: o Partido Comunista, o nacionalista LDPR, Rússia Justa e o liberal Gente Nova.\nO partido Yabloko, que pede o fim da guerra, foi excluído da disputa pouco antes da votação. Um de seus principais dirigentes, Lev Shlosberg, foi preso por criticar o conflito.\nEm um breve discurso exibido na televisão na noite de quarta-feira, Putin conclamou os cidadãos a votar para mostrar às tropas que \"por trás de nossos combatentes há milhões de pessoas\" e para dar uma \"resposta conjunta àqueles que querem enfraquecer a Rússia\".",
+      "category": "Política",
+      "title": "Julgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/20/julgamento-sobre-moraes-deixa-questoes-em-aberto-no-stf-entenda-o-que-ainda-precisa-ser-definido.ghtml",
+      "summary": "A sessão inédita do Supremo Tribunal Federal (STF) que começou a discutir a abertura ou não de uma apuração contra o ministro Alexandre de Moraes deu sinais de que ainda existem várias questões em aberto que precisam ser definidas pelo plenário que vão além de um julgamento em conjunto com André Mendonça.\nLEIA TAMBÉM: Após pedido de vista, STF interrompe sessão sem definir se junta ou mantém separados casos de Moraes e Mendonça\nEntre os pontos centrais estão o rito para a análise de uma apuração contra ministros da Corte e se uma investigação depende de um pedido da Procuradoria-Geral da República (PGR). \nEm outra frente, o presidente do Supremo, Edson Fachin, ainda precisa decidir sobre o afastamento ou não do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, que também divide as duas alas do Supremo, e a retomada dos inquéritos do Master e do INSS, que estão paralisados na Presidência.\nSTF estende crise\nA medida foi determinada por Fachin em meio aos embates na Corte. \nPrimeiro, Mendonça tirou o sigilo de um relatório que indicou Moraes como interlocutor de 52 mensagens de Daniel Vorcaro. Em retaliação, Moraes enviou um relatório de inteligência feito pela PF questionando a condução de Mendonça nos inquéritos.\nNos bastidores, ministros apontam que ainda há dificuldades para construir uma saída institucional para a crise sem precedentes e instalada há mais de 15 dias, que já levou a bate-bocas e trocas de acusações públicas, guerra de liminares e a cancelamento de sessões, prejudicando o avanço da pauta de julgamentos.\nBate-bocas, pedido de vista e indefinição: veja em 10 pontos como foi a sessão do STF sobre o caso Moraes\nBatalha de ofícios: ministros trocam farpas em comunicações oficiais do STF\nNo Supremo, há quem aposte que uma solução possa só começar a se desenhar após as eleições e um dos caminhos seria avançar com medidas não só contra Moraes e Mendonça, mas também em relação aos demais integrantes da Corte que tiveram menções no caso Master ou parentes.\nMas, por enquanto, não há indicação de que nenhuma ala mostre disposição de fazer alguma composição.\nA análise sobre Moraes foi suspensa após pedido de vista do ministro Flávio Dino, que tem até 90 dias para devolver o caso para julgamento.\nO caso é inédito no Supremo. Nunca a Corte discutiu a abertura de uma investigação de um integrante.\nAté mesmo o rito de julgamento, com os procedimentos que deveriam ser adotados, eram desconhecidos e só foram divulgados na véspera da sessão.\nQual o caminho para investigar um ministro do STF?\nUma questão levantada por Alexandre de Moraes levou Fachin a indicar uma nova divergência no julgamento. Para o presidente, o plenário poderia determinar uma apuração contra um ministro, mesmo sem pedido da PGR ou da PF.\nFachin argumentou que, na hipótese de a maioria rejeitar a nulidade pedida pela PGR, caberia ao plenário decidir se abre ou não a investigação contra Moraes.\n\"Na interpretação que fiz, se o tribunal não acolher a preliminar caberia ao tribunal dizer se autoriza ou não autoriza o prosseguimento da investigação\", afirmou. \n\"O tribunal precisa decidir sobre a preliminar e afastando a preliminar precisa dizer o que vai fazer e no meu modo de ver o tribunal, o plenário, neste caso, diria ‘a investigação prossegue ou por alguma outra razão, não prossegue\", disse Fachin.\nMoraes afirmou que, no caso de rejeição do pedido de nulidade, a petição deveria ser devolvida à PGR para nova manifestação.\nJá Fachin argumentou que o tribunal pode avaliar se há indícios que justifiquem a abertura de uma investigação antes de enviar o caso à PGR.\n\"O tribunal pode eventualmente dizer que talvez haja hipoteticamente alguma razão para investigar, mas ouço o titular da ação penal, mas isso em um momento subsequente se a preliminar for afastada\", afirmou.\nMoraes rebateu: \"Então, se não aprovar [a nulidade], significa que o plenário vai estar alterando posicionamento da titularidade da ação penal. Se vossa excelência está dizendo que ao não arquivar o plenário pode dizer que pode ser que haja indícios, o plenário está substituindo o titular da ação penal\".\nO que está em julgamento?\nDurante a sessão, Fachin e Moraes divergiram sobre o que de fato seria julgado após a votação da questão de ordem apresentada.\n\"Nós não temos o procedimento para essa situação, o ministro Flávio Dino bem disse\", afirmou Moraes durante o julgamento.\nPara Moraes, o único pedido existente dentro do processo é um pedido de nulidade, apresentado pela PGR, do relatório elaborado pela PF.\nA PGR argumentou que Mendonça agiu como investigador e determinou a apuração contra um colega sem autorização do plenário, órgão competente para autorizar a investigação contra um integrante do tribunal.\n“Consta pedido de investigação feito pela Polícia Federal? Não. Consta pedido de investigação feito pela Procuradoria Geral da República? Não. Consta pedido de investigação feito pelo ministro André Mendonça? Não. Consta algum pedido de investigação com relação a mim? Não. Vossa excelência vai votar o que, presidente? Vai votar um pedido do quê?”, questionou Moraes.\nPor isso, para o ministro, não haveria espaço para o plenário decidir sobre abertura ou não de investigação.\nCaso contrário, segundo Moraes, o tribunal estaria decidindo abrir de ofício — sem pedido da PGR e da PF — uma investigação contra um integrante da Corte.\n“O titular da ação é o Ministério Público. Esse colegiado de ofício vai votar algo que não está pedido nem pela polícia, nem pelo Ministério Público, instaurando uma investigação que não foi pedida pelo Ministério Público? E depois? Também vamos nos reunir para oferecer uma denúncia se o MP não oferecer? Não existe isso, presidente”.\nFlávio Dino, André Mendonça e Alexandre de Moraes no plenário do Supremo Tribunal Federal (STF)\nAlejandro Zambrana/STF\nVoto de desempate\nOutra questão que deverá ser decidida antes de o julgamento ser finalizado é sobre o voto de Fachin em caso de um provável empate.\nIsso porque o ministro Flávio Dino, autor do pedido de vista, já se manifestou favoravelmente à questão de Gilmar, seguida por Moraes e Cristiano Zanin. Com isso, o julgamento ficaria em um empata, com quatro votos favoráveis e quatro votos contra.\nO regimento garante ao presidente o “voto de qualidade” para desempatar julgamentos. No entanto, não diz se Fachin pode votar para desempatar quando, além de presidente, ele é o relator do feito.\nUm ministro consultado pela TV Globo disse que essa é uma questão aberta e que caberá ao presidente decidir.\nUma ala diz que Fachin não pode votar, porque a petição sobre o tema trata de processo penal e, em caso de empate, prevalecerá a decisão mais favorável ao imputado, no caso, Moraes.\n“A presente PET foi autuada pelo presidente como direito processual penal, investigação penal. A presente PET tem natureza de investigação penal”, afirmou Moraes no plenário.\nJá outra ala da Corte diz que o empate não aprova a questão apresentada por Gilmar Mendes automaticamente e que caberia ao presidente votar por se tratar de organização interna do plenário.\nVotos \nO partido Novo pediu que na retomada do julgamento o plenário discuta se Moraes pode mesmo votar no caso que discute elementos reunidos pela PF contra ele. Esse ponto não foi enfrentado na primeira sessão. \nA ala de Moraes também entende que, se Moraes não puder votar, Mendonça pode ser impedido de participar porque também tem seus atos questionados.",
       "tags": [
-        "eleições"
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 20 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "a6968f72945f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caso Master: Ala do STF fez ‘defesa pela impunidade’ de Moraes no caso Vorcaro, diz Maierovitch",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ala-do-stf-fez-defesa-pela-impunidade-de-moraes-no-caso-vorcaro-diz-maierovitch/",
+      "summary": "",
+      "tags": [
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "G1 - Política"
       ],
-      "score": 77,
-      "publishedRaw": "Sun, 20 Sep 2026 18:39:01 -0000"
+      "score": 80,
+      "publishedRaw": "Sun, 20 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "47786facdb32",
@@ -893,21 +765,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Sun, 20 Sep 2026 21:08:43 +0000"
-    },
-    {
-      "id": "9bb593b3c6eb",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Preços mais altos, salários menores: como o clima extremo afeta o bolso das famílias no mundo todo",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/20/como-o-clima-extremo-afeta-o-bolso-das-familias-no-mundo-todo.ghtml",
-      "summary": "Mudanças climáticas: um dos maiores desafios é de onde vai sair o dinheiro para ajudar a proteger florestas e reduzir a poluição\nJornal Nacional/ Reprodução\nOs últimos 11 anos foram os mais quentes já registrados no planeta. Essa mudança climática se manifesta em eventos extremos, como ondas de calor e incêndios florestais. Mas menos evidentes são os preços mais altos e os salários menores associados a um mundo cada vez mais quente.\nSegundo um estudo de 2026 da MIT Sloan School of Management e da UCLA School of Law, as mudanças climáticas já elevaram as despesas médias das famílias americanas em 900 dólares (cerca de R$ 4,6 mil) por ano, chegando a mais de 1,3 mil dólares em um de cada dez condados dos Estados Unidos.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nEsses custos não existiriam em um mundo sem mudanças climáticas. Eles incluem o aumento dos seguros residenciais (em média 600 dólares mais caros), a elevação de impostos estaduais e federais devido aos custos de recuperação de desastres ou aos impactos da fumaça dos incêndios florestais sobre a saúde, por exemplo.\n\"A inação climática não é apenas um fracasso ambiental; ela funciona como um imposto sobre todas as famílias americanas\", escreveram os pesquisadores.\nAgora no g1\nComo as mudanças climáticas afetam a renda\nUm relatório de 2024 do Instituto Potsdam para Pesquisa sobre Impactos Climáticos, na Alemanha, estimou que os danos das mudanças climáticas à agricultura, à infraestrutura e à saúde, bem como as perdas de produtividade, podem custar à economia mundial 38 trilhões de dólares por ano até 2050.\nMas de que forma os eventos climáticos extremos impulsionados pelas mudanças do clima já afetaram salários e orçamentos familiares?\n\"Se não conseguirmos descobrir quanto as mudanças climáticas já estão nos custando com os dados que temos, projetar o futuro se torna quase impossível\", afirmou Derek Lemoine, professor de economia da Universidade do Arizona, que estimou uma redução de 12% na renda dos americanos à medida que as temperaturas globais aumentaram. A comparação é feita com um cenário sem mudanças climáticas.\nLemoine mostra como extremos de temperatura em um condado dos Estados Unidos estão provocando impactos econômicos em cascata em localidades distantes com clima mais ameno, devido à interconexão do comércio e das cadeias de suprimentos.\n\"Muitos estudos analisam as mudanças climáticas como se elas alterassem o clima em apenas um ano e em um único lugar por vez\", disse Lemoine à DW.\nEm vez disso, ele busca entender como, se uma onda de calor destruir plantações de milho em todo o território americano, outras indústrias que dependem desse milho, incluindo produtores de gado e de alimentos, serão afetadas à medida que a commodity se tornar mais escassa e mais cara.\n\"À medida que os custos [dos produtores afetados em toda a cadeia de suprimentos do milho] aumentam\", disse Lemoine, \"isso fará com que a renda de todos os que dependem deles diminua\".\nOs impactos do clima sobre o comércio também já são sentidos na Alemanha, onde os níveis recordes de baixa do rio Reno, a via navegável interior mais movimentada da Europa, podem reduzir em até 0,2% a produção econômica alemã no terceiro trimestre de 2026, observou o Instituto Kiel para a Economia Mundial em julho.\nO clima seco prolongado associado às mudanças climáticas é o responsável, já que a capacidade de transporte caiu para apenas 15% em alguns trechos do rio que conecta o maior porto da Europa, em Roterdã, na Holanda, a grande parte do oeste da Alemanha.\nPressão sobre problemas econômicos já existentes\nUm estudo australiano também analisa como mudanças climáticas amplas, e não apenas choques locais provocados por eventos extremos isolados, levaram gradualmente à queda da produtividade e da produção econômica.\nTimothy Neal, pesquisador do Instituto para Risco e Resposta Climática da Universidade de New South Wales, na Austrália, foi coautor de um relatório que mostra que o aquecimento global reduziu a produção econômica do estado de NSW em cerca de 18% em média, o equivalente a 21.288 dólares australianos (cerca de R$ 80 mil) por pessoa em 2024.\n\"Os danos já foram bastante severos\", disse Neal à DW, acrescentando que, em um cenário sem aquecimento global, os cidadãos teriam \"preços mais baixos para os alimentos\" e \"menos pobreza\".\nO relatório menciona secas em partes de NSW em meados e no final da década de 2010 que reduziram a produtividade em todo o estado em até 10 bilhões de dólares australianos, devido à queda das colheitas e da renda agrícola, ao aumento dos custos da água e à maior dependência de assistência governamental.\nEsses impactos financeiros se acumularam ao longo do tempo em toda a economia do estado, influenciando os custos de alimentos, seguros e manutenção de infraestrutura.\nNas palavras do relatório, esses efeitos também \"agravam pressões econômicas já existentes e contribuem para ampliar as disparidades entre regiões\", o que significa aumento da desigualdade de renda e riqueza.\nFoto mostra a Rodovia 89 com árvores queimadas de um lado e árvores não queimadas do outro no local do incêndio Dixie, um incêndio florestal perto da cidade de Greenville, no estado da Califórnia, EUA, em 7 de agosto de 2021\nREUTERS/Fred Greaves\nA adaptação climática pode limitar os custos?\n\"A ação climática não deve ser vista apenas como uma questão ambiental, mas também como uma decisão economicamente sensata\", afirmou Frank Jotzo, economista e comissário da Comissão Net Zero de NSW, que trabalha para descarbonizar o estado e encomendou o estudo citado acima.\nAo se referir a \"investimentos defensivos contra as mudanças climáticas\", como o reforço de estradas, ferrovias e infraestrutura de transporte marítimo para adaptação a um mundo mais quente, Jotzo acrescentou que \"se não fosse pelas mudanças climáticas, poderíamos estar investindo esse dinheiro e esse esforço em outras coisas\".\nNo entanto, medidas de adaptação, como a ampliação das áreas verdes nas cidades para reduzir os efeitos das ilhas de calor, serão fundamentais para evitar impactos econômicos muito mais severos no futuro.\nAs ondas de calor europeias de 2026, por exemplo, já custaram cerca de 180 bilhões de euros (R$ 1,06 trilhão), valor equivalente a todo o crescimento econômico projetado para a União Europeia neste ano, segundo uma análise.\nA adaptação também envolverá o fortalecimento do sistemas de saúde e da rede hospitalar para enfrentar os efeitos das ondas de calor, que reduzem a produtividade à medida que trabalhadores submetidos ao estresse térmico se cansam mais rapidamente ou têm dificuldade para dormir, observou Jotzo.\nMas Lemoine afirma que a adaptação ao declínio econômico provocado pelas mudanças climáticas é tão \"cara por si só\" que pode agravar a perda de renda e ser ineficaz se não for implementada de forma abrangente.\nSomente quando \"todos os lugares\" estiverem protegidos dos eventos climáticos extremos, será possível enfrentar os impactos econômicos em cascata, diz ele.\nAinda assim, tanto a adaptação quanto uma rápida redução das emissões que aquecem o planeta são necessárias para evitar perdas de renda impulsionadas pelas mudanças climáticas, que tendem a se agravar se o aquecimento global ultrapassar as metas estabelecidas pelo Acordo de Paris.\n\"Mudanças climáticas sem controle criariam um peso permanente sobre os salários e a produtividade\", concluiu Jotzo.",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 51,
-      "publishedRaw": "Sun, 20 Sep 2026 06:00:00 -0000"
     },
     {
       "id": "8a5bc1acb4a1",
