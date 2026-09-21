@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:46:29.469842+00:00",
+  "generated_at": "2026-09-21T19:14:33.618860+00:00",
   "items": [
     {
       "id": "f5a391d8e5d7",
@@ -26,6 +26,30 @@
       "publishedRaw": "Mon, 21 Sep 2026 13:47:39 -0000"
     },
     {
+      "id": "0bfe0a67cca3",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula à CNN: Eleições são de interesse do Brasil e não quero interferência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-a-cnn-eleicoes-sao-de-interesse-do-brasil-e-nao-quero-interferencia/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Mon, 21 Sep 2026 18:44:24 +0000"
+    },
+    {
       "id": "4b1c097ed023",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -38,12 +62,52 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
+    },
+    {
+      "id": "1a5b7bad53a0",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
+    },
+    {
+      "id": "7b565ca8f4a5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Foto mostra Flávio Bolsonaro em safári com investigados do INSS",
+      "link": "https://www.poder360.com.br/poder-congresso/foto-mostra-flavio-bolsonaro-em-safari-com-investigados-do-inss/",
+      "summary": "Imagem de 2025 mostra senador ao lado de Weverton Rocha e Willer Tomaz; arquivo foi encontrado no celular do advogado pela PF",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
+      "publishedRaw": "Mon, 21 Sep 2026 19:07:26 +0000"
     },
     {
       "id": "13488f09ae3d",
@@ -59,8 +123,8 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Mon, 21 Sep 2026 12:15:43 -0000"
@@ -79,8 +143,8 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Mon, 21 Sep 2026 12:07:38 -0000"
@@ -99,31 +163,32 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Mon, 21 Sep 2026 11:51:01 -0000"
     },
     {
-      "id": "7e7ef4174f3c",
-      "source": "Folha de São Paulo",
+      "id": "e978fe5f5074",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Entenda como funciona o abandono de cargo, que levou à demissão de Eduardo Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/entenda-como-funciona-o-abandono-de-cargo-que-levou-a-demissao-de-eduardo-bolsonaro.shtml",
-      "summary": "O ex-deputado Eduardo Bolsonaro foi demitido do cargo de escrivão da Polícia Federal nesta segunda-feira (21) por abandono de cargo, após faltar injustificadamente ao serviço por mais de 30 dias consecutivos. A medida foi fundamentada na lei 15.047/2024, que estabelece o regime disciplinar dos servidores da PF.\nLeia mais (09/21/2026 - 14h10)",
+      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
+      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
+        "STF",
+        "impeachment",
+        "esquerda"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 86,
-      "publishedRaw": "21 Sep 2026 14:10:00 -0300"
+      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "ca568d90df4b",
@@ -138,9 +203,9 @@
         "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Mon, 21 Sep 2026 13:07:48 +0000"
@@ -181,8 +246,8 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 12:15:43 -0000"
@@ -201,20 +266,20 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 12:07:38 -0000"
     },
     {
-      "id": "e1dc3f291c59",
+      "id": "9d1ceddd8067",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mamdani chama Lula de grande inspiração, e os dois debatem custo de vida",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/mamdani-chama-lula-de-grande-inspiracao-e-os-dois-debatem-custo-de-vida-e-pobreza.shtml",
-      "summary": "O presidente Lula (PT) se reuniu nesta segunda-feira (21) com o prefeito de Nova York, o socialista democrata Zohran Mamdani, e a conversa teve como tema central o custo de vida na cidade.\nLeia mais (09/21/2026 - 14h14)",
+      "title": "Brasil fará consultas aos EUA sobre tarifaço na OMC; governo Lula vê reunião como protocolar",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-fara-consultas-a-eua-sobre-tarifaco-na-omc-governo-lula-ve-reuniao-como-protocolar.shtml",
+      "summary": "O governo de Luiz Inácio Lula da Silva (PT) questionará os Estados Unidos nesta sexta-feira (25) na OMC (Organização Mundial do Comércio) sobre as tarifas impostas ao Brasil pela gestão de Donald Trump, que chegam a 37,5% para alguns setores.\nLeia mais (09/21/2026 - 15h57)",
       "tags": [
         "Lula"
       ],
@@ -227,15 +292,15 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "21 Sep 2026 14:14:00 -0300"
+      "publishedRaw": "21 Sep 2026 15:57:00 -0300"
     },
     {
-      "id": "5a5c50de27c6",
+      "id": "4b34e567a1e7",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "À CNN, Lula volta a chamar Trump de “imperador” e defende multilateralismo",
-      "link": "https://www.cnnbrasil.com.br/internacional/a-cnn-lula-volta-a-chamar-trump-de-imperador-e-defende-multilateralismo/",
+      "title": "Lula à CNN: Logo vamos desvendar mistério de como Dark Horse foi financiado",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-a-cnn-logo-vamos-desvendar-misterio-de-como-dark-horse-foi-financiado/",
       "summary": "",
       "tags": [
         "Lula"
@@ -249,16 +314,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 18:10:49 +0000"
+      "publishedRaw": "Mon, 21 Sep 2026 18:36:30 +0000"
     },
     {
-      "id": "52ca83265253",
+      "id": "27f01f5e7dcf",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Análise: Flávio e Lula disputam virada de voto e miram eleitorado decisivo",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-e-lula-disputam-virada-de-voto-e-miram-eleitorado-decisivo/",
-      "summary": "Levantamento Nexus/BTG aponta Lula com 46% e Flávio Bolsonaro com 45% no segundo turno; analista de Política da CNN Isabel Mega ressalta que 15% dos brasileiros ainda podem mudar de voto",
+      "title": "Não é bom para a democracia o que EUA fazem na Venezuela, diz Lula à CNN",
+      "link": "https://www.cnnbrasil.com.br/internacional/nao-e-bom-para-a-democracia-o-que-eua-fazem-na-venezuela-diz-lula-a-cnn/",
+      "summary": "Presidente concedeu entrevista à âncora da CNN Christiane Amanpour, nesta segunda-feira (21), na véspera do discurso na Assembleia Geral da ONU",
       "tags": [
         "Lula"
       ],
@@ -271,51 +336,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 18:03:28 +0000"
-    },
-    {
-      "id": "ff616ea714b3",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Uruguai autoriza Brasil usar excedente de cota de carne na China, diz Lula",
-      "link": "https://www.cnnbrasil.com.br/agro/uruguai-autoriza-brasil-usar-excedente-de-cota-de-carne-na-china-diz-lula/",
-      "summary": "Informação ainda não foi confirmada pelo governo chinês; Brasil já atingiu limite de 1,106 milhão de toneladas previsto para 2026 ainda em julho",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 17:50:06 +0000"
-    },
-    {
-      "id": "7577104124a1",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ipsos-Ipec: Governo Lula tem saldo negativo em todas as áreas",
-      "link": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/",
-      "summary": "Gastos públicos têm a pior avaliação, enquanto educação obtém o melhor desempenho; foram entrevistadas 2.000 pessoas e a margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 17:31:11 +0000"
+      "publishedRaw": "Mon, 21 Sep 2026 18:24:17 +0000"
     },
     {
       "id": "fd1762017a93",
@@ -362,45 +383,23 @@
       "publishedRaw": "Mon, 21 Sep 2026 18:32:14 +0000"
     },
     {
-      "id": "d3257268dd35",
-      "source": "Poder360",
+      "id": "f16bc2fdf5b0",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula dá camisa do Corinthians a Zohran Mamdani em Nova York",
-      "link": "https://www.poder360.com.br/poder-governo/lula-da-camisa-do-corinthians-a-zohran-mamdani-em-nova-york/",
-      "summary": "Prefeito da cidade presenteou o brasileiro com uniforme do New York City FC durante encontro antes da Assembleia da ONU",
+      "title": "Eleições 2026: Como consultar meu título de eleitor?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-como-consultar-meu-titulo-de-eleitor.ghtml",
+      "summary": "Título de eleitor\nFoto: Agência Brasil/Divulgação\nQuem vai votar nas eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela internet – não é preciso ir a um cartório eleitoral.\nA consulta é feita pelos canais oficiais da Justiça Eleitoral: o Autoatendimento Eleitoral (Título Net), disponível no portal do Tribunal Superior Eleitoral (TSE), e o aplicativo e-Título.\nComo consultar o título de eleitor pelo site\nA consulta pode ser feita pelo Autoatendimento Eleitoral, serviço oficial da Justiça Eleitoral.\nNa página, basta acessar a área de consultas e escolher a opção para consultar o número do título ou verificar onde votar.\nComo consultar o título de eleitor.\nReprodução/TSE\nEm seguida, informe os dados solicitados, como nome completo, data de nascimento e CPF. Dependendo do caso, o sistema também pode pedir o nome da mãe e do pai, conforme o cadastro eleitoral.\nApós o preenchimento, o sistema exibe na tela:\nnúmero do título de eleitor;\nsituação da inscrição eleitoral (regular, suspensa ou cancelada);\nzona e seção eleitoral;\nendereço do local de votação.\nO serviço é gratuito e pode ser acessado a qualquer momento.\nComo consultar pelo aplicativo e-Título\nOutra opção é usar o aplicativo e-Título, disponível gratuitamente para celulares Android e iPhone.\nDepois de instalar o aplicativo, o eleitor deve fazer login com os dados vinculados à conta gov.br.\nApós o acesso, o app mostra todas as informações do título de eleitor, incluindo:\nnúmero da inscrição eleitoral;\ndados pessoais;\nzona e seção eleitoral;\nsituação do título;\ncertidões eleitorais disponíveis.\nQuando o cadastro possui foto e a situação eleitoral está regular, o e-Título também pode ser usado como documento de identificação no momento da votação.\nÉ possível descobrir o número do título?\nQuem não lembra o número do título pode recuperá-lo pelo Autoatendimento Eleitoral – como na imagem acima. \nBasta informar os dados pessoais solicitados pelo sistema. Em poucos segundos, a plataforma informa o número da inscrição eleitoral e o local onde o eleitor está cadastrado para votar.\nAinda existe título de eleitor em papel?\nA Justiça Eleitoral não entrega mais, de forma geral, o título físico em papel aos eleitores.\nQuem precisar de uma versão impressa pode utilizar a opção de impressão disponível nos serviços eletrônicos da Justiça Eleitoral, quando aplicável.\nJá a versão digital fica disponível no aplicativo e-Título e reúne as principais informações eleitorais do cidadão.\nVeja  também:\nVÍDEO: Posso usar o celular durante a votação?\nGuia do Eleitor: Posso usar celular na cabine de votação?",
       "tags": [
-        "Lula"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
+        "BBC Brasil",
+        "CNN Brasil"
       ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 17:43:53 +0000"
-    },
-    {
-      "id": "1a5b7bad53a0",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
+      "score": 82,
+      "publishedRaw": "Mon, 21 Sep 2026 03:00:01 -0000"
     },
     {
       "id": "8a41d8a93a31",
@@ -445,26 +444,6 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 11:01:29 -0000"
-    },
-    {
-      "id": "e978fe5f5074",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "f2b317c2aae3",
@@ -521,22 +500,23 @@
       "publishedRaw": "Mon, 21 Sep 2026 18:00:00 +0000"
     },
     {
-      "id": "f16bc2fdf5b0",
-      "source": "G1 - Política",
+      "id": "5f0efc4f05af",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleições 2026: Como consultar meu título de eleitor?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-como-consultar-meu-titulo-de-eleitor.ghtml",
-      "summary": "Título de eleitor\nFoto: Agência Brasil/Divulgação\nQuem vai votar nas eleições de 2026 pode consultar o número do título de eleitor, verificar a situação da inscrição eleitoral e descobrir o local de votação pela internet – não é preciso ir a um cartório eleitoral.\nA consulta é feita pelos canais oficiais da Justiça Eleitoral: o Autoatendimento Eleitoral (Título Net), disponível no portal do Tribunal Superior Eleitoral (TSE), e o aplicativo e-Título.\nComo consultar o título de eleitor pelo site\nA consulta pode ser feita pelo Autoatendimento Eleitoral, serviço oficial da Justiça Eleitoral.\nNa página, basta acessar a área de consultas e escolher a opção para consultar o número do título ou verificar onde votar.\nComo consultar o título de eleitor.\nReprodução/TSE\nEm seguida, informe os dados solicitados, como nome completo, data de nascimento e CPF. Dependendo do caso, o sistema também pode pedir o nome da mãe e do pai, conforme o cadastro eleitoral.\nApós o preenchimento, o sistema exibe na tela:\nnúmero do título de eleitor;\nsituação da inscrição eleitoral (regular, suspensa ou cancelada);\nzona e seção eleitoral;\nendereço do local de votação.\nO serviço é gratuito e pode ser acessado a qualquer momento.\nComo consultar pelo aplicativo e-Título\nOutra opção é usar o aplicativo e-Título, disponível gratuitamente para celulares Android e iPhone.\nDepois de instalar o aplicativo, o eleitor deve fazer login com os dados vinculados à conta gov.br.\nApós o acesso, o app mostra todas as informações do título de eleitor, incluindo:\nnúmero da inscrição eleitoral;\ndados pessoais;\nzona e seção eleitoral;\nsituação do título;\ncertidões eleitorais disponíveis.\nQuando o cadastro possui foto e a situação eleitoral está regular, o e-Título também pode ser usado como documento de identificação no momento da votação.\nÉ possível descobrir o número do título?\nQuem não lembra o número do título pode recuperá-lo pelo Autoatendimento Eleitoral – como na imagem acima. \nBasta informar os dados pessoais solicitados pelo sistema. Em poucos segundos, a plataforma informa o número da inscrição eleitoral e o local onde o eleitor está cadastrado para votar.\nAinda existe título de eleitor em papel?\nA Justiça Eleitoral não entrega mais, de forma geral, o título físico em papel aos eleitores.\nQuem precisar de uma versão impressa pode utilizar a opção de impressão disponível nos serviços eletrônicos da Justiça Eleitoral, quando aplicável.\nJá a versão digital fica disponível no aplicativo e-Título e reúne as principais informações eleitorais do cidadão.\nVeja  também:\nVÍDEO: Posso usar o celular durante a votação?\nGuia do Eleitor: Posso usar celular na cabine de votação?",
+      "title": "Michelle pede impeachment de ministro do TSE após decisão contra Deltan",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-pede-impeachment-de-ministro-do-tse-apos-decisao-contra-deltan/",
+      "summary": "Ex-primeira-dama publicou mensagem em apoio ao candidato ao Senado depois de decisão que suspendeu atos de campanha",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "impeachment",
+        "TSE"
       ],
       "crossOutlets": [
-        "BBC Brasil"
+        "BBC Brasil",
+        "Estadão"
       ],
-      "score": 77,
-      "publishedRaw": "Mon, 21 Sep 2026 03:00:01 -0000"
+      "score": 79,
+      "publishedRaw": "Mon, 21 Sep 2026 18:47:52 +0000"
     },
     {
       "id": "47786facdb32",
@@ -550,9 +530,10 @@
         "eleições"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 72,
+      "score": 77,
       "publishedRaw": "Sun, 20 Sep 2026 19:05:05 GMT"
     },
     {
@@ -566,24 +547,26 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [],
-      "score": 64,
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
       "publishedRaw": "Sun, 20 Sep 2026 01:35:03 +0000"
     },
     {
-      "id": "83ca3e57e70d",
+      "id": "1331678214c6",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Irmã de Presley Gerber falou sobre consequências do vício dele na família",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/irma-de-presley-gerber-falou-sobre-consequencias-do-vicio-dele-na-familia/",
-      "summary": "Em entrevista, a modelo Kaia comentou que, pela doença do irmão, silenciou suas necessidades e precisou buscar terapia depois de adulta",
+      "title": "Defesa de família de jovem que ficou com sequelas nega suporte de parque",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-de-familia-de-jovem-que-ficou-com-sequelas-nega-suporte-de-parque/",
+      "summary": "Julia Rimoli Bossoni sofreu traumatismo craniano depois de passeio na montanha russa do Hopi Hari",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Mon, 21 Sep 2026 17:40:56 +0000"
+      "publishedRaw": "Mon, 21 Sep 2026 18:20:56 +0000"
     },
     {
       "id": "febfa4355f7b",
