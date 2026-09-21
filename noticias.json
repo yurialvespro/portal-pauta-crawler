@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:41:36.648552+00:00",
+  "generated_at": "2026-09-21T18:18:03.587540+00:00",
   "items": [
     {
       "id": "f5a391d8e5d7",
@@ -19,56 +19,11 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Mon, 21 Sep 2026 13:47:39 -0000"
-    },
-    {
-      "id": "2901cbdf8c13",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise do STF volta a pairar sobre Lula após vídeo de Moraes e esposa em jatinho de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-do-stf-volta-a-pairar-sobre-lula-apos-video-de-moraes-e-esposa-em-jatinho-de-vorcaro/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "03a16e7ef83c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula vê crise do STF precificada, mas Dino vira fantasma para Planalto como Moraes",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/campanha-de-lula-ve-crise-do-stf-precificada-mas-dino-vira-fantasma-para-o-planalto-como-moraes/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Sun, 20 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "4b1c097ed023",
@@ -89,26 +44,6 @@
       ],
       "score": 87,
       "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
-    },
-    {
-      "id": "1a5b7bad53a0",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
     },
     {
       "id": "13488f09ae3d",
@@ -191,27 +126,6 @@
       "publishedRaw": "21 Sep 2026 14:10:00 -0300"
     },
     {
-      "id": "e978fe5f5074",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
-    },
-    {
       "id": "ca568d90df4b",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -247,7 +161,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 03:00:00 -0000"
@@ -308,10 +223,33 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "21 Sep 2026 14:14:00 -0300"
+    },
+    {
+      "id": "7577104124a1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ipsos-Ipec: Governo Lula tem saldo negativo em todas as áreas",
+      "link": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-governo-lula-tem-saldo-negativo-em-todas-as-areas/",
+      "summary": "Gastos públicos têm a pior avaliação, enquanto educação obtém o melhor desempenho; foram entrevistadas 2.000 pessoas e a margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 21 Sep 2026 17:31:11 +0000"
     },
     {
       "id": "bedb69b836ab",
@@ -329,7 +267,8 @@
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 17:12:14 +0000"
@@ -339,7 +278,7 @@
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Governo Lula é mal avaliado em todas as áreas de atuação, revela Ipsos/Ipec",
+      "title": "Avaliação negativa do governo Lula supera a positiva em todas as áreas de atuação, revela Ipsos/Ipec",
       "link": "https://www.estadao.com.br/politica/governo-lula-e-mal-avaliado-em-todas-as-areas-de-atuacao-revela-ipsosipec/",
       "summary": "",
       "tags": [
@@ -350,7 +289,8 @@
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 15:00:00 +0000"
@@ -371,67 +311,52 @@
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 10:01:25 +0000"
     },
     {
-      "id": "f2b317c2aae3",
-      "source": "G1 - Política",
+      "id": "d3257268dd35",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Senado tem a chave do STF: quem entra e quem pode sair",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/21/senado-tem-a-chave-do-stf-quem-entra-e-quem-pode-sair.ghtml",
-      "summary": "Miriam e Sadi: Senado decide se aprova ou afasta ministros do STF\nO Senado Federal costuma aparecer no noticiário como coadjuvante das grandes disputas de Brasília. Mas, quando o assunto é a relação entre o Congresso e o Supremo Tribunal Federal (STF), a Casa está longe de ocupar um papel secundário. É no Senado que passam algumas das principais ferramentas de controle sobre o Judiciário e é justamente por isso que a eleição para a Casa ganha peso na relação com o STF.\nA escolha dos ministros do Supremo é um exemplo. O presidente da República indica o nome, mas não tem a palavra final. O indicado precisa ser sabatinado pela Comissão de Constituição e Justiça (CCJ) e, depois, aprovado pelo plenário do Senado.\n📱 Acesse o Canal da Sadi no WhatsApp\nNa prática, os senadores podem decidir não apenas se uma indicação será aprovada ou rejeitada, mas também quando ela avançará.\nO caso de André Mendonça, indicado por Jair Bolsonaro para o Supremo, mostrou o peso desse calendário. O nome permaneceu por cinco meses à espera da sabatina no Senado. O episódio evidenciou que o poder da Casa não está restrito ao voto final: o tempo também é um instrumento político.\nMais recentemente, a indicação de Jorge Messias, feita pelo presidente Luiz Inácio Lula da Silva para uma vaga no Supremo, mostrou o outro lado dessa prerrogativa. Depois da sabatina, o nome chegou ao plenário e foi rejeitado pelos senadores.\nOs dois episódios ajudam a dimensionar a relação entre os Poderes. \nE a influência da Casa sobre o Supremo não termina na escolha de ministros. Os senadores também têm competência para processar e julgar ministros do tribunal por crime de responsabilidade, em processos de impeachment. Trata-se de uma atribuição que raramente chega a ser utilizada, mas que coloca nas mãos do Senado um instrumento de controle sobre a mais alta Corte do país.\nO poder dos senadores se estende ainda a outras áreas. Cabe ao Senado aprovar indicações de embaixadores e sabatinar e aprovar dirigentes do Banco Central, além de exercer competências próprias no processo legislativo.\nÉ por isso que uma eleição para o Senado não diz respeito apenas à composição do Congresso. Ela também pode alterar a relação entre os Poderes.\nA eleição para o Senado coloca em disputa justamente essa outra ponta do equilíbrio institucional. O resultado das urnas não escolherá apenas quem ocupará as cadeiras da Casa. Também definirá quem terá nas mãos algumas das principais ferramentas de interação com o Supremo.\nGloboPop: veja os vídeos do palco da Andréia Sadi",
+      "title": "Lula dá camisa do Corinthians a Zohran Mamdani em Nova York",
+      "link": "https://www.poder360.com.br/poder-governo/lula-da-camisa-do-corinthians-a-zohran-mamdani-em-nova-york/",
+      "summary": "Prefeito da cidade presenteou o brasileiro com uniforme do New York City FC durante encontro antes da Assembleia da ONU",
       "tags": [
-        "STF"
+        "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 14:10:14 -0000"
+      "score": 85,
+      "publishedRaw": "Mon, 21 Sep 2026 17:43:53 +0000"
     },
     {
-      "id": "bfe93e4a86dc",
-      "source": "G1 - Política",
+      "id": "1a5b7bad53a0",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ex-ministros defendem que STF deve apurar relação de Vorcaro e Moraes, após vídeo de jatinho",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/21/apos-video-de-jatinho-ex-ministros-voltam-a-defender-que-stf-deve-apurar-relacao-de-vorcaro-e-moraes.ghtml",
-      "summary": "Valdo: STF deixa caso Master no pós-eleição\nO Supremo Tribunal Federal (STF) não pode deixar de apurar a relação entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. A avaliação é de ex-ministros do STF, reforçada depois de divulgadas imagens de Moraes e sua mulher usando um dos jatinhos do ex-dono do Banco Master. \nNa mesma linha, esses ministros também defendem que as eventuais irregularidades cometidas por André Mendonça sejam analisadas pelo tribunal.\nPor enquanto, o tribunal não deve voltar a analisar os casos envolvendo os dois ministros antes das eleições. Pelo menos é o que defendem ministros que apoiam Alexandre de Moraes. \nAté quem defende André Mendonça também prefere deixar as análises para depois das eleições para evitar novas cenas \"vergonhosas\" durante o período eleitoral.\nMoraes e sua mulher, contratada por Vorcaro, no avião do banqueiro\nAlexandre de Moraes durante julgamento sobre supostas mensagens de Vorcaro para ele\nRosinei Coutinho/STF\nA sessão desta semana para julgar a petição de Moraes contra Mendonça foi suspensa. Nela, o ex-relator da ação penal do golpe acusa o relator do inquérito do Master de ter agido politicamente e cometido irregularidades para atingi-lo.\nJá a petição de André Mendonça pedindo para o plenário apurar as mensagens trocadas entre Vorcaro e Alexandre de Moraes está parada depois que o ministro Flávio Dino pediu vistas. Ele tende a devolver o caso ao plenário somente depois de encerrado o processo eleitoral. \nA avaliação é que a crise dentro do STF prejudica mais o presidente Lula e beneficia Flávio Bolsonaro, que lideram as pesquisas de intenção de voto.\nSegundo ex-ministros do STF ouvidos pelo blog, varrer para o debaixo do tapete todas as suspeitas sobre as relações de magistrados com o banqueiro seria péssimo para a imagem do tribunal e manteria o Supremo em estado permanente de crise. \nUm desses ex-ministros afirmou que tudo precisa ser investigado até para provar quem não tenha praticado nenhum ato criminoso a favor de Daniel Vorcaro.",
+      "category": "Internacional",
+      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
       "tags": [
-        "STF"
+        "STF",
+        "impeachment"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 12:44:57 -0000"
-    },
-    {
-      "id": "fac968d983b1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF gera incerteza sobre investigação do Master e INSS e temor de que ações se arrastem",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/crise-no-stf-gera-incerteza-sobre-investigacao-do-master-e-inss-e-temor-de-que-acoes-se-arrastem.shtml",
-      "summary": "A crise do STF (Supremo Tribunal Federal) gera incertezas em relação ao andamento dos casos do Banco Master e do INSS (Instituto Nacional do Seguro Social), como o impactos sobre novas operações, o tempo de resposta a pedidos da Polícia Federal e investigados e até sobre qual ministro decidirá questões urgentes.\nLeia mais (09/21/2026 - 12h38)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "21 Sep 2026 12:38:00 -0300"
+      "score": 83,
+      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
     },
     {
       "id": "8a41d8a93a31",
@@ -449,7 +374,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 16:55:38 -0000"
@@ -459,9 +385,9 @@
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Prefeito de NY e Lula se encontram nos EUA e trocam camisas de time de futebol; veja FOTOS",
+      "title": "Lula presenteia prefeito de NY com camisa do Corinthians e questiona problemas da cidade; veja fotos",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/21/lula-se-reune-com-mamdani-prefeito-de-nova-york-que-tambem-recebera-trump.ghtml",
-      "summary": "Presidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nO presidente Luiz Inácio Lula da Silva se reuniu com o prefeito de Nova York, Zohran Mamdani, na tarde desta segunda-feira (21). Os dois trocaram camisetas de times esportivos e posaram para fotos. O petista ganhou uma camiseta comemorativa da cidade feita para a Copa do Mundo, enquanto o americano recebeu uma peça do Corintians - o time de Lula. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO encontro ocorre na véspera do início da Assembleia Geral da Organização das Nações Unidas (ONU), que ocorrerá na cidade norte-americana a partir da próxima terça-feira (21), e é uma série de reuniões informais que Lula terá com líderes de Estado durante sua passagem nos EUA.\nEles foram fotografados juntos na casa do embaixador brasileiro na ONU, Sérgio Danese, e foram vistos trocando camisas de times de futebol. Lula entregou uma camisa do Corinthians a Mamdani, e o prefeito nova-iorquino entregou uma camisa do time Nova York FC edição especial Copa do Mundo. (Veja acima)\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nMamdani, um dos principais desafetos políticos de Donald Trump, também se reunirá com o presidente dos Estados Unidos nesta segunda.\nOs encontros, no entanto, ocorrerão em locais diferentes. Lula recebeu Mamdani na residência oficial do embaixador do Brasil nos EUA às 12h30, pelo horário de Brasília. Já Trump se encontrará com o prefeito de Nova York no fim da tarde, por volta das 17h, também pelo horário de Brasília. \n👉 Lula e Trump não têm reunião bilateral prevista, mas podem se encontrar durante a primeira sessão de discursos da Assembleia Geral. Isso porque o Brasil, tradicionalmente, abre a plentária da assembleia, e é seguido pelos Estados Unidos — no ano passado, Trump e Lula se encontraram nos bastidores, e o norte-americano falou em \"química excelente\" com o brasileiro na rápida conversa que travaram.  \nLula e Trump se encontraram pela última vez na Casa Branca em maio\nRicardo Stuckert / PR\nDelcy Rodríguez\nSérie especial sobre a ONU: organização tem 193 países mas poder de veto restrito a cinco garante protagonismo\nDonald Trump também se reunirá com a presidente interina da Venezuela, Delcy Rodríguez. Será a primeira vez que os dois se encontrarão desde que os EUA invadiram Caracas e caputuraram o então presidente do país, Nicolás Maduro. \nEmbora fosse aliada de Maduro, Rodríguez é apoiada por Trump e tem feito concessões ao governo dos EUA. \nA líder venezuelana chegou a Nova York nesta manhã, segundo seu governo, mas a reunião com Trump está agendada para terça-feira (22). \nTrump também tem reunião prevista com o presidente francês, Emmanuel Macron. \nAgora no g1",
+      "summary": "Presidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nO presidente Luiz Inácio Lula da Silva se reuniu com o prefeito de Nova York, Zohran Mamdani, na tarde desta segunda-feira (21). Os dois trocaram camisetas de times esportivos e posaram para fotos. \nO petista ganhou uma camiseta comemorativa da cidade feita para a Copa do Mundo, enquanto o americano recebeu uma peça do Corintians - o time de Lula. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO encontro ocorre na véspera do início da Assembleia Geral da Organização das Nações Unidas (ONU), que ocorrerá na cidade norte-americana a partir da próxima terça-feira (21), e é uma série de reuniões informais que Lula terá com líderes de Estado durante sua passagem nos EUA.\nEles foram fotografados juntos na casa do embaixador brasileiro na ONU, Sérgio Danese, e foram vistos trocando camisas de times de futebol. Lula entregou uma camisa do Corinthians a Mamdani, e o prefeito nova-iorquino entregou uma camisa do time Nova York FC edição especial Copa do Mundo. (Veja acima)\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nPresidente Lula e prefeito de Nova York, Zohran Mamdani, durante encontro na casa do embaixador brasileiro na ONU, Sérgio Danese, em Nova York, nos Estados Unidos, em 21 de setembro de 2026.\nAdam Gray/Pool via REUTERS\nPobreza e custo de vida\nDurante o encontro, Lula perguntou a Mamdani quais são os principais problemas sociais de Nova York. O presidente afirmou que, apesar de visitar a cidade há décadas, costuma ficar entre a residência do embaixador brasileiro e a sede da ONU e, por isso, não conhece a realidade das áreas periféricas.\n“Eu não sei se Nova York tem periferia”, disse Lula. Segundo ele, a conversa serviu para mostrar que os problemas enfrentados pela população pobre se repetem em diferentes cidades do mundo, especialmente a falta de políticas públicas.\nMamdani respondeu que o principal problema de Nova York é o custo de vida. Segundo o prefeito eleito, a cidade é a mais cara dos Estados Unidos e a terceira mais cara do mundo. Ele também afirmou que um em cada quatro moradores de Nova York vive na pobreza.\n“Foi uma honra passar esse tempo com o presidente Lula e descobrir como se faz para defender os trabalhadores, aqueles que vivem em dificuldade, que vivem em pobreza”, disse Mamdani. Ele também chamou Lula de “fonte de inspiração”.\nO brasileiro também criticou o aumento dos gastos militares enquanto persistem problemas como fome e pobreza. \n“Nesse momento, o mundo está gastando trilhões de dólares em armas. A Europa voltou a se armar, o Japão voltou a se armar, todos os países investiram em armas, e quase nada em educação, quase nada para combater a fome, para ajudar os pobres”, afirmou.\nAo final, Lula disse esperar que Mamdani se torne um “soldado” no combate à pobreza e à invisibilidade social. “Como você é muito jovem, espero que você esteja preparado para se tornar um soldado para diminuir a pobreza e a invisibilidade dos pobres”, disse.\nAgenda internacional \nMamdani, um dos principais desafetos políticos de Donald Trump, também se reunirá com o presidente dos Estados Unidos nesta segunda.\nOs encontros, no entanto, ocorrerão em locais diferentes. Lula recebeu Mamdani na residência oficial do embaixador do Brasil nos EUA às 12h30, pelo horário de Brasília. Já Trump se encontrará com o prefeito de Nova York no fim da tarde, por volta das 17h, também pelo horário de Brasília. \n👉 Lula e Trump não têm reunião bilateral prevista, mas podem se encontrar durante a primeira sessão de discursos da Assembleia Geral. Isso porque o Brasil, tradicionalmente, abre a plentária da assembleia, e é seguido pelos Estados Unidos — no ano passado, Trump e Lula se encontraram nos bastidores, e o norte-americano falou em \"química excelente\" com o brasileiro na rápida conversa que travaram.  \nLula e Trump se encontraram pela última vez na Casa Branca em maio\nRicardo Stuckert / PR\nDelcy Rodríguez\nSérie especial sobre a ONU: organização tem 193 países mas poder de veto restrito a cinco garante protagonismo\nDonald Trump também se reunirá com a presidente interina da Venezuela, Delcy Rodríguez. Será a primeira vez que os dois se encontrarão desde que os EUA invadiram Caracas e caputuraram o então presidente do país, Nicolás Maduro. \nEmbora fosse aliada de Maduro, Rodríguez é apoiada por Trump e tem feito concessões ao governo dos EUA. \nA líder venezuelana chegou a Nova York nesta manhã, segundo seu governo, mas a reunião com Trump está agendada para terça-feira (22). \nTrump também tem reunião prevista com o presidente francês, Emmanuel Macron. \nAgora no g1",
       "tags": [
         "Lula"
       ],
@@ -470,10 +396,67 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 11:01:29 -0000"
+    },
+    {
+      "id": "e978fe5f5074",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
+      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "impeachment",
+        "esquerda"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "f2b317c2aae3",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Senado tem a chave do STF: quem entra e quem pode sair",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/21/senado-tem-a-chave-do-stf-quem-entra-e-quem-pode-sair.ghtml",
+      "summary": "Miriam e Sadi: Senado decide se aprova ou afasta ministros do STF\nO Senado Federal costuma aparecer no noticiário como coadjuvante das grandes disputas de Brasília. Mas, quando o assunto é a relação entre o Congresso e o Supremo Tribunal Federal (STF), a Casa está longe de ocupar um papel secundário. É no Senado que passam algumas das principais ferramentas de controle sobre o Judiciário e é justamente por isso que a eleição para a Casa ganha peso na relação com o STF.\nA escolha dos ministros do Supremo é um exemplo. O presidente da República indica o nome, mas não tem a palavra final. O indicado precisa ser sabatinado pela Comissão de Constituição e Justiça (CCJ) e, depois, aprovado pelo plenário do Senado.\n📱 Acesse o Canal da Sadi no WhatsApp\nNa prática, os senadores podem decidir não apenas se uma indicação será aprovada ou rejeitada, mas também quando ela avançará.\nO caso de André Mendonça, indicado por Jair Bolsonaro para o Supremo, mostrou o peso desse calendário. O nome permaneceu por cinco meses à espera da sabatina no Senado. O episódio evidenciou que o poder da Casa não está restrito ao voto final: o tempo também é um instrumento político.\nMais recentemente, a indicação de Jorge Messias, feita pelo presidente Luiz Inácio Lula da Silva para uma vaga no Supremo, mostrou o outro lado dessa prerrogativa. Depois da sabatina, o nome chegou ao plenário e foi rejeitado pelos senadores.\nOs dois episódios ajudam a dimensionar a relação entre os Poderes. \nE a influência da Casa sobre o Supremo não termina na escolha de ministros. Os senadores também têm competência para processar e julgar ministros do tribunal por crime de responsabilidade, em processos de impeachment. Trata-se de uma atribuição que raramente chega a ser utilizada, mas que coloca nas mãos do Senado um instrumento de controle sobre a mais alta Corte do país.\nO poder dos senadores se estende ainda a outras áreas. Cabe ao Senado aprovar indicações de embaixadores e sabatinar e aprovar dirigentes do Banco Central, além de exercer competências próprias no processo legislativo.\nÉ por isso que uma eleição para o Senado não diz respeito apenas à composição do Congresso. Ela também pode alterar a relação entre os Poderes.\nA eleição para o Senado coloca em disputa justamente essa outra ponta do equilíbrio institucional. O resultado das urnas não escolherá apenas quem ocupará as cadeiras da Casa. Também definirá quem terá nas mãos algumas das principais ferramentas de interação com o Supremo.\nGloboPop: veja os vídeos do palco da Andréia Sadi",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 21 Sep 2026 14:10:14 -0000"
+    },
+    {
+      "id": "bfe93e4a86dc",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ex-ministros defendem que STF deve apurar relação de Vorcaro e Moraes, após vídeo de jatinho",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/21/apos-video-de-jatinho-ex-ministros-voltam-a-defender-que-stf-deve-apurar-relacao-de-vorcaro-e-moraes.ghtml",
+      "summary": "Valdo: STF deixa caso Master no pós-eleição\nO Supremo Tribunal Federal (STF) não pode deixar de apurar a relação entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. A avaliação é de ex-ministros do STF, reforçada depois de divulgadas imagens de Moraes e sua mulher usando um dos jatinhos do ex-dono do Banco Master. \nNa mesma linha, esses ministros também defendem que as eventuais irregularidades cometidas por André Mendonça sejam analisadas pelo tribunal.\nPor enquanto, o tribunal não deve voltar a analisar os casos envolvendo os dois ministros antes das eleições. Pelo menos é o que defendem ministros que apoiam Alexandre de Moraes. \nAté quem defende André Mendonça também prefere deixar as análises para depois das eleições para evitar novas cenas \"vergonhosas\" durante o período eleitoral.\nMoraes e sua mulher, contratada por Vorcaro, no avião do banqueiro\nAlexandre de Moraes durante julgamento sobre supostas mensagens de Vorcaro para ele\nRosinei Coutinho/STF\nA sessão desta semana para julgar a petição de Moraes contra Mendonça foi suspensa. Nela, o ex-relator da ação penal do golpe acusa o relator do inquérito do Master de ter agido politicamente e cometido irregularidades para atingi-lo.\nJá a petição de André Mendonça pedindo para o plenário apurar as mensagens trocadas entre Vorcaro e Alexandre de Moraes está parada depois que o ministro Flávio Dino pediu vistas. Ele tende a devolver o caso ao plenário somente depois de encerrado o processo eleitoral. \nA avaliação é que a crise dentro do STF prejudica mais o presidente Lula e beneficia Flávio Bolsonaro, que lideram as pesquisas de intenção de voto.\nSegundo ex-ministros do STF ouvidos pelo blog, varrer para o debaixo do tapete todas as suspeitas sobre as relações de magistrados com o banqueiro seria péssimo para a imagem do tribunal e manteria o Supremo em estado permanente de crise. \nUm desses ex-ministros afirmou que tudo precisa ser investigado até para provar quem não tenha praticado nenhum ato criminoso a favor de Daniel Vorcaro.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 21 Sep 2026 12:44:57 -0000"
     },
     {
       "id": "f16bc2fdf5b0",
@@ -556,19 +539,19 @@
       "publishedRaw": "21 Sep 2026 13:24:00 -0300"
     },
     {
-      "id": "61b6a9231b32",
+      "id": "83ca3e57e70d",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Donatella Versace anuncia nova marca após deixar grife da família",
-      "link": "https://www.cnnbrasil.com.br/style/moda/donatella-versace-anuncia-nova-marca-apos-deixar-grife-da-familia/",
-      "summary": "Empresária italiana deixou a direção da Versace em 2025",
+      "title": "Irmã de Presley Gerber falou sobre consequências do vício dele na família",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/irma-de-presley-gerber-falou-sobre-consequencias-do-vicio-dele-na-familia/",
+      "summary": "Em entrevista, a modelo Kaia comentou que, pela doença do irmão, silenciou suas necessidades e precisou buscar terapia depois de adulta",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Mon, 21 Sep 2026 16:11:16 +0000"
+      "publishedRaw": "Mon, 21 Sep 2026 17:40:56 +0000"
     },
     {
       "id": "febfa4355f7b",
