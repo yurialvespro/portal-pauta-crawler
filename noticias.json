@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:14:52.973493+00:00",
+  "generated_at": "2026-09-21T01:42:49.589987+00:00",
   "items": [
     {
       "id": "e431658c6afa",
@@ -18,10 +18,9 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 93,
+      "score": 89,
       "publishedRaw": "Sat, 19 Sep 2026 23:14:42 -0000"
     },
     {
@@ -41,53 +40,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 93,
+      "score": 89,
       "publishedRaw": "Sat, 19 Sep 2026 18:26:33 -0000"
-    },
-    {
-      "id": "084b6ccef1d8",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml",
-      "summary": "A coligação do PT pediu ao TSE (Tribunal Superior Eleitoral) neste domingo (20) a suspensão do site TV Celular. O partido do presidente Luiz Inácio Lula da Silva afirma que a campanha de Flávio Bolsonaro (PL) divulga cortes nesse canal sem a devida identificação eleitoral.\nLeia mais (09/20/2026 - 21h17)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "20 Sep 2026 21:17:00 -0300"
-    },
-    {
-      "id": "1fac377a1ebf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE reconhece admissibilidade de ação de Flávio contra Lula por desfile de escola de samba",
-      "link": "https://www.estadao.com.br/politica/tse-reconhece-admissibilidade-de-acao-de-flavio-contra-lula-por-desfile-de-escola-de-samba/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Sat, 19 Sep 2026 20:09:47 +0000"
     },
     {
       "id": "2173ab43f3ff",
@@ -150,6 +106,26 @@
       "publishedRaw": "Sun, 20 Sep 2026 22:12:01 +0000"
     },
     {
+      "id": "084b6ccef1d8",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT vai ao TSE por suspensão de site com 'TV 24 h' de Flávio Bolsonaro por propaganda irregular",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/pt-vai-ao-tse-por-suspensao-de-site-com-tv-24-h-de-flavio-bolsonaro-por-propaganda-irregular.shtml",
+      "summary": "A coligação do PT pediu ao TSE (Tribunal Superior Eleitoral) neste domingo (20) a suspensão do site TV Celular. O partido do presidente Luiz Inácio Lula da Silva afirma que a campanha de Flávio Bolsonaro (PL) divulga cortes nesse canal sem a devida identificação eleitoral.\nLeia mais (09/20/2026 - 21h17)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "20 Sep 2026 21:17:00 -0300"
+    },
+    {
       "id": "a17dc6904e34",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -205,6 +181,26 @@
       ],
       "score": 82,
       "publishedRaw": "Sun, 20 Sep 2026 23:00:00 +0000"
+    },
+    {
+      "id": "1fac377a1ebf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE reconhece admissibilidade de ação de Flávio contra Lula por desfile de escola de samba",
+      "link": "https://www.estadao.com.br/politica/tse-reconhece-admissibilidade-de-acao-de-flavio-contra-lula-por-desfile-de-escola-de-samba/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Sat, 19 Sep 2026 20:09:47 +0000"
     },
     {
       "id": "7a9b419270f5",
@@ -474,26 +470,6 @@
       "publishedRaw": "Sun, 20 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "8ffa8a1fa254",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula chega a Nova York para Assembleia Geral da ONU",
-      "link": "https://www.cnnbrasil.com.br/internacional/lula-chega-a-nova-york-para-assembleia-geral-da-onu/",
-      "summary": "Além da cúpula, agenda do presidente também inclui reunião bilateral com o prefeito de Nova York e entrevista à âncora da CNN, Christiane Amanpour",
-      "tags": [
-        "MBL",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Sun, 20 Sep 2026 22:23:52 +0000"
-    },
-    {
       "id": "d46bbf87bec5",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -510,45 +486,6 @@
       ],
       "score": 78,
       "publishedRaw": "Sat, 19 Sep 2026 07:00:00 -0000"
-    },
-    {
-      "id": "51e8325c19e2",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Deltan Dallagnol tem candidatura ao Senado suspensa em decisão liminar do TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/deltan-dallagnol-tem-candidatura-ao-senado-suspensa-em-decisao-liminar-do-tse/",
-      "summary": "",
-      "tags": [
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 78,
-      "publishedRaw": "Sun, 20 Sep 2026 01:35:03 +0000"
-    },
-    {
-      "id": "fbca29aadb2a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE suspende repasse de recursos e atos de campanha de Deltan Dallagnol",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/19/tse-suspende-repasse-de-recursos-e-atos-de-campanha-de-deltan-dallagnol.ghtml",
-      "summary": "O Tribunal Superior Eleitoral (TSE) suspendeu os atos de campanha e o repasse de recursos dos fundos Eleitoral e Partidário para Deltan Dallagnol (Novo), candidato ao Senado pelo Paraná.\nA decisão liminar (provisória) é do ministro Floriano de Azevedo Marques, que pediu à presidência do TSE para agendar o julgamento do caso no plenário virtual ou presencial já nos próximos dias. \nEm nota, a equipe jurídica de Deltan Dallagnol afirmou que vai recorrer da decisão, que o caso tramitava sob sigilo, e o candidato não foi intimado para se manifestar antes de a decisão ser tomada. \nO ministro atendeu a um pedido da coligação Paraná Para Todos, liderada pelo PDT, e da Federação Brasil da Esperança, formada por PT, PCdoB e PSOL, que recorreram da decisão do Tribunal Regional Eleitoral do Paraná (TRE-PR) que permitiu que Dallagnol participasse da disputa.\nDeltan Dallagnol, candidato ao Senado pelo Paraná\nVitória Smarci/RPC\nO pedido era para que o TSE suspendesse o repasse de recursos públicos para a campanha de Dallagnol e o proibisse de veicular propaganda eleitoral gratuita no rádio e na televisão e de praticar outros atos de campanha, inclusive participação em debates.\nNa decisão, Marques entendeu que o TSE já havia reconhecido por unanimidade em outro julgamento, de 2022, que o pedido de exoneração do cargo de procurador da República, feito por Dallagnol, constituiu fraude à lei, porque teve o objetivo de evitar que 15 procedimentos administrativos que tramitavam contra ele no Conselho Nacional do Ministério Público (CNMP) virassem Processos Administrativos Disciplinares (PADs).\nPara o ministro, o posterior arquivamento dos procedimentos no CNMP ocorreu porque Dallagnol deixou de ser membro do Ministério Público, e não porque houve absolvição.\n\"O proceder do candidato impediu que os 15 procedimentos administrativos em trâmite no CNMP em seu desfavor pudessem gerar processos administrativos disciplinares (PAD), aptos a ensejar a pena de aposentadoria compulsória ou de perda do cargo\", afirmou Marques.\n\"Ressalte-se que, ao tempo da exoneração, todos esses procedimentos estavam em processamento, sem nenhum elemento indicativo de que seria proferida decisão absolutória ou favorável ao candidato. Ao contrário, a expectativa àquela época era de efetiva aplicação das penalidades de demissão ou aposentadoria compulsória\", disse o ministro — situação que teria deixado Dallagnol inelegível.\nNo plenário, o caso será analisado pelos sete ministros que integram o TSE.\nA defesa de Deltan Dallagnol apontou casos que considera precedentes de decisões do TSE tomadas em sentido contrário. Afirmou também que o ministro Floriano de Azevedo Marques é próximo do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), a quem Dallagnol tem feito críticas. \n\"Assim, a suspensão de sua campanha ocorreu justamente na semana em que o candidato intensificou publicamente sua atuação em torno da fiscalização do Supremo e do apoio a um pedido de impeachment de Moraes\", disse a defesa de Dallagnol.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Sun, 20 Sep 2026 01:20:39 -0000"
     },
     {
       "id": "66e26c7bddfa",
@@ -569,25 +506,6 @@
       "publishedRaw": "Sun, 20 Sep 2026 18:39:01 -0000"
     },
     {
-      "id": "e503ac24bf9b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após embates com Mendonça e Nunes Marques, Gilmar defende evitar politização do TSE",
-      "link": "https://www.estadao.com.br/politica/apos-embates-com-mendonca-e-nunes-marques-gilmar-defende-evitar-politizacao-do-tse/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
-    },
-    {
       "id": "47786facdb32",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -604,25 +522,6 @@
       ],
       "score": 77,
       "publishedRaw": "Sun, 20 Sep 2026 19:05:05 GMT"
-    },
-    {
-      "id": "a93d643ad431",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Deltan diz que ministro que o vetou no TSE é amigo de Moraes",
-      "link": "https://www.poder360.com.br/poder-justica/deltan-diz-que-ministro-que-o-vetou-no-tse-e-amigo-de-moraes/",
-      "summary": "Floriano de Azevedo Marques, que afirmou ser amigo de Moraes há mais de 40 anos, suspendeu candidatura do ex-deputado ao Senado no sábado (19.set)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Sun, 20 Sep 2026 20:18:42 +0000"
     },
     {
       "id": "b744b5619cae",
@@ -710,6 +609,61 @@
       ],
       "score": 74,
       "publishedRaw": "Sun, 20 Sep 2026 21:31:09 -0000"
+    },
+    {
+      "id": "51e8325c19e2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Deltan Dallagnol tem candidatura ao Senado suspensa em decisão liminar do TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/deltan-dallagnol-tem-candidatura-ao-senado-suspensa-em-decisao-liminar-do-tse/",
+      "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 74,
+      "publishedRaw": "Sun, 20 Sep 2026 01:35:03 +0000"
+    },
+    {
+      "id": "fbca29aadb2a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE suspende repasse de recursos e atos de campanha de Deltan Dallagnol",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/19/tse-suspende-repasse-de-recursos-e-atos-de-campanha-de-deltan-dallagnol.ghtml",
+      "summary": "O Tribunal Superior Eleitoral (TSE) suspendeu os atos de campanha e o repasse de recursos dos fundos Eleitoral e Partidário para Deltan Dallagnol (Novo), candidato ao Senado pelo Paraná.\nA decisão liminar (provisória) é do ministro Floriano de Azevedo Marques, que pediu à presidência do TSE para agendar o julgamento do caso no plenário virtual ou presencial já nos próximos dias. \nEm nota, a equipe jurídica de Deltan Dallagnol afirmou que vai recorrer da decisão, que o caso tramitava sob sigilo, e o candidato não foi intimado para se manifestar antes de a decisão ser tomada. \nO ministro atendeu a um pedido da coligação Paraná Para Todos, liderada pelo PDT, e da Federação Brasil da Esperança, formada por PT, PCdoB e PSOL, que recorreram da decisão do Tribunal Regional Eleitoral do Paraná (TRE-PR) que permitiu que Dallagnol participasse da disputa.\nDeltan Dallagnol, candidato ao Senado pelo Paraná\nVitória Smarci/RPC\nO pedido era para que o TSE suspendesse o repasse de recursos públicos para a campanha de Dallagnol e o proibisse de veicular propaganda eleitoral gratuita no rádio e na televisão e de praticar outros atos de campanha, inclusive participação em debates.\nNa decisão, Marques entendeu que o TSE já havia reconhecido por unanimidade em outro julgamento, de 2022, que o pedido de exoneração do cargo de procurador da República, feito por Dallagnol, constituiu fraude à lei, porque teve o objetivo de evitar que 15 procedimentos administrativos que tramitavam contra ele no Conselho Nacional do Ministério Público (CNMP) virassem Processos Administrativos Disciplinares (PADs).\nPara o ministro, o posterior arquivamento dos procedimentos no CNMP ocorreu porque Dallagnol deixou de ser membro do Ministério Público, e não porque houve absolvição.\n\"O proceder do candidato impediu que os 15 procedimentos administrativos em trâmite no CNMP em seu desfavor pudessem gerar processos administrativos disciplinares (PAD), aptos a ensejar a pena de aposentadoria compulsória ou de perda do cargo\", afirmou Marques.\n\"Ressalte-se que, ao tempo da exoneração, todos esses procedimentos estavam em processamento, sem nenhum elemento indicativo de que seria proferida decisão absolutória ou favorável ao candidato. Ao contrário, a expectativa àquela época era de efetiva aplicação das penalidades de demissão ou aposentadoria compulsória\", disse o ministro — situação que teria deixado Dallagnol inelegível.\nNo plenário, o caso será analisado pelos sete ministros que integram o TSE.\nA defesa de Deltan Dallagnol apontou casos que considera precedentes de decisões do TSE tomadas em sentido contrário. Afirmou também que o ministro Floriano de Azevedo Marques é próximo do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), a quem Dallagnol tem feito críticas. \n\"Assim, a suspensão de sua campanha ocorreu justamente na semana em que o candidato intensificou publicamente sua atuação em torno da fiscalização do Supremo e do apoio a um pedido de impeachment de Moraes\", disse a defesa de Dallagnol.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 73,
+      "publishedRaw": "Sun, 20 Sep 2026 01:20:39 -0000"
+    },
+    {
+      "id": "e503ac24bf9b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após embates com Mendonça e Nunes Marques, Gilmar defende evitar politização do TSE",
+      "link": "https://www.estadao.com.br/politica/apos-embates-com-mendonca-e-nunes-marques-gilmar-defende-evitar-politizacao-do-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 73,
+      "publishedRaw": "Sat, 19 Sep 2026 22:57:17 +0000"
     },
     {
       "id": "5376ca25e7c7",
