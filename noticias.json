@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:47:59.956602+00:00",
+  "generated_at": "2026-09-22T07:16:17.028246+00:00",
   "items": [
     {
       "id": "4e5ea2f71dba",
@@ -100,6 +100,27 @@
       "publishedRaw": "Mon, 21 Sep 2026 21:25:45 -0000"
     },
     {
+      "id": "f3a1c24e0a02",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio esbarra em polêmicas de Bolsonaro e ignora 'Dark Horse' ao explorar crise no STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-esbarra-em-polemicas-de-bolsonaro-e-ignora-dark-horse-ao-explorar-crise-no-stf.shtml",
+      "summary": "O senador Flávio Bolsonaro, candidato à Presidência pelo PL, tem ignorado sua relação com Daniel Vorcaro, do Banco Master, e uma série de polêmicas que marcaram o governo de seu pai, o ex-presidente Jair Bolsonaro (PL), ao explorar a crise sem precedentes do STF (Supremo Tribunal Federal).\nLeia mais (09/22/2026 - 04h00)",
+      "tags": [
+        "STF",
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "22 Sep 2026 04:00:00 -0300"
+    },
+    {
       "id": "eff4f6d1dc31",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -122,29 +143,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 22 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "865ca852fba2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: para 21%, caso Master afeta Bolsonaros; 11% citam governo Lula",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-para-21-caso-master-afeta-bolsonaros-11-citam-governo-lula/",
-      "summary": "Levantamento ouviu 2.004 eleitores entre os dias 17 e 20 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Tue, 22 Sep 2026 01:39:59 +0000"
     },
     {
       "id": "821783805555",
@@ -253,8 +251,8 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 87,
@@ -273,7 +271,7 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -302,6 +300,47 @@
       ],
       "score": 87,
       "publishedRaw": "Mon, 21 Sep 2026 19:55:37 +0000"
+    },
+    {
+      "id": "1a5b7bad53a0",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
+    },
+    {
+      "id": "e978fe5f5074",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
+      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "impeachment",
+        "esquerda"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "acf83c489dad",
@@ -460,23 +499,42 @@
       "publishedRaw": "Tue, 22 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "1a5b7bad53a0",
-      "source": "BBC Brasil",
+      "id": "31b376f692ce",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
+      "category": "Política",
+      "title": "AGU pede ao STF a perda de cargo e a suspensão dos pagamentos a Marco Buzzi após acusações de assédio e importunação sexual",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/21/agu-pede-ao-stf-a-perda-de-cargo-e-a-suspensao-dos-pagamentos-a-marco-buzzi-apos-acusacoes-de-assedio-e-importunacao-sexual.ghtml",
+      "summary": "Ministro do STJ Marco Buzzi\nLuiz Silveira/Agência CNJ\nA Advocacia-Geral da União (AGU) pediu ao Supremo Tribunal Federal (STF) a perda de cargo e a suspensão dos pagamentos dos vencimentos do ministro do Superior Tribunal de Justiça (STJ), Marco Buzzi. \nNo mês passado, o STJ decidiu, por maioria absoluta, punir Buzzi com a disponibilidade (afastamento) e a perda do cargo por violação dos deveres funcionais diante das acusações de assédio e importunação sexual. \n\nCom a decisão, Buzzi foi mantido afastado do cargo, mas seguiu recebendo remuneração proporcional ao tempo de contribuição. \n\nEra necessária comunicação do STJ à AGU e depois ao STF, solicitando a suspensão dos pagamentos. \n\"A AGU requer, em caráter de urgência, a suspensão imediata do pagamento dos vencimentos proporcionais ao ministro até o julgamento definitivo da ação. Subsidiariamente, pede que esses valores sejam retidos em conta judicial vinculada\", diz a AGU em nota.\nA AGU solicita ainda que os valores sejam retidos em conta judicial vinculada. \n\"No mérito, a União requer que o STF decrete a perda do cargo de ministro do STJ. Pede também a tramitação da ação em segredo de justiça para proteção de dados relativos à intimidade das vítimas, bem como a aplicação das medidas necessárias para observância do julgamento com perspectiva de gênero, em especial a aplicação do entendimento firmado no Tema 1451 e na ADPF 1107 que garantem a proteção da honra e intimidade das denunciantes\", acrescenta a AGU.\nFoi a primeira vez que um ministro foi sancionado com a nova pena máxima para violações graves, definida pela Primeira Turma do STF e pelo Conselho Nacional de Justiça (CNJ).",
       "tags": [
-        "STF",
-        "impeachment"
+        "STF"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Mon, 21 Sep 2026 23:22:51 -0000"
+    },
+    {
+      "id": "d212b845f11e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede ao STF perda de cargo e suspensão de pagamentos a Marco Buzzi",
+      "link": "https://www.estadao.com.br/politica/agu-pede-ao-stf-perda-de-cargo-e-suspensao-de-pagamentos-a-marco-aurelio-buzzi-nprp/",
+      "summary": "Marco Aurélio Buzzi, ministro do STJ, foi afastado do cargo por acusações de assédio e importunação sexual",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 83,
-      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
+      "score": 84,
+      "publishedRaw": "Tue, 22 Sep 2026 00:02:52 +0000"
     },
     {
       "id": "579cd654cbeb",
@@ -490,12 +548,31 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 83,
       "publishedRaw": "Tue, 22 Sep 2026 01:59:48 +0000"
+    },
+    {
+      "id": "197cce4f10e9",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-agenda-de-daniel-vilela-de-segunda-feira-21.ghtml",
+      "summary": "Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás\nO candidato ao governo de Goiás Daniel Vilela (MDB) prometeu destinar um pacote de investimentos financeiros voltado ao agronegócio e ao fortalecimento da agroindústria no estado. O emedebista cumpriu agenda de campanha em Goiatuba, onde participou de uma carreata ao lado de lideranças políticas e apoiadores, acenando para comerciantes e moradores pelas principais ruas e avenidas da cidade.\nSegundo as propostas apresentadas pelo candidato, o planejamento prevê a criação e ampliação de linhas de crédito direcionadas a pequenos e médios produtores rurais, além do desenvolvimento de políticas de incentivo fiscal para impulsionar a economia local e atrair novos investimentos para Goiás.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nDaniel também ressaltou a importância de expandir obras de infraestrutura e aprimorar a logística de transporte, viabilizando o escoamento da produção e a abertura de novas frentes agrícolas, acompanhadas por programas focados na qualificação da mão de obra do campo.\nEleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nMDB lança Daniel Vilela como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\nNós temos hoje feito um grande pacote de infraestrutura, abrindo novas fronteiras agrícolas, locais que têm uma alta capacidade de produção, mas que estavam inviabilizados de produzir em razão da falta de logística e da infraestrutura\", disse.\nApós os compromissos em Goiatuba, Daniel Vilela deu sequência à agenda eleitoral e seguiu para o município de Bom Jesus de Goiás, onde conversou com a população e apresentou suas propostas de governo.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 22 Sep 2026 00:28:53 -0000"
     },
     {
       "id": "8a41d8a93a31",
@@ -542,24 +619,23 @@
       "publishedRaw": "Mon, 21 Sep 2026 19:36:10 -0000"
     },
     {
-      "id": "e978fe5f5074",
-      "source": "Estadão",
+      "id": "0a8969a1e872",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
-      "summary": "",
+      "title": "Eleições 2026: por que votos para deputados e senadores também importam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-por-que-votos-para-deputados-e-senadores-tambem-importam/",
+      "summary": "Mais de 158 milhões de brasileiros vão às urnas no próximo dia 4; especialistas ouvidos pela CNN explicam papel dos membros do Legislativo",
       "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
+      "publishedRaw": "Tue, 22 Sep 2026 06:30:45 +0000"
     },
     {
       "id": "fb5fd5043104",
@@ -631,60 +707,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "31b376f692ce",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede ao STF a perda de cargo e a suspensão dos pagamentos a Marco Buzzi após acusações de assédio e importunação sexual",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/21/agu-pede-ao-stf-a-perda-de-cargo-e-a-suspensao-dos-pagamentos-a-marco-buzzi-apos-acusacoes-de-assedio-e-importunacao-sexual.ghtml",
-      "summary": "Ministro do STJ Marco Buzzi\nLuiz Silveira/Agência CNJ\nA Advocacia-Geral da União (AGU) pediu ao Supremo Tribunal Federal (STF) a perda de cargo e a suspensão dos pagamentos dos vencimentos do ministro do Superior Tribunal de Justiça (STJ), Marco Buzzi. \nNo mês passado, o STJ decidiu, por maioria absoluta, punir Buzzi com a disponibilidade (afastamento) e a perda do cargo por violação dos deveres funcionais diante das acusações de assédio e importunação sexual. \n\nCom a decisão, Buzzi foi mantido afastado do cargo, mas seguiu recebendo remuneração proporcional ao tempo de contribuição. \n\nEra necessária comunicação do STJ à AGU e depois ao STF, solicitando a suspensão dos pagamentos. \n\"A AGU requer, em caráter de urgência, a suspensão imediata do pagamento dos vencimentos proporcionais ao ministro até o julgamento definitivo da ação. Subsidiariamente, pede que esses valores sejam retidos em conta judicial vinculada\", diz a AGU em nota.\nA AGU solicita ainda que os valores sejam retidos em conta judicial vinculada. \n\"No mérito, a União requer que o STF decrete a perda do cargo de ministro do STJ. Pede também a tramitação da ação em segredo de justiça para proteção de dados relativos à intimidade das vítimas, bem como a aplicação das medidas necessárias para observância do julgamento com perspectiva de gênero, em especial a aplicação do entendimento firmado no Tema 1451 e na ADPF 1107 que garantem a proteção da honra e intimidade das denunciantes\", acrescenta a AGU.\nFoi a primeira vez que um ministro foi sancionado com a nova pena máxima para violações graves, definida pela Primeira Turma do STF e pelo Conselho Nacional de Justiça (CNJ).",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Mon, 21 Sep 2026 23:22:51 -0000"
-    },
-    {
-      "id": "d212b845f11e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede ao STF perda de cargo e suspensão de pagamentos a Marco Buzzi",
-      "link": "https://www.estadao.com.br/politica/agu-pede-ao-stf-perda-de-cargo-e-suspensao-de-pagamentos-a-marco-aurelio-buzzi-nprp/",
-      "summary": "Marco Aurélio Buzzi, ministro do STJ, foi afastado do cargo por acusações de assédio e importunação sexual",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 22 Sep 2026 00:02:52 +0000"
-    },
-    {
-      "id": "197cce4f10e9",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/21/eleicoes-2026-agenda-de-daniel-vilela-de-segunda-feira-21.ghtml",
-      "summary": "Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás\nO candidato ao governo de Goiás Daniel Vilela (MDB) prometeu destinar um pacote de investimentos financeiros voltado ao agronegócio e ao fortalecimento da agroindústria no estado. O emedebista cumpriu agenda de campanha em Goiatuba, onde participou de uma carreata ao lado de lideranças políticas e apoiadores, acenando para comerciantes e moradores pelas principais ruas e avenidas da cidade.\nSegundo as propostas apresentadas pelo candidato, o planejamento prevê a criação e ampliação de linhas de crédito direcionadas a pequenos e médios produtores rurais, além do desenvolvimento de políticas de incentivo fiscal para impulsionar a economia local e atrair novos investimentos para Goiás.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nDaniel também ressaltou a importância de expandir obras de infraestrutura e aprimorar a logística de transporte, viabilizando o escoamento da produção e a abertura de novas frentes agrícolas, acompanhadas por programas focados na qualificação da mão de obra do campo.\nEleições 2026: Daniel Vilela fala em investimentos para o agro em visita ao sudoeste de Goiás\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nMDB lança Daniel Vilela como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\nNós temos hoje feito um grande pacote de infraestrutura, abrindo novas fronteiras agrícolas, locais que têm uma alta capacidade de produção, mas que estavam inviabilizados de produzir em razão da falta de logística e da infraestrutura\", disse.\nApós os compromissos em Goiatuba, Daniel Vilela deu sequência à agenda eleitoral e seguiu para o município de Bom Jesus de Goiás, onde conversou com a população e apresentou suas propostas de governo.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 77,
-      "publishedRaw": "Tue, 22 Sep 2026 00:28:53 -0000"
-    },
-    {
       "id": "f2cfcc63668b",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -696,9 +718,10 @@
         "eleições"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 74,
+      "score": 78,
       "publishedRaw": "Mon, 21 Sep 2026 22:59:17 -0000"
     },
     {
@@ -713,9 +736,10 @@
         "eleições"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 74,
+      "score": 78,
       "publishedRaw": "22 Sep 2026 00:04:00 -0300"
     },
     {
@@ -777,21 +801,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
-    },
-    {
-      "id": "b315c853e62c",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Catolicismo mantém força no Nordeste, que vê voto conservador crescer e desafiar esquerda",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/catolicismo-mantem-forca-no-nordeste-que-ve-voto-conservador-crescer-e-desafiar-esquerda.shtml",
-      "summary": "Era como estar diante do show de uma estrela do forró ou numa partida entre times de rivalidade renhida, como Fortaleza e Ceará. As arquibancadas do Ginásio Poliesportivo de Juazeiro do Norte, interior do Ceará, estavam lotadas com um público jovem, que cantava com entusiasmo.\nLeia mais (09/21/2026 - 23h00)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "21 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "46a385c022cd",
