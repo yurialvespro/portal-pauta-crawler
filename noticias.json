@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:16:50.514704+00:00",
+  "generated_at": "2026-09-22T08:44:17.509246+00:00",
   "items": [
     {
       "id": "4e5ea2f71dba",
@@ -16,7 +16,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -41,7 +40,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -66,7 +64,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -90,7 +87,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -178,7 +174,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -202,7 +197,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -211,30 +205,6 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 22 Sep 2026 01:16:11 +0000"
-    },
-    {
-      "id": "2901cbdf8c13",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise do STF volta a pairar sobre Lula após vídeo de Moraes e esposa em jatinho de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/crise-do-stf-volta-a-pairar-sobre-lula-apos-video-de-moraes-e-esposa-em-jatinho-de-vorcaro/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "13d323ddd4c3",
@@ -250,7 +220,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -274,7 +243,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -318,7 +286,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -348,47 +315,25 @@
       "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
     },
     {
-      "id": "e978fe5f5074",
+      "id": "5490a6dfce33",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "title": "Cleitinho, aliado de Flávio, acena a eleitor de Lula em Minas Gerais",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/cleitinho-aliado-de-flavio-acena-a-eleitor-de-lula-em-minas-gerais/",
       "summary": "",
-      "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "ed5c71bf28f7",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Candidatos debatem segurança e social e lembram ausências de Lula e Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/candidatos-debatem-seguranca-e-social-e-lembram-ausencias-de-lula-e-flavio/",
-      "summary": "Ronaldo Caiado, Augusto Cury e Romeu Zema participaram de debate na noite desta segunda-feira (21) em São Paulo",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 03:11:24 +0000"
+      "publishedRaw": "Tue, 22 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "f618b83a244e",
@@ -403,7 +348,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -425,7 +369,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -447,7 +390,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -470,7 +412,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -493,7 +434,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -572,7 +512,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -594,7 +533,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -634,7 +572,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -658,7 +595,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -681,7 +617,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -704,7 +639,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -856,6 +790,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Tue, 22 Sep 2026 07:00:16 +0000"
+    },
+    {
+      "id": "f58c9d6a40f1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro",
+      "link": "https://www.estadao.com.br/politica/pesquisas-ao-senado-projetam-pl-turbinado-avanco-timido-da-esquerda-e-encolhimento-do-centro/",
+      "summary": "",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Tue, 22 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "46a385c022cd",
