@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:13:39.491389+00:00",
+  "generated_at": "2026-09-22T01:41:49.724522+00:00",
   "items": [
     {
       "id": "b2deba63b25e",
@@ -15,6 +15,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -38,6 +39,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -61,6 +63,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -69,6 +72,30 @@
       ],
       "score": 94,
       "publishedRaw": "Mon, 21 Sep 2026 21:05:01 -0000"
+    },
+    {
+      "id": "58cd242f61e0",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: Flávio Bolsonaro é rejeitado por 56% dos eleitores; Lula, por 55%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-bolsonaro-e-rejeitado-por-56-dos-eleitores-lula-por-55/",
+      "summary": "Levantamento foi feito com 2.004 entrevistados entre os dias 17 e 20 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 22 Sep 2026 01:11:03 +0000"
     },
     {
       "id": "26bca10c6cf2",
@@ -84,6 +111,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -120,6 +148,48 @@
       "publishedRaw": "Mon, 21 Sep 2026 21:25:45 -0000"
     },
     {
+      "id": "4b5402758013",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado diz que apostar em Flávio Bolsonaro é como “loteria”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-diz-que-apostar-em-flavio-bolsonaro-e-como-loteria/",
+      "summary": "Candidato à Presidência afirma que senador enfrenta rejeição elevada e defende que possui maior potencial de crescimento na disputa",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Tue, 22 Sep 2026 01:05:06 +0000"
+    },
+    {
+      "id": "4b1c097ed023",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Assessora de Flávio Bolsonaro negociou emenda com miliciano condenado no caso Marielle; veja diálogo",
+      "link": "https://www.estadao.com.br/politica/assessora-de-flavio-bolsonaro-negociou-emenda-com-miliciano-condenado-no-caso-marielle-veja-dialogo/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
+    },
+    {
       "id": "2901cbdf8c13",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -144,6 +214,29 @@
       "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
+      "id": "13d323ddd4c3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio diz que Bolsonaro levou água ao Nordeste; obra começou com Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-bolsonaro-levou-agua-ao-nordeste-obra-comecou-com-lula/",
+      "summary": "Transposição do rio São Francisco já estava com a estrutura física majoritariamente concluída quando ex-presidente assumiu",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 22 Sep 2026 01:38:36 +0000"
+    },
+    {
       "id": "f6f86e13ca46",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -156,6 +249,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -166,24 +260,46 @@
       "publishedRaw": "Tue, 22 Sep 2026 00:24:53 +0000"
     },
     {
-      "id": "4b1c097ed023",
-      "source": "Estadão",
+      "id": "13488f09ae3d",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Assessora de Flávio Bolsonaro negociou emenda com miliciano condenado no caso Marielle; veja diálogo",
-      "link": "https://www.estadao.com.br/politica/assessora-de-flavio-bolsonaro-negociou-emenda-com-miliciano-condenado-no-caso-marielle-veja-dialogo/",
-      "summary": "",
+      "category": "Economia",
+      "title": "O que é abandono de trabalho? Entenda regra que levou Eduardo Bolsonaro à demissão da PF",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-abandono-de-trabalho-entenda-regra.ghtml",
+      "summary": "Ministério da Justiça demite Eduardo Bolsonaro da PF\nO Ministério da Justiça oficializou, nesta segunda-feira (21), a demissão do ex-deputado federal Eduardo Bolsonaro do cargo de escrivão da Polícia Federal (PF).\nA demissão ocorreu por infração disciplinar de “abandono de cargo”, após a apuração de que Eduardo teria faltado ao serviço, sem justificativa, por mais de 30 dias consecutivos.\nA decisão foi assinada pelo ministro Wellington Lima e Silva na última sexta-feira (18) e publicada no Diário Oficial da União (DOU) desta segunda.\nA saída encerra o vínculo de Eduardo com uma carreira que tem remuneração inicial superior a R$ 14 mil e permite progressão salarial ao longo dos anos de serviço.\nEmbora a expressão \"abandono de trabalho\" seja relativamente conhecida, muita gente ainda tem dúvidas sobre o que ela significa na prática.\n🤔 Afinal, faltar 30 dias consecutivos leva automaticamente à demissão? Existe um prazo definido em lei? E o que muda quando o trabalhador atua no setor público em vez da iniciativa privada?\nAs respostas variam de acordo com o regime de contratação. Enquanto trabalhadores com carteira assinada são regidos pela Consolidação das Leis do Trabalho (CLT) e pela jurisprudência da Justiça do Trabalho, servidores públicos estão submetidos a estatutos próprios e a procedimentos administrativos específicos.\nOu seja, as regras para apurar a conduta e as consequências para o trabalhador são diferentes. \nVeja as principais diferenças na tabela abaixo.\n\nApesar das diferenças entre os regimes, um ponto costuma gerar confusão: a ideia de que existe um prazo que transforma automaticamente uma ausência em abandono de trabalho. Na prática, não é tão simples.\nQuando vira abandono? \nA CLT prevê o abandono de emprego como hipótese de justa causa, mas não estabelece quantos dias de ausência são necessários para caracterizá-lo.\nAo longo dos anos, os tribunais passaram a adotar o período de 30 dias como referência para analisar os casos, mas não como uma regra automática, explica Gustavo Fonseca Monteiro, advogado trabalhista empresarial e sócio da Tahech Advogados.\nSegundo ele, a Justiça costuma exigir dois elementos: ausência prolongada e injustificada e intenção do empregado de não retornar ao trabalho.\n\"Faltar ao trabalho por um período e abandonar o emprego não são a mesma coisa (...) para que exista abandono, as circunstâncias devem demonstrar que o empregado não pretende retornar e decidiu, ainda que sem uma comunicação formal, romper o vínculo\" .\n🔎 Essa intenção é conhecida no meio jurídico como \"animus abandonandi\". Em outras palavras, não basta que o trabalhador esteja ausente. É preciso haver indícios de que ele decidiu, de fato, encerrar a relação de emprego.\nFelipe Mazza, coordenador da área de Direito Trabalhista do Efcan Advogados, explica que os 30 dias funcionam apenas como um parâmetro.\n\"A empresa deve avaliar as circunstâncias concretas e buscar demonstrar que o empregado decidiu romper, por sua conduta, a continuidade da relação de trabalho\". \nPor isso, uma pessoa pode ficar mais de um mês sem trabalhar e, ainda assim, não ter abandonado o emprego. Uma internação, uma doença grave, problemas relacionados a benefícios previdenciários ou dificuldades relevantes de comunicação podem afastar essa conclusão.\nPara que a justa causa seja aplicada, é necessário demonstrar algo além da ausência: a intenção de não retornar ao trabalho.\nEsse cuidado existe porque situações excepcionais são comuns, pontua Taunai Moreira, sócio do escritório Bruno Boris Advogados. \nUm trabalhador pode não conseguir avisar a empresa imediatamente porque está hospitalizado, enfrenta uma doença grave ou outro impedimento relevante, exemplifica.\nO que a empresa precisa fazer antes de demitir? \nSe a intenção do trabalhador é um dos elementos centrais da análise, cabe à empresa reunir provas antes de aplicar a demissão por justa causa.\nO procedimento normalmente começa pela verificação de eventuais justificativas para as faltas, como: \nAtestados médicos;\nAfastamentos previdenciários;\nInternações ou licenças devem ser consideradas antes de qualquer decisão.\nNa sequência, recomenda-se tentar contato pelos meios habituais, como telefone, e-mail e aplicativos de mensagens, registrando todas as tentativas realizadas.\nCaso o trabalhador permaneça sem responder, a empresa deve formalizar uma convocação para que retorne ao trabalho ou apresente justificativas.\nMonteiro explica que o documento deve informar o período de ausência, convocar o trabalhador a retornar ou apresentar justificativa em prazo razoável e advertir expressamente que a falta de manifestação poderá caracterizar abandono de emprego e resultar em demissão por justa causa.\n\"A convocação deve ser enviada por meio que permita comprovar tanto o seu conteúdo quanto a entrega, como por exemplo carta registrada com aviso de recebimento ou, conforme o caso, notificação extrajudicial. E-mail e mensagens também podem reforçar a prova, desde que seja possível demonstrar o envio e o recebimento\".\nEmbora a legislação não determine um número mínimo de notificações, os especialistas recomendam que todas as tentativas sejam documentadas. Isso pode fazer diferença caso a situação seja discutida posteriormente na Justiça do Trabalho.\n\"Sem isso, a justa causa não se sustenta\", afirma Taunai, lembrando que o ônus da prova recai sobre o empregador.\nO que o trabalhador perde se houver abandono? \nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados\nQuando a demissão por abandono é confirmada, os efeitos são os mesmos de uma dispensa por justa causa. \nNesse caso, o empregado deixa de receber:\naviso-prévio;\nmulta de 40% sobre o FGTS;\nsaque imediato do FGTS em razão da rescisão;\nseguro-desemprego;\n13º salário proporcional;\nférias proporcionais acrescidas de um terço.\nPor outro lado, alguns direitos permanecem preservados. A empresa continua obrigada a pagar o saldo de salário referente aos dias efetivamente trabalhados e as férias já adquiridas, mas ainda não usufruídas.\nOutra dúvida comum envolve o FGTS. O dinheiro depositado na conta vinculada não é perdido e continua pertencendo ao trabalhador, embora ele não possa sacá-lo imediatamente em razão daquela demissão.\nE serviço público? Como funciona? \nSe, nas empresas privadas, a caracterização do abandono costuma ser discutida posteriormente na Justiça do Trabalho, na administração pública a apuração precisa ocorrer antes de qualquer punição.\nPara os servidores federais submetidos à Lei nº 8.112, o abandono de cargo é definido como ausência intencional por mais de 30 dias consecutivos.\n🔎 No caso dos policiais federais, uma legislação específica prevê a demissão por 30 dias consecutivos de faltas injustificadas ou 60 dias alternados em um período de 12 meses.\nMesmo quando a legislação estabelece critérios objetivos, porém, a punição não é automática.\n\"A Administração não pode aplicar a demissão imediatamente: deve instaurar um Processo Administrativo Disciplinar\", explica Felipe Mazza. \nSegundo Monteiro, o PAD é indispensável para que a administração pública identifique o período de ausência, avalie possíveis justificativas e assegure ao servidor o direito de apresentar provas e se defender.\n\"A perda do cargo é uma sanção grave e está sujeita ao devido processo legal, ao contraditório e à ampla defesa\", afirma. \nPor isso, a conclusão de uma comissão disciplinar não significa necessariamente o encerramento do caso. Em situações como a de Eduardo Bolsonaro, a comissão apenas recomenda a penalidade, e a decisão final cabe à autoridade competente.\nO que aconteceu no caso de Eduardo Bolsonaro?\nEduardo Bolsonaro mora nos Estados Unidos desde o início de 2025. Na época, afirmou que deixou o Brasil por se considerar alvo de perseguição política.\nEm dezembro daquele ano, a Mesa Diretora da Câmara dos Deputados decretou a perda do mandato por excesso de faltas. Com isso, ele deixou de ter o afastamento que permitia exercer a atividade parlamentar sem atuar na Polícia Federal.\nA PF, então, determinou que ele retornasse ao cargo de escrivão. Segundo a corporação, porém, Eduardo Bolsonaro não se reapresentou.\nDiante da ausência, a Corregedoria da Polícia Federal abriu, em janeiro de 2026, um Processo Administrativo Disciplinar para apurar um possível abandono de cargo. Após concluir a investigação, a PF recomendou a demissão do ex-deputado e encaminhou o processo ao Ministério da Justiça.\nComo a corporação é subordinada ao ministério, caberá ao ministro Wellington Lima e Silva decidir se aplica ou não a penalidade.",
       "tags": [
         "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Economia",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
+      "score": 89,
+      "publishedRaw": "Mon, 21 Sep 2026 12:15:43 -0000"
+    },
+    {
+      "id": "669e99a0deb1",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Cargo que Eduardo Bolsonaro perdeu na PF paga mais de R$ 21 mil; conheça carreira",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/conheca-a-carreira-de-escrivao-da-pf-cargo-do-qual-eduardo-bolsonaro-foi-demitido.ghtml",
+      "summary": "Ministério da Justiça demite Eduardo Bolsonaro da PF\nO Ministério da Justiça oficializou, nesta segunda-feira (21), a demissão do ex-deputado federal Eduardo Bolsonaro do cargo de escrivão da Polícia Federal (PF).\nA demissão ocorreu por infração disciplinar de “abandono de cargo”, após a apuração de que Eduardo teria faltado ao serviço, sem justificativa, por mais de 30 dias consecutivos.\nA decisão foi assinada pelo ministro Wellington Lima e Silva na última sexta-feira (18) e publicada no Diário Oficial da União (DOU) desta segunda.\nCom a demissão, Eduardo perde o vínculo com uma carreira que tem remuneração inicial superior a R$ 14 mil e permite progressão salarial ao longo dos anos de serviço.\nA Polícia Federal concluiu um Processo Administrativo Disciplinar (PAD) para apurar o caso e encaminhou o processo ao Ministério da Justiça, responsável pela decisão final.\nO ex-deputado estava afastado da função de escrivão para exercer o mandato na Câmara dos Deputados. Com a perda do mandato, em dezembro de 2025, deveria retornar às atividades na PF, mas, segundo a investigação administrativa, isso não ocorreu.\nA corregedoria da PF identificou ausências não justificadas por mais de 30 dias consecutivos. Pela legislação que rege o serviço público federal, o abandono de cargo pode resultar na demissão do servidor.\nO caso também chama atenção para a carreira de escrivão da Polícia Federal, uma das funções da corporação que exigem aprovação em concurso público.\nSegundo a Tabela de Remuneração dos Servidores Federais de 2025, o salário inicial do cargo é de R$ 14.164,81. Com a progressão na carreira, a remuneração pode chegar a R$ 21.987,38, conforme a classe ocupada pelo servidor.\nTabela de Remuneração dos Servidores Federais de 2025\nGoverno Federal\nO escrivão é o profissional responsável por registrar, organizar e formalizar grande parte dos procedimentos produzidos durante uma investigação. Entre suas atribuições estão: \nLavratura de autos, termos, depoimentos e mandados, além do controle de prazos, da organização dos inquéritos e da preparação dos documentos que serão encaminhados à Justiça.\nAcompanhamento de diligências, a gestão de fianças e objetos apreendidos e o apoio a atividades administrativas e operacionais da corporação.\nO que aconteceu\nEduardo Bolsonaro mora nos Estados Unidos desde o início de 2025. Na época, afirmou ter deixado o país por considerar que era alvo de perseguição política.\nEm dezembro daquele ano, a Mesa Diretora da Câmara dos Deputados decretou a perda de seu mandato por excesso de faltas. Com isso, ele deixou de ter o afastamento que permitia exercer atividade parlamentar sem atuar na Polícia Federal.\nA PF então determinou seu retorno ao cargo de escrivão. Segundo a corporação, porém, a reapresentação não ocorreu.\nDiante da ausência, a Corregedoria da Polícia Federal abriu, em janeiro de 2026, um Processo Administrativo Disciplinar para apurar um possível abandono de cargo.\nApós a conclusão da investigação, a PF recomendou a demissão do ex-deputado e encaminhou o processo ao Ministério da Justiça. \nComo a corporação é subordinada à pasta, caberá ao ministro Wellington Lima e Silva decidir se aplica ou não a penalidade.\nEm julho, o governo do presidente americano Donald Trump concedeu ao ex-parlamentar um green card, autorizando sua residência e trabalho permanentes em território norte-americano.\nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Mon, 21 Sep 2026 12:07:38 -0000"
     },
     {
       "id": "e0984ca67254",
@@ -198,6 +314,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -206,47 +323,6 @@
       ],
       "score": 87,
       "publishedRaw": "Mon, 21 Sep 2026 19:55:37 +0000"
-    },
-    {
-      "id": "1a5b7bad53a0",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
-      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
-      "tags": [
-        "STF",
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
-    },
-    {
-      "id": "e978fe5f5074",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
-      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "impeachment",
-        "esquerda"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "ecb6b6c461dc",
@@ -260,6 +336,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -281,6 +358,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -289,46 +367,6 @@
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 19:36:10 -0000"
-    },
-    {
-      "id": "13488f09ae3d",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "O que é abandono de trabalho? Entenda regra que levou Eduardo Bolsonaro à demissão da PF",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/o-que-e-abandono-de-trabalho-entenda-regra.ghtml",
-      "summary": "Ministério da Justiça demite Eduardo Bolsonaro da PF\nO Ministério da Justiça oficializou, nesta segunda-feira (21), a demissão do ex-deputado federal Eduardo Bolsonaro do cargo de escrivão da Polícia Federal (PF).\nA demissão ocorreu por infração disciplinar de “abandono de cargo”, após a apuração de que Eduardo teria faltado ao serviço, sem justificativa, por mais de 30 dias consecutivos.\nA decisão foi assinada pelo ministro Wellington Lima e Silva na última sexta-feira (18) e publicada no Diário Oficial da União (DOU) desta segunda.\nA saída encerra o vínculo de Eduardo com uma carreira que tem remuneração inicial superior a R$ 14 mil e permite progressão salarial ao longo dos anos de serviço.\nEmbora a expressão \"abandono de trabalho\" seja relativamente conhecida, muita gente ainda tem dúvidas sobre o que ela significa na prática.\n🤔 Afinal, faltar 30 dias consecutivos leva automaticamente à demissão? Existe um prazo definido em lei? E o que muda quando o trabalhador atua no setor público em vez da iniciativa privada?\nAs respostas variam de acordo com o regime de contratação. Enquanto trabalhadores com carteira assinada são regidos pela Consolidação das Leis do Trabalho (CLT) e pela jurisprudência da Justiça do Trabalho, servidores públicos estão submetidos a estatutos próprios e a procedimentos administrativos específicos.\nOu seja, as regras para apurar a conduta e as consequências para o trabalhador são diferentes. \nVeja as principais diferenças na tabela abaixo.\n\nApesar das diferenças entre os regimes, um ponto costuma gerar confusão: a ideia de que existe um prazo que transforma automaticamente uma ausência em abandono de trabalho. Na prática, não é tão simples.\nQuando vira abandono? \nA CLT prevê o abandono de emprego como hipótese de justa causa, mas não estabelece quantos dias de ausência são necessários para caracterizá-lo.\nAo longo dos anos, os tribunais passaram a adotar o período de 30 dias como referência para analisar os casos, mas não como uma regra automática, explica Gustavo Fonseca Monteiro, advogado trabalhista empresarial e sócio da Tahech Advogados.\nSegundo ele, a Justiça costuma exigir dois elementos: ausência prolongada e injustificada e intenção do empregado de não retornar ao trabalho.\n\"Faltar ao trabalho por um período e abandonar o emprego não são a mesma coisa (...) para que exista abandono, as circunstâncias devem demonstrar que o empregado não pretende retornar e decidiu, ainda que sem uma comunicação formal, romper o vínculo\" .\n🔎 Essa intenção é conhecida no meio jurídico como \"animus abandonandi\". Em outras palavras, não basta que o trabalhador esteja ausente. É preciso haver indícios de que ele decidiu, de fato, encerrar a relação de emprego.\nFelipe Mazza, coordenador da área de Direito Trabalhista do Efcan Advogados, explica que os 30 dias funcionam apenas como um parâmetro.\n\"A empresa deve avaliar as circunstâncias concretas e buscar demonstrar que o empregado decidiu romper, por sua conduta, a continuidade da relação de trabalho\". \nPor isso, uma pessoa pode ficar mais de um mês sem trabalhar e, ainda assim, não ter abandonado o emprego. Uma internação, uma doença grave, problemas relacionados a benefícios previdenciários ou dificuldades relevantes de comunicação podem afastar essa conclusão.\nPara que a justa causa seja aplicada, é necessário demonstrar algo além da ausência: a intenção de não retornar ao trabalho.\nEsse cuidado existe porque situações excepcionais são comuns, pontua Taunai Moreira, sócio do escritório Bruno Boris Advogados. \nUm trabalhador pode não conseguir avisar a empresa imediatamente porque está hospitalizado, enfrenta uma doença grave ou outro impedimento relevante, exemplifica.\nO que a empresa precisa fazer antes de demitir? \nSe a intenção do trabalhador é um dos elementos centrais da análise, cabe à empresa reunir provas antes de aplicar a demissão por justa causa.\nO procedimento normalmente começa pela verificação de eventuais justificativas para as faltas, como: \nAtestados médicos;\nAfastamentos previdenciários;\nInternações ou licenças devem ser consideradas antes de qualquer decisão.\nNa sequência, recomenda-se tentar contato pelos meios habituais, como telefone, e-mail e aplicativos de mensagens, registrando todas as tentativas realizadas.\nCaso o trabalhador permaneça sem responder, a empresa deve formalizar uma convocação para que retorne ao trabalho ou apresente justificativas.\nMonteiro explica que o documento deve informar o período de ausência, convocar o trabalhador a retornar ou apresentar justificativa em prazo razoável e advertir expressamente que a falta de manifestação poderá caracterizar abandono de emprego e resultar em demissão por justa causa.\n\"A convocação deve ser enviada por meio que permita comprovar tanto o seu conteúdo quanto a entrega, como por exemplo carta registrada com aviso de recebimento ou, conforme o caso, notificação extrajudicial. E-mail e mensagens também podem reforçar a prova, desde que seja possível demonstrar o envio e o recebimento\".\nEmbora a legislação não determine um número mínimo de notificações, os especialistas recomendam que todas as tentativas sejam documentadas. Isso pode fazer diferença caso a situação seja discutida posteriormente na Justiça do Trabalho.\n\"Sem isso, a justa causa não se sustenta\", afirma Taunai, lembrando que o ônus da prova recai sobre o empregador.\nO que o trabalhador perde se houver abandono? \nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados\nQuando a demissão por abandono é confirmada, os efeitos são os mesmos de uma dispensa por justa causa. \nNesse caso, o empregado deixa de receber:\naviso-prévio;\nmulta de 40% sobre o FGTS;\nsaque imediato do FGTS em razão da rescisão;\nseguro-desemprego;\n13º salário proporcional;\nférias proporcionais acrescidas de um terço.\nPor outro lado, alguns direitos permanecem preservados. A empresa continua obrigada a pagar o saldo de salário referente aos dias efetivamente trabalhados e as férias já adquiridas, mas ainda não usufruídas.\nOutra dúvida comum envolve o FGTS. O dinheiro depositado na conta vinculada não é perdido e continua pertencendo ao trabalhador, embora ele não possa sacá-lo imediatamente em razão daquela demissão.\nE serviço público? Como funciona? \nSe, nas empresas privadas, a caracterização do abandono costuma ser discutida posteriormente na Justiça do Trabalho, na administração pública a apuração precisa ocorrer antes de qualquer punição.\nPara os servidores federais submetidos à Lei nº 8.112, o abandono de cargo é definido como ausência intencional por mais de 30 dias consecutivos.\n🔎 No caso dos policiais federais, uma legislação específica prevê a demissão por 30 dias consecutivos de faltas injustificadas ou 60 dias alternados em um período de 12 meses.\nMesmo quando a legislação estabelece critérios objetivos, porém, a punição não é automática.\n\"A Administração não pode aplicar a demissão imediatamente: deve instaurar um Processo Administrativo Disciplinar\", explica Felipe Mazza. \nSegundo Monteiro, o PAD é indispensável para que a administração pública identifique o período de ausência, avalie possíveis justificativas e assegure ao servidor o direito de apresentar provas e se defender.\n\"A perda do cargo é uma sanção grave e está sujeita ao devido processo legal, ao contraditório e à ampla defesa\", afirma. \nPor isso, a conclusão de uma comissão disciplinar não significa necessariamente o encerramento do caso. Em situações como a de Eduardo Bolsonaro, a comissão apenas recomenda a penalidade, e a decisão final cabe à autoridade competente.\nO que aconteceu no caso de Eduardo Bolsonaro?\nEduardo Bolsonaro mora nos Estados Unidos desde o início de 2025. Na época, afirmou que deixou o Brasil por se considerar alvo de perseguição política.\nEm dezembro daquele ano, a Mesa Diretora da Câmara dos Deputados decretou a perda do mandato por excesso de faltas. Com isso, ele deixou de ter o afastamento que permitia exercer a atividade parlamentar sem atuar na Polícia Federal.\nA PF, então, determinou que ele retornasse ao cargo de escrivão. Segundo a corporação, porém, Eduardo Bolsonaro não se reapresentou.\nDiante da ausência, a Corregedoria da Polícia Federal abriu, em janeiro de 2026, um Processo Administrativo Disciplinar para apurar um possível abandono de cargo. Após concluir a investigação, a PF recomendou a demissão do ex-deputado e encaminhou o processo ao Ministério da Justiça.\nComo a corporação é subordinada ao ministério, caberá ao ministro Wellington Lima e Silva decidir se aplica ou não a penalidade.",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 12:15:43 -0000"
-    },
-    {
-      "id": "669e99a0deb1",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Cargo que Eduardo Bolsonaro perdeu na PF paga mais de R$ 21 mil; conheça carreira",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/21/conheca-a-carreira-de-escrivao-da-pf-cargo-do-qual-eduardo-bolsonaro-foi-demitido.ghtml",
-      "summary": "Ministério da Justiça demite Eduardo Bolsonaro da PF\nO Ministério da Justiça oficializou, nesta segunda-feira (21), a demissão do ex-deputado federal Eduardo Bolsonaro do cargo de escrivão da Polícia Federal (PF).\nA demissão ocorreu por infração disciplinar de “abandono de cargo”, após a apuração de que Eduardo teria faltado ao serviço, sem justificativa, por mais de 30 dias consecutivos.\nA decisão foi assinada pelo ministro Wellington Lima e Silva na última sexta-feira (18) e publicada no Diário Oficial da União (DOU) desta segunda.\nCom a demissão, Eduardo perde o vínculo com uma carreira que tem remuneração inicial superior a R$ 14 mil e permite progressão salarial ao longo dos anos de serviço.\nA Polícia Federal concluiu um Processo Administrativo Disciplinar (PAD) para apurar o caso e encaminhou o processo ao Ministério da Justiça, responsável pela decisão final.\nO ex-deputado estava afastado da função de escrivão para exercer o mandato na Câmara dos Deputados. Com a perda do mandato, em dezembro de 2025, deveria retornar às atividades na PF, mas, segundo a investigação administrativa, isso não ocorreu.\nA corregedoria da PF identificou ausências não justificadas por mais de 30 dias consecutivos. Pela legislação que rege o serviço público federal, o abandono de cargo pode resultar na demissão do servidor.\nO caso também chama atenção para a carreira de escrivão da Polícia Federal, uma das funções da corporação que exigem aprovação em concurso público.\nSegundo a Tabela de Remuneração dos Servidores Federais de 2025, o salário inicial do cargo é de R$ 14.164,81. Com a progressão na carreira, a remuneração pode chegar a R$ 21.987,38, conforme a classe ocupada pelo servidor.\nTabela de Remuneração dos Servidores Federais de 2025\nGoverno Federal\nO escrivão é o profissional responsável por registrar, organizar e formalizar grande parte dos procedimentos produzidos durante uma investigação. Entre suas atribuições estão: \nLavratura de autos, termos, depoimentos e mandados, além do controle de prazos, da organização dos inquéritos e da preparação dos documentos que serão encaminhados à Justiça.\nAcompanhamento de diligências, a gestão de fianças e objetos apreendidos e o apoio a atividades administrativas e operacionais da corporação.\nO que aconteceu\nEduardo Bolsonaro mora nos Estados Unidos desde o início de 2025. Na época, afirmou ter deixado o país por considerar que era alvo de perseguição política.\nEm dezembro daquele ano, a Mesa Diretora da Câmara dos Deputados decretou a perda de seu mandato por excesso de faltas. Com isso, ele deixou de ter o afastamento que permitia exercer atividade parlamentar sem atuar na Polícia Federal.\nA PF então determinou seu retorno ao cargo de escrivão. Segundo a corporação, porém, a reapresentação não ocorreu.\nDiante da ausência, a Corregedoria da Polícia Federal abriu, em janeiro de 2026, um Processo Administrativo Disciplinar para apurar um possível abandono de cargo.\nApós a conclusão da investigação, a PF recomendou a demissão do ex-deputado e encaminhou o processo ao Ministério da Justiça. \nComo a corporação é subordinada à pasta, caberá ao ministro Wellington Lima e Silva decidir se aplica ou não a penalidade.\nEm julho, o governo do presidente americano Donald Trump concedeu ao ex-parlamentar um green card, autorizando sua residência e trabalho permanentes em território norte-americano.\nEduardo Bolsonaro, ex-deputado federal e filho do ex-presidente Jair Bolsonaro\nBruno Spada/Câmara dos Deputados",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 21 Sep 2026 12:07:38 -0000"
     },
     {
       "id": "59167277a1d2",
@@ -342,6 +380,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -363,6 +402,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -384,6 +424,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -392,6 +433,72 @@
       ],
       "score": 85,
       "publishedRaw": "21 Sep 2026 20:13:00 -0300"
+    },
+    {
+      "id": "acb88726fec2",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Helicóptero desaparecido com cantor Rick: novo sinal de celular muda área de busca",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/helicoptero-desaparecido-com-cantor-rick-novo-sinal-de-celular-muda-area-de-busca/",
+      "summary": "Equipes do Corpo de Bombeiros e Defesa Civil de Urubici buscam pela aeronave e tripulantes em dois pontos da região",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 01:30:59 +0000"
+    },
+    {
+      "id": "bb8ded128e22",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Waack: Lula corre contra o tempo com pacote de bondades",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/waack-lula-corre-contra-o-tempo-com-pacote-de-bondades/",
+      "summary": "Levantamentos indicam que candidatos à reeleição estavam em posição melhor do que ele nesta altura da competição; pode-se atribuir isso a fatores de longo prazo, especialmente na economia, que trabalham contra Lula",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 01:02:42 +0000"
+    },
+    {
+      "id": "32c95904e5f7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula x Flávio: 2º turno será absolutamente imprevisível, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-x-flavio-2o-turno-sera-absolutamente-imprevisivel-diz-especialista/",
+      "summary": "Pesquisa Nexus/BTG aponta empate técnico entre Lula e Flávio Bolsonaro em cenário de segundo turno nas eleições de 2026; o CEO Marcelo Tokarski comenta o tema ao Hora H",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 00:56:09 +0000"
     },
     {
       "id": "f618b83a244e",
@@ -405,6 +512,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -426,6 +534,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -447,6 +556,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -457,80 +567,23 @@
       "publishedRaw": "Tue, 22 Sep 2026 00:51:14 +0000"
     },
     {
-      "id": "31b376f692ce",
-      "source": "G1 - Política",
+      "id": "1a5b7bad53a0",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede ao STF a perda de cargo e a suspensão dos pagamentos a Marco Buzzi após acusações de assédio e importunação sexual",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/21/agu-pede-ao-stf-a-perda-de-cargo-e-a-suspensao-dos-pagamentos-a-marco-buzzi-apos-acusacoes-de-assedio-e-importunacao-sexual.ghtml",
-      "summary": "Ministro do STJ Marco Buzzi\nLuiz Silveira/Agência CNJ\nA Advocacia-Geral da União (AGU) pediu ao Supremo Tribunal Federal (STF) a perda de cargo e a suspensão dos pagamentos dos vencimentos do ministro do Superior Tribunal de Justiça (STJ), Marco Buzzi. \nNo mês passado, o STJ decidiu, por maioria absoluta, punir Buzzi com a disponibilidade (afastamento) e a perda do cargo por violação dos deveres funcionais diante das acusações de assédio e importunação sexual. \n\nCom a decisão, Buzzi foi mantido afastado do cargo, mas seguiu recebendo remuneração proporcional ao tempo de contribuição. \n\nEra necessária comunicação do STJ à AGU e depois ao STF, solicitando a suspensão dos pagamentos. \n\"A AGU requer, em caráter de urgência, a suspensão imediata do pagamento dos vencimentos proporcionais ao ministro até o julgamento definitivo da ação. Subsidiariamente, pede que esses valores sejam retidos em conta judicial vinculada\", diz a AGU em nota.\nA AGU solicita ainda que os valores sejam retidos em conta judicial vinculada. \n\"No mérito, a União requer que o STF decrete a perda do cargo de ministro do STJ. Pede também a tramitação da ação em segredo de justiça para proteção de dados relativos à intimidade das vítimas, bem como a aplicação das medidas necessárias para observância do julgamento com perspectiva de gênero, em especial a aplicação do entendimento firmado no Tema 1451 e na ADPF 1107 que garantem a proteção da honra e intimidade das denunciantes\", acrescenta a AGU.\nFoi a primeira vez que um ministro foi sancionado com a nova pena máxima para violações graves, definida pela Primeira Turma do STF e pelo Conselho Nacional de Justiça (CNJ).",
+      "category": "Internacional",
+      "title": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
+      "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Diego Werneck, autor de 'O Supremo: Entre o Direito e a Política', avalia que crise atual vem da incapacidade do STF em convencer as pessoas de que seus ministros 'não são atores políticos iguais àqueles em que você vota'.",
       "tags": [
-        "STF"
+        "STF",
+        "impeachment"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 23:22:51 -0000"
-    },
-    {
-      "id": "2d3ddae7a476",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU aciona STF para que Marco Buzzi perca cargo de ministro do STJ",
-      "link": "https://www.cnnbrasil.com.br/politica/agu-aciona-stf-para-que-marco-buzzi-perca-cargo-de-ministro-do-stj/",
-      "summary": "Magistrado é alvo de duas acusações de assédio e importunação sexual; pedido da Advocacia Geral da União também requer que pagamentos salariais ao juiz sejam suspensos até o fim do processo",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 23:29:27 +0000"
-    },
-    {
-      "id": "d212b845f11e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "AGU pede ao STF perda de cargo e suspensão de pagamentos a Marco Buzzi",
-      "link": "https://www.estadao.com.br/politica/agu-pede-ao-stf-perda-de-cargo-e-suspensao-de-pagamentos-a-marco-aurelio-buzzi-nprp/",
-      "summary": "Marco Aurélio Buzzi, ministro do STJ, foi afastado do cargo por acusações de assédio e importunação sexual",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 22 Sep 2026 00:02:52 +0000"
-    },
-    {
-      "id": "63320868f2c6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Não basta reformar o STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-basta-reformar-o-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 21 Sep 2026 18:00:00 +0000"
+      "score": 83,
+      "publishedRaw": "Mon, 21 Sep 2026 13:04:41 GMT"
     },
     {
       "id": "8a41d8a93a31",
@@ -544,6 +597,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -565,6 +619,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -586,6 +641,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -594,6 +650,80 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 11:01:29 -0000"
+    },
+    {
+      "id": "e978fe5f5074",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Impeachment de ministros do STF une candidatos da esquerda à direita na disputa pelo Senado em SP",
+      "link": "https://www.estadao.com.br/politica/eleicoes/impeachment-de-ministros-do-stf-une-candidatos-da-esquerda-a-direita-na-disputa-pelo-senado-em-sp/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "impeachment",
+        "esquerda"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 21 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "31b376f692ce",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede ao STF a perda de cargo e a suspensão dos pagamentos a Marco Buzzi após acusações de assédio e importunação sexual",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/21/agu-pede-ao-stf-a-perda-de-cargo-e-a-suspensao-dos-pagamentos-a-marco-buzzi-apos-acusacoes-de-assedio-e-importunacao-sexual.ghtml",
+      "summary": "Ministro do STJ Marco Buzzi\nLuiz Silveira/Agência CNJ\nA Advocacia-Geral da União (AGU) pediu ao Supremo Tribunal Federal (STF) a perda de cargo e a suspensão dos pagamentos dos vencimentos do ministro do Superior Tribunal de Justiça (STJ), Marco Buzzi. \nNo mês passado, o STJ decidiu, por maioria absoluta, punir Buzzi com a disponibilidade (afastamento) e a perda do cargo por violação dos deveres funcionais diante das acusações de assédio e importunação sexual. \n\nCom a decisão, Buzzi foi mantido afastado do cargo, mas seguiu recebendo remuneração proporcional ao tempo de contribuição. \n\nEra necessária comunicação do STJ à AGU e depois ao STF, solicitando a suspensão dos pagamentos. \n\"A AGU requer, em caráter de urgência, a suspensão imediata do pagamento dos vencimentos proporcionais ao ministro até o julgamento definitivo da ação. Subsidiariamente, pede que esses valores sejam retidos em conta judicial vinculada\", diz a AGU em nota.\nA AGU solicita ainda que os valores sejam retidos em conta judicial vinculada. \n\"No mérito, a União requer que o STF decrete a perda do cargo de ministro do STJ. Pede também a tramitação da ação em segredo de justiça para proteção de dados relativos à intimidade das vítimas, bem como a aplicação das medidas necessárias para observância do julgamento com perspectiva de gênero, em especial a aplicação do entendimento firmado no Tema 1451 e na ADPF 1107 que garantem a proteção da honra e intimidade das denunciantes\", acrescenta a AGU.\nFoi a primeira vez que um ministro foi sancionado com a nova pena máxima para violações graves, definida pela Primeira Turma do STF e pelo Conselho Nacional de Justiça (CNJ).",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 21 Sep 2026 23:22:51 -0000"
+    },
+    {
+      "id": "d212b845f11e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "AGU pede ao STF perda de cargo e suspensão de pagamentos a Marco Buzzi",
+      "link": "https://www.estadao.com.br/politica/agu-pede-ao-stf-perda-de-cargo-e-suspensao-de-pagamentos-a-marco-aurelio-buzzi-nprp/",
+      "summary": "Marco Aurélio Buzzi, ministro do STJ, foi afastado do cargo por acusações de assédio e importunação sexual",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 22 Sep 2026 00:02:52 +0000"
+    },
+    {
+      "id": "63320868f2c6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Não basta reformar o STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-basta-reformar-o-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 21 Sep 2026 18:00:00 +0000"
     },
     {
       "id": "197cce4f10e9",
@@ -618,7 +748,7 @@
       "category": "Política",
       "title": "Entenda por que Minas acompanha resultado das eleições presidenciais desde 1989",
       "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/21/entenda-por-que-minas-acompanha-resultado-das-eleicoes-presidenciais-desde-1989.ghtml",
-      "summary": "Minas Gerais é o espelho do Brasil\nDesde a primeira eleição direta para presidente após a ditadura militar, em 1989, o candidato que venceu a disputa em Minas Gerais também foi eleito presidente da República. Em diferentes pleitos, os percentuais registrados no estado ficaram próximos dos resultados nacionais.\nA diversidade social, econômica e regional de Minas ajuda a explicar as semelhanças com o restante do país. O estado reúne características de diferentes regiões brasileiras, que aparecem na formação da população, na economia e também no comportamento dos eleitores.\n✅ Clique aqui para seguir o canal do g1 MG no WhatsApp\nEntenda por que Minas reflete o resultado da disputa presidencial nacional a partir dos seguintes pontos:\nLocalização e processo histórico\nMinas e Brasil nas urnas\nDiferenças regionais no voto\nDesafios para os candidatos\nLocalização e processo histórico\nMinas faz divisa com seis estados e o Distrito Federal. Segundo Bruno Durão, professor do Departamento de Geografia da PUC Minas, a localização e o processo histórico de ocupação ajudam a explicar as diferenças entre as regiões do estado.\nO Norte e o Nordeste mineiros receberam influência de populações vindas do Nordeste do país. A região Central foi marcada pelo ciclo do ouro, enquanto Sul, Sudeste e Zona da Mata tiveram influência de movimentos de ocupação e atividades econômicas de São Paulo e do Rio de Janeiro.\nAs diferenças também aparecem na economia. As regiões Metropolitana, Central, Oeste e Zona da Mata concentram 52,89% do PIB mineiro, percentual próximo à participação do Sudeste no PIB brasileiro, de 53,13%.\nO Sul de Minas e o Campo das Vertentes representam 16,10% da economia estadual, enquanto a Região Sul responde por 16,81% do PIB nacional. Norte de Minas e Jequitinhonha concentram 5,49% do PIB estadual.\nImagem aérea de Belo Horizonte\nReprodução/TV Globo\nMinas e Brasil nas urnas\nDesde 1989, o resultado da eleição presidencial em Minas Gerais acompanha o resultado nacional. Em 1989, a direita teve mais votos em Minas, assim como no país. Em 1994 e 1998, o centro saiu vitorioso. Entre 2002 e 2014, a esquerda venceu quatro eleições seguidas. Em 2018, a direita voltou a vencer. Em 2022, a esquerda recebeu novamente a maioria dos votos.\nAlém de acompanhar o resultado nacional, os percentuais de votação registrados em Minas também ficam próximos dos números do país. Na eleição de 2022, por exemplo, o candidato da esquerda à Presidência recebeu 50,21% dos votos válidos em Minas e 50,90% no Brasil. O candidato da direita teve 49,79% no estado e 49,10% no país.\nO cientista político Felipe Nunes, professor da FGV e diretor da Quaest, define Minas como um “estado pêndulo”.\n“É um eleitorado que está disposto a mudar de opinião e de posição”, afirma.\nDiferenças regionais no voto\nO comportamento dos eleitores também varia dentro do estado.\nEm 2022, Norte de Minas e Jequitinhonha deram maioria dos votos à esquerda, assim como ocorreu no Nordeste brasileiro. No Sul de Minas e Campo das Vertentes e no Triângulo, Alto Paranaíba e Noroeste, a direita teve maioria, comportamento semelhante ao registrado nas regiões Sul e Centro-Oeste do país.\nNas regiões Metropolitana, Central, Oeste e Zona da Mata, a direita também ficou à frente, assim como ocorreu no Sudeste brasileiro. Nos vales do Rio Doce e Mucuri, o resultado ficou mais equilibrado, a exemplo da Região Norte do país.\nDesafios para os candidatos\nPara Lucas Gelape, professor de Ciência Política da UFMG, o tamanho do eleitorado e a diversidade regional ajudam a explicar a importância de Minas nas eleições.\nSegundo ele, o estado é econômica e politicamente desconcentrado, o que exige dos candidatos atenção às diferentes regiões, e não apenas a Belo Horizonte.\nVídeos mais vistos do g1 Minas",
+      "summary": "Minas Gerais é o espelho do Brasil\nDesde a primeira eleição direta para presidente após a ditadura militar, em 1989, o candidato que venceu a disputa em Minas Gerais também foi eleito presidente da República. Em diferentes pleitos, os percentuais registrados no estado ficaram próximos dos resultados nacionais.\nA diversidade social, econômica e regional de Minas ajuda a explicar as semelhanças com o restante do país. O estado reúne características de diferentes regiões brasileiras, que aparecem na formação da população, na economia e também no comportamento dos eleitores.\n✅ Clique aqui para seguir o canal do g1 MG no WhatsApp\nEntenda por que Minas reflete o resultado da disputa presidencial nacional a partir dos seguintes pontos:\nLocalização e processo histórico\nMinas e Brasil nas urnas\nDiferenças regionais no voto\nDesafios para os candidatos\nLocalização e processo histórico\nMinas faz divisa com seis estados e o Distrito Federal. Segundo Bruno Durão, professor do Departamento de Geografia da PUC Minas, a localização e o processo histórico de ocupação ajudam a explicar as diferenças entre as regiões do estado.\nO Norte e o Nordeste mineiros receberam influência de populações vindas do Nordeste do país. A região Central foi marcada pelo ciclo do ouro, enquanto Sul, Sudeste e Zona da Mata tiveram influência de movimentos de ocupação e atividades econômicas de São Paulo e do Rio de Janeiro.\nAs diferenças também aparecem na economia. As regiões Metropolitana, Central, Oeste e Zona da Mata concentram 52,89% do PIB mineiro, percentual próximo à participação do Sudeste no PIB brasileiro, de 53,13%.\nO Nordeste representa 13,06% da economia do país, enquanto o Norte de Minas e o Jequitinhonha respondem por 5,49% da economia mineira. Já o Centro-Oeste concentra 10,63% do PIB nacional, enquanto o Triângulo Mineiro, o Alto Paranaíba e o Noroeste representam 18,96% da economia de Minas Gerais. No Sul, os percentuais são mais próximos: a região responde por 16,81% do PIB brasileiro, enquanto o Sul de Minas e o Campo das Vertentes representam 16,10% da economia estadual.\nImagem aérea de Belo Horizonte\nReprodução/TV Globo\nMinas e Brasil nas urnas\nDesde 1989, o resultado da eleição presidencial em Minas Gerais acompanha o resultado nacional. Em 1989, a direita teve mais votos em Minas, assim como no país. Em 1994 e 1998, o centro saiu vitorioso. Entre 2002 e 2014, a esquerda venceu quatro eleições seguidas. Em 2018, a direita voltou a vencer. Em 2022, a esquerda recebeu novamente a maioria dos votos.\nAlém de acompanhar o resultado nacional, os percentuais de votação registrados em Minas também ficam próximos até nos números do país. Na eleição de 2022, por exemplo, o candidato da esquerda à Presidência recebeu 50,21% dos votos válidos em Minas e 50,90% no Brasil. O candidato da direita teve 49,79% no estado e 49,10% no país.\nO cientista político Felipe Nunes, professor da FGV e diretor da Quaest, define Minas como um “estado pêndulo”.\n“É um eleitorado que está disposto a mudar de opinião e de posição”, afirma.\nDiferenças regionais no voto\nO comportamento dos eleitores também varia dentro do estado.\nNa disputa pela presidência, em 2022, o Norte de Minas e Jequitinhonha deram maioria dos votos à esquerda, assim como ocorreu no Nordeste brasileiro. No Sul de Minas e Campo das Vertentes e no Triângulo, Alto Paranaíba e Noroeste, a direita teve maioria, comportamento semelhante ao registrado nas regiões Sul e Centro-Oeste do país.\nNas regiões Metropolitana, Central, Oeste e Zona da Mata, a direita também ficou à frente, assim como ocorreu no Sudeste brasileiro. Nos vales do Rio Doce e Mucuri, o resultado ficou mais equilibrado, a exemplo da Região Norte do país.\nDesafios para os candidatos\nPara Lucas Gelape, professor de Ciência Política da UFMG, o tamanho do eleitorado e a diversidade regional ajudam a explicar a importância de Minas nas eleições.\nSegundo ele, o estado é econômica e politicamente desconcentrado, o que exige dos candidatos atenção às diferentes regiões, e não apenas a Belo Horizonte.\nVídeos mais vistos do g1 Minas",
       "tags": [
         "eleições"
       ],
@@ -655,21 +785,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
-    },
-    {
-      "id": "fdb53418a1e4",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Câncer na família exige fazer mais exames? Saiba quando é indicado e como agir",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/cancer-na-familia-exige-fazer-mais-exames-saiba-quando-e-indicado-e-como-agir/",
-      "summary": "Descubra quando o histórico familiar justifica teste genético, como funciona o rastreamento personalizado e por que antecipar exames sem indicação médica oferece mais riscos",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Mon, 21 Sep 2026 23:20:13 +0000"
     },
     {
       "id": "46a385c022cd",
