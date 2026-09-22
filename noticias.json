@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-09-22T20:15:14.915987+00:00",
+  "generated_at": "2026-09-22T20:42:35.620754+00:00",
   "items": [
-    {
-      "id": "31e21abcb521",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro ataca Dino em reduto de ministro do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml",
-      "summary": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, voltou a mirar o STF (Supremo Tribunal Federal nesta terça-feira (22), desta vez em um ataque ao ministro Flávio Dino.\nLeia mais (09/22/2026 - 16h17)",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 95,
-      "publishedRaw": "22 Sep 2026 16:17:00 -0300"
-    },
     {
       "id": "a6c966baca68",
       "source": "G1 - Política",
@@ -49,29 +26,26 @@
       "publishedRaw": "Tue, 22 Sep 2026 17:52:19 -0000"
     },
     {
-      "id": "0a928e70d481",
-      "source": "CNN Brasil",
+      "id": "31e21abcb521",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PT aciona TSE contra vídeo fora do contexto de Lula por Flávio Bolsonaro",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/pt-aciona-tse-contra-video-fora-do-contexto-de-lula-por-flavio-bolsonaro/",
-      "summary": "Partido alega descontextualização de falas de Lula e impulsionamento irregular de vídeos negativos, além de pedir R$ 240 mil em multa",
+      "title": "Flávio Bolsonaro ataca Dino em reduto de ministro do STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-ataca-dino-em-reduto-de-ministro-do-stf.shtml",
+      "summary": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, voltou a mirar o STF (Supremo Tribunal Federal nesta terça-feira (22), desta vez em um ataque ao ministro Flávio Dino.\nLeia mais (09/22/2026 - 16h17)",
       "tags": [
+        "STF",
         "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE",
-        "Lula"
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Tue, 22 Sep 2026 19:41:54 +0000"
+      "publishedRaw": "22 Sep 2026 16:17:00 -0300"
     },
     {
       "id": "e93ee1105bca",
@@ -112,12 +86,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 92,
       "publishedRaw": "Tue, 22 Sep 2026 18:04:28 -0000"
     },
     {
@@ -157,7 +130,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -180,12 +152,55 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 88,
       "publishedRaw": "Tue, 22 Sep 2026 14:24:40 -0000"
+    },
+    {
+      "id": "4b2acd370444",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio aciona TSE contra Lula por evento com promessa de canetas emagrecedoras",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-aciona-tse-contra-lula-por-evento-com-promessa-de-canetas-emagrecedoras/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Tue, 22 Sep 2026 20:25:46 +0000"
+    },
+    {
+      "id": "8261b774ce8d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio aciona TSE pela 15ª vez contra Lula por uso da máquina",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-aciona-tse-pela-15a-vez-contra-lula-por-uso-da-maquina/",
+      "summary": "Chapa do PL declara que presidente e aliados praticaram condutas vedadas em eventos institucionais de saúde e segurança pública",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Tue, 22 Sep 2026 20:35:53 +0000"
     },
     {
       "id": "fb5fd5043104",
@@ -202,7 +217,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -224,7 +238,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -246,7 +259,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -268,7 +280,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -290,7 +301,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -312,7 +322,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -334,7 +343,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -356,7 +364,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -364,134 +371,46 @@
       "publishedRaw": "Tue, 22 Sep 2026 14:16:57 -0000"
     },
     {
-      "id": "3ebceeb9c500",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Na ONU, Lula defende multilateralismo e chama tarifas comerciais de 'armas de coerção' e de 'chantagem'",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/na-onu-lula-defende-multilateralismo-e-chama-tarifas-comerciais-de-chantagem.ghtml",
-      "summary": "Campanhas contra vacina estão trazendo de volta doenças, diz Lula na ONU\nO presidente Luiz Inácio Lula da Silva (PT) defendeu nesta terça-feira (22) o multilateralismo e classificou \"tarifas comerciais\" como \"armas de coerção\" e \"chantagem\" que geram \"consequências nefastas\". \nAO VIVO: acompanhe a Assembleia Geral da ONU\nEle deu as declarações na abertura da 81ª Assembleia Geral das Nações Unidas (ONU) nesta terça (22) em Nova York.\nO petista afirmou que a Organização Mundial do Comércio (OMC) \"respira por aparelhos\" diante da imposição de tarifas comerciais injustas. Ele não mencionou os Estados Unidos nesse trecho do discurso. \n\"Os pilares do multilateralismo estão sendo corroídos. A Organização Mundial do Comércio respira por aparelhos. Quando os governos capitulam [se rendem] frente aos que usam tarifas como armas de coerção e chantagem, as consequências são nefastas. \", declarou Lula.\nEm outro momento, o candidato do PT à reeleição disse que, apesar do \"tarifaço\" imposto pelos Estados Unidos contra produtos brasileiros, as exportações estão crescendo.\n\"O Brasil voltou a crescer de modo sustentado. Somos o terceiro maior destino de investimento estrangeiro direto. Apesar do tarifaço contra nossa economia, este ano bateremos novo recorde de exportações\", afirmou.\nTarifaço dos EUA\nA escalada das tensões comerciais entre Estados Unidos e Brasil se intensificou com a imposição de sobretaxas pelo governo norte-americano, que somam até 37,5% sobre diversas exportações brasileiras.\nA ofensiva tarifária inclui uma taxa de 25% ancorada na Seção 301 da Lei de Comércio dos EUA, motivada por disputas em torno do PIX, regulação de plataformas digitais e etanol, além de uma alíquota adicional de 12,5% sob a alegação de falhas na fiscalização contra trabalho forçado.\nEmbora produtos essenciais para o mercado norte-americano, como carne bovina, café e celulose, tenham entrado na lista de isenções, setores de peso como, o do etanol e o de maquinário agrícola passaram a ser diretamente atingidos.\nEm resposta à medida unilateral, o governo brasileiro formalizou o acionamento da Lei de Reciprocidade Econômica e abriu consultas diplomáticas para contestar as barreiras tanto em nível bilateral quanto na Organização Mundial do Comércio (OMC).\nNo entanto, até o momento, o país não aplicou qualquer retaliação prática ou novas tarifas diretas contra produtos dos EUA.\nO presidente do Brasil, Luiz Inácio Lula da Silva, discursa na 81ª Assembleia Geral das Nações Unidas, na sede da ONU, em Nova York, EUA, em 22 de setembro de 2026\nMike Segar/Reuters",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 14:15:15 -0000"
-    },
-    {
-      "id": "7275749f635b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula deverá agir contra as bets",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/lula-devera-agir-contra-as-bets.shtml",
-      "summary": "Entre as medidas reeleitorais que Lula deve anunciar em breve, devem constar providências contra as bets. Dado que as casas de aposta se tornaram uma unanimidade negativa, podemos esperar ações contundentes. Meu receio é que Lula opte pelo que trará mais votos e não pelo que é melhor.\nLeia mais (09/22/2026 - 16h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "22 Sep 2026 16:00:00 -0300"
-    },
-    {
-      "id": "225e6aa5493d",
+      "id": "c9a457a77898",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle Bolsonaro é internada em Brasília com quadro de enxaqueca",
-      "link": "https://www.cnnbrasil.com.br/politica/michelle-bolsonaro-e-internada-em-brasilia-com-quadro-de-enxaqueca/",
-      "summary": "Segundo nota da equipe médica da ex-primeira-dama, a internação por enxaqueca refratária se deu após 2 meses de tratamento prévio",
+      "title": "AtlasIntel: em PE, Lula lidera cenários de 1º e 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlasintel-em-pe-lula-lidera-cenarios-de-1o-e-2o-turno/",
+      "summary": "Levantamento ouviu 1.836 eleitores entre os dias 15 e 20 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, nível de confiança é de 95%",
       "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 19:52:27 +0000"
+      "publishedRaw": "Tue, 22 Sep 2026 20:20:24 +0000"
     },
     {
-      "id": "d946c461307a",
+      "id": "5944a564b2f6",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula faz discurso eleitoral na ONU e PT avalia uso em campanha",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-faz-discurso-eleitoral-na-onu-e-pt-avalia-uso-em-campanha/",
-      "summary": "Apesar de citar feitos, time de Lula avalia que é preciso testar percepção do eleitor",
+      "title": "Quaest: Flávio tem oscilação positiva no Nordeste e Lula, no Sudeste",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-oscilacao-positiva-no-nordeste-e-lula-no-sudeste/",
+      "summary": "Levantamento ouviu 2.004 eleitores entre os dias 17 e 20 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 19:44:23 +0000"
-    },
-    {
-      "id": "82d12f0b062d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministra da Casa Civil convoca pares a discutir estratégia eleitoral de Lula em jantar",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ministra-da-casa-civil-convoca-pares-a-discutir-estrategia-eleitoral-de-lula-em-jantar/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 18:39:51 +0000"
-    },
-    {
-      "id": "d0850708b00b",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula repete há 23 anos pedido de mudança no Conselho da ONU",
-      "link": "https://www.poder360.com.br/poder-internacional/lula-repete-ha-23-anos-pedido-de-mudanca-no-conselho-da-onu/",
-      "summary": "Presidente voltou a defender mudança na composição e fim do poder do veto das potências, em discurso na 81ª Assembleia Geral",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 19:09:40 +0000"
+      "publishedRaw": "Tue, 22 Sep 2026 20:16:39 +0000"
     },
     {
       "id": "8fcd2b94387e",
@@ -528,7 +447,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -650,25 +568,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 19:33:20 +0000"
     },
     {
-      "id": "faf550cbe306",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pai de Vorcaro manda carta a ministros do STF e diz que mulher é ameaçada",
-      "link": "https://www.poder360.com.br/poder-justica/pai-de-vorcaro-manda-carta-a-ministros-do-stf-e-diz-que-mulher-e-ameacada/",
-      "summary": "Em pedido endereçado aos integrantes da Corte, ele diz não tinha conhecimento sobre negócios do filho no Banco Master",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 22 Sep 2026 19:16:20 +0000"
-    },
-    {
       "id": "ddd60805a475",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -683,7 +582,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -705,7 +603,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -727,7 +624,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -749,7 +645,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -771,7 +666,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -793,7 +687,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -814,7 +707,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -838,7 +730,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -860,7 +751,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -916,11 +806,10 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Mon, 21 Sep 2026 20:50:08 +0000"
     },
     {
@@ -935,31 +824,11 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Tue, 22 Sep 2026 17:31:24 +0000"
-    },
-    {
-      "id": "b978790adf0b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE investiga Flávio, Gaspar e Mário Frias por suspeita de impulsionamento irregular de posts",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-investiga-flavio-gaspar-e-mario-frias-por-suspeita-de-impulsionamento-irregular-de-posts/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Tue, 22 Sep 2026 18:12:25 +0000"
     },
     {
       "id": "ddca64872046",
@@ -973,11 +842,10 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Tue, 22 Sep 2026 19:30:11 +0000"
     },
     {
