@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:41:49.724522+00:00",
+  "generated_at": "2026-09-22T02:15:43.258969+00:00",
   "items": [
     {
       "id": "b2deba63b25e",
@@ -190,6 +190,53 @@
       "publishedRaw": "Mon, 21 Sep 2026 16:02:25 +0000"
     },
     {
+      "id": "865ca852fba2",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: para 21%, caso Master afeta Bolsonaros; 11% citam governo Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-para-21-caso-master-afeta-bolsonaros-11-citam-governo-lula/",
+      "summary": "Levantamento ouviu 2.004 eleitores entre os dias 17 e 20 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 22 Sep 2026 01:39:59 +0000"
+    },
+    {
+      "id": "821783805555",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF e combate a facções dominam mais um debate esvaziado, sem Lula, Flávio e Renan",
+      "link": "https://www.estadao.com.br/politica/eleicoes/crise-no-stf-e-combate-a-faccoes-dominam-mais-um-debate-esvaziado-sem-lula-flavio-e-renan/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 22 Sep 2026 01:16:11 +0000"
+    },
+    {
       "id": "2901cbdf8c13",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -302,6 +349,26 @@
       "publishedRaw": "Mon, 21 Sep 2026 12:07:38 -0000"
     },
     {
+      "id": "579cd654cbeb",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle critica veto ao uso da imagem de Bolsonaro na campanha",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-critica-veto-ao-uso-da-imagem-de-bolsonaro-na-campanha/",
+      "summary": "Decisão de Moraes de julho suspende o uso político da imagem do ex-presidente por terceiros durante período eleitoral",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Tue, 22 Sep 2026 01:59:48 +0000"
+    },
+    {
       "id": "e0984ca67254",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -369,13 +436,13 @@
       "publishedRaw": "Mon, 21 Sep 2026 19:36:10 -0000"
     },
     {
-      "id": "59167277a1d2",
+      "id": "acf83c489dad",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Post de Lula concentra 53% das interações sobre bets nas redes, aponta levantamento",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/post-de-lula-concentra-53-das-interacoes-sobre-bets-nas-redes-aponta-levantamento.shtml",
-      "summary": "A discussão sobre a restrição às bets no Brasil acumulou 654,8 mil publicações e 9,3 milhões de interações entre 14 e 21 de setembro, segundo relatório do Instituto DX (Democracia em Xeque). O pico de repercussão ocorreu no dia 18, após o manifesto de clubes contra a proibição da jogatina e a resposta de Lula (PT) em defender que o esporte não depende das casas de apostas para existir.\nLeia mais (09/21/2026 - 22h00)",
+      "title": "Lula é visto como favorito para 54% dos brasileiros; Flávio empata entre homens e evangélicos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-visto-como-favorito-para-54-dos-brasileiros-flavio-empata-entre-homens-e-evangelicos.shtml",
+      "summary": "A maioria dos brasileiros (54%) diz acreditar que Lula (PT) será reeleito presidente, independentemente de sua intenção de voto no primeiro e no segundo turno das eleições de outubro. É o que mostra recorte exclusivo da pesquisa BTG/Nexus divulgada nesta segunda (21).\nLeia mais (09/21/2026 - 23h00)",
       "tags": [
         "Lula"
       ],
@@ -388,16 +455,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "21 Sep 2026 22:00:00 -0300"
+      "publishedRaw": "21 Sep 2026 23:00:00 -0300"
     },
     {
-      "id": "b5a8c339786c",
+      "id": "2e4b226ae9e7",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Progressistas dos EUA devem apoiar autodeterminação do Brasil, diz Bernie Sanders em encontro com Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/progressistas-dos-eua-devem-apoiar-autodeterminacao-do-brasil-diz-bernie-sanders-em-encontro-com-lula.shtml",
-      "summary": "O senador independente americano Bernie Sanders perguntou ao presidente Lula (PT) nesta segunda-feira (21), em Nova York, sobre a possibilidade real de interferência nas eleições no Brasil.\nLeia mais (09/21/2026 - 21h14)",
+      "title": "Governo Lula terá de assumir a ferrovia Malha Oeste após impasse com concessionária",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-lula-tera-de-assumir-a-ferrovia-malha-oeste-apos-impasse-com-concessionaria.shtml",
+      "summary": "A falta de entendimento entre a União e a concessionária Rumo sobre uma conta bilionária tem travado o encerramento definitivo do contrato da ferrovia Malha Oeste, concessão de 30 anos que terminou em junho deste ano.\nLeia mais (09/21/2026 - 23h00)",
       "tags": [
         "Lula"
       ],
@@ -410,29 +477,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "21 Sep 2026 21:14:00 -0300"
-    },
-    {
-      "id": "503a400e3f70",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula põe ofensiva contra bets no centro da campanha e quer acabar com jogo do tigrinho",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/lula-poe-ofensiva-contra-bets-no-centro-da-campanha-e-quer-acabar-com-jogo-do-tigrinho.shtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) colocou o combate às plataformas de apostas digitais, conhecidas como bets, no centro da sua campanha à reeleição e quer vetar os cassinos online, que ficaram famosos sob o apelido de \"jogo do tigrinho\". Auxiliares do chefe do governo veem uma medida contra essas empresas como iminente, salvo uma mudança inesperada na disposição do presidente.\nLeia mais (09/21/2026 - 20h13)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "21 Sep 2026 20:13:00 -0300"
+      "publishedRaw": "21 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "acb88726fec2",
@@ -708,24 +753,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 00:02:52 +0000"
     },
     {
-      "id": "63320868f2c6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Não basta reformar o STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/nao-basta-reformar-o-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Mon, 21 Sep 2026 18:00:00 +0000"
-    },
-    {
       "id": "197cce4f10e9",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -772,6 +799,21 @@
       "publishedRaw": "Mon, 21 Sep 2026 20:50:08 +0000"
     },
     {
+      "id": "bd0d59545ce2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "MP Eleitoral pede indeferimento da candidatura de Antônio Rueda no Rio de Janeiro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mp-eleitoral-pede-indeferimento-da-candidatura-de-rueda-nprp/",
+      "summary": "O MPE alega envolvimento com grupos milicianos e com o PCC; Rueda não foi encontrado para comentar; espaço segue aberto",
+      "tags": [
+        "candidatura"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Tue, 22 Sep 2026 01:10:13 +0000"
+    },
+    {
       "id": "46a385c022cd",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -785,6 +827,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
+    },
+    {
+      "id": "b315c853e62c",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Catolicismo mantém força no Nordeste, que vê voto conservador crescer e desafiar esquerda",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/catolicismo-mantem-forca-no-nordeste-que-ve-voto-conservador-crescer-e-desafiar-esquerda.shtml",
+      "summary": "Era como estar diante do show de uma estrela do forró ou numa partida entre times de rivalidade renhida, como Fortaleza e Ceará. As arquibancadas do Ginásio Poliesportivo de Juazeiro do Norte, interior do Ceará, estavam lotadas com um público jovem, que cantava com entusiasmo.\nLeia mais (09/21/2026 - 23h00)",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "21 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "46a385c022cd",
