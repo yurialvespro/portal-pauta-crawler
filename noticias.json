@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:16:17.028246+00:00",
+  "generated_at": "2026-09-22T07:42:56.391810+00:00",
   "items": [
     {
       "id": "4e5ea2f71dba",
@@ -15,6 +15,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -39,6 +40,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -63,6 +65,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -205,6 +208,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -228,6 +232,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -291,6 +296,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -354,6 +360,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
@@ -376,6 +383,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -398,6 +406,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -420,6 +429,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -442,6 +452,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -465,6 +476,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -488,6 +500,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -586,6 +599,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -608,6 +622,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -638,6 +653,29 @@
       "publishedRaw": "Tue, 22 Sep 2026 06:30:45 +0000"
     },
     {
+      "id": "2155e0912323",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "As tensões e incertezas que envolvem discurso de Lula na ONU",
+      "link": "https://www.bbc.com/portuguese/articles/c65y7984x48lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Presidente brasileiro discursa nesta terça-feira (22/9), imediatamente antes de Trump, em meio à tentativa de reaproximação com Washington e a duas semanas das eleições.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 22 Sep 2026 07:28:59 GMT"
+    },
+    {
       "id": "fb5fd5043104",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -650,6 +688,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -673,6 +712,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -696,6 +736,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
@@ -801,6 +842,36 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
+    },
+    {
+      "id": "d7b5cc6727c9",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleitor alemão busca extremos na direita e na esquerda, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/internacional/eleitor-alemao-busca-extremos-na-direita-e-na-esquerda-diz-especialista/",
+      "summary": "Ao WW, Vinícius Rodrigues Vieira, professor de R.I da FAAP, FGV e do IDP analisa o avanço da AfD e a radicalização do eleitorado alemão, ligando o fenômeno à inércia do CDU",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Tue, 22 Sep 2026 07:23:07 +0000"
+    },
+    {
+      "id": "fc889626ad2f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Agro tenta se afastar da polarização política após anos de desgaste",
+      "link": "https://www.cnnbrasil.com.br/agro/agro-tenta-se-afastar-da-polarizacao-politica-apos-anos-de-desgaste/",
+      "summary": "Lideranças avaliam que associação com disputas eleitorais trouxe custos para o setor, que busca preservar espaço para negociar com qualquer governo",
+      "tags": [
+        "polarização"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Tue, 22 Sep 2026 07:00:16 +0000"
     },
     {
       "id": "46a385c022cd",
