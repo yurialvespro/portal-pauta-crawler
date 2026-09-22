@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:42:15.735777+00:00",
+  "generated_at": "2026-09-22T10:16:50.986780+00:00",
   "items": [
     {
       "id": "4e5ea2f71dba",
@@ -144,15 +144,37 @@
       "publishedRaw": "Tue, 22 Sep 2026 01:16:11 +0000"
     },
     {
-      "id": "e0984ca67254",
+      "id": "37b019ba823f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Chapa de Lula aciona TSE contra Flávio por impulsionamento irregular",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/chapa-de-lula-aciona-tse-contra-flavio-por-impulsionamento-irregular/",
+      "summary": "Coligação afirma que candidato do PL descontextualizou fala de Lula sobre preço dos alimentos e pede multa de R$ 240 mil",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Tue, 22 Sep 2026 10:13:06 +0000"
+    },
+    {
+      "id": "9e42c29a3a94",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Campanha de Lula questiona ‘alvos seletivos’ em ação de Flávio no TSE sobre carnaval do Rio",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/campanha-de-lula-questiona-alvos-seletivos-em-acao-de-flavio-no-tse-sobre-carnaval-do-rio/",
+      "title": "Lula faz fala na ONU sob o risco de humilhação interna por adversário inexpressivo",
+      "link": "https://www.estadao.com.br/politica/fabiano-lana/lula-faz-fala-na-onu-sob-o-risco-de-humilhacao-interna-por-adversario-inexpressivo/",
       "summary": "",
       "tags": [
-        "TSE",
         "Lula"
       ],
       "crossOutlets": [
@@ -163,8 +185,8 @@
         "G1 - Política",
         "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Mon, 21 Sep 2026 19:55:37 +0000"
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 10:00:03 +0000"
     },
     {
       "id": "5490a6dfce33",
@@ -233,6 +255,28 @@
       "publishedRaw": "Mon, 21 Sep 2026 21:42:11 +0000"
     },
     {
+      "id": "d588fdebabd3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-8/",
+      "summary": "Assembleia Geral da ONU nos EUA, compromissos na área de educação em Goiás e entregas de infraestrutura movimentam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 09:16:49 +0000"
+    },
+    {
       "id": "f52fefc2b672",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -297,28 +341,6 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 09:00:44 +0000"
-    },
-    {
-      "id": "7cc9bfbbba73",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula fala na ONU pela 10ª vez; veja o que mudou nos discursos",
-      "link": "https://www.poder360.com.br/poder-governo/lula-fala-na-onu-pela-10a-vez-veja-o-que-mudou-nos-discursos/",
-      "summary": "Presidente abre nesta 3ª feira (22.set) debate geral em Nova York; paz e reforma do Conselho de Segurança continuam no roteiro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 09:00:28 +0000"
     },
     {
       "id": "fb5fd5043104",
@@ -719,8 +741,10 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [],
-      "score": 64,
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
       "publishedRaw": "Mon, 21 Sep 2026 20:50:08 +0000"
     },
     {
@@ -767,6 +791,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
+    },
+    {
+      "id": "2d3db41f43e8",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Como será a Assembleia Geral da ONU, maior evento diplomático do mundo",
+      "link": "https://www.cnnbrasil.com.br/internacional/como-sera-a-assembleia-geral-da-onu-maior-evento-diplomatico-do-mundo/",
+      "summary": "O evento em Nova York serve como palco para reuniões cruciais, incluindo discussões sobre a guerra no Irã e um acordo sobre a segurança da Groenlândia; ONU tenta provar seu valor e importância em um mundo em mudança",
+      "tags": [
+        "MBL"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Tue, 22 Sep 2026 09:45:24 +0000"
     },
     {
       "id": "57b32bcf03e2",
