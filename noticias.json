@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:15:52.460281+00:00",
+  "generated_at": "2026-09-22T09:42:15.735777+00:00",
   "items": [
     {
       "id": "4e5ea2f71dba",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -62,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -84,6 +87,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -107,6 +111,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -129,6 +134,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -151,6 +157,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -172,6 +179,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -193,6 +201,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -214,6 +223,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -221,6 +231,28 @@
       ],
       "score": 85,
       "publishedRaw": "Mon, 21 Sep 2026 21:42:11 +0000"
+    },
+    {
+      "id": "f52fefc2b672",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Agenda de Lula: leia os compromissos do presidente 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-3/",
+      "summary": "Reunião com António Guterres, discurso de abertura da Assembleia Geral da ONU e retorno ao Brasil marcam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 09:15:01 +0000"
     },
     {
       "id": "29f624079d5d",
@@ -235,6 +267,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -256,6 +289,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -277,6 +311,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -299,6 +334,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -321,6 +357,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -328,6 +365,29 @@
       ],
       "score": 84,
       "publishedRaw": "Tue, 22 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "1cf148622e2a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula e Trump discursam nesta terça na abertura da Assembleia Geral da ONU",
+      "link": "https://www.cnnbrasil.com.br/internacional/lula-e-trump-discursam-nesta-terca-na-abertura-da-assembleia-geral-da-onu/",
+      "summary": "Tradicionalmente, o presidente do Brasil é o primeiro chefe de Estado a discursar; republicano deve falar logo em seguida",
+      "tags": [
+        "MBL",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 22 Sep 2026 09:00:28 +0000"
     },
     {
       "id": "1a5b7bad53a0",
@@ -399,6 +459,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -420,6 +481,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -427,25 +489,6 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 21 Sep 2026 19:36:10 -0000"
-    },
-    {
-      "id": "0a8969a1e872",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: por que votos para deputados e senadores também importam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-por-que-votos-para-deputados-e-senadores-tambem-importam/",
-      "summary": "Mais de 158 milhões de brasileiros vão às urnas no próximo dia 4; especialistas ouvidos pela CNN explicam papel dos membros do Legislativo",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 22 Sep 2026 06:30:45 +0000"
     },
     {
       "id": "4b1c097ed023",
@@ -478,6 +521,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -501,6 +545,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -523,6 +568,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -545,6 +591,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -626,6 +673,24 @@
       "publishedRaw": "22 Sep 2026 05:00:00 -0300"
     },
     {
+      "id": "27fff2a63c7d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Eleições na Rússia têm resultado previsível, mas o que vem agora?",
+      "link": "https://www.cnnbrasil.com.br/internacional/analise-eleicoes-na-russia-tem-resultado-previsivel-mas-o-que-vem-agora/",
+      "summary": "Após eleições, o Kremlin pode usar novo mandato para convocar mais tropas, apesar das negativas do presidente Vladimir Putin sobre escalada da Guerra da Ucrânia",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Tue, 22 Sep 2026 09:00:34 +0000"
+    },
+    {
       "id": "b005812a408f",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -704,34 +769,19 @@
       "publishedRaw": "Mon, 21 Sep 2026 22:42:22 -0000"
     },
     {
-      "id": "d7b5cc6727c9",
+      "id": "57b32bcf03e2",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleitor alemão busca extremos na direita e na esquerda, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/internacional/eleitor-alemao-busca-extremos-na-direita-e-na-esquerda-diz-especialista/",
-      "summary": "Ao WW, Vinícius Rodrigues Vieira, professor de R.I da FAAP, FGV e do IDP analisa o avanço da AfD e a radicalização do eleitorado alemão, ligando o fenômeno à inércia do CDU",
+      "title": "Análise: O que esperar do discurso de Trump na Assembleia Geral da ONU",
+      "link": "https://www.cnnbrasil.com.br/internacional/analise-o-que-esperar-do-discurso-de-trump-na-assembleia-geral-da-onu/",
+      "summary": "Em meio a guerras, crises climáticas e instabilidade global, Donald Trump discursa na Assembleia Geral da ONU com popularidade em queda a um mês das eleições de Meio de Mandato",
       "tags": [
-        "esquerda"
+        "MBL"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Tue, 22 Sep 2026 07:23:07 +0000"
-    },
-    {
-      "id": "fc889626ad2f",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Agro tenta se afastar da polarização política após anos de desgaste",
-      "link": "https://www.cnnbrasil.com.br/agro/agro-tenta-se-afastar-da-polarizacao-politica-apos-anos-de-desgaste/",
-      "summary": "Lideranças avaliam que associação com disputas eleitorais trouxe custos para o setor, que busca preservar espaço para negociar com qualquer governo",
-      "tags": [
-        "polarização"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Tue, 22 Sep 2026 07:00:16 +0000"
+      "publishedRaw": "Tue, 22 Sep 2026 09:08:57 +0000"
     },
     {
       "id": "f58c9d6a40f1",
