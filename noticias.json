@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:44:31.906042+00:00",
+  "generated_at": "2026-09-23T14:16:26.857240+00:00",
   "items": [
     {
       "id": "dc3d07c9768b",
@@ -17,11 +17,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 23 Sep 2026 11:45:38 -0000"
     },
     {
@@ -40,11 +39,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Tue, 22 Sep 2026 22:31:06 -0000"
     },
     {
@@ -63,36 +61,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 23 Sep 2026 11:59:07 +0000"
-    },
-    {
-      "id": "fd620d7fff14",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisa Atlas/Bloomberg: Lula tem 47,7% e Flávio Bolsonaro registra 47,4% no 2º turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/pesquisa-atlasbloomberg-lula-tem-477-e-flavio-bolsonaro-registra-474-no-2-turno/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -109,35 +83,12 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
-    },
-    {
-      "id": "8a6e770cd20c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas/Bloomberg: 43,8% veem aliados de Bolsonaro mais envolvidos no Master; 43,4%, os de Lula",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-438-veem-aliados-de-bolsonaro-mais-envolvidos-no-master-434-os-de-lula/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
       "id": "aff52eeb696f",
@@ -161,6 +112,49 @@
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "b1cbc1416e7e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Evangélicos e as eleições: mesmo com menor mobilização, Lula não atrai fiéis, que já votaram no PT",
+      "link": "https://www.estadao.com.br/politica/eleicoes/evangelicos-e-as-eleicoes-mesmo-com-menor-mobilizacao-lula-nao-atrai-fieis-que-ja-votaram-no-pt/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 23 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "8a6e770cd20c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: 43,8% veem aliados de Bolsonaro mais envolvidos no Master; 43,4%, os de Lula",
+      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-438-veem-aliados-de-bolsonaro-mais-envolvidos-no-master-434-os-de-lula/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
+    },
+    {
       "id": "da57dccb8896",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -175,31 +169,51 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 88,
       "publishedRaw": "Wed, 23 Sep 2026 13:10:28 +0000"
     },
     {
-      "id": "0b4a04fa383b",
-      "source": "Folha de São Paulo",
+      "id": "d8044ec75330",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Safári, Flávio Bolsonaro e a fraude do INSS",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/09/safari-flavio-bolsonaro-e-a-fraude-do-inss.shtml",
-      "summary": "O safári é uma atividade de lazer, mas envolve riscos inerentes à proximidade com animais selvagens em seu habitat natural. A aproximação excessiva dos predadores pode causar problema. Em foto divulgada pelo jornal O Globo, o presidenciável Flávio Bolsonaro (PL-RJ) aparece numa savana na África do Sul, sorridente e relaxado, quando deveria se preocupar com o seu entorno.\nLeia mais (09/23/2026 - 10h00)",
+      "title": "VÍDEO: Qual a ordem de votação na urna nas Eleições 2026?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/23/video-qual-a-ordem-de-votacao-na-urna-nas-eleicoes-2026.ghtml",
+      "summary": "Guia do eleitor: Qual a ordem de votação na urna?\nNo dia 4 de outubro,  o eleitor brasileiro vai fazer seis escolhas nas urnas, começando por deputado estadual e finalizando com o voto no presidente da República. \nQual a ordem de votação na urna?\n  No primeiro turno, o eleitor deverá seguir a seguinte ordem: \nPrimeiro, vota para deputado federal, com quatro dígitos. \nEm seguida, é a vez de votar para deputado estadual ou distrital, no caso do DF, com cinco dígitos. \nNa sequência, aparece a tela para votar na primeira vaga para senador (três dígitos). \nAssim que a urna computar este voto, o eleitor vota novamente para senador (três dígitos). \nNa sequência, escolhe o governador do seu estado (dois dígitos). \nE, por fim, vota para presidente da República (dois dígitos). \nA cada etapa, confira os dados que aparecem na tela, como a foto do candidato, o nome, o número e o partido, antes de apertar a tecla verde de “Confirma” e passar para o próximo cargo em disputa.  \n❗ATENÇÃO: ao votar nas duas vagas para o Senado, para que os dois votos sejam válidos, é necessário escolher nomes diferentes. Se o eleitor repetir e confirmar o mesmo candidato nas duas opções, o segundo voto será anulado. \nNo primeiro turno das eleições, leve a cola eleitoral com a ordem de votação em papel.\nG1\nBaixe a colinha do g1 para imprimir\nCaso haja segundo turno, no dia 25 de outubro o eleitor seguirá a seguinte ordem nas urnas:\nGovernador (dois dígitos);\nPresidente da República (dois dígitos).\nSe houver apenas uma disputa pendente, o eleitor votará somente para aquele cargo no segundo turno.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\n📍 Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nCola Eleitoral\nNo dia da eleição, é possível levar um cola eleitoral já com a ordem de votação na urna para ajudar o eleitor ao fazer suas escolhas. No entanto, esta cola deve ser de papel. Não é permitido usar celular na cabine de votação e este deve ficar no local indicado pelos mesários enquanto o eleitor vota. \nEm 2026, eleitor deve votar para seis cargos em disputa.\nReprodução/ TV Globo",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "23 Sep 2026 10:00:00 -0300"
+      "score": 86,
+      "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "62e7fc0e2fe4",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Luis Cesar Bueno promete reformulação da UEG",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-20226-luis-cesar-bueno-promete-reformulacao-da-ueg.ghtml",
+      "summary": "Eleições 20226: Luis Cesar Bueno promete reformulação da UEG\nEm reunião com professores universitários na sede do sindicato dos docentes da Universidade Federal de Goiás (UFG), o candidato ao governo estadual Luís César Bueno (PT) discutiu propostas para a educação e prometeu reestruturar a Universidade Estadual de Goiás (UEG).\nDurante o encontro, o petista destacou a intenção de fortalecer o ensino superior público no estado e alinhar os cursos da instituição às vocações econômicas regionais. De acordo com o candidato, o plano de reformulação busca formar mão de obra qualificada para atender a setores estratégicos, com ênfase nas áreas de biotecnologia e mineração.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nEleições 20226: Luis Cesar Bueno promete reformulação da UEG\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"É necessário devolver para a UEG os 2% do orçamento que foi tomado pelo governo do Estado, nós vamos ter que reconstruir a Universidade Estadual de Goiás. Para o processo de desenvolvimento econômico de Goiás, ela é muito importante, porque ela tem a potencialidade de se estruturar nas diversas regiões e gerar uma mão de obra qualificada\", afirmou Luis César.\nAlém das mudanças pedagógicas, o postulante ao Palácio das Esmeraldas apontou a recomposição dos repasses públicos como passo central para restabelecer os investimentos nos câmpus e recuperar a capacidade de atendimento da universidade no interior de Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 22 Sep 2026 23:46:42 -0000"
     },
     {
       "id": "4b2acd370444",
@@ -221,6 +235,26 @@
       ],
       "score": 86,
       "publishedRaw": "Tue, 22 Sep 2026 20:25:46 +0000"
+    },
+    {
+      "id": "d76c83dacb28",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio exibe quadro de Jair Bolsonaro e provoca TRE-RJ: ‘Vem tomar’",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-exibe-quadro-de-jair-bolsonaro-e-provoca-tre-rj-vem-tomar/",
+      "summary": "Candidato alude a episódio ocorrido em campanha de deputado do PL em Teresópolis, que teve imagem do ex-presidente apreendida",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 23 Sep 2026 14:03:56 +0000"
     },
     {
       "id": "8f2882be490f",
@@ -344,45 +378,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
-      "id": "22468760a766",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas/Bloomberg: 75% concordam com proibição das bets, agora aventada por Lula; 17% discordam",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-75-concordam-com-proibicao-das-bets-agora-aventada-por-lula-17-discordam/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "3270e9f67dbe",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarcísio grava com Flávio e diz querer ver Bolsonaro subir a rampa do Planalto com o filho",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-grava-com-flavio-e-diz-querer-ver-bolsonaro-subir-a-rampa-do-planalto-com-o-filho.shtml",
-      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou na manhã desta quarta-feira (23) que quer ver o ex-presidente Jair Bolsonaro (PL) subir a rampa do Planalto com seu filho, Flávio Bolsonaro (PL), candidato à Presidência.\nLeia mais (09/23/2026 - 09h46)",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "23 Sep 2026 09:46:00 -0300"
-    },
-    {
       "id": "abd7a7f69a04",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -403,42 +398,23 @@
       "publishedRaw": "Wed, 23 Sep 2026 13:32:30 +0000"
     },
     {
-      "id": "d8044ec75330",
-      "source": "G1 - Política",
+      "id": "d1baafdd3a5f",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "VÍDEO: Qual a ordem de votação na urna nas Eleições 2026?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/23/video-qual-a-ordem-de-votacao-na-urna-nas-eleicoes-2026.ghtml",
-      "summary": "Guia do eleitor: Qual a ordem de votação na urna?\nNo dia 4 de outubro,  o eleitor brasileiro vai fazer seis escolhas nas urnas, começando por deputado estadual e finalizando com o voto no presidente da República. \nQual a ordem de votação na urna?\n  No primeiro turno, o eleitor deverá seguir a seguinte ordem: \nPrimeiro, vota para deputado federal, com quatro dígitos. \nEm seguida, é a vez de votar para deputado estadual ou distrital, no caso do DF, com cinco dígitos. \nNa sequência, aparece a tela para votar na primeira vaga para senador (três dígitos). \nAssim que a urna computar este voto, o eleitor vota novamente para senador (três dígitos). \nNa sequência, escolhe o governador do seu estado (dois dígitos). \nE, por fim, vota para presidente da República (dois dígitos). \nA cada etapa, confira os dados que aparecem na tela, como a foto do candidato, o nome, o número e o partido, antes de apertar a tecla verde de “Confirma” e passar para o próximo cargo em disputa.  \n❗ATENÇÃO: ao votar nas duas vagas para o Senado, para que os dois votos sejam válidos, é necessário escolher nomes diferentes. Se o eleitor repetir e confirmar o mesmo candidato nas duas opções, o segundo voto será anulado. \nNo primeiro turno das eleições, leve a cola eleitoral com a ordem de votação em papel.\nG1\nBaixe a colinha do g1 para imprimir\nCaso haja segundo turno, no dia 25 de outubro o eleitor seguirá a seguinte ordem nas urnas:\nGovernador (dois dígitos);\nPresidente da República (dois dígitos).\nSe houver apenas uma disputa pendente, o eleitor votará somente para aquele cargo no segundo turno.\nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\n📍 Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nCola Eleitoral\nNo dia da eleição, é possível levar um cola eleitoral já com a ordem de votação na urna para ajudar o eleitor ao fazer suas escolhas. No entanto, esta cola deve ser de papel. Não é permitido usar celular na cabine de votação e este deve ficar no local indicado pelos mesários enquanto o eleitor vota. \nEm 2026, eleitor deve votar para seis cargos em disputa.\nReprodução/ TV Globo",
+      "category": "Economia",
+      "title": "Eleições: postar opinião política nas redes sociais pode afetar a vida profissional? Entenda",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/eleicoes-postar-opiniao-politica-nas-redes-sociais-pode-afetar-a-vida-profissional-entenda.ghtml",
+      "summary": "Urna votação eleição 2024\nThiago Gadelha/SVM\nAs redes sociais são uma das principais ferramentas de campanha nas eleições de 2026. Além dos próprios candidatos, usuários também reagem, comentam e compartilham opiniões sobre a disputa. Mas você sabia que isso pode ter impacto no trabalho? 🤔\nA liberdade de expressão, garantida pela Constituição Federal de 1988, também se aplica às redes sociais. Mas, assim como fora do ambiente virtual, excessos podem trazer consequências, inclusive no mercado de trabalho. E as empresas estão atentas a isso.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nEm regra, o funcionário não pode ser punido apenas por manifestar apoio ou oposição a determinado partido ou candidato em seu perfil pessoal. Da mesma forma, a empresa não pode proibir genericamente que empregados expressem opiniões políticas em redes pessoais.\nMas, segundo especialistas ouvidos pelo g1, a empresa pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem, além de exigir neutralidade nesses espaços.\nAgora no g1\nRegras em contrato\nSegundo Paula Borges, advogada especialista em direito do trabalho, o empregado tem, em regra, o direito de manifestar apoio a candidatos ou partidos em suas redes sociais pessoais, inclusive fora do horário de expediente.\nA liberdade de expressão, de consciência e de convicção política permanece protegida durante o vínculo empregatício. Uma proibição ampla de manifestações políticas em perfis pessoais, quando desvinculadas da empresa, pode configurar abuso de poder e até ser interpretada como discriminação por opinião política.\nA companhia, porém, pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem. \nEm algumas funções, como cargos de confiança, gestão ou representação institucional, podem existir restrições específicas, já que a manifestação do funcionário pode ser associada à posição da empresa.\nNesses casos, as regras devem estar previstas em contrato, código de conduta ou regulamento interno, ser proporcionais à função exercida e ser comunicadas previamente ao trabalhador, segundo a especialista.\nNesses casos, a exigência de neutralidade e a adoção de códigos de conduta são consideradas medidas legítimas para proteger a imagem corporativa.\"\nIsso não significa, no entanto, que uma postagem feita fora do trabalho esteja livre de consequências. Uma manifestação política pode levar a medidas disciplinares quando ultrapassar os limites da liberdade de expressão.\nNa prática, uma postagem política pode trazer consequências para o trabalhador quando envolver:\nOfensas, calúnia ou difamação contra a empresa, colegas ou clientes;\nDiscurso de ódio ou incitação à violência;\nDivulgação de informações confidenciais da empresa;\nUso indevido de recursos ou canais corporativos para propaganda política;\nAssociação indevida da opinião pessoal à empresa, quando houver dano concreto à imagem ou à reputação da companhia.\nDependendo da gravidade da conduta e do rompimento da confiança necessária à relação de trabalho, a punição pode chegar à demissão por justa causa. (entenda como funciona)\nNo ambiente profissional, a recomendação é separar manifestações políticas dos canais e recursos da empresa. Mesmo fora do expediente, o uso de grupos corporativos para militância pode gerar constrangimento entre colegas e, em casos mais graves, configurar assédio.\nA orientação é manter uma linguagem respeitosa, evitar ataques pessoais e deixar clara a distinção entre a opinião do funcionário e a posição da empresa.\nPara Paula Borges, o limite entre liberdade de expressão e uma conduta passível de punição deve ser analisado caso a caso, com base na proporcionalidade. \nUma manifestação feita em espaço pessoal, sem relação com a empresa e sem ofensa a terceiros, é protegida.\nJá situações que envolvam ofensas, discurso de ódio, danos à honra ou quebra de confiança podem justificar medidas disciplinares.\nEsse limite também vale para o empregador: a empresa não pode usar o vínculo de trabalho para coagir ou assediar funcionários por suas posições políticas. (entenda o que é assédio eleitoral e como denunciar)\n“É importante manter uma comunicação respeitosa, não utilizar recursos da empresa para fins político-partidários e separar claramente a imagem pessoal da identidade profissional”, orienta.\nCuidado com as redes sociais\nPara Juliana Sardinha, diretora de Diálogos Organizacionais da ABRH Brasil, o período eleitoral tende a intensificar conflitos porque as discussões políticas não envolvem apenas candidatos ou partidos, mas também valores, identidade, visão de mundo e pertencimento.\nPor isso, ela recomenda que o profissional reflita, antes de publicar, se está falando em seu próprio nome ou se pode passar a impressão de representar a organização. Eventuais consequências jurídicas, porém, devem ser avaliadas caso a caso, segundo a especialista.\nA situação exige atenção ainda maior quando há uma relação hierárquica. Uma opinião política expressa entre colegas pode ter outro peso quando parte de alguém responsável por decisões sobre promoção, remuneração, escala, contratação ou permanência no emprego.\n“Quanto maior o poder de uma pessoa dentro da organização, maior precisa ser sua responsabilidade na forma como se comunica com a equipe”, afirma Juliana.\nDiante de pressão, ameaça, promessa de benefício ou prejuízo relacionado ao posicionamento político ou ao voto, a orientação é registrar o ocorrido, procurar os canais adequados da empresa e, quando necessário, buscar orientação especializada.\nO objetivo de um ambiente de trabalho saudável não é fazer todo mundo pensar igual. É fazer com que pessoas que pensam de forma diferente consigam continuar trabalhando juntas com respeito, segurança e dignidade.\"\nNas redes sociais, Marcella Moura, especialista em RH e sócia da Acerta Consultoria, afirma que o trabalhador pode manifestar suas opiniões em seu perfil pessoal, inclusive fora do horário de expediente.\nEla recomenda cautela com publicações agressivas, ameaçadoras, ofensivas ou discriminatórias, principalmente quando o perfil identifica a empresa onde a pessoa trabalha.\n“Tudo o que você posta também está relacionado à sua imagem, e o funcionário representa aquela empresa, faz parte daquela cultura”, afirma.\nSegundo ela, ataques, discriminação e ofensas podem gerar problemas porque as redes sociais têm grande visibilidade e podem associar o comportamento individual à imagem da organização.\nEm situações de pressão ou hostilidade em razão de posicionamentos políticos, a orientação é procurar os canais formais de denúncia da empresa.\nPara Marcella, quando um funcionário é destratado ou sofre pressão de colegas ou superiores por causa de sua posição política, a situação deixa de ser uma simples divergência e pode configurar assédio, com impactos tanto para o trabalhador quanto para o clima organizacional.\nPara atravessar o período eleitoral, a recomendação da especialista é que as empresas priorizem o respeito às opiniões contrárias. \nCaso decidam abrir espaço para discussões políticas, os debates devem ser conduzidos de forma imparcial e educativa, sem permitir que a divergência de opiniões se transforme em conflito pessoal.\nRedes sociais são uma vitrine\nOutro ponto é que as redes sociais funcionam como uma vitrine, na qual o comportamento das pessoas fora do ambiente de trabalho também pode ser analisado. Essa avaliação ocorre tanto entre profissionais já contratados quanto entre candidatos a uma vaga.\n“Os recrutadores levam em consideração como o colaborador ou futuro funcionário expõe suas ideias e sua imagem em público. São observadas, principalmente, questões de intolerância, desrespeito e imoralidade”, explica Bruno Rizzato, diretor do app de empregos Trampolim.\nRizzato afirma que, quando usadas de forma adequada, as redes sociais podem favorecer o marketing pessoal.\n“O ambiente virtual pode ser usado, por exemplo, para compartilhar conteúdos relevantes na sua área de atuação. Também para seguir empresas e pessoas relevantes, além de destacar projetos e conquistas pessoais e profissionais”, diz.\nPrincipais cuidados a tomar\nVeja algumas orientações de especialistas sobre o comportamento nas redes sociais durante as eleições:\n🫡 Mantenha o respeito nas publicações: evite ataques pessoais, ofensas, calúnias e difamações dirigidas a candidatos, colegas, clientes, empregadores ou terceiros.\n\n🚫 Evite discurso de ódio e incitação à violência: conteúdos desse tipo podem gerar consequências jurídicas e trabalhistas.\n\n📲 Confira as informações antes de publicar: evite compartilhar notícias falsas ou conteúdos de fontes não confiáveis.\n\n⚠️ Não divulgue informações confidenciais: dados internos da empresa ou de colegas não devem ser expostos, nem mesmo em debates políticos.\n\n💔 Separe sua opinião da imagem da empresa: deixe claro que suas manifestações políticas são pessoais e não representam o empregador, especialmente ao mencionar a empresa.\n\n👎🏽Não use recursos ou canais corporativos para propaganda política: computadores, e-mails, grupos e demais ferramentas de trabalho devem ser usados para fins profissionais.\n\n👀 Observe as regras internas da empresa: códigos de conduta e regulamentos podem estabelecer orientações específicas sobre manifestações públicas, especialmente para profissionais em cargos de liderança, confiança ou representação institucional.\nCrescem os números de processos e denúncias por assédio moral no trabalho",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "eleições"
       ],
       "crossOutlets": [
-        "G1 - Economia",
+        "Estadão",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "62e7fc0e2fe4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Luis Cesar Bueno promete reformulação da UEG",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-20226-luis-cesar-bueno-promete-reformulacao-da-ueg.ghtml",
-      "summary": "Eleições 20226: Luis Cesar Bueno promete reformulação da UEG\nEm reunião com professores universitários na sede do sindicato dos docentes da Universidade Federal de Goiás (UFG), o candidato ao governo estadual Luís César Bueno (PT) discutiu propostas para a educação e prometeu reestruturar a Universidade Estadual de Goiás (UEG).\nDurante o encontro, o petista destacou a intenção de fortalecer o ensino superior público no estado e alinhar os cursos da instituição às vocações econômicas regionais. De acordo com o candidato, o plano de reformulação busca formar mão de obra qualificada para atender a setores estratégicos, com ênfase nas áreas de biotecnologia e mineração.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nEleições 20226: Luis Cesar Bueno promete reformulação da UEG\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"É necessário devolver para a UEG os 2% do orçamento que foi tomado pelo governo do Estado, nós vamos ter que reconstruir a Universidade Estadual de Goiás. Para o processo de desenvolvimento econômico de Goiás, ela é muito importante, porque ela tem a potencialidade de se estruturar nas diversas regiões e gerar uma mão de obra qualificada\", afirmou Luis César.\nAlém das mudanças pedagógicas, o postulante ao Palácio das Esmeraldas apontou a recomposição dos repasses públicos como passo central para restabelecer os investimentos nos câmpus e recuperar a capacidade de atendimento da universidade no interior de Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 22 Sep 2026 23:46:42 -0000"
+      "score": 81,
+      "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
       "id": "002a84876d98",
@@ -504,9 +480,9 @@
     },
     {
       "id": "d1baafdd3a5f",
-      "source": "G1 - Economia",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Economia",
+      "category": "Política",
       "title": "Eleições: postar opinião política nas redes sociais pode afetar a vida profissional? Entenda",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/eleicoes-postar-opiniao-politica-nas-redes-sociais-pode-afetar-a-vida-profissional-entenda.ghtml",
       "summary": "Urna votação eleição 2024\nThiago Gadelha/SVM\nAs redes sociais são uma das principais ferramentas de campanha nas eleições de 2026. Além dos próprios candidatos, usuários também reagem, comentam e compartilham opiniões sobre a disputa. Mas você sabia que isso pode ter impacto no trabalho? 🤔\nA liberdade de expressão, garantida pela Constituição Federal de 1988, também se aplica às redes sociais. Mas, assim como fora do ambiente virtual, excessos podem trazer consequências, inclusive no mercado de trabalho. E as empresas estão atentas a isso.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nEm regra, o funcionário não pode ser punido apenas por manifestar apoio ou oposição a determinado partido ou candidato em seu perfil pessoal. Da mesma forma, a empresa não pode proibir genericamente que empregados expressem opiniões políticas em redes pessoais.\nMas, segundo especialistas ouvidos pelo g1, a empresa pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem, além de exigir neutralidade nesses espaços.\nAgora no g1\nRegras em contrato\nSegundo Paula Borges, advogada especialista em direito do trabalho, o empregado tem, em regra, o direito de manifestar apoio a candidatos ou partidos em suas redes sociais pessoais, inclusive fora do horário de expediente.\nA liberdade de expressão, de consciência e de convicção política permanece protegida durante o vínculo empregatício. Uma proibição ampla de manifestações políticas em perfis pessoais, quando desvinculadas da empresa, pode configurar abuso de poder e até ser interpretada como discriminação por opinião política.\nA companhia, porém, pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem. \nEm algumas funções, como cargos de confiança, gestão ou representação institucional, podem existir restrições específicas, já que a manifestação do funcionário pode ser associada à posição da empresa.\nNesses casos, as regras devem estar previstas em contrato, código de conduta ou regulamento interno, ser proporcionais à função exercida e ser comunicadas previamente ao trabalhador, segundo a especialista.\nNesses casos, a exigência de neutralidade e a adoção de códigos de conduta são consideradas medidas legítimas para proteger a imagem corporativa.\"\nIsso não significa, no entanto, que uma postagem feita fora do trabalho esteja livre de consequências. Uma manifestação política pode levar a medidas disciplinares quando ultrapassar os limites da liberdade de expressão.\nNa prática, uma postagem política pode trazer consequências para o trabalhador quando envolver:\nOfensas, calúnia ou difamação contra a empresa, colegas ou clientes;\nDiscurso de ódio ou incitação à violência;\nDivulgação de informações confidenciais da empresa;\nUso indevido de recursos ou canais corporativos para propaganda política;\nAssociação indevida da opinião pessoal à empresa, quando houver dano concreto à imagem ou à reputação da companhia.\nDependendo da gravidade da conduta e do rompimento da confiança necessária à relação de trabalho, a punição pode chegar à demissão por justa causa. (entenda como funciona)\nNo ambiente profissional, a recomendação é separar manifestações políticas dos canais e recursos da empresa. Mesmo fora do expediente, o uso de grupos corporativos para militância pode gerar constrangimento entre colegas e, em casos mais graves, configurar assédio.\nA orientação é manter uma linguagem respeitosa, evitar ataques pessoais e deixar clara a distinção entre a opinião do funcionário e a posição da empresa.\nPara Paula Borges, o limite entre liberdade de expressão e uma conduta passível de punição deve ser analisado caso a caso, com base na proporcionalidade. \nUma manifestação feita em espaço pessoal, sem relação com a empresa e sem ofensa a terceiros, é protegida.\nJá situações que envolvam ofensas, discurso de ódio, danos à honra ou quebra de confiança podem justificar medidas disciplinares.\nEsse limite também vale para o empregador: a empresa não pode usar o vínculo de trabalho para coagir ou assediar funcionários por suas posições políticas. (entenda o que é assédio eleitoral e como denunciar)\n“É importante manter uma comunicação respeitosa, não utilizar recursos da empresa para fins político-partidários e separar claramente a imagem pessoal da identidade profissional”, orienta.\nCuidado com as redes sociais\nPara Juliana Sardinha, diretora de Diálogos Organizacionais da ABRH Brasil, o período eleitoral tende a intensificar conflitos porque as discussões políticas não envolvem apenas candidatos ou partidos, mas também valores, identidade, visão de mundo e pertencimento.\nPor isso, ela recomenda que o profissional reflita, antes de publicar, se está falando em seu próprio nome ou se pode passar a impressão de representar a organização. Eventuais consequências jurídicas, porém, devem ser avaliadas caso a caso, segundo a especialista.\nA situação exige atenção ainda maior quando há uma relação hierárquica. Uma opinião política expressa entre colegas pode ter outro peso quando parte de alguém responsável por decisões sobre promoção, remuneração, escala, contratação ou permanência no emprego.\n“Quanto maior o poder de uma pessoa dentro da organização, maior precisa ser sua responsabilidade na forma como se comunica com a equipe”, afirma Juliana.\nDiante de pressão, ameaça, promessa de benefício ou prejuízo relacionado ao posicionamento político ou ao voto, a orientação é registrar o ocorrido, procurar os canais adequados da empresa e, quando necessário, buscar orientação especializada.\nO objetivo de um ambiente de trabalho saudável não é fazer todo mundo pensar igual. É fazer com que pessoas que pensam de forma diferente consigam continuar trabalhando juntas com respeito, segurança e dignidade.\"\nNas redes sociais, Marcella Moura, especialista em RH e sócia da Acerta Consultoria, afirma que o trabalhador pode manifestar suas opiniões em seu perfil pessoal, inclusive fora do horário de expediente.\nEla recomenda cautela com publicações agressivas, ameaçadoras, ofensivas ou discriminatórias, principalmente quando o perfil identifica a empresa onde a pessoa trabalha.\n“Tudo o que você posta também está relacionado à sua imagem, e o funcionário representa aquela empresa, faz parte daquela cultura”, afirma.\nSegundo ela, ataques, discriminação e ofensas podem gerar problemas porque as redes sociais têm grande visibilidade e podem associar o comportamento individual à imagem da organização.\nEm situações de pressão ou hostilidade em razão de posicionamentos políticos, a orientação é procurar os canais formais de denúncia da empresa.\nPara Marcella, quando um funcionário é destratado ou sofre pressão de colegas ou superiores por causa de sua posição política, a situação deixa de ser uma simples divergência e pode configurar assédio, com impactos tanto para o trabalhador quanto para o clima organizacional.\nPara atravessar o período eleitoral, a recomendação da especialista é que as empresas priorizem o respeito às opiniões contrárias. \nCaso decidam abrir espaço para discussões políticas, os debates devem ser conduzidos de forma imparcial e educativa, sem permitir que a divergência de opiniões se transforme em conflito pessoal.\nRedes sociais são uma vitrine\nOutro ponto é que as redes sociais funcionam como uma vitrine, na qual o comportamento das pessoas fora do ambiente de trabalho também pode ser analisado. Essa avaliação ocorre tanto entre profissionais já contratados quanto entre candidatos a uma vaga.\n“Os recrutadores levam em consideração como o colaborador ou futuro funcionário expõe suas ideias e sua imagem em público. São observadas, principalmente, questões de intolerância, desrespeito e imoralidade”, explica Bruno Rizzato, diretor do app de empregos Trampolim.\nRizzato afirma que, quando usadas de forma adequada, as redes sociais podem favorecer o marketing pessoal.\n“O ambiente virtual pode ser usado, por exemplo, para compartilhar conteúdos relevantes na sua área de atuação. Também para seguir empresas e pessoas relevantes, além de destacar projetos e conquistas pessoais e profissionais”, diz.\nPrincipais cuidados a tomar\nVeja algumas orientações de especialistas sobre o comportamento nas redes sociais durante as eleições:\n🫡 Mantenha o respeito nas publicações: evite ataques pessoais, ofensas, calúnias e difamações dirigidas a candidatos, colegas, clientes, empregadores ou terceiros.\n\n🚫 Evite discurso de ódio e incitação à violência: conteúdos desse tipo podem gerar consequências jurídicas e trabalhistas.\n\n📲 Confira as informações antes de publicar: evite compartilhar notícias falsas ou conteúdos de fontes não confiáveis.\n\n⚠️ Não divulgue informações confidenciais: dados internos da empresa ou de colegas não devem ser expostos, nem mesmo em debates políticos.\n\n💔 Separe sua opinião da imagem da empresa: deixe claro que suas manifestações políticas são pessoais e não representam o empregador, especialmente ao mencionar a empresa.\n\n👎🏽Não use recursos ou canais corporativos para propaganda política: computadores, e-mails, grupos e demais ferramentas de trabalho devem ser usados para fins profissionais.\n\n👀 Observe as regras internas da empresa: códigos de conduta e regulamentos podem estabelecer orientações específicas sobre manifestações públicas, especialmente para profissionais em cargos de liderança, confiança ou representação institucional.\nCrescem os números de processos e denúncias por assédio moral no trabalho",
@@ -514,10 +490,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "G1 - Política",
+        "Estadão",
         "Poder360"
       ],
-      "score": 77,
+      "score": 78,
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
@@ -570,23 +546,6 @@
       ],
       "score": 75,
       "publishedRaw": "Thu, 17 Sep 2026 22:00:00 +0000"
-    },
-    {
-      "id": "d1baafdd3a5f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições: postar opinião política nas redes sociais pode afetar a vida profissional? Entenda",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/23/eleicoes-postar-opiniao-politica-nas-redes-sociais-pode-afetar-a-vida-profissional-entenda.ghtml",
-      "summary": "Urna votação eleição 2024\nThiago Gadelha/SVM\nAs redes sociais são uma das principais ferramentas de campanha nas eleições de 2026. Além dos próprios candidatos, usuários também reagem, comentam e compartilham opiniões sobre a disputa. Mas você sabia que isso pode ter impacto no trabalho? 🤔\nA liberdade de expressão, garantida pela Constituição Federal de 1988, também se aplica às redes sociais. Mas, assim como fora do ambiente virtual, excessos podem trazer consequências, inclusive no mercado de trabalho. E as empresas estão atentas a isso.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nEm regra, o funcionário não pode ser punido apenas por manifestar apoio ou oposição a determinado partido ou candidato em seu perfil pessoal. Da mesma forma, a empresa não pode proibir genericamente que empregados expressem opiniões políticas em redes pessoais.\nMas, segundo especialistas ouvidos pelo g1, a empresa pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem, além de exigir neutralidade nesses espaços.\nAgora no g1\nRegras em contrato\nSegundo Paula Borges, advogada especialista em direito do trabalho, o empregado tem, em regra, o direito de manifestar apoio a candidatos ou partidos em suas redes sociais pessoais, inclusive fora do horário de expediente.\nA liberdade de expressão, de consciência e de convicção política permanece protegida durante o vínculo empregatício. Uma proibição ampla de manifestações políticas em perfis pessoais, quando desvinculadas da empresa, pode configurar abuso de poder e até ser interpretada como discriminação por opinião política.\nA companhia, porém, pode estabelecer regras para o uso de canais institucionais e de redes profissionais vinculadas à sua imagem. \nEm algumas funções, como cargos de confiança, gestão ou representação institucional, podem existir restrições específicas, já que a manifestação do funcionário pode ser associada à posição da empresa.\nNesses casos, as regras devem estar previstas em contrato, código de conduta ou regulamento interno, ser proporcionais à função exercida e ser comunicadas previamente ao trabalhador, segundo a especialista.\nNesses casos, a exigência de neutralidade e a adoção de códigos de conduta são consideradas medidas legítimas para proteger a imagem corporativa.\"\nIsso não significa, no entanto, que uma postagem feita fora do trabalho esteja livre de consequências. Uma manifestação política pode levar a medidas disciplinares quando ultrapassar os limites da liberdade de expressão.\nNa prática, uma postagem política pode trazer consequências para o trabalhador quando envolver:\nOfensas, calúnia ou difamação contra a empresa, colegas ou clientes;\nDiscurso de ódio ou incitação à violência;\nDivulgação de informações confidenciais da empresa;\nUso indevido de recursos ou canais corporativos para propaganda política;\nAssociação indevida da opinião pessoal à empresa, quando houver dano concreto à imagem ou à reputação da companhia.\nDependendo da gravidade da conduta e do rompimento da confiança necessária à relação de trabalho, a punição pode chegar à demissão por justa causa. (entenda como funciona)\nNo ambiente profissional, a recomendação é separar manifestações políticas dos canais e recursos da empresa. Mesmo fora do expediente, o uso de grupos corporativos para militância pode gerar constrangimento entre colegas e, em casos mais graves, configurar assédio.\nA orientação é manter uma linguagem respeitosa, evitar ataques pessoais e deixar clara a distinção entre a opinião do funcionário e a posição da empresa.\nPara Paula Borges, o limite entre liberdade de expressão e uma conduta passível de punição deve ser analisado caso a caso, com base na proporcionalidade. \nUma manifestação feita em espaço pessoal, sem relação com a empresa e sem ofensa a terceiros, é protegida.\nJá situações que envolvam ofensas, discurso de ódio, danos à honra ou quebra de confiança podem justificar medidas disciplinares.\nEsse limite também vale para o empregador: a empresa não pode usar o vínculo de trabalho para coagir ou assediar funcionários por suas posições políticas. (entenda o que é assédio eleitoral e como denunciar)\n“É importante manter uma comunicação respeitosa, não utilizar recursos da empresa para fins político-partidários e separar claramente a imagem pessoal da identidade profissional”, orienta.\nCuidado com as redes sociais\nPara Juliana Sardinha, diretora de Diálogos Organizacionais da ABRH Brasil, o período eleitoral tende a intensificar conflitos porque as discussões políticas não envolvem apenas candidatos ou partidos, mas também valores, identidade, visão de mundo e pertencimento.\nPor isso, ela recomenda que o profissional reflita, antes de publicar, se está falando em seu próprio nome ou se pode passar a impressão de representar a organização. Eventuais consequências jurídicas, porém, devem ser avaliadas caso a caso, segundo a especialista.\nA situação exige atenção ainda maior quando há uma relação hierárquica. Uma opinião política expressa entre colegas pode ter outro peso quando parte de alguém responsável por decisões sobre promoção, remuneração, escala, contratação ou permanência no emprego.\n“Quanto maior o poder de uma pessoa dentro da organização, maior precisa ser sua responsabilidade na forma como se comunica com a equipe”, afirma Juliana.\nDiante de pressão, ameaça, promessa de benefício ou prejuízo relacionado ao posicionamento político ou ao voto, a orientação é registrar o ocorrido, procurar os canais adequados da empresa e, quando necessário, buscar orientação especializada.\nO objetivo de um ambiente de trabalho saudável não é fazer todo mundo pensar igual. É fazer com que pessoas que pensam de forma diferente consigam continuar trabalhando juntas com respeito, segurança e dignidade.\"\nNas redes sociais, Marcella Moura, especialista em RH e sócia da Acerta Consultoria, afirma que o trabalhador pode manifestar suas opiniões em seu perfil pessoal, inclusive fora do horário de expediente.\nEla recomenda cautela com publicações agressivas, ameaçadoras, ofensivas ou discriminatórias, principalmente quando o perfil identifica a empresa onde a pessoa trabalha.\n“Tudo o que você posta também está relacionado à sua imagem, e o funcionário representa aquela empresa, faz parte daquela cultura”, afirma.\nSegundo ela, ataques, discriminação e ofensas podem gerar problemas porque as redes sociais têm grande visibilidade e podem associar o comportamento individual à imagem da organização.\nEm situações de pressão ou hostilidade em razão de posicionamentos políticos, a orientação é procurar os canais formais de denúncia da empresa.\nPara Marcella, quando um funcionário é destratado ou sofre pressão de colegas ou superiores por causa de sua posição política, a situação deixa de ser uma simples divergência e pode configurar assédio, com impactos tanto para o trabalhador quanto para o clima organizacional.\nPara atravessar o período eleitoral, a recomendação da especialista é que as empresas priorizem o respeito às opiniões contrárias. \nCaso decidam abrir espaço para discussões políticas, os debates devem ser conduzidos de forma imparcial e educativa, sem permitir que a divergência de opiniões se transforme em conflito pessoal.\nRedes sociais são uma vitrine\nOutro ponto é que as redes sociais funcionam como uma vitrine, na qual o comportamento das pessoas fora do ambiente de trabalho também pode ser analisado. Essa avaliação ocorre tanto entre profissionais já contratados quanto entre candidatos a uma vaga.\n“Os recrutadores levam em consideração como o colaborador ou futuro funcionário expõe suas ideias e sua imagem em público. São observadas, principalmente, questões de intolerância, desrespeito e imoralidade”, explica Bruno Rizzato, diretor do app de empregos Trampolim.\nRizzato afirma que, quando usadas de forma adequada, as redes sociais podem favorecer o marketing pessoal.\n“O ambiente virtual pode ser usado, por exemplo, para compartilhar conteúdos relevantes na sua área de atuação. Também para seguir empresas e pessoas relevantes, além de destacar projetos e conquistas pessoais e profissionais”, diz.\nPrincipais cuidados a tomar\nVeja algumas orientações de especialistas sobre o comportamento nas redes sociais durante as eleições:\n🫡 Mantenha o respeito nas publicações: evite ataques pessoais, ofensas, calúnias e difamações dirigidas a candidatos, colegas, clientes, empregadores ou terceiros.\n\n🚫 Evite discurso de ódio e incitação à violência: conteúdos desse tipo podem gerar consequências jurídicas e trabalhistas.\n\n📲 Confira as informações antes de publicar: evite compartilhar notícias falsas ou conteúdos de fontes não confiáveis.\n\n⚠️ Não divulgue informações confidenciais: dados internos da empresa ou de colegas não devem ser expostos, nem mesmo em debates políticos.\n\n💔 Separe sua opinião da imagem da empresa: deixe claro que suas manifestações políticas são pessoais e não representam o empregador, especialmente ao mencionar a empresa.\n\n👎🏽Não use recursos ou canais corporativos para propaganda política: computadores, e-mails, grupos e demais ferramentas de trabalho devem ser usados para fins profissionais.\n\n👀 Observe as regras internas da empresa: códigos de conduta e regulamentos podem estabelecer orientações específicas sobre manifestações públicas, especialmente para profissionais em cargos de liderança, confiança ou representação institucional.\nCrescem os números de processos e denúncias por assédio moral no trabalho",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 74,
-      "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
       "id": "fb5fd5043104",
@@ -649,19 +608,34 @@
       "publishedRaw": "Tue, 22 Sep 2026 17:30:56 -0000"
     },
     {
-      "id": "fb5fd5043104",
+      "id": "5a55ffc6f171",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA",
-      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
+      "title": "Presidente do Irã discursa na Assembleia Geral da ONU",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/23/presidente-do-ira-discursa-na-assembleia-geral-da-onu.ghtml",
+      "summary": "O presidente do Irã, Masoud Pezeshkian, discursou no 2º dia da Assembleia Geral da Organização das Nações Unidas (ONU), nesta quarta-feira (23).\nO Irã, atualmente em guerra aberta contra os Estados Unidos, é um dos temas centrais dos discurso da assembleia neste ano.  \nO discurso ocorre um dia depois de uma rodada de negociações para o fim da guerra dentro da Assembleia Geral da ONU. Na terça-feira (22), durante três horas, o enviado especial dos EUA para o Oriente Médio, Steve Witkoff, e o chanceler iraniano, Abbas Aragchi, se reuniram para debater saídas para a guerra. \nNenhuma das partes havia dado detalhes do encontro até a última atualização desta reportagem, mas o presidente dos Estados Unidos, Donald Trump, \nEsta reportagem está em atualização.",
       "tags": [
         "MBL"
       ],
       "crossOutlets": [],
       "score": 50,
-      "publishedRaw": "Wed, 23 Sep 2026 12:52:00 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 14:11:08 -0000"
+    },
+    {
+      "id": "fb5fd5043104",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Presidente do Irã fala discursa no 2º dia da Assembleia Geral da ONU; SIGA",
+      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+      "summary": "Presidente do Irã fala discursa no 2º dia da Assembleia Geral da ONU; SIGA Milei, Zelensky e líderes de Irã, Venezuela e Equador também falam. No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
+      "tags": [
+        "MBL"
+      ],
+      "crossOutlets": [],
+      "score": 50,
+      "publishedRaw": "Wed, 23 Sep 2026 14:10:36 -0000"
     }
   ]
 }
