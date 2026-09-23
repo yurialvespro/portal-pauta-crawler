@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:15:55.753111+00:00",
+  "generated_at": "2026-09-23T02:42:59.974433+00:00",
   "items": [
     {
       "id": "c82d454537b0",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -62,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -84,6 +87,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -303,6 +307,29 @@
       "publishedRaw": "22 Sep 2026 22:21:00 -0300"
     },
     {
+      "id": "2d820750bf37",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Equipe de Flávio aciona TSE contra Lula por suposto uso da máquina pública",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/equipe-de-flavio-aciona-tse-contra-lula-por-suposto-uso-da-maquina-publica/",
+      "summary": "Campanha do candidato do PL à Presidência afirma haver uma repetição do suposto uso eleitoral indevido de dependências, atos, serviços, eventos institucionais ou estruturas da Presidência da República por parte do concorrente petista",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 23 Sep 2026 02:29:29 +0000"
+    },
+    {
       "id": "4b2acd370444",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -381,6 +408,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -402,6 +430,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -423,6 +452,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -444,6 +474,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -465,6 +496,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -506,6 +538,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -527,6 +560,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -548,6 +582,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -569,6 +604,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -576,25 +612,6 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 23:29:09 +0000"
-    },
-    {
-      "id": "9a06cd1232be",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O Bolsonaro mais perigoso pode ser o mais moderado",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-bolsonaro-mais-perigoso-pode-ser-o-mais-moderado.shtml",
-      "summary": "Flávio Bolsonaro, candidato do PL à Presidência da República, é mais perigoso para a democracia do que o pai, Jair. Não por ser mais radical, mas por parecer mais moderado.\nLeia mais (09/22/2026 - 22h00)",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "22 Sep 2026 22:00:00 -0300"
     },
     {
       "id": "f53d8c271fb9",
@@ -647,6 +664,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -668,6 +686,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -689,6 +708,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -710,6 +730,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -731,6 +752,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -752,6 +774,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -800,26 +823,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 00:57:45 +0000"
     },
     {
-      "id": "f67612df49b5",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE lança ferramenta para monitorar violência política de gênero no país",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-lanca-ferramenta-para-monitorar-violencia-politica-de-genero-no-pais/",
-      "summary": "Painel faz parte de conjunto de ações voltadas ao enfrentamento do crime; Justiça Eleitoral também firmou protocolo de prevenção com o Ministério Público Eleitoral",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 23 Sep 2026 00:52:04 +0000"
-    },
-    {
       "id": "002a84876d98",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -831,6 +834,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -873,6 +877,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -894,6 +899,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -992,21 +998,6 @@
       "crossOutlets": [],
       "score": 50,
       "publishedRaw": "Tue, 22 Sep 2026 13:52:20 -0000"
-    },
-    {
-      "id": "e382d05353bd",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Em tom de despedida, Guterres admite ONU 'ultrapassada' e diz que IA ameaça humanidade na Assembleia Geral",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/22/secretario-geral-da-onu-discurso-despedida-assembleia-geral.ghtml",
-      "summary": "Antonio Guterres discursa na 81ª Assembleia Geral da ONU, em Nova York\nShannon Stapleton/Reuters\nEm tom de despedida, o secretário-geral da Organização das Nações Unidas (ONU), o português António Guterres, abriu nesta terça-feira (22) a Assembleia Geral da ONU admitindo que a organização está ultrapassada.   \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAO VIVO: Acompanhe a Assembleia Geral da ONU em tempo real \nDiante de mais de cem líderes de estado e governo que participam da assembleia, Guterres, que deixa o posto no fim deste ano, defendeu uma ampla reforma na ONU, começando pelo Conselho de Segurança — que delibera sobre guerras e conflitos. Pediu que o mundo não se esqueça do direito internacional. E também engrossou os apelos por mais freios na Inteligência Artificial. \n\"Os seres humanos estão transferindo cada vez mais poder para as máquinas — com agentes de inteligência artificial agindo à revelia de seus controles e armas autônomas letais passando da ficção científica para a realidade militar\", alertou o secretário-geral. \n\"Mas não se enganem: o perigo não é a tecnologia. É a tecnologia usada sem responsabilidade\". \nGuterres disse que entrega o cargo em um momento em que a humanidade enfrenta grandes testes de poder fundamentais para seu futuro: a paz, a desigualdade, o clima e a inteligência artificial. Há quase dez anos à frente da ONU, ele afirmouo também que sua gestão foi marcada por novas guerras e menos respeito ao direito internacional. \n“Na última década, eclodiram guerras de consequências devastadoras, prolongando-se com uma crueldade execrável. Civis foram alvos de ataques. Direitos humanos foram atropelados. A fome foi utilizada como arma. Trabalhadores humanitários foram mortos. O direito internacional foi deixado de lado. As divisões geopolíticas se aprofundaram”, discursou. \nEm NY, Lula abre Assembleia da ONU com foco em soberania e de olho nas eleições\nGuterres afirmou reformas na ONU garantirão a sobrevivência da organização — que vive uma crise financeira e de credibilidade aguda — e defendeu que as mudanças comecem pelo Conselho de Segurança. Em apelo inédito, pediu a inclusão de países de África como membro permanente, ao lado dos EUA, Rússia, China, França e Reino Unido. \n\"Um Conselho de Segurança do século XXI sem representação africana permanente é injusto e indefensável\", disse. \nGuterres, como esperado, fez uma defesa do multilateralismo — o conceito, instaurado no fim da 2ª Guerra Mundial, segundo o qual vários países cooperam e atuam por  meio de regras comuns. Mas admitiu que a ONU, representante máxima das instituições multilaterais, ficou estacionada nas premissas e no contexto nos quais foi criada, há 80 anos. \n\"Nossas instituições e sistemas de governança global continuam a refletir as realidades de poder e os interesses de uma era amplamente ultrapassada. Esse é o desafio central diante de nós\", discursou. \"(Precisamos de) instituições fortes e eficazes que reflitam as realidades, e não os arranjos de poder de 80 anos atrás\". \nTambém disse que a sobrevivência da ONU e do multilaterlaismo depende diretamente de que líderes voltem a respeitar o direito internacional. \nDespedida\nSecretário-geral da ONU é aplaudido de pé após discurso com tom de despedida\nNo discurso, o secretário-geral também anunciou que a ONU alcançou, pela 1ª vez em sua história, a igualdade de gênero entre seus funcionários e pediu que o mundo faça o mesmo. “Se a ONU consegue mudar, governos, empresas e políticas também conseguem”, disse. \nAo fim de seu discurso — o primeiro que ultrapassou os 20 minutos recomendados pela própria ONU — o secretário-geral foi aplaudido de pé por quase todo o plenário (veja no vídeo acima). \nO comitê dos Estados Unidos, cujo governo lidera as críticas atuais contra a ONU e cortaram boa parte do financiamento para a organização, foi um dos únicos que não se levantou.",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 50,
-      "publishedRaw": "Tue, 22 Sep 2026 13:04:53 -0000"
     }
   ]
 }
