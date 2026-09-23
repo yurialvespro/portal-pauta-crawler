@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:15:27.145813+00:00",
+  "generated_at": "2026-09-23T11:43:00.276011+00:00",
   "items": [
     {
       "id": "c82d454537b0",
@@ -16,12 +16,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Tue, 22 Sep 2026 22:31:06 -0000"
     },
     {
@@ -39,12 +38,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -61,13 +59,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
@@ -84,35 +81,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "31c14fbde57e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas: 52,3% dizem que crise no STF prejudica Lula; 20,8%, Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-523-dizem-que-crise-no-stf-prejudica-lula-208-flavio/",
-      "summary": "Levantamento ouviu 5.015 eleitores entre os dias 17 e 22 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, nível de confiança é de 95%",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 23 Sep 2026 10:35:24 +0000"
     },
     {
       "id": "8a6e770cd20c",
@@ -128,12 +102,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -150,7 +123,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -172,76 +144,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "a38cfe01f34b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas: para 36%, gestão Lula foi principal responsável por disseminar bets",
-      "link": "https://www.cnnbrasil.com.br/politica/atlas-para-36-gestao-lula-foi-principal-responsavel-por-disseminar-bets/",
-      "summary": "Foram ouvidos 5.015 eleitores entre os dias 17 e 22 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 23 Sep 2026 10:48:03 +0000"
-    },
-    {
-      "id": "7beddab16ebe",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas: 47,3% têm mais medo da reeleição de Lula; 46% da eleição de Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-473-tem-mais-medo-da-reeleicao-de-lula-46-da-eleicao-de-flavio/",
-      "summary": "Levantamento ouviu 5.015 eleitores por recrutamento digital com margem de erro de um ponto percentual",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 23 Sep 2026 10:36:49 +0000"
-    },
-    {
-      "id": "22468760a766",
+      "id": "a8d3a6907f1d",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Atlas/Bloomberg: 75% concordam com proibição das bets, agora aventada por Lula; 17% discordam",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-75-concordam-com-proibicao-das-bets-agora-aventada-por-lula-17-discordam/",
+      "title": "Lobista amiga de Lulinha fez depósitos a secretário e a chefe do cerimonial de ministro de Lula",
+      "link": "https://www.estadao.com.br/politica/lobista-amiga-de-lulinha-fez-depositos-a-secretario-e-a-chefe-do-cerimonial-de-ministro-de-lula/",
       "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
+      "score": 84,
+      "publishedRaw": "Wed, 23 Sep 2026 11:11:23 +0000"
     },
     {
       "id": "bcd81b5b9d63",
@@ -256,12 +184,31 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "22468760a766",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: 75% concordam com proibição das bets, agora aventada por Lula; 17% discordam",
+      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-75-concordam-com-proibicao-das-bets-agora-aventada-por-lula-17-discordam/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -277,34 +224,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 22 Sep 2026 23:19:44 +0000"
-    },
-    {
-      "id": "50d39db4e2c6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula lança novas bondades e tenta acalmar mercado após reclamar de ‘babaquice’ do superávit",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-lanca-novas-bondades-e-tenta-acalmar-mercado-apos-reclamar-de-babaquice-do-superavit/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 21:20:43 +0000"
     },
     {
       "id": "2c38fd447f04",
@@ -319,12 +244,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:53 +0000"
     },
     {
@@ -340,12 +264,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:21 +0000"
     },
     {
@@ -407,27 +330,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 23:46:42 -0000"
     },
     {
-      "id": "ddd60805a475",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
-      "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/09/22/lula-e-trump-levam-suas-campanhas-eleitorais-ao-plenario-da-onu.ghtml",
-      "summary": "Lula e Donald Trump em discurso na Assembleia Geral da ONU\nREUTERS\nCom a iminência de eleições nos dois países, Luiz Inácio Lula da Silva e Donald Trump deixaram claras, em seus discursos na Assembleia Geral da ONU, as agendas divergentes dos governos do Brasil e dos Estados Unidos. \nO presidente brasileiro mandou numerosos recados ao americano, sem citá-lo nominalmente, mas o Brasil foi literalmente ignorado por Trump.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAO VIVO: acompanhe a Assembleia Geral da ONU\nLula destacou a soberania, o multilateralismo, a necessidade de regulação de big techs e IA e de ações para o combate às mudanças climáticas. \nCriticou o embargo em Cuba e a ingerência em países da América Latina com alertas como “O Brasil não cabe no quintal de ninguém” e “As nossas riquezas pertencem aos brasileiros”.  \n'O Brasil não cabe no quintal de ninguém', diz Lula em discurso na ONU\nCuba foi descrita como um Estado falido por Trump, que antecipou a queda do regime, enquanto seus diplomatas deixavam o plenário. \nAo abordar a Venezuela, ele defendeu a operação militar que depôs o então presidente Nicolás Maduro e declarou, sem rodeios, que uma parcela da receita do petróleo do país será destinada aos EUA: \n“Aos vencedores, os despojos.”\nDiante do plenário do maior organismo mundial, o presidente americano enfatizou a força e o poder militar dos EUA e pareceu cruzar uma linha vermelha, ameaçando abertamente aniquilar o Irã. \n“Tenho uma grande decisão a tomar”: fazer um acordo com o Irã ou “aniquilar a República Islâmica e fazê-lo rapidamente, sem nunca mais lhes dar a oportunidade de matar e destruir pessoas e países”, resumiu ele, sinalizando, logo após, um recuo ao convidar os líderes de países a se unirem pelo isolamento econômico do Irã.\nO presidente americano iniciou o seu discurso por temas internos, vangloriando-se de seu governo com superlativos e ineditismo de resultados, e depois partiu para o cenário externo.\n“Nossa economia é a inveja do mundo. Nossas forças armadas são as mais poderosas da Terra. Nossa tecnologia não fica atrás de nenhuma, e estamos liderando em praticamente tudo\", falou.\nTrump defende trocar nome da Inteligência Artificial para Superinteligência\nComo clímax dessa exaltação, a fixação do presidente por mudar nomes não ficou de fora: Trump propôs rebatizar a Inteligência Artificial de Super Inteligência. Passou, então, a referir-se à IA somente pelas iniciais SI — detalhe apenas para criticar a sua desaceleração, como defenderam os chefes de empresas de tecnologia. \nLula optou pelo caminho inverso, começando pela falta de credibilidade da ONU e o imobilismo do Conselho de Segurança em lidar com as guerras em andamento. \nTraçou um panorama sobre assuntos que lhe são caros na geopolítica. Só depois mirou o público interno, ressaltando que não cederá às pressões sobre o Pix ou vinculando as eleições brasileiras entre uma escolha entre democracia e negacionismo.   \nEm comum, Lula e Trump recorreram ao linguajar de campanha, obedecendo a roteiros elaborados para serem seguidos às vésperas das eleições em seus países. A abordagem e o conteúdo, porém, seguiram trajetórias distintas.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 22 Sep 2026 17:36:27 -0000"
-    },
-    {
       "id": "002a84876d98",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -439,13 +341,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Tue, 22 Sep 2026 17:35:21 GMT"
     },
     {
@@ -462,12 +363,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 80,
       "publishedRaw": "Wed, 23 Sep 2026 03:30:00 -0000"
     },
     {
@@ -483,86 +383,13 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 80,
       "publishedRaw": ""
-    },
-    {
-      "id": "dc7dcdcda133",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
-      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
-    },
-    {
-      "id": "c9db45e9dbb1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de jornalista pede ao STF arquivamento de investigação ligada a reportagens sobre Dino",
-      "link": "https://www.estadao.com.br/politica/defesa-de-jornalista-pede-ao-stf-arquivamento-de-investigacao-ligada-a-reportagens-sobre-dino-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 22 Sep 2026 19:47:32 +0000"
-    },
-    {
-      "id": "086e7e1b05aa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
-      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
-    },
-    {
-      "id": "f53d8c271fb9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Orçamento secreto de Bolsonaro: entenda o passo a passo do esquema",
-      "link": "https://www.estadao.com.br/politica/orcamento-secreto-de-bolsonaro-entenda-o-passo-a-passo-do-esquema/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Sun, 09 May 2021 02:50:00 +0000"
     },
     {
       "id": "d1baafdd3a5f",
@@ -583,6 +410,57 @@
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
+      "id": "dc7dcdcda133",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
+      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 75,
+      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
+    },
+    {
+      "id": "c9db45e9dbb1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de jornalista pede ao STF arquivamento de investigação ligada a reportagens sobre Dino",
+      "link": "https://www.estadao.com.br/politica/defesa-de-jornalista-pede-ao-stf-arquivamento-de-investigacao-ligada-a-reportagens-sobre-dino-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 22 Sep 2026 19:47:32 +0000"
+    },
+    {
+      "id": "086e7e1b05aa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
+      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
+    },
+    {
       "id": "d1baafdd3a5f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -598,36 +476,6 @@
       ],
       "score": 74,
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "id": "714ec9c3d985",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisa eleitoral mostra Trump em baixa e vantagem democrata no Congresso",
-      "link": "https://www.cnnbrasil.com.br/internacional/pesquisa-eleitoral-cnn-trump-midterms-setembro/",
-      "summary": "Poll da CNN aponta vantagem de 8 pontos para democratas entre eleitores registrados e queda na avaliação de Trump sobre a economia; resultados aparecem a um mês das eleições americanas de Meio de Mandato",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Wed, 23 Sep 2026 10:55:43 +0000"
-    },
-    {
-      "id": "39769cc8b53f",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleição do Corinthians: os nomes que sinalizam candidatura à presidência",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/eleicao-do-corinthians-os-nomes-que-sinalizam-candidatura-a-presidencia/",
-      "summary": "Pleito definirá o próximo líder do Timão para o triênio 2027-2029, com votação prevista para novembro",
-      "tags": [
-        "candidatura"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Wed, 23 Sep 2026 10:46:46 +0000"
     },
     {
       "id": "3037e911fe45",
