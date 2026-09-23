@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:15:50.106902+00:00",
+  "generated_at": "2026-09-23T10:43:36.930280+00:00",
   "items": [
     {
       "id": "c82d454537b0",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -61,6 +63,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -84,6 +87,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -91,6 +95,52 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "31c14fbde57e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas: 52,3% dizem que crise no STF prejudica Lula; 20,8%, Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-523-dizem-que-crise-no-stf-prejudica-lula-208-flavio/",
+      "summary": "Levantamento ouviu 5.015 eleitores entre os dias 17 e 22 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos, nível de confiança é de 95%",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 23 Sep 2026 10:35:24 +0000"
+    },
+    {
+      "id": "0ff7e2ecaf66",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas: Eleitores se dividem sobre aliados de Lula e Bolsonaro no Master",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-eleitores-se-dividem-sobre-aliados-de-lula-e-bolsonaro-no-master/",
+      "summary": "Levantamento ouviu 5.015 eleitores entre os dias 17 e 22 de setembro; margem de erro é de um ponto pecentual, para mais ou para menos",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 23 Sep 2026 10:35:08 +0000"
     },
     {
       "id": "b1cbc1416e7e",
@@ -106,6 +156,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -128,6 +179,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -149,6 +201,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -156,6 +209,138 @@
       ],
       "score": 85,
       "publishedRaw": "23 Sep 2026 05:00:00 -0300"
+    },
+    {
+      "id": "7beddab16ebe",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas: 47,3% têm mais medo da reeleição de Lula; 46% da eleição de Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-473-tem-mais-medo-da-reeleicao-de-lula-46-da-eleicao-de-flavio/",
+      "summary": "Levantamento ouviu 5.015 eleitores por recrutamento digital com margem de erro de um ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:36:49 +0000"
+    },
+    {
+      "id": "233ff1586fa4",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: Lula tem 51,6% de rejeição; Flávio, 50,6%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-tem-516-de-rejeicao-flavio-506/",
+      "summary": "Levantamento ouviu 5.015 eleitores por recrutamento digital com margem de erro de um ponto percentual",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:34:35 +0000"
+    },
+    {
+      "id": "3a96a6c35cb7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: Lula é desaprovado por 53%; 45,4% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-e-desaprovado-por-53-454-aprovam/",
+      "summary": "Foram entrevistados 5.015 eleitores pela AtlasIntel/Bloomberg, entre os dias 17 e 22 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:31:31 +0000"
+    },
+    {
+      "id": "23fac12ed9d6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: Lula tem 47,7% no 2º turno; Flávio, 47,4%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-tem-477-no-2o-turno-flavio-474/",
+      "summary": "Foram entrevistados 5.015 eleitores pela AtlasIntel/Bloomberg, entre os dias 17 e 22 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:42 +0000"
+    },
+    {
+      "id": "95e7ebe226cf",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: Lula tem 45,8% no 1º turno; Flávio, 43,4%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-tem-458-no-1o-turno-flavio-434/",
+      "summary": "Foram entrevistados 5.015 eleitores pela AtlasIntel/Bloomberg, entre os dias 17 e 22 de setembro; margem de erro é de um ponto percentual, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:16 +0000"
+    },
+    {
+      "id": "0b4a17a4002d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O Grande Debate: Lula transformou a ONU em palanque eleitoral?",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-lula-transformou-a-onu-em-palanque-eleitoral/",
+      "summary": "Comentaristas divergem sobre o discurso do presidente na Assembleia Geral da ONU, às vésperas das eleições",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 10:24:37 +0000"
     },
     {
       "id": "48e245c47ed3",
@@ -170,6 +355,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -191,6 +377,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -213,157 +400,55 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 21:08:29 +0000"
     },
     {
-      "id": "c8d3de1a7e8e",
+      "id": "2c38fd447f04",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Marina Silva diz que discurso de Lula na ONU é “documento histórico”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/marina-silva-diz-que-discurso-de-lula-na-onu-e-documento-historico/",
-      "summary": "Candidata ao Senado afirmou que presidente teve “coragem moral” ao defender a soberania brasileira",
+      "title": "Saiba como estão Lula e Flávio nas últimas pesquisas para presidente",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-ultimas-pesquisas-para-presidente/",
+      "summary": "Senador fica numericamente à frente em 4 e Lula, em 4 estudos sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:52:38 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:53 +0000"
     },
     {
-      "id": "0334a75379ea",
+      "id": "8581037b33dd",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula faz gestos aos Calheiros e a João Campos com incursão no Nordeste",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-gestos-aos-calheiros-e-a-joao-campos-com-incursao-no-nordeste/",
-      "summary": "Presidente visitará Alagoas e Pernambuco, Estados em que ainda não foi na busca pela reeleição; também estará no Rio de Janeiro para atos na 4ª feira (23.set) e na 5ª feira (24.set)",
+      "title": "Lula tem 47,7% e Flávio, 47,4% no 2º turno, diz AtlasIntel",
+      "link": "https://www.poder360.com.br/poder-pesquisas/lula-tem-477-e-flavio-474-no-2o-turno-diz-atlasintel/",
+      "summary": "Levantamento mostra petista e senador empatados tecnicamente; no 1º turno, Lula lidera, com 45,8% ante 43,4% do adversário",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:44:25 +0000"
-    },
-    {
-      "id": "cee5ca3a3194",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula fará novo aceno ao PIB em reunião a 9 dias do 1º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-fara-novo-aceno-ao-pib-em-reuniao-a-9-dias-do-1o-turno/",
-      "summary": "Presidente participará de jantar com nomes do setor produtivo e do mercado financeiro na 6ª feira (25.set), às 18h45, em São Paulo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:29:09 +0000"
-    },
-    {
-      "id": "ee03043b5cda",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT prepara mobilização nacional pró-Lula uma semana antes da eleição",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-prepara-mobilizacao-nacional-pro-lula-uma-semana-antes-da-eleicao/",
-      "summary": "Presidente do partido, Edinho Silva convocou apoiadores durante plenária do partido nesta 3ª feira em São Paulo",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:07:57 +0000"
-    },
-    {
-      "id": "efafa0413900",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle Bolsonaro é internada com quadro de enxaqueca",
-      "link": "https://www.poder360.com.br/poder-gente/michelle-bolsonaro-e-internada-com-quadro-de-enxaqueca/",
-      "summary": "Ex-primeira-dama foi internada no Hospital DF Star, ainda sem previsão de alta",
-      "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:03:23 +0000"
-    },
-    {
-      "id": "0ab644dee5f2",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 60,5% contra 32,7% de Flávio no 2º turno em PE, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-605-contra-327-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
-      "summary": "Levantamento da AtlasIntel ouviu 1.836 eleitores de 15 a 20 de setembro de 2026; a margem de erro é de 2 p.p",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 22:12:57 +0000"
-    },
-    {
-      "id": "958ec0a3e0a1",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Imprensa internacional destaca discurso de Lula na ONU",
-      "link": "https://www.poder360.com.br/poder-midia/imprensa-internacional-destaca-discurso-de-lula-na-onu-2/",
-      "summary": "\"The New York Times\", \"Reuters\", \"Bloomberg\" e outros veículos de mídia registraram as falas do petista nesta 3ª feira (22.set)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 21:59:25 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 10:30:21 +0000"
     },
     {
       "id": "b86a0e9be15a",
@@ -398,8 +483,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 83,
       "publishedRaw": "Sun, 09 May 2021 02:50:00 +0000"
@@ -455,6 +540,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -476,6 +562,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -496,6 +583,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -519,6 +607,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -540,6 +629,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -548,6 +638,60 @@
       ],
       "score": 81,
       "publishedRaw": ""
+    },
+    {
+      "id": "dc7dcdcda133",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
+      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
+    },
+    {
+      "id": "c9db45e9dbb1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de jornalista pede ao STF arquivamento de investigação ligada a reportagens sobre Dino",
+      "link": "https://www.estadao.com.br/politica/defesa-de-jornalista-pede-ao-stf-arquivamento-de-investigacao-ligada-a-reportagens-sobre-dino-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 22 Sep 2026 19:47:32 +0000"
+    },
+    {
+      "id": "086e7e1b05aa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
+      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
     },
     {
       "id": "d1baafdd3a5f",
@@ -568,57 +712,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
-      "id": "dc7dcdcda133",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
-      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
-    },
-    {
-      "id": "c9db45e9dbb1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de jornalista pede ao STF arquivamento de investigação ligada a reportagens sobre Dino",
-      "link": "https://www.estadao.com.br/politica/defesa-de-jornalista-pede-ao-stf-arquivamento-de-investigacao-ligada-a-reportagens-sobre-dino-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 22 Sep 2026 19:47:32 +0000"
-    },
-    {
-      "id": "086e7e1b05aa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
-      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
-    },
-    {
       "id": "d1baafdd3a5f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -634,21 +727,6 @@
       ],
       "score": 74,
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
-    },
-    {
-      "id": "fdf67ba6e358",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após ameaça de Trump, presidente do Irã discursa na Assembleia Geral da ONU",
-      "link": "https://www.cnnbrasil.com.br/internacional/apos-ameaca-de-trump-presidente-do-ira-discursa-na-assembleia-geral-da-onu/",
-      "summary": "Durante discurso, americano acusou Teerã de ser o “maior patrocinador do terrorismo do mundo” e afirmou que o país poderia ser \"aniquilado\"",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Wed, 23 Sep 2026 09:00:34 +0000"
     },
     {
       "id": "3037e911fe45",
