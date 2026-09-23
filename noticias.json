@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:47:52.518923+00:00",
+  "generated_at": "2026-09-23T07:16:41.943557+00:00",
   "items": [
     {
       "id": "c82d454537b0",
@@ -24,6 +24,30 @@
       ],
       "score": 94,
       "publishedRaw": "Tue, 22 Sep 2026 22:31:06 -0000"
+    },
+    {
+      "id": "082d9e9b820e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: Flávio Bolsonaro atrai mais eleitores de Zema, Renan, Caiado e Cury em 2º turno contra Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-atrai-mais-eleitores-de-zema-renan-caiado-e-cury-em-2o-turno-contra-lula.shtml",
+      "summary": "O senador Flávio Bolsonaro (PL) tem vantagem no segundo turno contra o presidente Lula (PT) na preferência dos eleitores que apoiam as quatro principais candidaturas alternativas no primeiro turno da eleição, mostra levantamento do Datafolha.\nLeia mais (09/23/2026 - 04h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "23 Sep 2026 04:00:00 -0300"
     },
     {
       "id": "7ebc9898e787",
@@ -89,11 +113,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
-      "score": 93,
+      "score": 92,
       "publishedRaw": "Tue, 22 Sep 2026 22:09:41 -0000"
     },
     {
@@ -211,50 +234,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "45dab2fe6c13",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Menção de Lula à eleição foi inédita em seus discursos na ONU e se deveu à ameaça de interferência",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/mencao-de-lula-a-eleicao-foi-inedita-em-seus-discursos-na-onu-e-se-deveu-a-ameaca-de-interferencia.shtml",
-      "summary": "A referência explícita do presidente Luiz Inácio Lula da Silva à eleição presidencial, com direito a uma crítica direta a Flávio Bolsonaro (PL), não tem precedentes em seus discursos à Assembleia Geral da ONU.\nLeia mais (09/22/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "22 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "85291a0392cd",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fundo de Florestas tem futuro incerto com eleição um ano após Lula anunciar investimento",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/09/fundo-de-florestas-tem-futuro-incerto-com-eleicao-um-ano-apos-lula-anunciar-investimento.shtml",
-      "summary": "Um ano após o presidente Luiz Inácio Lula da Silva (PT) anunciar o investimento de US$ 1 bilhão (R$ 5,1 bilhões) no Fundo Florestas Tropicais para Sempre, a maioria dos candidatos ao Palácio do Planalto nas eleições deste ano nem sequer cita o mecanismo em planos de governo. O único a mencioná-lo é o próprio petista, que elenca o fundo como uma das prioridades da ação externa em um eventual quarto mandato.\nLeia mais (09/22/2026 - 23h00)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "22 Sep 2026 23:00:00 -0300"
-    },
-    {
       "id": "48e245c47ed3",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -297,6 +276,26 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 21:20:43 +0000"
+    },
+    {
+      "id": "6472e2f19c44",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle Bolsonaro é internada em hospital para tratamento de enxaqueca",
+      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-e-internada-em-hospital-para-tratamento-de-enxaqueca-nprp/",
+      "summary": "Candidata ao Senado e ex-primeira-dama não tem previsão de alta",
+      "tags": [
+        "Bolsonaro",
+        "Michelle Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 22 Sep 2026 21:08:29 +0000"
     },
     {
       "id": "2377d4a21bff",
@@ -343,102 +342,23 @@
       "publishedRaw": "Tue, 22 Sep 2026 23:52:38 +0000"
     },
     {
-      "id": "0334a75379ea",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula faz gestos aos Calheiros e a João Campos com incursão no Nordeste",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-gestos-aos-calheiros-e-a-joao-campos-com-incursao-no-nordeste/",
-      "summary": "Presidente visitará Alagoas e Pernambuco, Estados em que ainda não foi na busca pela reeleição; também estará no Rio de Janeiro para atos na 4ª feira (23.set) e na 5ª feira (24.set)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 23:44:25 +0000"
-    },
-    {
-      "id": "dc7dcdcda133",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
-      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
-    },
-    {
-      "id": "0115bc0131b7",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Kassio enfrenta pressão no STF, e grupo pró-Moraes quer mantê-lo fora de julgamentos sobre Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/kassio-enfrenta-pressao-no-stf-e-grupo-pro-moraes-quer-mante-lo-fora-de-julgamentos-sobre-vorcaro.shtml",
-      "summary": "Integrantes do STF (Supremo Tribunal Federal) ampliaram nos últimos dias a pressão contra o ministro Kassio Nunes Marques após os vazamentos mais recentes do caso Banco Master atingirem principalmente o magistrado e seus familiares.\nLeia mais (09/22/2026 - 23h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "22 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "086e7e1b05aa",
+      "id": "f53d8c271fb9",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
-      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
+      "title": "Orçamento secreto de Bolsonaro: entenda o passo a passo do esquema",
+      "link": "https://www.estadao.com.br/politica/orcamento-secreto-de-bolsonaro-entenda-o-passo-a-passo-do-esquema/",
       "summary": "",
       "tags": [
-        "STF"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
-    },
-    {
-      "id": "c52fadb46c46",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar quer levar ao plenário do STF caso de precatórios de Vorcaro",
-      "link": "https://www.poder360.com.br/poder-justica/gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro/",
-      "summary": "Ação foi citada em mensagens de advogada que atuou pelo Master vinculada a grupo chamado \"Turma do KN\"; decano quer uniformizar tese",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
+        "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 00:55:36 +0000"
+      "score": 83,
+      "publishedRaw": "Sun, 09 May 2021 02:50:00 +0000"
     },
     {
       "id": "d8044ec75330",
@@ -567,46 +487,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 15:51:04 -0000"
     },
     {
-      "id": "5794c571189a",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Chatbots de IA descumprem regra do TSE e ranqueiam candidatos a presidente",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/chatbots-de-ia-descumprem-regra-do-tse-e-ranqueiam-candidatos-a-presidente.shtml",
-      "summary": "Chatbots de inteligência artificial (IA) descumpriram a regra do TSE (Tribunal Superior Eleitoral) e deram notas para propostas dos candidatos à Presidência, criando um ranking entre eles. É o que mostra teste feito pela Folha com cinco ferramentas que utilizam a IA generativa (veja perguntas abaixo).\nLeia mais (09/22/2026 - 23h00)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "22 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "fabaf09f0886",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Violência política contra mulheres cresce 380% em relação a 2024, diz TSE",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/violencia-politica-contra-mulheres-cresce-380-em-relacao-a-2024-diz-tse/",
-      "summary": "Dados coletados em 2026 já representam um recorde de autuações por violência política contra mulheres; ao todo foram autuados 149 processos por assediar mulheres em infrações previstas pelo Código Eleitoral até agosto",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 23 Sep 2026 06:30:34 +0000"
-    },
-    {
       "id": "002a84876d98",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -675,41 +555,58 @@
       "publishedRaw": ""
     },
     {
-      "id": "6472e2f19c44",
+      "id": "dc7dcdcda133",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
+      "summary": "Ministros do STF Alexandre de Moraes e André mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\"  depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que tem adotado para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decidida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
+    },
+    {
+      "id": "086e7e1b05aa",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle Bolsonaro é internada em hospital para tratamento de enxaqueca",
-      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-e-internada-em-hospital-para-tratamento-de-enxaqueca-nprp/",
-      "summary": "Candidata ao Senado e ex-primeira-dama não tem previsão de alta",
+      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
+      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
+      "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
+    },
+    {
+      "id": "c52fadb46c46",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar quer levar ao plenário do STF caso de precatórios de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro/",
+      "summary": "Ação foi citada em mensagens de advogada que atuou pelo Master vinculada a grupo chamado \"Turma do KN\"; decano quer uniformizar tese",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
         "G1 - Política"
       ],
       "score": 80,
-      "publishedRaw": "Tue, 22 Sep 2026 21:08:29 +0000"
-    },
-    {
-      "id": "f53d8c271fb9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Orçamento secreto de Bolsonaro: entenda o passo a passo do esquema",
-      "link": "https://www.estadao.com.br/politica/orcamento-secreto-de-bolsonaro-entenda-o-passo-a-passo-do-esquema/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Sun, 09 May 2021 02:50:00 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 00:55:36 +0000"
     },
     {
       "id": "d416166adfe3",
@@ -746,6 +643,25 @@
       ],
       "score": 77,
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
+    },
+    {
+      "id": "fabaf09f0886",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Violência política contra mulheres cresce 380% em relação a 2024, diz TSE",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/violencia-politica-contra-mulheres-cresce-380-em-relacao-a-2024-diz-tse/",
+      "summary": "Dados coletados em 2026 já representam um recorde de autuações por violência política contra mulheres; ao todo foram autuados 149 processos por assediar mulheres em infrações previstas pelo Código Eleitoral até agosto",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 23 Sep 2026 06:30:34 +0000"
     },
     {
       "id": "d1baafdd3a5f",
@@ -793,36 +709,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Tue, 22 Sep 2026 01:10:13 +0000"
-    },
-    {
-      "id": "a8bcf19ab6e6",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Repulsa a bets e tigrinhos une direita e esquerda cristãs",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/repulsa-a-bets-e-tigrinhos-une-direita-e-esquerda-cristas.shtml",
-      "summary": "Tem um tema capaz de unir direita e esquerda cristãs: a oposição a apostas esportivas online (as bets) e cassinos digitais (jogo do tigrinho e companhia).\nLeia mais (09/22/2026 - 23h00)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "22 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "f4c515cedf0a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Macron chama guerra em Gaza de “espetáculo vergonhoso” em Assembleia da ONU",
-      "link": "https://www.cnnbrasil.com.br/internacional/macron-chama-guerra-em-gaza-de-espetaculo-vergonhoso-em-assembleia-da-onu/",
-      "summary": "Durante seu discurso na sede das Nações Unidas em Nova York, o presidente da França criticou a ineficácia dos esforços de paz na região, além de pedir o reforço da linha de defesa na Ucrânia e a reabertura do Estreito de Ormuz",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Wed, 23 Sep 2026 01:53:54 +0000"
     },
     {
       "id": "3037e911fe45",
