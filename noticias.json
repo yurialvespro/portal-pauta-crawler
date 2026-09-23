@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:47:36.038103+00:00",
+  "generated_at": "2026-09-23T13:17:29.670145+00:00",
   "items": [
     {
       "id": "dc3d07c9768b",
@@ -16,11 +16,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 11:45:38 -0000"
     },
     {
@@ -38,11 +40,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 22 Sep 2026 22:31:06 -0000"
     },
     {
@@ -61,11 +65,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 11:59:07 +0000"
     },
     {
@@ -83,11 +89,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -104,12 +112,14 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
@@ -126,11 +136,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
@@ -147,11 +158,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 90,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -168,6 +181,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -175,6 +189,26 @@
       ],
       "score": 89,
       "publishedRaw": "Wed, 23 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "0b4a04fa383b",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Safári, Flávio Bolsonaro e a fraude do INSS",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/09/safari-flavio-bolsonaro-e-a-fraude-do-inss.shtml",
+      "summary": "O safári é uma atividade de lazer, mas envolve riscos inerentes à proximidade com animais selvagens em seu habitat natural. A aproximação excessiva dos predadores pode causar problema. Em foto divulgada pelo jornal O Globo, o presidenciável Flávio Bolsonaro (PL-RJ) aparece numa savana na África do Sul, sorridente e relaxado, quando deveria se preocupar com o seu entorno.\nLeia mais (09/23/2026 - 10h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "23 Sep 2026 10:00:00 -0300"
     },
     {
       "id": "4b2acd370444",
@@ -190,11 +224,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Tue, 22 Sep 2026 20:25:46 +0000"
     },
     {
@@ -211,11 +246,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 86,
+      "score": 87,
       "publishedRaw": "Wed, 23 Sep 2026 11:59:57 +0000"
     },
     {
@@ -231,12 +267,55 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "d22584aacfb0",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros acordam força-tarefa para divulgar ações de Lula antes de eleição",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/ministros-acordam-forca-tarefa-para-divulgar-acoes-de-lula-antes-de-eleicao/",
+      "summary": "Campanha de Lula quer que ministros, fora do expediente, intensifiquem defesa do governo, com viagens e publicações",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 12:41:59 +0000"
+    },
+    {
+      "id": "bcc3dec0b535",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Advogado buscou interlocução e disse que Vorcaro presenteou Lula com whisky",
+      "link": "https://www.cnnbrasil.com.br/politica/advogado-buscou-interlocucao-e-disse-que-vorcaro-presenteou-lula-com-whisky/",
+      "summary": "Mensagens de Walfrido Warde constam no celular do ex-banqueiro; Planalto diz que presidente desconhece a articulação e nunca recebeu o presente citado",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 12:37:14 +0000"
     },
     {
       "id": "50d39db4e2c6",
@@ -251,11 +330,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 21:20:43 +0000"
     },
     {
@@ -271,11 +351,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 11:11:23 +0000"
     },
     {
@@ -291,11 +372,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -311,32 +393,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "48e245c47ed3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cury diz que Lula vai destruir Flávio no 2º turno e defende cooperação com FBI preservando soberania",
-      "link": "https://www.estadao.com.br/politica/eleicoes/cury-diz-que-lula-vai-destruir-flavio-no-2-turno-e-defende-cooperacao-com-fbi-preservando-soberania/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 22 Sep 2026 23:19:44 +0000"
     },
     {
       "id": "2c38fd447f04",
@@ -351,11 +414,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:53 +0000"
     },
     {
@@ -371,12 +435,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:21 +0000"
+    },
+    {
+      "id": "3270e9f67dbe",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tarcísio grava com Flávio e diz querer ver Bolsonaro subir a rampa do Planalto com o filho",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/tarcisio-grava-com-flavio-e-diz-querer-ver-bolsonaro-subir-a-rampa-do-planalto-com-o-filho.shtml",
+      "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou na manhã desta quarta-feira (23) que quer ver o ex-presidente Jair Bolsonaro (PL) subir a rampa do Planalto com seu filho, Flávio Bolsonaro (PL), candidato à Presidência.\nLeia mais (09/23/2026 - 09h46)",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "23 Sep 2026 09:46:00 -0300"
     },
     {
       "id": "d8044ec75330",
@@ -428,12 +512,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 22 Sep 2026 17:35:21 GMT"
     },
     {
@@ -450,11 +535,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 81,
       "publishedRaw": "Wed, 23 Sep 2026 03:30:00 -0000"
     },
     {
@@ -470,12 +556,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 81,
       "publishedRaw": ""
     },
     {
@@ -497,13 +584,30 @@
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
+      "id": "81ff251e1bf2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF domina campanha eleitoral e esvazia debate sobre proposta",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/23/crise-stf-campanha-eleitoral.ghtml",
+      "summary": "Crise no STF domina campanha e escanteia propostas\nA crise no Supremo Tribunal Federal tomou o centro da campanha eleitoral e esvaziou o espaço para a discussão de propostas. Sem um desfecho, o desgaste do tribunal se prolonga e interfere nas estratégias dos candidatos à Presidência.\nNa própria campanha do presidente Lula, a avaliação é que Flávio Bolsonaro consegue explorar politicamente esse cenário e obter dividendos eleitorais enquanto o Supremo permanecer como foco da disputa.\nA preocupação ajuda a explicar a defesa enfática, feita por uma ala da campanha, de que Lula se afaste cada vez mais da crise. Para esse grupo, o presidente precisa ir além das declarações de que todos devem ser investigados e cobrar a apuração de forma mais contundente.\nEmbora vários ministros sejam citados e tenham explicações a dar, a avaliação é que o desgaste está muito concentrado na figura de Alexandre de Moraes.\nAgora no g1\nA crise também atravessa uma estratégia que a campanha de Lula vinha tentando consolidar: fazer da soberania o assunto central da eleição.\nA participação do presidente na Assembleia Geral da ONU, em Nova York, já estava prevista na agenda. A campanha, porém, busca transformar o evento em um ativo eleitoral, aproveitando o discurso e a exposição internacional para reforçar a imagem de Lula como estadista.\nO material produzido durante a viagem pode abastecer a campanha e dar destaque a essa mensagem. No retorno ao Brasil, no entanto, o presidente volta a se deparar com uma crise no Supremo que continua sem solução e ocupa o debate político.\nDo outro lado, Flávio Bolsonaro tenta manter o desgaste do tribunal no centro da campanha. A estratégia busca atingir ministros vistos como mais próximos de Lula, entre eles Moraes.\nIsso ocorre apesar de o próprio Flávio ainda não ter esclarecido o pedido de dinheiro feito a Daniel Vorcaro para o que seria a produção de um filme sobre o pai, Jair Bolsonaro. Moraes também tem explicações a dar sobre contratos e relações com Vorcaro.\nA permanência dessas questões sem esclarecimento alimenta a disputa eleitoral. Para a campanha de Lula, o risco é que o adversário continue capitalizando o desgaste do Supremo enquanto o presidente encontra dificuldade para impor os temas que gostaria de discutir.\nO adiamento de uma solução para a crise, portanto, não fica restrito ao tribunal: repercute na eleição e mantém as propostas para o país em segundo plano.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 75,
+      "publishedRaw": "Wed, 23 Sep 2026 12:48:53 -0000"
+    },
+    {
       "id": "dc7dcdcda133",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
       "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
-      "summary": "Ministros do STF Alexandre de Moraes e André Mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\" depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que adotou para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos, e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
+      "summary": "STF vê novo impasse na crise entre ministros\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\" depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nMinistros do STF Alexandre de Moraes e André Mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que adotou para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos, e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
       "tags": [
         "STF"
       ],
@@ -531,23 +635,6 @@
       "publishedRaw": "Tue, 22 Sep 2026 19:47:32 +0000"
     },
     {
-      "id": "086e7e1b05aa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
-      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
-    },
-    {
       "id": "d1baafdd3a5f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -569,15 +656,15 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Milei, Zelensky e presidentes do Irã, da Venezuela e do Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA",
+      "title": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Milei, Zelensky e presidentes do Irã, da Venezuela e do Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU inicia nesta terça-feira (22) sua 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial.. Neste ano, o secretário-geral da entidade fez um discurso em tom de despedida, admitiu que há uma crise na ONU e disse que IA é ameaça para a humanidade. 1º a discursar, Lula defendeu a soberania nacional e afirmou que \"O Brasil não cabe no quintal de ninguém\". O presidente afirmou ainda que não vai \"terceirizar combate ao crime organizado\".. Na sequência, Trump afirmou que considera 'aniquilar o Irã' e prometeu extinguir 'interferência estrangeira' no Hemisfério Ocidental, pela via militar se preciso.. SANDRA COHEN: entenda a crise de credibilidade sem precedentes enfrentada pela ONU.",
+      "summary": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
       "tags": [
         "MBL"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Wed, 23 Sep 2026 12:27:04 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 12:52:00 -0000"
     },
     {
       "id": "3037e911fe45",
@@ -599,15 +686,15 @@
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Milei, Zelensky e presidentes do Irã, da Venezuela e do Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA",
+      "title": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Milei, Zelensky e presidentes do Irã, da Venezuela e do Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
+      "summary": "Milei, Zelensky e líderes de Irã, Venezuela e Equador discursam no 2º dia da Assembleia Geral da ONU; SIGA No 1º dia, Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas",
       "tags": [
         "MBL"
       ],
       "crossOutlets": [],
       "score": 50,
-      "publishedRaw": "Wed, 23 Sep 2026 12:44:27 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 12:52:00 -0000"
     }
   ]
 }
