@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:16:03.219974+00:00",
+  "generated_at": "2026-09-23T21:41:26.208622+00:00",
   "items": [
     {
       "id": "55c4249cc559",
@@ -71,25 +71,26 @@
       "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
-      "id": "15b12a3d3d23",
-      "source": "Estadão",
+      "id": "3db848d421e1",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE suspende perda de 76 minutos da propaganda de Elmano após associação de Ciro a Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-suspende-perda-de-76-minutos-da-propaganda-de-elmano-apos-associacao-de-ciro-a-bolsonaro-nprp/",
-      "summary": "",
+      "title": "Vox Radar: Lula na ONU tem 238 mil comentários, contra 1,58 mi do STF",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-lula-na-onu-tem-238-mil-comentarios-contra-158-mi-do-stf/",
+      "summary": "Direita bolsonarista respondeu por 54% das menções ao discurso do presidente, e esquerda lulista, por 41%",
       "tags": [
-        "Bolsonaro",
-        "TSE"
+        "STF",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
-      "publishedRaw": "Wed, 23 Sep 2026 17:25:19 +0000"
+      "score": 90,
+      "publishedRaw": "Wed, 23 Sep 2026 21:30:54 +0000"
     },
     {
       "id": "448abe0c9a74",
@@ -110,6 +111,46 @@
       ],
       "score": 87,
       "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
+    },
+    {
+      "id": "0188c0e9d8f3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "A 11 dias do 1º turno, Flávio Bolsonaro e aliados fazem ofensiva por voto útil",
+      "link": "https://www.estadao.com.br/politica/eleicoes/a-11-dias-do-1-turno-flavio-bolsonaro-e-aliados-fazem-ofensiva-por-voto-util/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 23 Sep 2026 15:56:15 +0000"
+    },
+    {
+      "id": "06f225c524e3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle Bolsonaro tem 26% para o Senado pelo DF; Leila, 19%; Erika e Bia, 15%",
+      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-tem-26-para-o-senado-pelo-df-leila-19-erika-e-bia-15/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Michelle Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 21:13:19 +0000"
     },
     {
       "id": "042ab86aa294",
@@ -192,13 +233,13 @@
       "publishedRaw": "Wed, 23 Sep 2026 19:50:00 -0000"
     },
     {
-      "id": "df33b2cde5fa",
+      "id": "a3addcef891d",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Quaest: Flávio tem 42% no 2º turno em SP; Lula, 36%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-42-no-2o-turno-em-sp-lula-36/",
-      "summary": "Foram ouvidas 1.800 pessoas entre os dias 19 e 22 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "title": "Quaest: Lula e Flávio empatam em 40% no segundo turno em MG",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-e-flavio-empatam-em-40-no-segundo-turno-em-mg/",
+      "summary": "Foram ouvidas 1.506 pessoas entre os dias 19 e 22 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
@@ -209,16 +250,16 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 21:07:48 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 21:27:39 +0000"
     },
     {
-      "id": "57fc6d0a5149",
+      "id": "86c21efa8d32",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Cury critica economia de Lula e diz que “ética” de Flávio é “insana”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/cury-critica-economia-de-lula-e-diz-que-etica-de-flavio-e-insana/",
-      "summary": "Presidenciável descartou alinhamento com Lula e Flávio Bolsonaro e rejeitou movimento por voto útil, em visita ao Instituto Baccarelli",
+      "title": "Assessor de Lula defende cooperação com EUA no combate a facções",
+      "link": "https://www.cnnbrasil.com.br/politica/assessor-de-lula-defende-cooperacao-com-eua-no-combate-a-faccoes/",
+      "summary": "O assessor especial da Presidência para política externa, Celso Amorim afirma que Brasil apoia combate ao narcotráfico com os EUA, mas rejeita adesão ao Escudo das Américas por risco de ingerência; a apuração é da âncora da CNN Débora Bergamasco",
       "tags": [
         "Lula"
       ],
@@ -229,7 +270,7 @@
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 20:30:31 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 21:18:20 +0000"
     },
     {
       "id": "ab3fb8f842b6",
@@ -272,6 +313,27 @@
       "publishedRaw": "Wed, 23 Sep 2026 20:51:15 +0000"
     },
     {
+      "id": "f86a63bd730e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vox Radar: Lula na ONU engaja esquerda; direta critica uso eleitoral",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-lula-na-onu-engaja-esquerda-direta-critica-uso-eleitoral/",
+      "summary": "Entre lulistas, 96% das menções ao discurso do presidente na Assembleia Geral da ONU foram positivas; entre bolsonaristas, 78% dos comentários foram negativos",
+      "tags": [
+        "esquerda",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 23 Sep 2026 21:30:47 +0000"
+    },
+    {
       "id": "002a84876d98",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -290,6 +352,60 @@
       ],
       "score": 81,
       "publishedRaw": "Tue, 22 Sep 2026 17:35:21 GMT"
+    },
+    {
+      "id": "228ec1181d05",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "STF conclui julgamento e  decide igualar licença maternidade de mães biológica e adotivas",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
+      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (23), por unanimidade, igualar os direitos de mães adotivas e biológicas em relação à licença maternidade. \n🗓O julgamento começou na semana passada e foi concluído nesta quarta.\nO ministro Alexandre de Moraes, relator da ação apresentada pela Procuradoria-Geral da República (PGR), foi acompanhado pelos ministros para fixar que  todas as mães, sejam biológicas ou adotantes, terão direito a licença maternidade de idêntico conteúdo: \nafastamento remunerado de 120 dias, prorrogável por mais 60 dias.\nO prazo será contado a partir do 9º mês de gestação, do parto, da adoção, da obtenção da guarda para fins de adoção ou da alta hospitalar do recém-nascido ou da mãe, o que ocorrer por último. \nAgora no g1\n➡️A regra valerá tanto para trabalhadoras contratadas pela Consolidação das Leis do Trabalho (CLT), que rege as relações de trabalho na iniciativa privada, quanto para servidoras públicas submetidas a regime estatutário.\nA decisão vale para novas licenças e para aquelas que já estão em andamento, não alcançando as que já terminaram.\nOutra decisão dentro do julgamento foi a de proibir descriminação na concessão da licença com base no vínculo de trabalho da mãe. \n“A meu ver, o regime jurídico, celetista, estatutário militar ou outro pode disciplinar inúmeros aspectos da  relação de  trabalho ou funcional, mas não pode alterar a intensidade da proteção constitucional devida à maternidade e à infância. A criança não necessita de mais ou menos cuidado conforme sua mãe seja empregada, servidora ou militar”, afirmou o ministro Kassio Nunes Marques.\nMoraes negou apenas um pedido da PGR, que previa o compartilhamento de licença parental entre os integrantes do núcleo familiar.\nMulher grávida.\nImagem ilustrativa/Divulgação\nDiscriminação \nAtualmente, mães biológicas que têm vínculo de trabalho estatutário na esfera federal têm 120 dias de licença remunerada. \nJá as mães adotantes têm 90 dias de licença se a criança tiver até um ano e 30 dias se a criança tiver mais de 1 ano. \n“Não há constitucionalidade nem em desfavor da maternidade adotiva nem tampouco uma segunda discriminação em relação à maternidade adotiva, o período de afastamento vai sendo graduado de acordo com a idade da criança adotada”, afirmou Moraes. \nA CLT já equipara mães biológicas e adotantes para fins de licença maternidade, enquanto algumas leis estatutárias ainda mantêm diferenças formais para adotantes. \nO STF vem entendendo que essa distinção viola a Constituição e a PGR pede a uniformização definitiva das regras para todas as categorias.\nPrecedentes \nEm 2023, o Supremo decidiu que não é possível discriminar o tempo de licença-maternidade concedida à mãe biológica e à mãe adotante e citou princípios da dignidade humana, da igualdade entre filhos biológicos e adotados, da doutrina da proteção integral e dos princípios da prioridade e do melhor interesse da criança. \nNo entanto, a PGR sustenta que a decisão serviu de base apenas para órgãos do Poder Judiciário e não alcançou a administração pública. Por isso, a decisão não suspendeu a eficácia das leis em contrário e a discriminação continuou ocorrendo. \nA ação pede a declaração de incompatibilidade das normas com a Constituição para, com isso, vincular tanto órgãos do Poder Judiciário, quanto a administração pública. \n“Entende-se, portanto, ser cabível esta ação direta, que se dirige não somente a afastar a aplicação de disposições normativas que, na atualidade, acabam por configurar um tratamento discriminatório quanto à concessão de licença parental, como também fixar no plano jurídico-objetivo a tese de que o sistema de proteção parental, há de se submeter a um regime jurídico uniforme, independentemente do vínculo laboral da categoria que dele se beneficie”, argumenta a PGR.\nNa semana passada, Moraes já havia votado e disse que “se todos são filhos, a mãe é mãe de todos, dos filhos naturais, biológicos, adotivos, então a licença maternidade deve ser igual para todos”. \nOs ministros Cármen Lúcia, Flávio Dino e Dias Toffoli seguiram o entendimento. \nNesta quarta, os ministros Cristiano Zanin, André Mendonça, Kassio Nunes Marques, Luiz Fux, Gilmar Mendes e o presidente, Edson Fachin, seguiram o entendimento. \n“Mãe é só uma e todo filho é único para nós. O filho é filho e pronto e essa desigualação poderia se constituir da pessoa se sentir distinta também, quando a pessoa contasse pra ela e tudo mais”, afirmou a ministra Cármen Lúcia.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 18:20:31 -0000"
+    },
+    {
+      "id": "9da7aa8c08ca",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin traça estratégia de redução de danos no STF no pós-eleição e plano inclui ação de Cármen",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/fachin-traca-estrategia-de-reducao-de-danos-no-stf-no-pos-eleicao-e-plano-inclui-acao-de-carmen/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 21:00:00 +0000"
+    },
+    {
+      "id": "25b08e498ec6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mensagens pregando insurreição violenta disparam em chats extremistas do Telegram após crise no STF",
+      "link": "https://www.estadao.com.br/politica/mensagens-pregando-insurreicao-violenta-disparam-em-chats-extremistas-do-telegram-apos-crise-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 20:19:01 +0000"
     },
     {
       "id": "5c84099a7f5b",
@@ -313,23 +429,6 @@
       "publishedRaw": ""
     },
     {
-      "id": "225dca4829e6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entidades científicas alertam para interferência dos EUA nas eleições",
-      "link": "https://www.poder360.com.br/poder-internacional/entidades-cientificas-alertam-para-interferencia-dos-eua-nas-eleicoes/",
-      "summary": "ABC e SBPC citam possíveis pressões políticas e econômicas e uso de plataformas digitais para influenciar o processo eleitoral",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Economia"
-      ],
-      "score": 74,
-      "publishedRaw": "Wed, 23 Sep 2026 20:42:30 +0000"
-    },
-    {
       "id": "99bc183cdeb7",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -341,73 +440,27 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Poder360"
+        "BBC Brasil"
       ],
       "score": 72,
       "publishedRaw": "Wed, 23 Sep 2026 12:00:00 -0000"
     },
     {
-      "id": "25b08e498ec6",
-      "source": "Estadão",
+      "id": "6d31b867be1d",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mensagens pregando insurreição violenta disparam em chats extremistas do Telegram após crise no STF",
-      "link": "https://www.estadao.com.br/politica/mensagens-pregando-insurreicao-violenta-disparam-em-chats-extremistas-do-telegram-apos-crise-no-stf/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
       "tags": [
-        "STF"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 23 Sep 2026 20:19:01 +0000"
-    },
-    {
-      "id": "a6ca12243484",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ficha limpa vale para condenações antigas de homicídio e crime sexual, determina STF",
-      "link": "https://www.estadao.com.br/politica/ficha-limpa-vale-para-condenacoes-antigas-de-homicidio-e-crime-sexual-determina-stf-nprp/",
-      "summary": "Em condenações anteriores a 2010, inelegibilidade continua a valer; decisão do STF foi feita em caso de candidato a vereador condenado por homicídio",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 23 Sep 2026 18:58:06 +0000"
-    },
-    {
-      "id": "415d94adf3aa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ação pede que STF libere internet móvel no País 72 horas antes da eleição",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/acao-pede-que-stf-libere-internet-no-pais-72-horas-antes-da-eleicao/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Wed, 23 Sep 2026 18:19:06 +0000"
-    },
-    {
-      "id": "ddf045b5dc34",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE marca para quinta julgamento sobre candidatura de Arruda ao GDF",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-marca-para-quinta-julgamento-sobre-candidatura-de-arruda-ao-gdf/",
-      "summary": "Relatado por Dias Toffoli, recurso contesta decisão que indeferiu registro do ex-governador; Ministério Público defende manutenção da inelegibilidade",
-      "tags": [
-        "candidatura",
-        "TSE"
+        "eleições"
       ],
       "crossOutlets": [
-        "Estadão"
+        "G1 - Economia"
       ],
-      "score": 70,
-      "publishedRaw": "Wed, 23 Sep 2026 20:41:05 +0000"
+      "score": 72,
+      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
       "id": "d0a7bb4a6be9",
