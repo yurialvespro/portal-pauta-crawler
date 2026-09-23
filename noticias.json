@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:44:16.014992+00:00",
+  "generated_at": "2026-09-23T17:15:39.301450+00:00",
   "items": [
     {
       "id": "407ad5e60eb1",
@@ -17,6 +17,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -41,6 +42,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -49,30 +51,6 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 11:45:38 -0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
       "id": "da57dccb8896",
@@ -89,12 +67,38 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 13:10:28 +0000"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
       "id": "b407f78c3cfe",
@@ -113,6 +117,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -136,11 +141,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
     },
     {
@@ -157,11 +163,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "23 Sep 2026 13:00:00 -0300"
     },
     {
@@ -178,11 +185,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 23 Sep 2026 16:13:14 +0000"
     },
     {
@@ -199,11 +207,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 23 Sep 2026 15:56:15 +0000"
     },
     {
@@ -220,12 +229,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Wed, 23 Sep 2026 15:37:27 +0000"
+    },
+    {
+      "id": "448abe0c9a74",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
+      "summary": "Dentro da campanha do candidato do PL, Flávio Bolsonaro, a estratégia é terminar o primeiro turno à frente do presidente Lula, criando um sentimento de favoritismo capaz de atrair a maior parte dos eleitores dos demais candidatos de direita, como Ronaldo Caiado (PSD), Romeu Zema (Novo), Augusto Cury (Avante) e Renan Santos (Missão). \nA equipe de Flávio espera, inclusive, algo que faltou no primeiro turno, o apoio oficial dos partidos do Centrão.\nOs mais otimistas na campanha de Flávio Bolsonaro falam até na possibilidade de vencer a eleição já no primeiro turno, com a criação de uma onda a favor do que chamam de \"voto útil\" nesta reta final. \nJogam contra essa estratégia as últimas iniciativas do presidente Lula, que já anunciou um reajuste no benefício do Bolsa Família e vai assinar medida provisória de combate às bets no Brasil, o que tem amplo apoio entre os brasileiros.\nQuaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%\nSegundo pesquisa Datafolha, o candidato do PL tem o potencial de atrair, num segundo turno, 43% das intenções de voto de eleitores de Romeu Zema, Renan Santos, Ronaldo Caiado e Augusto Cury. \nJá Lula atrairia 30% destes eleitores dos candidatos da direita. Flávio Bolsonaro se dá melhor entre eleitores de Zema e Renan Santos, com empate técnico no eleitorado de Ronaldo Caiado e Augusto Cury.\nNa campanha do presidente Lula, todo esforço será feito para que Lula termine o primeiro turno à frente de Flávio Bolsonaro. \nSegundo aliados de Lula, a MP sobre bets vai atingir principalmente o eleitorado feminino, garantindo um apoio ainda maior neste segmento do eleitorado, considerado crucial para a definição da eleição deste ano. O petista tem vantagem entre as mulheres, que são as mais críticas aos jogos de apostas online.\n\"As pesquisas mostram hoje um forte sentimento contrário às bets. Lula vai trabalhar com esse sentimento a seu favor. Isso vai pesar e muito nesta reta final\", diz um interlocutor do presidente da República, confiante que o petista terminará o primeiro turno à frente de Flávio Bolsonaro.\nSegundo esse auxiliar, sair na liderança no segundo turno vai segurar o Centrão e também influenciar até na atuação de aliados de Flávio Bolsonaro no segundo turno. \nA avaliação é que, em São Paulo, por exemplo, o governador Tarcísio de Freitas (Republicanos) ganhe no primeiro turno e não faça grande esforço em favor do candidato do PL na fase final. Afinal, Tarcísio deve ser candidato à Presidência da República em 2030 e não gostaria de ter Flávio Bolsonaro no Palácio do Planalto no próximo ano. \nFlávio Bolsonaro e Lula durante a propaganda eleitoral nesta terça-feira (22).\nReprodução",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 91,
+      "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
     },
     {
       "id": "aff52eeb696f",
@@ -251,6 +282,28 @@
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "690df76f2099",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle Bolsonaro recebe alta após internação por crise de enxaqueca",
+      "link": "https://www.cnnbrasil.com.br/politica/michelle-bolsonaro-recebe-alta-apos-internacao-por-crise-de-enxaqueca/",
+      "summary": "Ex-primeira-dama estava internada desde terça-feira (22) e passou por bloqueio anestésico para neutralizar crise",
+      "tags": [
+        "Bolsonaro",
+        "Michelle Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 23 Sep 2026 16:57:31 +0000"
+    },
+    {
       "id": "b1cbc1416e7e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -264,6 +317,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -272,26 +326,6 @@
       ],
       "score": 89,
       "publishedRaw": "Wed, 23 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "448abe0c9a74",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
-      "summary": "Dentro da campanha do candidato do PL, Flávio Bolsonaro, a estratégia é terminar o primeiro turno à frente do presidente Lula, criando um sentimento de favoritismo capaz de atrair a maior parte dos eleitores dos demais candidatos de direita, como Ronaldo Caiado (PSD), Romeu Zema (Novo), Augusto Cury (Avante) e Renan Santos (Missão). \nA equipe de Flávio espera, inclusive, algo que faltou no primeiro turno, o apoio oficial dos partidos do Centrão.\nOs mais otimistas na campanha de Flávio Bolsonaro falam até na possibilidade de vencer a eleição já no primeiro turno, com a criação de uma onda a favor do que chamam de \"voto útil\" nesta reta final. \nJogam contra essa estratégia as últimas iniciativas do presidente Lula, que já anunciou um reajuste no benefício do Bolsa Família e vai assinar medida provisória de combate às bets no Brasil, o que tem amplo apoio entre os brasileiros.\nQuaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%\nSegundo pesquisa Datafolha, o candidato do PL tem o potencial de atrair, num segundo turno, 43% das intenções de voto de eleitores de Romeu Zema, Renan Santos, Ronaldo Caiado e Augusto Cury. \nJá Lula atrairia 30% destes eleitores dos candidatos da direita. Flávio Bolsonaro se dá melhor entre eleitores de Zema e Renan Santos, com empate técnico no eleitorado de Ronaldo Caiado e Augusto Cury.\nNa campanha do presidente Lula, todo esforço será feito para que Lula termine o primeiro turno à frente de Flávio Bolsonaro. \nSegundo aliados de Lula, a MP sobre bets vai atingir principalmente o eleitorado feminino, garantindo um apoio ainda maior neste segmento do eleitorado, considerado crucial para a definição da eleição deste ano. O petista tem vantagem entre as mulheres, que são as mais críticas aos jogos de apostas online.\n\"As pesquisas mostram hoje um forte sentimento contrário às bets. Lula vai trabalhar com esse sentimento a seu favor. Isso vai pesar e muito nesta reta final\", diz um interlocutor do presidente da República, confiante que o petista terminará o primeiro turno à frente de Flávio Bolsonaro.\nSegundo esse auxiliar, sair na liderança no segundo turno vai segurar o Centrão e também influenciar até na atuação de aliados de Flávio Bolsonaro no segundo turno. \nA avaliação é que, em São Paulo, por exemplo, o governador Tarcísio de Freitas (Republicanos) ganhe no primeiro turno e não faça grande esforço em favor do candidato do PL na fase final. Afinal, Tarcísio deve ser candidato à Presidência da República em 2030 e não gostaria de ter Flávio Bolsonaro no Palácio do Planalto no próximo ano. \nFlávio Bolsonaro e Lula durante a propaganda eleitoral nesta terça-feira (22).\nReprodução",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
     },
     {
       "id": "563761cb817c",
@@ -306,6 +340,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -327,6 +362,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -334,6 +370,28 @@
       ],
       "score": 85,
       "publishedRaw": "23 Sep 2026 13:02:00 -0300"
+    },
+    {
+      "id": "67f3d0ee405a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas: Lula empata com Flávio, Caiado, Zema e Renan no 2º turno no RS",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atlas-lula-empata-com-flavio-caiado-zema-e-renan-no-2o-turno-no-rs/",
+      "summary": "Foram realizadas 1.819 entrevistas online, realizadas entre os dias 15 e 20 de setembro, e tem margem de erro de 2 pontos percentuais para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 23 Sep 2026 16:39:31 +0000"
     },
     {
       "id": "a8d3a6907f1d",
@@ -348,6 +406,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -369,6 +428,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -390,6 +450,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -411,6 +472,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -418,101 +480,6 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 16:12:35 +0000"
-    },
-    {
-      "id": "81ff251e1bf2",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF domina campanha eleitoral e esvazia debate sobre proposta",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/23/crise-stf-campanha-eleitoral.ghtml",
-      "summary": "Crise no STF domina campanha e escanteia propostas\nA crise no Supremo Tribunal Federal tomou o centro da campanha eleitoral e esvaziou o espaço para a discussão de propostas. Sem um desfecho, o desgaste do tribunal se prolonga e interfere nas estratégias dos candidatos à Presidência.\nNa própria campanha do presidente Lula, a avaliação é que Flávio Bolsonaro consegue explorar politicamente esse cenário e obter dividendos eleitorais enquanto o Supremo permanecer como foco da disputa.\nA preocupação ajuda a explicar a defesa enfática, feita por uma ala da campanha, de que Lula se afaste cada vez mais da crise. Para esse grupo, o presidente precisa ir além das declarações de que todos devem ser investigados e cobrar a apuração de forma mais contundente.\nEmbora vários ministros sejam citados e tenham explicações a dar, a avaliação é que o desgaste está muito concentrado na figura de Alexandre de Moraes.\nA crise também atravessa uma estratégia que a campanha de Lula vinha tentando consolidar: fazer da soberania o assunto central da eleição.\nA participação do presidente na Assembleia Geral da ONU, em Nova York, já estava prevista na agenda. A campanha, porém, busca transformar o evento em um ativo eleitoral, aproveitando o discurso e a exposição internacional para reforçar a imagem de Lula como estadista.\nO material produzido durante a viagem pode abastecer a campanha e dar destaque a essa mensagem. No retorno ao Brasil, no entanto, o presidente volta a se deparar com uma crise no Supremo que continua sem solução e ocupa o debate político.\nDo outro lado, Flávio Bolsonaro tenta manter o desgaste do tribunal no centro da campanha. A estratégia busca atingir ministros vistos como mais próximos de Lula, entre eles Moraes.\nIsso ocorre apesar de o próprio Flávio ainda não ter esclarecido o pedido de dinheiro feito a Daniel Vorcaro para o que seria a produção de um filme sobre o pai, Jair Bolsonaro. Moraes também tem explicações a dar sobre contratos e relações com Vorcaro.\nA permanência dessas questões sem esclarecimento alimenta a disputa eleitoral. Para a campanha de Lula, o risco é que o adversário continue capitalizando o desgaste do Supremo enquanto o presidente encontra dificuldade para impor os temas que gostaria de discutir.\nO adiamento de uma solução para a crise, portanto, não fica restrito ao tribunal: repercute na eleição e mantém as propostas para o país em segundo plano.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 12:48:53 -0000"
-    },
-    {
-      "id": "dc7dcdcda133",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros veem pedido de investigação de Mendonça contra Moraes como mais um impasse para crise no STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/ministros-veem-pedido-de-investigacao-de-mendonca-contra-moraes-como-mais-um-impasse-para-crise-no-stf.ghtml",
-      "summary": "STF vê novo impasse na crise entre ministros\nMinistros do Supremo Tribunal Federal  (STF) avaliam de forma reservada que o novo pedido de André Mendonça para que Alexandre de Moraes seja investigado por abuso de poder indica que ainda não há disposição para nenhuma composição que possa levar à saída da crise institucional que arrasta a Corte há mais de 20 dias. \nNos bastidores, a ala alinhada a Moraes aponta que Mendonça tentou \"dar o troco\" depois que o colega usou relatórios de inteligência para apontar irregularidades na condução do relator nos casos Master e INSS. \nEm outra frente, ministros que apoiam Mendonça afirmam que ele conseguiu expor o que vem defendendo de forma pública, que é a instrumentalização da Polícia Federal (PF). \nMinistros do STF Alexandre de Moraes e André Mendonça\nCarlos Moura e Nelson Jr. / SCO / STF\nLEIA TAMBÉM:\nMinistros do STF avaliam que crise na Corte pode afetar proposta de código de ética e alterar forças no caso Master\nJulgamento sobre Moraes deixa questões em aberto no STF; entenda o que ainda precisa ser definido\nTentativa frustrada de conciliação\nO consenso entre as duas alas é de que o ofício de Mendonça pressionou ainda mais o presidente do STF, Edson Fachin, na crise, e colocou em evidência o estilo que adotou para conduzir a tensão na Corte, apostando em conversas individuais e sem articular nos bastidores.\nMinistros que conversaram com Fachin nos últimos dias dizem que recomendaram ao presidente do STF que deixe para depois da eleição uma tentativa de construir alguma medida de conciliação. \nCom a eleição encerrada e sem as incertezas em torno do futuro comando do país, a Corte precisará necessariamente lidar com o cenário que estiver colocado. \nCaminhos possíveis \nO caminho que vem sendo apontado seria não só avançar com alguma apuração contra Moraes e Mendonça, como também com um pedido de verificação contra todos os que foram mencionados direta ou indiretamente por possíveis conexões com Vorcaro. \nNão há prazo para que Fachin decida sobre o pedido de investigação de Moraes feito por Mendonça. \nNo dia 15 de setembro, o plenário do STF começou a discutir a abertura ou não de uma apuração contra Moraes diante do relatório da PF que o apontou como interlocutor de 52 mensagens de Daniel Vorcaro. \nA sessão foi marcada por bate-bocas, troca de acusações e desmentidos, e acabou interrompida após um pedido do ministro Flávio Dino para ter mais prazo para analisar o caso. \nSolução pode ficar para o ano que vem \nO prazo do pedido de vista acaba em dezembro, na reta final dos trabalhos do STF neste ano, o que poderia jogar uma definição do caso para o ano que vem. \nO pedido de investigação de Mendonça estava previsto para ser analisado nesta quarta (23), mas como há uma discussão em aberto se os casos dos dois ministros devem ser analisados em conjunto, o julgamento foi suspenso e será remarcado. \nEm outra frente, na esteira do caso Master, o ministro Flávio Dino pediu a Fachin que seja investigada uma possível relação entre o Banco Master, o Instituto Iter — ligado ao ministro André Mendonça —, e contratos firmados pelo município de São Paulo para o funcionamento de cemitérios privados no estado. \nEsse caso também não tem previsão de julgamento.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 02:00:00 -0000"
-    },
-    {
-      "id": "6f289ad838cb",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Crise no STF ganha fôlego como arma eleitoral",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-crise-no-stf-ganha-folego-como-arma-eleitoral/",
-      "summary": "Ao Live CNN, Clarissa Oliveira aponta que disputas internas na Corte alimentam o cenário político e ainda podem influenciar as eleições",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 16:03:42 +0000"
-    },
-    {
-      "id": "5e52eb0ac2bf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Hora de votar em congressistas capazes de reformar o STF",
-      "link": "https://www.estadao.com.br/politica/raquel-landim/hora-de-votar-em-congressistas-capazes-de-reformar-o-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 17 Sep 2026 22:00:00 +0000"
-    },
-    {
-      "id": "460ab6c692f9",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: STF vota para unificar regras e prazos de licenças parentais",
-      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-vota-para-unificar-regras-e-prazos-de-licencas-parentais/",
-      "summary": "Até o momento, há 4 votos pela inconstitucionalidade das regras que fazem distinção entre a origem biológica ou adotiva do filho",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 23 Sep 2026 16:00:19 +0000"
     },
     {
       "id": "d8044ec75330",
@@ -545,6 +512,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -568,6 +536,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -589,6 +558,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -617,6 +587,40 @@
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
+      "id": "81ff251e1bf2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF domina campanha eleitoral e esvazia debate sobre proposta",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/23/crise-stf-campanha-eleitoral.ghtml",
+      "summary": "Crise no STF domina campanha e escanteia propostas\nA crise no Supremo Tribunal Federal tomou o centro da campanha eleitoral e esvaziou o espaço para a discussão de propostas. Sem um desfecho, o desgaste do tribunal se prolonga e interfere nas estratégias dos candidatos à Presidência.\nNa própria campanha do presidente Lula, a avaliação é que Flávio Bolsonaro consegue explorar politicamente esse cenário e obter dividendos eleitorais enquanto o Supremo permanecer como foco da disputa.\nA preocupação ajuda a explicar a defesa enfática, feita por uma ala da campanha, de que Lula se afaste cada vez mais da crise. Para esse grupo, o presidente precisa ir além das declarações de que todos devem ser investigados e cobrar a apuração de forma mais contundente.\nEmbora vários ministros sejam citados e tenham explicações a dar, a avaliação é que o desgaste está muito concentrado na figura de Alexandre de Moraes.\nA crise também atravessa uma estratégia que a campanha de Lula vinha tentando consolidar: fazer da soberania o assunto central da eleição.\nA participação do presidente na Assembleia Geral da ONU, em Nova York, já estava prevista na agenda. A campanha, porém, busca transformar o evento em um ativo eleitoral, aproveitando o discurso e a exposição internacional para reforçar a imagem de Lula como estadista.\nO material produzido durante a viagem pode abastecer a campanha e dar destaque a essa mensagem. No retorno ao Brasil, no entanto, o presidente volta a se deparar com uma crise no Supremo que continua sem solução e ocupa o debate político.\nDo outro lado, Flávio Bolsonaro tenta manter o desgaste do tribunal no centro da campanha. A estratégia busca atingir ministros vistos como mais próximos de Lula, entre eles Moraes.\nIsso ocorre apesar de o próprio Flávio ainda não ter esclarecido o pedido de dinheiro feito a Daniel Vorcaro para o que seria a produção de um filme sobre o pai, Jair Bolsonaro. Moraes também tem explicações a dar sobre contratos e relações com Vorcaro.\nA permanência dessas questões sem esclarecimento alimenta a disputa eleitoral. Para a campanha de Lula, o risco é que o adversário continue capitalizando o desgaste do Supremo enquanto o presidente encontra dificuldade para impor os temas que gostaria de discutir.\nO adiamento de uma solução para a crise, portanto, não fica restrito ao tribunal: repercute na eleição e mantém as propostas para o país em segundo plano.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 75,
+      "publishedRaw": "Wed, 23 Sep 2026 12:48:53 -0000"
+    },
+    {
+      "id": "5e52eb0ac2bf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Hora de votar em congressistas capazes de reformar o STF",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/hora-de-votar-em-congressistas-capazes-de-reformar-o-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Thu, 17 Sep 2026 22:00:00 +0000"
+    },
+    {
       "id": "d1baafdd3a5f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -632,6 +636,21 @@
       ],
       "score": 74,
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
+    },
+    {
+      "id": "d0784a38c03a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Urnas eletrônicas que serão usadas em Brasília começam a ser lacradas",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/urnas-eletronicas-que-serao-usadas-em-brasilia-comecam-a-ser-lacradas/",
+      "summary": "Foram preparados 1.404 aparelhos, sendo 1.282 destinadas às seções eleitorais e 122 contingência",
+      "tags": [
+        "urnas"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Wed, 23 Sep 2026 16:43:33 +0000"
     },
     {
       "id": "fb5fd5043104",
@@ -700,7 +719,7 @@
       "category": "Internacional",
       "title": "Milei chama ONU de 'inútil' e cita Malvinas como exemplo em discurso na Assembleia Geral",
       "link": "https://g1.globo.com/mundo/noticia/2026/09/23/milei-faz-discurso-na-assembleia-geral-da-onu.ghtml",
-      "summary": "Milei chama ONU de 'inútil' em discurso na Assembleia Geral\nO presidente da Argentina, Javier Milei, fez fortes críticas à Organização das Nações Unidas (ONU) em discurso nesta quarta-feira (23) na Assembleia Geral da ONU. \nUsando o principal palco da ONU, Milei chamou a organização de \"inútil\", criticou represálias da organização a\" Israel pelos ataques na Faixa de Gaza, e acusou a ONU de inação diante da disputa entre Argentina e Reino Unido pelas ilhas Malvinas.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\" (A ONU) se transformou em uma organização inútil que só serve para alimentar uma casta de parasitas arrogantes, disfarçados de burocratas bem-intencionados\", afirmou. \"Quem deveria garantir a segurança coletiva e os direitos humanos brigariam na área e em seu lugar, permitiu o caos, a violência e o terrorismo internacional\". \nMilei trouxe discurso impresso para a Assembleia da ONU\nWesley Bischoff/g1\nO argentino, que retirou seu país da Organização Mundial da Saúde (OMS), também acusou a organização de ter promovido, durante a pandemia, um \"experimento global de controle social disfarçado de ciência\", ao recomendar quarentena.  \nE disse que a disputa pelas Malvinas são um exemplo de inação da ONU, que já aprovou resolução sobre a disputa. A comitiva do Reino Unido não reagiu à fala. \n\"Malvina não é apenas uma pergunta entre a Argentina e o Reino Unido. também plantei uma pergunta sobre a capacidade desta organização para fazer valer suas próprias resoluções\", discursou o argentino. \"De que adianta uma resolução se, durante décadas, a contraparte pode agir em sentido contrário?\"\n👉 Uma resolução da ONU é uma diretriz manifestada pela maioria dos países membros da organização sobre algum conflito no mundo. Para que entre em vigor, no entanto, é preciso que o país alvo da resolução se comprometa a cumpri-la, já que a ONU é um acordo comum entre seus 193 membros. \nA comitiva do Reino Unido não reagiu à fala e seguiu no plenário (veja no vídeo abaixo) — é praxe, na Assembleia Geral da ONU, que comitivas de países com posições contrárias às do país do discursante se levantem durante o discurso do rival, em um ato de condenação diplomática. \nComitiva do Reino Unido não reagiu às declarações de Milei sobre as Ilhas Malvinas\nDiante do que chamou de inação, Milei afirmou que seu governo \"vai tomar providências\" sobre a disputa. \n\"Hoje venho dizer a vocês que a Argentina não vai se sentar e esperar que a ONU e a comunidade internacional estejam à altura de seu próprio mandato. Vamos tomar providências nesse assunto\", afirmou. \nIgnorando o teleprompter, Milei leu um discurso impresso no qual se disse também alinhado \"sem ambiguidade com o Ocidente\", citando EUA e Israel. \n\"Fizemos também uma escolha geopolítica. Nos alinhamos sem ambiguidades ao Ocidente. Nos alinhamos com os Estados Unidos e com Israel, países com os quais compartilhamos uma profunda afinidade de valores e uma complementaridade estratégica\", disse.",
+      "summary": "Milei chama ONU de 'inútil' em discurso na Assembleia Geral\nO presidente da Argentina, Javier Milei, fez fortes críticas à Organização das Nações Unidas (ONU) em discurso nesta quarta-feira (23) na Assembleia Geral da ONU. \nUsando o principal palco da ONU, Milei chamou a organização de \"inútil\", criticou represálias da organização a Israel pelos ataques na Faixa de Gaza, e acusou a ONU de inação diante da disputa entre Argentina e Reino Unido pelas ilhas Malvinas.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\" (A ONU) se transformou em uma organização inútil que só serve para alimentar uma casta de parasitas arrogantes, disfarçados de burocratas bem-intencionados\", afirmou. \"Quem deveria garantir a segurança coletiva e os direitos humanos (...), em seu lugar, permitiu o caos, a violência e o terrorismo internacional\". \nMilei trouxe discurso impresso para a Assembleia da ONU\nWesley Bischoff/g1\nO argentino, que retirou seu país da Organização Mundial da Saúde (OMS), também acusou a organização de ter promovido, durante a pandemia, um \"experimento global de controle social disfarçado de ciência\", ao recomendar quarentena.  \nE disse que a disputa pelas Malvinas é um exemplo de inação da ONU, que já aprovou resolução sobre a disputa. A comitiva do Reino Unido não reagiu à fala. \n\"As Malvinas não são apenas uma questão entre a Argentina e o Reino Unido, mas também coloca a questão sobre a capacidade desta organização de fazer valer suas próprias resoluções\", discursou o argentino. \"De que adianta uma resolução se, durante décadas, a contraparte pode agir em sentido contrário?\"\n👉 Uma resolução da ONU é uma diretriz manifestada pela maioria dos países membros da organização sobre algum conflito no mundo. Para que entre em vigor, no entanto, é preciso que o país alvo da resolução se comprometa a cumpri-la, já que a ONU é um acordo comum entre seus 193 membros. \nA comitiva do Reino Unido não reagiu à fala e seguiu no plenário (veja no vídeo abaixo) — é praxe, na Assembleia Geral da ONU, que comitivas de países com posições contrárias às do país do discursante se levantem durante o discurso do rival, em um ato de condenação diplomática. \nComitiva do Reino Unido não reagiu às declarações de Milei sobre as Ilhas Malvinas\nDiante do que chamou de inação, Milei afirmou que seu governo \"vai tomar providências\" sobre a disputa. \n\"Hoje venho dizer a vocês que a Argentina não vai se sentar e esperar que a ONU e a comunidade internacional estejam à altura de seu próprio mandato. Vamos tomar providências nesse assunto\", afirmou. \nIgnorando o teleprompter, Milei leu um discurso impresso no qual se disse também alinhado \"sem ambiguidade com o Ocidente\", citando EUA e Israel. \n\"Fizemos também uma escolha geopolítica. Nos alinhamos sem ambiguidades ao Ocidente. Nos alinhamos com os Estados Unidos e com Israel, países com os quais compartilhamos uma profunda afinidade de valores e uma complementaridade estratégica\", disse. \nMilei discursa na Assembleia Geral da ONU\nCaitlin Ochs/Reuters",
       "tags": [
         "MBL"
       ],
