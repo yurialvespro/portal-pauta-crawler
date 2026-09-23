@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:46:31.083935+00:00",
+  "generated_at": "2026-09-23T01:14:37.567966+00:00",
   "items": [
     {
       "id": "c82d454537b0",
@@ -108,11 +108,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 92,
+      "score": 93,
       "publishedRaw": "Tue, 22 Sep 2026 18:04:28 -0000"
     },
     {
@@ -192,6 +193,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -199,6 +201,26 @@
       ],
       "score": 88,
       "publishedRaw": "Tue, 22 Sep 2026 14:24:40 -0000"
+    },
+    {
+      "id": "9a06cd1232be",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O Bolsonaro mais perigoso pode ser o mais moderado",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/o-bolsonaro-mais-perigoso-pode-ser-o-mais-moderado.shtml",
+      "summary": "Flávio Bolsonaro, candidato do PL à Presidência da República, é mais perigoso para a democracia do que o pai, Jair. Não por ser mais radical, mas por parecer mais moderado.\nLeia mais (09/22/2026 - 22h00)",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "22 Sep 2026 22:00:00 -0300"
     },
     {
       "id": "f53d8c271fb9",
@@ -234,8 +256,8 @@
         "TSE"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo"
       ],
       "score": 87,
@@ -255,6 +277,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -304,6 +327,69 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 22 Sep 2026 16:39:40 -0000"
+    },
+    {
+      "id": "c0ea8f2e3d89",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula e o desejo que o consumo não compra mais",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/lula-e-o-desejo-que-o-consumo-nao-compra-mais.shtml",
+      "summary": "Em sua campanha para a reeleição, o presidente Lula (PT) não empolga. Ao eleitor de 2026, ele oferece um discurso que já não convence quem o viu governar por três mandatos. Tampouco ilumina o horizonte de quem deixou de lutar para ascender e passou a lutar apenas para fechar as contas no fim do mês.\nLeia mais (09/22/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "22 Sep 2026 22:00:00 -0300"
+    },
+    {
+      "id": "ec0a0d2d3d9d",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Leitores opinam sobre discurso de Lula na ONU",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/09/leitores-opinam-sobre-discurso-de-lula-na-onu.shtml",
+      "summary": "Democracia\nLeia mais (09/22/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "22 Sep 2026 22:00:00 -0300"
+    },
+    {
+      "id": "22b2b71c8bd6",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula mistura papéis de estadista e candidato na ONU",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/09/lula-mistura-papeis-de-estadista-e-candidato-na-onu.shtml",
+      "summary": "Ao longo da história, a Assembleia Geral da Organização das Nações Unidas serviu tanto como palco para reflexões sobre a geopolítica quanto para demonstrações de líderes periféricos dando recados domésticos sob holofotes globais.\nLeia mais (09/22/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "22 Sep 2026 22:00:00 -0300"
     },
     {
       "id": "383ef8bf0dcc",
@@ -474,25 +560,99 @@
       "publishedRaw": "Tue, 22 Sep 2026 23:07:57 +0000"
     },
     {
-      "id": "0ab644dee5f2",
+      "id": "8fcd2b94387e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em carta a ministros do STF, Henrique Vorcaro diz que não pode ser arrastado para caso Master por ser pai de banqueiro",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-carta-a-ministros-do-stf-henrique-vorcaro-diz-que-nao-pode-ser-arrastado-para-caso-master-por-ser-pai-de-banqueiro.ghtml",
+      "summary": "Preso na Operação Compliance Zero, Henrique Vorcaro enviou nesta terça-feira (22) uma carta aos ministros do Supremo Tribunal Federal (STF) afirmando que não pode ser arrastado para o escândalo do Master só porque é pai Daniel Vorcaro – banqueiro investigado por fraudes financeiras bilionárias. \nAo longo de quatro páginas, Henrique Vorcaro classifica sua prisão como uma \"injustiça\", afirma que não tratava de negócios com o filho e diz que está com a saúde extremamente debilitada na prisão. \n\"Até entendo os holofotes sobre o caso Master, mas não queiram me arrastar para dentro disso só porque eu sou pai do Daniel. Tenho muitos negócios, todos honestos. Preciso da minha reputação e dignidade restauradas, por favor sejam corretos e justos. O ofício da Polícia Federal é fazer justiça, não injustiça. É descobrir a verdade, não criar histórias por hipóteses absurdas e sem comprovação\", diz Henrique no documento. \n\"É importante os senhores saberem que Daniel não tratava nada de Banco ou de negócios dele comigo, até me rejeitava\", completa a carta. \n⛓️‍💥O pai de Daniel Vorcaro está preso desde de maio (relembre no vídeo abaixo), quando a PF realizou uma ação em desdobramento das investigações do caso Master. A prisão foi determinada pelo ministro André Mendonça, relator do caso no STF.\nSegunda turma do STF mantém prisões preventivas do pai e do primo de Daniel Vorcaro\nOs investigadores afirmam que Henrique Vorcaro financiava e atuava como operador de uma estrutura criminosa, que reunia bicheiros, milicianos e hackers. \nA PF disse que ele usava essas conexões para intimidar e coagir adversários do filho. A polícia declarou ainda que o grupo cooptou também uma delegada e agentes da Polícia Federal para ter acesso a dados sigilosos de investigações sobre o caso Master.\nOs investigadores da Polícia Federal afirmam que o pai do banqueiro Daniel Vorcaro tinha atuação fundamental nesse núcleo da organização criminosa. \nSegundo a PF, Henrique Vorcaro pedia serviços ilícitos, que eram executados pelos demais integrantes do grupo criminoso, e gerenciava o esquema de pagamento. \nAo pedir a revogação da prisão, ele negou atuação criminosa e justificou que a tratativa de dinheiro com outros investigados era referente a adiantamento de dinheiro de negócios comerciais.\n\"Se pagavam alguém ou se usavam esse recebimento para qualquer turma ou pessoa, eu não tenho simplesmente nada a ver com isso, não conheço nem sei de turma nenhuma\", diz um trecho da carta.\nO texto afirma ainda que o relatório da PF é fantasioso.\" Nunca ameacei, nunca participei de nada com eles. Não existe na minha vida algum histórico de envolvimento meu com ameaças, algo escuso com ninguém, em lugar nenhum. É uma história bizarra, vergonhosa, fantasiosa\", declara o pai de Daniel Vorcaro.\nHenrique Vorcaro, pai de Daniel Vorcaro, está preso desde maio deste ano\nRedes sociais",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 22 Sep 2026 18:13:38 -0000"
+    },
+    {
+      "id": "30581154c97c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan defende retirar do STF julgamento de políticos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-defende-retirar-do-stf-julgamento-de-politicos/",
+      "summary": "Em sabatina à Record TV, candidato do Missão também propôs mandato de oito anos para ministros e uma corte rotativa formada por desembargadores",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 23 Sep 2026 00:49:12 +0000"
+    },
+    {
+      "id": "086e7e1b05aa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
+      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
+    },
+    {
+      "id": "c52fadb46c46",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula tem 60,5% contra 32,7% de Flávio no 2º turno em PE, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-605-contra-327-de-flavio-no-2o-turno-em-pe-diz-pesquisa/",
-      "summary": "Levantamento da AtlasIntel ouviu 1.836 eleitores de 15 a 20 de setembro de 2026; a margem de erro é de 2 p.p",
+      "title": "Gilmar quer levar ao plenário do STF caso de precatórios de Vorcaro",
+      "link": "https://www.poder360.com.br/poder-justica/gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro/",
+      "summary": "Ação foi citada em mensagens de advogada que atuou pelo Master vinculada a grupo chamado \"Turma do KN\"; decano quer uniformizar tese",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Tue, 22 Sep 2026 22:12:57 +0000"
+      "score": 84,
+      "publishedRaw": "Wed, 23 Sep 2026 00:55:36 +0000"
+    },
+    {
+      "id": "62e7fc0e2fe4",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Luis Cesar Bueno promete reformulação da UEG",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-20226-luis-cesar-bueno-promete-reformulacao-da-ueg.ghtml",
+      "summary": "Eleições 20226: Luis Cesar Bueno promete reformulação da UEG\nEm reunião com professores universitários na sede do sindicato dos docentes da Universidade Federal de Goiás (UFG), o candidato ao governo estadual Luís César Bueno (PT) discutiu propostas para a educação e prometeu reestruturar a Universidade Estadual de Goiás (UEG).\nDurante o encontro, o petista destacou a intenção de fortalecer o ensino superior público no estado e alinhar os cursos da instituição às vocações econômicas regionais. De acordo com o candidato, o plano de reformulação busca formar mão de obra qualificada para atender a setores estratégicos, com ênfase nas áreas de biotecnologia e mineração.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nEleições 20226: Luis Cesar Bueno promete reformulação da UEG\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"É necessário devolver para a UEG os 2% do orçamento que foi tomado pelo governo do Estado, nós vamos ter que reconstruir a Universidade Estadual de Goiás. Para o processo de desenvolvimento econômico de Goiás, ela é muito importante, porque ela tem a potencialidade de se estruturar nas diversas regiões e gerar uma mão de obra qualificada\", afirmou Luis César.\nAlém das mudanças pedagógicas, o postulante ao Palácio das Esmeraldas apontou a recomposição dos repasses públicos como passo central para restabelecer os investimentos nos câmpus e recuperar a capacidade de atendimento da universidade no interior de Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Mundo"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 22 Sep 2026 23:46:42 -0000"
     },
     {
       "id": "ddd60805a475",
@@ -686,77 +846,6 @@
       "publishedRaw": ""
     },
     {
-      "id": "62e7fc0e2fe4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Luis Cesar Bueno promete reformulação da UEG",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-20226-luis-cesar-bueno-promete-reformulacao-da-ueg.ghtml",
-      "summary": "Eleições 20226: Luis Cesar Bueno promete reformulação da UEG\nEm reunião com professores universitários na sede do sindicato dos docentes da Universidade Federal de Goiás (UFG), o candidato ao governo estadual Luís César Bueno (PT) discutiu propostas para a educação e prometeu reestruturar a Universidade Estadual de Goiás (UEG).\nDurante o encontro, o petista destacou a intenção de fortalecer o ensino superior público no estado e alinhar os cursos da instituição às vocações econômicas regionais. De acordo com o candidato, o plano de reformulação busca formar mão de obra qualificada para atender a setores estratégicos, com ênfase nas áreas de biotecnologia e mineração.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nEleições 20226: Luis Cesar Bueno promete reformulação da UEG\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 37%; Marconi Perillo, 20%\n\"É necessário devolver para a UEG os 2% do orçamento que foi tomado pelo governo do Estado, nós vamos ter que reconstruir a Universidade Estadual de Goiás. Para o processo de desenvolvimento econômico de Goiás, ela é muito importante, porque ela tem a potencialidade de se estruturar nas diversas regiões e gerar uma mão de obra qualificada\", afirmou Luis César.\nAlém das mudanças pedagógicas, o postulante ao Palácio das Esmeraldas apontou a recomposição dos repasses públicos como passo central para restabelecer os investimentos nos câmpus e recuperar a capacidade de atendimento da universidade no interior de Goiás.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 77,
-      "publishedRaw": "Tue, 22 Sep 2026 23:46:42 -0000"
-    },
-    {
-      "id": "3da918485061",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Procuradoria Eleitoral defende inelegibilidade de Arruda ao TSE",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/procuradoria-eleitoral-defende-inelegibilidade-de-arruda-ao-tse.shtml",
-      "summary": "O vice-procurador-geral eleitoral da República, Alexandre Espinosa, se manifestou pela inelegibilidade do ex-governador do Distrito Federal, José Arruda (PSD). O parecer foi encaminhado nesta terça-feira (22) ao relator do caso no TSE (Tribunal Superior Eleitoral), ministro Dias Toffoli.\nLeia mais (09/22/2026 - 19h54)",
-      "tags": [
-        "TSE",
-        "inelegibilidade"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "22 Sep 2026 19:54:00 -0300"
-    },
-    {
-      "id": "8fcd2b94387e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em carta a ministros do STF, Henrique Vorcaro diz que não pode ser arrastado para caso Master por ser pai de banqueiro",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-carta-a-ministros-do-stf-henrique-vorcaro-diz-que-nao-pode-ser-arrastado-para-caso-master-por-ser-pai-de-banqueiro.ghtml",
-      "summary": "Preso na Operação Compliance Zero, Henrique Vorcaro enviou nesta terça-feira (22) uma carta aos ministros do Supremo Tribunal Federal (STF) afirmando que não pode ser arrastado para o escândalo do Master só porque é pai Daniel Vorcaro – banqueiro investigado por fraudes financeiras bilionárias. \nAo longo de quatro páginas, Henrique Vorcaro classifica sua prisão como uma \"injustiça\", afirma que não tratava de negócios com o filho e diz que está com a saúde extremamente debilitada na prisão. \n\"Até entendo os holofotes sobre o caso Master, mas não queiram me arrastar para dentro disso só porque eu sou pai do Daniel. Tenho muitos negócios, todos honestos. Preciso da minha reputação e dignidade restauradas, por favor sejam corretos e justos. O ofício da Polícia Federal é fazer justiça, não injustiça. É descobrir a verdade, não criar histórias por hipóteses absurdas e sem comprovação\", diz Henrique no documento. \n\"É importante os senhores saberem que Daniel não tratava nada de Banco ou de negócios dele comigo, até me rejeitava\", completa a carta. \n⛓️‍💥O pai de Daniel Vorcaro está preso desde de maio (relembre no vídeo abaixo), quando a PF realizou uma ação em desdobramento das investigações do caso Master. A prisão foi determinada pelo ministro André Mendonça, relator do caso no STF.\nSegunda turma do STF mantém prisões preventivas do pai e do primo de Daniel Vorcaro\nOs investigadores afirmam que Henrique Vorcaro financiava e atuava como operador de uma estrutura criminosa, que reunia bicheiros, milicianos e hackers. \nA PF disse que ele usava essas conexões para intimidar e coagir adversários do filho. A polícia declarou ainda que o grupo cooptou também uma delegada e agentes da Polícia Federal para ter acesso a dados sigilosos de investigações sobre o caso Master.\nOs investigadores da Polícia Federal afirmam que o pai do banqueiro Daniel Vorcaro tinha atuação fundamental nesse núcleo da organização criminosa. \nSegundo a PF, Henrique Vorcaro pedia serviços ilícitos, que eram executados pelos demais integrantes do grupo criminoso, e gerenciava o esquema de pagamento. \nAo pedir a revogação da prisão, ele negou atuação criminosa e justificou que a tratativa de dinheiro com outros investigados era referente a adiantamento de dinheiro de negócios comerciais.\n\"Se pagavam alguém ou se usavam esse recebimento para qualquer turma ou pessoa, eu não tenho simplesmente nada a ver com isso, não conheço nem sei de turma nenhuma\", diz um trecho da carta.\nO texto afirma ainda que o relatório da PF é fantasioso.\" Nunca ameacei, nunca participei de nada com eles. Não existe na minha vida algum histórico de envolvimento meu com ameaças, algo escuso com ninguém, em lugar nenhum. É uma história bizarra, vergonhosa, fantasiosa\", declara o pai de Daniel Vorcaro.\nHenrique Vorcaro, pai de Daniel Vorcaro, está preso desde maio deste ano\nRedes sociais",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 22 Sep 2026 18:13:38 -0000"
-    },
-    {
-      "id": "086e7e1b05aa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Situação do STF é dramática, a Corte também está polarizada’, diz Sérgio Renault",
-      "link": "https://www.estadao.com.br/politica/situacao-do-stf-e-dramatica-a-corte-tambem-esta-polarizada-diz-sergio-renault/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 22 Sep 2026 23:22:21 +0000"
-    },
-    {
       "id": "21a0f54dcc65",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -768,25 +857,47 @@
         "eleições"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "G1 - Mundo"
       ],
-      "score": 74,
+      "score": 78,
       "publishedRaw": "Tue, 22 Sep 2026 16:43:47 -0000"
     },
     {
-      "id": "babbaa6b0616",
+      "id": "6c08aaa1f621",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Congresso do Algodão começa com foco em concorrência e produtividade",
-      "link": "https://www.cnnbrasil.com.br/agro/congresso-do-algodao-comeca-com-foco-em-concorrencia-e-produtividade/",
-      "summary": "Aumento da oferta precisa ser acompanhado pela expansão da demanda e recuperação de espaço das fibras naturais",
+      "title": "Vejo risco de inteferência dos EUA nas eleições brasileiras, diz Renan",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/vejo-risco-de-inteferencia-dos-eua-nas-eleicoes-brasileiras-diz-renan/",
+      "summary": "Em entrevista para a Record, candidato relembra falas do presidente norte-americano e alerta sobre possível intervenção dos EUA no Brasil",
       "tags": [
-        "Congresso"
+        "eleições"
       ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Tue, 22 Sep 2026 23:27:09 +0000"
+      "crossOutlets": [
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Wed, 23 Sep 2026 00:57:45 +0000"
+    },
+    {
+      "id": "f67612df49b5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE lança ferramenta para monitorar violência política de gênero no país",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-lanca-ferramenta-para-monitorar-violencia-politica-de-genero-no-pais/",
+      "summary": "Painel faz parte de conjunto de ações voltadas ao enfrentamento do crime; Justiça Eleitoral também firmou protocolo de prevenção com o Ministério Público Eleitoral",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 73,
+      "publishedRaw": "Wed, 23 Sep 2026 00:52:04 +0000"
     },
     {
       "id": "9da05576f1a6",
