@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:41:53.001165+00:00",
+  "generated_at": "2026-09-23T18:19:36.771500+00:00",
   "items": [
     {
       "id": "407ad5e60eb1",
@@ -17,7 +17,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -42,7 +41,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -51,6 +49,30 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 23 Sep 2026 11:45:38 -0000"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
       "id": "da57dccb8896",
@@ -67,38 +89,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 23 Sep 2026 13:10:28 +0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
     },
     {
       "id": "b407f78c3cfe",
@@ -117,7 +113,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -141,12 +136,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
     },
     {
@@ -154,21 +148,21 @@
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Missão acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X",
+      "title": "Renan Santos acusa Flávio Bolsonaro de receber apoio de perfis estrangeiros no X",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/missao-acusa-flavio-bolsonaro-de-receber-apoio-de-perfis-estrangeiros-no-x.shtml",
-      "summary": "O partido Missão acionou o TSE (Tribunal Superior Eleitoral) nesta quarta-feira (23) contra cinco perfis estrangeiros no X (ex-Twitter) que, segundo a sigla, publicaram conteúdo pago em favor da candidatura de Flávio Bolsonaro (PL) à Presidência. A representação também inclui o X Brasil Internet Ltda. e pede a retirada imediata das publicações.\nLeia mais (09/23/2026 - 14h27)",
+      "summary": "O candidato à Presidência Renan Santos e seu partido, o Missão, acionaram o TSE (Tribunal Superior Eleitoral) nesta quarta-feira (23) contra cinco perfis estrangeiros no X (ex-Twitter) que, segundo a sigla, publicaram conteúdo pago que beneficia a candidatura de Flávio Bolsonaro (PL) à Presidência.\nLeia mais (09/23/2026 - 14h27)",
       "tags": [
         "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Flávio Bolsonaro",
+        "Renan Santos"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "23 Sep 2026 14:27:00 -0300"
     },
     {
@@ -185,12 +179,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Wed, 23 Sep 2026 16:13:14 +0000"
     },
     {
@@ -207,12 +200,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Wed, 23 Sep 2026 15:56:15 +0000"
     },
     {
@@ -229,34 +221,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 92,
-      "publishedRaw": "Wed, 23 Sep 2026 15:37:27 +0000"
-    },
-    {
-      "id": "448abe0c9a74",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
-      "summary": "Dentro da campanha do candidato do PL, Flávio Bolsonaro, a estratégia é terminar o primeiro turno à frente do presidente Lula, criando um sentimento de favoritismo capaz de atrair a maior parte dos eleitores dos demais candidatos de direita, como Ronaldo Caiado (PSD), Romeu Zema (Novo), Augusto Cury (Avante) e Renan Santos (Missão). \nA equipe de Flávio espera, inclusive, algo que faltou no primeiro turno, o apoio oficial dos partidos do Centrão.\nOs mais otimistas na campanha de Flávio Bolsonaro falam até na possibilidade de vencer a eleição já no primeiro turno, com a criação de uma onda a favor do que chamam de \"voto útil\" nesta reta final. \nJogam contra essa estratégia as últimas iniciativas do presidente Lula, que já anunciou um reajuste no benefício do Bolsa Família e vai assinar medida provisória de combate às bets no Brasil, o que tem amplo apoio entre os brasileiros.\nQuaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%\nSegundo pesquisa Datafolha, o candidato do PL tem o potencial de atrair, num segundo turno, 43% das intenções de voto de eleitores de Romeu Zema, Renan Santos, Ronaldo Caiado e Augusto Cury. \nJá Lula atrairia 30% destes eleitores dos candidatos da direita. Flávio Bolsonaro se dá melhor entre eleitores de Zema e Renan Santos, com empate técnico no eleitorado de Ronaldo Caiado e Augusto Cury.\nNa campanha do presidente Lula, todo esforço será feito para que Lula termine o primeiro turno à frente de Flávio Bolsonaro. \nSegundo aliados de Lula, a MP sobre bets vai atingir principalmente o eleitorado feminino, garantindo um apoio ainda maior neste segmento do eleitorado, considerado crucial para a definição da eleição deste ano. O petista tem vantagem entre as mulheres, que são as mais críticas aos jogos de apostas online.\n\"As pesquisas mostram hoje um forte sentimento contrário às bets. Lula vai trabalhar com esse sentimento a seu favor. Isso vai pesar e muito nesta reta final\", diz um interlocutor do presidente da República, confiante que o petista terminará o primeiro turno à frente de Flávio Bolsonaro.\nSegundo esse auxiliar, sair na liderança no segundo turno vai segurar o Centrão e também influenciar até na atuação de aliados de Flávio Bolsonaro no segundo turno. \nA avaliação é que, em São Paulo, por exemplo, o governador Tarcísio de Freitas (Republicanos) ganhe no primeiro turno e não faça grande esforço em favor do candidato do PL na fase final. Afinal, Tarcísio deve ser candidato à Presidência da República em 2030 e não gostaria de ter Flávio Bolsonaro no Palácio do Planalto no próximo ano. \nFlávio Bolsonaro e Lula durante a propaganda eleitoral nesta terça-feira (22).\nReprodução",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
       "score": 91,
-      "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 15:37:27 +0000"
     },
     {
       "id": "aff52eeb696f",
@@ -282,28 +252,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "690df76f2099",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle Bolsonaro recebe alta após internação por crise de enxaqueca",
-      "link": "https://www.cnnbrasil.com.br/politica/michelle-bolsonaro-recebe-alta-apos-internacao-por-crise-de-enxaqueca/",
-      "summary": "Ex-primeira-dama estava internada desde terça-feira (22) e passou por bloqueio anestésico para neutralizar crise",
-      "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 23 Sep 2026 16:57:31 +0000"
-    },
-    {
       "id": "b1cbc1416e7e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -317,7 +265,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
@@ -326,6 +273,70 @@
       ],
       "score": 89,
       "publishedRaw": "Wed, 23 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "15b12a3d3d23",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE suspende perda de 76 minutos da propaganda de Elmano após associação de Ciro a Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-suspende-perda-de-76-minutos-da-propaganda-de-elmano-apos-associacao-de-ciro-a-bolsonaro-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 23 Sep 2026 17:25:19 +0000"
+    },
+    {
+      "id": "448abe0c9a74",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
+      "summary": "Dentro da campanha do candidato do PL, Flávio Bolsonaro, a estratégia é terminar o primeiro turno à frente do presidente Lula, criando um sentimento de favoritismo capaz de atrair a maior parte dos eleitores dos demais candidatos de direita, como Ronaldo Caiado (PSD), Romeu Zema (Novo), Augusto Cury (Avante) e Renan Santos (Missão). \nA equipe de Flávio espera, inclusive, algo que faltou no primeiro turno, o apoio oficial dos partidos do Centrão.\nOs mais otimistas na campanha de Flávio Bolsonaro falam até na possibilidade de vencer a eleição já no primeiro turno, com a criação de uma onda a favor do que chamam de \"voto útil\" nesta reta final. \nJogam contra essa estratégia as últimas iniciativas do presidente Lula, que já anunciou um reajuste no benefício do Bolsa Família e vai assinar medida provisória de combate às bets no Brasil, o que tem amplo apoio entre os brasileiros.\nQuaest, 2º turno: Flávio Bolsonaro, 42%; Lula, 41%\nSegundo pesquisa Datafolha, o candidato do PL tem o potencial de atrair, num segundo turno, 43% das intenções de voto de eleitores de Romeu Zema, Renan Santos, Ronaldo Caiado e Augusto Cury. \nJá Lula atrairia 30% destes eleitores dos candidatos da direita. Flávio Bolsonaro se dá melhor entre eleitores de Zema e Renan Santos, com empate técnico no eleitorado de Ronaldo Caiado e Augusto Cury.\nNa campanha do presidente Lula, todo esforço será feito para que Lula termine o primeiro turno à frente de Flávio Bolsonaro. \nSegundo aliados de Lula, a MP sobre bets vai atingir principalmente o eleitorado feminino, garantindo um apoio ainda maior neste segmento do eleitorado, considerado crucial para a definição da eleição deste ano. O petista tem vantagem entre as mulheres, que são as mais críticas aos jogos de apostas online.\n\"As pesquisas mostram hoje um forte sentimento contrário às bets. Lula vai trabalhar com esse sentimento a seu favor. Isso vai pesar e muito nesta reta final\", diz um interlocutor do presidente da República, confiante que o petista terminará o primeiro turno à frente de Flávio Bolsonaro.\nSegundo esse auxiliar, sair na liderança no segundo turno vai segurar o Centrão e também influenciar até na atuação de aliados de Flávio Bolsonaro no segundo turno. \nA avaliação é que, em São Paulo, por exemplo, o governador Tarcísio de Freitas (Republicanos) ganhe no primeiro turno e não faça grande esforço em favor do candidato do PL na fase final. Afinal, Tarcísio deve ser candidato à Presidência da República em 2030 e não gostaria de ter Flávio Bolsonaro no Palácio do Planalto no próximo ano. \nFlávio Bolsonaro e Lula durante a propaganda eleitoral nesta terça-feira (22).\nReprodução",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 23 Sep 2026 14:20:24 -0000"
+    },
+    {
+      "id": "72a1c055e7c5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Flávio aciona TSE por discurso de Lula na Assembleia Geral da ONU",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-flavio-aciona-tse-por-discurso-de-lula-na-assembleia-geral-da-onu.shtml",
+      "summary": "O jurídico da campanha do candidato à Presidência Flávio Bolsonaro (PL-RJ) acionou o TSE (Tribunal Superior Eleitoral) por conta do discurso feito pelo presidente Luiz Inácio Lula da Silva (PT) na Assembleia Geral da ONU (Organização das Nações Unidas), na terça-feira (23).\nLeia mais (09/23/2026 - 15h12)",
+      "tags": [
+        "MBL",
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "23 Sep 2026 15:12:00 -0300"
     },
     {
       "id": "563761cb817c",
@@ -340,7 +351,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -348,50 +358,6 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "99c6a914e43f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Lula tentam neutralidade do PSD no segundo turno e buscam ponte com Cury",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/aliados-de-lula-tentam-neutralidade-do-psd-no-segundo-turno-e-buscam-ponte-com-cury.shtml",
-      "summary": "Com o provável cenário de segundo turno entre o presidente Lula (PT) e o senador Flávio Bolsonaro (PL-RJ) prenunciado nas pesquisas eleitorais, articuladores políticos do chefe de governo vislumbram a possibilidade de obter ao menos uma neutralidade do PSD na etapa decisiva e buscam estabelecer alguma relação política com o grupo do também candidato Augusto Cury (Avante).\nLeia mais (09/23/2026 - 13h02)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "23 Sep 2026 13:02:00 -0300"
-    },
-    {
-      "id": "ab6061bdb3ab",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado diz que Lula e Flávio estão “jogando abaixo” debates presidenciais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/caiado-diz-que-lula-e-flavio-estao-jogando-abaixo-debates-presidenciais/",
-      "summary": "Para o candidato do PSD, o cancelamento dos encontros entre presidenciáveis é um \"assalto à democracia\" brasileira",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 23 Sep 2026 17:10:15 +0000"
     },
     {
       "id": "a8d3a6907f1d",
@@ -406,7 +372,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -428,7 +393,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -450,7 +414,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -460,26 +423,25 @@
       "publishedRaw": "Wed, 23 Sep 2026 13:03:39 +0000"
     },
     {
-      "id": "37b0ac20f11d",
+      "id": "089dffe3a5ce",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Advogado disse a Vorcaro que Lula “agradeceu whisky” e “mandou abraço”",
-      "link": "https://www.poder360.com.br/poder-justica/advogado-disse-a-vorcaro-que-lula-agradeceu-whisky-e-mandou-abraco/",
-      "summary": "Planalto nega que o petista tenha recebido presentes e diz que ele só esteve com o ex-banqueiro uma vez, em dezembro de 2024; o encontro foi revelado pelo Poder360",
+      "title": "Lula e Flávio empatam no 2º turno com 43%, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes/lula-e-flavio-empatam-no-2o-turno-com-43-diz-pesquisa/",
+      "summary": "Levantamento American Analytics ouviu 2.000 eleitores de 15 a 20 de setembro; margem de erro é de 2,5 p.p.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 23 Sep 2026 16:12:35 +0000"
+      "publishedRaw": "Wed, 23 Sep 2026 17:48:42 +0000"
     },
     {
       "id": "d8044ec75330",
@@ -512,7 +474,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -536,7 +497,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -558,7 +518,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -567,6 +526,60 @@
       ],
       "score": 81,
       "publishedRaw": ""
+    },
+    {
+      "id": "81ff251e1bf2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF domina campanha eleitoral e esvazia debate sobre proposta",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/23/crise-stf-campanha-eleitoral.ghtml",
+      "summary": "Crise no STF domina campanha e escanteia propostas\nA crise no Supremo Tribunal Federal tomou o centro da campanha eleitoral e esvaziou o espaço para a discussão de propostas. Sem um desfecho, o desgaste do tribunal se prolonga e interfere nas estratégias dos candidatos à Presidência.\nNa própria campanha do presidente Lula, a avaliação é que Flávio Bolsonaro consegue explorar politicamente esse cenário e obter dividendos eleitorais enquanto o Supremo permanecer como foco da disputa.\nA preocupação ajuda a explicar a defesa enfática, feita por uma ala da campanha, de que Lula se afaste cada vez mais da crise. Para esse grupo, o presidente precisa ir além das declarações de que todos devem ser investigados e cobrar a apuração de forma mais contundente.\nEmbora vários ministros sejam citados e tenham explicações a dar, a avaliação é que o desgaste está muito concentrado na figura de Alexandre de Moraes.\nA crise também atravessa uma estratégia que a campanha de Lula vinha tentando consolidar: fazer da soberania o assunto central da eleição.\nA participação do presidente na Assembleia Geral da ONU, em Nova York, já estava prevista na agenda. A campanha, porém, busca transformar o evento em um ativo eleitoral, aproveitando o discurso e a exposição internacional para reforçar a imagem de Lula como estadista.\nO material produzido durante a viagem pode abastecer a campanha e dar destaque a essa mensagem. No retorno ao Brasil, no entanto, o presidente volta a se deparar com uma crise no Supremo que continua sem solução e ocupa o debate político.\nDo outro lado, Flávio Bolsonaro tenta manter o desgaste do tribunal no centro da campanha. A estratégia busca atingir ministros vistos como mais próximos de Lula, entre eles Moraes.\nIsso ocorre apesar de o próprio Flávio ainda não ter esclarecido o pedido de dinheiro feito a Daniel Vorcaro para o que seria a produção de um filme sobre o pai, Jair Bolsonaro. Moraes também tem explicações a dar sobre contratos e relações com Vorcaro.\nA permanência dessas questões sem esclarecimento alimenta a disputa eleitoral. Para a campanha de Lula, o risco é que o adversário continue capitalizando o desgaste do Supremo enquanto o presidente encontra dificuldade para impor os temas que gostaria de discutir.\nO adiamento de uma solução para a crise, portanto, não fica restrito ao tribunal: repercute na eleição e mantém as propostas para o país em segundo plano.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 12:48:53 -0000"
+    },
+    {
+      "id": "4d119b9d9af8",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Renan sinaliza neutralidade no 2º turno e volta a criticar ministros do STF",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-sinaliza-neutralidade-no-2o-turno-e-volta-a-criticar-ministros-do-stf/",
+      "summary": "Candidato do Missão afirma que não orientará eleitores a votarem \"em bandidos\" em eventual disputa sem ele",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 23 Sep 2026 17:53:00 +0000"
+    },
+    {
+      "id": "5e52eb0ac2bf",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Hora de votar em congressistas capazes de reformar o STF",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/hora-de-votar-em-congressistas-capazes-de-reformar-o-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 17 Sep 2026 22:00:00 +0000"
     },
     {
       "id": "d1baafdd3a5f",
@@ -623,38 +636,19 @@
       "publishedRaw": "Wed, 23 Sep 2026 06:00:00 -0000"
     },
     {
-      "id": "81ff251e1bf2",
-      "source": "G1 - Política",
+      "id": "c199735b20ac",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Crise no STF domina campanha eleitoral e esvazia debate sobre proposta",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/23/crise-stf-campanha-eleitoral.ghtml",
-      "summary": "Crise no STF domina campanha e escanteia propostas\nA crise no Supremo Tribunal Federal tomou o centro da campanha eleitoral e esvaziou o espaço para a discussão de propostas. Sem um desfecho, o desgaste do tribunal se prolonga e interfere nas estratégias dos candidatos à Presidência.\nNa própria campanha do presidente Lula, a avaliação é que Flávio Bolsonaro consegue explorar politicamente esse cenário e obter dividendos eleitorais enquanto o Supremo permanecer como foco da disputa.\nA preocupação ajuda a explicar a defesa enfática, feita por uma ala da campanha, de que Lula se afaste cada vez mais da crise. Para esse grupo, o presidente precisa ir além das declarações de que todos devem ser investigados e cobrar a apuração de forma mais contundente.\nEmbora vários ministros sejam citados e tenham explicações a dar, a avaliação é que o desgaste está muito concentrado na figura de Alexandre de Moraes.\nA crise também atravessa uma estratégia que a campanha de Lula vinha tentando consolidar: fazer da soberania o assunto central da eleição.\nA participação do presidente na Assembleia Geral da ONU, em Nova York, já estava prevista na agenda. A campanha, porém, busca transformar o evento em um ativo eleitoral, aproveitando o discurso e a exposição internacional para reforçar a imagem de Lula como estadista.\nO material produzido durante a viagem pode abastecer a campanha e dar destaque a essa mensagem. No retorno ao Brasil, no entanto, o presidente volta a se deparar com uma crise no Supremo que continua sem solução e ocupa o debate político.\nDo outro lado, Flávio Bolsonaro tenta manter o desgaste do tribunal no centro da campanha. A estratégia busca atingir ministros vistos como mais próximos de Lula, entre eles Moraes.\nIsso ocorre apesar de o próprio Flávio ainda não ter esclarecido o pedido de dinheiro feito a Daniel Vorcaro para o que seria a produção de um filme sobre o pai, Jair Bolsonaro. Moraes também tem explicações a dar sobre contratos e relações com Vorcaro.\nA permanência dessas questões sem esclarecimento alimenta a disputa eleitoral. Para a campanha de Lula, o risco é que o adversário continue capitalizando o desgaste do Supremo enquanto o presidente encontra dificuldade para impor os temas que gostaria de discutir.\nO adiamento de uma solução para a crise, portanto, não fica restrito ao tribunal: repercute na eleição e mantém as propostas para o país em segundo plano.",
+      "title": "Porchat chama de censura ação da Meta contra perfil do Revelando",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/porchat-chama-de-censura-acao-da-meta-contra-perfil-do-revelando.shtml",
+      "summary": "O humorista Fabio Porchat afirmou nesta quarta (23) que a Meta tentou \"censurar\" o perfil do Revelando no Instagram após a publicação de um episódio sobre as relações entre o Banco Master, a Igreja da Lagoinha e personagens da política brasileira. A conta ficou fora do ar durante algumas horas e foi restaurada ainda nesta quarta.\nLeia mais (09/23/2026 - 15h07)",
       "tags": [
-        "STF"
+        "censura"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 23 Sep 2026 12:48:53 -0000"
-    },
-    {
-      "id": "5e52eb0ac2bf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Hora de votar em congressistas capazes de reformar o STF",
-      "link": "https://www.estadao.com.br/politica/raquel-landim/hora-de-votar-em-congressistas-capazes-de-reformar-o-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Thu, 17 Sep 2026 22:00:00 +0000"
+      "crossOutlets": [],
+      "score": 68,
+      "publishedRaw": "23 Sep 2026 15:07:00 -0300"
     },
     {
       "id": "d0784a38c03a",
@@ -676,15 +670,15 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Milei chama ONU de inútil e reitera soberania sobre Malvinas; SIGA a Assembleia Geral",
+      "title": "Milei chama ONU de inútil e reitera soberania sobre Malvinas, e Zelensky discursa agora; SIGA a Assembleia Geral",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Milei chama ONU de inútil e reitera soberania sobre Malvinas; SIGA a Assembleia Geral Mais cedo, presidente do Irã chamou EUA e Israel de terroristas em discurso. Zelensky e líderes de Venezuela e Equador também discursam no 2º dia de Assembleia Geral da ONU. Na terça (22), Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas. Também na terça, a coalizão anticartéis 'Escudo das Américas', liderada pelos EUA, anunciou sanções contra o PPC, o CV e outros grupos chamados de 'narcoterroristas'.. O presidente do Irã discursou nesta quarta e chamou EUA e Israel de terroristas e que seu país nunca não busca armas nucleares.",
+      "summary": "Milei chama ONU de inútil e reitera soberania sobre Malvinas, e Zelensky discursa agora; SIGA a Assembleia Geral Mais cedo, presidente do Irã chamou EUA e Israel de terroristas em discurso. Zelensky e líderes de Venezuela e Equador também discursam no 2º dia de Assembleia Geral da ONU. Na terça (22), Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas. Também na terça, a coalizão anticartéis 'Escudo das Américas', liderada pelos EUA, anunciou sanções contra o PPC, o CV e outros grupos chamados de 'narcoterroristas'.. O presidente do Irã discursou nesta quarta e chamou EUA e Israel de terroristas e que seu país nunca não busca armas nucleares.",
       "tags": [
         "MBL"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Wed, 23 Sep 2026 15:57:58 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 17:54:45 -0000"
     },
     {
       "id": "cf9f2165cab4",
@@ -702,34 +696,19 @@
       "publishedRaw": "23 Sep 2026 14:14:00 -0300"
     },
     {
-      "id": "f58c9d6a40f1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisas ao Senado projetam PL turbinado, avanço tímido da esquerda e encolhimento do centro",
-      "link": "https://www.estadao.com.br/politica/pesquisas-ao-senado-projetam-pl-turbinado-avanco-timido-da-esquerda-e-encolhimento-do-centro/",
-      "summary": "",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Tue, 22 Sep 2026 08:30:00 +0000"
-    },
-    {
       "id": "fb5fd5043104",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Milei chama ONU de inútil e reitera soberania sobre Malvinas; SIGA a Assembleia Geral",
+      "title": "Milei chama ONU de inútil e reitera soberania sobre Malvinas, e Zelensky discursa agora; SIGA a Assembleia Geral",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Milei chama ONU de inútil e reitera soberania sobre Malvinas; SIGA a Assembleia Geral Mais cedo, presidente do Irã chamou EUA e Israel de terroristas em discurso. Zelensky e líderes de Venezuela e Equador também discursam no 2º dia de Assembleia Geral da ONU. Na terça (22), Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas. Também na terça, a coalizão anticartéis 'Escudo das Américas', liderada pelos EUA, anunciou sanções contra o PPC, o CV e outros grupos chamados de 'narcoterroristas'.. O presidente do Irã discursou nesta quarta e chamou EUA e Israel de terroristas e que seu país nunca não busca armas nucleares.",
+      "summary": "Milei chama ONU de inútil e reitera soberania sobre Malvinas, e Zelensky discursa agora; SIGA a Assembleia Geral Mais cedo, presidente do Irã chamou EUA e Israel de terroristas em discurso. Zelensky e líderes de Venezuela e Equador também discursam no 2º dia de Assembleia Geral da ONU. Na terça (22), Lula, Trump e secretário-geral da ONU discursaram. Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. O secretário-geral António Guterres admitiu em discurso que há uma crise no órgão internacional.. Lula, Trump também discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas. Também na terça, a coalizão anticartéis 'Escudo das Américas', liderada pelos EUA, anunciou sanções contra o PPC, o CV e outros grupos chamados de 'narcoterroristas'.. O presidente do Irã discursou nesta quarta e chamou EUA e Israel de terroristas e que seu país nunca não busca armas nucleares.",
       "tags": [
         "MBL"
       ],
       "crossOutlets": [],
       "score": 50,
-      "publishedRaw": "Wed, 23 Sep 2026 15:57:58 -0000"
+      "publishedRaw": "Wed, 23 Sep 2026 17:54:45 -0000"
     },
     {
       "id": "62d66c4ea21d",
