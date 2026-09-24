@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:43:49.206543+00:00",
+  "generated_at": "2026-09-24T10:16:09.146526+00:00",
   "items": [
     {
       "id": "be51dd22b150",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -62,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -75,7 +78,7 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "title": "Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "tags": [
@@ -84,6 +87,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -91,7 +95,7 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Tue, 22 Sep 2026 16:38:58 GMT"
+      "publishedRaw": "Thu, 24 Sep 2026 09:49:49 GMT"
     },
     {
       "id": "5137c0033dad",
@@ -110,6 +114,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -154,6 +159,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -177,6 +183,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -378,11 +385,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 01:07:52 -0000"
     },
     {
@@ -398,11 +406,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 00:47:16 -0000"
     },
     {
@@ -418,11 +427,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 23:16:06 -0000"
     },
     {
@@ -438,11 +448,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 23:03:03 -0000"
     },
     {
@@ -458,12 +469,97 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "24 Sep 2026 06:00:00 -0300"
+    },
+    {
+      "id": "6d3503b6f67a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula é desaprovado por 52%; 45% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-e-desaprovado-por-52-45-aprovam/",
+      "summary": "Pesquisa ouviu 2 mil eleitores entre 19 e 23 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 10:05:49 +0000"
+    },
+    {
+      "id": "b707122fd9af",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula tem 50% de rejeição; Flávio, 49%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-50-de-rejeicao-flavio-49/",
+      "summary": "Levantamento ouviu 2.000 eleitores em todo o território nacional entre 19 e 23 de setembro de 2026; margem de erro de 2 pontos percentuais e nível de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 10:04:53 +0000"
+    },
+    {
+      "id": "e79e9c216de2",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula tem 41% no 1º turno; Flávio, 37%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-41-no-1o-turno-flavio-37/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 19 e 23 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 10:01:14 +0000"
+    },
+    {
+      "id": "5fde751192cd",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Flávio tem 45% no 2º turno; Lula, 44%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-45-no-2o-turno-lula-44/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 19 e 23 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 10:01:03 +0000"
     },
     {
       "id": "22468760a766",
@@ -478,11 +574,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 10:30:00 +0000"
     },
     {
@@ -498,12 +595,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 01:12:30 +0000"
+    },
+    {
+      "id": "345f00bc5f17",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Nós não precisamos da intromissão americana”, diz Lula",
+      "link": "https://www.poder360.com.br/poder-governo/nos-nao-precisamos-da-intromissao-americana-diz-lula/",
+      "summary": "Presidente reclamou de classificação de PCC e CV como terroristas por 14 países",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 10:06:16 +0000"
     },
     {
       "id": "60fddedebf07",
@@ -518,11 +637,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 09:15:53 +0000"
     },
     {
@@ -538,11 +658,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 09:15:31 +0000"
     },
     {
@@ -576,12 +697,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 23 Sep 2026 22:46:47 GMT"
     },
     {
@@ -596,12 +718,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 22 Sep 2026 17:35:21 GMT"
     },
     {
@@ -657,25 +780,6 @@
       ],
       "score": 80,
       "publishedRaw": "Thu, 24 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "08c62a4b9229",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ala do STF leva luta pelo poder disputada nas urnas para dentro da Corte",
-      "link": "https://www.estadao.com.br/politica/william-waack/ala-do-stf-leva-luta-pelo-poder-disputada-nas-urnas-para-dentro-da-corte/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 23 Sep 2026 23:02:25 +0000"
     },
     {
       "id": "f6d5ec9d0a5d",
