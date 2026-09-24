@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:15:43.509690+00:00",
+  "generated_at": "2026-09-24T02:43:42.878271+00:00",
   "items": [
     {
       "id": "34d5c79145b2",
@@ -261,25 +261,46 @@
       "publishedRaw": "Wed, 23 Sep 2026 21:49:12 +0000"
     },
     {
-      "id": "06f225c524e3",
-      "source": "Estadão",
+      "id": "2aeef823604a",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle Bolsonaro tem 26% para o Senado pelo DF; Leila, 19%; Erika e Bia, 15%",
-      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-tem-26-para-o-senado-pelo-df-leila-19-erika-e-bia-15/",
-      "summary": "",
+      "title": "Na ONU, Delcy ignora Maduro, acena a Trump e promete eleições na Venezuela",
+      "link": "https://www.cnnbrasil.com.br/internacional/na-onu-delcy-ignora-maduro-acena-a-trump-e-promete-eleicoes-na-venezuela/",
+      "summary": "Sem mencionar o ditador deposto, presidente interina agradeceu Washington por retomar relações e afirmou que iniciará processo eleitoral \"à plena democracia\"",
       "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Mundo",
+        "G1 - Política"
       ],
-      "score": 89,
-      "publishedRaw": "Wed, 23 Sep 2026 21:13:19 +0000"
+      "score": 88,
+      "publishedRaw": "Thu, 24 Sep 2026 02:05:34 +0000"
+    },
+    {
+      "id": "c34b983d354a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Queremos eleições livres no Brasil, diz porta-voz dos EUA à CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/politica/queremos-eleicoes-livres-no-brasil-diz-porta-voz-dos-eua-a-cnn-brasil/",
+      "summary": "Porta-voz do Departamento de Estado americano afirma que interferir em eleições não faz parte da estratégia do governo Trump; a apuração é da correspondente internacional da CNN Priscila Yazbek",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 24 Sep 2026 02:04:13 +0000"
     },
     {
       "id": "e6c0411af968",
@@ -514,6 +535,27 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 23 Sep 2026 23:03:03 -0000"
+    },
+    {
+      "id": "4d65cd666407",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ato de Lula com artistas no RJ tem apelos contra bets, ataque a Trump e vaia a aliado",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml",
+      "summary": "O ato de campanha pela reeleição do presidente Lula (PT) com artistas nesta quarta-feira (23) no Rio de Janeiro teve apelos pela proibição das plataformas de apostas esportivas, críticas ao presidente dos Estados Unidos, Donald Trump, e vaias a um aliado no estado.\nLeia mais (09/23/2026 - 23h28)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "23 Sep 2026 23:28:00 -0300"
     },
     {
       "id": "217d97380e83",
