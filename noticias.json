@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:15:33.264927+00:00",
+  "generated_at": "2026-09-24T11:42:48.488069+00:00",
   "items": [
     {
       "id": "be51dd22b150",
@@ -92,6 +92,29 @@
       ],
       "score": 94,
       "publishedRaw": "Thu, 24 Sep 2026 09:49:49 GMT"
+    },
+    {
+      "id": "8e6ed03b5454",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro tem 45% e Lula, 44%, no 2º turno, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-tem-45-e-lula-44-no-2o-turno-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data também mostra que, em cenário de 1º turno, o petista tem 41% contra 37% do senador",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Thu, 24 Sep 2026 11:23:09 +0000"
     },
     {
       "id": "5137c0033dad",
@@ -473,6 +496,27 @@
       "publishedRaw": "24 Sep 2026 06:00:00 -0300"
     },
     {
+      "id": "4e5041b30653",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sete alvos de operação contra revenda de celulares viram réus em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sete-alvos-de-operacao-contra-revenda-de-celulares-viram-reus-em-sp/",
+      "summary": "Operação Frankmobile, deflagrada em 10 de setembro, cumpriu 15 mandados de prisão contra grupo especializado em furto, roubo e revenda de celulares; Ministério Público também pediu indenização no valor de R$ 90 milhões por danos morais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 11:16:29 +0000"
+    },
+    {
       "id": "adc2798536a8",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -557,90 +601,6 @@
       "publishedRaw": "Thu, 24 Sep 2026 10:31:12 +0000"
     },
     {
-      "id": "6d3503b6f67a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: Lula é desaprovado por 52%; 45% aprovam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-e-desaprovado-por-52-45-aprovam/",
-      "summary": "Pesquisa ouviu 2 mil eleitores entre 19 e 23 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:05:49 +0000"
-    },
-    {
-      "id": "b707122fd9af",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: Lula tem 50% de rejeição; Flávio, 49%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-50-de-rejeicao-flavio-49/",
-      "summary": "Levantamento ouviu 2.000 eleitores em todo o território nacional entre 19 e 23 de setembro de 2026; margem de erro de 2 pontos percentuais e nível de confiança de 95%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:04:53 +0000"
-    },
-    {
-      "id": "e79e9c216de2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: Lula tem 41% no 1º turno; Flávio, 37%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-41-no-1o-turno-flavio-37/",
-      "summary": "Foram ouvidas 2.000 pessoas entre os dias 19 e 23 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:01:14 +0000"
-    },
-    {
-      "id": "5fde751192cd",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: Flávio tem 45% no 2º turno; Lula, 44%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-45-no-2o-turno-lula-44/",
-      "summary": "Foram ouvidas 2.000 pessoas entre os dias 19 e 23 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:01:03 +0000"
-    },
-    {
       "id": "22468760a766",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -681,6 +641,27 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 01:12:30 +0000"
+    },
+    {
+      "id": "47d743af83d2",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula é desaprovado por 52% e aprovado por 45%, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/governo-lula-e-desaprovado-por-52-e-aprovado-por-45-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data também mostra que 45% dos entrevistados consideram a gestão petista “ruim/péssima”",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 24 Sep 2026 11:34:56 +0000"
     },
     {
       "id": "b499305bb388",
@@ -744,91 +725,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 24 Sep 2026 10:30:19 +0000"
-    },
-    {
-      "id": "5fdd3988fdc8",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PoderData/Aya: Lula é desaprovado por 50% e aprovado por 41%",
-      "link": "https://www.poder360.com.br/poderdata/poderdata-aya-lula-e-desaprovado-por-50-e-aprovado-por-41-2/",
-      "summary": "Levantamento realizado de 20 a 23 de setembro mostra que a percepção do eleitorado sobre o trabalho do petista se manteve estável, mas as avaliações negativas seguem acima das positivas",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:30:16 +0000"
-    },
-    {
-      "id": "43efad98530f",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula é rejeitado por 49% e Flávio, por 47%, diz PoderData/Aya",
-      "link": "https://www.poder360.com.br/poderdata/lula-e-rejeitado-por-49-e-flavio-por-47-diz-poderdata-aya/",
-      "summary": "Levantamento de 20 a 23 de setembro mostra que rejeição ao congressista oscilou 1 ponto percentual para cima, enquanto a do petista variou para baixo na mesma proporção",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:30:12 +0000"
-    },
-    {
-      "id": "75b7ee1fdac5",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "46% veem Lula vencedor e 45%, Flávio, diz PoderData/Aya",
-      "link": "https://www.poder360.com.br/poderdata/46-veem-lula-vencedor-e-45-flavio-diz-poderdata-aya/",
-      "summary": "Pesquisa mede quem os eleitores acham que vencerá eventual 2º turno; entre os que votam em nomes da 3ª via, Flávio é o mais citado",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 10:30:08 +0000"
-    },
-    {
-      "id": "acadfcd4cade",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "18% dos eleitores de Lula e 14% de Flávio recebem Bolsa Família",
-      "link": "https://www.poder360.com.br/poderdata/18-dos-eleitores-de-lula-e-14-de-flavio-recebem-bolsa-familia/",
-      "summary": "Levantamento PoderData/Aya feito de 20 a 23 de setembro analisa o impacto do programa após presidente anunciar reajuste no valor do benefício",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 24 Sep 2026 10:30:10 +0000"
     },
     {
       "id": "724a66f7fe49",
@@ -944,6 +840,21 @@
       ],
       "score": 80,
       "publishedRaw": "Thu, 24 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "015919f59631",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após ser “desconvidado”, Renan Santos fará ato em frente à “Globo”",
+      "link": "https://www.poder360.com.br/poder-eleicoes/apos-ser-desconvidado-renan-santos-fara-ato-em-frente-a-globo/",
+      "summary": "Candidato à Presidência diz que transformará manifestação que faria no Rio em protesto contra a emissora",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Thu, 24 Sep 2026 11:17:47 +0000"
     },
     {
       "id": "f6d5ec9d0a5d",
