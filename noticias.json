@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:44:45.224627+00:00",
+  "generated_at": "2026-09-25T14:16:57.625397+00:00",
   "items": [
     {
       "id": "a3683023562c",
@@ -196,6 +196,27 @@
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
     },
     {
+      "id": "d5e80fbaf5ea",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 48% e Lula, 41%, no 2º turno no ES, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-48-e-lula-41-no-2o-turno-no-es-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data mostra que, no 1º turno, o senador tem 39% contra 37% do presidente",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 25 Sep 2026 14:06:29 +0000"
+    },
+    {
       "id": "474e9cdd6fbc",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -236,27 +257,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 25 Sep 2026 12:08:38 +0000"
-    },
-    {
-      "id": "9b04d2012f4d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em Alagoas, Lula tem 53% e Flávio, 38% no 2º turno, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-alagoas-lula-tem-53-e-flavio-38-no-2o-turno-diz-pesquisa/",
-      "summary": "Levantamento Real Time Big Data mostra que 56% dos eleitores de Alagoas dizem que não votariam em Flávio",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 12:04:34 +0000"
     },
     {
       "id": "65d439334c9d",
@@ -319,25 +319,6 @@
       "publishedRaw": "Fri, 25 Sep 2026 13:17:03 -0000"
     },
     {
-      "id": "99e5459308b7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "NYT repercute caso Moraes-Vorcaro e indica possível impacto nas eleições brasileiras",
-      "link": "https://www.estadao.com.br/politica/nyt-repercute-caso-moraes-vorcaro-e-sinaliza-possivel-impacto-nas-eleicoes-brasileiras-nprp/",
-      "summary": "Artigo demonstra preocupação com enfraquecimento das instituições após o caso de corrupção e uso político da crise",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 25 Sep 2026 11:53:11 +0000"
-    },
-    {
       "id": "e798a2b576ea",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -355,6 +336,25 @@
       ],
       "score": 82,
       "publishedRaw": "Fri, 25 Sep 2026 12:30:00 +0000"
+    },
+    {
+      "id": "99e5459308b7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "NYT repercute caso Moraes-Vorcaro e indica possível impacto nas eleições brasileiras",
+      "link": "https://www.estadao.com.br/politica/nyt-repercute-caso-moraes-vorcaro-e-sinaliza-possivel-impacto-nas-eleicoes-brasileiras-nprp/",
+      "summary": "Artigo demonstra preocupação com enfraquecimento das instituições após o caso de corrupção e uso político da crise",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 25 Sep 2026 11:53:11 +0000"
     },
     {
       "id": "14ae0c18f191",
