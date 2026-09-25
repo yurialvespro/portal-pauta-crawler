@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:16:57.625397+00:00",
+  "generated_at": "2026-09-25T14:44:51.472208+00:00",
   "items": [
     {
       "id": "a3683023562c",
@@ -15,8 +15,8 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -41,8 +41,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -70,13 +70,13 @@
       "publishedRaw": "Fri, 25 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "ee36d11dda90",
-      "source": "CNN Brasil",
+      "id": "f2ff9e32e10b",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula anunciará novo programa de renegociação de dívidas junto a fim de bets",
-      "link": "https://www.cnnbrasil.com.br/politica/lula-anunciara-novo-programa-de-renegociacao-de-dividas-junto-a-fim-de-bets/",
-      "summary": "Iniciativa será anunciada junto da divulgação de medida sobre o fim de bets; ideia central do novo \"Desenrola\" é que Tesouro compre dívidas antigas de consumidores e garanta descontos",
+      "title": "Campanha de Lula adapta música de Bad Bunny em vídeo sobre soberania",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/campanha-de-lula-adapta-cancao-de-bad-bunny-em-video-sobre-soberania.shtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) usou uma adaptação de uma música do cantor Bad Bunny em uma peça de campanha para a reeleição. O vídeo, publicado na quarta-feira (23), faz uma defesa da soberania e critica os Estados Unidos.\nLeia mais (09/25/2026 - 11h37)",
       "tags": [
         "Lula"
       ],
@@ -88,7 +88,28 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 13:27:49 +0000"
+      "publishedRaw": "25 Sep 2026 11:37:00 -0300"
+    },
+    {
+      "id": "34d74727e805",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Boulos pede licença não remunerada para se dedicar à campanha de Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/boulos-pede-licenca-nao-remunerada-para-se-dedicar-a-campanha-de-lula.shtml",
+      "summary": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos (PSOL), encaminhou nesta sexta-feira (25) pedido de licença não remunerada para se dedicar à campanha de reeleição de Lula (PT).\nLeia mais (09/25/2026 - 11h22)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "25 Sep 2026 11:22:00 -0300"
     },
     {
       "id": "ab4c9465ccac",
@@ -103,7 +124,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -124,7 +145,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -145,7 +166,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -166,7 +187,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -187,13 +208,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
+    },
+    {
+      "id": "72f3e4b48005",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio tem 48% contra 40% de Lula no TO no 2º turno, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes/flavio-tem-48-contra-40-de-lula-no-to-no-2o-turno-diz-pesquisa/",
+      "summary": "Levantamento Real Time Big Data mostra empate entre os 2 candidatos no 1º turno e vantagem de Flávio no 2º",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 25 Sep 2026 14:20:31 +0000"
     },
     {
       "id": "d5e80fbaf5ea",
@@ -208,8 +250,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -229,34 +271,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Fri, 25 Sep 2026 13:31:53 +0000"
-    },
-    {
-      "id": "100ec6a6e834",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: Lula vai a ato político com João Campos, no Recife",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-vai-a-ato-politico-com-joao-campos-no-recife/",
-      "summary": "Presidente decidiu ir no 1º turno a Pernambuco, onde nasceu, em gesto ao aliado do PSB",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 12:08:38 +0000"
     },
     {
       "id": "65d439334c9d",
@@ -271,12 +292,50 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 13:17:03 -0000"
+    },
+    {
+      "id": "8205875afe6c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Indefinição no STF trava operações do caso Master na Polícia Federal",
+      "link": "https://www.cnnbrasil.com.br/politica/indefinicao-no-stf-trava-operacoes-do-caso-master-na-policia-federal/",
+      "summary": "Crise entre gabinetes do STF paralisa apurações desde julho; segundo apuração de Elijonas Maia, PF aguarda definição para retomar pedidos de medidas judiciais",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 14:28:49 +0000"
+    },
+    {
+      "id": "fdb9b92a1157",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Estado de coisas inconstitucional’ vigente no STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/estado-de-coisas-inconstitucional-vigente-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 11:14:38 +0000"
     },
     {
       "id": "9b8bc02c9c8d",
@@ -310,8 +369,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -387,8 +446,8 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -408,8 +467,8 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -494,24 +553,6 @@
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
-      "id": "fdb9b92a1157",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Estado de coisas inconstitucional’ vigente no STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/estado-de-coisas-inconstitucional-vigente-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 25 Sep 2026 11:14:38 +0000"
-    },
-    {
       "id": "8131e3037308",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -523,9 +564,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
     },
     {
@@ -540,9 +582,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
     },
     {
