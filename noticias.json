@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:13:44.703376+00:00",
+  "generated_at": "2026-09-25T19:41:57.369872+00:00",
   "items": [
     {
       "id": "0ee0e1844662",
@@ -91,6 +91,48 @@
       "publishedRaw": "Fri, 25 Sep 2026 15:31:33 -0000"
     },
     {
+      "id": "2bf91bb444d9",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Disputa entre Flávio e Lula ganha ares de guerra espiritual com boato sobre Nossa Senhora Aparecida",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/disputa-entre-flavio-e-lula-ganha-ares-de-guerra-espiritual-com-boato-sobre-nossa-senhora-aparecida.shtml",
+      "summary": "Flávio Bolsonaro (PL), se vencer a disputa presidencial contra Lula (PT), vai remover Nossa Senhora Aparecida do posto de padroeira do Brasil?\nLeia mais (09/25/2026 - 16h13)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "25 Sep 2026 16:13:00 -0300"
+    },
+    {
+      "id": "2cd6dcc912a3",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alckmin explora boato sobre Flávio, acirra disputa religiosa e diz que Lula conserva 'tradições católicas'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/alckmin-acirra-disputa-religiosa-com-flavio-bolsonaro-e-diz-que-lula-conserva-tradicoes-catolicas.shtml",
+      "summary": "O vice-presidente da República e companheiro na chapa de reeleição do presidente Lula (PT), Geraldo Alckmin (PSB), explorou nesta sexta-feira (25) o boato espalhado em redes sociais de que o principal adversário de seu grupo político, o senador Flávio Bolsonaro (PL-RJ), retiraria o título de padroeira do Brasil de Nossa Senhora Aparecida.\nLeia mais (09/25/2026 - 16h11)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "25 Sep 2026 16:11:00 -0300"
+    },
+    {
       "id": "23236f1179be",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -139,27 +181,6 @@
       "category": "Política",
       "title": "‘Moraes defendeu a democracia, mas isso não lhe dá salvo-conduto’, diz coordenador de Lula",
       "link": "https://www.estadao.com.br/politica/eleicoes/moraes-defendeu-a-democracia-mas-isso-nao-lhe-da-salvo-conduto-diz-coordenador-de-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "625ec2e4f373",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após arrecadar R$ 19 bi com bets, Lula proibirá apostas no País de olho na reeleição",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/apos-arrecadar-r-19-bi-com-bets-lula-proibira-apostas-no-pais-de-olho-na-reeleicao/",
       "summary": "",
       "tags": [
         "Lula"
@@ -236,48 +257,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 25 Sep 2026 18:42:13 +0000"
-    },
-    {
-      "id": "5618ed118175",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Medida de Lula contra bets é “hipócrita e eleitoreira”, diz Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/medida-de-lula-contra-bets-e-hipocrita-e-eleitoreira-diz-flavio/",
-      "summary": "Candidato do PL afirma que o petista é o “pai do Tigrinho” e que tenta “enganar o povo” com proibição das plataformas",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 18:13:16 +0000"
-    },
-    {
-      "id": "7d190f2c105c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula promulga acordo de livre comércio entre Mercosul e EFTA",
-      "link": "https://www.poder360.com.br/poder-governo/lula-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta/",
-      "summary": "Decreto formaliza regras para ampliar exportações, investimentos e acesso a compras governamentais para os 4 países",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 18:09:15 +0000"
     },
     {
       "id": "65d439334c9d",
@@ -536,24 +515,6 @@
       "publishedRaw": "Wed, 23 Sep 2026 23:02:25 +0000"
     },
     {
-      "id": "fdb9b92a1157",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Estado de coisas inconstitucional’ vigente no STF",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/estado-de-coisas-inconstitucional-vigente-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Fri, 25 Sep 2026 11:14:38 +0000"
-    },
-    {
       "id": "e798a2b576ea",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -657,21 +618,19 @@
       "publishedRaw": "25 Sep 2026 15:29:00 -0300"
     },
     {
-      "id": "f64f4c0ff2f9",
-      "source": "Folha de São Paulo",
+      "id": "25e22db07eaf",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "ESPN renova contratos com Luciano Amaral, Paulo Calçade e Alex Tseng até 2028",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/espn-renova-contratos-com-luciano-amaral-paulo-calcade-e-alex-tseng-ate-2028.shtml",
-      "summary": "A ESPN realizou nesta sexta-feira (25) uma série de renovações de contrato com parte do seu elenco. Todos eles assinaram novos vínculos por dois anos. Se cumprirem até o final, ficam no canal esportivo da Disney até 2028.\nLeia mais (09/25/2026 - 15h18)",
+      "title": "The Economist chama Renan Santos de ‘libertário combativo’ e diz que candidato é o mais adequado",
+      "link": "https://www.estadao.com.br/politica/eleicoes/the-economist-chama-renan-santos-de-libertario-combativo-e-diz-que-candidato-e-o-mais-adequado-nprp/",
+      "summary": "",
       "tags": [
-        "TSE"
+        "Renan Santos"
       ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "25 Sep 2026 15:18:00 -0300"
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Fri, 25 Sep 2026 18:45:12 +0000"
     },
     {
       "id": "fb5fd5043104",
