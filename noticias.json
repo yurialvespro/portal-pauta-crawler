@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:15:51.075020+00:00",
+  "generated_at": "2026-09-25T11:43:38.212842+00:00",
   "items": [
     {
       "id": "a3683023562c",
@@ -18,10 +18,9 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Fri, 25 Sep 2026 08:42:50 GMT"
     },
     {
@@ -43,8 +42,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
       "score": 92,
       "publishedRaw": "Thu, 24 Sep 2026 22:53:14 -0000"
@@ -110,24 +108,135 @@
       "publishedRaw": "Thu, 24 Sep 2026 19:00:49 GMT"
     },
     {
-      "id": "87c3c7a53172",
+      "id": "fdb9b92a1157",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Estado de coisas inconstitucional’ vigente no STF",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/estado-de-coisas-inconstitucional-vigente-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 11:14:38 +0000"
+    },
+    {
+      "id": "70d51529042e",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF veta revogação unilateral de ICMS aprovado pelo Confaz",
+      "link": "https://www.poder360.com.br/poder-justica/stf-veta-revogacao-unilateral-de-icms-aprovado-pelo-confaz/",
+      "summary": "Corte entendeu que Estados não podem revogar unilateralmente benefícios fiscais do ICMS",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 11:38:26 +0000"
+    },
+    {
+      "id": "5e7ee36b6113",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Quais os documentos que precisa para votar?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-quais-os-documentos-que-precisa-para-votar.ghtml",
+      "summary": "Para votar, o eleitor precisa apenas de um documento oficial com foto, mas precisa saber qual sua zona e seção eleitoral.\nÉrico Andrade/G1\nPara votar nas eleições de 2026, o eleitor deve apresentar um documento oficial com foto aos mesários. O título de eleitor em papel não é obrigatório e, na maioria dos casos, nem precisa ser levado.\nTambém é possível votar usando apenas o aplicativo e-Título, desde que ele exiba a fotografia do eleitor. Caso a versão digital não tenha foto, será necessário apresentar outro documento oficial com foto.\nQuais documentos são aceitos para votar?\nA Justiça Eleitoral aceita os seguintes documentos oficiais com foto para identificar o eleitor no dia da votação:\ncarteira de identidade (RG);\nCarteira Nacional de Habilitação (CNH);\ncarteira de trabalho;\npassaporte;\ncertificado de reservista;\ncarteira de categoria profissional reconhecida por lei, como OAB, CRM, CREA e outros conselhos profissionais.\nMesmo que estejam vencidos, esses documentos podem ser aceitos, desde que permitam identificar o eleitor.\nJá a certidão de nascimento e a certidão de casamento não são válidas para votar, pois não possuem fotografia.\nÉ obrigatório levar o título de eleitor?\nNão. O título de eleitor em papel não é exigido para votar. O documento serve apenas para facilitar a consulta da zona eleitoral e da seção onde o eleitor vota.\nSe o eleitor souber o local de votação, basta apresentar um documento oficial com foto. Nem mesmo o e-Título é obrigatório, caso o eleitor saiba sua zona e seção eleitoral. \nO e-Título vale como documento?\nSim, desde que a versão do aplicativo exiba a foto do eleitor. Nessa situação, o e-Título pode ser utilizado sozinho para a identificação na seção eleitoral, sem necessidade de apresentar outro documento.\nSe o aplicativo não mostrar a fotografia — normalmente porque o eleitor ainda não fez o cadastro biométrico — será obrigatório apresentar também um documento oficial com foto (lista acima).\nQuem vota no exterior precisa dos mesmos documentos. Brasileiros inscritos para votar no exterior também podem utilizar o e-Título. Da mesma forma, quando o aplicativo não exibe a fotografia, o eleitor deverá apresentar um documento oficial com foto para comprovar sua identidade.\nPara evitar problemas na hora de votar, a recomendação é levar um dos documentos com fotos listados acima. \nCaso não tenha o e-Título ou a versão impressa em mãos, o ideal é ir para o local de votação sabendo qual a zona e a seção eleitoral, que podem ser consultados no site do TSE ou nos portais dos tribunais regionais.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 25 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "8131e3037308",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF mantém suspensão de multas da NR-1 sobre saúde mental no trabalho por mais 90 dias",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
+      "summary": "NR-1: Como saber se você está em um ambiente de trabalho tóxico? Faça o QUIZ\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), prorrogou por mais 90 dias a suspensão da aplicação de multas e outras punições previstas na Norma Regulamentadora nº 1 (NR-1) relacionadas aos riscos psicossociais no ambiente de trabalho.\nA atualização da regra passou a exigir que as empresas identifiquem, avaliem e gerenciem fatores que podem afetar a saúde mental dos trabalhadores, como assédio, pressão excessiva, sobrecarga de trabalho, jornadas extensas e falhas na organização do trabalho.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA decisão, tomada nesta quinta-feira (24), mantém as penalidades suspensas enquanto governo, empresas e demais envolvidos tentam chegar a um acordo sobre a aplicação das regras.\nEm junho, Mendonça já havia suspendido por 90 dias a aplicação das penalidades previstas nas regras questionadas da norma. \nNa ocasião, o ministro também encaminhou o caso para uma tentativa de acordo no Núcleo de Solução Consensual de Conflitos (Nusol) do STF. A decisão foi depois confirmada pelo plenário da Corte.\nApós a primeira reunião de conciliação, realizada em 14 de setembro, a Confederação Nacional de Saúde (CNSaúde) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pediram mais prazo para a continuidade das negociações.\nJá a Advocacia-Geral da União (AGU) defendeu que a discussão seja encaminhada à Câmara de Promoção de Segurança Jurídica no Ambiente de Negócios (Sejan). O ministro determinou que a AGU apresente informações complementares sobre o pedido em até cinco dias.\nA prorrogação não suspende toda a NR-1. As empresas continuam obrigadas a identificar, avaliar e prevenir riscos psicossociais relacionados ao trabalho, como excesso de carga de trabalho, pressão constante, assédio e problemas na organização do trabalho.\nO que fica suspenso, por mais 90 dias, é a aplicação de multas e outras punições relacionadas aos dispositivos sobre riscos psicossociais que são questionados na ação.\nNa prática, os auditores-fiscais do trabalho não poderão aplicar essas penalidades durante o período de suspensão.\nA decisão é provisória e vale para empresas de todo o país. O objetivo é permitir que governo, empregadores e demais envolvidos discutam como as regras devem ser aplicadas.\nEntenda a ação\nA decisão atende a uma ação apresentada pela Confederação Nacional dos Estabelecimentos de Ensino (Confenen), que questiona alterações na NR-1, do Ministério do Trabalho e Emprego (MTE).\nA entidade argumenta que a norma não define de forma clara quais critérios devem ser seguidos pelas empresas para identificar, avaliar e gerenciar os chamados riscos psicossociais. Segundo a confederação, a falta de parâmetros objetivos pode gerar insegurança jurídica e levar à aplicação de multas sem regras claras.\nA decisão também estende para empresas de todo o país os efeitos de uma liminar concedida no fim de maio à Federação das Indústrias do Estado de São Paulo (Fiesp), que suspendia as punições para as cerca de 130 mil empresas paulistas representadas pela entidade.\nAs mudanças na NR-1 entraram em vigor em 26 de maio deste ano. Na ocasião, o Ministério do Trabalho e Emprego (MTE) informou que, nos primeiros 90 dias de vigência da norma, a fiscalização teria caráter prioritariamente orientativo.\nAgora, a decisão de Mendonça mantém suspensa, por mais 90 dias, a aplicação de multas e outras sanções relacionadas aos riscos psicossociais previstos na NR-1. A medida ocorre em meio a uma série de questionamentos judiciais sobre a atualização da norma.\nDurante esse período, governo, empregadores e demais participantes deverão discutir formas de tornar as regras mais objetivas. Ao fim das negociações, o processo voltará para análise do relator.\nO g1 procurou o Ministério do Trabalho e Emprego (MTE) e o Ministério Público do Trabalho (MPT) , mas não havia obtido retorno até a última atualização desta reportagem.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nO que muda?\nAs empresas continuam obrigadas a cumprir as diretrizes da NR-1 sobre prevenção de riscos psicossociais.\nFicam suspensas, por mais 90 dias, multas e outras sanções relacionadas aos dispositivos da norma sobre riscos psicossociais questionados na ação.\nA medida é provisória e vale para empresas de todo o país.\nPressão e adiamento \nA atualização da Norma Regulamentadora nº 1 (NR-1), que entrou em vigor em maio deste ano, foi anunciada pelo Ministério do Trabalho em agosto de 2024 para incluir os riscos psicossociais entre os fatores que devem ser identificados e gerenciados pelas empresas.\nInicialmente, as novas regras passariam a valer em maio de 2025. Após pressão de entidades empresariais e sindicatos patronais, o governo adiou a entrada em vigor por um ano.\nMesmo após a prorrogação do prazo, representantes do setor patronal defenderam um novo prazo para adaptação, alegando falta de clareza técnica sobre a aplicação da norma. \nO Ministério do Trabalho e o Ministério Público do Trabalho, por outro lado, afirmaram que houve tempo suficiente para debate e preparação das empresas. Em abril, o ministro do Trabalho, Luiz Marinho, disse que não pretendia conceder um novo adiamento.\n“Já houve uma prorrogação no ano passado e, neste momento, não há disposição para novo adiamento”, disse. Segundo o ministro, uma nova mudança só ocorreria com acordo entre empresas e representantes dos trabalhadores — o que não existe hoje.\nPara orientar empresas e trabalhadores, o MTE publicou um Manual de Gerenciamento de Riscos Ocupacionais, um Guia sobre Fatores de Riscos Psicossociais Relacionados ao Trabalho e um documento de perguntas e respostas sobre a atualização da norma.\nEm nota enviada ao g1 na época, o ministério esclareceu que nunca publicou uma norma suspendendo a aplicação de multas relacionadas à NR-1.\nSegundo a pasta, o que passou a valer com a entrada em vigor da atualização foi o critério da dupla visita, previsto na Consolidação das Leis do Trabalho (CLT), pelo qual a fiscalização prioriza ações de orientação, instrução e notificação das empresas antes da aplicação de penalidades, sem impedir medidas administrativas quando cabíveis.\nNa prática, os auditores podem verificar documentos, procedimentos internos e medidas adotadas pelas empresas, além de orientar sobre eventuais adequações. \nO MTE reforça que a NR-1 continua obrigatória e que, após esse período inicial, empresas que permanecerem em situação de descumprimento poderão ser autuadas conforme os critérios previstos na legislação trabalhista.\nA atualização da NR-1 ocorre em meio ao agravamento dos problemas de saúde mental relacionados ao trabalho. Especialistas ouvidos pelo g1 consideram a medida urgente.\nSegundo a Organização Internacional do Trabalho (OIT), mais de 840 mil pessoas morrem todos os anos no mundo por problemas de saúde ligados a riscos psicossociais no trabalho, como jornadas longas, assédio e insegurança no emprego.\nNo Brasil, o cenário também preocupa. No ano passado, o g1 revelou com exclusividade, com base em dados do Ministério da Previdência Social, que o Brasil já vivia uma crise de saúde mental, com o maior número de afastamentos por transtornos mentais em dez anos, registrado em 2024.\nEm 2025, o cenário não só se repetiu como se agravou: mais de meio milhão de benefícios por incapacidade foram concedidos por transtornos mentais, estabelecendo um novo recorde.\nA maior parte desses afastamentos está concentrada em casos de ansiedade e depressão. Os transtornos ansiosos lideram o ranking, com 166.489 licenças concedidas em 2025, seguidos pelos episódios depressivos, que somaram 126.608 afastamentos.\nUma análise da Organização Internacional do Trabalho (OIT) em parceria com o Ministério Público do Trabalho (MPT) mostra que mais de duas mil profissões estão entre aquelas em que os trabalhadores precisaram se afastar do trabalho por transtornos mentais no Brasil.\nNo topo da lista aparecem ocupações como vendedor do comércio varejista, faxineiro e auxiliar de escritório — trabalhadores que atendem o público, mantêm serviços essenciais e sustentam boa parte da rotina urbana.\nBrasil tem mais de 546 mil afastamentos por saúde mental em 2025 e bate recorde",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
+    },
+    {
+      "id": "8131e3037308",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "STF mantém suspensão de multas da NR-1 sobre saúde mental no trabalho por mais 90 dias",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
+      "summary": "NR-1: Como saber se você está em um ambiente de trabalho tóxico? Faça o QUIZ\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), prorrogou por mais 90 dias a suspensão da aplicação de multas e outras punições previstas na Norma Regulamentadora nº 1 (NR-1) relacionadas aos riscos psicossociais no ambiente de trabalho.\nA regra amplia a responsabilidade das empresas na prevenção de fatores como assédio, estresse ocupacional, excesso de jornada e sobrecarga de trabalho, que podem comprometer a saúde mental dos empregados.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA decisão, tomada nesta quinta-feira (24), mantém suspensas as penalidades enquanto governo, empresas e demais envolvidos tentam chegar a um acordo sobre a aplicação das regras.\nEm junho, Mendonça já havia suspendido por 90 dias a aplicação das sanções relacionadas aos dispositivos questionados e encaminhado o caso ao Núcleo de Solução Consensual de Conflitos (Nusol) do STF. A decisão foi referendada pelo Plenário da Corte.\nApós a primeira reunião de conciliação, realizada em 14 de setembro, a Confederação Nacional de Saúde (CNSaúde) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pediram a prorrogação do prazo para dar continuidade às negociações.\nA Advocacia-Geral da União (AGU), por sua vez, pediu que o caso seja encaminhado à Câmara de Promoção de Segurança Jurídica no Ambiente de Negócios (Sejan). Mendonça determinou que a AGU apresente, em cinco dias, informações complementares para explicar o pedido.\nA prorrogação não suspende toda a NR-1. As empresas continuam obrigadas a identificar, avaliar e prevenir riscos psicossociais relacionados ao trabalho, como excesso de carga de trabalho, pressão constante, assédio e problemas na organização do trabalho.\nO que fica suspenso, por mais 90 dias, é a aplicação de multas e outras punições relacionadas aos dispositivos sobre riscos psicossociais que são questionados na ação.\nNa prática, os auditores-fiscais do trabalho não poderão aplicar essas penalidades durante o período de suspensão.\nA decisão é provisória e vale para empresas de todo o país. O objetivo é permitir que governo, empregadores e demais envolvidos discutam como as regras devem ser aplicadas.\nEntenda a ação\nA decisão atende a uma ação apresentada pela Confederação Nacional dos Estabelecimentos de Ensino (Confenen), que questiona alterações na NR-1, do Ministério do Trabalho e Emprego (MTE).\nA entidade argumenta que a norma não define de forma clara quais critérios devem ser seguidos pelas empresas para identificar, avaliar e gerenciar os chamados riscos psicossociais. Segundo a confederação, a falta de parâmetros objetivos pode gerar insegurança jurídica e levar à aplicação de multas sem regras claras.\nA decisão também amplia os efeitos de uma liminar concedida no fim de maio à Federação das Indústrias do Estado de São Paulo (Fiesp), que suspendia as punições apenas para as cerca de 130 mil empresas paulistas representadas pela entidade.\nAs mudanças na NR-1 entraram em vigor em 26 de maio deste ano. Na ocasião, o Ministério do Trabalho e Emprego (MTE) informou que, nos primeiros 90 dias de vigência da norma, a fiscalização teria caráter prioritariamente orientativo.\nAgora, a decisão de Mendonça mantém suspensa, por mais 90 dias, a aplicação de multas e outras sanções relacionadas aos riscos psicossociais previstos na NR-1. A medida ocorre em meio a uma série de questionamentos judiciais sobre a atualização da norma.\nDurante esse período, governo, empregadores e demais participantes deverão discutir formas de tornar as regras mais objetivas. Depois da conciliação, o processo voltará para análise do relator.\nO g1 procurou o Ministério do Trabalho e Emprego (MTE) e o Ministério Público do Trabalho (MPT) , mas não havia obtido retorno até a última atualização desta reportagem.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nO que muda?\nAs empresas continuam obrigadas a cumprir as diretrizes da NR-1 sobre prevenção de riscos psicossociais.\nFicam suspensas, por mais 90 dias, multas e outras sanções relacionadas aos dispositivos da norma sobre riscos psicossociais questionados na ação.\nA medida é provisória e vale para empresas de todo o país.\nPressão e adiamento \nA atualização da Norma Regulamentadora nº 1 (NR-1), que entrou em vigor em maio deste ano, foi anunciada pelo Ministério do Trabalho em agosto de 2024 para incluir os riscos psicossociais entre os fatores que devem ser identificados e gerenciados pelas empresas.\nInicialmente, as novas regras passariam a valer em maio de 2025. Após pressão de entidades empresariais e sindicatos patronais, o governo adiou a entrada em vigor por um ano.\nMesmo após a prorrogação do prazo, representantes do setor patronal defenderam um novo prazo para adaptação, alegando falta de clareza técnica sobre a aplicação da norma. \nO Ministério do Trabalho e o Ministério Público do Trabalho, por outro lado, afirmaram que houve tempo suficiente para debate e preparação das empresas. Em abril, o ministro do Trabalho, Luiz Marinho, disse que não pretendia conceder um novo adiamento.\n“Já houve uma prorrogação no ano passado e, neste momento, não há disposição para novo adiamento”, disse. Segundo o ministro, uma nova mudança só ocorreria com acordo entre empresas e representantes dos trabalhadores — o que não existe hoje.\nPara orientar empresas e trabalhadores, o MTE publicou um Manual de Gerenciamento de Riscos Ocupacionais, um Guia sobre Fatores de Riscos Psicossociais Relacionados ao Trabalho e um documento de perguntas e respostas sobre a atualização da norma.\nEm nota enviada ao g1 na época, o ministério esclareceu que nunca publicou uma norma suspendendo a aplicação de multas relacionadas à NR-1.\nSegundo a pasta, o que passou a valer com a entrada em vigor da atualização foi o critério da dupla visita, previsto na Consolidação das Leis do Trabalho (CLT), pelo qual a fiscalização prioriza ações de orientação, instrução e notificação das empresas antes da aplicação de penalidades, sem impedir medidas administrativas quando cabíveis.\nNa prática, os auditores podem verificar documentos, procedimentos internos e medidas adotadas pelas empresas, além de orientar sobre eventuais adequações. \nO MTE reforça que a NR-1 continua obrigatória e que, após esse período inicial, empresas que permanecerem em situação de descumprimento poderão ser autuadas conforme os critérios previstos na legislação trabalhista.\nA atualização da NR-1 ocorre em meio ao agravamento dos problemas de saúde mental relacionados ao trabalho. Especialistas ouvidos pelo g1 consideram a medida urgente.\nSegundo a Organização Internacional do Trabalho (OIT), mais de 840 mil pessoas morrem todos os anos no mundo por problemas de saúde ligados a riscos psicossociais no trabalho, como jornadas longas, assédio e insegurança no emprego.\nNo Brasil, o cenário também preocupa. No ano passado, o g1 revelou com exclusividade, com base em dados do Ministério da Previdência Social, que o Brasil já vivia uma crise de saúde mental, com o maior número de afastamentos por transtornos mentais em dez anos, registrado em 2024.\nEm 2025, o cenário não só se repetiu como se agravou: mais de meio milhão de benefícios por incapacidade foram concedidos por transtornos mentais, estabelecendo um novo recorde.\nA maior parte desses afastamentos está concentrada em casos de ansiedade e depressão. Os transtornos ansiosos lideram o ranking, com 166.489 licenças concedidas em 2025, seguidos pelos episódios depressivos, que somaram 126.608 afastamentos.\nUma análise da Organização Internacional do Trabalho (OIT) em parceria com o Ministério Público do Trabalho (MPT) mostra que mais de duas mil profissões estão entre aquelas em que os trabalhadores precisaram se afastar do trabalho por transtornos mentais no Brasil.\nNo topo da lista aparecem ocupações como vendedor do comércio varejista, faxineiro e auxiliar de escritório — trabalhadores que atendem o público, mantêm serviços essenciais e sustentam boa parte da rotina urbana.\nBrasil tem mais de 546 mil afastamentos por saúde mental em 2025 e bate recorde",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
+    },
+    {
+      "id": "881be0fb3e38",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Real Time: Em Alagoas, Lula tem 53% no 2º turno; Flávio, 38%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-alagoas-lula-tem-53-no-2o-turno-flavio-38/",
-      "summary": "Foram ouvidos 1.600 eleitores de Alagoas entre os dias 21 e 24 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "title": "Lula define agenda e decide acelerar viagens em reta final do 1º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-define-agenda-e-decide-acelerar-viagens-em-reta-final-do-1o-turno/",
+      "summary": "Petista visitará, em média, um estado por dia; campanha foca nas regiões Sudeste e Nordeste, as mais populosas do país",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Fri, 25 Sep 2026 10:26:08 +0000"
+      "score": 80,
+      "publishedRaw": "Fri, 25 Sep 2026 11:28:10 +0000"
+    },
+    {
+      "id": "cbe95244bfd6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entre Lula e Flávio, Brasil dá as “costas para o futuro”, diz Economist",
+      "link": "https://www.cnnbrasil.com.br/internacional/economist-lula-flavio-editorial-costas-futuro/",
+      "summary": "Revista britânica chama Lula e Flávio Bolsonaro de \"sombrios\" na disputa à presidência, crítica políticas econômicas e corrupção e elogia Renan Santos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 25 Sep 2026 10:57:46 +0000"
     },
     {
       "id": "ab4c9465ccac",
@@ -143,10 +252,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -163,10 +271,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -183,10 +290,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -203,10 +309,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 02:40:07 +0000"
     },
     {
@@ -223,51 +328,100 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
     },
     {
-      "id": "c1196d8fd74f",
-      "source": "Poder360",
+      "id": "9b8bc02c9c8d",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Saiba como estão Lula e Flávio nas pesquisas a 9 dias da eleição",
-      "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-9-dias-da-eleicao/",
-      "summary": "Senador fica numericamente à frente em 5 estudos e Lula em outros 4 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
+      "title": "VÍDEO: Como justificar ausência nas eleições?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/25/video-como-justificar-ausencia-nas-eleicoes.ghtml",
+      "summary": "Guia do Eleitor: Como justificar ausência nas eleições?\nVai estar fora da sua cidade no dia da eleição e não vai conseguir votar? Nesse caso, é possível justificar a ausência pelo aplicativo e-Título. Basta acessar a opção \"Justificativa de Ausência\" no menu do aplicativo. Quando a justificativa é feita no próprio dia da votação, não é necessário apresentar documentos que comprovem o motivo da falta.\nQuem preferir também pode justificar presencialmente. Para isso, é preciso preencher o Requerimento de Justificativa Eleitoral (RJE) e apresentar um documento oficial com foto. O formulário pode ser retirado nos locais indicados pela Justiça Eleitoral ou impresso previamente pelos sites do TSE e dos tribunais regionais eleitorais.\n📍 Em uma série de 50 vídeos, o g1 explica os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nSAIBA MAIS\n50 Vídeos para entender as Eleições de 2026\nJustificando após a data da votação\nMas, se você deixar para resolver depois da eleição, as regras mudam. Nesse caso, será necessário informar o motivo da ausência e apresentar documentos que comprovem a justificativa. O pedido pode ser feito pelo e-Título ou pelo Autoatendimento Eleitoral, disponível no site do TSE.\nDepois de enviar a solicitação, o eleitor recebe um protocolo para acompanhar a análise do pedido. Se a justificativa for aceita, a situação fica regularizada. Caso seja recusada, será necessário pagar multa pela ausência.\nTambém é importante ficar atento aos prazos: cada turno da eleição conta separadamente e tem seu próprio prazo para justificativa. Quem não votar no primeiro turno, em 4 de outubro, poderá justificar a ausência até 3 de dezembro. Já para quem faltar ao segundo turno, o prazo vai até 8 de janeiro.",
       "tags": [
-        "Lula"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Fri, 25 Sep 2026 09:00:54 +0000"
+      "score": 78,
+      "publishedRaw": "Fri, 25 Sep 2026 03:00:01 -0000"
     },
     {
-      "id": "47799ffff6d3",
+      "id": "94554b43dc94",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Agenda de Lula: leia os compromissos do presidente nesta 6ª feira",
-      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-6a-feira-6/",
-      "summary": "Ato político no Recife pela manhã, lançamento de medidas contra apostas e debate com empresários em São Paulo marcam o dia",
+      "title": "Zanin pede manifestação da Anatel sobre acesso à internet nas eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/zanin-pede-manifestacao-da-anatel-sobre-acesso-a-internet-nas-eleicoes/",
+      "summary": "Ação busca liberação de internet nas 72 horas anteriores ao 1º turno",
       "tags": [
-        "Lula"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Fri, 25 Sep 2026 09:00:46 +0000"
+      "score": 78,
+      "publishedRaw": "Fri, 25 Sep 2026 11:36:52 +0000"
+    },
+    {
+      "id": "d6f5039b2f33",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que diz carta de parlamentares dos EUA que acusam governo Trump de interferência nas eleições brasileiras",
+      "link": "https://www.bbc.com/portuguese/articles/c9x2zm3gpv74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Documento foi assinado por um grupo de cerca de 30 congressistas e enviado ao secretário de Estado, Marco Rubio.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 25 Sep 2026 01:13:11 GMT"
+    },
+    {
+      "id": "e77b90c2e16a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
+      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "O cientista político Jairo Nicolau aponta o Brasil atravessa a campanha presidencial mais atípica desde a redemocratização e que um combinação de fatores deve fazer com que milhões decidam não votar em ninguém.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 24 Sep 2026 08:12:04 GMT"
+    },
+    {
+      "id": "6d31b867be1d",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
       "id": "215cac766015",
@@ -283,10 +437,9 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
     },
     {
@@ -303,149 +456,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
-    },
-    {
-      "id": "503fea225aee",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entenda o que muda na lincença-maternidade com a nova decisão do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/entenda-o-que-muda-na-lincenca-maternidade-com-a-nova-decisao-do-stf.shtml",
-      "summary": "O STF (Supremo Tribunal Federal) decidiu que mães biológicas e adotantes devem ter o mesmo período de licença-maternidade, independentemente do vínculo de trabalho. A decisão, tomada na quarta-feira (23), estabelece 120 dias de afastamento remunerado, com possibilidade de prorrogação por mais 60 dias.\nLeia mais (09/25/2026 - 04h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "25 Sep 2026 04:00:00 -0300"
-    },
-    {
-      "id": "5e7ee36b6113",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Quais os documentos que precisa para votar?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-quais-os-documentos-que-precisa-para-votar.ghtml",
-      "summary": "Para votar, o eleitor precisa apenas de um documento oficial com foto, mas precisa saber qual sua zona e seção eleitoral.\nÉrico Andrade/G1\nPara votar nas eleições de 2026, o eleitor deve apresentar um documento oficial com foto aos mesários. O título de eleitor em papel não é obrigatório e, na maioria dos casos, nem precisa ser levado.\nTambém é possível votar usando apenas o aplicativo e-Título, desde que ele exiba a fotografia do eleitor. Caso a versão digital não tenha foto, será necessário apresentar outro documento oficial com foto.\nQuais documentos são aceitos para votar?\nA Justiça Eleitoral aceita os seguintes documentos oficiais com foto para identificar o eleitor no dia da votação:\ncarteira de identidade (RG);\nCarteira Nacional de Habilitação (CNH);\ncarteira de trabalho;\npassaporte;\ncertificado de reservista;\ncarteira de categoria profissional reconhecida por lei, como OAB, CRM, CREA e outros conselhos profissionais.\nMesmo que estejam vencidos, esses documentos podem ser aceitos, desde que permitam identificar o eleitor.\nJá a certidão de nascimento e a certidão de casamento não são válidas para votar, pois não possuem fotografia.\nÉ obrigatório levar o título de eleitor?\nNão. O título de eleitor em papel não é exigido para votar. O documento serve apenas para facilitar a consulta da zona eleitoral e da seção onde o eleitor vota.\nSe o eleitor souber o local de votação, basta apresentar um documento oficial com foto. Nem mesmo o e-Título é obrigatório, caso o eleitor saiba sua zona e seção eleitoral. \nO e-Título vale como documento?\nSim, desde que a versão do aplicativo exiba a foto do eleitor. Nessa situação, o e-Título pode ser utilizado sozinho para a identificação na seção eleitoral, sem necessidade de apresentar outro documento.\nSe o aplicativo não mostrar a fotografia — normalmente porque o eleitor ainda não fez o cadastro biométrico — será obrigatório apresentar também um documento oficial com foto (lista acima).\nQuem vota no exterior precisa dos mesmos documentos. Brasileiros inscritos para votar no exterior também podem utilizar o e-Título. Da mesma forma, quando o aplicativo não exibe a fotografia, o eleitor deverá apresentar um documento oficial com foto para comprovar sua identidade.\nPara evitar problemas na hora de votar, a recomendação é levar um dos documentos com fotos listados acima. \nCaso não tenha o e-Título ou a versão impressa em mãos, o ideal é ir para o local de votação sabendo qual a zona e a seção eleitoral, que podem ser consultados no site do TSE ou nos portais dos tribunais regionais.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 77,
-      "publishedRaw": "Fri, 25 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "8131e3037308",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF mantém suspensão de multas da NR-1 sobre saúde mental no trabalho por mais 90 dias",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
-      "summary": "NR-1: Como saber se você está em um ambiente de trabalho tóxico? Faça o QUIZ\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), prorrogou por mais 90 dias a suspensão da aplicação de multas e outras punições previstas na Norma Regulamentadora nº 1 (NR-1) relacionadas aos riscos psicossociais no ambiente de trabalho.\nA regra amplia a responsabilidade das empresas na prevenção de fatores como assédio, estresse ocupacional, excesso de jornada e sobrecarga de trabalho, que podem comprometer a saúde mental dos empregados.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA decisão, tomada nesta quinta-feira (24), mantém suspensas as penalidades enquanto governo, empresas e demais envolvidos tentam chegar a um acordo sobre a aplicação das regras.\nEm junho, Mendonça já havia suspendido por 90 dias a aplicação das sanções relacionadas aos dispositivos questionados e encaminhado o caso ao Núcleo de Solução Consensual de Conflitos (Nusol) do STF. A decisão foi referendada pelo Plenário da Corte.\nApós a primeira reunião de conciliação, realizada em 14 de setembro, a Confederação Nacional de Saúde (CNSaúde) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pediram a prorrogação do prazo para dar continuidade às negociações.\nA Advocacia-Geral da União (AGU), por sua vez, pediu que o caso seja encaminhado à Câmara de Promoção de Segurança Jurídica no Ambiente de Negócios (Sejan). Mendonça determinou que a AGU apresente, em cinco dias, informações complementares para explicar o pedido.\nA prorrogação não suspende toda a NR-1. As empresas continuam obrigadas a identificar, avaliar e prevenir riscos psicossociais relacionados ao trabalho, como excesso de carga de trabalho, pressão constante, assédio e problemas na organização do trabalho.\nO que fica suspenso, por mais 90 dias, é a aplicação de multas e outras punições relacionadas aos dispositivos sobre riscos psicossociais que são questionados na ação.\nNa prática, os auditores-fiscais do trabalho não poderão aplicar essas penalidades durante o período de suspensão.\nA decisão é provisória e vale para empresas de todo o país. O objetivo é permitir que governo, empregadores e demais envolvidos discutam como as regras devem ser aplicadas.\nEntenda a ação\nA decisão atende a uma ação apresentada pela Confederação Nacional dos Estabelecimentos de Ensino (Confenen), que questiona alterações na NR-1, do Ministério do Trabalho e Emprego (MTE).\nA entidade argumenta que a norma não define de forma clara quais critérios devem ser seguidos pelas empresas para identificar, avaliar e gerenciar os chamados riscos psicossociais. Segundo a confederação, a falta de parâmetros objetivos pode gerar insegurança jurídica e levar à aplicação de multas sem regras claras.\nA decisão também amplia os efeitos de uma liminar concedida no fim de maio à Federação das Indústrias do Estado de São Paulo (Fiesp), que suspendia as punições apenas para as cerca de 130 mil empresas paulistas representadas pela entidade.\nAs mudanças na NR-1 entraram em vigor em 26 de maio deste ano. Na ocasião, o Ministério do Trabalho e Emprego (MTE) informou que, nos primeiros 90 dias de vigência da norma, a fiscalização teria caráter prioritariamente orientativo.\nAgora, a decisão de Mendonça mantém suspensa, por mais 90 dias, a aplicação de multas e outras sanções relacionadas aos riscos psicossociais previstos na NR-1. A medida ocorre em meio a uma série de questionamentos judiciais sobre a atualização da norma.\nDurante esse período, governo, empregadores e demais participantes deverão discutir formas de tornar as regras mais objetivas. Depois da conciliação, o processo voltará para análise do relator.\nO g1 procurou o Ministério do Trabalho e Emprego (MTE) e o Ministério Público do Trabalho (MPT) , mas não havia obtido retorno até a última atualização desta reportagem.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nO que muda?\nAs empresas continuam obrigadas a cumprir as diretrizes da NR-1 sobre prevenção de riscos psicossociais.\nFicam suspensas, por 90 dias, multas, autuações e outras sanções baseadas nos dispositivos questionados da norma.\nTambém ficam suspensos, durante esse período, os efeitos de sanções já aplicadas com base nesses dispositivos.\nA decisão é liminar e ainda será analisada pelo plenário do STF entre os dias 7 e 18 de agosto.\nPressão e adiamento \nA atualização da Norma Regulamentadora nº 1 (NR-1), que entrou em vigor em maio deste ano, foi anunciada pelo Ministério do Trabalho em agosto de 2024 para incluir os riscos psicossociais entre os fatores que devem ser identificados e gerenciados pelas empresas.\nInicialmente, as novas regras passariam a valer em maio de 2025. Após pressão de entidades empresariais e sindicatos patronais, o governo adiou a entrada em vigor por um ano.\nMesmo após a prorrogação do prazo, representantes do setor patronal defenderam um novo prazo para adaptação, alegando falta de clareza técnica sobre a aplicação da norma. \nO Ministério do Trabalho e o Ministério Público do Trabalho, por outro lado, afirmaram que houve tempo suficiente para debate e preparação das empresas. Em abril, o ministro do Trabalho, Luiz Marinho, disse que não pretendia conceder um novo adiamento.\n“Já houve uma prorrogação no ano passado e, neste momento, não há disposição para novo adiamento”, disse. Segundo o ministro, uma nova mudança só ocorreria com acordo entre empresas e representantes dos trabalhadores — o que não existe hoje.\nPara orientar empresas e trabalhadores, o MTE publicou um Manual de Gerenciamento de Riscos Ocupacionais, um Guia sobre Fatores de Riscos Psicossociais Relacionados ao Trabalho e um documento de perguntas e respostas sobre a atualização da norma.\nEm nota enviada ao g1 na época, o ministério esclareceu que nunca publicou uma norma suspendendo a aplicação de multas relacionadas à NR-1.\nSegundo a pasta, o que passou a valer com a entrada em vigor da atualização foi o critério da dupla visita, previsto na Consolidação das Leis do Trabalho (CLT), pelo qual a fiscalização prioriza ações de orientação, instrução e notificação das empresas antes da aplicação de penalidades, sem impedir medidas administrativas quando cabíveis.\nNa prática, os auditores podem verificar documentos, procedimentos internos e medidas adotadas pelas empresas, além de orientar sobre eventuais adequações. \nO MTE reforça que a NR-1 continua obrigatória e que, após esse período inicial, empresas que permanecerem em situação de descumprimento poderão ser autuadas conforme os critérios previstos na legislação trabalhista.\nA atualização da NR-1 ocorre em meio ao agravamento dos problemas de saúde mental relacionados ao trabalho. Especialistas ouvidos pelo g1 consideram a medida urgente.\nSegundo a Organização Internacional do Trabalho (OIT), mais de 840 mil pessoas morrem todos os anos no mundo por problemas de saúde ligados a riscos psicossociais no trabalho, como jornadas longas, assédio e insegurança no emprego.\nNo Brasil, o cenário também preocupa. No ano passado, o g1 revelou com exclusividade, com base em dados do Ministério da Previdência Social, que o Brasil já vivia uma crise de saúde mental, com o maior número de afastamentos por transtornos mentais em dez anos, registrado em 2024.\nEm 2025, o cenário não só se repetiu como se agravou: mais de meio milhão de benefícios por incapacidade foram concedidos por transtornos mentais, estabelecendo um novo recorde.\nA maior parte desses afastamentos está concentrada em casos de ansiedade e depressão. Os transtornos ansiosos lideram o ranking, com 166.489 licenças concedidas em 2025, seguidos pelos episódios depressivos, que somaram 126.608 afastamentos.\nUma análise da Organização Internacional do Trabalho (OIT) em parceria com o Ministério Público do Trabalho (MPT) mostra que mais de duas mil profissões estão entre aquelas em que os trabalhadores precisaram se afastar do trabalho por transtornos mentais no Brasil.\nNo topo da lista aparecem ocupações como vendedor do comércio varejista, faxineiro e auxiliar de escritório — trabalhadores que atendem o público, mantêm serviços essenciais e sustentam boa parte da rotina urbana.\nBrasil tem mais de 546 mil afastamentos por saúde mental em 2025 e bate recorde",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 75,
-      "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
-    },
-    {
-      "id": "8131e3037308",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "STF mantém suspensão de multas da NR-1 sobre saúde mental no trabalho por mais 90 dias",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
-      "summary": "NR-1: Como saber se você está em um ambiente de trabalho tóxico? Faça o QUIZ\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), prorrogou por mais 90 dias a suspensão da aplicação de multas e outras punições previstas na Norma Regulamentadora nº 1 (NR-1) relacionadas aos riscos psicossociais no ambiente de trabalho.\nA regra amplia a responsabilidade das empresas na prevenção de fatores como assédio, estresse ocupacional, excesso de jornada e sobrecarga de trabalho, que podem comprometer a saúde mental dos empregados.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA decisão, tomada nesta quinta-feira (24), mantém suspensas as penalidades enquanto governo, empresas e demais envolvidos tentam chegar a um acordo sobre a aplicação das regras.\nEm junho, Mendonça já havia suspendido por 90 dias a aplicação das sanções relacionadas aos dispositivos questionados e encaminhado o caso ao Núcleo de Solução Consensual de Conflitos (Nusol) do STF. A decisão foi referendada pelo Plenário da Corte.\nApós a primeira reunião de conciliação, realizada em 14 de setembro, a Confederação Nacional de Saúde (CNSaúde) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pediram a prorrogação do prazo para dar continuidade às tratativas.\nApós a primeira reunião de conciliação, realizada em 14 de setembro, a Confederação Nacional de Saúde (CNSaúde) e a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) pediram a prorrogação do prazo para dar continuidade às negociações.\nA Advocacia-Geral da União (AGU), por sua vez, pediu que o caso seja encaminhado à Câmara de Promoção de Segurança Jurídica no Ambiente de Negócios (Sejan). Mendonça determinou que a AGU apresente, em cinco dias, informações complementares para explicar o pedido.\nA prorrogação não suspende toda a NR-1. As empresas continuam obrigadas a identificar, avaliar e prevenir riscos psicossociais relacionados ao trabalho, como excesso de carga de trabalho, pressão constante, assédio e problemas na organização do trabalho.\nO que fica suspenso, por mais 90 dias, é a aplicação de multas e outras punições relacionadas aos dispositivos sobre riscos psicossociais que são questionados na ação.\nNa prática, os auditores-fiscais do trabalho não poderão aplicar essas penalidades durante o período de suspensão.\nA decisão é provisória e vale para empresas de todo o país. O objetivo é permitir que governo, empregadores e demais envolvidos discutam como as regras devem ser aplicadas.\nEntenda a ação\nA decisão atende a uma ação apresentada pela Confederação Nacional dos Estabelecimentos de Ensino (Confenen), que questiona alterações na NR-1, do Ministério do Trabalho e Emprego (MTE).\nA entidade argumenta que a norma não define de forma clara quais critérios devem ser seguidos pelas empresas para identificar, avaliar e gerenciar os chamados riscos psicossociais. Segundo a confederação, a falta de parâmetros objetivos pode gerar insegurança jurídica e levar à aplicação de multas sem regras claras.\nA decisão também amplia os efeitos de uma liminar concedida no fim de maio à Federação das Indústrias do Estado de São Paulo (Fiesp), que suspendia as punições apenas para as cerca de 130 mil empresas paulistas representadas pela entidade.\nAs mudanças na NR-1 entraram em vigor em 26 de maio deste ano. Na ocasião, o Ministério do Trabalho e Emprego (MTE) informou que, nos primeiros 90 dias de vigência da norma, a fiscalização teria caráter prioritariamente orientativo.\nAgora, a decisão de Mendonça mantém suspensa, por mais 90 dias, a aplicação de multas e outras sanções relacionadas aos riscos psicossociais previstos na NR-1. A medida ocorre em meio a uma série de questionamentos judiciais sobre a atualização da norma.\nDurante esse período, governo, empregadores e demais participantes deverão discutir formas de tornar as regras mais objetivas. Depois da conciliação, o processo voltará para análise do relator.\nO g1 procurou o Ministério do Trabalho e Emprego (MTE) e o Ministério Público do Trabalho (MPT) , mas não havia obtido retorno até a última atualização desta reportagem.\nAndré Mendonça concluiu voto sobre responsabilidade das redes sociais nesta quarta (5)\nGustavo Moreno/STF\nO que muda?\nAs empresas continuam obrigadas a cumprir as diretrizes da NR-1 sobre prevenção de riscos psicossociais.\nFicam suspensas, por 90 dias, multas, autuações e outras sanções baseadas nos dispositivos questionados da norma.\nTambém ficam suspensos, durante esse período, os efeitos de sanções já aplicadas com base nesses dispositivos.\nA decisão é liminar e ainda será analisada pelo plenário do STF entre os dias 7 e 18 de agosto.\nPressão e adiamento \nA atualização da Norma Regulamentadora nº 1 (NR-1), que entrou em vigor em maio deste ano, foi anunciada pelo Ministério do Trabalho em agosto de 2024 para incluir os riscos psicossociais entre os fatores que devem ser identificados e gerenciados pelas empresas.\nInicialmente, as novas regras passariam a valer em maio de 2025. Após pressão de entidades empresariais e sindicatos patronais, o governo adiou a entrada em vigor por um ano.\nMesmo após a prorrogação do prazo, representantes do setor patronal defenderam um novo prazo para adaptação, alegando falta de clareza técnica sobre a aplicação da norma. \nO Ministério do Trabalho e o Ministério Público do Trabalho, por outro lado, afirmaram que houve tempo suficiente para debate e preparação das empresas. Em abril, o ministro do Trabalho, Luiz Marinho, disse que não pretendia conceder um novo adiamento.\n“Já houve uma prorrogação no ano passado e, neste momento, não há disposição para novo adiamento”, disse. Segundo o ministro, uma nova mudança só ocorreria com acordo entre empresas e representantes dos trabalhadores — o que não existe hoje.\nPara orientar empresas e trabalhadores, o MTE publicou um Manual de Gerenciamento de Riscos Ocupacionais, um Guia sobre Fatores de Riscos Psicossociais Relacionados ao Trabalho e um documento de perguntas e respostas sobre a atualização da norma.\nEm nota enviada ao g1 na época, o ministério esclareceu que nunca publicou uma norma suspendendo a aplicação de multas relacionadas à NR-1.\nSegundo a pasta, o que passou a valer com a entrada em vigor da atualização foi o critério da dupla visita, previsto na Consolidação das Leis do Trabalho (CLT), pelo qual a fiscalização prioriza ações de orientação, instrução e notificação das empresas antes da aplicação de penalidades, sem impedir medidas administrativas quando cabíveis.\nNa prática, os auditores podem verificar documentos, procedimentos internos e medidas adotadas pelas empresas, além de orientar sobre eventuais adequações. \nO MTE reforça que a NR-1 continua obrigatória e que, após esse período inicial, empresas que permanecerem em situação de descumprimento poderão ser autuadas conforme os critérios previstos na legislação trabalhista.\nA atualização da NR-1 ocorre em meio ao agravamento dos problemas de saúde mental relacionados ao trabalho. Especialistas ouvidos pelo g1 consideram a medida urgente.\nSegundo a Organização Internacional do Trabalho (OIT), mais de 840 mil pessoas morrem todos os anos no mundo por problemas de saúde ligados a riscos psicossociais no trabalho, como jornadas longas, assédio e insegurança no emprego.\nNo Brasil, o cenário também preocupa. No ano passado, o g1 revelou com exclusividade, com base em dados do Ministério da Previdência Social, que o Brasil já vivia uma crise de saúde mental, com o maior número de afastamentos por transtornos mentais em dez anos, registrado em 2024.\nEm 2025, o cenário não só se repetiu como se agravou: mais de meio milhão de benefícios por incapacidade foram concedidos por transtornos mentais, estabelecendo um novo recorde.\nA maior parte desses afastamentos está concentrada em casos de ansiedade e depressão. Os transtornos ansiosos lideram o ranking, com 166.489 licenças concedidas em 2025, seguidos pelos episódios depressivos, que somaram 126.608 afastamentos.\nUma análise da Organização Internacional do Trabalho (OIT) em parceria com o Ministério Público do Trabalho (MPT) mostra que mais de duas mil profissões estão entre aquelas em que os trabalhadores precisaram se afastar do trabalho por transtornos mentais no Brasil.\nNo topo da lista aparecem ocupações como vendedor do comércio varejista, faxineiro e auxiliar de escritório — trabalhadores que atendem o público, mantêm serviços essenciais e sustentam boa parte da rotina urbana.\nBrasil tem mais de 546 mil afastamentos por saúde mental em 2025 e bate recorde",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 75,
-      "publishedRaw": "Fri, 25 Sep 2026 11:06:22 -0000"
-    },
-    {
-      "id": "9b8bc02c9c8d",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "VÍDEO: Como justificar ausência nas eleições?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/25/video-como-justificar-ausencia-nas-eleicoes.ghtml",
-      "summary": "Guia do Eleitor: Como justificar ausência nas eleições?\nVai estar fora da sua cidade no dia da eleição e não vai conseguir votar? Nesse caso, é possível justificar a ausência pelo aplicativo e-Título. Basta acessar a opção \"Justificativa de Ausência\" no menu do aplicativo. Quando a justificativa é feita no próprio dia da votação, não é necessário apresentar documentos que comprovem o motivo da falta.\nQuem preferir também pode justificar presencialmente. Para isso, é preciso preencher o Requerimento de Justificativa Eleitoral (RJE) e apresentar um documento oficial com foto. O formulário pode ser retirado nos locais indicados pela Justiça Eleitoral ou impresso previamente pelos sites do TSE e dos tribunais regionais eleitorais.\n📍 Em uma série de 50 vídeos, o g1 explica os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nSAIBA MAIS\n50 Vídeos para entender as Eleições de 2026\nJustificando após a data da votação\nMas, se você deixar para resolver depois da eleição, as regras mudam. Nesse caso, será necessário informar o motivo da ausência e apresentar documentos que comprovem a justificativa. O pedido pode ser feito pelo e-Título ou pelo Autoatendimento Eleitoral, disponível no site do TSE.\nDepois de enviar a solicitação, o eleitor recebe um protocolo para acompanhar a análise do pedido. Se a justificativa for aceita, a situação fica regularizada. Caso seja recusada, será necessário pagar multa pela ausência.\nTambém é importante ficar atento aos prazos: cada turno da eleição conta separadamente e tem seu próprio prazo para justificativa. Quem não votar no primeiro turno, em 4 de outubro, poderá justificar a ausência até 3 de dezembro. Já para quem faltar ao segundo turno, o prazo vai até 8 de janeiro.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 74,
-      "publishedRaw": "Fri, 25 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "id": "d6f5039b2f33",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que diz carta de parlamentares dos EUA que acusam governo Trump de interferência nas eleições brasileiras",
-      "link": "https://www.bbc.com/portuguese/articles/c9x2zm3gpv74o?at_medium=RSS&at_campaign=rss",
-      "summary": "Documento foi assinado por um grupo de cerca de 30 congressistas e enviado ao secretário de Estado, Marco Rubio.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Fri, 25 Sep 2026 01:13:11 GMT"
-    },
-    {
-      "id": "e77b90c2e16a",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
-      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "O cientista político Jairo Nicolau aponta o Brasil atravessa a campanha presidencial mais atípica desde a redemocratização e que um combinação de fatores deve fazer com que milhões decidam não votar em ninguém.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Thu, 24 Sep 2026 08:12:04 GMT"
-    },
-    {
-      "id": "6d31b867be1d",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
-      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Jornalista Jon Lee Anderson conversou com a BBC News Brasil sobre interesses da Casa Branca na América do Sul, situação de Alexandre de Moraes e momento vivido pelo Brasil na véspera da eleição.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
       "id": "d1cf341e719e",
@@ -478,21 +492,6 @@
       "publishedRaw": "Fri, 25 Sep 2026 09:38:44 -0000"
     },
     {
-      "id": "d2626d2bbd60",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Van Bommel estreia pela Holanda e marca 3ª geração da família na seleção",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/van-bommel-estreia-pela-holanda-e-marca-3a-geracao-da-familia-na-selecao/",
-      "summary": "Atacante filho de Mark Van Bommel estreou com assistência",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Fri, 25 Sep 2026 09:38:31 +0000"
-    },
-    {
       "id": "afe3d2076b4f",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -521,6 +520,21 @@
       "crossOutlets": [],
       "score": 51,
       "publishedRaw": "Thu, 24 Sep 2026 12:56:49 -0000"
+    },
+    {
+      "id": "b23a6c8fc7f0",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "VÍDEO: embaixador de Israel na ONU provoca diplomata iraniano no plenário da Assembleia Geral",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/video-assembleia-geral-onu-embaixador-israel-provoca-diplomata-iraniano.ghtml",
+      "summary": "Embaixador de Israel na ONU provoca diplomata iraniano durante Assembleia Geral\nO embaixador de Israel na ONU, Danny Danon, provocou cara a cara um diplomata iraniano dentro do plenário da Assembleia Geral e publicou a interação nas redes sociais com recados ao Irã.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nNo vídeo, é possível ver Danon se aproximando do diplomata, que representava a comitiva do Irã no plenário da ONU naquele momento, e oferecendo uma caixa da Starlink, a internet por satélite de Elon Musk. Ele disse também que Israel \"ama o povo iraniano\" e que torce por mudança de regime no país rival. Veja abaixo.\n\"Achei que seria apropriado te dar [uma cópia da] Starlink. Se você ouviu o [discurso do] premiê [Netanyahu], seria bem útil para vocês para permitir liberdade ao povo iraniano após o que vocês fizeram com eles. Você quer pegar [a caixa] e levar de volta para Teerã? Pode ser bem útil para vocês no Irã. Amamos o povo iranianos e rezamos por mudança de regime no Irã. Isso ocorrerá um dia\".\nO diplomata iraniano não respondeu e ficou com o rosto virado para outro lado durante a abordagem de Danon.\nEmbaixador de Israel na ONU, Danny Danon, provoca diplomata iraniano no plenário da Assembleia Geral em 24 de setembro de 2026.\nDivulgação/Danny Danon no X",
+      "tags": [
+        "MBL"
+      ],
+      "crossOutlets": [],
+      "score": 50,
+      "publishedRaw": "Fri, 25 Sep 2026 11:39:12 -0000"
     },
     {
       "id": "ea95a004c765",
