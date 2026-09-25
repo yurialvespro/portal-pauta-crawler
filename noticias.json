@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:43:39.568558+00:00",
+  "generated_at": "2026-09-25T18:17:45.499950+00:00",
   "items": [
     {
       "id": "e8230518a7e2",
@@ -286,30 +286,6 @@
       "publishedRaw": "Fri, 25 Sep 2026 17:18:50 +0000"
     },
     {
-      "id": "76d6882fb379",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Votar na família Bolsonaro é votar no Vorcaro”, afirma Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/votar-na-familia-bolsonaro-e-votar-no-vorcaro-afirma-lula/",
-      "summary": "Presidente cita relação de Flávio e Eduardo com banqueiro durante comício em Recife e também fala sobre a proximidade do grupo com os EUA",
-      "tags": [
-        "Bolsonaro",
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 25 Sep 2026 16:06:39 +0000"
-    },
-    {
       "id": "9b8bc02c9c8d",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -350,6 +326,26 @@
       "publishedRaw": "25 Sep 2026 13:15:00 -0300"
     },
     {
+      "id": "bb76f8e54808",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda polêmica envolvendo Flávio Bolsonaro e Nossa Senhora Aparecida",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/entenda-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-aparecida/",
+      "summary": "Conteúdos nas redes ligavam o senador a um projeto de lei arquivado em 2008; candidato do PL garantiu não existir qualquer possibilidade de uma proposta do tipo",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 87,
+      "publishedRaw": "Fri, 25 Sep 2026 17:44:22 +0000"
+    },
+    {
       "id": "e798a2b576ea",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -363,8 +359,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "Poder360"
+        "CNN Brasil",
+        "Folha de São Paulo"
       ],
       "score": 87,
       "publishedRaw": "Fri, 25 Sep 2026 12:30:00 +0000"
@@ -577,13 +573,13 @@
       "publishedRaw": "25 Sep 2026 13:31:00 -0300"
     },
     {
-      "id": "120797edc54c",
+      "id": "c56dc82ca40e",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Às vésperas de MP, Lula reforça critica às bets em PE: “Não é correto”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/as-vesperas-de-mp-lula-reforca-critica-as-bets-em-pe-nao-e-correto/",
-      "summary": "Presidente deve anunciar nesta sexta-feira (25) medida que veta atuação de plataformas de apostas online no país",
+      "title": "Real Time Big Data: no Tocantins, Flávio tem 48% no 2º turno; Lula, 40%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-no-tocantins-flavio-tem-48-no-2o-turno-lula-40/",
+      "summary": "Foram ouvidas 1.600 pessoas entre os dias 21 e 24 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
@@ -596,7 +592,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 17:00:31 +0000"
+      "publishedRaw": "Fri, 25 Sep 2026 17:34:55 +0000"
     },
     {
       "id": "ab4c9465ccac",
@@ -685,6 +681,50 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 25 Sep 2026 02:40:07 +0000"
+    },
+    {
+      "id": "5618ed118175",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Medida de Lula contra bets é “hipócrita e eleitoreira”, diz Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/medida-de-lula-contra-bets-e-hipocrita-e-eleitoreira-diz-flavio/",
+      "summary": "Candidato do PL afirma que o petista é o “pai do Tigrinho” e que tenta “enganar o povo” com proibição das plataformas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 25 Sep 2026 18:13:16 +0000"
+    },
+    {
+      "id": "7d190f2c105c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula promulga acordo de livre comércio entre Mercosul e EFTA",
+      "link": "https://www.poder360.com.br/poder-governo/lula-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta/",
+      "summary": "Decreto formaliza regras para ampliar exportações, investimentos e acesso a compras governamentais para os 4 países",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 25 Sep 2026 18:09:15 +0000"
     },
     {
       "id": "1f9d4b4720fc",
@@ -813,11 +853,33 @@
       "publishedRaw": "Fri, 25 Sep 2026 17:29:19 GMT"
     },
     {
+      "id": "5d1ee6153d6b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula proibir bets é 'desespero por votos' e pode ter impacto em eleição apertada, afirma professor da USP",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gjjdvwjg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Presidente enfrenta disputa acirrada com Flávio Bolsonaro pelo Palácio do Planalto",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 25 Sep 2026 18:10:10 GMT"
+    },
+    {
       "id": "c14664690029",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE anuncia que e-Título poderá ser baixado até no dia da votação",
+      "title": "TSE anuncia que e-Título poderá ser baixado no dia da votação",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/25/tse-anuncia-que-e-titulo-podera-ser-baixado-ate-no-dia-da-votacao.ghtml",
       "summary": "Aplicativo e-Título\nimagens: Justiça Eleitoral/ Reprodução\nO aplicativo e-Título poderá ser baixado inclusive no dia da votação nas eleições de 2026, tanto no 1º quanto no 2º turno, em 4 e 25 de outubro. O anúncio foi feito nesta quinta-feira (24) pelo presidente do Tribunal Superior Eleitoral (TSE), o ministro Kassio Nunes Marques.\nA mudança vale também para o primeiro acesso ao aplicativo. Nas eleições anteriores, o download e a ativação eram interrompidos no dia da votação para evitar uma sobrecarga do sistema. Neste ano, segundo o TSE, a infraestrutura foi preparada para manter o serviço disponível.\n➡️ Ainda assim, a Justiça Eleitoral recomenda que os eleitores baixem e ativem o e-Título com antecedência, para evitar uma concentração de acessos e permitir que confiram previamente os dados e serviços disponíveis no aplicativo.\n📱 O e-Título é a versão digital do título de eleitor e reúne informações e serviços da Justiça Eleitoral.\nGuia do Eleitor: Quais documentos posso usar para votar?\nO aplicativo pode ser usado como documento oficial de identificação na hora de votar por quem tem biometria cadastrada e fotografia disponível no e-Título.\nQuem não tiver foto no aplicativo poderá votar apresentando outro documento oficial com foto, como carteira de identidade, identidade social, carteira nacional de habilitação (CNH), passaporte, certificado de reservista, carteira de trabalho ou carteira de categoria profissional reconhecida por lei.\nTítulo eleitoral\nEleitor podia regularizar a situação do título eleitoral até o dia 4 de maio. Crédito: Antonio Augusto/Ascom/TSE\nComo baixar o e-Título?\nO e-Título está disponível gratuitamente e pode ser baixado em celulares ou tablets Android e iOs.\nNo primeiro acesso, o eleitor deve informar os dados pessoais solicitados e responder a perguntas para confirmar sua identidade. Depois, será necessário cadastrar uma senha ou, caso já tenha uma, informá-la para acessar o aplicativo.\nQuais serviços estão disponíveis no app?\nAlém de funcionar como a versão digital do título, o aplicativo reúne diferentes serviços da Justiça Eleitoral. Pelo e-Título, é possível, entre outras funções:\nConsultar o local de votação e zona eleitoral.ustificar ausência.\nEmitir certidões e declarações.\nPagar débitos eleitorais.",
       "tags": [
@@ -886,6 +948,21 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "25 Sep 2026 14:14:00 -0300"
+    },
+    {
+      "id": "15afe085d724",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Assembleia do MA pede socorro a Fachin contra ordens de Dino que deixaram 3 cadeiras vagas no TCE",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/assembleia-do-ma-pede-socorro-a-fachin-contra-ordens-que-dino-que-deixaram-3-cadeiras-vagas-no-tce/",
+      "summary": "",
+      "tags": [
+        "MBL"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 25 Sep 2026 17:23:26 +0000"
     },
     {
       "id": "afe3d2076b4f",
