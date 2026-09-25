@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:23:29.943758+00:00",
+  "generated_at": "2026-09-25T00:46:32.953723+00:00",
   "items": [
     {
       "id": "0e29c5f77b1e",
@@ -17,12 +17,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 22:36:28 -0000"
     },
     {
@@ -40,12 +39,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 22:27:08 -0000"
     },
     {
@@ -63,12 +61,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 22:22:31 -0000"
     },
     {
@@ -86,12 +83,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 22:22:01 -0000"
     },
     {
@@ -109,12 +105,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 21:44:05 +0000"
     },
     {
@@ -134,7 +129,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -176,22 +170,21 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "24 Sep 2026 20:38:00 -0300"
     },
     {
-      "id": "d92df6a379b0",
-      "source": "CNN Brasil",
+      "id": "ef61793d7a34",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Renan descarta apoio a Lula ou Flávio e critica resultados de pesquisas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-descarta-apoio-a-lula-ou-flavio-e-critica-resultados-de-pesquisas/",
-      "summary": "Candidato também criticou o fato de não ter sido convidado para participar do debate da TV Globo",
+      "title": "Secom nega envio de presentes de lobistas a assessores de Lula",
+      "link": "https://www.poder360.com.br/poder-governo/secom-nega-envio-de-presentes-de-lobistas-a-assessores-de-lula/",
+      "summary": "Nota do Planalto rebate mensagens de Roberta Luchsinger sobre joias e festas e diz que assessores não aceitaram vantagens",
       "tags": [
         "Lula"
       ],
@@ -199,11 +192,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Thu, 24 Sep 2026 23:16:02 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 00:38:13 +0000"
     },
     {
       "id": "abde622f29cb",
@@ -218,12 +210,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 00:20:03 +0000"
     },
     {
@@ -239,12 +230,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 24 Sep 2026 23:42:53 +0000"
     },
     {
@@ -297,13 +287,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
     },
     {
@@ -318,13 +307,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
     },
     {
@@ -339,10 +327,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
+        "BBC Brasil"
       ],
-      "score": 78,
+      "score": 74,
       "publishedRaw": "24 Sep 2026 20:30:00 -0300"
     },
     {
@@ -357,29 +344,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
+        "BBC Brasil"
       ],
-      "score": 78,
+      "score": 74,
       "publishedRaw": "24 Sep 2026 19:58:00 -0300"
-    },
-    {
-      "id": "dbd8e1d773f2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zanin pede parecer da Anatel sobre acesso à internet móvel nas eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/zanin-pede-parecer-da-anatel-sobre-acesso-a-internet-movel-nas-eleicoes/",
-      "summary": "Ação do Partido Verde e da CNTE pede que operadoras mantenham acesso à internet móvel após fim da franquia de dados, nas 72h antes e 24h depois de cada turno das eleições",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 78,
-      "publishedRaw": "Thu, 24 Sep 2026 23:17:25 +0000"
     },
     {
       "id": "e77b90c2e16a",
@@ -393,10 +361,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Thu, 24 Sep 2026 08:12:04 GMT"
     },
     {
@@ -411,59 +378,25 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
-      "id": "415d94adf3aa",
-      "source": "Estadão",
+      "id": "056100af7493",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Ação pede que STF libere internet móvel no País 72 horas antes da eleição",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/acao-pede-que-stf-libere-internet-no-pais-72-horas-antes-da-eleicao/",
-      "summary": "",
+      "title": "STF: Estado não pode revogar unilateralmente benefício de ICMS do Confaz",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/stf-estado-nao-pode-revogar-unilateralmente-beneficio-de-icms-do-confaz/",
+      "summary": "Por 6 votos a 3, Corte derrubou norma de São Paulo que encerrava isenção para áreas de livre comércio do Norte sem deliberação conjunta",
       "tags": [
         "STF"
       ],
       "crossOutlets": [],
       "score": 71,
-      "publishedRaw": "Wed, 23 Sep 2026 18:19:06 +0000"
-    },
-    {
-      "id": "6b8f4b79a425",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT atribui crescimento de Flávio entre evangélicos a mobilização de André Mendonça no STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pt-atribui-crescimento-de-flavio-entre-evangelicos-a-mobilizacao-de-andre-mendonca-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Thu, 24 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "94cb749576bf",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Toffoli vota para barrar candidatura de Dr. Furlan ao governo do Amapá; julgamento é suspenso no TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/toffoli-vota-para-barrar-candidatura-de-dr-furlan-ao-governo-do-amapa-julgamento-e-suspenso-no-tse-nprp/",
-      "summary": "",
-      "tags": [
-        "candidatura",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 70,
-      "publishedRaw": "Thu, 24 Sep 2026 16:54:03 +0000"
+      "publishedRaw": "Fri, 25 Sep 2026 00:27:35 +0000"
     },
     {
       "id": "41588e7571df",
