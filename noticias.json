@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:44:03.426531+00:00",
+  "generated_at": "2026-09-25T10:16:08.548232+00:00",
   "items": [
     {
       "id": "0e29c5f77b1e",
@@ -17,13 +17,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 24 Sep 2026 22:36:28 -0000"
+    },
+    {
+      "id": "a3683023562c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que Lula e Flávio Bolsonaro já disseram sobre bets",
+      "link": "https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Empatados tecnicamente no segundo turno, Lula e Flávio tem se manifestado sobre as bets. Enquanto o petista endureceu discurso, o filho de Jair Bolsonaro critica regulamentação atual.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Fri, 25 Sep 2026 08:42:50 GMT"
     },
     {
       "id": "fb8c36d369a9",
@@ -42,7 +63,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -132,26 +152,6 @@
       "publishedRaw": "Thu, 24 Sep 2026 19:00:49 GMT"
     },
     {
-      "id": "e8a129d80be5",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba como fotografar a Lua cheia usando o celular; fenômeno acontece neste sábado (26)",
-      "link": "https://www.cnnbrasil.com.br/ciencia/saiba-como-o-celular-para-tirar-fotos-melhores-da-lua-cheia-neste-sabado-26/",
-      "summary": "Ajustes de exposição e uso de zoom óptico ajudam a garantir imagens de qualidade do satélite natural, mesmo sem o equipamento adequado ou câmeras profissionais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 25 Sep 2026 06:37:46 +0000"
-    },
-    {
       "id": "ab4c9465ccac",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -164,11 +164,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -184,11 +183,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -204,11 +202,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -224,11 +221,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 02:40:07 +0000"
     },
     {
@@ -244,11 +240,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
     },
     {
@@ -264,11 +259,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 09:00:54 +0000"
     },
     {
@@ -284,11 +278,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 09:00:46 +0000"
     },
     {
@@ -304,11 +297,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 09:00:31 +0000"
     },
     {
@@ -324,10 +316,9 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
+        "BBC Brasil"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Fri, 25 Sep 2026 03:00:00 -0000"
     },
     {
@@ -342,12 +333,11 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
     },
     {
@@ -362,12 +352,11 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
     },
     {
@@ -382,29 +371,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil"
+        "BBC Brasil"
       ],
-      "score": 78,
+      "score": 74,
       "publishedRaw": "Fri, 25 Sep 2026 03:00:01 -0000"
-    },
-    {
-      "id": "7b9c158e9699",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições não impactam decisões das empresas, diz CEO do Citi no Brasil",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/eleicoes-nao-impactam-decisoes-das-empresas-diz-ceo-do-citi-no-brasil/",
-      "summary": "André Cury relatou que está cotidianemente em contato com estrangeiros interessados em investir ou iniciar novas operações no Brasil",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Fri, 25 Sep 2026 07:05:01 +0000"
     },
     {
       "id": "d6f5039b2f33",
@@ -418,10 +388,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Fri, 25 Sep 2026 01:13:11 GMT"
     },
     {
@@ -436,10 +405,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Thu, 24 Sep 2026 08:12:04 GMT"
     },
     {
@@ -454,10 +422,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
     },
     {
@@ -491,19 +458,34 @@
       "publishedRaw": "Fri, 25 Sep 2026 03:00:01 -0000"
     },
     {
-      "id": "e0fba648badc",
-      "source": "Folha de São Paulo",
+      "id": "25e4e6b9b0e4",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "O que você precisa saber da Assembleia Geral da ONU até agora",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/o-que-voce-precisa-saber-da-assembleia-geral-da-onu-ate-agora.shtml",
-      "summary": "Esta é a edição da newsletter Lá Fora. Quer recebê-la no seu email? Inscreva-se abaixo:\nLeia mais (09/25/2026 - 04h00)",
+      "title": "IA vai decidir sua vez na fila do SUS? Propostas de candidatos da esquerda à direita não são simples de implementar",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/25/ia-vai-decidir-sua-vez-na-fila-do-sus-propostas-de-candidatos-da-esquerda-a-direita-nao-sao-simples-de-implementar.ghtml",
+      "summary": "O SUS realiza cerca de 2,8 bilhões de atendimentos por ano\nMarcelo Camargo/Agência Brasil\nNas eleições de 2026, a inteligência artificial pipocou nos planos de governo. O termo foi citado pelos candidatos em propostas que vão da saúde à segurança. E uma proposta une a direita, a esquerda e o centro: o uso de IA no Sistema Único de Saúde (SUS).\nSem muitos detalhamentos e integrando os planos de governo de Luiz Inácio Lula da Silva (PT) a Flávio Bolsonaro (PL), o uso da tecnologia é proposto para triagem e auxílio de diagnósticos. \nUm dos exemplos é utilizar a IA para substituir a tradicional fila por ordem de chegada, implantando uma triagem orientada por algoritmos.\nOu seja, a vez de um paciente passaria a ser avaliada por uma IA com base em fatores como gravidade e risco de progressão da doença.\nEm seu programa, Flávio Bolsonaro promete usar inteligência artificial para agilizar o agendamento de consultas e exames e como apoio à prevenção.\n\"O sistema poderá identificar quem corre maior risco de adoecer e chamar essa pessoa para se cuidar a tempo, em vez de esperar que ela chegue ao pronto-socorro quando já é grave\", diz o plano do candidato.\nLula afirma que quer aprimorar \"ainda mais a regulação do acesso à atenção especializada\", para garantir maior transparência das filas e utilizar inteligência artificial, \"com fila única digital e ordenada pelo risco clínico\".\nJá Renan Santos (Missão) propõe a substituição do atual modelo de fila cronológica e cita diretamente uma plataforma de El Salvador criada pelo governo Bukele.\n\"Temos um programa de integração entre saúde e tecnologia, inspirado parcialmente no que foi operacionalizado em El Salvador, por meio do DoctorSV. O sistema deverá oferecer integração entre laboratórios, farmácias e centros de imagem com triagens\", diz trecho do livro que reúne suas propostas.\nProposta por todos os espectros políticos, a adoção de IA na gestão da saúde é inevitável, diz Alexandre Chiavegatto Filho, professor de inteligência artificial na Faculdade de Saúde Pública da Universidade de São Paulo (USP). Ele aposta que a área vai ser a maior beneficiária da inteligência artificial.\nChiavegatto, que coordena o Laboratório de Big Data e Análise Preditiva da instituição, afirma que existe potencial de uso desde o primeiro contato do paciente com o sistema de saúde até a alta, principalmente no auxílio do diagnóstico.\n\"Os fatores que levam uma pessoa a ter um problema grave de saúde, ou até mesmo ir a óbito, normalmente são interações complexas, e é exatamente nisso que esses algoritmos funcionam tão bem\", diz.\nUm dos potenciais da IA que mais anima Chiavegatto é a possibilidade de ampliar o acesso a especialistas em regiões onde eles são escassos. Seu laboratório desenvolve algoritmos que aprendem com dados de pacientes brasileiros e podem auxiliar profissionais de saúde em locais mais remotos.\nMas há outros especialistas que não são tão otimistas quanto Chiavegatto.\nWagner Meira Jr., professor do Departamento de Ciência da Computação da Universidade Federal de Minas Gerais (UFMG) e pesquisador do Centro de Inovação em Inteligência Artificial para Saúde, pesquisa aplicações de IA no diagnóstico, tratamento e organização dos serviços de saúde. Ele considera que as propostas apresentadas pelos candidatos são, em alguns casos, futuristas. \n\"Dificilmente se realizam em quatro anos de governo\", diz. Para ele, a inteligência artificial tem obtido melhores resultados em situações \"mais contidas e bem definidas\", como a análise de exames. \"Quanto menos específico o caso é, e quanto mais bem delimitado, mais a IA tem sucesso\", afirma.\nMeira Jr. chama atenção para um problema central da proposta de usar algoritmos para reorganizar as filas: a capacidade de atendimento. Segundo ele, não basta mudar a ordem dos pacientes se a quantidade de profissionais e serviços disponíveis continuar a mesma.\n\"Para você conseguir uma melhoria da fila, antes de qualquer coisa, você tem que aumentar o número de atendentes na fila. Depois você pensa em como vai priorizar a fila. Se você simplesmente mudar a posição das pessoas e continuar com a mesma restrição de capacidade, não vai melhorar muita coisa.\"\nOutro obstáculo, segundo o pesquisador, é a própria qualidade dos dados disponíveis no SUS. Grande parte das informações existentes é formada por registros administrativos, produzidos originalmente para fins de faturamento, explica o professor. \n\"Ou seja, esses dados, na verdade, foram usados para pagar um prestador de serviço, em sua maior parte, e não necessariamente para serem usados do ponto de vista clínico. São dados muito ricos. Mas são muito limitados para toda essa gama de cenários\", diz. \nSegundo o Ministério da Saúde, não existe hoje um número nacional consolidado de quantas pessoas aguardam atendimento no SUS. Isso porque a gestão das filas de cirurgias, consultas e exames é de competência de Estados e municípios, e até pouco tempo atrás eles não eram obrigados a enviar essas informações ao governo federal.\nPara tentar resolver essa lacuna, a pasta publicou uma portaria em 2025 que passa a exigir o envio periódico e padronizado desses registros à Rede Nacional de Dados em Saúde (RNDS). A medida, porém, ainda está em fase de implementação.\nA única fonte de dados que o Ministério consegue oferecer hoje é o Sisreg, sistema de regulação usado para agendar consultas e procedimentos — mas que não é adotado por todos os municípios do país, o que o próprio governo reconhece que não representa a totalidade do território nacional.\nNa prática, isso significa que uma IA pode não ter informações suficientes para determinar, para qualquer especialidade, qual paciente deveria ser priorizado.\n\"O problema não é nem a quantidade de coisas que você vai ser capaz de resolver [com a IA], que pode até ser um bom número. O problema é o falso negativo\", diz Meira Jr.\nEm sistemas de saúde, explica o especialista, um falso positivo pode gerar exames ou tratamentos desnecessários e aumentar os custos. Mas um falso negativo pode deixar de identificar justamente quem precisava de atendimento.\n\"O falso positivo é ineficiência, vai pegar custo e vai ser desperdiçado\", afirma. \"Agora, o falso negativo é o complicado. Com um falso negativo, você pode matar alguém.\"\nPor isso, Meira Jr. diferencia o uso da tecnologia para organizar recursos do uso da IA para tomar decisões clínicas.\nNa primeira categoria, ele vê aplicações mais imediatas, como identificar profissionais disponíveis, distribuir consultas e aproveitar estruturas que estejam ociosas.\n\"O uso em aspectos logísticos, administrativos, eficiência do sistema de saúde é uma coisa razoável\", afirma. \nPor exemplo, uma possibilidade seria combinar sistemas de saúde de diferentes regiões para aproveitar consultas disponíveis. \n\"Se eu sei que tenho teleconsultas vagas em São Paulo e tenho gente precisando de teleconsulta na Amazônia, então a IA poderia escalonar essa pessoa para ser atendida por teleconsulta, seria mais rápido do que esperar meses para ser atendida presencialmente.\"\nJá a utilização da tecnologia para decidir quem deve ou não receber determinado tratamento envolve riscos diferentes. Para o cientista, o problema passa também por questões éticas e por definir quem será responsabilizado quando uma decisão automatizada der errado.\nNão existe um número nacional consolidado de quantas pessoas aguardam atendimento no SUS atualmente\nFernando Frazão/Agência Brasil\n\"Você tem que preparar os médicos para poder usar IA, você tem que ter mecanismos de acompanhamento, auditoria, rastreabilidade, e você tem que ter questões legais porque, na hora que alguém morrer, de quem que é a culpa?\"\nO pesquisador defende que o país comece a desenvolver essas tecnologias, mas de forma gradual e com mecanismos de controle.\n\"A gente não deve simplesmente fechar os olhos, mas a gente tem que fazer de uma forma que seja responsável.\"\nLógica já existe, dados ainda não\nPara o cardiologista Antonio Ribeiro, professor do Departamento de Clínica Médica da UFMG e coordenador da Rede de Teleassistência de Minas Gerais, a discussão sobre usar critérios de risco para organizar filas não começa com a inteligência artificial.\n\"Todo sistema público de saúde tem fila. Então, ela precisa ser alguma forma de organização\", argumenta. \nSegundo Ribeiro, o SUS já utiliza diferentes critérios de regulação. A ordem cronológica, portanto, não é o único mecanismo existente.\nEle cita como exemplo os transplantes, em que critérios de risco são usados há anos para definir a prioridade dos pacientes.\n\"Transplantes têm outros critérios que não apenas cronológico. Então, nesse recurso tão caro e tão especial, que é o transplante, já se usa há muito tempo seus escores de risco.\"\nHoje a fragmentação dos dados dos sistemas municipais, estaduais e federal é um dos principais obstáculos para o desenvolvimento de uma IA no SUS\nMarcelo Camargo/Agência Brasil\nPara o cardiologista, o desafio para ampliar esse tipo de tecnologia está menos na existência de algoritmos e mais na infraestrutura necessária para alimentá-los. \"Não existe aplicação de IA sem sistemas integrados de informação em saúde\", afirma. \nOu seja, hoje a fragmentação dos sistemas municipais, estaduais e federal é um dos principais obstáculos. E o país já vem trabalhando na integração dessas informações, mas, segundo Ribeiro, ainda há um caminho a percorrer.\n\"A existência de sistemas digitais interoperáveis, que forneçam uma informação de qualidade que possa ser utilizada, ainda é algo distante.\"\nPor isso, ele considera mais realista começar por aplicações específicas. Um exemplo é um projeto desenvolvido por pesquisadores da UFMG, chefiado por Ribeiro, para priorizar exames de ecocardiograma. \nAqui a ideia é usar informações de eletrocardiogramas para identificar pacientes com maior probabilidade de apresentar alterações estruturais no coração, como insuficiência cardíaca ou doença de Chagas. \n\"Se você utiliza IA aplicada ao eletrocardiograma para reconhecer aqueles casos em que há maior chance de você encontrar uma alteração estrutural, você prioriza muito melhor do que se você deixar ao acaso.\"\nMas mesmo uma ferramenta que apresente bons resultados precisa passar por outra etapa antes de ser incorporada à assistência.\n\"A gente tem que mostrar que ela é capaz de mudar um contexto, que realmente tem a capacidade de priorizar, em estudos de validação prospectiva\", defende Ribeiro.\n\"Qualquer intervenção na área da saúde, na medicina, na saúde pública tem que demonstrar que ela é efetiva, que ela é factível, mas que ela é custo-efetiva, porque ela vai realmente levar uma visão mais racional do uso dos recursos.\"\nAntonio Ribeiro considera que projetos específicos podem começar como pilotos, mas rejeita a ideia de uma solução geral para todas as filas do SUS.\n\"Ela pode ser iniciada em locais ou situações específicas, mas isso está longe de ser uma panaceia ou uma solução pronta para resolver todos os problemas no curto prazo\", afirma. \nPara ele, além da integração dos sistemas, é necessário testar os modelos na prática e preservar a intervenção humana.\n\"Eu acho muito difícil que em saúde existam soluções que não incluam a possibilidade de você ajustar o que a máquina está fazendo\", adiciona. \nO cardiologista cita ainda um problema que pode reduzir filas antes mesmo da aplicação de algoritmos sofisticados: a própria dinâmica dos encaminhamentos.\nSegundo ele, o apoio especializado à atenção primária também pode evitar encaminhamentos desnecessários a especialistas. \nO que pode mudar o SUS\nOs especialistas fazem uma distinção importante entre diferentes tipos de inteligência artificial.\nChiavegatto diferencia a IA generativa, usada para produzir textos, imagens, áudios e vídeos, dos algoritmos preditivos, que aprendem a partir de dados reais de pacientes.\nPara ele, embora a IA generativa possa ser útil para profissionais de saúde, seu impacto estrutural tende a vir da outra tecnologia. \n\"A IA generativa já é uma área muito interessante e importante, que está ajudando muitos profissionais de saúde a tirar dúvidas sobre doenças raras. Mas não é isso que vai transformar o sistema de saúde\", afirma o professor da USP.\n\"O que vai transformar o sistema de saúde é essa segunda área, que é a preditiva, que são algoritmos que aprendem com dados reais e detalhados de pacientes atendidos no sistema.\"\nEsse tipo de algoritmo poderia, por exemplo, analisar a trajetória de um paciente dentro do SUS e auxiliar o médico a estimar riscos.\n\"A ideia é que, dentro do prontuário eletrônico, haja um histórico de todos os pacientes e que o médico consiga perguntar coisas para o algoritmo diretamente.\"\nMas o próprio Chiavegatto ressalta que o setor ainda tem como trava a disponibilidade e a padronização dos dados.\n\"O desafio que temos hoje no Brasil é: temos a tecnologia na área de machine learning em saúde, temos a tecnologia, temos os profissionais capacitados, mas falta a matéria-prima\", explica.\n\"O gargalo hoje é digitalização e padronização dos dados.\"\nO risco de importar um modelo pronto\nEm El Salvador, o governo de Nayib Bukele lançou uma plataforma de inteligência artificial para administrar a saúde pública em novembro de 2025. O DoctorSV funciona com tecnologia do Google Cloud e administra consultas, sugere diagnósticos, tratamentos e exames laboratoriais.\n\"Cada salvadorenho terá uma pessoa — vou chamar a inteligência artificial de pessoa — 24 horas por dia, sete dias por semana, acompanhando sua doença crônica\", disse Bukele ao apresentar a iniciativa.\n\"Que na área da saúde possamos dizer que este sistema não existe em nenhum outro lugar do mundo é um grande tema [pelo qual podemos ser reconhecidos].\"\nSegundo o governo, o aplicativo foi baixado por 1,1 milhão de pessoas. Agora, ele também vai alertar automaticamente pacientes com doenças crônicas, como diabetes e hipertensão, sobre quando tomar seus medicamentos.\nAté abril deste ano, a ferramenta havia gerado cerca de 1,5 milhão de consultas médicas, afirmam as autoridades. A segunda fase será financiada por um empréstimo de US$ 75 milhões do Banco de Desenvolvimento da América Latina e do Caribe, entidade anteriormente conhecida como Corporação Andina de Fomento (CAF).\nEm El Salvador, o DoctorSV funciona com tecnologia do Google Cloud e administra consultas, sugere diagnósticos, tratamentos e exames laboratoriais\nGetty Images/BBC\nAo se cadastrar, o usuário responde a um questionário sobre fatores de risco. Com essas informações, o sistema classifica o paciente e gera uma solicitação de exames laboratoriais. Com os resultados em mãos, agenda uma consulta com um especialista, que recebe o histórico completo do paciente e uma sugestão de diagnóstico.\nQuando uma receita é prescrita, o paciente recebe um código para retirar o medicamento em uma farmácia credenciada.\nA referência a El Salvador em programas como o de Renan Santos também é vista com cautela pelos pesquisadores.\nChiavegatto questiona a possibilidade de usar um algoritmo generalista, como o de empresas como o Google, para orientar decisões em um sistema de saúde específico.\n\"Se eles estiverem usando um algoritmo generalista, corre o risco de o algoritmo que aprendeu basicamente com informações dos Estados Unidos e da Europa continuar replicando desigualdades no sistema, em vez de aprender as particularidades da complexidade do próprio sistema de saúde.\"\nPara ele, modelos usados no SUS deveriam ser desenvolvidos no país e treinados com dados da população brasileira.\n\"O que é preciso é desenvolver algoritmos de aprendizado de máquina que aprendam a realidade de cada região.\"\nMeira Jr. acrescenta outra diferença importante: a escala. \"A população de El Salvador é próxima ao tamanho da região metropolitana de Belo Horizonte. Então não se deve comparar o SUS com isso, você poderia comparar a uma prefeitura.\"\nEl Salvador tem uma população de 6,4 milhões de habitantes — na verdade, quase a mesma da cidade do Rio de Janeiro, que tem cerca de 6,7 milhões de habitantes. \nO país centro-americano faz cerca de 10,5 milhões de atendimentos por ano, uma escala muito menor dos 2,8 bilhões de atendimentos ao ano do sistema público brasileiro. \nOutro ponto importante é uma questão de soberania e proteção dos dados. Meira Jr. questiona a possibilidade de uma empresa privada multinacional ter acesso a informações de pacientes brasileiros. \nO contrato do governo de El Salvador com o Google terá duração de sete anos, segundo porta-vozes da empresa disseram à BBC News Mundo, o serviço em espanhol da BBC. Não se sabe, porém, quem ficará responsável pelo aplicativo após o fim do acordo.\nTambém não se sabe quais são os termos do contrato em relação ao uso dos dados dos pacientes. A empresa afirmou que os dados \"pertencem ao cliente\", mas não respondeu se recebe algum pagamento pelo uso de sua tecnologia.\nO cardiologista Antonio Ribeiro também chama atenção para o caráter especialmente sensível das informações de saúde.\n\"Os dados de saúde são os mais sensíveis possíveis. Eles permitem que as pessoas sejam reconhecidas e discriminadas, que emprego seja negado a elas, por exemplo.\"\nPara ele, qualquer iniciativa precisa garantir que essas informações sejam protegidas.\n\"Isso tem que estar devidamente guardado em servidores com segurança, com o maior esforço necessário possível, para que os dados não sejam tornados disponíveis sem autorização da pessoa para grupos ou pessoas que possam fazer um uso pernicioso dele.\"",
       "tags": [
-        "MBL"
+        "esquerda"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "25 Sep 2026 04:00:00 -0300"
+      "publishedRaw": "Fri, 25 Sep 2026 09:38:44 -0000"
+    },
+    {
+      "id": "d2626d2bbd60",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Van Bommel estreia pela Holanda e marca 3ª geração da família na seleção",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/van-bommel-estreia-pela-holanda-e-marca-3a-geracao-da-familia-na-selecao/",
+      "summary": "Atacante filho de Mark Van Bommel estreou com assistência",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Fri, 25 Sep 2026 09:38:31 +0000"
     },
     {
       "id": "afe3d2076b4f",
