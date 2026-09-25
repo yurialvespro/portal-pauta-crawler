@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:16:08.548232+00:00",
+  "generated_at": "2026-09-25T10:43:46.781346+00:00",
   "items": [
     {
       "id": "0e29c5f77b1e",
@@ -17,11 +17,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 24 Sep 2026 22:36:28 -0000"
     },
     {
@@ -38,12 +39,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 25 Sep 2026 08:42:50 GMT"
     },
     {
@@ -63,6 +65,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -152,6 +155,26 @@
       "publishedRaw": "Thu, 24 Sep 2026 19:00:49 GMT"
     },
     {
+      "id": "87c3c7a53172",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: Em Alagoas, Lula tem 53% no 2º turno; Flávio, 38%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-alagoas-lula-tem-53-no-2o-turno-flavio-38/",
+      "summary": "Foram ouvidos 1.600 eleitores de Alagoas entre os dias 21 e 24 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 10:26:08 +0000"
+    },
+    {
       "id": "ab4c9465ccac",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -164,10 +187,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -183,10 +207,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -202,10 +227,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
@@ -221,10 +247,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 02:40:07 +0000"
     },
     {
@@ -240,10 +267,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
     },
     {
@@ -259,10 +287,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 09:00:54 +0000"
     },
     {
@@ -278,30 +307,52 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 09:00:46 +0000"
     },
     {
-      "id": "7ea159832d1d",
-      "source": "Poder360",
+      "id": "215cac766015",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Veja o que dizem as mensagens do celular de Vorcaro que citam Gonet",
-      "link": "https://www.poder360.com.br/poder-justica/veja-o-que-dizem-as-mensagens-do-celular-de-vorcaro-que-citam-gonet/",
-      "summary": "Conselho Superior do MPF analisa nesta 6ª feira (25.set) procedimento interno contra o procurador-geral da República, que nega relação com ex-banqueiro",
+      "category": "Internacional",
+      "title": "Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva",
+      "link": "https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Em 2024, Lula dizia que testaria a regulamentação antes de cogitar a proibição. Na campanha de 2026, passou a prometer o fim das bets; Flávio Bolsonaro critica os cassinos online, mas defende manter apostas esportivas sob controle.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
-      "publishedRaw": "Fri, 25 Sep 2026 09:00:31 +0000"
+      "score": 81,
+      "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
+    },
+    {
+      "id": "632b2aa82895",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Petista tem 40% de preferência do eleitorado, e o filho do ex-presidente Jair Bolsonaro aparece com 38%. Primeiro turno está marcado para o dia 4 de outubro.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
     },
     {
       "id": "5e7ee36b6113",
@@ -320,44 +371,6 @@
       ],
       "score": 77,
       "publishedRaw": "Fri, 25 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "215cac766015",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva",
-      "link": "https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Em 2024, Lula dizia que testaria a regulamentação antes de cogitar a proibição. Na campanha de 2026, passou a prometer o fim das bets; Flávio Bolsonaro critica os cassinos online, mas defende manter apostas esportivas sob controle.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 76,
-      "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
-    },
-    {
-      "id": "632b2aa82895",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
-      "link": "https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Petista tem 40% de preferência do eleitorado, e o filho do ex-presidente Jair Bolsonaro aparece com 38%. Primeiro turno está marcado para o dia 4 de outubro.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 76,
-      "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
     },
     {
       "id": "9b8bc02c9c8d",
