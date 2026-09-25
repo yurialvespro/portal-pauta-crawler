@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:44:38.437238+00:00",
+  "generated_at": "2026-09-25T09:16:29.836043+00:00",
   "items": [
     {
       "id": "0e29c5f77b1e",
@@ -24,29 +24,6 @@
       ],
       "score": 94,
       "publishedRaw": "Thu, 24 Sep 2026 22:36:28 -0000"
-    },
-    {
-      "id": "5966b5d8af4e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 47% das intenções e Flávio Bolsonaro, 45%, no segundo turno, aponta pesquisa Datafolha",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-47-das-intencoes-e-flavio-bolsonaro-45-no-segundo-turno-aponta-pesquisa-datafolha/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Thu, 24 Sep 2026 21:44:05 +0000"
     },
     {
       "id": "fb8c36d369a9",
@@ -135,27 +112,6 @@
       "publishedRaw": "Thu, 24 Sep 2026 23:56:48 +0000"
     },
     {
-      "id": "45d2bc18b72c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Uso de santinhos com imagens de Jair Bolsonaro é liberado pelo TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/uso-de-santinhos-com-imagens-de-jair-bolsonaro-e-liberado-pelo-tse-nprp/",
-      "summary": "Determinação derruba decisão liminar que jugou caso do candidato a deputado estadual Lucas Bove (PL)",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 24 Sep 2026 21:59:29 +0000"
-    },
-    {
       "id": "14ae0c18f191",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -176,27 +132,6 @@
       "publishedRaw": "Thu, 24 Sep 2026 19:00:49 GMT"
     },
     {
-      "id": "90139d82e327",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Lula e Flávio têm 38% no interior; petista lidera nas regiões metropolitanas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-tem-38-no-interior-petista-lidera-nas-regioes-metropolitanas.shtml",
-      "summary": "O presidente Lula (PT) e o senador Flávio Bolsonaro (PL) têm 38% das intenções de voto no primeiro turno entre eleitores do interior do país, enquanto o petista lidera nas regiões metropolitanas, segundo pesquisa Datafolha divulgada nesta quinta-feira (24).\nLeia mais (09/25/2026 - 00h56)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "25 Sep 2026 00:56:00 -0300"
-    },
-    {
       "id": "e8a129d80be5",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -210,12 +145,71 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 06:37:46 +0000"
+    },
+    {
+      "id": "ab4c9465ccac",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Moraes defendeu a democracia, mas isso não lhe dá salvo-conduto’, diz coordenador de Lula",
+      "link": "https://www.estadao.com.br/politica/eleicoes/moraes-defendeu-a-democracia-mas-isso-nao-lhe-da-salvo-conduto-diz-coordenador-de-lula/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "625ec2e4f373",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após arrecadar R$ 19 bi com bets, Lula proibirá apostas no País de olho na reeleição",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/apos-arrecadar-r-19-bi-com-bets-lula-proibira-apostas-no-pais-de-olho-na-reeleicao/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "ecc479aa54f5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "A cautela de Lula em Pernambuco para não queimar pontes com Raquel Lyra após fala sobre laqueadura",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/a-cautela-de-lula-em-pernambuco-para-nao-queimar-pontes-com-raquel-lyra-apos-fala-sobre-laqueadura/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "57e30afac067",
@@ -231,11 +225,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 02:40:07 +0000"
     },
     {
@@ -252,21 +245,20 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 25 Sep 2026 01:00:00 +0000"
     },
     {
-      "id": "797db873c07f",
+      "id": "c1196d8fd74f",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula vai banir bets do Brasil e prepara pacote contra dívidas",
-      "link": "https://www.poder360.com.br/poder-governo/lula-vai-banir-bets-do-brasil-e-prepara-pacote-contra-dividas/",
-      "summary": "Petista quer novas regras de crédito e governo prepara programa para renegociar débitos antigos de famílias endividadas",
+      "title": "Saiba como estão Lula e Flávio nas pesquisas a 9 dias da eleição",
+      "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-9-dias-da-eleicao/",
+      "summary": "Senador fica numericamente à frente em 5 estudos e Lula em outros 4 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
       "tags": [
         "Lula"
       ],
@@ -274,11 +266,50 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Fri, 25 Sep 2026 08:00:04 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 09:00:54 +0000"
+    },
+    {
+      "id": "47799ffff6d3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Agenda de Lula: leia os compromissos do presidente nesta 6ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-6a-feira-6/",
+      "summary": "Ato político no Recife pela manhã, lançamento de medidas contra apostas e debate com empresários em São Paulo marcam o dia",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 09:00:46 +0000"
+    },
+    {
+      "id": "7ea159832d1d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veja o que dizem as mensagens do celular de Vorcaro que citam Gonet",
+      "link": "https://www.poder360.com.br/poder-justica/veja-o-que-dizem-as-mensagens-do-celular-de-vorcaro-que-citam-gonet/",
+      "summary": "Conselho Superior do MPF analisa nesta 6ª feira (25.set) procedimento interno contra o procurador-geral da República, que nega relação com ex-banqueiro",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 25 Sep 2026 09:00:31 +0000"
     },
     {
       "id": "5e7ee36b6113",
@@ -313,11 +344,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 24 Sep 2026 17:58:11 GMT"
     },
     {
@@ -334,11 +364,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 24 Sep 2026 16:25:29 GMT"
     },
     {
@@ -457,10 +486,8 @@
       "tags": [
         "TSE"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 68,
+      "crossOutlets": [],
+      "score": 64,
       "publishedRaw": "Fri, 25 Sep 2026 03:00:01 -0000"
     },
     {
