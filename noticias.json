@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:18:47.567243+00:00",
+  "generated_at": "2026-09-26T12:46:12.585290+00:00",
   "items": [
     {
       "id": "8fc98c12e7ca",
@@ -322,24 +322,6 @@
       "publishedRaw": "Fri, 25 Sep 2026 22:42:09 -0000"
     },
     {
-      "id": "524e0fcfb2bd",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Limites ao foro especial e a decisões monocráticas são respostas à crise do STF, dizem especialistas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/limites-ao-foro-especial-e-a-decisoes-monocraticas-sao-respostas-a-crise-do-stf-dizem-especialistas.shtml",
-      "summary": "A atual crise pela qual passa o STF (Supremo Tribunal Federal) tornou mais evidente uma série de problemas que já vêm sendo apontados por estudiosos da corte há anos.\nLeia mais (09/26/2026 - 04h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "26 Sep 2026 04:00:00 -0300"
-    },
-    {
       "id": "5a137b775308",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -376,24 +358,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sat, 26 Sep 2026 00:42:09 +0000"
-    },
-    {
-      "id": "5049e0763cee",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zanin manda investigar uso de IA para burlar sistema do STF",
-      "link": "https://www.poder360.com.br/poder-justica/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf/",
-      "summary": "Corte identificou uso de prompt para forçar sistema a aceitar recurso",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 11:29:03 +0000"
     },
     {
       "id": "62813c1dcf70",
@@ -618,6 +582,23 @@
       ],
       "score": 75,
       "publishedRaw": "Fri, 25 Sep 2026 23:30:43 GMT"
+    },
+    {
+      "id": "5049e0763cee",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Zanin manda investigar uso de IA para burlar sistema do STF",
+      "link": "https://www.poder360.com.br/poder-justica/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf/",
+      "summary": "Corte identificou uso de prompt para forçar sistema a aceitar recurso",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Sat, 26 Sep 2026 11:29:03 +0000"
     },
     {
       "id": "3bf33ce5fe1d",
