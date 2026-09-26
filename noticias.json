@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:14:57.882073+00:00",
+  "generated_at": "2026-09-26T03:42:49.369934+00:00",
   "items": [
     {
       "id": "8fc98c12e7ca",
@@ -40,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
@@ -110,6 +111,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
@@ -517,6 +519,50 @@
       "publishedRaw": "Sat, 26 Sep 2026 00:42:09 +0000"
     },
     {
+      "id": "f8dcb993708c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula gastará até R$ 15 bi para perdoar 90% em dívidas",
+      "link": "https://www.poder360.com.br/poder-economia/governo-lula-gastara-ate-r-15-bi-para-perdoar-90-em-dividas/",
+      "summary": "A estimativa é de que o universo de débitos elegíveis seja de R$ 300 bilhões; programa terá impacto nas contas públicas a partir de 2027",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 03:25:36 +0000"
+    },
+    {
+      "id": "f3b762ddaab3",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula brinca e chama Joesley, da JBS, de “empresário desaforado”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-brinca-e-chama-joesley-da-jbs-de-empresario-desaforado/",
+      "summary": "Em jantar com o PIB, presidente afirma que o país precisa encontrar “empresários parceiros”",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 03:22:44 +0000"
+    },
+    {
       "id": "1454ccf2d7c6",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -603,6 +649,25 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 00:52:06 +0000"
+    },
+    {
+      "id": "aaf25211e91b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF condena Eduardo a pagar R$ 80 mil por difamação contra Tabata",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-condena-eduardo-a-pagar-r-80-mil-por-difamacao-contra-tabata/",
+      "summary": "Julgamento aconteceu nesta sexta-feira (25) e terminou com placar de 7 a 3 pela condenação do ex-deputado",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 03:30:53 +0000"
     },
     {
       "id": "62813c1dcf70",
@@ -884,21 +949,6 @@
       ],
       "score": 68,
       "publishedRaw": "25 Sep 2026 23:00:00 -0300"
-    },
-    {
-      "id": "3d4e46570599",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Tabet diz ter sofrido censura de Mendonça e ironiza Flávio",
-      "link": "https://www.poder360.com.br/poder-justica/defesa-de-tabet-diz-ter-sofrido-censura-de-mendonca-e-ironiza-flavio/",
-      "summary": "Vice-presidente do TSE mandou apagar posts com fake news de que Flávio pretendia tirar o título de padroeira de Nossa Senhora; publicação de Tabet não citava Flávio, mas \"a família miliciana\"",
-      "tags": [
-        "censura"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "Sat, 26 Sep 2026 00:48:13 +0000"
     },
     {
       "id": "7b7a3b92072d",
