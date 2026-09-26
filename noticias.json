@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:42:49.369934+00:00",
+  "generated_at": "2026-09-26T04:15:26.081228+00:00",
   "items": [
     {
       "id": "8fc98c12e7ca",
@@ -42,8 +42,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
       "score": 94,
       "publishedRaw": "Sat, 26 Sep 2026 00:20:52 -0000"
@@ -113,8 +112,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 94,
       "publishedRaw": "25 Sep 2026 23:39:00 -0300"
@@ -215,29 +213,6 @@
       ],
       "score": 94,
       "publishedRaw": "Fri, 25 Sep 2026 15:06:21 GMT"
-    },
-    {
-      "id": "2a40cd7b7d52",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula volta a sugerir mandato para STF e chama caso Master de “podridão”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-volta-a-sugerir-mandato-para-stf-e-chama-caso-master-de-podridao/",
-      "summary": "Presidente disse, no entanto, que não vai decidir sozinho e que sociedade precisa se manifestar; deu a declaração em evento com empresários",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 26 Sep 2026 02:29:27 +0000"
     },
     {
       "id": "56104a760953",
@@ -413,7 +388,7 @@
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "A empresários, Lula diz que estabilidade fiscal é obrigatória e defende reforma do Judiciário",
+      "title": "A empresários Lula diz que estabilidade fiscal é obrigatória e defende reforma do Judiciário",
       "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/a-empresarios-lula-diz-que-estabilidade-fiscal-e-obrigatoria-e-defende-reforma-do-judiciario.shtml",
       "summary": "O presidente Luiz Inácio Lula da Silva (PT) defendeu nesta sexta-feira (25) uma reforma do Judiciário, criticou a atuação das agências reguladoras e fez duras críticas a Daniel Vorcaro, dono do Banco Master, durante encontro com quase 700 empresários e executivos em São Paulo.\nLeia mais (09/25/2026 - 23h55)",
       "tags": [
@@ -607,6 +582,28 @@
       "publishedRaw": "Sat, 26 Sep 2026 03:01:26 +0000"
     },
     {
+      "id": "c360d53f060a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que nunca viu “podridão” como a que acontece no Supremo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-nunca-viu-podridao-como-a-que-acontece-no-supremo/",
+      "summary": "Presidente falou a empresários e banqueiros em São Paulo; disse que Daniel Vorcaro quando “não corrompeu com dinheiro, corrompeu com orgia”",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 02:29:27 +0000"
+    },
+    {
       "id": "72477c2a888c",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -649,25 +646,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 00:52:06 +0000"
-    },
-    {
-      "id": "aaf25211e91b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF condena Eduardo a pagar R$ 80 mil por difamação contra Tabata",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-condena-eduardo-a-pagar-r-80-mil-por-difamacao-contra-tabata/",
-      "summary": "Julgamento aconteceu nesta sexta-feira (25) e terminou com placar de 7 a 3 pela condenação do ex-deputado",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 26 Sep 2026 03:30:53 +0000"
     },
     {
       "id": "62813c1dcf70",
@@ -892,6 +870,24 @@
       ],
       "score": 81,
       "publishedRaw": "Fri, 18 Sep 2026 17:29:18 GMT"
+    },
+    {
+      "id": "aaf25211e91b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF condena Eduardo a pagar R$ 80 mil por difamação contra Tabata",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-condena-eduardo-a-pagar-r-80-mil-por-difamacao-contra-tabata/",
+      "summary": "Julgamento aconteceu nesta sexta-feira (25) e terminou com placar de 7 a 3 pela condenação do ex-deputado",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 26 Sep 2026 03:30:53 +0000"
     },
     {
       "id": "74eb9642c07a",
