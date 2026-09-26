@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:14:16.512695+00:00",
+  "generated_at": "2026-09-26T13:41:15.522344+00:00",
   "items": [
     {
       "id": "8fc98c12e7ca",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -62,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -85,6 +88,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -107,6 +111,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -130,6 +135,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -154,8 +160,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Sat, 26 Sep 2026 03:00:00 -0000"
@@ -175,8 +181,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Sat, 26 Sep 2026 01:01:10 -0000"
@@ -196,8 +202,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Sat, 26 Sep 2026 00:41:20 -0000"
@@ -217,33 +223,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Sat, 26 Sep 2026 00:05:10 -0000"
-    },
-    {
-      "id": "02db93779dd2",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Petista pede à PGR que cobre do STF divulgação de dados de celular de Vorcaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/petista-pede-a-pgr-que-cobre-do-stf-divulgacao-de-dados-de-celular-de-vorcaro.shtml",
-      "summary": "O deputado federal Rui Falcão (PT-SP) protocolou requerimento na Procuradoria-Geral da República para que o órgão peça ao Supremo Tribunal Federal o levantamento do sigilo integral e a divulgação dos dados do celular do banqueiro Daniel Vorcaro, apreendido na Operação Compliance Zero.\nLeia mais (09/26/2026 - 10h09)",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "26 Sep 2026 10:09:00 -0300"
     },
     {
       "id": "687adc00686d",
@@ -279,6 +263,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -302,8 +287,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Sat, 26 Sep 2026 03:00:01 -0000"
@@ -321,23 +306,24 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "26 Sep 2026 10:00:00 -0300"
     },
     {
-      "id": "039853d002cd",
-      "source": "G1 - Economia",
+      "id": "1fc2f46fd70d",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Governo prorroga subvenção ao diesel por mais 30 dias, às vésperas das eleições",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
-      "summary": "O Ministério da Fazenda prorrogou a chamada subvenção ao diesel, ou seja, um tipo de subsídio, por mais 30 dias. A medida passa a valer a partir desde domingo, quando termina a vigência da medida provisória (MP) que estabeleceu parte do benefício. \nPortaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 2,12 a subvenção para manter o preço do combustível mais baixo. Segundo o documento, a manutenção do subsídio ocorre por conta da volatilidade dos preços internacionais do petróleo e dos combustíveis.\nA subvenção do diesel é composta atualmente por duas parcelas:\nUma delas, de R$ 1,12, foi criada por uma medida provisória de maio deste ano. \nA outra, de R$ 1, foi acrescentada em setembro, diante da piora do cenário externo.\nComo a primeira medida provisória perde validade neste sábado (26), a Fazenda alterou a regra para que, a partir de domingo, os R$ 2,12 por litro tenham como base apenas a medida provisória de setembro.\nSegundo o governo, a mudança não representa aumento do subsídio. O objetivo é evitar que o valor caia para R$ 1 por litro com o fim da primeira medida provisória.",
+      "category": "Política",
+      "title": "TSE nega pedidos de 2 grupos internacionais para observar eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-nega-pedidos-de-2-grupos-internacionais-para-observar-eleicoes/",
+      "summary": "Entidades sediadas na Argentina e na Espanha ficaram fora das missões; Tribunal confirma 7 organizações para acompanhar o pleito",
       "tags": [
-        "eleições"
+        "eleições",
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
@@ -345,8 +331,8 @@
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Sat, 26 Sep 2026 12:55:23 -0000"
+      "score": 87,
+      "publishedRaw": "Sat, 26 Sep 2026 13:32:25 +0000"
     },
     {
       "id": "06d50ffdac2b",
@@ -362,8 +348,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Sat, 26 Sep 2026 01:07:16 -0000"
@@ -382,8 +368,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Fri, 25 Sep 2026 14:56:16 -0000"
@@ -401,12 +387,34 @@
       ],
       "crossOutlets": [
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Fri, 25 Sep 2026 01:13:11 GMT"
+    },
+    {
+      "id": "c0771ce25072",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Flávio diz que Lula reage à pressão sobre endividamento com fim de bets e minimiza ganho eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-diz-que-lula-reage-a-pressao-sobre-endividamento-com-fim-de-bets-e-minimiza-ganho-eleitoral.shtml",
+      "summary": "Auxiliares e estrategistas da campanha de Flávio Bolsonaro (PL) à presidência da República afirmam que podem neutralizar o eventual ganho político de Lula (PT) com o fim das bets se conseguirem convencer o eleitor de que a medida do petista é uma resposta dada sob pressão a um problema causado pelo seu próprio governo.\nLeia mais (09/26/2026 - 10h22)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "26 Sep 2026 10:22:00 -0300"
     },
     {
       "id": "22debc4e349b",
@@ -421,6 +429,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -428,6 +437,50 @@
       ],
       "score": 85,
       "publishedRaw": "26 Sep 2026 09:45:00 -0300"
+    },
+    {
+      "id": "0f836e6577b5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: no Ceará, Lula lidera cenários de 1º e 2º turnos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-no-ceara-lula-lidera-cenarios-de-1o-e-2o-turnos/",
+      "summary": "Pesquisa ouviu 1.600 eleitores no Ceará, entre os dias 21 e 24 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 13:23:39 +0000"
+    },
+    {
+      "id": "ddf6fe4eed55",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Celular é apontado por 67% dos motoristas como fator de risco no trânsito",
+      "link": "https://www.cnnbrasil.com.br/auto/celular-e-apontado-por-67-dos-motoristas-como-fator-de-risco-no-transito/",
+      "summary": "Quase metade dos entrevistados, 47%, apontou o envio ou a leitura de mensagens como o comportamento que mais compromete a atenção durante a condução",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 13:00:15 +0000"
     },
     {
       "id": "5a137b775308",
@@ -442,6 +495,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -463,6 +517,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -484,6 +539,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -505,6 +561,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -512,27 +569,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 13:00:35 +0000"
-    },
-    {
-      "id": "ef0ef76b9207",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: Lula faz caminhada em São Miguel Paulista",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-faz-caminhada-em-sao-miguel-paulista/",
-      "summary": "Vice-presidente Alckmin e candidatos ao governo de SP e Senado participam de ato político com o presidente na Zona Leste",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 26 Sep 2026 13:00:10 +0000"
     },
     {
       "id": "7aa3d815f953",
@@ -554,25 +590,6 @@
       "publishedRaw": "26 Sep 2026 08:11:00 -0300"
     },
     {
-      "id": "039853d002cd",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo prorroga subvenção ao diesel por mais 30 dias, às vésperas das eleições",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
-      "summary": "O Ministério da Fazenda prorrogou a chamada subvenção ao diesel, ou seja, um tipo de subsídio, por mais 30 dias. A medida passa a valer a partir deste domingo (27), quando termina a vigência da medida provisória (MP) que estabeleceu parte do benefício. \nPortaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 2,12 a subvenção para manter o preço do combustível mais baixo. Segundo o documento, a manutenção do subsídio ocorre por conta da volatilidade dos preços internacionais do petróleo e dos combustíveis.\nAs medidas do governo para conter os preços dos combustíveis — entre elas o subsídio à gasolina anunciado no começo do mês  — foram adotadas a menos de um mês da eleição presidencial e em meio à alta do petróleo no mercado internacional.\nO petróleo do tipo Brent, referência global, voltou a superar a marca de US$ 100 por barril após o agravamento dos conflitos no Oriente Médio. Mais de 25% do diesel consumido no Brasil é importado.\nA subvenção do diesel é composta atualmente por duas parcelas:\nUma delas, de R$ 1,12, foi criada por uma medida provisória de maio deste ano. \nA outra, de R$ 1, foi acrescentada em setembro, diante da piora do cenário externo.\nComo a primeira medida provisória perde validade neste sábado (26), a Fazenda alterou a regra para que, a partir de domingo, os R$ 2,12 por litro tenham como base apenas a medida provisória de setembro.\nSegundo o governo, a mudança não representa aumento do subsídio. O objetivo é evitar que o valor caia para R$ 1 por litro com o fim da primeira medida provisória.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 12:55:23 -0000"
-    },
-    {
       "id": "4511564c7460",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -585,6 +602,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -605,6 +623,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -626,6 +645,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -647,6 +667,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -668,6 +689,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -690,6 +712,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -698,6 +721,23 @@
       ],
       "score": 80,
       "publishedRaw": "Fri, 25 Sep 2026 23:30:43 GMT"
+    },
+    {
+      "id": "02db93779dd2",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Petista pede afastamento de Nunes Marques e Mendonça do TSE",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/petista-pede-a-pgr-que-cobre-do-stf-divulgacao-de-dados-de-celular-de-vorcaro.shtml",
+      "summary": "O deputado federal Rui Falcão (PT-SP) apresentou nesta sexta (25) ao Supremo Tribunal Federal pedido para que os ministros Kassio Nunes Marques e André Mendonça sejam afastados temporariamente da composição do Tribunal Superior Eleitoral até a diplomação dos eleitos.\nLeia mais (09/26/2026 - 10h09)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
+      "publishedRaw": "26 Sep 2026 10:09:00 -0300"
     },
     {
       "id": "3bf33ce5fe1d",
@@ -721,7 +761,7 @@
       "category": "Política",
       "title": "Candidatura de Hélio Lopes em Roraima: por que partidos buscam ampliar bancadas no Senado com nomes fora de redutos eleitorais",
       "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml",
-      "summary": "Partidos apostam em migração de candidaturas ao Senado em 2026; entenda\nDisputar o Senado por um estado diferente de onde pavimentaram a carreira não é novidade na política brasileira. A prática, no entanto, ganhou mais visibilidade nas eleições de 2026, com políticos nacionalmente conhecidos concorrendo fora de seus redutos eleitorais. Este ano, cada estado elege dois senadores.\nUm dos casos de 'migração' é o de Hélio Lopes (PL), que deixou o Rio de Janeiro para concorrer por Roraima. Além dele, Carlos Bolsonaro (PL), foi lançado candidato ao Senado em Santa Catarina após sete mandatos como vereador carioca, e das ex-ministras Marina Silva (Rede) e Simone Tebet (PSB), tentam vaga por São Paulo após trajetória no Acre e em Mato Grosso do Sul, respectivamente, além além de ocuparem cargos de projeção nacional.\n✅ Clique aqui para seguir o canal do g1 RR no WhatsApp\nMesmo permitida pela legislação eleitoral, a prática reacende um debate sobre representação dos Estados no Senado, a movimentação em torno de um projeto nacional dos partidos e a escolha de nomes considerados 'fiéis' e competitivos pelas legendas (veja infográfico abaixo). O tema também foi usado como 'munição' por adversários, principalmente para ataque a campanhas em São Paulo.\nHélio Lopes, por exemplo, foi eleito deputado federal pelo Rio de Janeiro, mas transferiu o domicílio eleitoral para disputar uma das vagas ao Senado por Roraima. A decisão surpreendeu inclusive dirigentes do PL local, que afirmam ter tomado conhecimento da candidatura pela imprensa. Agora o PL tem dois candidatos pelo partido em Roraima. (Entenda abaixo)\nNo Partido Liberal, a tática de incluir nomes conhecidos na disputa - ainda que afastados do 'berço eleitoral' - se repete com Carlos Bolsonaro em Santa Catarina. \nAnalistas avaliam que o movimento reflete a tentativa das siglas de ampliar presença em Estados considerados eleitoralmente favoráveis e fortalecer bancadas alinhadas a projetos políticos nacionais.\n\"A manobra virou uma ferramenta do xadrez político em Brasília. Enquanto a legislação estiver desse jeito, essa é a forma que os partidos utilizaram para tentar ter mais ingerência [interferência] sobre a atuação dos senadores\", diz a cientista política Graziella Testa, Doutora em Ciência Política pela Universidade de São Paulo (USP) e professora da Universidade Federal do Paraná (UFPR) .\nApesar de estar em evidência, migrações eleitorais não são novidade. Na primeira eleição após a redemocratização, em 1990, José Sarney transferiu o título do Maranhão, onde construiu a carreira, para se eleger senador pelo Amapá.\nCarlos Bolsonaro muda domicílio eleitoral para cidade vizinha a Florianópolis \nTarcísio criticou Tebet e Marina por não terem iniciado a carreira política em SP\n'Pago imposto em SP há 10 anos', diz Tebet sobre críticas de Tarcísio\nMarina cita origem carioca de Tarcísio para rebater críticas à candidatura dela: 'Dois pesos'\nO ex-presidente e senador José Sarney (PMDB-AP) foi o Senador que representou o Amapá por mais tempo: 24 anos.\nMarcos Oliveira/Agência Senado\n📅🗳️Para concorrer ao Senado, o candidato não precisa ter nascido no Estado, mas deve comprovar domicílio eleitoral no local por, no mínimo, seis meses antes do pleito. Para as eleições de 2026, o prazo terminou em 4 de abril.\nMas por que os partidos 'exportam' candidatos❓\nO que leva as legendas a enviarem abrirem mão de nomes locais consolidados para importar políticos de outras regiões? A resposta passa pela busca das cúpulas partidárias por lealdade às próprias pautas no Congresso.\nA cientista política Graziella Testa explica que o Senado ganhou peso inédito nos últimos anos por deter o poder exclusivo de aprovar indicações ao Supremo Tribunal Federal (STF) e julgar processos de impeachment de ministros.\nComo a fidelidade partidária é flexível e senadores podem trocar de legenda sem perder o mandato, os partidos precisam de aliados que não os \"traiam\" em votações cruciais. A saída tem sido usar a regra dos seis meses de domicílio para lançar nomes de estrita confiança da direção nacional das cúpulas.\n\"A estratégia é pegar alguém em quem se tem uma confiança absoluta, ainda que não seja daquele Estado\", explicou Testa, doutora em Ciência Política pela Universidade de São Paulo (USP).\nDuas vagas para o Senado: repetir o candidato anula o 2º voto\nNomes nacionais disputam vaga no Senado em Estados diferentes daqueles em que iniciaram a carreira\narte/g1\nCaso Hélio Lopes em RR\nDeputado federal mais votado do Rio de Janeiro em 2018 (com mais de 340 mil votos), e reeleito em 2022, Hélio Lopes chegou a Roraima e aparece em 7º lugar entre os 13 candidatos ao Senado, conforme na última pesquisa Quaest, divulgada nesta sexta-feira (25).\nSegundo o candidato, a candidatura ao Senado em Roraima atende a uma 'missão' dada por Jair Bolsonaro. Hélio é aliado histórico do ex-presidente, que cumpre prisão por tentativa de golpe de Estado desde novembro de 2025.\nPara o analista ouvido pelo g1, a chegada do parlamentar reflete a nacionalização da campanha, onde temas locais de Roraima passam a concorrer com pautas nacionais. A movimentação e a campanha sugerem que Hélio vai apoiar a própria campanha no campo ideológico.\n\"A busca [em casos como o de Hélio] vai no sentido de surfar na onda de um 'cacique nacional'. É bom [para o candidato] do ponto de vista eleitoral, mas não pode virar apenas um instrumento para se alcançar poder\", disse Carlos Santiago, presidente da Comissão de Reforma Política e Combate à Corrupção Eleitoral da Ordem dos Advogados do Brasil (OAB) no Amazonas. \nEle sinalizou que o eleitor, ao escolher um candidato, precisa fazer essa avaliação sob a ótica do atendimento às demandas locais.\nDeputado federal pelo Rio de Janeito Helio Lopes (PL) usa foto nas redes ao lado de Jair Bolsonaro, ex-presidente condenado pelo STF\nReprodução/Instagram\n🤝🏽Amizade com Bolsonaro e candidatura\nNascido em Queimados (RJ), Hélio Lopes foi aprovado em 1991 para ingressar no Exército como sargento. Foi lá que conheceu Jair Bolsonaro, de quem ganhou o apelido de \"irmão que a vida me deu\". A indicação do nome dele para disputar em Roraima partiu do próprio ex-presidente.\nPara defender o vínculo histórico com Roraima, o candidato afirma aos eleitores que atuou na região amazônica e fez um curso militar em Boa Vista, em 1999. Reforça ainda ter enviado emendas para laboratórios de informática em Roraima antes mesmo de transferir o domicílio eleitoral. \nHélio tem evitado contato direto com a imprensa local ao longo da campanha. Sem apresentar justificativa, faltou a sabatinas marcadas na Rede Amazônica, uma no Bom Dia Roraima do dia 4 de setembro, e outra no Jornal da Manhã da CBN, em 7 de setembro.\nNo entanto, participou da campanha de Flávio Bolsonaro à presidência. O filho mais velho de Bolsonaro esteve em Boa Vista no último dia 10. A campanha de Hélio tem forte apelo na associação dele a Jair e Flávio.\nA Justiça Eleitoral, porém, impôs restrições à campanha de Lopes. A juíza Joana Sarmento de Matos o proibiu de usar o nome \"Bolsonaro\" na urna e na propaganda eleitoral, ao avaliar que o sobrenome geraria confusão e vantagem indevida. Com isso, ele concorre com o nome de registro: \"Hélio Fernando Barbosa Lopes\".\nInfográfico: Saiba mais sobre as regras da disputa aos candidatos ao Senado\narte/g1\nRacha no PL local e divisão de verbas\nA chegada de Hélio alterou o planejamento do diretório estadual do PL em Roraima, que antes pretendia lançar apenas o deputado federal Nicoletti (PL) para o Senado. Ao todo, Roraima tem 13 concorrentes para as duas vagas em 2026.\nA decisão do PL de incluir um segundo nome à disputa do mesmo cargo foi articulada em Brasília, a pedido de Jair Bolsonaro. O presidente da legenda em Roraima, Arthur Henrique (PL), admitiu que o diretório não foi avisado previamente da negociação nos bastidores.\n\"Descobrimos isso no momento em que a imprensa divulgou que o domicílio eleitoral dele estava aqui em Roraima\", afirmou Arthur Henrique, que também é candidato ao governo do Estado.\nNa prática, o movimento exigiu \"jogo de cintura\". Segundo Arthur Henrique, alguns candidatos locais já haviam firmado compromissos com outros nomes ao Senado antes da chegada de Lopes, o que tornou a gestão dos apoios um desafio. \nO diretório estadual, então, decidiu liberar informalmente os candidatos locais para administrarem compromissos, exigindo apenas que formalmente não haja declarações públicas contra as diretrizes da legenda para evitar problemas de infidelidade partidária.\n💵 A mudança de planos também refletiu na distribuição do Fundo Eleitoral. Dos recursos enviados ao Estado, a campanha de Nicoletti recebeu R$ 3,1 milhões, enquanto a de Hélio Lopes ficou com R$ 500 mil. O repasse das cotas foi definido pelo próprio Nicoletti, adversário de Hélio na disputa.\nProcurado repetidas vezes pessoalmente e por meio da assessoria, o deputado federal Nicoletti não respondeu ao g1. A reportagem enviou questionamentos sobre a candidatura de Hélio Lopes ao Senado por Roraima e sobre a discrepância de valores na divisão do Fundo Eleitoral entre a própria campanha e a do adversário do mesmo partido, mas não obteve retorno. \nArthur Henrique detalhou que a direção nacional costuma delegar a gestão dos recursos aos políticos com mandato vigente. \n\"Como o Nicoletti é deputado federal, o Valdemar [Costa Neto, presidente nacional do partido] entregou para ele essa prerrogativa, mas foi aprovada no sistema por mim, com o apoio de toda a diretoria\", explicou.\nDiante da diferença nos valores, Hélio Lopes afirmou que busca alternativas para garantir a estrutura da campanha. O g1 apurou que, no dia 14 de setembro, Hélio estava em viagem a Brasília para tentar captar mais recursos para a continuidade na disputa.\nO diretório estadual ainda aguarda complementação da executiva nacional do partido para equilibrar as contas do candidato. Enquanto o impasse segue, Hélio promove vigílias noturnas com apoiadores no Centro de Boa Vista e foca o discurso na segurança de fronteiras, no agronegócio e na infraestrutura energética.\nNicoletti, candidato ao Senado por Roraima, definiu a distribuição dos recursos, e deixou apenas R$ 500 mil à campanha de Hélio\nReprodução/Instagram/deputadonicoletti\nE os eleitores?\nA pesquisa Quaest para o Senado, divulgada nesta sexta-feira (25), mostra as intenções de voto para as duas vagas em Roraima. Contratado pela Rede Amazônica, o levantamento tem Teresa Surita (MDB) com 22%, seguida por Nicoletti (PL), com 19%. Hélio Lopes (PL) aparece em 7º lugar, com 2% das intenções de voto. Na pesquisa anterior, ele estava em 5º lugar, com 5%.\nO diretor do instituto de pesquisa Quaest, Felipe Nunes, analisa que o apoio de Bolsonaro tem peso, mas não a ponto de garantir uma eleição. O especialista pontua que a mera mudança cartorial de domicílio não produz vínculo imediato com a população. \n\"Para uma candidatura desse tipo, a capacidade de apresentar uma agenda concreta para Roraima tende a ser especialmente importante. A eleição para o Senado não é apenas uma disputa nacionalizada: o eleitor também está escolhendo quem vai representar o Estado em Brasília\", analisa o diretor da Quaest.\nSegundo ele, a população roraimense julgará nas urnas se o movimento de transferência é visto como um oportunismo eleitoral ou uma candidatura legítima. \nMarina resgata raízes em SP:  eleita deputada pelo Estado em 2022 e cidadã paulistana em 94\n'Aqui eu renasci', diz Carlos Bolsonaro para justificar candidatura ao Senado por SC\nConexão com projetos locais\nO analista político Carlos Santiago alerta ainda para os riscos de subordinar a representação do Estado no Senado a projetos nacionais. Ele pontua que candidatos sem trajetória local muitas vezes chegam sem conhecer a real dimensão social, econômica e cultural do estado. \n\"A pauta somente ideológica, na busca de um poder para apoiar pautas nacionais, não contribui  para melhorar a qualidade de vida do povo que, no caso de Roraima, sofre com o processo migratório e com o problema seríssimo de restrições ambientais\", afirma.\nLeia outras notícias do estado no g1 Roraima.",
+      "summary": "Partidos apostam em migração de candidaturas ao Senado em 2026; entenda\nDisputar o Senado por um estado diferente de onde pavimentaram a carreira não é novidade na política brasileira. A prática, no entanto, ganhou mais visibilidade nas eleições de 2026, com políticos nacionalmente conhecidos concorrendo fora de seus redutos eleitorais. Este ano, cada estado elege dois senadores.\nUm dos casos de 'migração' é o de Hélio Lopes (PL), que deixou o Rio de Janeiro para concorrer por Roraima. Além dele, Carlos Bolsonaro (PL), foi lançado candidato ao Senado em Santa Catarina após sete mandatos como vereador carioca, e das ex-ministras Marina Silva (Rede) e Simone Tebet (PSB), tentam vaga por São Paulo após trajetória no Acre e em Mato Grosso do Sul, respectivamente, além além de ocuparem cargos de projeção nacional.\n✅ Clique aqui para seguir o canal do g1 RR no WhatsApp\nMesmo permitida pela legislação eleitoral, a prática reacende um debate sobre representação dos estados no Senado, a movimentação em torno de um projeto nacional dos partidos e a escolha de nomes considerados 'fiéis' e competitivos pelas legendas (veja infográfico abaixo). O tema também foi usado como 'munição' por adversários, principalmente para ataque a campanhas em São Paulo.\nHélio Lopes, por exemplo, foi eleito deputado federal pelo Rio de Janeiro, mas transferiu o domicílio eleitoral para disputar uma das vagas ao Senado por Roraima. A decisão surpreendeu inclusive dirigentes do PL local, que afirmam ter tomado conhecimento da candidatura pela imprensa. Agora o PL tem dois candidatos pelo partido em Roraima. (Entenda abaixo)\nNo Partido Liberal, a tática de incluir nomes conhecidos na disputa - ainda que afastados do 'berço eleitoral' - se repete com Carlos Bolsonaro em Santa Catarina. \nAnalistas avaliam que o movimento reflete a tentativa das siglas de ampliar presença em estados considerados eleitoralmente favoráveis e fortalecer bancadas alinhadas a projetos políticos nacionais.\n\"A manobra virou uma ferramenta do xadrez político em Brasília. Enquanto a legislação estiver desse jeito, essa é a forma que os partidos utilizaram para tentar ter mais ingerência [interferência] sobre a atuação dos senadores\", diz a cientista política Graziella Testa, Doutora em Ciência Política pela Universidade de São Paulo (USP) e professora da Universidade Federal do Paraná (UFPR) .\nApesar de estar em evidência, migrações eleitorais não são novidade. Na primeira eleição após a redemocratização, em 1990, José Sarney transferiu o título do Maranhão, onde construiu a carreira, para se eleger senador pelo Amapá.\nCarlos Bolsonaro muda domicílio eleitoral para cidade vizinha a Florianópolis \nTarcísio criticou Tebet e Marina por não terem iniciado a carreira política em SP\n'Pago imposto em SP há 10 anos', diz Tebet sobre críticas de Tarcísio\nMarina cita origem carioca de Tarcísio para rebater críticas à candidatura dela: 'Dois pesos'\nO ex-presidente e senador José Sarney (PMDB-AP) foi o Senador que representou o Amapá por mais tempo: 24 anos.\nMarcos Oliveira/Agência Senado\n📅🗳️Para concorrer ao Senado, o candidato não precisa ter nascido no stado, mas deve comprovar domicílio eleitoral no local por, no mínimo, seis meses antes do pleito. Para as eleições de 2026, o prazo terminou em 4 de abril.\nMas por que os partidos 'exportam' candidatos❓\nO que leva as legendas a enviarem abrirem mão de nomes locais consolidados para importar políticos de outras regiões? A resposta passa pela busca das cúpulas partidárias por lealdade às próprias pautas no Congresso.\nA cientista política Graziella Testa explica que o Senado ganhou peso inédito nos últimos anos por deter o poder exclusivo de aprovar indicações ao Supremo Tribunal Federal (STF) e julgar processos de impeachment de ministros.\nComo a fidelidade partidária é flexível e senadores podem trocar de legenda sem perder o mandato, os partidos precisam de aliados que não os \"traiam\" em votações cruciais. A saída tem sido usar a regra dos seis meses de domicílio para lançar nomes de estrita confiança da direção nacional das cúpulas.\n\"A estratégia é pegar alguém em quem se tem uma confiança absoluta, ainda que não seja daquele estado\", explicou Testa, doutora em Ciência Política pela Universidade de São Paulo (USP).\nDuas vagas para o Senado: repetir o candidato anula o 2º voto\nNomes nacionais disputam vaga no Senado em estados diferentes daqueles em que iniciaram a carreira\narte/g1\nCaso Hélio Lopes em RR\nDeputado federal mais votado do Rio de Janeiro em 2018 (com mais de 340 mil votos), e reeleito em 2022, Hélio Lopes chegou a Roraima e aparece em 7º lugar entre os 13 candidatos ao Senado, conforme na última pesquisa Quaest, divulgada nesta sexta-feira (25).\nSegundo o candidato, a candidatura ao Senado em Roraima atende a uma 'missão' dada por Jair Bolsonaro. Hélio é aliado histórico do ex-presidente, que cumpre prisão por tentativa de golpe de estado desde novembro de 2025.\nPara o analista ouvido pelo g1, a chegada do parlamentar reflete a nacionalização da campanha, onde temas locais de Roraima passam a concorrer com pautas nacionais. A movimentação e a campanha sugerem que Hélio vai apoiar a própria campanha no campo ideológico.\n\"A busca [em casos como o de Hélio] vai no sentido de surfar na onda de um 'cacique nacional'. É bom [para o candidato] do ponto de vista eleitoral, mas não pode virar apenas um instrumento para se alcançar poder\", disse Carlos Santiago, presidente da Comissão de Reforma Política e Combate à Corrupção Eleitoral da Ordem dos Advogados do Brasil (OAB) no Amazonas. \nEle sinalizou que o eleitor, ao escolher um candidato, precisa fazer essa avaliação sob a ótica do atendimento às demandas locais.\nDeputado federal pelo Rio de Janeito Helio Lopes (PL) usa foto nas redes ao lado de Jair Bolsonaro, ex-presidente condenado pelo STF\nReprodução/Instagram\n🤝🏽Amizade com Bolsonaro e candidatura\nNascido em Queimados (RJ), Hélio Lopes foi aprovado em 1991 para ingressar no Exército como sargento. Foi lá que conheceu Jair Bolsonaro, de quem ganhou o apelido de \"irmão que a vida me deu\". A indicação do nome dele para disputar em Roraima partiu do próprio ex-presidente.\nPara defender o vínculo histórico com Roraima, o candidato afirma aos eleitores que atuou na região amazônica e fez um curso militar em Boa Vista, em 1999. Reforça ainda ter enviado emendas para laboratórios de informática em Roraima antes mesmo de transferir o domicílio eleitoral. \nHélio tem evitado contato direto com a imprensa local ao longo da campanha. Sem apresentar justificativa, faltou a sabatinas marcadas na Rede Amazônica, uma no Bom Dia Roraima do dia 4 de setembro, e outra no Jornal da Manhã da CBN, em 7 de setembro.\nNo entanto, participou da campanha de Flávio Bolsonaro à presidência. O filho mais velho de Bolsonaro esteve em Boa Vista no último dia 10. A campanha de Hélio tem forte apelo na associação dele a Jair e Flávio.\nA Justiça Eleitoral, porém, impôs restrições à campanha de Lopes. A juíza Joana Sarmento de Matos o proibiu de usar o nome \"Bolsonaro\" na urna e na propaganda eleitoral, ao avaliar que o sobrenome geraria confusão e vantagem indevida. Com isso, ele concorre com o nome de registro: \"Hélio Fernando Barbosa Lopes\".\nInfográfico: Saiba mais sobre as regras da disputa aos candidatos ao Senado\narte/g1\nRacha no PL local e divisão de verbas\nA chegada de Hélio alterou o planejamento do diretório estadual do PL em Roraima, que antes pretendia lançar apenas o deputado federal Nicoletti (PL) para o Senado. Ao todo, Roraima tem 13 concorrentes para as duas vagas em 2026.\nA decisão do PL de incluir um segundo nome à disputa do mesmo cargo foi articulada em Brasília, a pedido de Jair Bolsonaro. O presidente da legenda em Roraima, Arthur Henrique (PL), admitiu que o diretório não foi avisado previamente da negociação nos bastidores.\n\"Descobrimos isso no momento em que a imprensa divulgou que o domicílio eleitoral dele estava aqui em Roraima\", afirmou Arthur Henrique, que também é candidato ao governo do estado.\nNa prática, o movimento exigiu \"jogo de cintura\". Segundo Arthur Henrique, alguns candidatos locais já haviam firmado compromissos com outros nomes ao Senado antes da chegada de Lopes, o que tornou a gestão dos apoios um desafio. \nO diretório estadual, então, decidiu liberar informalmente os candidatos locais para administrarem compromissos, exigindo apenas que formalmente não haja declarações públicas contra as diretrizes da legenda para evitar problemas de infidelidade partidária.\n💵 A mudança de planos também refletiu na distribuição do Fundo Eleitoral. Dos recursos enviados ao estado, a campanha de Nicoletti recebeu R$ 3,1 milhões, enquanto a de Hélio Lopes ficou com R$ 500 mil. O repasse das cotas foi definido pelo próprio Nicoletti, adversário de Hélio na disputa.\nProcurado repetidas vezes pessoalmente e por meio da assessoria, o deputado federal Nicoletti não respondeu ao g1. A reportagem enviou questionamentos sobre a candidatura de Hélio Lopes ao Senado por Roraima e sobre a discrepância de valores na divisão do Fundo Eleitoral entre a própria campanha e a do adversário do mesmo partido, mas não obteve retorno. \nArthur Henrique detalhou que a direção nacional costuma delegar a gestão dos recursos aos políticos com mandato vigente. \n\"Como o Nicoletti é deputado federal, o Valdemar [Costa Neto, presidente nacional do partido] entregou para ele essa prerrogativa, mas foi aprovada no sistema por mim, com o apoio de toda a diretoria\", explicou.\nDiante da diferença nos valores, Hélio Lopes afirmou que busca alternativas para garantir a estrutura da campanha. O g1 apurou que, no dia 14 de setembro, Hélio estava em viagem a Brasília para tentar captar mais recursos para a continuidade na disputa.\nO diretório estadual ainda aguarda complementação da executiva nacional do partido para equilibrar as contas do candidato. Enquanto o impasse segue, Hélio promove vigílias noturnas com apoiadores no Centro de Boa Vista e foca o discurso na segurança de fronteiras, no agronegócio e na infraestrutura energética.\nNicoletti, candidato ao Senado por Roraima, definiu a distribuição dos recursos, e deixou apenas R$ 500 mil à campanha de Hélio\nReprodução/Instagram/deputadonicoletti\nE os eleitores?\nA pesquisa Quaest para o Senado, divulgada nesta sexta-feira (25), mostra as intenções de voto para as duas vagas em Roraima. Contratado pela Rede Amazônica, o levantamento tem Teresa Surita (MDB) com 22%, seguida por Nicoletti (PL), com 19%. Hélio Lopes (PL) aparece em 7º lugar, com 2% das intenções de voto. Na pesquisa anterior, ele estava em 5º lugar, com 5%.\nO diretor do instituto de pesquisa Quaest, Felipe Nunes, analisa que o apoio de Bolsonaro tem peso, mas não a ponto de garantir uma eleição. O especialista pontua que a mera mudança cartorial de domicílio não produz vínculo imediato com a população. \n\"Para uma candidatura desse tipo, a capacidade de apresentar uma agenda concreta para Roraima tende a ser especialmente importante. A eleição para o Senado não é apenas uma disputa nacionalizada: o eleitor também está escolhendo quem vai representar o estado em Brasília\", analisa o diretor da Quaest.\nSegundo ele, a população roraimense julgará nas urnas se o movimento de transferência é visto como um oportunismo eleitoral ou uma candidatura legítima. \nMarina resgata raízes em SP:  eleita deputada pelo estado em 2022 e cidadã paulistana em 94\n'Aqui eu renasci', diz Carlos Bolsonaro para justificar candidatura ao Senado por SC\nConexão com projetos locais\nO analista político Carlos Santiago alerta ainda para os riscos de subordinar a representação do estado no Senado a projetos nacionais. Ele pontua que candidatos sem trajetória local muitas vezes chegam sem conhecer a real dimensão social, econômica e cultural do estado. \n\"A pauta somente ideológica, na busca de um poder para apoiar pautas nacionais, não contribui  para melhorar a qualidade de vida do povo que, no caso de Roraima, sofre com o processo migratório e com o problema seríssimo de restrições ambientais\", afirma.\nLeia outras notícias do estado no g1 Roraima.",
       "tags": [
         "candidatura"
       ],
@@ -745,21 +785,6 @@
       "publishedRaw": "Sat, 26 Sep 2026 00:59:47 +0000"
     },
     {
-      "id": "3fcc7bb2a9d6",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Abertura de exposição 'Traçando Veríssimo' tem artistas e família do escritor",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/abertura-de-exposicao-tracando-verissimo-tem-artistas-e-familia-do-escritor.shtml",
-      "summary": "Os atores Luciana Vendramini e Fernando Caruso compareceram nesta quarta (23) à abertura para convidados da exposição \"Traçando Veríssimo\", que exibe o original da última ilustração feita por Luis Fernando Verissimo no Espaço de Exposições do Centro Cultural Fiesp, em São Paulo. A exposição celebra a trajetória do escritor gaúcho, que completaria 90 anos neste sábado (26).\nLeia mais (09/26/2026 - 08h00)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "26 Sep 2026 08:00:00 -0300"
-    },
-    {
       "id": "afe3d2076b4f",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -773,21 +798,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Fri, 25 Sep 2026 00:48:31 +0000"
-    },
-    {
-      "id": "fb5fd5043104",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Líderes de Paquistão, Líbano e de país que está afundando discursam no 4º dia de Assembleia Geral da ONU; SIGA",
-      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "summary": "Líderes de Paquistão, Líbano e de país que está afundando discursam no 4º dia de Assembleia Geral da ONU; SIGA Neste ano, g1 está em Nova York para mostrar os bastidores, as tensões e as curiosidades que envolvem a Assembleia. A ONU realiza nesta semana a 81ª Assembleia Geral, em Nova York, em meio a uma grave crise existencial. Na abertura, o secretário-geral António Guterres admitiu em discurso que há uma crise no órgão.. Lula, Trump discursaram no 1º dia. O presidente brasileiro disse, em indireta aos EUA, que o Brasil \"não cabe no quintal de ninguém\". Já Trump ameaçou o Irã e uma ação militar na América Latina.. SANDRA COHEN: ONU vira palanque eleitoral para Lula e Trump em discursos de visões opostas.. O presidente do Irã discursou no 2º dia e chamou EUA e Israel de terroristas. Na quarta, também discursaram Milei e Zelensky.. No 3º dia, na quinta (24), o presidente da Autoridade Palestina denunciou 'colonialismo maligno' de Israel, e o premiê israelense, Benjamin Netanyahu, negou acusações de genocídio.",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 50,
-      "publishedRaw": "Fri, 25 Sep 2026 13:05:37 -0000"
     }
   ]
 }
