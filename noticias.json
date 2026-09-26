@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:14:24.541313+00:00",
+  "generated_at": "2026-09-26T23:41:11.053399+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -146,6 +146,30 @@
       "publishedRaw": "Fri, 25 Sep 2026 15:06:21 GMT"
     },
     {
+      "id": "2b625729f2ed",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nunes Marques manda suspender jingle de Lula “foi o Flávio Bolsonaro”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nunes-marques-manda-suspender-jingle-de-lula-foi-o-flavio-bolsonaro/",
+      "summary": "Presidente do TSE proibiu que emissoras de rádio façam inserção da campanha do petista",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Sat, 26 Sep 2026 23:22:31 +0000"
+    },
+    {
       "id": "ead84fd0014d",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -196,6 +220,27 @@
       "publishedRaw": "Sat, 26 Sep 2026 21:06:49 +0000"
     },
     {
+      "id": "ed4fa8229350",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro pede prisão de coordenador da Secom por incentivo à fake news sobre N. S. Aparecida",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-pede-prisao-de-coordenador-da-secom-por-incentivo-a-fake-news-de-n-s-aparecida/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Sat, 26 Sep 2026 16:28:38 +0000"
+    },
+    {
       "id": "56104a760953",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -217,49 +262,6 @@
       ],
       "score": 89,
       "publishedRaw": "Sat, 26 Sep 2026 00:45:58 GMT"
-    },
-    {
-      "id": "ed4fa8229350",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro pede prisão de coordenador da Secom por incentivo à fake news sobre N. S. Aparecida",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-pede-prisao-de-coordenador-da-secom-por-incentivo-a-fake-news-de-n-s-aparecida/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Sat, 26 Sep 2026 16:28:38 +0000"
-    },
-    {
-      "id": "c7a1e01bace0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio volta a chamar Lula de “pai do Tigrinho” mesmo após ação no TSE",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-volta-a-chamar-lula-de-pai-do-tigrinho-mesmo-apos-acao-no-tse/",
-      "summary": "Candidato à Presidência discursou em São João de Meriti; prometeu mudanças na segurança pública e na saúde",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Sat, 26 Sep 2026 19:05:06 +0000"
     },
     {
       "id": "f3e699845b6f",
@@ -414,6 +416,27 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 19:08:46 +0000"
+    },
+    {
+      "id": "663ada3387eb",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro",
+      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
     },
     {
       "id": "62813c1dcf70",
@@ -638,29 +661,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "9fcc60c68858",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar volta a criticar Mendonça e defende juiz de garantias no STF",
-      "link": "https://www.cnnbrasil.com.br/politica/gilmar-volta-a-criticar-mendonca-e-defende-juiz-de-garantias-no-stf/",
-      "summary": "Ministro defendeu modelo após elogiar decisão do Conselho Superior do MPF; conselheiros negaram pedido de investigação contra Gonet",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 21:28:59 +0000"
     },
     {
       "id": "6294956487b7",
@@ -674,31 +678,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
-    },
-    {
-      "id": "663ada3387eb",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro",
-      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
     },
     {
       "id": "afa47bba89da",
@@ -711,28 +694,9 @@
       "tags": [
         "Congresso"
       ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 68,
+      "crossOutlets": [],
+      "score": 64,
       "publishedRaw": "Sat, 26 Sep 2026 21:31:43 -0000"
-    },
-    {
-      "id": "5f236ecbe741",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 37% avaliam o Congresso Nacional como ruim ou péssimo e 18% como ótimo ou bom",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/datafolha-37-avaliam-o-congresso-nacional-como-ruim-ou-pessimo-e-18-como-otimo-ou-bom.shtml",
-      "summary": "A pouco mais de uma semana para as eleições, 37% dos eleitores avaliam o Congresso Nacional como ruim ou péssimo e 18% como ótimo ou bom, segundo pesquisa Datafolha divulgada neste sábado (26).\nLeia mais (09/26/2026 - 17h34)",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "26 Sep 2026 17:34:00 -0300"
     },
     {
       "id": "a1aeb1154d6a",
