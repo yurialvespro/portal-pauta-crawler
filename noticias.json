@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:42:29.297998+00:00",
+  "generated_at": "2026-09-27T10:14:59.014452+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -457,28 +457,6 @@
       "publishedRaw": "Sat, 26 Sep 2026 10:00:07 GMT"
     },
     {
-      "id": "30a0cd95341b",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Apostas como 'vilãs' e golpe no futebol: como a imprensa internacional noticiou a proibição das bets por Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cx3055j486dvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Agências e jornais estrangeiros destacaram o peso eleitoral da medida, anunciada a nove dias do primeiro turno, e o impacto sobre o futebol brasileiro",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 13:41:48 GMT"
-    },
-    {
       "id": "5d1ee6153d6b",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -542,6 +520,78 @@
       "publishedRaw": "Sat, 26 Sep 2026 01:07:16 -0000"
     },
     {
+      "id": "3abd9a2d7992",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
+      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
+    },
+    {
+      "id": "6294956487b7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Filho de Moraes se casa em SP com segurança reforçada e sem manifestações contra o ministro do STF",
+      "link": "https://www.estadao.com.br/politica/filho-de-moraes-casa-em-sp-com-seguranca-reforcada-e-sem-manifestacoes-contra-o-ministro-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
+    },
+    {
+      "id": "56750e6974ca",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Desaprovação do STF atinge nível máximo no País, aponta pesquisa",
+      "link": "https://www.estadao.com.br/politica/desaprovacao-do-stf-atinge-nivel-maximo-no-pais-aponta-pesquisa/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 26 Sep 2026 23:40:22 +0000"
+    },
+    {
+      "id": "879b53019f74",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que reformas no STF podem ser perigosas?",
+      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A crise desencadeada pelo confronto entre Alexandre de Moraes e André Mendonça ampliou a pressão por mudanças no Supremo. Especialistas defendem medidas como um código de ética, mas alertam para os riscos de reformas amplas em meio à turbulência institucional.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
+    },
+    {
       "id": "6b8c50b2c63a",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -559,57 +609,6 @@
       ],
       "score": 76,
       "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
-    },
-    {
-      "id": "3abd9a2d7992",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
-      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "6294956487b7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Filho de Moraes se casa em SP com segurança reforçada e sem manifestações contra o ministro do STF",
-      "link": "https://www.estadao.com.br/politica/filho-de-moraes-casa-em-sp-com-seguranca-reforcada-e-sem-manifestacoes-contra-o-ministro-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
-    },
-    {
-      "id": "56750e6974ca",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Desaprovação do STF atinge nível máximo no País, aponta pesquisa",
-      "link": "https://www.estadao.com.br/politica/desaprovacao-do-stf-atinge-nivel-maximo-no-pais-aponta-pesquisa/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Sat, 26 Sep 2026 23:40:22 +0000"
     },
     {
       "id": "663ada3387eb",
