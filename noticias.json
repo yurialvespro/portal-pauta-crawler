@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:15:48.655739+00:00",
+  "generated_at": "2026-09-27T02:43:28.084750+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -320,27 +320,6 @@
       "publishedRaw": "26 Sep 2026 23:00:00 -0300"
     },
     {
-      "id": "6b8c50b2c63a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
-      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
-    },
-    {
       "id": "d975f34155d7",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -362,6 +341,27 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
+    },
+    {
+      "id": "6b8c50b2c63a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
+      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
     },
     {
       "id": "7b40dd5c2b64",
@@ -791,21 +791,6 @@
       "crossOutlets": [],
       "score": 67,
       "publishedRaw": "Sun, 27 Sep 2026 01:09:32 +0000"
-    },
-    {
-      "id": "b9b21b217eb1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Brasil vai às urnas dividido entre quem realiza sonhos e quem se vê deixado para trás",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/09/brasil-vai-as-urnas-dividido-entre-quem-realiza-sonhos-e-quem-se-ve-deixado-para-tras.shtml",
-      "summary": "[RESUMO] O salto da capacidade de sonhar dos segmentos populares do Brasil nos últimos anos, argumenta a autora, vem se chocando com uma realidade de precarização do trabalho que multiplica promessas ilusórias de emancipação por meio do empreendedorismo em plataformas e redes sociais. O bolsonarismo surfa nesse desejo de autonomia e liberdade, mas o voto das classes aspiracionais reflete, sobretudo, sentimentos sobre a presença ou a ausência do Estado e o valor atribuído ao esforço individual.\nLeia mais (09/26/2026 - 23h00)",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "26 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "a1aeb1154d6a",
