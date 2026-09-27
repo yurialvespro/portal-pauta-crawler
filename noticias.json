@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:14:45.652547+00:00",
+  "generated_at": "2026-09-27T11:42:15.986702+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -18,9 +18,10 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 26 Sep 2026 17:43:55 -0000"
     },
     {
@@ -40,9 +41,10 @@
         "BBC Brasil",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Sat, 26 Sep 2026 08:30:00 +0000"
     },
     {
@@ -62,9 +64,10 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 25 Sep 2026 22:52:22 GMT"
     },
     {
@@ -84,9 +87,10 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 25 Sep 2026 15:06:21 GMT"
     },
     {
@@ -108,7 +112,8 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Sat, 26 Sep 2026 22:33:46 -0000"
@@ -129,30 +134,11 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
+      "score": 89,
       "publishedRaw": "Sat, 26 Sep 2026 00:45:58 GMT"
-    },
-    {
-      "id": "d975f34155d7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula intensifica agenda de rua na reta final do primeiro turno e faz corpo a corpo em SP",
-      "link": "https://www.estadao.com.br/politica/lula-intensifica-agenda-de-rua-na-reta-final-do-primeiro-turno-e-faz-corpo-a-corpo-em-sp/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
     },
     {
       "id": "b8c00734633c",
@@ -168,9 +154,10 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 86,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:01 -0000"
     },
     {
@@ -187,9 +174,10 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 86,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
@@ -206,9 +194,10 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 86,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
@@ -225,9 +214,10 @@
       ],
       "crossOutlets": [
         "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 82,
+      "score": 86,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
@@ -244,10 +234,154 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Sun, 27 Sep 2026 08:15:17 +0000"
+    },
+    {
+      "id": "290404db9907",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: saiba a ordem dos votos na urna eletrônica",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-2026-saiba-a-ordem-dos-votos-na-urna-eletronica/",
+      "summary": "Eleitores votarão em deputado federal, estadual, 2 senadores, governador e presidente da República, nesta ordem",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
+      "score": 86,
+      "publishedRaw": "Sun, 27 Sep 2026 11:20:47 +0000"
+    },
+    {
+      "id": "d975f34155d7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula intensifica agenda de rua na reta final do primeiro turno e faz corpo a corpo em SP",
+      "link": "https://www.estadao.com.br/politica/lula-intensifica-agenda-de-rua-na-reta-final-do-primeiro-turno-e-faz-corpo-a-corpo-em-sp/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
+    },
+    {
+      "id": "0036d1afde6b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pílula anticoncepcional é associada a “comer emocional”, diz estudo",
+      "link": "https://www.poder360.com.br/poder-saude/pilula-anticoncepcional-e-associada-a-comer-emocional-diz-estudo/",
+      "summary": "Estudo aponta tendência a comer em resposta a emoções durante o uso dos contraceptivos; não há prova que pílula cause compulsão alimentar",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 27 Sep 2026 11:20:41 +0000"
+    },
+    {
+      "id": "f3e699845b6f",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
+      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
+    },
+    {
+      "id": "1f18cf97d791",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Colinha’ incompleta: eleitores chegam à última semana antes das eleições sem definir todos os votos",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/27/colinha-incompleta-eleitores-chegam-a-ultima-semana-antes-das-eleicoes-sem-definir-todos-os-votos.ghtml",
+      "summary": "A uma semana para o primeiro turno das eleições de 2026, muitos eleitores ainda não definiram todos os candidatos em quem pretendem votar no próximo domingo (4). Enquanto parte do eleitorado já preparou a chamada “colinha” com os números dos candidatos, outros ainda avaliam opções para alguns ou todos os cargos em disputa.\nO g1 ouviu eleitores em pontos da capital federal para entender por que parte das decisões fica para os últimos dias da campanha.\n🔎As eleições acontecem nos dias 4 de outubro (primeiro turno) e 25 de outubro (se houver segundo turno), das 8h às 17h (horário de Brasília). O voto é obrigatório para pessoas com idades entre 18 e 69 anos e facultativo para jovens de 16 e 17 anos e idosos com 70 anos ou mais.\nCONGRESSO: Por que existem duas casas?\nA confeiteira Savina Sampaio, por exemplo, ainda não escolheu nenhum dos candidatos e diz que pretende aproveitar esta última semana para analisar os candidatos.\n“[vou levar em consideração] a índole, a trajetória que veio até aqui, o que falta para eles, o que realmente querem fazer”, afirmou.\nPara o cientista político Murilo Medeiros, da Universidade de Brasília (UnB), adiar algumas escolhas é um comportamento esperado diante da complexidade da eleição deste ano e, por isso, deixar essa escolha para a reta final é “natural”.\n“São seis votos, centenas de candidatos, cargos muito diferentes entre si e uma quantidade enorme de informações para assimilar em poucas semanas. É natural que parte dessas escolhas fique para a reta final”, afirma.\n🔎 No primeiro turno, os eleitores votam para deputado federal, deputado distrital, dois senadores, governador e presidente da República. É permitido levar uma anotação em papel com os números dos candidatos para consultar na cabine de votação.\nEleitores podem consultar \"colinha\" com números dos candidatos no momento da votação\nReprodução/ TRE-RS\nVotos para o Legislativo costumam ficar para depois\nSegundo Medeiros, os eleitores tendem a acompanhar mais de perto a disputa presidencial e deixam para os últimos dias as escolhas para cargos legislativos.\n“É mais fácil identificar os concorrentes à Presidência porque a disputa recebe mais atenção. Já as escolhas para o Legislativo acabam ficando para a reta final, principalmente quando o eleitor tem menos informação sobre os candidatos”, diz.\nApesar disso, o cientista político ressalta que essas definições são fundamentais para o funcionamento do sistema político.\n“O Legislativo tem papel central para definir como o país será governado nos próximos quatro anos”, afirma.\nO aposentado Gilmar Mendes de Aguiar disse que, mesmo a dúvida sendo “muito pequena”, ainda não decidiu o voto para dois cargos, entre eles o de deputado federal.\nPesquisas mostram que esse comportamento é comum. Levantamento da Quaest divulgado em agosto deste ano apontou que 32% dos eleitores escolhem o candidato ao Senado na última semana antes da votação. Desse total, 14% tomam a decisão apenas no dia da eleição.\nLEIA TAMBÉM: Duas vagas para o Senado: repetir o candidato anula o 2º voto; saiba como votar e evite erros\nQuando o assunto é a Presidência da República, a definição costuma ocorrer mais cedo. Segundo a pesquisa, 20% dos eleitores escolhem o candidato na última semana e 10% dizem decidir apenas no dia do pleito.\nO padrão também apareceu em eleições anteriores. Pesquisa Datafolha realizada após o primeiro turno de 2022 mostrou que um quarto dos eleitores decidiu os votos para o Congresso na véspera ou no dia da votação.\nSegundo o levantamento:\n17% definiram o voto para o Senado no dia da eleição;\n18% tomaram a decisão para a Câmara dos Deputados no próprio dia da votação.\nJá para presidente, 81% dos entrevistados afirmaram ter decidido o voto pelo menos um mês antes das eleições.\nO cientista político Leonardo Barreto, especialista em comportamento eleitoral, entende que as pessoas mais desinteressadas não procuram informações espontaneamente sobre deputados e senadores e esses dados “precisam chegar até essa parcela de eleitores”.\nPor que deixam decisão para a última hora?\nPara Barreto, a falta de interesse pela política ajuda a explicar por que parte dos eleitores adia a escolha dos candidatos.\n“É aquela tarefa que você sabe que precisa fazer, mas não gostaria de fazer. Muitas pessoas não gostam de discutir política, não têm interesse e acabam deixando essa decisão para o último momento”, afirma.\nSegundo Medeiros, outro motivo é a quantidade de informações que precisam ser analisadas, como propostas, trajetórias e posições.\n“O custo informacional do voto é elevado. Quanto mais candidatos o eleitor precisa avaliar, mais difícil fica comparar propostas e fazer uma escolha com segurança”, explica.\nA estudante de psicologia Giovanna ainda precisa decidir os votos para deputado federal e distrital. Para ela, o número de candidatos torna a escolha mais difícil.\n“São muitas opções. Preciso estudar melhor as propostas para escolher quem realmente faz mais sentido para mim”, diz.\nSegundo Medeiros, diferenciar as funções de um deputado federal, de um deputado distrital e de um senador também pode ser um desafio para parte dos eleitores. Para ele, conhecer essas atribuições ajuda tanto na hora de votar quanto depois, na hora de cobrar os eleitos.\nA fotógrafa Ranyellen Bravo ainda não definiu três dos seis votos. Embora já tenha alguns nomes em mente, ela pretende pesquisar mais sobre os candidatos antes de concluir a “colinha”.\nPara o cientista politico Leonardo Barreto, quando o eleitor não consegue chegar sozinho a uma decisão, é comum procurar alguém de confiança para ajudar a definir o voto.\n“Essas decisões normalmente são tomadas em conversas com familiares e amigos, em ambientes de confiança”, afirma.\nO especialista destaca, porém, que chegar à última semana sem todos os votos definidos não significa que o eleitor deixará de participar da eleição. O eleitor ainda pode buscar informações, conversar com alguém de confiança e decidir de última hora.\n“A pessoa ainda pode buscar informações, conversar com alguém de confiança e tomar a decisão no último momento”, diz.\nPara ele, há diferença entre indecisão e desinteresse pelo processo eleitoral.\n“Quem não quer escolher e decidiu se afastar do processo eleitoral já tomou uma decisão. Isso não é mais uma indecisão”, conclui.\nUrna eletrônica com sistema de Língua Brasileira de Sinais (Libras): cartório eleitoral de Rio Preto (SP) disponibiliza equipamentos para ampliar acesso de eleitores\nTV TEM/Reprodução",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
       "score": 82,
-      "publishedRaw": "Sun, 27 Sep 2026 08:15:17 +0000"
+      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "f3e699845b6f",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
+      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
+    },
+    {
+      "id": "4879170826a6",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Apostas como 'vilãs' e golpe no futebol: como a imprensa internacional noticiou a proibição das bets por Lula",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/26/apostas-como-vilas-e-golpe-no-futebol-como-a-imprensa-internacional-noticiou-a-proibicao-das-bets-por-lula.ghtml",
+      "summary": "A proibição das bets foi notícia em agências e jornais estrangeiros.\nReprodução/France 24\nA imprensa internacional repercutiu a decisão do presidente Luiz Inácio Lula da Silva de proibir as apostas online no Brasil, anunciada na sexta-feira (25/9), a pouco mais de uma semana do primeiro turno da eleição presidencial.\nAgências e jornais dos Estados Unidos, do Reino Unido e da França destacaram o peso eleitoral da medida, o endividamento das famílias e o impacto sobre o futebol brasileiro.\nHoras antes do anúncio, a agência Bloomberg já antecipava a decisão e a colocava no centro da disputa eleitoral. Em reportagem intitulada originalmente \"Com dívidas esmagando eleitores, Lula pinta as apostas online como vilãs\", a agência afirmou que Lula vinha atacando as apostas online em comício após comício, acusando-as de esvaziar os orçamentos das famílias e de enfraquecer o consumo que impulsionou o crescimento econômico em seus governos. \nVEJA TAMBÉM:\nGoverno anuncia proibição das bets no país\nCom a eleição a poucos dias e a disputa empatada nas pesquisas, escreveu a agência, o presidente estava \"transformando retórica em política\". \nA Bloomberg também informou, com base em duas fontes, que Lula assinaria no mesmo dia uma segunda MP, voltada à renegociação de dívidas de pessoas físicas.\nA proibição foi confirmada no fim do dia, em um evento em São Paulo. A medida provisória determina:\na proibição imediata de depósitos de clientes nos sites de apostas;\nque os apostadores solicitem o saque de seus fundos até 5 de outubro;\no bloqueio de todos os sites licenciados a partir de 6 de outubro;\na proibição imediata de novos contratos de publicidade, com os contratos atuais anulados após 6 de outubro.\nA MP entra em vigor imediatamente, mas precisa ser aprovada pelo Congresso em até 120 dias para continuar valendo.\nO presidente do Brasil, Luiz Inácio Lula da Silva, assina uma medida provisória que proíbe as plataformas de apostas esportivas on-line, durante uma cerimônia em São Paulo, Brasil, em 25 de setembro de 2026.\nGETTY IMAGES via BBC\nA agência Reuters noticiou que o anúncio é \"o mais recente de uma série de medidas reveladas antes da eleição\", em um momento em que as pesquisas mostram Lula em disputa apertada com o senador Flávio Bolsonaro. \nA agência também destacou a preocupação dentro do governo de que os gastos com apostas estejam drenando os orçamentos familiares e contribuindo para níveis recordes de endividamento.\nA AP noticiou que a decisão encerra a operação, a oferta, a intermediação e a publicidade de apostas, e registrou a reação de Flávio Bolsonaro, que acusou o presidente de adotar uma \"medida eleitoral\". A agência lembrou ainda que, dias antes, na Assembleia Geral da ONU, Lula havia acusado o setor de lucrar com o vício e destruir lares.\nNo Reino Unido, o jornal The Guardian destacou a fala de Lula de que se tratava de uma medida \"dura, drástica e necessária\", e ressaltou que, segundo as pesquisas, a decisão deve ter amplo apoio popular.\nA agência francesa AFP deu destaque ao impacto no futebol. Segundo a agência, 13 dos 20 clubes da primeira divisão têm um site de apostas como patrocinador principal de camisa, e jogadores como Neymar e Vinicius Junior estão entre os rostos mais conhecidos da publicidade do setor. \nA AFP também relatou que Lula comparou as apostas a um câncer, dizendo que ou se retira o tumor, ou ele mata, e que Flávio Bolsonaro o descreveu como desesperado. Segundo a agência, as 85 licenças concedidas ao setor, de R$ 30 milhões cada, não serão devolvidas.\nA agência lembrou ainda que a medida depende do Congresso para se tornar lei definitiva, e que o setor promete reagir. A Associação Nacional de Jogos e Loterias (ANJL), que representa as empresas licenciadas, alertou que a proibição pode empurrar apostadores para plataformas ilegais e defendeu mais fiscalização em vez do fim do mercado.\nSegundo o site Rio Times, voltado ao público estrangeiro, o Instituto Brasileiro de Jogo Responsável (IBJR) afirmou que as operadoras consideram ir à Justiça para recuperar o valor das licenças e dos investimentos.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Sat, 26 Sep 2026 16:11:59 -0000"
     },
     {
       "id": "ed4fa8229350",
@@ -269,44 +403,23 @@
       "publishedRaw": "Sat, 26 Sep 2026 16:28:38 +0000"
     },
     {
-      "id": "f3e699845b6f",
-      "source": "G1 - Economia",
+      "id": "4dd01bb68bd7",
+      "source": "Estadão",
       "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
-      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
+      "category": "Política",
+      "title": "Mais da metade dos candidatos de 2022 mudou de partido para as eleições de 2026",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mais-da-metade-dos-candidatos-de-2022-mudou-de-partido-para-as-eleicoes-de-2026/",
+      "summary": "",
       "tags": [
-        "Lula"
+        "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
-      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
-    },
-    {
-      "id": "4879170826a6",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Apostas como 'vilãs' e golpe no futebol: como a imprensa internacional noticiou a proibição das bets por Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/26/apostas-como-vilas-e-golpe-no-futebol-como-a-imprensa-internacional-noticiou-a-proibicao-das-bets-por-lula.ghtml",
-      "summary": "A proibição das bets foi notícia em agências e jornais estrangeiros.\nReprodução/France 24\nA imprensa internacional repercutiu a decisão do presidente Luiz Inácio Lula da Silva de proibir as apostas online no Brasil, anunciada na sexta-feira (25/9), a pouco mais de uma semana do primeiro turno da eleição presidencial.\nAgências e jornais dos Estados Unidos, do Reino Unido e da França destacaram o peso eleitoral da medida, o endividamento das famílias e o impacto sobre o futebol brasileiro.\nHoras antes do anúncio, a agência Bloomberg já antecipava a decisão e a colocava no centro da disputa eleitoral. Em reportagem intitulada originalmente \"Com dívidas esmagando eleitores, Lula pinta as apostas online como vilãs\", a agência afirmou que Lula vinha atacando as apostas online em comício após comício, acusando-as de esvaziar os orçamentos das famílias e de enfraquecer o consumo que impulsionou o crescimento econômico em seus governos. \nVEJA TAMBÉM:\nGoverno anuncia proibição das bets no país\nCom a eleição a poucos dias e a disputa empatada nas pesquisas, escreveu a agência, o presidente estava \"transformando retórica em política\". \nA Bloomberg também informou, com base em duas fontes, que Lula assinaria no mesmo dia uma segunda MP, voltada à renegociação de dívidas de pessoas físicas.\nA proibição foi confirmada no fim do dia, em um evento em São Paulo. A medida provisória determina:\na proibição imediata de depósitos de clientes nos sites de apostas;\nque os apostadores solicitem o saque de seus fundos até 5 de outubro;\no bloqueio de todos os sites licenciados a partir de 6 de outubro;\na proibição imediata de novos contratos de publicidade, com os contratos atuais anulados após 6 de outubro.\nA MP entra em vigor imediatamente, mas precisa ser aprovada pelo Congresso em até 120 dias para continuar valendo.\nO presidente do Brasil, Luiz Inácio Lula da Silva, assina uma medida provisória que proíbe as plataformas de apostas esportivas on-line, durante uma cerimônia em São Paulo, Brasil, em 25 de setembro de 2026.\nGETTY IMAGES via BBC\nA agência Reuters noticiou que o anúncio é \"o mais recente de uma série de medidas reveladas antes da eleição\", em um momento em que as pesquisas mostram Lula em disputa apertada com o senador Flávio Bolsonaro. \nA agência também destacou a preocupação dentro do governo de que os gastos com apostas estejam drenando os orçamentos familiares e contribuindo para níveis recordes de endividamento.\nA AP noticiou que a decisão encerra a operação, a oferta, a intermediação e a publicidade de apostas, e registrou a reação de Flávio Bolsonaro, que acusou o presidente de adotar uma \"medida eleitoral\". A agência lembrou ainda que, dias antes, na Assembleia Geral da ONU, Lula havia acusado o setor de lucrar com o vício e destruir lares.\nNo Reino Unido, o jornal The Guardian destacou a fala de Lula de que se tratava de uma medida \"dura, drástica e necessária\", e ressaltou que, segundo as pesquisas, a decisão deve ter amplo apoio popular.\nA agência francesa AFP deu destaque ao impacto no futebol. Segundo a agência, 13 dos 20 clubes da primeira divisão têm um site de apostas como patrocinador principal de camisa, e jogadores como Neymar e Vinicius Junior estão entre os rostos mais conhecidos da publicidade do setor. \nA AFP também relatou que Lula comparou as apostas a um câncer, dizendo que ou se retira o tumor, ou ele mata, e que Flávio Bolsonaro o descreveu como desesperado. Segundo a agência, as 85 licenças concedidas ao setor, de R$ 30 milhões cada, não serão devolvidas.\nA agência lembrou ainda que a medida depende do Congresso para se tornar lei definitiva, e que o setor promete reagir. A Associação Nacional de Jogos e Loterias (ANJL), que representa as empresas licenciadas, alertou que a proibição pode empurrar apostadores para plataformas ilegais e defendeu mais fiscalização em vez do fim do mercado.\nSegundo o site Rio Times, voltado ao público estrangeiro, o Instituto Brasileiro de Jogo Responsável (IBJR) afirmou que as operadoras consideram ir à Justiça para recuperar o valor das licenças e dos investimentos.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 81,
-      "publishedRaw": "Sat, 26 Sep 2026 16:11:59 -0000"
+      "score": 82,
+      "publishedRaw": "Sat, 26 Sep 2026 18:15:09 +0000"
     },
     {
       "id": "9c5553de1124",
@@ -323,9 +436,10 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Sat, 26 Sep 2026 10:00:07 GMT"
     },
     {
@@ -343,9 +457,10 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Fri, 25 Sep 2026 21:48:22 GMT"
     },
     {
@@ -363,9 +478,10 @@
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Fri, 25 Sep 2026 21:55:46 GMT"
     },
     {
@@ -385,25 +501,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "f3e699845b6f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
-      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
     },
     {
       "id": "6294956487b7",
@@ -458,42 +555,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
-    },
-    {
-      "id": "1f18cf97d791",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Colinha’ incompleta: eleitores chegam à última semana antes das eleições sem definir todos os votos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/27/colinha-incompleta-eleitores-chegam-a-ultima-semana-antes-das-eleicoes-sem-definir-todos-os-votos.ghtml",
-      "summary": "A uma semana para o primeiro turno das eleições de 2026, muitos eleitores ainda não definiram todos os candidatos em quem pretendem votar no próximo domingo (4). Enquanto parte do eleitorado já preparou a chamada “colinha” com os números dos candidatos, outros ainda avaliam opções para alguns ou todos os cargos em disputa.\nO g1 ouviu eleitores em pontos da capital federal para entender por que parte das decisões fica para os últimos dias da campanha.\n🔎As eleições acontecem nos dias 4 de outubro (primeiro turno) e 25 de outubro (se houver segundo turno), das 8h às 17h (horário de Brasília). O voto é obrigatório para pessoas com idades entre 18 e 69 anos e facultativo para jovens de 16 e 17 anos e idosos com 70 anos ou mais.\nCONGRESSO: Por que existem duas casas?\nA confeiteira Savina Sampaio, por exemplo, ainda não escolheu nenhum dos candidatos e diz que pretende aproveitar esta última semana para analisar os candidatos.\n“[vou levar em consideração] a índole, a trajetória que veio até aqui, o que falta para eles, o que realmente querem fazer”, afirmou.\nPara o cientista político Murilo Medeiros, da Universidade de Brasília (UnB), adiar algumas escolhas é um comportamento esperado diante da complexidade da eleição deste ano e, por isso, deixar essa escolha para a reta final é “natural”.\n“São seis votos, centenas de candidatos, cargos muito diferentes entre si e uma quantidade enorme de informações para assimilar em poucas semanas. É natural que parte dessas escolhas fique para a reta final”, afirma.\n🔎 No primeiro turno, os eleitores votam para deputado federal, deputado distrital, dois senadores, governador e presidente da República. É permitido levar uma anotação em papel com os números dos candidatos para consultar na cabine de votação.\nEleitores podem consultar \"colinha\" com números dos candidatos no momento da votação\nReprodução/ TRE-RS\nVotos para o Legislativo costumam ficar para depois\nSegundo Medeiros, os eleitores tendem a acompanhar mais de perto a disputa presidencial e deixam para os últimos dias as escolhas para cargos legislativos.\n“É mais fácil identificar os concorrentes à Presidência porque a disputa recebe mais atenção. Já as escolhas para o Legislativo acabam ficando para a reta final, principalmente quando o eleitor tem menos informação sobre os candidatos”, diz.\nApesar disso, o cientista político ressalta que essas definições são fundamentais para o funcionamento do sistema político.\n“O Legislativo tem papel central para definir como o país será governado nos próximos quatro anos”, afirma.\nO aposentado Gilmar Mendes de Aguiar disse que, mesmo a dúvida sendo “muito pequena”, ainda não decidiu o voto para dois cargos, entre eles o de deputado federal.\nPesquisas mostram que esse comportamento é comum. Levantamento da Quaest divulgado em agosto deste ano apontou que 32% dos eleitores escolhem o candidato ao Senado na última semana antes da votação. Desse total, 14% tomam a decisão apenas no dia da eleição.\nLEIA TAMBÉM: Duas vagas para o Senado: repetir o candidato anula o 2º voto; saiba como votar e evite erros\nQuando o assunto é a Presidência da República, a definição costuma ocorrer mais cedo. Segundo a pesquisa, 20% dos eleitores escolhem o candidato na última semana e 10% dizem decidir apenas no dia do pleito.\nO padrão também apareceu em eleições anteriores. Pesquisa Datafolha realizada após o primeiro turno de 2022 mostrou que um quarto dos eleitores decidiu os votos para o Congresso na véspera ou no dia da votação.\nSegundo o levantamento:\n17% definiram o voto para o Senado no dia da eleição;\n18% tomaram a decisão para a Câmara dos Deputados no próprio dia da votação.\nJá para presidente, 81% dos entrevistados afirmaram ter decidido o voto pelo menos um mês antes das eleições.\nO cientista político Leonardo Barreto, especialista em comportamento eleitoral, entende que as pessoas mais desinteressadas não procuram informações espontaneamente sobre deputados e senadores e esses dados “precisam chegar até essa parcela de eleitores”.\nPor que deixam decisão para a última hora?\nPara Barreto, a falta de interesse pela política ajuda a explicar por que parte dos eleitores adia a escolha dos candidatos.\n“É aquela tarefa que você sabe que precisa fazer, mas não gostaria de fazer. Muitas pessoas não gostam de discutir política, não têm interesse e acabam deixando essa decisão para o último momento”, afirma.\nSegundo Medeiros, outro motivo é a quantidade de informações que precisam ser analisadas, como propostas, trajetórias e posições.\n“O custo informacional do voto é elevado. Quanto mais candidatos o eleitor precisa avaliar, mais difícil fica comparar propostas e fazer uma escolha com segurança”, explica.\nA estudante de psicologia Giovanna ainda precisa decidir os votos para deputado federal e distrital. Para ela, o número de candidatos torna a escolha mais difícil.\n“São muitas opções. Preciso estudar melhor as propostas para escolher quem realmente faz mais sentido para mim”, diz.\nSegundo Medeiros, diferenciar as funções de um deputado federal, de um deputado distrital e de um senador também pode ser um desafio para parte dos eleitores. Para ele, conhecer essas atribuições ajuda tanto na hora de votar quanto depois, na hora de cobrar os eleitos.\nA fotógrafa Ranyellen Bravo ainda não definiu três dos seis votos. Embora já tenha alguns nomes em mente, ela pretende pesquisar mais sobre os candidatos antes de concluir a “colinha”.\nPara o cientista politico Leonardo Barreto, quando o eleitor não consegue chegar sozinho a uma decisão, é comum procurar alguém de confiança para ajudar a definir o voto.\n“Essas decisões normalmente são tomadas em conversas com familiares e amigos, em ambientes de confiança”, afirma.\nO especialista destaca, porém, que chegar à última semana sem todos os votos definidos não significa que o eleitor deixará de participar da eleição. O eleitor ainda pode buscar informações, conversar com alguém de confiança e decidir de última hora.\n“A pessoa ainda pode buscar informações, conversar com alguém de confiança e tomar a decisão no último momento”, diz.\nPara ele, há diferença entre indecisão e desinteresse pelo processo eleitoral.\n“Quem não quer escolher e decidiu se afastar do processo eleitoral já tomou uma decisão. Isso não é mais uma indecisão”, conclui.\nUrna eletrônica com sistema de Língua Brasileira de Sinais (Libras): cartório eleitoral de Rio Preto (SP) disponibiliza equipamentos para ampliar acesso de eleitores\nTV TEM/Reprodução",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 78,
-      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "4dd01bb68bd7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mais da metade dos candidatos de 2022 mudou de partido para as eleições de 2026",
-      "link": "https://www.estadao.com.br/politica/eleicoes/mais-da-metade-dos-candidatos-de-2022-mudou-de-partido-para-as-eleicoes-de-2026/",
-      "summary": "",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 78,
-      "publishedRaw": "Sat, 26 Sep 2026 18:15:09 +0000"
     },
     {
       "id": "6b8c50b2c63a",
