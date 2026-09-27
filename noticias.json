@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:15:56.084659+00:00",
+  "generated_at": "2026-09-27T08:43:10.966390+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -256,6 +256,27 @@
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "4fc2eed0b45b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: saiba o que pode e o que não pode no dia da votação",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-saiba-o-que-pode-e-o-que-nao-pode-no-dia-da-votacao/",
+      "summary": "Manifestação individual e silenciosa é permitida, mas boca de urna e atos coletivos continuam proibidos; veja regras sobre propaganda, celular e documentos",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Sun, 27 Sep 2026 08:15:17 +0000"
+    },
+    {
       "id": "56104a760953",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -297,26 +318,6 @@
       ],
       "score": 87,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "c9d887d06a0a",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Medidas antes das eleições demandam ajuste de R$ 42 bi do Orçamento de 2027",
-      "link": "https://www.cnnbrasil.com.br/politica/medidas-antes-das-eleicoes-demandam-ajuste-de-r-42-bi-de-orcamento-de-2027/",
-      "summary": "Governo Lula precisa ajustar PLOA enviado ao Congresso; execução do Orçamento ficará a cargo de candidato eleito",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Sun, 27 Sep 2026 06:30:17 +0000"
     },
     {
       "id": "ed4fa8229350",
@@ -797,21 +798,6 @@
       "crossOutlets": [],
       "score": 67,
       "publishedRaw": "Sun, 27 Sep 2026 01:09:32 +0000"
-    },
-    {
-      "id": "fc79edbe1432",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Percentual de mulheres candidatas permanece estagnado desde 2020, diz TSE",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/percentual-de-mulheres-candidatas-permanece-estagnado-desde-2020-diz-tse/",
-      "summary": "Mulheres são cerca de 34% das candidaturas há quatro eleições, mostra TSE; pesquisadoras apontam atuação dos partidos e violência política como entraves",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Sun, 27 Sep 2026 06:30:22 +0000"
     }
   ]
 }
