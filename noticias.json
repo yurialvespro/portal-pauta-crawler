@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:15:13.469605+00:00",
+  "generated_at": "2026-09-27T21:41:59.145727+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -18,6 +18,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -40,6 +41,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -63,6 +65,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -89,11 +92,35 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Sat, 26 Sep 2026 22:33:46 -0000"
+    },
+    {
+      "id": "1e37d412db48",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula defende mudar indicação ao STF: “Quando coloca toga, vira Deus”",
+      "link": "https://www.poder360.com.br/poder-governo/lula-defende-mudar-indicacao-ao-stf-quando-coloca-toga-vira-deus/",
+      "summary": "Petista propõe colegiado com sociedade civil antes de votação no Senado e diz que Executivo deixa de influir depois da posse no STF",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 90,
+      "publishedRaw": "Sun, 27 Sep 2026 21:34:10 +0000"
     },
     {
       "id": "1dd513edbb42",
@@ -136,6 +163,28 @@
       "publishedRaw": "Sun, 27 Sep 2026 17:05:52 +0000"
     },
     {
+      "id": "cb485f8152db",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Boulos percorre periferias de SP e região metropolitana em uma van para pedir votos a Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/boulos-percorre-periferias-de-sp-e-regiao-metropolitana-em-uma-van-para-pedir-votos-a-lula.shtml",
+      "summary": "De licença da Secretaria-Geral da Presidência, Guilherme Boulos (PSOL) percorrerá, ao longo desta semana, bairros periféricos da capital e cidades da região metropolitana de São Paulo em uma van para pedir votos ao presidente Lula (PT).\nLeia mais (09/27/2026 - 18h16)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "27 Sep 2026 18:16:00 -0300"
+    },
+    {
       "id": "bccfcc3788c4",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -149,6 +198,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -170,6 +220,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -191,6 +242,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -212,6 +264,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -233,6 +286,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -254,6 +308,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -275,6 +330,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -296,6 +352,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -318,6 +375,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -339,6 +397,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
@@ -346,25 +405,61 @@
       "publishedRaw": "Sun, 27 Sep 2026 18:45:33 +0000"
     },
     {
-      "id": "01168357ec25",
-      "source": "Poder360",
+      "id": "3abd9a2d7992",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Ivete, Xamã, Bethânia: artistas aderem a Lula na busca pela reeleição",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/chico-caetano-bethania-artistas-aderem-a-lula-na-busca-pela-reeleicao/",
-      "summary": "Movimento ganhou força em setembro, com declarações de voto, manifestações de apoio e ato de campanha com artistas no Rio de Janeiro",
+      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
+      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
+        "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Sun, 27 Sep 2026 17:00:01 +0000"
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
+    },
+    {
+      "id": "6294956487b7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Filho de Moraes se casa em SP com segurança reforçada e sem manifestações contra o ministro do STF",
+      "link": "https://www.estadao.com.br/politica/filho-de-moraes-casa-em-sp-com-seguranca-reforcada-e-sem-manifestacoes-contra-o-ministro-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
+    },
+    {
+      "id": "879b53019f74",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "STF precisa mudar, mas reforma no calor da crise pode ser 'perigosa', dizem especialistas",
+      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A crise desencadeada pelo confronto entre Alexandre de Moraes e André Mendonça ampliou a pressão por mudanças no Supremo. Especialistas defendem medidas como um código de ética, mas alertam para os riscos de reformas amplas em meio à turbulência institucional.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
     },
     {
       "id": "73529ab0e6e5",
@@ -400,29 +495,12 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
-    },
-    {
-      "id": "3abd9a2d7992",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
-      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
     },
     {
       "id": "6b8c50b2c63a",
@@ -443,42 +521,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
-    },
-    {
-      "id": "6294956487b7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Filho de Moraes se casa em SP com segurança reforçada e sem manifestações contra o ministro do STF",
-      "link": "https://www.estadao.com.br/politica/filho-de-moraes-casa-em-sp-com-seguranca-reforcada-e-sem-manifestacoes-contra-o-ministro-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
-    },
-    {
-      "id": "879b53019f74",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "STF precisa mudar, mas reforma no calor da crise pode ser 'perigosa', dizem especialistas",
-      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A crise desencadeada pelo confronto entre Alexandre de Moraes e André Mendonça ampliou a pressão por mudanças no Supremo. Especialistas defendem medidas como um código de ética, mas alertam para os riscos de reformas amplas em meio à turbulência institucional.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
     },
     {
       "id": "056f1df93969",
@@ -538,12 +580,12 @@
       "publishedRaw": "Sun, 27 Sep 2026 20:02:53 +0000"
     },
     {
-      "id": "d6c4866f28a1",
+      "id": "be8f9296dee4",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Após Dino, jurídico de Flávio vê tentativa de “descredenciar” o TSE",
-      "link": "https://www.poder360.com.br/poder-justica/apos-dino-juridico-de-flavio-ve-tentativa-de-descredenciar-o-tse/",
+      "title": "Dino age para “descredenciar” o TSE, diz Defesa de Flávio",
+      "link": "https://www.poder360.com.br/poder-justica/dino-age-para-descredenciar-o-tse-diz-defesa-de-flavio/",
       "summary": "Equipe do PL criticou a medida que liberou publicação que relacionava ataques à padroeira do Brasil à candidatura",
       "tags": [
         "TSE"
