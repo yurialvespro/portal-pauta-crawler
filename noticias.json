@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:47:18.600852+00:00",
+  "generated_at": "2026-09-27T07:15:24.735777+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -16,7 +16,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -24,30 +23,6 @@
       ],
       "score": 94,
       "publishedRaw": "Sat, 26 Sep 2026 17:43:55 -0000"
-    },
-    {
-      "id": "a7d3147d2757",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: no Pará, Lula tem 40% e Flávio Bolsonaro, 35% no 1º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-para-lula-tem-40-e-flavio-bolsonaro-35-no-1o-turno/",
-      "summary": "Levantamento entrevistou 804 eleitores no estado, entre os dias 22 e 25 de setembro; margem de erro é de três pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Sat, 26 Sep 2026 23:53:06 +0000"
     },
     {
       "id": "9beab9e00eb0",
@@ -64,7 +39,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -87,7 +61,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -111,7 +84,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -136,7 +108,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -162,7 +133,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -196,50 +166,6 @@
       "publishedRaw": "Sat, 26 Sep 2026 21:06:49 +0000"
     },
     {
-      "id": "ed4fa8229350",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro pede prisão de coordenador da Secom por incentivo à fake news sobre N. S. Aparecida",
-      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-pede-prisao-de-coordenador-da-secom-por-incentivo-a-fake-news-de-n-s-aparecida/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Sat, 26 Sep 2026 16:28:38 +0000"
-    },
-    {
-      "id": "56104a760953",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
-      "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lula endurece discurso pela proibição das apostas online, mas foi seu governo que regulamentou os jogos, depois que Temer e Bolsonaro deixaram decretos no apagar das luzes dos seus governos.",
-      "tags": [
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 26 Sep 2026 00:45:58 GMT"
-    },
-    {
       "id": "b8c00734633c",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -252,11 +178,12 @@
         "eleições 2026"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 86,
+      "score": 91,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:01 -0000"
     },
     {
@@ -272,11 +199,12 @@
         "eleições 2026"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 86,
+      "score": 91,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
@@ -292,11 +220,12 @@
         "eleições 2026"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 86,
+      "score": 91,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
     },
     {
@@ -312,33 +241,135 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "f3e699845b6f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
-      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
+      "score": 91,
+      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "56104a760953",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
+      "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lula endurece discurso pela proibição das apostas online, mas foi seu governo que regulamentou os jogos, depois que Temer e Bolsonaro deixaram decretos no apagar das luzes dos seus governos.",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Sat, 26 Sep 2026 00:45:58 GMT"
+    },
+    {
+      "id": "1f18cf97d791",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Colinha’ incompleta: eleitores chegam à última semana antes das eleições sem definir todos os votos",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/27/colinha-incompleta-eleitores-chegam-a-ultima-semana-antes-das-eleicoes-sem-definir-todos-os-votos.ghtml",
+      "summary": "A uma semana para o primeiro turno das eleições de 2026, muitos eleitores ainda não definiram todos os candidatos em quem pretendem votar no próximo domingo (4). Enquanto parte do eleitorado já preparou a chamada “colinha” com os números dos candidatos, outros ainda avaliam opções para alguns ou todos os cargos em disputa.\nO g1 ouviu eleitores em pontos da capital federal para entender por que parte das decisões fica para os últimos dias da campanha.\n🔎As eleições acontecem nos dias 4 de outubro (primeiro turno) e 25 de outubro (se houver segundo turno), das 8h às 17h (horário de Brasília). O voto é obrigatório para pessoas com idades entre 18 e 69 anos e facultativo para jovens de 16 e 17 anos e idosos com 70 anos ou mais.\nCONGRESSO: Por que existem duas casas?\nA confeiteira Savina Sampaio, por exemplo, ainda não escolheu nenhum dos candidatos e diz que pretende aproveitar esta última semana para analisar os candidatos.\n“[vou levar em consideração] a índole, a trajetória que veio até aqui, o que falta para eles, o que realmente querem fazer”, afirmou.\nPara o cientista político Murilo Medeiros, da Universidade de Brasília (UnB), adiar algumas escolhas é um comportamento esperado diante da complexidade da eleição deste ano e, por isso, deixar essa escolha para a reta final é “natural”.\n“São seis votos, centenas de candidatos, cargos muito diferentes entre si e uma quantidade enorme de informações para assimilar em poucas semanas. É natural que parte dessas escolhas fique para a reta final”, afirma.\n🔎 No primeiro turno, os eleitores votam para deputado federal, deputado distrital, dois senadores, governador e presidente da República. É permitido levar uma anotação em papel com os números dos candidatos para consultar na cabine de votação.\nEleitores podem consultar \"colinha\" com números dos candidatos no momento da votação\nReprodução/ TRE-RS\nVotos para o Legislativo costumam ficar para depois\nSegundo Medeiros, os eleitores tendem a acompanhar mais de perto a disputa presidencial e deixam para os últimos dias as escolhas para cargos legislativos.\n“É mais fácil identificar os concorrentes à Presidência porque a disputa recebe mais atenção. Já as escolhas para o Legislativo acabam ficando para a reta final, principalmente quando o eleitor tem menos informação sobre os candidatos”, diz.\nApesar disso, o cientista político ressalta que essas definições são fundamentais para o funcionamento do sistema político.\n“O Legislativo tem papel central para definir como o país será governado nos próximos quatro anos”, afirma.\nO aposentado Gilmar Mendes de Aguiar disse que, mesmo a dúvida sendo “muito pequena”, ainda não decidiu o voto para dois cargos, entre eles o de deputado federal.\nPesquisas mostram que esse comportamento é comum. Levantamento da Quaest divulgado em agosto deste ano apontou que 32% dos eleitores escolhem o candidato ao Senado na última semana antes da votação. Desse total, 14% tomam a decisão apenas no dia da eleição.\nLEIA TAMBÉM: Duas vagas para o Senado: repetir o candidato anula o 2º voto; saiba como votar e evite erros\nQuando o assunto é a Presidência da República, a definição costuma ocorrer mais cedo. Segundo a pesquisa, 20% dos eleitores escolhem o candidato na última semana e 10% dizem decidir apenas no dia do pleito.\nO padrão também apareceu em eleições anteriores. Pesquisa Datafolha realizada após o primeiro turno de 2022 mostrou que um quarto dos eleitores decidiu os votos para o Congresso na véspera ou no dia da votação.\nSegundo o levantamento:\n17% definiram o voto para o Senado no dia da eleição;\n18% tomaram a decisão para a Câmara dos Deputados no próprio dia da votação.\nJá para presidente, 81% dos entrevistados afirmaram ter decidido o voto pelo menos um mês antes das eleições.\nO cientista político Leonardo Barreto, especialista em comportamento eleitoral, entende que as pessoas mais desinteressadas não procuram informações espontaneamente sobre deputados e senadores e esses dados “precisam chegar até essa parcela de eleitores”.\nPor que deixam decisão para a última hora?\nPara Barreto, a falta de interesse pela política ajuda a explicar por que parte dos eleitores adia a escolha dos candidatos.\n“É aquela tarefa que você sabe que precisa fazer, mas não gostaria de fazer. Muitas pessoas não gostam de discutir política, não têm interesse e acabam deixando essa decisão para o último momento”, afirma.\nSegundo Medeiros, outro motivo é a quantidade de informações que precisam ser analisadas, como propostas, trajetórias e posições.\n“O custo informacional do voto é elevado. Quanto mais candidatos o eleitor precisa avaliar, mais difícil fica comparar propostas e fazer uma escolha com segurança”, explica.\nA estudante de psicologia Giovanna ainda precisa decidir os votos para deputado federal e distrital. Para ela, o número de candidatos torna a escolha mais difícil.\n“São muitas opções. Preciso estudar melhor as propostas para escolher quem realmente faz mais sentido para mim”, diz.\nSegundo Medeiros, diferenciar as funções de um deputado federal, de um deputado distrital e de um senador também pode ser um desafio para parte dos eleitores. Para ele, conhecer essas atribuições ajuda tanto na hora de votar quanto depois, na hora de cobrar os eleitos.\nA fotógrafa Ranyellen Bravo ainda não definiu três dos seis votos. Embora já tenha alguns nomes em mente, ela pretende pesquisar mais sobre os candidatos antes de concluir a “colinha”.\nPara o cientista politico Leonardo Barreto, quando o eleitor não consegue chegar sozinho a uma decisão, é comum procurar alguém de confiança para ajudar a definir o voto.\n“Essas decisões normalmente são tomadas em conversas com familiares e amigos, em ambientes de confiança”, afirma.\nO especialista destaca, porém, que chegar à última semana sem todos os votos definidos não significa que o eleitor deixará de participar da eleição. O eleitor ainda pode buscar informações, conversar com alguém de confiança e decidir de última hora.\n“A pessoa ainda pode buscar informações, conversar com alguém de confiança e tomar a decisão no último momento”, diz.\nPara ele, há diferença entre indecisão e desinteresse pelo processo eleitoral.\n“Quem não quer escolher e decidiu se afastar do processo eleitoral já tomou uma decisão. Isso não é mais uma indecisão”, conclui.\nUrna eletrônica com sistema de Língua Brasileira de Sinais (Libras): cartório eleitoral de Rio Preto (SP) disponibiliza equipamentos para ampliar acesso de eleitores\nTV TEM/Reprodução",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "c9d887d06a0a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Medidas antes das eleições demandam ajuste de R$ 42 bi do Orçamento de 2027",
+      "link": "https://www.cnnbrasil.com.br/politica/medidas-antes-das-eleicoes-demandam-ajuste-de-r-42-bi-de-orcamento-de-2027/",
+      "summary": "Governo Lula precisa ajustar PLOA enviado ao Congresso; execução do Orçamento ficará a cargo de candidato eleito",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 27 Sep 2026 06:30:17 +0000"
+    },
+    {
+      "id": "ed4fa8229350",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro pede prisão de coordenador da Secom por incentivo à fake news sobre N. S. Aparecida",
+      "link": "https://www.estadao.com.br/politica/flavio-bolsonaro-pede-prisao-de-coordenador-da-secom-por-incentivo-a-fake-news-de-n-s-aparecida/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 26 Sep 2026 16:28:38 +0000"
+    },
+    {
+      "id": "4dd01bb68bd7",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mais da metade dos candidatos de 2022 mudou de partido para as eleições de 2026",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mais-da-metade-dos-candidatos-de-2022-mudou-de-partido-para-as-eleicoes-de-2026/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 26 Sep 2026 18:15:09 +0000"
+    },
+    {
+      "id": "06d50ffdac2b",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump rejeita plano de paz e reabertura de Ormuz do Irã e quer retomar bombardeios após eleições de novembro, diz jornal",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/trump-rejeita-plano-de-paz-e-reabertura-de-ormuz-do-ira-e-quer-retomar-bombardeios-apos-eleicoes-de-novembro-diz-jornal.ghtml",
+      "summary": "Donald Trump e Masoud Pezeshkian durante seus respectivos discursos na Assembleia Geral da ONU\nAngela Weiss/AFP; Heather Khalifa/AP\nO presidente dos EUA, Donald Trump, deve rejeitar o plano apresentado pelo Irã para colocar um fim à guerra entre os dois países e planeja retomar os bombardeios após as eleições de meio de mandato nos EUA, em novembro.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAs informações foram publicadas nesta sexta-feira (25) pelo jornal \"The Wall Street Journal\".\n\"Em conversas privadas, Trump mostra-se cético quanto à possibilidade de o Irã atender às suas exigências e disse à sua equipe que considera provável uma nova campanha de bombardeios, segundo as autoridades\", afirma a reportagem do \"WSJ\".\nO ministro das Relações Exteriores do Irã, Abbas Araghchi, anunciou, nesta sexta, que seu país apresentou aos Estados Unidos um plano para reabrir o Estreito de Ormuz à navegação marítima em um prazo de sete dias.\nAgora no g1\n\"O Irã transmitiu aos Estados Unidos, por meio do Catar, um plano concreto de sete dias. Se as condições necessárias forem cumpridas, o estreito poderá ser reaberto e o trânsito marítimo habitual restabelecido em sete dias\", declarou na sede da ONU em Nova York.\n\"A decisão agora cabe aos Estados Unidos. O Irã não admite coerção, ameaças ou intimidação. O Irã não abrirá mão de seus direitos soberanos por pressões\", enfatizou.\nNa última quinta-feira (25), o presidente do país, Masoud Pezeshkian, afirmou que os EUA devem decidir se querem encerrar a guerra e disse que seu país não deseja a continuidade do conflito. A declaração foi dada à emissora americana Fox News.\nPezeshkian adotou um tom desafiador em seu discurso na Assembleia Geral da ONU na quarta-feira (24), quando afirmou que o Irã não vai se \"ajoelhar\" diante dos Estados Unidos. A declaração ocorreu após o presidente americano, Donald Trump, reconhecer que Washington mantém conversas com Teerã.\n\"Quando as coisas podem ser resolvidas por meio do diálogo, não deveríamos nos matar. Mas, instigados por Israel, impuseram essa guerra a nós. Mas não queremos continuar. São os Estados Unidos que devem decidir se querem acabar com isso\", disse Pezeshkian, segundo tradução da Fox News.\nO presidente iraniano afirmou ainda que seu país está disposto a chegar a um acordo com Trump para encerrar o conflito. Ao mencionar um cessar-fogo, questionou por que um acordo teria sido rompido apenas duas semanas após sua assinatura.\n\"Por que, apenas duas semanas após a assinatura de um acordo, eles decidiram implodi-lo?\", disse.\nPresidente dos EUA, Donald Trump, e presidente do Irã, Masoud Pezeshkian\nEvelyn Hockstein/Reuters e Angelina Katsanis/AP Photo\nPezeshkian também afirmou que o Irã estaria disposto a negociar com o governo americano dentro das normas internacionais.\n\"Se o atual governo americano, dentro das estruturas jurídicas internacionais, quiser chegar a um acordo, perfeito. Caso contrário, antes ou depois das eleições legislativas americanas, que diferença faz para nós?\", afirmou.\nIrã ameaça levar guerra 'até o Oceano Índico' em caso de novos ataques dos EUA\nProposta para reabrir o Estreito de Ormuz\nO presidente do Irã, Masoud Pezeshkian\nIRIB/via Reuters TV/Divulgação via REUTERS\nAraghchi, que viajou a Nova York para participar da Assembleia Geral da ONU, apresentou as condições do Irã para a reabertura do estreito ao enviado americano Steve Witkoff na terça-feira (23). O tráfego marítimo na região enfrenta restrições desde o início da guerra.\n\"Se certas condições forem atendidas, o estreito será aberto dentro de sete dias e as negociações começarão\", disse Araghchi, segundo relatos publicados por veículos como The New York Times e The Guardian.\nA agência japonesa Kyodo foi a primeira a noticiar a proposta, na terça-feira, citando uma autoridade iraniana. A imprensa iraniana, no entanto, negou a informação. Até o momento, não havia sido divulgada uma declaração oficial de Teerã para esclarecer a posição do governo.\nSegundo Araghchi, o Irã apresentou sete condições para o fim da guerra e a reabertura do Estreito de Ormuz. Entre elas estão:\numa cessação de sete dias de todas as hostilidades no Oriente Médio, incluindo no Líbano;\no desbloqueio de ativos iranianos congelados, estimados em pelo menos US$ 12 bilhões (cerca de R$ 62,1 bilhões);\no levantamento das sanções sobre o petróleo iraniano;\no fim do bloqueio naval dos Estados Unidos contra o Irã.\nSegundo a proposta, no sétimo dia de cessação das hostilidades, o Irã reabriria o Estreito de Ormuz.\nAraghchi afirmou que aguarda uma resposta de Washington e disse que a China apoia a proposta. O país asiático tem relações comerciais e diplomáticas com o Irã.\nEm entrevista à AFP na terça-feira, o porta-voz da Guarda Revolucionária iraniana, Hossein Mohebi, também citou o fim das hostilidades no Iêmen entre as condições apresentadas por Teerã.\nAcordo e retomada das hostilidades\nTrump e Pezeshkian assinaram em junho um acordo com o objetivo de encerrar a guerra, reabrir o Estreito de Ormuz e, posteriormente, iniciar negociações sobre o programa nuclear iraniano.\nO acordo, porém, foi interpretado de maneiras diferentes pelos dois lados, segundo autoridades dos governos envolvidos. As divergências foram seguidas pela retomada das hostilidades na região do Estreito de Ormuz.\nO Irã exige que navios que pretendem atravessar o estreito obtenham autorização do país, alegando razões de segurança e soberania. Em meio ao conflito, embarcações que não cumprem a exigência são atacadas, enquanto os Estados Unidos realizam ataques contra alvos na costa iraniana.\nHouthis\nO presidente iraniano também negou que os houthis, grupo rebelde que atua no Iêmen e é apoiado pelo Irã, recebam ordens de Teerã.\n\"Eles são responsáveis por seus próprios atos\", declarou Pezeshkian. \"Temos contato com eles. Não há uma relação sistemática.\"\nO movimento houthi assumiu neste mês o controle do Estreito de Bab el-Mandeb, segundo Pezeshkian, em combates que deixaram centenas de mortos. O grupo também realizou ataques contra alvos na Arábia Saudita, incluindo a capital, Riad, pela primeira vez em anos.\nLEIA TAMBÉM: 'Terrorista', 'Aniquilar para o inferno': EUA e Irã trocam acusações na ONU, mas negociam nos bastidores",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Sat, 26 Sep 2026 01:07:16 -0000"
     },
     {
       "id": "d975f34155d7",
@@ -353,7 +384,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -361,27 +391,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
-    },
-    {
-      "id": "6b8c50b2c63a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
-      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
     },
     {
       "id": "7b40dd5c2b64",
@@ -396,7 +405,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -418,7 +426,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -440,7 +447,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -450,44 +456,24 @@
       "publishedRaw": "Sat, 26 Sep 2026 22:05:42 +0000"
     },
     {
-      "id": "663ada3387eb",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro",
-      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
-    },
-    {
-      "id": "1f18cf97d791",
+      "id": "f3e699845b6f",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "‘Colinha’ incompleta: eleitores chegam à última semana antes das eleições sem definir todos os votos",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/27/colinha-incompleta-eleitores-chegam-a-ultima-semana-antes-das-eleicoes-sem-definir-todos-os-votos.ghtml",
-      "summary": "A uma semana para o primeiro turno das eleições de 2026, muitos eleitores ainda não definiram todos os candidatos em quem pretendem votar no próximo domingo (4). Enquanto parte do eleitorado já preparou a chamada “colinha” com os números dos candidatos, outros ainda avaliam opções para alguns ou todos os cargos em disputa.\nO g1 ouviu eleitores em pontos da capital federal para entender por que parte das decisões fica para os últimos dias da campanha.\n🔎As eleições acontecem nos dias 4 de outubro (primeiro turno) e 25 de outubro (se houver segundo turno), das 8h às 17h (horário de Brasília). O voto é obrigatório para pessoas com idades entre 18 e 69 anos e facultativo para jovens de 16 e 17 anos e idosos com 70 anos ou mais.\nCONGRESSO: Por que existem duas casas?\nA confeiteira Savina Sampaio, por exemplo, ainda não escolheu nenhum dos candidatos e diz que pretende aproveitar esta última semana para analisar os candidatos.\n“[vou levar em consideração] a índole, a trajetória que veio até aqui, o que falta para eles, o que realmente querem fazer”, afirmou.\nPara o cientista político Murilo Medeiros, da Universidade de Brasília (UnB), adiar algumas escolhas é um comportamento esperado diante da complexidade da eleição deste ano e, por isso, deixar essa escolha para a reta final é “natural”.\n“São seis votos, centenas de candidatos, cargos muito diferentes entre si e uma quantidade enorme de informações para assimilar em poucas semanas. É natural que parte dessas escolhas fique para a reta final”, afirma.\n🔎 No primeiro turno, os eleitores votam para deputado federal, deputado distrital, dois senadores, governador e presidente da República. É permitido levar uma anotação em papel com os números dos candidatos para consultar na cabine de votação.\nEleitores podem consultar \"colinha\" com números dos candidatos no momento da votação\nReprodução/ TRE-RS\nVotos para o Legislativo costumam ficar para depois\nSegundo Medeiros, os eleitores tendem a acompanhar mais de perto a disputa presidencial e deixam para os últimos dias as escolhas para cargos legislativos.\n“É mais fácil identificar os concorrentes à Presidência porque a disputa recebe mais atenção. Já as escolhas para o Legislativo acabam ficando para a reta final, principalmente quando o eleitor tem menos informação sobre os candidatos”, diz.\nApesar disso, o cientista político ressalta que essas definições são fundamentais para o funcionamento do sistema político.\n“O Legislativo tem papel central para definir como o país será governado nos próximos quatro anos”, afirma.\nO aposentado Gilmar Mendes de Aguiar disse que, mesmo a dúvida sendo “muito pequena”, ainda não decidiu o voto para dois cargos, entre eles o de deputado federal.\nPesquisas mostram que esse comportamento é comum. Levantamento da Quaest divulgado em agosto deste ano apontou que 32% dos eleitores escolhem o candidato ao Senado na última semana antes da votação. Desse total, 14% tomam a decisão apenas no dia da eleição.\nLEIA TAMBÉM: Duas vagas para o Senado: repetir o candidato anula o 2º voto; saiba como votar e evite erros\nQuando o assunto é a Presidência da República, a definição costuma ocorrer mais cedo. Segundo a pesquisa, 20% dos eleitores escolhem o candidato na última semana e 10% dizem decidir apenas no dia do pleito.\nO padrão também apareceu em eleições anteriores. Pesquisa Datafolha realizada após o primeiro turno de 2022 mostrou que um quarto dos eleitores decidiu os votos para o Congresso na véspera ou no dia da votação.\nSegundo o levantamento:\n17% definiram o voto para o Senado no dia da eleição;\n18% tomaram a decisão para a Câmara dos Deputados no próprio dia da votação.\nJá para presidente, 81% dos entrevistados afirmaram ter decidido o voto pelo menos um mês antes das eleições.\nO cientista político Leonardo Barreto, especialista em comportamento eleitoral, entende que as pessoas mais desinteressadas não procuram informações espontaneamente sobre deputados e senadores e esses dados “precisam chegar até essa parcela de eleitores”.\nPor que deixam decisão para a última hora?\nPara Barreto, a falta de interesse pela política ajuda a explicar por que parte dos eleitores adia a escolha dos candidatos.\n“É aquela tarefa que você sabe que precisa fazer, mas não gostaria de fazer. Muitas pessoas não gostam de discutir política, não têm interesse e acabam deixando essa decisão para o último momento”, afirma.\nSegundo Medeiros, outro motivo é a quantidade de informações que precisam ser analisadas, como propostas, trajetórias e posições.\n“O custo informacional do voto é elevado. Quanto mais candidatos o eleitor precisa avaliar, mais difícil fica comparar propostas e fazer uma escolha com segurança”, explica.\nA estudante de psicologia Giovanna ainda precisa decidir os votos para deputado federal e distrital. Para ela, o número de candidatos torna a escolha mais difícil.\n“São muitas opções. Preciso estudar melhor as propostas para escolher quem realmente faz mais sentido para mim”, diz.\nSegundo Medeiros, diferenciar as funções de um deputado federal, de um deputado distrital e de um senador também pode ser um desafio para parte dos eleitores. Para ele, conhecer essas atribuições ajuda tanto na hora de votar quanto depois, na hora de cobrar os eleitos.\nA fotógrafa Ranyellen Bravo ainda não definiu três dos seis votos. Embora já tenha alguns nomes em mente, ela pretende pesquisar mais sobre os candidatos antes de concluir a “colinha”.\nPara o cientista politico Leonardo Barreto, quando o eleitor não consegue chegar sozinho a uma decisão, é comum procurar alguém de confiança para ajudar a definir o voto.\n“Essas decisões normalmente são tomadas em conversas com familiares e amigos, em ambientes de confiança”, afirma.\nO especialista destaca, porém, que chegar à última semana sem todos os votos definidos não significa que o eleitor deixará de participar da eleição. O eleitor ainda pode buscar informações, conversar com alguém de confiança e decidir de última hora.\n“A pessoa ainda pode buscar informações, conversar com alguém de confiança e tomar a decisão no último momento”, diz.\nPara ele, há diferença entre indecisão e desinteresse pelo processo eleitoral.\n“Quem não quer escolher e decidiu se afastar do processo eleitoral já tomou uma decisão. Isso não é mais uma indecisão”, conclui.\nUrna eletrônica com sistema de Língua Brasileira de Sinais (Libras): cartório eleitoral de Rio Preto (SP) disponibiliza equipamentos para ampliar acesso de eleitores\nTV TEM/Reprodução",
+      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
+      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
       "tags": [
-        "eleições"
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
     },
     {
       "id": "f3e699845b6f",
@@ -502,7 +488,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -524,7 +509,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -532,25 +516,6 @@
       ],
       "score": 82,
       "publishedRaw": "Sat, 26 Sep 2026 16:11:59 -0000"
-    },
-    {
-      "id": "4dd01bb68bd7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mais da metade dos candidatos de 2022 mudou de partido para as eleições de 2026",
-      "link": "https://www.estadao.com.br/politica/eleicoes/mais-da-metade-dos-candidatos-de-2022-mudou-de-partido-para-as-eleicoes-de-2026/",
-      "summary": "",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 18:15:09 +0000"
     },
     {
       "id": "9c5553de1124",
@@ -564,7 +529,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -586,7 +550,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -608,7 +571,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -630,7 +592,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Mundo",
@@ -641,23 +602,44 @@
       "publishedRaw": "Fri, 25 Sep 2026 21:55:46 GMT"
     },
     {
-      "id": "06d50ffdac2b",
-      "source": "G1 - Mundo",
+      "id": "6b8c50b2c63a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
+      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
+    },
+    {
+      "id": "663ada3387eb",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Trump rejeita plano de paz e reabertura de Ormuz do Irã e quer retomar bombardeios após eleições de novembro, diz jornal",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/trump-rejeita-plano-de-paz-e-reabertura-de-ormuz-do-ira-e-quer-retomar-bombardeios-apos-eleicoes-de-novembro-diz-jornal.ghtml",
-      "summary": "Donald Trump e Masoud Pezeshkian durante seus respectivos discursos na Assembleia Geral da ONU\nAngela Weiss/AFP; Heather Khalifa/AP\nO presidente dos EUA, Donald Trump, deve rejeitar o plano apresentado pelo Irã para colocar um fim à guerra entre os dois países e planeja retomar os bombardeios após as eleições de meio de mandato nos EUA, em novembro.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAs informações foram publicadas nesta sexta-feira (25) pelo jornal \"The Wall Street Journal\".\n\"Em conversas privadas, Trump mostra-se cético quanto à possibilidade de o Irã atender às suas exigências e disse à sua equipe que considera provável uma nova campanha de bombardeios, segundo as autoridades\", afirma a reportagem do \"WSJ\".\nO ministro das Relações Exteriores do Irã, Abbas Araghchi, anunciou, nesta sexta, que seu país apresentou aos Estados Unidos um plano para reabrir o Estreito de Ormuz à navegação marítima em um prazo de sete dias.\nAgora no g1\n\"O Irã transmitiu aos Estados Unidos, por meio do Catar, um plano concreto de sete dias. Se as condições necessárias forem cumpridas, o estreito poderá ser reaberto e o trânsito marítimo habitual restabelecido em sete dias\", declarou na sede da ONU em Nova York.\n\"A decisão agora cabe aos Estados Unidos. O Irã não admite coerção, ameaças ou intimidação. O Irã não abrirá mão de seus direitos soberanos por pressões\", enfatizou.\nNa última quinta-feira (25), o presidente do país, Masoud Pezeshkian, afirmou que os EUA devem decidir se querem encerrar a guerra e disse que seu país não deseja a continuidade do conflito. A declaração foi dada à emissora americana Fox News.\nPezeshkian adotou um tom desafiador em seu discurso na Assembleia Geral da ONU na quarta-feira (24), quando afirmou que o Irã não vai se \"ajoelhar\" diante dos Estados Unidos. A declaração ocorreu após o presidente americano, Donald Trump, reconhecer que Washington mantém conversas com Teerã.\n\"Quando as coisas podem ser resolvidas por meio do diálogo, não deveríamos nos matar. Mas, instigados por Israel, impuseram essa guerra a nós. Mas não queremos continuar. São os Estados Unidos que devem decidir se querem acabar com isso\", disse Pezeshkian, segundo tradução da Fox News.\nO presidente iraniano afirmou ainda que seu país está disposto a chegar a um acordo com Trump para encerrar o conflito. Ao mencionar um cessar-fogo, questionou por que um acordo teria sido rompido apenas duas semanas após sua assinatura.\n\"Por que, apenas duas semanas após a assinatura de um acordo, eles decidiram implodi-lo?\", disse.\nPresidente dos EUA, Donald Trump, e presidente do Irã, Masoud Pezeshkian\nEvelyn Hockstein/Reuters e Angelina Katsanis/AP Photo\nPezeshkian também afirmou que o Irã estaria disposto a negociar com o governo americano dentro das normas internacionais.\n\"Se o atual governo americano, dentro das estruturas jurídicas internacionais, quiser chegar a um acordo, perfeito. Caso contrário, antes ou depois das eleições legislativas americanas, que diferença faz para nós?\", afirmou.\nIrã ameaça levar guerra 'até o Oceano Índico' em caso de novos ataques dos EUA\nProposta para reabrir o Estreito de Ormuz\nO presidente do Irã, Masoud Pezeshkian\nIRIB/via Reuters TV/Divulgação via REUTERS\nAraghchi, que viajou a Nova York para participar da Assembleia Geral da ONU, apresentou as condições do Irã para a reabertura do estreito ao enviado americano Steve Witkoff na terça-feira (23). O tráfego marítimo na região enfrenta restrições desde o início da guerra.\n\"Se certas condições forem atendidas, o estreito será aberto dentro de sete dias e as negociações começarão\", disse Araghchi, segundo relatos publicados por veículos como The New York Times e The Guardian.\nA agência japonesa Kyodo foi a primeira a noticiar a proposta, na terça-feira, citando uma autoridade iraniana. A imprensa iraniana, no entanto, negou a informação. Até o momento, não havia sido divulgada uma declaração oficial de Teerã para esclarecer a posição do governo.\nSegundo Araghchi, o Irã apresentou sete condições para o fim da guerra e a reabertura do Estreito de Ormuz. Entre elas estão:\numa cessação de sete dias de todas as hostilidades no Oriente Médio, incluindo no Líbano;\no desbloqueio de ativos iranianos congelados, estimados em pelo menos US$ 12 bilhões (cerca de R$ 62,1 bilhões);\no levantamento das sanções sobre o petróleo iraniano;\no fim do bloqueio naval dos Estados Unidos contra o Irã.\nSegundo a proposta, no sétimo dia de cessação das hostilidades, o Irã reabriria o Estreito de Ormuz.\nAraghchi afirmou que aguarda uma resposta de Washington e disse que a China apoia a proposta. O país asiático tem relações comerciais e diplomáticas com o Irã.\nEm entrevista à AFP na terça-feira, o porta-voz da Guarda Revolucionária iraniana, Hossein Mohebi, também citou o fim das hostilidades no Iêmen entre as condições apresentadas por Teerã.\nAcordo e retomada das hostilidades\nTrump e Pezeshkian assinaram em junho um acordo com o objetivo de encerrar a guerra, reabrir o Estreito de Ormuz e, posteriormente, iniciar negociações sobre o programa nuclear iraniano.\nO acordo, porém, foi interpretado de maneiras diferentes pelos dois lados, segundo autoridades dos governos envolvidos. As divergências foram seguidas pela retomada das hostilidades na região do Estreito de Ormuz.\nO Irã exige que navios que pretendem atravessar o estreito obtenham autorização do país, alegando razões de segurança e soberania. Em meio ao conflito, embarcações que não cumprem a exigência são atacadas, enquanto os Estados Unidos realizam ataques contra alvos na costa iraniana.\nHouthis\nO presidente iraniano também negou que os houthis, grupo rebelde que atua no Iêmen e é apoiado pelo Irã, recebam ordens de Teerã.\n\"Eles são responsáveis por seus próprios atos\", declarou Pezeshkian. \"Temos contato com eles. Não há uma relação sistemática.\"\nO movimento houthi assumiu neste mês o controle do Estreito de Bab el-Mandeb, segundo Pezeshkian, em combates que deixaram centenas de mortos. O grupo também realizou ataques contra alvos na Arábia Saudita, incluindo a capital, Riad, pela primeira vez em anos.\nLEIA TAMBÉM: 'Terrorista', 'Aniquilar para o inferno': EUA e Irã trocam acusações na ONU, mas negociam nos bastidores",
+      "title": "'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro",
+      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
       "tags": [
-        "eleições"
+        "Bolsonaro",
+        "família"
       ],
       "crossOutlets": [
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
-      "publishedRaw": "Sat, 26 Sep 2026 01:07:16 -0000"
+      "score": 80,
+      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
     },
     {
       "id": "3abd9a2d7992",
@@ -671,29 +653,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "17096772c30d",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 47% avaliam trabalho do STF como negativo",
-      "link": "https://www.cnnbrasil.com.br/politica/datafolha-47-avaliam-trabalho-do-stf-como-negativo/",
-      "summary": "Pesquisa ouviu 2.002 eleitores paulistas entre 22 e 23 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 23:39:09 +0000"
     },
     {
       "id": "6294956487b7",
@@ -707,10 +670,9 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 26 Sep 2026 22:38:51 +0000"
     },
     {
@@ -725,62 +687,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 26 Sep 2026 23:40:22 +0000"
-    },
-    {
-      "id": "b1b4a06173a8",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "VÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/27/video-como-nascem-as-leis-e-qual-o-caminho-para-aprovacao-no-congresso.ghtml",
-      "summary": "CONGRESSO: Como nasce uma lei?\nMudanças que afetam o dia a dia dos brasileiros, como regras sobre licença-paternidade, programas para parcelamento de dívidas e critérios para aposentadoria, por exemplo, dependem de decisões tomadas no Congresso Nacional.\nNo Legislativo, essas mudanças podem ser propostas por diferentes instrumentos. Entre os mais conhecidos estão o projeto de lei (PL), a proposta de emenda à Constituição (PEC) e a medida provisória (MP), editada pelo governo.\nCada um deles segue um caminho diferente até que uma mudança seja efetivamente aprovada ou deixe de valer. \nVEJA TAMBÉM:\n50 Vídeos para entender as Eleições de 2026\n📍 Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nEntenda melhor cada caso: \nProjeto de lei (PL)\nO projeto de lei é uma proposta que pode criar uma nova lei ou alterar uma legislação que já existe. \nEle pode ser apresentado por deputados, senadores, comissões do Congresso, pelo presidente da República e, em alguns casos, pelo Supremo Tribunal Federal, tribunais superiores e pelo procurador-geral da República. \nTambém pode ser apresentado por iniciativa popular, desde que cumpridos os requisitos previstos na Constituição.\nDepois de apresentado, o projeto passa por comissões e pode ser alterado durante a tramitação. Em regra, precisa ser aprovado pela Câmara e pelo Senado. Depois da aprovação pelo Congresso, segue para sanção ou veto do presidente da República.\nMedida provisória (MP)\nA medida provisória é editada pelo presidente da República em casos de relevância e urgência e tem efeito imediato. \nDiferentemente de um projeto de lei, então, a MP não precisa ser aprovada pelo Congresso para começar a valer.\nDepois de publicada, porém, ela precisa ser analisada pela Câmara e pelo Senado. A Constituição estabelece prazo de 60 dias, prorrogável uma vez pelo mesmo período, para que o Congresso conclua a votação. \nSe for aprovada, a MP é convertida em lei. Se for rejeitada ou perder a validade sem aprovação, deixa de produzir efeitos.\nProposta de Emenda à Constituição (PEC)\nJá a proposta de emenda à Constituição, a PEC, é usada quando a mudança pretendida precisa alterar o próprio texto da Constituição. \nPor isso, ela segue um processo de aprovação mais rigoroso do que um projeto de lei: precisa ser votada em dois turnos na Câmara e no Senado e aprovada por três quintos dos deputados e dos senadores em cada uma das Casas.\nA PEC também passa por comissões antes de chegar ao plenário. Em cada Casa, ela tem que passar pela Comissão de Constituição e Justiça e de Cidadania (CCJ), que analisa se a proposta pode tramitar e, se for admitida, uma comissão especial analisa seu conteúdo. Em seguida, o texto segue para votação no plenário.\nDepois de tanto a Câmara dos Deputados quanto o Senado aprovarem o texto, ele segue para a promulgação: ou seja, passa a valer com assinatura do presidente do Congresso depois de ser publicado no Diário Oficial da União (DOU). Com isso, não precisa do aval do presidente da República.\nAprovação pelas duas Casas\nIndependente do processo, durante a tramitação, as propostas são discutidas e podem sofrer alterações. Dependendo do caso, passam por votações na Câmara dos Deputados e no Senado e podem retornar à Casa onde começaram para uma nova análise.\nTodo esse chamado processo legislativo pode resultar em mudanças em diferentes áreas da vida dos brasileiros: do preço de produtos e combustíveis a regras para escolas e direitos trabalhistas e previdenciários.\nÉ nesse processo que projetos e medidas são debatidos, modificados e, eventualmente, transformados em novas regras.",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "afa47bba89da",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "37% avaliam Congresso como ruim ou péssimo, aponta Datafolha; 18% dizem que desempenho é ótimo ou bom",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/26/37percent-avaliam-congresso-como-ruim-ou-pessimo-aponta-datafolha-18percent-dizem-que-desempenho-e-otimo-ou-bom.ghtml",
-      "summary": "Cúpula do Senado Federal e prédio do Congresso Nacional durante o amanhecer.\nPedro França/Agência Senado\nO trabalho dos senadores e deputados federais é considerado ruim ou péssimo por 37% dos eleitores brasileiros, segundo pesquisa Datafolha divulgada neste sábado (26).\n➡️O Datafolha entrevistou 2.002 eleitores com 16 anos ou mais em 125 municípios de todo o país, nos dias 22 e 23 de setembro de 2026. A margem de erro máxima é de dois pontos percentuais para mais ou para menos.\nDe acordo com a pesquisa, 18% avaliam o desempenho dos parlamentares como ótimo ou bom, enquanto 40% consideram o trabalho regular. A parcela que não soube responder é de 6%.\nOs resultados são semelhantes aos registrados na pesquisa anterior, realizada em maio. Naquele levantamento, 37% avaliavam o Congresso como ruim ou péssimo, 15% como ótimo ou bom e 43% como regular.\nAvaliação por eleitor\nA avaliação do Congresso também variou de acordo com a intenção de voto para a Presidência da República.\nA aprovação é maior entre os eleitores que declararam intenção de votar em Luiz Inácio Lula da Silva (PT), entre os quais 22% consideram o desempenho dos deputados e senadores ótimo ou bom.\nJá entre os eleitores de Flávio Bolsonaro (PL), o percentual é de 15%.\nDesempenho por gênero e região\nA pesquisa também avaliou como os parlamentares são avaliados a partir do recorte de gênero, renda e região do Brasil.\nA classificação do trabalho como ruim ou péssimo é maior entre homens (43%) do que entre mulheres (32%).\nA avaliação também é pior entre aqueles que declararam renda acima de cinco salários mínimos por mês (51%) – entre os que recebem até dois salários mínimos, fica em 30%.\nEntre as regiões, o Sudeste é a área em que os deputados e senadores tem a avaliação mais negativa, com 41% afirmando que o trabalho é ruim ou péssimo. Na sequência aparecem Centro-Oeste e Norte (38%), Sul (36%) e Nordeste (32%).\nJá os que enxergam como ótimo ou bom são 16% no Sudeste e no Sul, 21% no Nordeste e 17% no Centro-Oeste e no Norte.",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 68,
-      "publishedRaw": "Sat, 26 Sep 2026 21:31:43 -0000"
-    },
-    {
-      "id": "a8c7070b54d2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: avaliação negativa do Congresso é de 37%; positiva é de 18%",
-      "link": "https://www.cnnbrasil.com.br/politica/datafolha-avaliacao-negativa-do-congresso-e-de-37-positiva-e-de-18/",
-      "summary": "Foram ouvidas 2.002 pessoas entre os dias 22 e 24 de setembro; margem de erro é 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Sat, 26 Sep 2026 23:46:37 +0000"
     },
     {
       "id": "0acf9f1e5119",
@@ -796,6 +706,51 @@
       "crossOutlets": [],
       "score": 67,
       "publishedRaw": "Sun, 27 Sep 2026 01:09:32 +0000"
+    },
+    {
+      "id": "b1b4a06173a8",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "VÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/27/video-como-nascem-as-leis-e-qual-o-caminho-para-aprovacao-no-congresso.ghtml",
+      "summary": "CONGRESSO: Como nasce uma lei?\nMudanças que afetam o dia a dia dos brasileiros, como regras sobre licença-paternidade, programas para parcelamento de dívidas e critérios para aposentadoria, por exemplo, dependem de decisões tomadas no Congresso Nacional.\nNo Legislativo, essas mudanças podem ser propostas por diferentes instrumentos. Entre os mais conhecidos estão o projeto de lei (PL), a proposta de emenda à Constituição (PEC) e a medida provisória (MP), editada pelo governo.\nCada um deles segue um caminho diferente até que uma mudança seja efetivamente aprovada ou deixe de valer. \nVEJA TAMBÉM:\n50 Vídeos para entender as Eleições de 2026\n📍 Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.\nEntenda melhor cada caso: \nProjeto de lei (PL)\nO projeto de lei é uma proposta que pode criar uma nova lei ou alterar uma legislação que já existe. \nEle pode ser apresentado por deputados, senadores, comissões do Congresso, pelo presidente da República e, em alguns casos, pelo Supremo Tribunal Federal, tribunais superiores e pelo procurador-geral da República. \nTambém pode ser apresentado por iniciativa popular, desde que cumpridos os requisitos previstos na Constituição.\nDepois de apresentado, o projeto passa por comissões e pode ser alterado durante a tramitação. Em regra, precisa ser aprovado pela Câmara e pelo Senado. Depois da aprovação pelo Congresso, segue para sanção ou veto do presidente da República.\nMedida provisória (MP)\nA medida provisória é editada pelo presidente da República em casos de relevância e urgência e tem efeito imediato. \nDiferentemente de um projeto de lei, então, a MP não precisa ser aprovada pelo Congresso para começar a valer.\nDepois de publicada, porém, ela precisa ser analisada pela Câmara e pelo Senado. A Constituição estabelece prazo de 60 dias, prorrogável uma vez pelo mesmo período, para que o Congresso conclua a votação. \nSe for aprovada, a MP é convertida em lei. Se for rejeitada ou perder a validade sem aprovação, deixa de produzir efeitos.\nProposta de Emenda à Constituição (PEC)\nJá a proposta de emenda à Constituição, a PEC, é usada quando a mudança pretendida precisa alterar o próprio texto da Constituição. \nPor isso, ela segue um processo de aprovação mais rigoroso do que um projeto de lei: precisa ser votada em dois turnos na Câmara e no Senado e aprovada por três quintos dos deputados e dos senadores em cada uma das Casas.\nA PEC também passa por comissões antes de chegar ao plenário. Em cada Casa, ela tem que passar pela Comissão de Constituição e Justiça e de Cidadania (CCJ), que analisa se a proposta pode tramitar e, se for admitida, uma comissão especial analisa seu conteúdo. Em seguida, o texto segue para votação no plenário.\nDepois de tanto a Câmara dos Deputados quanto o Senado aprovarem o texto, ele segue para a promulgação: ou seja, passa a valer com assinatura do presidente do Congresso depois de ser publicado no Diário Oficial da União (DOU). Com isso, não precisa do aval do presidente da República.\nAprovação pelas duas Casas\nIndependente do processo, durante a tramitação, as propostas são discutidas e podem sofrer alterações. Dependendo do caso, passam por votações na Câmara dos Deputados e no Senado e podem retornar à Casa onde começaram para uma nova análise.\nTodo esse chamado processo legislativo pode resultar em mudanças em diferentes áreas da vida dos brasileiros: do preço de produtos e combustíveis a regras para escolas e direitos trabalhistas e previdenciários.\nÉ nesse processo que projetos e medidas são debatidos, modificados e, eventualmente, transformados em novas regras.",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "afa47bba89da",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "37% avaliam Congresso como ruim ou péssimo, aponta Datafolha; 18% dizem que desempenho é ótimo ou bom",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/26/37percent-avaliam-congresso-como-ruim-ou-pessimo-aponta-datafolha-18percent-dizem-que-desempenho-e-otimo-ou-bom.ghtml",
+      "summary": "Cúpula do Senado Federal e prédio do Congresso Nacional durante o amanhecer.\nPedro França/Agência Senado\nO trabalho dos senadores e deputados federais é considerado ruim ou péssimo por 37% dos eleitores brasileiros, segundo pesquisa Datafolha divulgada neste sábado (26).\n➡️O Datafolha entrevistou 2.002 eleitores com 16 anos ou mais em 125 municípios de todo o país, nos dias 22 e 23 de setembro de 2026. A margem de erro máxima é de dois pontos percentuais para mais ou para menos.\nDe acordo com a pesquisa, 18% avaliam o desempenho dos parlamentares como ótimo ou bom, enquanto 40% consideram o trabalho regular. A parcela que não soube responder é de 6%.\nOs resultados são semelhantes aos registrados na pesquisa anterior, realizada em maio. Naquele levantamento, 37% avaliavam o Congresso como ruim ou péssimo, 15% como ótimo ou bom e 43% como regular.\nAvaliação por eleitor\nA avaliação do Congresso também variou de acordo com a intenção de voto para a Presidência da República.\nA aprovação é maior entre os eleitores que declararam intenção de votar em Luiz Inácio Lula da Silva (PT), entre os quais 22% consideram o desempenho dos deputados e senadores ótimo ou bom.\nJá entre os eleitores de Flávio Bolsonaro (PL), o percentual é de 15%.\nDesempenho por gênero e região\nA pesquisa também avaliou como os parlamentares são avaliados a partir do recorte de gênero, renda e região do Brasil.\nA classificação do trabalho como ruim ou péssimo é maior entre homens (43%) do que entre mulheres (32%).\nA avaliação também é pior entre aqueles que declararam renda acima de cinco salários mínimos por mês (51%) – entre os que recebem até dois salários mínimos, fica em 30%.\nEntre as regiões, o Sudeste é a área em que os deputados e senadores tem a avaliação mais negativa, com 41% afirmando que o trabalho é ruim ou péssimo. Na sequência aparecem Centro-Oeste e Norte (38%), Sul (36%) e Nordeste (32%).\nJá os que enxergam como ótimo ou bom são 16% no Sudeste e no Sul, 21% no Nordeste e 17% no Centro-Oeste e no Norte.",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Sat, 26 Sep 2026 21:31:43 -0000"
+    },
+    {
+      "id": "fc79edbe1432",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Percentual de mulheres candidatas permanece estagnado desde 2020, diz TSE",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/percentual-de-mulheres-candidatas-permanece-estagnado-desde-2020-diz-tse/",
+      "summary": "Mulheres são cerca de 34% das candidaturas há quatro eleições, mostra TSE; pesquisadoras apontam atuação dos partidos e violência política como entraves",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Sun, 27 Sep 2026 06:30:22 +0000"
     }
   ]
 }
