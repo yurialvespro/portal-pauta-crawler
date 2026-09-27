@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:14:53.789554+00:00",
+  "generated_at": "2026-09-27T01:42:19.489704+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -343,6 +343,27 @@
       "publishedRaw": "26 Sep 2026 20:01:00 -0300"
     },
     {
+      "id": "6b8c50b2c63a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
+      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
+    },
+    {
       "id": "d975f34155d7",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -364,29 +385,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
-    },
-    {
-      "id": "5a137b775308",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula vai para ‘tudo ou nada’: dinheiro na conta dos eleitores às vésperas do 1° turno; leia bastidor",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/lula-vai-para-o-tudo-ou-nada-as-vesperas-da-eleicao-na-tentativa-de-virar-o-jogo-leia-bastidor/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 26 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "7b40dd5c2b64",
@@ -801,6 +799,21 @@
       ],
       "score": 68,
       "publishedRaw": "Sat, 26 Sep 2026 23:46:37 +0000"
+    },
+    {
+      "id": "0acf9f1e5119",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após estimular fake news sobre N.S. Aparecida, coordenador da Secom invoca ‘liberdade de expressão’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/apos-estimular-fake-news-sobre-ns-aparecida-coordenador-da-secom-invoca-liberdade-de-expressao/",
+      "summary": "",
+      "tags": [
+        "liberdade de expressão"
+      ],
+      "crossOutlets": [],
+      "score": 67,
+      "publishedRaw": "Sun, 27 Sep 2026 01:09:32 +0000"
     },
     {
       "id": "a1aeb1154d6a",
