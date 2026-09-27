@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:14:40.170117+00:00",
+  "generated_at": "2026-09-27T23:41:03.930234+00:00",
   "items": [
     {
       "id": "bff92402d23d",
@@ -50,6 +50,54 @@
       "publishedRaw": "Sun, 27 Sep 2026 11:40:33 +0000"
     },
     {
+      "id": "0ee0e1844662",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência",
+      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro desmentiu informação que circulava nas redes sociais de que pretenda retirar de Nossa Senhora o título de padroeira do Brasil; TSE pediu a derrubada de publicações que tratem a informação como verídica",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Fri, 25 Sep 2026 22:52:22 GMT"
+    },
+    {
+      "id": "fe548d2049bf",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro confirma ida ao debate da Globo e desafia Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-confirma-ida-ao-debate-da-globo-e-desafia-lula/",
+      "summary": "Candidato do PL diz que presidente é seu “único adversário” e afirma que vai ao debate de 1º de outubro; Lula indica que não pretende participar",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Sun, 27 Sep 2026 23:34:41 +0000"
+    },
+    {
       "id": "ead84fd0014d",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -97,6 +145,89 @@
       ],
       "score": 90,
       "publishedRaw": "Sun, 27 Sep 2026 21:34:10 +0000"
+    },
+    {
+      "id": "391035c27f8c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em entrevista, o presidente Lula diz que Congresso 'contribuiu' para governabilidade",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/27/em-entrevista-o-presidente-lula-fala.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva afirmou, em entrevista a TV Bandeirantes, neste domingo (27), que o Congresso Nacional ajudou na governabilidade do Brasil nos últimos quatro anos ao aprovar \"mudanças que a gente queria fazer\". \n\"O Congresso contribuiu muito com as mudanças que a gente queria fazer\". \nNos últimos quatro anos, o governo Lula conseguiu aprovar, por exemplo, a Reforma Tributária. \nEssa matéria está em atualização.",
+      "tags": [
+        "Congresso",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 27 Sep 2026 23:17:13 -0000"
+    },
+    {
+      "id": "94e9a04f2c7e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro diz que ‘PT conseguiu levantar fake news com ajuda de gente de dentro da CNBB’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-diz-que-pt-conseguiu-levantar-fake-news-com-ajuda-de-gente-de-dentro-da-cnbb/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 27 Sep 2026 22:57:03 +0000"
+    },
+    {
+      "id": "1dd513edbb42",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caiado critica ‘enfrentamento religioso’ após notícia falsa citando Flávio Bolsonaro e Nossa Senhora",
+      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-critica-enfrentamento-religioso-apos-noticia-falsa-citando-flavio-bolsonaro-e-nossa-senhora/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 27 Sep 2026 18:52:03 +0000"
+    },
+    {
+      "id": "03e529a9b689",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lives, cola na mão e leite condensado: Flávio incorpora símbolos de Jair Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lives-cola-na-mao-e-leite-condensado-flavio-incorpora-simbolos-de-jair-bolsonaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Sun, 27 Sep 2026 17:05:52 +0000"
     },
     {
       "id": "514a465319b7",
@@ -341,6 +472,82 @@
       "publishedRaw": "Sun, 27 Sep 2026 18:45:33 +0000"
     },
     {
+      "id": "3abd9a2d7992",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
+      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
+    },
+    {
+      "id": "85e095e506eb",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Padroeira do Brasil e proibição de bets desviam foco do STF a 7 dias da eleição",
+      "link": "https://www.estadao.com.br/politica/diogo-schelp/padroeira-do-brasil-e-proibicao-de-bets-desviam-foco-do-stf-a-7-dias-da-eleicao/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 27 Sep 2026 23:00:00 +0000"
+    },
+    {
+      "id": "879b53019f74",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "STF precisa mudar, mas reforma no calor da crise pode ser 'perigosa', dizem especialistas",
+      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A crise desencadeada pelo confronto entre Alexandre de Moraes e André Mendonça ampliou a pressão por mudanças no Supremo. Especialistas defendem medidas como um código de ética, mas alertam para os riscos de reformas amplas em meio à turbulência institucional.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
+    },
+    {
+      "id": "73529ab0e6e5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vídeo lembra mortes da pandemia e recomenda: “Outro Bolsonaro, não”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/video-lembra-mortes-da-pandemia-e-recomenda-outro-bolsonaro-nao/",
+      "summary": "Clipe feito com IA lembra comportamento do então presidente Jair Bolsonaro e mostra pessoas mais velhas lamentando perdas por causa da covid-19; vídeo foi compartilhado pela ministra Fernanda Machiaveli, do Desenvolvimento Agrário e Agricultura Familiar",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sun, 27 Sep 2026 18:41:44 +0000"
+    },
+    {
       "id": "f3e699845b6f",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -363,63 +570,6 @@
       "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
     },
     {
-      "id": "94e9a04f2c7e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro diz que ‘PT conseguiu levantar fake news com ajuda de gente de dentro da CNBB’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-diz-que-pt-conseguiu-levantar-fake-news-com-ajuda-de-gente-de-dentro-da-cnbb/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sun, 27 Sep 2026 22:07:25 +0000"
-    },
-    {
-      "id": "1dd513edbb42",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caiado critica ‘enfrentamento religioso’ após notícia falsa citando Flávio Bolsonaro e Nossa Senhora",
-      "link": "https://www.estadao.com.br/politica/eleicoes/caiado-critica-enfrentamento-religioso-apos-noticia-falsa-citando-flavio-bolsonaro-e-nossa-senhora/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sun, 27 Sep 2026 18:52:03 +0000"
-    },
-    {
-      "id": "03e529a9b689",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lives, cola na mão e leite condensado: Flávio incorpora símbolos de Jair Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lives-cola-na-mao-e-leite-condensado-flavio-incorpora-simbolos-de-jair-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sun, 27 Sep 2026 17:05:52 +0000"
-    },
-    {
       "id": "806df60c7d56",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -440,155 +590,6 @@
       ],
       "score": 82,
       "publishedRaw": "Sun, 27 Sep 2026 22:27:06 GMT"
-    },
-    {
-      "id": "3abd9a2d7992",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 47% dos brasileiros reprovam ministros do STF; índice é o pior desde 2019",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/26/datafolha-avaliacao-ministros-stf.ghtml",
-      "summary": "Sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nPesquisa Datafolha divulgada neste sábado (26) revelou que 47% dos brasileiros avaliam o trabalho dos ministros do Supremo Tribunal Federal (STF) como negativo. Esse é o índice mais alto da série histórica iniciada em 2019.\nA avaliação positiva dos ministros é de 18%, atingindo o nível mais baixo desde 2019. Outros 31% classificam a atuação da Corte como regular e 4% não opinaram.\nAvaliação do STF:\nÓtimo/Bom: 18%\nRegular: 31%\nRuim/Péssimo: 47%\nNão Sabe: 4%\nOs números também registraram que, entre eleitores de Lula (PT), 32% consideram o trabalho dos ministros como ótimo ou bom, e entre eleitores de Flávio Bolsonaro (PL), o número é de 6%.\nJá a avaliação negativa da Corte fica em 69% dos eleitores de Flávio, que classificam o trabalho dos ministros como ruim ou péssimo. No caso dos votantes de Lula, o número é de 24%.\nAgora no g1\nEntre os entrevistados, 33% afirmam que a atuação dos ministros mais prejudica do que beneficia a candidatura do representante do PL, enquanto 23% apontam que as ações da Corte mais prejudicam do que beneficiam o candidato petista.\nSobre a proposta de criação de um Código de Ética e Conduta para os ministros do STF, defendida pelo presidente da Corte, Edson Fachin, 45% do eleitorado se diz a favor e 33%, contra.\nPresidente do STF, ministro Edson Fachin em sessão plenária extraordinária do STF - 15/09/2026\nRosinei Coutinho/STF\nNo início do ano, Fachin anunciou Cármen Lúcia como relatora da proposta de um Código de Ética para a Corte e disse que apresentou sugestões para a relatora.\n\"Um código de ética tem também um componente, digamos, de natureza material, histórico, cultural. Ele é também um conjunto de práticas. E só o debate sobre esta ideia já é relevante para aventar determinadas circunstâncias e, portanto, nós, a rigor, já começamos em várias circunstâncias, em vários quadrantes, a evidenciar interrogações, interpelações que os fatos geram sobre determinados tipos de eventos aqui.\"\nA pesquisa, contratada por Folha e Globo, foi realizada de terça (22) a quarta (23) com 2.002 eleitores por meio de abordagem pessoal em pontos de fluxo populacional. A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os dados constam no sistema do TSE (Tribunal Superior Eleitoral). O número de registro é BR-00304/2026.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "879b53019f74",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "STF precisa mudar, mas reforma no calor da crise pode ser 'perigosa', dizem especialistas",
-      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A crise desencadeada pelo confronto entre Alexandre de Moraes e André Mendonça ampliou a pressão por mudanças no Supremo. Especialistas defendem medidas como um código de ética, mas alertam para os riscos de reformas amplas em meio à turbulência institucional.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
-    },
-    {
-      "id": "73529ab0e6e5",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vídeo lembra mortes da pandemia e recomenda: “Outro Bolsonaro, não”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/video-lembra-mortes-da-pandemia-e-recomenda-outro-bolsonaro-nao/",
-      "summary": "Clipe feito com IA lembra comportamento do então presidente Jair Bolsonaro e mostra pessoas mais velhas lamentando perdas por causa da covid-19; vídeo foi compartilhado pela ministra Fernanda Machiaveli, do Desenvolvimento Agrário e Agricultura Familiar",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Sun, 27 Sep 2026 18:41:44 +0000"
-    },
-    {
-      "id": "056f1df93969",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Flávio acusa Dino de usurpar função do TSE após liberar publicações sobre Nossa Senhora",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/campanha-de-flavio-acusa-dino-de-usurpar-funcao-do-tse-apos-liberar-publicacoes-sobre-nossa-senhora.shtml",
-      "summary": "O jurídico da campanha do senador Flávio Bolsonaro (PL-RJ) criticou neste domingo (27) a decisão do ministro Flávio Dino, do STF (Supremo Tribunal Federal), que liberou publicações nas redes sociais sobre a lei que deu a Nossa Senhora Aparecida o título de \"padroeira do Brasil\".\nLeia mais (09/27/2026 - 16h36)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "27 Sep 2026 16:36:00 -0300"
-    },
-    {
-      "id": "ad343d3e6d16",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino usurpa competência do TSE para liberar mentira, diz campanha de Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/dino-usurpa-competencia-do-tse-para-liberar-mentira-diz-campanha-de-flavio/",
-      "summary": "Ministro derrubou decisão de Mendonça e autorizou o retorno da postagem de humorista sobre Nossa Senhora Aparecida",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Sun, 27 Sep 2026 19:45:12 +0000"
-    },
-    {
-      "id": "6c399b65dd39",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do Supremo avançam sobre questões eleitorais e ‘atropelam’ TSE em ao menos 4 decisões",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ministros-stf-questoes-eleitorais-sobreposicao-tse/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Sun, 27 Sep 2026 20:02:53 +0000"
-    },
-    {
-      "id": "be8f9296dee4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino age para “descredenciar” o TSE, diz defesa de Flávio",
-      "link": "https://www.poder360.com.br/poder-justica/dino-age-para-descredenciar-o-tse-diz-defesa-de-flavio/",
-      "summary": "Equipe do PL criticou a medida que liberou publicação que relacionava ataques à padroeira do Brasil à candidatura",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 77,
-      "publishedRaw": "Sun, 27 Sep 2026 21:07:43 +0000"
-    },
-    {
-      "id": "6b8c50b2c63a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
-      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 76,
-      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
     },
     {
       "id": "b8c00734633c",
@@ -668,6 +669,40 @@
       "crossOutlets": [],
       "score": 69,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "6c399b65dd39",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do Supremo avançam sobre questões eleitorais e ‘atropelam’ TSE em ao menos 4 decisões",
+      "link": "https://www.estadao.com.br/politica/eleicoes/ministros-stf-questoes-eleitorais-sobreposicao-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
+      "publishedRaw": "Sun, 27 Sep 2026 20:02:53 +0000"
+    },
+    {
+      "id": "be8f9296dee4",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dino age para “descredenciar” o TSE, diz defesa de Flávio",
+      "link": "https://www.poder360.com.br/poder-justica/dino-age-para-descredenciar-o-tse-diz-defesa-de-flavio/",
+      "summary": "Equipe do PL criticou a medida que liberou publicação que relacionava ataques à padroeira do Brasil à candidatura",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 68,
+      "publishedRaw": "Sun, 27 Sep 2026 21:07:43 +0000"
     },
     {
       "id": "b1b4a06173a8",
