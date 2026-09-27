@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:17:40.162656+00:00",
+  "generated_at": "2026-09-27T18:45:06.481516+00:00",
   "items": [
     {
       "id": "5458eeed775d",
@@ -16,10 +16,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 94,
@@ -40,9 +40,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -64,38 +64,14 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Sun, 27 Sep 2026 11:40:33 +0000"
-    },
-    {
-      "id": "9beab9e00eb0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula e Flávio Bolsonaro priorizam Nordeste em busca de votos que podem definir eleição",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-e-flavio-bolsonaro-priorizam-nordeste-em-busca-de-votos-que-podem-definir-eleicao/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Sat, 26 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "0ee0e1844662",
@@ -111,10 +87,10 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -138,10 +114,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 92,
@@ -163,9 +139,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 87,
+      "score": 92,
       "publishedRaw": "27 Sep 2026 13:18:00 -0300"
     },
     {
@@ -183,10 +160,53 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Sun, 27 Sep 2026 17:05:52 +0000"
+    },
+    {
+      "id": "73529ab0e6e5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Vídeo lembra mortes da pandemia e recomenda: “Outro Bolsonaro, não”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/video-lembra-mortes-da-pandemia-e-recomenda-outro-bolsonaro-nao/",
+      "summary": "Clipe feito com IA lembra comportamento do então presidente Jair Bolsonaro e mostra pessoas mais velhas lamentando perdas por causa da covid-19; vídeo foi compartilhado pela ministra Fernanda Machiaveli, do Desenvolvimento Agrário e Agricultura Familiar",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Sun, 27 Sep 2026 17:05:52 +0000"
+      "score": 88,
+      "publishedRaw": "Sun, 27 Sep 2026 18:41:44 +0000"
+    },
+    {
+      "id": "e74cdf323936",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fim das bets não se converteu em apoio a Lula, diz AP Exata",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/fim-das-bets-nao-se-converteu-em-apoio-a-lula-diz-ap-exata/",
+      "summary": "Empresa analisou 180 mil menções nas redes relacionadas à MP que proibiu apostas no Brasil",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 27 Sep 2026 17:58:06 +0000"
     },
     {
       "id": "ae4616d92c6f",
@@ -201,9 +221,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -223,9 +243,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -245,9 +265,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -267,14 +287,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Sat, 26 Sep 2026 17:03:19 +0000"
+    },
+    {
+      "id": "6b8c50b2c63a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
+      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
     },
     {
       "id": "01168357ec25",
@@ -289,10 +330,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
@@ -311,14 +352,35 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
       "publishedRaw": "Sun, 27 Sep 2026 15:39:45 +0000"
+    },
+    {
+      "id": "663ada3387eb",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro",
+      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
+      "tags": [
+        "Bolsonaro",
+        "família"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
     },
     {
       "id": "f3e699845b6f",
@@ -333,58 +395,14 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
-    },
-    {
-      "id": "4879170826a6",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Apostas como 'vilãs' e golpe no futebol: como a imprensa internacional noticiou a proibição das bets por Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/26/apostas-como-vilas-e-golpe-no-futebol-como-a-imprensa-internacional-noticiou-a-proibicao-das-bets-por-lula.ghtml",
-      "summary": "A proibição das bets foi notícia em agências e jornais estrangeiros.\nReprodução/France 24\nA imprensa internacional repercutiu a decisão do presidente Luiz Inácio Lula da Silva de proibir as apostas online no Brasil, anunciada na sexta-feira (25/9), a pouco mais de uma semana do primeiro turno da eleição presidencial.\nAgências e jornais dos Estados Unidos, do Reino Unido e da França destacaram o peso eleitoral da medida, o endividamento das famílias e o impacto sobre o futebol brasileiro.\nHoras antes do anúncio, a agência Bloomberg já antecipava a decisão e a colocava no centro da disputa eleitoral. Em reportagem intitulada originalmente \"Com dívidas esmagando eleitores, Lula pinta as apostas online como vilãs\", a agência afirmou que Lula vinha atacando as apostas online em comício após comício, acusando-as de esvaziar os orçamentos das famílias e de enfraquecer o consumo que impulsionou o crescimento econômico em seus governos. \nVEJA TAMBÉM:\nGoverno anuncia proibição das bets no país\nCom a eleição a poucos dias e a disputa empatada nas pesquisas, escreveu a agência, o presidente estava \"transformando retórica em política\". \nA Bloomberg também informou, com base em duas fontes, que Lula assinaria no mesmo dia uma segunda MP, voltada à renegociação de dívidas de pessoas físicas.\nA proibição foi confirmada no fim do dia, em um evento em São Paulo. A medida provisória determina:\na proibição imediata de depósitos de clientes nos sites de apostas;\nque os apostadores solicitem o saque de seus fundos até 5 de outubro;\no bloqueio de todos os sites licenciados a partir de 6 de outubro;\na proibição imediata de novos contratos de publicidade, com os contratos atuais anulados após 6 de outubro.\nA MP entra em vigor imediatamente, mas precisa ser aprovada pelo Congresso em até 120 dias para continuar valendo.\nO presidente do Brasil, Luiz Inácio Lula da Silva, assina uma medida provisória que proíbe as plataformas de apostas esportivas on-line, durante uma cerimônia em São Paulo, Brasil, em 25 de setembro de 2026.\nGETTY IMAGES via BBC\nA agência Reuters noticiou que o anúncio é \"o mais recente de uma série de medidas reveladas antes da eleição\", em um momento em que as pesquisas mostram Lula em disputa apertada com o senador Flávio Bolsonaro. \nA agência também destacou a preocupação dentro do governo de que os gastos com apostas estejam drenando os orçamentos familiares e contribuindo para níveis recordes de endividamento.\nA AP noticiou que a decisão encerra a operação, a oferta, a intermediação e a publicidade de apostas, e registrou a reação de Flávio Bolsonaro, que acusou o presidente de adotar uma \"medida eleitoral\". A agência lembrou ainda que, dias antes, na Assembleia Geral da ONU, Lula havia acusado o setor de lucrar com o vício e destruir lares.\nNo Reino Unido, o jornal The Guardian destacou a fala de Lula de que se tratava de uma medida \"dura, drástica e necessária\", e ressaltou que, segundo as pesquisas, a decisão deve ter amplo apoio popular.\nA agência francesa AFP deu destaque ao impacto no futebol. Segundo a agência, 13 dos 20 clubes da primeira divisão têm um site de apostas como patrocinador principal de camisa, e jogadores como Neymar e Vinicius Junior estão entre os rostos mais conhecidos da publicidade do setor. \nA AFP também relatou que Lula comparou as apostas a um câncer, dizendo que ou se retira o tumor, ou ele mata, e que Flávio Bolsonaro o descreveu como desesperado. Segundo a agência, as 85 licenças concedidas ao setor, de R$ 30 milhões cada, não serão devolvidas.\nA agência lembrou ainda que a medida depende do Congresso para se tornar lei definitiva, e que o setor promete reagir. A Associação Nacional de Jogos e Loterias (ANJL), que representa as empresas licenciadas, alertou que a proibição pode empurrar apostadores para plataformas ilegais e defendeu mais fiscalização em vez do fim do mercado.\nSegundo o site Rio Times, voltado ao público estrangeiro, o Instituto Brasileiro de Jogo Responsável (IBJR) afirmou que as operadoras consideram ir à Justiça para recuperar o valor das licenças e dos investimentos.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 16:11:59 -0000"
-    },
-    {
-      "id": "9c5553de1124",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Soberania' no altar: falas de bispos católicos e rumor sobre Nossa Senhora viralizam e viram ativo da campanha de Lula na reta final da eleição",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisador diz que esquerda está usando de forma inédita o tema religião para animar o seu eleitorado a Gpoucos dias do primeiro turno.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 10:00:07 GMT"
     },
     {
       "id": "3abd9a2d7992",
@@ -403,26 +421,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sat, 26 Sep 2026 21:43:08 -0000"
-    },
-    {
-      "id": "6b8c50b2c63a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Financial Times compara os Bolsonaros à família Trump e diz que têm estilo paranoico de política",
-      "link": "https://www.estadao.com.br/politica/revista-do-financial-times-diz-que-familia-bolsonaro-tem-relacoes-complexas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sun, 27 Sep 2026 01:09:26 +0000"
     },
     {
       "id": "6294956487b7",
@@ -477,26 +475,6 @@
       ],
       "score": 80,
       "publishedRaw": "Sun, 27 Sep 2026 09:41:12 GMT"
-    },
-    {
-      "id": "663ada3387eb",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro",
-      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Revista de fim de semana do jornal britânico retrata disputas internas, escândalos e a sucessão no clã a poucos dias de uma eleição em que Flávio Bolsonaro aparece empatado com Lula",
-      "tags": [
-        "Bolsonaro",
-        "família"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 26 Sep 2026 16:54:46 GMT"
     },
     {
       "id": "b8c00734633c",
