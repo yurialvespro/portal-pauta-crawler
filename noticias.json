@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:19:52.565306+00:00",
+  "generated_at": "2026-09-28T08:46:39.099109+00:00",
   "items": [
     {
       "id": "bff92402d23d",
@@ -96,6 +96,30 @@
       ],
       "score": 94,
       "publishedRaw": "Mon, 28 Sep 2026 01:06:25 GMT"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Sun, 27 Sep 2026 17:21:55 GMT"
     },
     {
       "id": "391035c27f8c",
@@ -255,6 +279,50 @@
       "publishedRaw": "Mon, 28 Sep 2026 07:14:53 +0000"
     },
     {
+      "id": "58d8ff8d6619",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula barra insulina sem registro da Anvisa, mas contrata laboratório sem aval do órgão",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/governo-lula-barra-insulina-sem-registro-da-anvisa-mas-contrata-laboratorio-sem-aval-do-orgao/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 28 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "8f6a90c8d030",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fake news sobre padroeira começou após Lula ver risco de ‘derreter’ entre católicos",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/fake-news-sobre-padroeira-comecou-apos-lula-ver-risco-de-derreter-entre-catolicos/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 28 Sep 2026 08:30:00 +0000"
+    },
+    {
       "id": "ce0712edc54d",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -341,50 +409,6 @@
       ],
       "score": 85,
       "publishedRaw": "Sun, 27 Sep 2026 17:05:35 +0000"
-    },
-    {
-      "id": "b1378da36e59",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Proibição das bets ganha apoio nas redes, mas Lula é pouco associado à medida, aponta pesquisa",
-      "link": "https://www.estadao.com.br/politica/proibicao-bets-apoio-redes-lula-associacao-medida/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 27 Sep 2026 15:34:48 +0000"
-    },
-    {
-      "id": "5ac5097e68c7",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Coordenador da campanha de Lula, Gabrielli cobra estratégia para o segundo turno",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/coordenador-da-campanha-de-lula-gabrielli-cobra-estrategia-para-o-segundo-turno/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sun, 27 Sep 2026 15:00:00 +0000"
     },
     {
       "id": "cf12616103bb",
@@ -670,6 +694,24 @@
       ],
       "score": 82,
       "publishedRaw": "Sat, 26 Sep 2026 10:00:07 GMT"
+    },
+    {
+      "id": "3f6707508166",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mandato fixo no STF tem apoio amplo entre candidatos que lideram pesquisas ao Senado",
+      "link": "https://www.estadao.com.br/politica/eleicoes/mandato-fixo-no-stf-tem-apoio-amplo-entre-candidatos-que-lideram-pesquisas-ao-senado/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 28 Sep 2026 08:30:00 +0000"
     },
     {
       "id": "85e095e506eb",
