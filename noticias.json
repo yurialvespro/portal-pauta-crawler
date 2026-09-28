@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:45:48.033415+00:00",
+  "generated_at": "2026-09-28T11:16:15.461862+00:00",
   "items": [
     {
       "id": "bff92402d23d",
@@ -18,7 +18,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -42,7 +41,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -66,7 +64,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "Poder360"
       ],
       "score": 90,
@@ -88,7 +85,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -111,7 +107,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "Poder360"
       ],
       "score": 85,
@@ -132,12 +127,32 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "28 Sep 2026 05:00:00 -0300"
+    },
+    {
+      "id": "48f75c98b12e",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: em MG, Lula e Flávio empatam com 46% no 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-em-mg-lula-e-flavio-empatam-com-46-no-2o-turno/",
+      "summary": "Levantamento do instituto Real Time Big Data ouviu 2.000 eleitores em Minas Gerais entre os dias 23 e 26 de setembro com margem de erro de dois pontos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 28 Sep 2026 11:00:20 +0000"
     },
     {
       "id": "6903fc4463a2",
@@ -154,7 +169,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -162,12 +176,12 @@
       "publishedRaw": "Mon, 28 Sep 2026 10:25:31 +0000"
     },
     {
-      "id": "cfd9eef2e69b",
+      "id": "426872850148",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Nexus/BTG: Lula é desaprovado por 49%; aprovação é de 46%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-e-desaprovado-por-49-aprovacao-e-de-46/",
+      "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-lula-e-desaprovado-por-49-aprovacao-e-de-46/",
       "summary": "Foram entrevistados 2.000 eleitores, entre os dias 25 e 27 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
@@ -176,7 +190,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -198,7 +211,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -220,7 +232,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -242,78 +253,11 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Mon, 28 Sep 2026 10:00:57 +0000"
-    },
-    {
-      "id": "2554114ab5b9",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: no Grande ABC, Lula tem 43%, contra 38% de Flávio no 1º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-no-grande-abc-lula-tem-43-contra-38-de-flavio-no-1o-turno/",
-      "summary": "Foram entrevistados 2.000 eleitores entre os dias 23 e 26 de setembro; margem de erro do levantamento é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 28 Sep 2026 10:00:44 +0000"
-    },
-    {
-      "id": "26e37ad8ae77",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: na BA, Lula tem 61%, contra 24% de Flávio no 1º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-na-ba-lula-tem-61-contra-24-de-flavio-no-1o-turno/",
-      "summary": "Levantamento realizou entrevistas com 1600 eleitores do estado da Bahia entre 23 e 26 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 28 Sep 2026 10:00:32 +0000"
-    },
-    {
-      "id": "5abdf8e32ee0",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: em PE, Lula tem 61%, contra 35 % de Flávio no 2º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-em-pe-lula-tem-61-contra-35-de-flavio-no-2o-turno/",
-      "summary": "Levantamento do Real Time Big Data ouviu 1.600 eleitores pernambucanos entre os dias 23 e 26 de setembro com margem de erro de dois pontos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 28 Sep 2026 10:00:28 +0000"
     },
     {
       "id": "e07a5425e704",
@@ -330,7 +274,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -352,7 +295,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -374,7 +316,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -396,7 +337,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -418,7 +358,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -440,7 +379,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -462,7 +400,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -485,7 +422,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
@@ -507,7 +443,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
@@ -529,7 +464,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
@@ -553,28 +487,6 @@
       ],
       "score": 82,
       "publishedRaw": "Mon, 28 Sep 2026 03:32:17 -0000"
-    },
-    {
-      "id": "f3e699845b6f",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Lula diz que tomou 'atitude muito drástica' ao proibir bets e que apostas viraram 'desgraça na vida das pessoas pobres'",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/26/lula-diz-que-tomou-atitude-muito-drastica-ao-proibir-bets-e-que-apostas-viraram-desgraca-na-vida-das-pessoas-pobres.ghtml",
-      "summary": "Lula diz que bets viraram 'desgraça na vida das pessoas pobres' no Brasil\nUm dia depois de anunciar uma medida provisória proibindo apostas de quota fixa no país, as chamadas bets, e o chamado \"Jogo do Tigrinho\", o presidente Luiz Inácio Lula da Silva (PT) disse nesse sábado (26) que tomou “atitude muito drástica” porque as apostas viraram ‘desgraça na vida das pessoas pobres'. \nLula participou de caminhada de campanha em São Miguel, na Zona Leste de São Paulo, e justificou a medida contando histórias de pessoas que tiraram a vida por causa de endividamentos gerados por causa do jogo. \n“Ontem tomei uma atitude muito drástica. Sei que aqui no meio tem gente endividada com bets. Porque as bets virou uma desgraça na vida das pessoas pobres. As pessoas se endividam. Filho joga escondido da mãe. Pai gasta as vezes dinheiro da alimentação das crianças pra tentar ganhar mais e perde. E vai tomando dinheiro emprestado, vai devendo e devendo. Conheci gente de 26 anos que se enforcou. Mulher que se matou”, afirmou (veja vídeo acima). \n“Por isso fiz uma medida provisória acabando com as bets no Brasil. Quem quiser ganhar dinheiro, que arrume um jeito honesto de ganhar. Não matando o povo pobre e endividando o povo pobre. Ninguém fica rico apostando em bet. Quem fica rico é o dono da bet, o povo fica cada vez mais pobre” , afirmou o petista. \nLEIA MAIS:\nApós governo proibir bets, Flávio Bolsonaro diz que Lula 'é o pai do Tigrinho' e promete 'saúde padrão Einstein'\nVÍDEO: 'Em todo escândalo ele tem algum amigo', diz Haddad sobre Flávio Bolsonaro, após caminhada com Lula em SP\nTarcísio chama proibição das bets de 'oportunismo eleitoral' e diz que governo só agiu 'faltando nove dias para a eleição'\nAo lado do vice, Geraldo Alckmin (PSB), e dos candidatos em São Paulo Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), Lula afirmou que a eleição do próximo dia 4 de outubro vai ser a decisão dos brasileiros entre dois grupos: “aqueles que se esforçam pra cuidar do povo” e os ligados ao banqueiro Daniel Vorcaro, que, segundo Lula, \"corrompeu políticos com orgia”.\nLula discursa neste sábado (26) em São Miguel Paulista, na Zona Leste de São Paulo.\nReprodução/TV Globo\n“Nessa eleição está simples de vocês escolherem. De um lado está aqueles que se esforçam pra cuidar do povo. Do outro tá aqueles que criou uma quadrilha chamado Banco Master, que tinha um presidente chamado Vorcaro. E eu peguei o banqueiro deles e transformei num prisioneiro. Porque ele deu o maior golpe financeiro da história desse país”, disse. \n“Além dele corromper com dinheiro, ele [Vorcaro] corrompeu com orgia. Trazia mulheres da Suíça e da Suécia para fazer orgia com políticos aqui no Brasil. Essa gente não tem caráter, não tem moral e ética para querer ser prefeito de uma cidade de 2 mil habitantes, quanto mais presidente de um Brasil com 217 milhões de habitantes”, declarou (veja vídeo abaixo).\nLula liga Flávio a Daniel Vorcaro e diz que dono do banco Master ‘corrompeu políticos com orgia’\nEscândalo do careca do INSS\nNo evento, Lula também criticou o adversário Flávio Bolsonaro (PL) e ligou ele ao escândalo de desvios no INSS. \n“Mais ainda: eles montaram uma quadrilha em 2017 para roubar a Previdência Social. Nós descobrimos a quadrilha e prendemos. (...) A quadrilha tá presa e ele [Flávio] dizia que meu filho era sócio do careca. E a semana passada ficou provado que o escritório do Flávio Bolsonaro é no mesmo prédio do careca [do INSS]”, afirmou. \n“O Alckmin disse bem: mentira tem perna curta. E este ano é o ano da verdade. A gente vai ter que escolher entre quem faz e entre quem mente 24 horas por dia”, afirmou Lula sobre o adversário Flávio Bolsonaro (PL). \nAnúncio contra as bets \nGoverno anuncia proibição das bets no Brasil\nO governo do presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (25), em São Paulo, a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\nA proibição, feita a nove dias das eleições, foi formalizada em uma Medida Provisória (MP) assinada pelo presidente Lula. A medida foi publicada em edição extra do Diário Oficial da União (DOU) desta sexta.\n🔎As medidas provisórias são editadas pelo governo federal e enviadas ao Congresso Nacional. Para se tornarem leis definitivamente precisam ser votadas em até 120 dias na Câmara dos Deputados e no Senado Federal.\nLula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as chamadas bets (veja mais detalhes abaixo).\n\"Eu tomei a decisão de tomar medida dura e drástica necessária. É como câncer, ou tira tumor, ou tumor vai matar a gente. [...] Foi muita briga, foi muita discussão, foi muito vamos fazer aquilo, faz tudo, faz nada, faz pela metade, não. Já que tem que fazer, vamos fazer o que tem que ser feito. Acabar com as bets\", disse Lula.\nO ministro da Fazenda, Dario Durigan, afirmou que a partir desta sexta, \"não se pode colocar mais dinheiro nos sites de apostas do país. Os sites ficarão disponíveis para as pessoas, para os apostadores, fazerem o resgate do saldo remanescente até as 23h59 do dia 5 de outubro\".\n\"Então a partir da publicação dessa medida provisória, as contas onde as plataformas de apostas recebem os aportes dos apostadores não serão mais admitidos nenhum novo aporte a partir da publicação da medida provisória\", prosseguiu.\nOs apostadores vão ter até às 23:59 do dia 5 de outubro para retirar voluntariamente o dinheiro disponível nas plataformas. Caso não consigam retirar até o dia 5, os bancos que operam para bets farão a devolução entre os dias 9 e 14 de outubro.\nSegundo o governo, as bets terão entre os dias 7 e 8 de outubro para informar aos bancos que operam os valores que estão nas contas.\nAté 23:59 de 5 de outubro: Apostadores podem retirar voluntariamente saldos das plataformas;\nA partir do dia 6 de outubro: Os sites e aplicativos saem do ar;\nEntre os dias 7 e 8 de outubro: As bets devem informar aos bancos que operam os valores que estão nas contas por CPF;\nEntre os dias 9 a 14 de outubro: Devolução integral dos saldos (via bancos);\nA partir do dia 14 de outubro: Em caso de impedimento, a Caixa intermediará a devolução aos apostadores.\nAs sanções aos que descumprirem as determinações vão de advertência a multas que podem chegar a R$ 2 bilhões, além de suspensão parcial ou total das atividades, no caso de pessoas jurídicas. \nA medida provisória prevê ainda a retirada de todas as peças e ações de publicidade, propaganda e marketing de bets, tanto em meios físicos como digitais, até às 23:59 do dia 5 de outubro.\nSegundo o governo, o mesmo prazo será dado para a retirada de marcas oriundas de contratos de patrocínio.\nA partir da publicação da medida, não seram mais permitidas novas publicidades de apostas.\nAlém disso, o governo anunciou que haverá um reforço na estrutura do Ministério da Justiça. Será criada uma nova coordenação na Polícia Federal dedicada à recuperação de ativos e lavagem de dinheiro e uma estrutura com o mesmo propósito na Secretaria de Direitos Digitais (Sedigi). \nA partir de agora, ambas vão atuar no combate às bets.\nA partir desta sexta, serão vedadas novas concessões, permissões e autorizações para exploração de loterias de apostas de quota fixa. Os pedidos de concessão, permissão e autorização para exploração de loterias de aposta de quota fixa ainda não decididos ficarão prejudicados.\nAlém disso, as concessões, permissões e autorizações para exploração de loterias de aposta de quota fixa concedidas com base na lei anterior serão extintas em até 30 dias.\nAs iniciativas integram um pacote de ações econômicas voltadas ao combate ao endividamento das famílias brasileiras, anunciadas durante um evento em São Paulo.\nA ofensiva contra as bets ocorre na reta final do primeiro turno das eleições, na esteira de uma série de  críticas feitas pelo presidente às apostas. \nNesta semana, durante seu discurso de abertura da Assembleia Geral da Organização das Nações Unidas (ONU), Lula afirmou que as plataformas transformam \"vício em lucro\" e estão \"destruindo lares\". \nNos últimos dias, o petista reforçou o tom em atos de campanha. Durante ato no Recife (PE) nesta sexta, depois de voltar a dizer que vai acabar com as bets, o candidato à reeleição afirmou que \"não é correto gastar o que não tem pra tentar ganhar o que não existe\".\nCrimes e penas\nO g1 teve acesso à minuta do projeto que deve ser enviado ao Congresso pelo Executivo.\n🚔De acordo com a minuta da proposta, explorar ou operar as chamadas \"apostas de quota fixa\", por qualquer meio, passará a ser crime punido com reclusão de 4 a 6 anos, além de multa.\nA punição será aplicada mesmo que o agente tenha autorização de uma autoridade estrangeira. \nA proposta prevê estender as mesmas penas a quem oferece, recebe, registra, faz a intermediação, disponibiliza ou administra canais e estabelecimentos de apostas. \nA punição, se o texto for aprovado pelo Congresso, será aumentada de um terço caso o objeto da aposta seja um evento virtual de jogo on-line, como os populares cassinos virtuais, caso do \"jogo do tigrinho\".\nAlém da exploração direta, o projeto que deve ser enviado ao Legislativo criminaliza atividades relacionadas às bets:\nDivulgação e publicidade: fazer propaganda, publicidade ou marketing para incentivar apostas terá pena de reclusão de 2 a 4 anos, e multa. A mesma sanção será aplicada sobre quem recruta apostadores ou monetiza esse tipo de publicidade. O texto ressalta, contudo, que o formato não se aplicará a conteúdos de natureza jornalística, informativa, educativa, acadêmica, científica ou crítica.\nUso de dados pessoais: o fornecimento, comercialização ou segmentação de listas de dados pessoais com a finalidade de direcionar publicidade de apostas também será punido com reclusão de 2 a 4 anos, com agravantes caso os dados envolvam o histórico de perdas dos apostadores, transtornos de jogo diagnosticados ou informações de crianças e adolescentes.\nFacilitação financeira e plataformas: instituições ou agentes que realizem transações, processamento ou armazenamento de pagamentos de apostas, sabendo de sua proveniência, bem como desenvolvedores e distribuidores de aplicativos e plataformas de apostas online, também poderão ser submetidos a penas de 2 a 4 anos de reclusão.\nA opção pelo envio de um projeto de lei ao Congresso por parte do Executivo para tipificar os crimes ocorre porque a Constituição não permite a edição de medida provisória que trate de matéria de direito penal.\nNo Recife, Lula (PT) segura cartaz sobre fim das bets, junto com João Campos (PSB) e Humberto Costa (PT), candidatos ao governo de PE e ao Senado, respectivamente\nFoto: Ricardo Stuckert.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 26 Sep 2026 16:02:20 -0000"
     },
     {
       "id": "94e9a04f2c7e",
@@ -629,7 +541,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -651,7 +562,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -673,7 +583,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -695,7 +604,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -891,21 +799,6 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Sun, 27 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "b3c0517e6895",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Inútil, necessária ou ultrapassada? Sobrevivência da ONU vira tema central na Assembleia Geral",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/27/inutil-necessaria-ou-ultrapassada-sobrevivencia-da-onu-vira-tema-central-na-assembleia-geral.ghtml",
-      "summary": "Secretário-geral da ONU faz discurso de despedida e admite crise na entidade\nNem as grandes guerras abertas no mundo, nem a ameaça da inteligência artificial ofuscaram uma discussão que dominou parte dos discursos Assembleia Geral da Organização das Nações Unidas.  \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nLíderes mundiais usaram seus discursos na assembleia da ONU — encontro anual em que 193 países discursam sobre os temas mais relevantes na política internacional — para tratar da própria ONU. Boa parte deles criticou a organização, pediu mudanças ou ainda defendeu a existência das Nações Unidas, um pleito que não seria sequer considerado até poucos anos atrás.\n➡️ A própria ONU já sabia que teria de passar parte da Assembleia Geral em defesa de sua própria sobrevivência. Com os discursos, no entanto, a comunidade internacional estabeleceu um consenso: o de que a ONU não funciona nos moldes atuais. \nTrata-se de um momento de ruptura, disse ao g1 a professora de relações internacionais da ESPM, Denilde Holzhacker. E também de um desafio que cairá nas mãos do próximo secretário-geral — o português António Guterres, à frente da organização há quase uma década, deixará o posto no fim deste ano. \n🌏 Fundada em 1945, logo após o fim da Segunda Guerra Mundial, como um instrumento internacional regulador de conflitos e das relações entre os países, a Organização das Nações Unidas (ONU) é composta por 193 países — incluindo o Brasil. Há 80 anos, é a principal instituição multilateral do planeta.\n➡️ Recentemente, no entanto, a ONU virou alvo de uma série de críticos, liderados pelo presidente dos Estados Unidos, Donald Trump, que acusa a instituição de ser enviesada e ineficaz. Desde que Trump voltou à Casa Branca, em janeiro do ano passado, o governo dos EUA, que responde por mais de 20% do financiamento da ONU, vem cortando repasses e até programas inteiros da organização.\nPaíses como Israel, Rússia e os próprios EUA também têm ignorado tanto resoluções do Conselho de Segurança da ONU — para quem, em teoria, países têm de submeter pedidos para atacar outros territórios — quanto mandados de prisão internacional.\n“Tem um cenário que é de ruptura, de os Estados entenderem que não é mais capaz da ONU ser a organização que congrega esse processo. Mas o consenso é de que é preciso buscar uma reforma, mas também uma adaptação\", explica a professora Denilde Holzhacker.\nPara sobreviver, a ONU aposta, de fato, nas reformas, defendidas pelo próprio António Guterres no discurso que abriu a assembleia na última terça-feira (22).\n\"Nossas instituições e sistemas de governança global continuam a refletir as realidades de poder e os interesses de uma era amplamente ultrapassada. Esse é o desafio central diante de nós\", afirmou Guterres no púlpito da ONU.\nO problema, para Holzhacker, é que as tentativas de reformar a ONU – um amplo complexo de mais de 15 agências, além do secretariado, de conselhos, braços administrativos e até tribunais – falharam até agora.\n“Todas as reformas propostas têm sido engavetadas ou não avançam”, afirmou.\nCaberá à próxima liderança – que deve ser definida nas próximas semanas – tornar a organização mais dinâmica em meio à crise financeira que ela enfrenta, em parte pelos cortes feitos pelo governo dos Estados Unidos, principal financiador da ONU.\nEnquanto isso, líderes usaram o palco da Assembleia Geral para propor soluções e fazer apelos por uma nova ONU – ou apenas criticar a organização.\nO presidente do Brasil, Luiz Inácio Lula da Silva, discursa durante a 81ª Assembleia Geral das Nações Unidas na sede da ONU em Nova York, em 22 de setembro de 2026.\nANGELA WEISS/AFP\nCríticas afiadas e pedidos de reforma da ONU\nGuterres admitiu uma ONU ultrapassada. O presidente argentino, Javier Milei, o mais afiado, falou de uma ONU “inútil” que se tornou “parasita”. O presidente Luiz Inácio Lula da Silva iniciou seu discurso apontando uma baixa recorde na credibilidade da organização.\nO presidente francês, Emmanuel Macron, acusou a ONU de um papel “inativo” diante de mortes de civis na Faixa de Gaza. Mas também pediu que os países não abandonem a ONU.\nO mesmo apelo fez o presidente da Letônia, Edgars Rinkēvičs.\n“Nós dividimos o mesmo barco, e, por isso, precisamos de algo que nos mantenha unidos. O bom é que já temos isso, a ONU”, discursou o líder da Letônia, que divide fronteira com a Rússia e fica na ponta mais oriental da União Europeia.\n“O mundo não precisa de menos Nações Unidas. Só uma ONU que atue com mais diplomacia e mais capacidade de resolução de conflitos”, disse, também em discurso, o presidente panamenho, José Raúl Molino.\nConselho de Segurança na mira\nA reforma mais urgente, segundo os apelos, é a do Conselho de Segurança, que delibera sobre guerras e conflitos e tem dois de seus membros permanentes – EUA e Rússia, ambos com poder de veto – atualmente em guerra.\nGuterres defendeu a inclusão de países da África como membros permanentes, e líderes de países africanos fizeram coro em peso à proposta. Mas para isso, disse o secretário-geral, é preciso que os cinco membros permanentes – EUA, China, Rússia, França e Inglaterra – estejam de acordo. E eles raramente concordam, o que explica a inação do Conselho de Segurança diante das guerras atuais.\n“Os próprios governos é que dão o mandato para a ONU, então a incapacidade de chegar a consensos é também em parte resultado da dificuldade dos próprios Estados de conseguirem se articular e cooperar”, afirmou a professora  Denilde Holzhacker.\nPor isso, Holzhacker avalia que está nas mãos da próxima liderança da organização tentar equilibrar interesses de potências para que eles aceitem chegar a consensos que destravem reformas e criem uma nova ONU, mais enxuta e eficaz.\n“O próximo secretário, ou a próxima secretária, terá de buscar o equilíbrio entre as demandas dos Estados Unidos e da China, que ganha cada vez mais peso na ONU, inclusive financeiramente. Além do grupo do sul global, que tem um peso nessa estrutura”, afirma.\n“A grande discussão não é sobre a sobrevivência da ONU, mas sobre como ela vai ser repensada para reagir às mudanças constantes no sistema internacional. E isso, de fato, dependeria dos Estados”.\nAmeaças e críticas: os destaques da Assembleia Geral da ONU",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 50,
-      "publishedRaw": "Sun, 27 Sep 2026 09:00:01 -0000"
     }
   ]
 }
