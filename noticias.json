@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:15:48.127183+00:00",
+  "generated_at": "2026-09-28T01:43:18.487927+00:00",
   "items": [
     {
       "id": "ff5fcd755ba0",
@@ -278,13 +278,36 @@
       "publishedRaw": "27 Sep 2026 21:26:00 -0300"
     },
     {
-      "id": "1e37d412db48",
+      "id": "407a0f4e4fe1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula quer mudar o critério de indicação de ministros ao STF e sugere a criação de um conselho",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-quer-mudar-o-criterio-de-indicacao-de-ministros-ao-stf-e-sugere-a-criacao-de-um-conselho/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Mon, 28 Sep 2026 01:01:56 +0000"
+    },
+    {
+      "id": "3f710a466b5f",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula defende mudar indicação ao STF: “Quando coloca toga, vira Deus”",
-      "link": "https://www.poder360.com.br/poder-governo/lula-defende-mudar-indicacao-ao-stf-quando-coloca-toga-vira-deus/",
-      "summary": "Petista propõe colegiado com sociedade civil antes de votação no Senado e diz que Executivo deixa de influir depois da posse no STF",
+      "title": "Lula defende mandato no STF e não promete mulher na vaga",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-mandato-no-stf-e-nao-promete-mulher-na-vaga/",
+      "summary": "Presidente afirma que critério atual de escolha é vulnerável e diz que pretende discutir mudança com juristas e sociedade civil",
       "tags": [
         "STF",
         "Lula"
@@ -298,7 +321,7 @@
         "G1 - Política"
       ],
       "score": 90,
-      "publishedRaw": "Sun, 27 Sep 2026 21:34:10 +0000"
+      "publishedRaw": "Mon, 28 Sep 2026 01:32:45 +0000"
     },
     {
       "id": "3abd9a2d7992",
@@ -405,6 +428,28 @@
       "publishedRaw": "27 Sep 2026 20:50:00 -0300"
     },
     {
+      "id": "a86bbd4e8097",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Apoiadores de Lula fazem ato em Copacabana uma semana antes da eleição",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/apoiadores-de-lula-fazem-ato-em-copacabana-uma-semana-antes-da-eleicao/",
+      "summary": "Manifestação no Rio de Janeiro integra conjunto de ações de rua promovidas a uma semana do primeiro turno",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 28 Sep 2026 01:02:26 +0000"
+    },
+    {
       "id": "000608db9b52",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -449,28 +494,6 @@
       "publishedRaw": "Mon, 28 Sep 2026 00:54:01 +0000"
     },
     {
-      "id": "c651c785a3e4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tenta explorar notícia falsa sobre ‘Nossa Senhora’ e é contestado: ‘fake news, né, presidente?’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-mexer-com-nossa-senhora-nao-e-aceitavel-e-alega-nao-saber-ao-ouvir-que-e-fake-news/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 28 Sep 2026 00:42:54 +0000"
-    },
-    {
       "id": "8105b79392d5",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -491,6 +514,28 @@
       ],
       "score": 85,
       "publishedRaw": "Sun, 27 Sep 2026 20:10:23 +0000"
+    },
+    {
+      "id": "c651c785a3e4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta explorar notícia falsa sobre ‘Nossa Senhora’ e é contestado: ‘fake news, né, presidente?’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-mexer-com-nossa-senhora-nao-e-aceitavel-e-alega-nao-saber-ao-ouvir-que-e-fake-news/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 28 Sep 2026 00:42:54 +0000"
     },
     {
       "id": "ae4616d92c6f",
@@ -559,12 +604,12 @@
       "publishedRaw": "Sun, 27 Sep 2026 15:00:00 +0000"
     },
     {
-      "id": "18cc57e3d9f0",
+      "id": "b569ab8db767",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
       "title": "“Se me deu whisky, já bebi”, diz Lula sobre advogado de Vorcaro",
-      "link": "https://www.poder360.com.br/brasil/se-me-deu-whisky-ja-bebi-diz-lula-sobre-advogado-de-vorcaro/",
+      "link": "https://www.poder360.com.br/poder-governo/se-me-deu-whisky-ja-bebi-diz-lula-sobre-advogado-de-vorcaro/",
       "summary": "Presidente afirma não saber se recebeu presente de Walfrido Warde; advogado disse ao ex-banqueiro que Lula agradeceu o whisky",
       "tags": [
         "Lula"
@@ -797,40 +842,6 @@
       "publishedRaw": "Mon, 28 Sep 2026 00:27:32 +0000"
     },
     {
-      "id": "6c399b65dd39",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do Supremo avançam sobre questões eleitorais e ‘atropelam’ TSE em ao menos 4 decisões",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ministros-stf-questoes-eleitorais-sobreposicao-tse/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 27 Sep 2026 20:02:53 +0000"
-    },
-    {
-      "id": "be8f9296dee4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino age para “descredenciar” o TSE, diz defesa de Flávio",
-      "link": "https://www.poder360.com.br/poder-justica/dino-age-para-descredenciar-o-tse-diz-defesa-de-flavio/",
-      "summary": "Equipe do PL criticou a medida que liberou publicação que relacionava ataques à padroeira do Brasil à candidatura",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 68,
-      "publishedRaw": "Sun, 27 Sep 2026 21:07:43 +0000"
-    },
-    {
       "id": "b1b4a06173a8",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -859,6 +870,21 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Sat, 26 Sep 2026 21:31:43 -0000"
+    },
+    {
+      "id": "6c399b65dd39",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do Supremo avançam sobre questões eleitorais e ‘atropelam’ TSE em ao menos 4 decisões",
+      "link": "https://www.estadao.com.br/politica/eleicoes/ministros-stf-questoes-eleitorais-sobreposicao-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Sun, 27 Sep 2026 20:02:53 +0000"
     },
     {
       "id": "b3c0517e6895",
