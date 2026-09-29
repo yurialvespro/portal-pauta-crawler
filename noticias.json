@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:43:52.479442+00:00",
+  "generated_at": "2026-09-29T22:15:58.235940+00:00",
   "items": [
     {
       "id": "d1aff8e328fe",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -39,6 +40,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -61,6 +63,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -109,6 +112,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -139,26 +143,6 @@
       "publishedRaw": "29 Sep 2026 17:58:00 -0300"
     },
     {
-      "id": "66cdbab53e30",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Irã faz apelo a americanos antes de eleições de “midterms”",
-      "link": "https://www.cnnbrasil.com.br/internacional/analise-ira-faz-apelo-a-americanos-antes-de-eleicoes-de-midterms/",
-      "summary": "Guarda Revolucionária Iraniana divulga carta de 25 páginas contestando narrativa de Trump sobre a guerra e o controle do Estreito de Ormuz; a avaliação é da analista de Internacional da CNN Fernanda Magnotta ao CNN 360°",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Tue, 29 Sep 2026 21:21:00 +0000"
-    },
-    {
       "id": "2d1951e3cdec",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -172,7 +156,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -201,26 +185,6 @@
       "publishedRaw": "Mon, 28 Sep 2026 18:47:03 GMT"
     },
     {
-      "id": "1ed9a0e93844",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "EUA acionam Forças Armadas contra ameaças estrangeiras nas eleições",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-acionam-forcas-armadas-contra-ameacas-estrangeiras-nas-eleicoes/",
-      "summary": "Eleições de meio de mandato serão realizadas em 3 de novembro e definirão novo Congresso norte-americano",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Tue, 29 Sep 2026 21:37:31 +0000"
-    },
-    {
       "id": "518a200efe97",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -234,8 +198,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -269,17 +233,18 @@
       "category": "Política",
       "title": "Quaest: Flávio lidera no RJ e em SP, e Lula fica à frente em PE; há empate técnico em MG e no DF",
       "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-presidente-estados-29-setembro.ghtml",
-      "summary": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nPesquisas Quaest divulgadas nesta terça-feira (29) mostram como está a corrida presidencial nos estados de São Paulo, Rio de Janeiro, Minas Gerais, Pernambuco e no Distrito Federal. Veja baixo:\nSão Paulo: Flávio Bolsonaro lidera, com 6 pontos percentuais de vantagem.\nRio de Janeiro: Flávio Bolsonaro lidera, com 7 pontos de vantagem.\nPernambuco: Lula lidera, com 38 pontos de vantagem.\nMinas Gerais: há empate técnico, com Lula numericamente à frente.\nDistrito Federal: a diferença está no limite da margem de erro, com Flávio Bolsonaro numericamente à frente.\n📋O levantamento foi encomendado pela Globo. A margem de erro é de dois pontos percentuais.\nSaiba mais: Quem são os candidatos nas eleições de 2026?\nVeja os números por estado:\nSão Paulo:\nFlávio Bolsonaro (PL): 36% (eram 34% em 23 de setembro)\nLula (PT): 30% (eram 31%)\nAugusto Cury (Avante): 5% (eram 7%)\nRonaldo Caiado (PSD): 4% (eram 4%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 1% (era 1%)\nSamara Martins (UP): 0% (era 0%)\nVeterinário Wilson Grassi (Democrata): % (era 0%)\nEdmilson Costa (PCB): 0% (era 0%)\nRui Costa Pimenta (PCO): 0% (era 0%)\nLonardo Avalanche (PRTB): 0% (era 0%)\nHertz Dias (PSTU): 0% (era 0%)\nClariana Barão (DC): 0% (era 0%)\nIndecisos: 12% (eram 11%)\nEm branco/nulo/não vai votar: 9% (eram 9%)\nAgora no g1\nMinas Gerais:\nLula (PT): 35% (eram 35% em 23 de setembro)\nFlávio Bolsonaro (PL): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 5% (eram 5%)\nRonaldo Caiado (PSD): 3% (eram 4%)\nRenan Santos (Missão): 3% (eram 2%)\nRomeu Zema (Novo): 3% (eram 2%)\nEdmilson Costa (PCB): 0% (era 0%)\nRui Costa Pimenta (PCO): 0% (era 0%)\nVeterinário Wilson Grassi (Democrata): 0% (era 0%)\nClariana Barão (DC): 0% (era 0%)\nHertz Dias (PSTU): 0% (era 0%)\nLeonardo Avalanche (PRTB): 0% (era 0%)\nSamara Martins (UP): 0% (era 0%)\nIndecisos: 14% (eram 13%)\nBranco/nulo/não vai votar: 6% (eram 9%)\nRio de Janeiro:\nFlávio Bolsonaro (PL): 38% (eram 37% em 23 de setembro)\nLula (PT): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 4% (eram 4%)\nRonaldo Caiado (PSD): 2% (eram 3%)\nRenan Santos (Missão): 2% (eram 2%)\nSamara Martins (UP): 1% (era 0%)\nZema (Novo): 0% (era 1%)\nHertz Dias (PSTU): 0% (era 0%)\nRui Costa Pimenta (PCO): 0% (era 1%)\nVeterinário Wilson Grassi (Democrata): 0% (era 0%)\nClariana Barão (DC): 0% (era 0%)\nEdmilson Costa (PCB): 0% (era 0%)\nLeonardo Avalanche (PRTB): 0% (era 0%)\nIndecisos: 11% (eram 12%)\nBranco/nulo/não vai votar: 11% (eram 10%)\nPernambuco:\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nRomeu Zema (Novo): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (era 0%)\nClariana Barão (DC): 0% (era 0%)\nHertz Dias (PSTU): 0% (era 0%)\nLeonardo Avalanche (PRTB): 0% (era 0%)\nRui Costa Pimenta (PCO): 0% (era 0%)\nSamara Martins (UP): 0% (era 0%)\nVeterinário Wilson Grassi (Democrata): 0% (era 0%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nDistrito Federal:\nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 0% (eram 1%)\nSamara Martins (UP): 0% (eram 0%)\nRui Costa Pimenta (PCO): 0% (eram 0%)\nLeonardo Avalanche (PRTB): 0% (eram 0%)\nVeterinário Wilson Grassi (Democrata): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (eram 0%)\nClariana Barão (DC): 0% (eram 0%)\nHertz Dias (PSTU): 0% (eram 0%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nIndecisos: 8% (eram 8%)",
+      "summary": "Pesquisas Quaest divulgadas nesta terça-feira (29) mostram como está a corrida presidencial em São Paulo, Minas Gerais, Rio de Janeiro, Pernambuco e no Distrito Federal a cinco dias do 1º turno. \nSP, MG e RJ são os estados com os maiores números de eleitores aptos a votar.\n O que as pesquisas de 1º turno apontam\nSão Paulo: Flávio Bolsonaro (PL) lidera, com 6 pontos de vantagem para Lula (PT).\nMinas Gerais: há empate técnico, com Lula numericamente à frente.\nRio de Janeiro: Flávio Bolsonaro lidera, com 7 pontos de vantagem.\nPernambuco: Lula lidera, com 38 pontos de vantagem.\nDistrito Federal: há empate técnico no limite da margem de erro, com Flávio Bolsonaro numericamente à frente.\n📋Os levantamentos foram encomendados pela Globo e pelo jornal O Globo. As margens de erro são de dois pontos percentuais, para mais ou para menos, na pesquisa de São Paulo, e de três pontos percentuais nos demais estados.\nSaiba mais: Quem são os candidatos nas eleições de 2026?\nAgora no g1\nSão Paulo: Flávio Bolsonaro 36% x 30% Lula\nFlávio Bolsonaro (PL): 36% (eram 34% em 23 de setembro)\nLula (PT): 30% (eram 31%)\nAugusto Cury (Avante): 5% (eram 7%)\nRonaldo Caiado (PSD): 4% (eram 4%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 1% (era 1%)\nIndecisos: 12% (eram 11%)\nEm branco/nulo/não vai votar: 9% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio Bolsonaro supera Lula por 43% a 35%.\nA margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.800 pessoas em São Paulo entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nMinas Gerais: Lula 35% x 31% Flávio Bolsonaro\nLula (PT): 35% (eram 35% em 23 de setembro)\nFlávio Bolsonaro (PL): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 5% (eram 5%)\nRonaldo Caiado (PSD): 3% (eram 4%)\nRenan Santos (Missão): 3% (eram 2%)\nRomeu Zema (Novo): 3% (eram 2%)\nIndecisos: 14% (eram 13%)\nBranco/nulo/não vai votar: 6% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, também há empate técnico: Lula tem 41%, contra 40% de Flávio Bolsonaro.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.506 pessoas em Minas Gerais entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nRio de Janeiro: Flávio Bolsonaro 38% x 31% Lula\nFlávio Bolsonaro (PL): 38% (eram 37% em 23 de setembro)\nLula (PT): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 4% (eram 4%)\nRonaldo Caiado (PSD): 2% (eram 3%)\nRenan Santos (Missão): 2% (eram 2%)\nSamara Martins (UP): 1% (não pontuou)\nIndecisos: 11% (eram 12%)\nBranco/nulo/não vai votar: 11% (eram 10%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 44% a 34%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas no Rio de Janeiro entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-03534/2026.\nPernambuco: Lula 58% x 20% Flávio Bolsonaro\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Lula supera Flávio por 61% a 24%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas em Pernambuco entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-08289/2026.\nDistrito Federal: Flávio Bolsonaro 38% x 32% Lula\nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nIndecisos: 8% (eram 8%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 48% a 37%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.104 pessoas no Distrito Federal entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-00531/2026.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:37:01 -0000"
     },
     {
@@ -295,11 +260,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:20:05 -0000"
     },
     {
@@ -309,7 +275,28 @@
       "category": "Política",
       "title": "Quaest no DF: Flávio, 38%; Lula, 32%; Caiado, 8%; Cury, 5%; Renan, 3%",
       "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-presidente-29-setembro.ghtml",
-      "summary": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nPesquisa Quaest divulgada nesta terça-feira (29) mostra como está a disputa pela Presidência da República entre os eleitores do Distrito Federal. O levantamento foi encomendado pela Globo. \nVeja, abaixo, os resultados da pesquisa estimulada, em que a Quaest mostra a lista de candidatos aos eleitores entrevistados. \nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 0% (eram 1%)\nSamara Martins (UP): 0% (eram 0%)\nRui Costa Pimenta (PCO): 0% (eram 0%)\nLeonardo Avalanche (PRTB): 0% (eram 0%)\nVeterinário Wilson Grassi (Democrata): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (eram 0%)\nClariana Barão (DC): 0% (eram 0%)\nHertz Dias (PSTU): 0% (eram 0%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nIndecisos: 8% (eram 8%)\nPara 86% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 14% dizem que ainda podem mudar o voto até as eleições, em 4 de outubro. \nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 25 e 28 de setembro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Os números de registro da pesquisa são DF-02515/2026.\nSegundo turno\nPela terceira vez, a Quaest questionou os eleitores do Distrito Federal sobre um eventual segundo turno entre Lula (PT) e Flávio Bolsonaro (PL). Veja o resultado:\nFlávio Bolsonaro (PL): 48% (eram 49%)\nLula (PT): 33% (eram 38%)\nBranco/nulo/não vai votar: 12% (eram 11%)\nIndecisos: 3% (eram 1%)\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales\nMaior 'medo' na eleição\nAinda sobre a eleição presidencial deste ano, a Quaest voltou a perguntar aos eleitores do DF qual era o principal \"medo\" deles em relação ao resultado das urnas.\nVeja como foram as respostas:\nMais um mandato de Lula: 49% (eram 46%)\nA volta da família Bolsonaro ao poder: 37% (eram 39%)\nTenho medo dos dois (espontânea): 7% (eram 8%)\nNão tenho medo de nenhum dos dois (espontânea): 3% (eram 3%)\nNão souberam ou não quiseram responder: 4% (eram 4%)\nLeia mais notícias sobre a região no g1 DF.",
+      "summary": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nPesquisa Quaest divulgada nesta terça-feira (29) mostra como está a disputa pela Presidência da República entre os eleitores do Distrito Federal. O levantamento foi encomendado pela Globo. \nVeja, abaixo, os resultados da pesquisa estimulada, em que a Quaest mostra a lista de candidatos aos eleitores entrevistados. \nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 0% (eram 1%)\nSamara Martins (UP): 0% (eram 0%)\nRui Costa Pimenta (PCO): 0% (eram 0%)\nLeonardo Avalanche (PRTB): 0% (eram 0%)\nVeterinário Wilson Grassi (Democrata): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (eram 0%)\nClariana Barão (DC): 0% (eram 0%)\nHertz Dias (PSTU): 0% (eram 0%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nIndecisos: 8% (eram 8%)\nPara 86% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 14% dizem que ainda podem mudar o voto até as eleições, em 4 de outubro. \nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 25 e 28 de setembro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Os números de registro da pesquisa são DF-02515/2026 e BR-00531/2026.\nSegundo turno\nPela terceira vez, a Quaest questionou os eleitores do Distrito Federal sobre um eventual segundo turno entre Lula (PT) e Flávio Bolsonaro (PL). Veja o resultado:\nFlávio Bolsonaro (PL): 48% (eram 49%)\nLula (PT): 33% (eram 38%)\nBranco/nulo/não vai votar: 12% (eram 11%)\nIndecisos: 3% (eram 1%)\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales\nMaior 'medo' na eleição\nAinda sobre a eleição presidencial deste ano, a Quaest voltou a perguntar aos eleitores do DF qual era o principal \"medo\" deles em relação ao resultado das urnas.\nVeja como foram as respostas:\nMais um mandato de Lula: 49% (eram 46%)\nA volta da família Bolsonaro ao poder: 37% (eram 39%)\nTenho medo dos dois (espontânea): 7% (eram 8%)\nNão tenho medo de nenhum dos dois (espontânea): 3% (eram 3%)\nNão souberam ou não quiseram responder: 4% (eram 4%)\nLeia mais notícias sobre a região no g1 DF.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 29 Sep 2026 20:13:39 -0000"
+    },
+    {
+      "id": "2fe7ac20ef48",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: Flávio tem 36% no 1º turno em SP; Lula, 30%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-36-no-1o-turno-em-sp-lula-30/",
+      "summary": "Pesquisa ouviu 1.800 eleitores do estado, entre os dias 25 e 28 de setembro, por meio de entrevista presencial; margem de erro é de 2 pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
@@ -317,10 +304,11 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Mundo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 20:13:39 -0000"
+      "score": 85,
+      "publishedRaw": "Tue, 29 Sep 2026 21:40:33 +0000"
     },
     {
       "id": "d6342a76f328",
@@ -335,11 +323,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:39:23 +0000"
     },
     {
@@ -355,11 +344,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:46:49 +0000"
     },
     {
@@ -375,32 +365,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:48:38 +0000"
-    },
-    {
-      "id": "58b27b5d2afe",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula ergue imagem de Nossa Senhora e diz que governo acabou com bets ‘antes que acabassem com País’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-ergue-imagem-de-nossa-senhora-e-diz-que-governo-acabou-com-bets-antes-que-acabassem-com-pais/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 17:58:34 +0000"
     },
     {
       "id": "241c30eb9d75",
@@ -415,50 +386,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 21:20:57 +0000"
-    },
-    {
-      "id": "13b805f0e285",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "A cinco dias das eleições, governo lança Desenrola MEI e outras medidas de renegociação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja,  R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados. \n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado. \nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou dois editais de transação voltados a ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar num valor inferior ao montante principal do crédito.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
-    },
-    {
-      "id": "13b805f0e285",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "A cinco dias das eleições, governo lança Desenrola MEI e outras medidas de renegociação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa. \nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja,  R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados. \n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado. \nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nA Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. A medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, ANTT, ANP, ICMBio, DNIT, Incra e FNDE.\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou dois editais de transação voltados a ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar num valor inferior ao montante principal do crédito.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
     },
     {
       "id": "caa234a915a2",
@@ -473,11 +407,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
     },
     {
@@ -492,13 +427,69 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 29 Sep 2026 16:25:04 GMT"
+    },
+    {
+      "id": "1ed9a0e93844",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "EUA acionam Forças Armadas contra ameaças estrangeiras nas eleições",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-acionam-forcas-armadas-contra-ameacas-estrangeiras-nas-eleicoes/",
+      "summary": "Eleições de meio de mandato serão realizadas em 3 de novembro e definirão novo Congresso norte-americano",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Tue, 29 Sep 2026 21:37:31 +0000"
+    },
+    {
+      "id": "13b805f0e285",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
+      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 78,
+      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
+    },
+    {
+      "id": "13b805f0e285",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
+      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
     },
     {
       "id": "71d597111627",
@@ -552,37 +543,35 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
     },
     {
-      "id": "e9b9a6b6eb4c",
-      "source": "Folha de São Paulo",
+      "id": "720e833ab7fe",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Nunes Marques muda resolução do TSE e permite que candidatos do Novo participem de debates eleitorais",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/nunes-marques-muda-resolucao-do-tse-e-permite-que-candidatos-do-novo-participem-de-debates-eleitorais.shtml",
-      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), ministro Kassio Nunes Marques, atendeu ao pedido feito pelo partido Novo, retificou um entendimento da própria Corte e permitiu que os candidatos do partido participem de debates eleitorais.\nLeia mais (09/29/2026 - 18h31)",
+      "title": "Zema avisa a dirigentes do Novo que mantém candidatura, mesmo com risco de humilhação nas urnas",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/zema-avisa-a-dirigentes-do-novo-que-mantem-candidatura-mesmo-com-risco-de-humilhacao-nas-urnas/",
+      "summary": "",
       "tags": [
-        "TSE"
+        "urnas",
+        "candidatura"
       ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 73,
-      "publishedRaw": "29 Sep 2026 18:31:00 -0300"
+      "crossOutlets": [],
+      "score": 66,
+      "publishedRaw": "Tue, 29 Sep 2026 14:39:45 +0000"
     },
     {
-      "id": "a493e88e1813",
-      "source": "Poder360",
+      "id": "058dce3f2f87",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mulher de deputado morto em acidente assume candidatura em Goiás",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mulher-de-deputado-morto-em-acidente-assume-candidatura-em-goias/",
-      "summary": "Ana Caroline Guimarães usará o nome “Carol do Amilton” e o mesmo número do marido, que morreu aos 41 anos no sábado (26.set)",
+      "title": "TRE-RJ mantém por unanimidade indeferimento da candidatura de Garotinho",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tre-rj-mantem-por-unanimidade-indeferimento-da-candidatura-de-garotinho/",
+      "summary": "Candidato afirma que vai recorrer ao TSE da decisão e seguirá cumprindo agenda eleitoral",
       "tags": [
         "candidatura"
       ],
       "crossOutlets": [],
       "score": 60,
-      "publishedRaw": "Tue, 29 Sep 2026 21:13:05 +0000"
+      "publishedRaw": "Tue, 29 Sep 2026 21:36:09 +0000"
     }
   ]
 }
