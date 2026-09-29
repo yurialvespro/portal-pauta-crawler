@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:48:03.412813+00:00",
+  "generated_at": "2026-09-29T14:17:41.987647+00:00",
   "items": [
     {
       "id": "0fa95b9014b0",
@@ -16,13 +16,56 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "G1 - Mundo",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
       "score": 93,
       "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "a018e59e6341",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: como baixar o e-Título no celular?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-como-baixar-o-e-titulo-no-celular.ghtml",
+      "summary": "Guia do Eleitor: Como baixar e usar o E-Título?\nPara votar no 1º turno das Eleições 2026, o eleitor pode usar o e-Título, aplicativo oficial da Justiça Eleitoral que funciona como a versão digital do título de eleitor.\n50 Vídeos para entender as Eleições de 2026\nO aplicativo também pode ser usado como documento de identificação com foto para votar, desde que o eleitor tenha feito o cadastramento biométrico e sua fotografia apareça no perfil do app.\nSe você não tiver foto no e-Título, ainda poderá votar apresentando RG, identidade social, CNH (Carteira Nacional de Habilitação), passaporte, certificado de reservista ou carteira de trabalho ou de categoria profissional reconhecida por lei.\nO aplicativo e-Título poderá ser baixado inclusive no dia da votação nas eleições de 2026, tanto no 1º quanto no 2º turno, em 4 e 25 de outubro. O anúncio foi feito na quinta-feira (24) pelo presidente do Tribunal Superior Eleitoral (TSE), o ministro Kassio Nunes Marques.\nComo baixar e usar o e-Título?\nO e-Título está disponível gratuitamente e pode ser baixado em celulares ou tablets Android (neste link) e iOs (neste link). \nNo primeiro acesso, é necessário informar os dados pessoais e responder a perguntas para confirmem a identidade do eleitor para habilitar o e-Título.\nAo confirmar os dados solicitados,  o aplicativo deverá solicitar a sua senha. Caso esta senha já tenha sido cadastrada nos anos anteriores, basta digitá-la e clicar em \"Confirmar\". \nSe a senha estiver desatualizada ou não tiver sido criada anteriormente, o e-Título deverá pedir para que uma nova senha seja cadastrada.\nCUFA Amazonas promove carona solidária para moradores regularizar título de eleitor em Manaus\nFoto: Divulgação\nQuais serviços estão disponíveis no e-Título?\nNo aplicativo, você tem acesso a vários serviços como: \nConsultar o local de votação e zona eleitoral;\nJustificar ausência;\n Emitir certidões e declarações;\nPagar débitos eleitorais. \nO eleitor deve ficar atento ao prazo para baixar o e-título digital. A primeira via do aplicativo não pode ser emitida no dia da votação. Ou seja, o download só é permitido até 03 de outubro de 2026, um dia antes do primeiro turno das eleições.",
+      "tags": [
+        "eleições",
+        "eleições 2026",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo"
+      ],
+      "score": 93,
+      "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "8bcde5b397dd",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições presidenciais: o que as pesquisas diziam sobre Lula x Bolsonaro a uma semana da eleição em 2022 e 2018 — e o que dizem em 2026",
+      "link": "https://www.bbc.com/portuguese/articles/c6j4j70y8jdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Segundo o Agregador de Pesquisas da BBC News Brasil, o petista tem 41% das intenções de votos, enquanto o filho do ex-presidente Jair Bolsonaro soma 36%.",
+      "tags": [
+        "eleições",
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
     },
     {
       "id": "9fc3bb87d734",
@@ -39,11 +82,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
-      "score": 93,
+      "score": 88,
       "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
     },
     {
@@ -60,58 +102,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
-    },
-    {
-      "id": "8bcde5b397dd",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições presidenciais: o que as pesquisas diziam sobre Lula x Bolsonaro a uma semana da eleição em 2022 e 2018 — e o que dizem em 2026",
-      "link": "https://www.bbc.com/portuguese/articles/c6j4j70y8jdxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Segundo o Agregador de Pesquisas da BBC News Brasil, o petista tem 41% das intenções de votos, enquanto o filho do ex-presidente Jair Bolsonaro soma 36%.",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
-    },
-    {
-      "id": "9c5553de1124",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisador diz que esquerda está usando de forma inédita o tema religião para animar o seu eleitorado a poucos dias do primeiro turno.",
-      "tags": [
-        "Bolsonaro",
-        "esquerda",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
       "score": 88,
-      "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
+      "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
     },
     {
       "id": "cc912c56930f",
@@ -134,126 +130,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 07:00:01 -0000"
     },
     {
-      "id": "11f72fd0dc39",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Lula x Flávio tem vaivém entre mulheres, empate técnico no Sudeste e vantagens mantidas em setembro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-lula-x-flavio2-turno-setembro.ghtml",
-      "summary": "Saiba o resultado da pesquisa Quaest de 28 de setembro\nPesquisa Quaest divulgada nesta segunda-feira (28) mostra Flávio Bolsonaro (PL) e Lula (PT) em empatados em eventual cenário de 2º turno. Os dois candidatos têm 42%, segundo o levantamento encomendado pela Globo e pelo jornal O Globo.\nNos recortes por segmentos, houve variação ao longo do último mês antes do 1º turno. Entre as mulheres, por exemplo, a vantagem de Lula sobre Flávio caiu de 10 para 3 pontos e voltou a 9. No Sudeste, Flávio ampliou a vantagem de 8 para 16 pontos, mas terminou o mês 6 pontos à frente, em empate técnico.\nLula também ampliou a vantagem entre eleitores de menor renda e católicos. Entre os que ganham até dois salários mínimos, a diferença passou de 22 para 26 pontos, com 55% a 29%. Entre os católicos, o cenário de liderança se manteve, mas Lula foi de 46% para 50% ao longo do mês.\nVeja as maiores variações nos grupos sociais ao longo de setembro:\nMulheres: Lula viu vantagem sobre Flávio ir de 10 pontos para 3 no meio do mês, quando voltou a recuperar a liderança no segmento e terminou o mês com 46% a 37%;\nSudeste: Flávio tinha 8 pontos a mais do que Lula, ampliou para 16 no meio do mês, mas viu o petista diminuir para 6 no levantamento mais recente, o que faz com que os dois estejam em empate técnico no limite da margem de erro, que é de 3 pontos;\nIdade: Flávio liderava entre os mais jovens (16 a 34 anos) com 13 pontos a mais, já Lula tinha 17 a mais entre os mais velhos (60 anos ou mais) no início do mês. Agora, eles empatam em todas as faixas etárias -- entre os de 35 a 59 anos, Lula segue numericamente à frente por 2 pontos;\nEnsino Fundamental: Lula subiu de 14 pontos para 23 pontos a mais do que Flávio: 54% a 31%;\nEnsino Superior: empate técnico (44% Flávio, 40% Lula) virou vantagem para o senador, que está 15 pontos à frente do petista: 49% a 34%.\nAté 2 salários mínimos: mais pobres ampliaram as intenções de voto em Lula, com diferença passando de 22 pontos (51% a 29%) para 26 (55% a 29%);\nBrancos: Flávio estava 14 pontos distante de Lula e viu o presidente diminuir para 8 pontos;\nPardos: vantagem de Lula para Flávio, que era de 11 pontos, abaixou para 6 e entrou no empate técnico no limite da margem de erro.\n❗O empate técnico acontece quando a diferença entre os candidatos está dentro do intervalo da margem de erro. Nos casos abaixo, essa margem varia conforme o tamanho do segmento, sempre para mais e para menos. Clique aqui para saber mais sobre margem de erro.\nO mês dos presidenciáveis\nAo longo do mês, Lula dividiu a agenda entre atos oficiais e de campanha, com maior presença no Sudeste na reta final. O presidente anunciou um reajuste do Bolsa Família, assinou uma medida provisória que proibiu as bets e os jogos de cassino online, como o “Tigrinho”, e discursou na Assembleia da ONU, onde defendeu a soberania nacional ao afirmar que “o Brasil não cabe no quintal de ninguém”.\nFlávio Bolsonaro, por sua vez, cumpriu agendas no Nordeste e anunciou a entrada do Brasil no Escudo das Américas, grupo criado pelo presidente americano Donald Trump para combater o crime organizado na América Latina. O candidato do PL também enfrentou uma polêmica envolvendo Nossa Senhora Aparecida.\nO Caso Master passou a ser explorado pelos dois candidatos com mais ênfase: Lula buscando associar Flávio a Daniel Vorcaro, enquanto o candidato do PL destaca as relações do banqueiro com políticos e ministros do STF e tenta vincular o presidente a Alexandre Moraes, que teria trocado mensagens com o banqueiro.\nA Quaest ouviu 2.004 pessoas de 16 anos ou mais entre os dias 24 e 27 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa é BR-06520/2026.\nVeja, a seguir, os dados detalhados da pesquisa de 2º turno entre Lula e Flávio Bolsonaro:\nPresidente Lula e o senador Flávio Bolsonaro\nRicardo Stuckert/Presidência da República; Vittor Sales\nPosicionamento político\nGrupos seguem com resultados similares desde o início do mês. Entre os eleitores independentes, o empate técnico persiste, mas a diferença numérica a favor de Flávio sobre Lula era de 3 pontos e agora está em 7. A margem de erro de 4 pontos. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Identificação política\nArte/g1\nRegião\nNo Sudeste, Flávio tinha vantagem de 8 pontos no início do mês, alcançou 16 no meio do mês e viu Lula empatar tecnicamente no levantamento desta semana: 43% a 37%. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Região\nArte/g1\nGênero\nLula perdeu vantagem para Flávio entre as mulheres no meio do mês, quando houve empate técnico entre os dois, e se recuperou na pesquisa mais recentes. O presidente manteve vantagem sobre o senador: 9 pontos. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Gênero\nArte/g1\nFaixa etária\nLula e Flávio estão tecnicamente empatados em todos os segmentos. Antes, Flávio liderava entre os mais jovens (16 a 34 anos), enquanto Lula, entre os mais velhos (60 anos ou mais). Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Idade\nArte/g1\nEscolaridade\nEntre os eleitores com ensino fundamental, a vantagem de Lula sobre Flávio passou de 14 para 23 pontos, de 49% a 35% para 54% a 31%. Entre os mais escolarizados, o empate técnico no começo do mês (44% para Flávio, 40% a Lula) virou vantagem de 15 pontos para Flávio (49% a 34%). Já entre aqueles que tem ensino médio completo, a vantagem de Flávio subiu de 10 pontos (36% a 46%) para 15 (49% a 34%). Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Escolaridade\nArte/g1\nRenda familiar\nOs mais pobres (até 2 SM) aumentaram as intenções de voto em Lula: a vantagem do presidente sobre Flávio passou de 22 pontos (51% a 29%) para 26 (55% a 29%). Entre os mais ricos (mais de 5 SM), mantiveram mais apoiadores de Flávio, com vantagem de 15 (50% a 35%) para 18 pontos (52% a 34%) entre o começo e o fim de setembro. Ambos seguem empatados no grupo que recebe Mais de 2 SM a 5 SM. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Renda familiar\nArte/g1\nReligião\nCenário se manteve ao longo do mês: Flávio lidera entre evangélicos, e Lula, entre católicos.\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Religião\nArte/g1\nCor/Raça\nVantagem de Flávio sobre Lula entre eleitores brancos foi de 14 pontos (48% a 34%), em 2 de setembro, para 8 (45% a 37%) nesta semana. Já Lula viu os 18 pontos (49% a 31%) à frente do adversário entre pretos irem a 13 (47% a 34%). Entre eleitores pardos, eles empatam em 46% a Lula e 40%, Fláv -- antes, Lula estava 11 pontos à frente (48% a 37%).\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Cor/Raça\nArte/g1",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "9e2cfe57f845",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: No DF, Flávio tem 48% no 2º turno; Lula, 40%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-no-df-flavio-tem-48-no-2o-turno-lula-40/",
-      "summary": "Foram entrevistados 1.600 brasilienses entre os dias 24 e 28 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 13:09:48 +0000"
-    },
-    {
-      "id": "edb485785da9",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: No Paraná, Flávio tem 61% no 2º turno; Lula, 30%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-no-parana-flavio-tem-61-no-2o-turno-lula-30/",
-      "summary": "Pesquisa ouviu 1.600 eleitores do Paraná entre 24 e 28 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 13:06:58 +0000"
-    },
-    {
-      "id": "4238f1d14ba6",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: No RS, Flávio tem 53% no 2º turno; Lula, 43%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-no-rs-flavio-tem-53-no-2o-turno-lula-43/",
-      "summary": "Foram entrevistados 1.600 eleitores gaúchos entre os dias 24 e 28 de setembro; margem de erro do levantamento é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 12:52:14 +0000"
-    },
-    {
-      "id": "7ddcd2901863",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que ‘homem não gosta de tomar toque’, e ‘mulher aprende a tomar toque desde pequena’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-homem-nao-gosta-de-tomar-toque-e-mulher-aprende-a-tomar-toque-desde-pequena/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 11:53:02 +0000"
-    },
-    {
-      "id": "560fa7a3dcd1",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Atlas/Bloomberg: Lula é desaprovado por 53,6% dos eleitores e aprovado por 45,2%",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-lula-e-desaprovado-por-536-dos-eleitores-e-aprovado-por-452/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
-    },
-    {
       "id": "486aca9aaa9b",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -274,64 +150,25 @@
       "publishedRaw": "Mon, 28 Sep 2026 22:18:39 +0000"
     },
     {
-      "id": "d4f8e92a715f",
-      "source": "Estadão",
+      "id": "9c5553de1124",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cartilha do PT orienta militantes a dizer que ‘Lula é católico’ em meio a fake news da padroeira",
-      "link": "https://www.estadao.com.br/politica/cartilha-do-pt-orienta-militantes-a-dizer-que-lula-e-catolico-em-meio-a-fake-news-da-padroeira/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
+      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pesquisador diz que esquerda está usando de forma inédita o tema religião para animar o seu eleitorado a poucos dias do primeiro turno.",
       "tags": [
+        "Bolsonaro",
+        "esquerda",
         "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 28 Sep 2026 21:23:00 +0000"
-    },
-    {
-      "id": "4e0cdd918f95",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 48% contra 40% de Lula no 2º turno no DF, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-48-contra-40-de-lula-no-2o-turno-no-df-diz-pesquisa/",
-      "summary": "Levantamento Real Time Big Data também mediu a rejeição dos candidatos ao Planalto na capital federal",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 13:06:32 +0000"
-    },
-    {
-      "id": "e88eb9453439",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 53% contra 43% de Lula no 2º turno no RS, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-53-contra-43-de-lula-no-2o-turno-no-rs-diz-pesquisa/",
-      "summary": "Levantamento Real Time Big Data ouviu 1.600 eleitores do Rio Grande do Sul de 24 a 28 de setembro; margem de erro é de 2 p.p.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 29 Sep 2026 13:01:31 +0000"
+      "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
     },
     {
       "id": "67de2b3a66bc",
@@ -372,53 +209,13 @@
       "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Mon, 28 Sep 2026 18:12:26 GMT"
-    },
-    {
-      "id": "0ee0e1844662",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nossa Senhora Aparecida: como padroeira entrou na disputa entre Flávio e Lula",
-      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro desmentiu informação que circulava nas redes sociais de que pretenda retirar de Nossa Senhora o título de padroeira do Brasil; TSE pediu a derrubada de publicações que tratem a informação como verídica",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 81,
-      "publishedRaw": "Mon, 28 Sep 2026 18:21:36 GMT"
-    },
-    {
       "id": "ef79fd975b9d",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Em vez de propostas, eleição presidencial chega na reta final discutindo religião e STF entra na briga",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/29/em-vez-de-propostas-eleicao-presidencial-chega-na-reta-final-discutindo-religiao-e-stf-entra-na-briga.ghtml",
-      "summary": "Flávio Bolsonaro segurando imagem de N. Senhora Aparecida. Lula segurando imagem de Nossa Senhora de Nazaré\nReprodução/ Redes Sociais e Ricardo Stuckert\nEm vez de propostas para saúde, educação e economia, a campanha eleitoral chega na reta final discutindo religião, e o Supremo Tribunal Federal (STF) entrou na briga atropelando o Tribunal Superior Eleitoral (TSE). \nResultado: o presidente do STF, Edson Fachin, terá pela frente mais uma sessão com duas alas do tribunal se digladiando, não bastasse a sessão vergonhosa da semana passada discutindo quem deve ser investigado nas relações com Daniel Vorcaro.\nFachin pode levar caso Nossa Senhora Aparecida ao plenário do STF\nA fake news sobre Flávio Bolsonaro articular um projeto tirando de Nossa Senhora da Aparecida o título de padroeira do Brasil virou tema central de uma campanha da última semana de campanha. \nÉ fato que não há nenhuma declaração ou prova de que Bolsonaro esteja por trás de qualquer articulação com este objetivo, mas parlamentares bolsonaristas já defenderam a ideia.\nEmbates TSE e STF\nDe forma acertada, o ministro André Mendonça mandou retirar do ar postagens associando Flávio Bolsonaro à ideia. Errou ao ampliar a decisão de tal forma que acabou excluindo das redes sociais mensagens que não citavam o nome do candidato do PL à Presidência da República. \nEm seguida, advogados de defesa do humorista Antonio Tabet, um dos atingidos pela decisão de Mendonça, tomou um atalho e foi direto ao gabinete de Flávio Dino.\nO correto seria recorrer ao plenário do TSE. Preferiu ir ao STF. Dino derrubou a decisão de André Mendonça com os advogados de Tabet usando um caso relacionado ao ex-deputado Deltan Dallagnol. Um drible na Justiça Eleitoral. \nFlávio Bolsonaro recorreu ao mesmo artifício, usou uma ação no gabinete de Luiz Fux relacionada ao marco civil da internet e ganhou uma decisão.\nO presidente do TSE, Nunes Marques, foi a Fachin reclamar das interferências indevidas de ministros do STF, alegando que a Justiça Eleitoral está sendo fragilizada no meio do pleito deste ano. \nA reclamação de Nunes Marques teve como alvo não só Flávio Dino, mas também Gilmar Mendes, que fez críticas abertas a ministros do TSE. Agora, Fachin deve marcar o julgamento desta nova confusão para esta quarta-feira (30). Mais uma vez as alas pró-Alexandre de Moraes e a pró-Mendonça vão se enfrentar.\nFlávio tenta driblar a crise\nEnquanto isso, a campanha de Flávio Bolsonaro tenta sair de uma crise que poderia beneficiá-lo, por se tratar de uma fake news contra ele, mas que se virou contra sua candidatura quando o senador do PL decidiu atacar, sem provas, a CNBB. \nFlávio Bolsonaro disse que a entidade estava por trás da desinformação, gerando uma reação da entidade e seus aliados.\nLula entrou na onda e disse que, enquanto for presidente, não permitirá que nada avacalhe a imagem de Nossa Senhora Aparecida. Flávio Bolsonaro rebateu a onda dizendo que a fake news contra ele se assemelha à facada desferida contra seu pai, o ex-presidente Jair Bolsonaro. \nE o eleitor? Fica no meio deste tiroteio sem saber, por exemplo, o que os candidatos vão fazer de fato para resolver os problemas do país.",
+      "summary": "Flávio Bolsonaro segurando imagem de N. Senhora Aparecida. Lula segurando imagem de Nossa Senhora de Nazaré\nReprodução/ Redes Sociais e Ricardo Stuckert\nEm vez de propostas para saúde, educação e economia, a campanha eleitoral chega na reta final do primeiro turno discutindo religião, e o Supremo Tribunal Federal (STF) entrou na briga atropelando o Tribunal Superior Eleitoral (TSE). \nResultado: o presidente do STF, Edson Fachin, terá pela frente mais uma sessão com duas alas do tribunal se digladiando, não bastasse a sessão vergonhosa da semana passada discutindo quem deve ser investigado nas relações com Daniel Vorcaro.\nFachin pode levar caso Nossa Senhora Aparecida ao plenário do STF\nA fake news sobre Flávio Bolsonaro articular um projeto tirando de Nossa Senhora da Aparecida o título de padroeira do Brasil virou tema central de uma campanha da última semana de campanha. \nÉ fato que não há nenhuma declaração ou prova de que Bolsonaro esteja por trás de qualquer articulação com este objetivo, mas parlamentares bolsonaristas já defenderam a ideia.\nEmbates TSE e STF\nDe forma acertada, o ministro André Mendonça mandou retirar do ar postagens associando Flávio Bolsonaro à ideia. Errou ao ampliar a decisão de tal forma que acabou excluindo das redes sociais mensagens que não citavam o nome do candidato do PL à Presidência da República. \nEm seguida, advogados de defesa do humorista Antonio Tabet, um dos atingidos pela decisão de Mendonça, tomou um atalho e foi direto ao gabinete de Flávio Dino.\nO correto seria recorrer ao plenário do TSE. Preferiu ir ao STF. Dino derrubou a decisão de André Mendonça com os advogados de Tabet usando um caso relacionado ao ex-deputado Deltan Dallagnol. Um drible na Justiça Eleitoral. \nFlávio Bolsonaro recorreu ao mesmo artifício, usou uma ação no gabinete de Luiz Fux relacionada ao marco civil da internet e ganhou uma decisão.\nO presidente do TSE, Nunes Marques, foi a Fachin reclamar das interferências indevidas de ministros do STF, alegando que a Justiça Eleitoral está sendo fragilizada no meio do pleito deste ano. \nA reclamação de Nunes Marques teve como alvo não só Flávio Dino, mas também Gilmar Mendes, que fez críticas abertas a ministros do TSE. Agora, Fachin deve marcar o julgamento desta nova confusão para esta quarta-feira (30). Mais uma vez as alas pró-Alexandre de Moraes e a pró-Mendonça vão se enfrentar.\nFlávio tenta driblar a crise\nEnquanto isso, a campanha de Flávio Bolsonaro tenta sair de uma crise que poderia beneficiá-lo, por se tratar de uma fake news contra ele, mas que se virou contra sua candidatura quando o senador do PL decidiu atacar, sem provas, a CNBB. \nFlávio Bolsonaro disse que a entidade estava por trás da desinformação, gerando uma reação da entidade e seus aliados.\nLula entrou na onda e disse que, enquanto for presidente, não permitirá que nada avacalhe a imagem de Nossa Senhora Aparecida. Flávio Bolsonaro rebateu a onda dizendo que a fake news contra ele se assemelha à facada desferida contra seu pai, o ex-presidente Jair Bolsonaro. \nE o eleitor? Fica no meio deste tiroteio sem saber, por exemplo, o que os candidatos vão fazer de fato para resolver os problemas do país.",
       "tags": [
         "STF"
       ],
@@ -430,13 +227,51 @@
       "publishedRaw": "Tue, 29 Sep 2026 13:20:02 -0000"
     },
     {
-      "id": "88b8049042e1",
+      "id": "11f72fd0dc39",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: Lula x Flávio tem vaivém entre mulheres, empate técnico no Sudeste e vantagens mantidas em setembro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-lula-x-flavio2-turno-setembro.ghtml",
+      "summary": "Saiba o resultado da pesquisa Quaest de 28 de setembro\nPesquisa Quaest divulgada nesta segunda-feira (28) mostra Flávio Bolsonaro (PL) e Lula (PT) em empatados em eventual cenário de 2º turno. Os dois candidatos têm 42%, segundo o levantamento encomendado pela Globo e pelo jornal O Globo.\nNos recortes por segmentos, houve variação ao longo do último mês antes do 1º turno. Entre as mulheres, por exemplo, a vantagem de Lula sobre Flávio caiu de 10 para 3 pontos e voltou a 9. No Sudeste, Flávio ampliou a vantagem de 8 para 16 pontos, mas terminou o mês 6 pontos à frente, em empate técnico.\nLula também ampliou a vantagem entre eleitores de menor renda e católicos. Entre os que ganham até dois salários mínimos, a diferença passou de 22 para 26 pontos, com 55% a 29%. Entre os católicos, o cenário de liderança se manteve, mas Lula foi de 46% para 50% ao longo do mês.\nVeja as maiores variações nos grupos sociais ao longo de setembro:\nMulheres: Lula viu vantagem sobre Flávio ir de 10 pontos para 3 no meio do mês, quando voltou a recuperar a liderança no segmento e terminou o mês com 46% a 37%;\nSudeste: Flávio tinha 8 pontos a mais do que Lula, ampliou para 16 no meio do mês, mas viu o petista diminuir para 6 no levantamento mais recente, o que faz com que os dois estejam em empate técnico no limite da margem de erro, que é de 3 pontos;\nIdade: Flávio liderava entre os mais jovens (16 a 34 anos) com 13 pontos a mais, já Lula tinha 17 a mais entre os mais velhos (60 anos ou mais) no início do mês. Agora, eles empatam em todas as faixas etárias -- entre os de 35 a 59 anos, Lula segue numericamente à frente por 2 pontos;\nEnsino Fundamental: Lula subiu de 14 pontos para 23 pontos a mais do que Flávio: 54% a 31%;\nEnsino Superior: empate técnico (44% Flávio, 40% Lula) virou vantagem para o senador, que está 15 pontos à frente do petista: 49% a 34%.\nAté 2 salários mínimos: mais pobres ampliaram as intenções de voto em Lula, com diferença passando de 22 pontos (51% a 29%) para 26 (55% a 29%);\nBrancos: Flávio estava 14 pontos distante de Lula e viu o presidente diminuir para 8 pontos;\nPardos: vantagem de Lula para Flávio, que era de 11 pontos, abaixou para 6 e entrou no empate técnico no limite da margem de erro.\n❗O empate técnico acontece quando a diferença entre os candidatos está dentro do intervalo da margem de erro. Nos casos abaixo, essa margem varia conforme o tamanho do segmento, sempre para mais e para menos. Clique aqui para saber mais sobre margem de erro.\nO mês dos presidenciáveis\nAo longo do mês, Lula dividiu a agenda entre atos oficiais e de campanha, com maior presença no Sudeste na reta final. O presidente anunciou um reajuste do Bolsa Família, assinou uma medida provisória que proibiu as bets e os jogos de cassino online, como o “Tigrinho”, e discursou na Assembleia da ONU, onde defendeu a soberania nacional ao afirmar que “o Brasil não cabe no quintal de ninguém”.\nFlávio Bolsonaro, por sua vez, cumpriu agendas no Nordeste e anunciou a entrada do Brasil no Escudo das Américas, grupo criado pelo presidente americano Donald Trump para combater o crime organizado na América Latina. O candidato do PL também enfrentou uma polêmica envolvendo Nossa Senhora Aparecida.\nO Caso Master passou a ser explorado pelos dois candidatos com mais ênfase: Lula buscando associar Flávio a Daniel Vorcaro, enquanto o candidato do PL destaca as relações do banqueiro com políticos e ministros do STF e tenta vincular o presidente a Alexandre Moraes, que teria trocado mensagens com o banqueiro.\nA Quaest ouviu 2.004 pessoas de 16 anos ou mais entre os dias 24 e 27 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa é BR-06520/2026.\nVeja, a seguir, os dados detalhados da pesquisa de 2º turno entre Lula e Flávio Bolsonaro:\nPresidente Lula e o senador Flávio Bolsonaro\nRicardo Stuckert/Presidência da República; Vittor Sales\nPosicionamento político\nGrupos seguem com resultados similares desde o início do mês. Entre os eleitores independentes, o empate técnico persiste, mas a diferença numérica a favor de Flávio sobre Lula era de 3 pontos e agora está em 7. A margem de erro de 4 pontos. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Identificação política\nArte/g1\nRegião\nNo Sudeste, Flávio tinha vantagem de 8 pontos no início do mês, alcançou 16 no meio do mês e viu Lula empatar tecnicamente no levantamento desta semana: 43% a 37%. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Região\nArte/g1\nGênero\nLula perdeu vantagem para Flávio entre as mulheres no meio do mês, quando houve empate técnico entre os dois, e se recuperou na pesquisa mais recentes. O presidente manteve vantagem sobre o senador: 9 pontos. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Gênero\nArte/g1\nFaixa etária\nLula e Flávio estão tecnicamente empatados em todos os segmentos. Antes, Flávio liderava entre os mais jovens (16 a 34 anos), enquanto Lula, entre os mais velhos (60 anos ou mais). Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Idade\nArte/g1\nEscolaridade\nEntre os eleitores com ensino fundamental, a vantagem de Lula sobre Flávio passou de 14 para 23 pontos, de 49% a 35% para 54% a 31%. Entre os mais escolarizados, o empate técnico no começo do mês (44% para Flávio, 40% a Lula) virou vantagem de 15 pontos para Flávio (49% a 34%). Já entre aqueles que tem ensino médio completo, a vantagem de Flávio subiu de 10 pontos (36% a 46%) para 15 (49% a 34%). Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Escolaridade\nArte/g1\nRenda familiar\nOs mais pobres (até 2 SM) aumentaram as intenções de voto em Lula: a vantagem do presidente sobre Flávio passou de 22 pontos (51% a 29%) para 26 (55% a 29%). Entre os mais ricos (mais de 5 SM), mantiveram mais apoiadores de Flávio, com vantagem de 15 (50% a 35%) para 18 pontos (52% a 34%) entre o começo e o fim de setembro. Ambos seguem empatados no grupo que recebe Mais de 2 SM a 5 SM. Veja abaixo:\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Renda familiar\nArte/g1\nReligião\nCenário se manteve ao longo do mês: Flávio lidera entre evangélicos, e Lula, entre católicos.\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Religião\nArte/g1\nCor/Raça\nVantagem de Flávio sobre Lula entre eleitores brancos foi de 14 pontos (48% a 34%), em 2 de setembro, para 8 (45% a 37%) nesta semana. Já Lula viu os 18 pontos (49% a 31%) à frente do adversário entre pretos irem a 13 (47% a 34%). Entre eleitores pardos, eles empatam em 46% a Lula e 40%, Fláv -- antes, Lula estava 11 pontos à frente (48% a 37%).\nQuaest: intenções de voto no 2º turno entre Lula (PT) e Flávio Bolsonaro (PL) - Cor/Raça\nArte/g1",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "60a7124fe9d4",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Novo Nordisk pagará até US$2,6 bi à chinesa Hengrui por direitos de pílula para perda de peso",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/novo-nordisk-pagara-ate-us26-bi-a-chinesa-hengrui-por-direitos-de-pilula-para-perda-de-peso.shtml",
+      "summary": "A Novo Nordisk pagará até US$ 2,6 bilhões (R$ 13,6 bilhões) à Jiangsu Hengrui Pharmaceuticals pelos direitos sobre um medicamento experimental para perda de peso, ampliando seu portfólio de produtos por meio de um segundo acordo de tratamento com GLP-1 com um parceiro chinês.\nLeia mais (09/29/2026 - 11h06)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "29 Sep 2026 11:06:00 -0300"
+    },
+    {
+      "id": "b12c8ea9cb41",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Julgamento sobre Nossa Senhora divide STF em novo desafio a Fachin",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/julgamento-sobre-nossa-senhora-divide-stf-em-novo-desafio-a-fachin/",
-      "summary": "O presidente da Suprema Corte será colocado de novo à prova, com risco de novo desgaste de imagem",
+      "title": "Análise: Disputa eleitoral assumiu controle do STF",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-disputa-eleitoral-assumiu-controle-do-stf/",
+      "summary": "Analista de Política da CNN Clarissa Oliveira avalia, ao Live CNN, que decisões de ministros da Corte tornam contaminação eleitoral evidente",
       "tags": [
         "STF"
       ],
@@ -445,7 +280,64 @@
         "G1 - Política"
       ],
       "score": 80,
-      "publishedRaw": "Tue, 29 Sep 2026 12:55:58 +0000"
+      "publishedRaw": "Tue, 29 Sep 2026 13:44:19 +0000"
+    },
+    {
+      "id": "7ddcd2901863",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que ‘homem não gosta de tomar toque’, e ‘mulher aprende a tomar toque desde pequena’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-homem-nao-gosta-de-tomar-toque-e-mulher-aprende-a-tomar-toque-desde-pequena/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 29 Sep 2026 11:53:02 +0000"
+    },
+    {
+      "id": "560fa7a3dcd1",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: Lula é desaprovado por 53,6% dos eleitores e aprovado por 45,2%",
+      "link": "https://www.estadao.com.br/politica/eleicoes/atlasbloomberg-lula-e-desaprovado-por-536-dos-eleitores-e-aprovado-por-452/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "d4f8e92a715f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cartilha do PT orienta militantes a dizer que ‘Lula é católico’ em meio a fake news da padroeira",
+      "link": "https://www.estadao.com.br/politica/cartilha-do-pt-orienta-militantes-a-dizer-que-lula-e-catolico-em-meio-a-fake-news-da-padroeira/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Mon, 28 Sep 2026 21:23:00 +0000"
     },
     {
       "id": "2c5124b0af58",
@@ -502,6 +394,44 @@
       "publishedRaw": "Mon, 28 Sep 2026 21:37:25 -0000"
     },
     {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Mon, 28 Sep 2026 18:12:26 GMT"
+    },
+    {
+      "id": "0ee0e1844662",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Nossa Senhora Aparecida: como padroeira entrou na disputa entre Flávio e Lula",
+      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro desmentiu informação que circulava nas redes sociais de que pretenda retirar de Nossa Senhora o título de padroeira do Brasil; TSE pediu a derrubada de publicações que tratem a informação como verídica",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Mon, 28 Sep 2026 18:21:36 GMT"
+    },
+    {
       "id": "eb6a16cb37c4",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -548,21 +478,6 @@
       "crossOutlets": [],
       "score": 59,
       "publishedRaw": "Tue, 29 Sep 2026 11:23:08 -0000"
-    },
-    {
-      "id": "f34ae043eb9b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Inadimplência das famílias no crédito livre atinge novo recorde e chega a 8% em agosto, mostra BC",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/inadimplencia-das-familias-no-credito-livre-atinge-novo-recorde-e-chega-a-8-em-agosto-mostra-bc.shtml",
-      "summary": "A inadimplência das famílias no crédito livre, em que as condições são livremente pactuadas entre bancos e clientes, atingiu um novo recorde e chegou a 8% em agosto, segundo dados divulgados pelo Banco Central nesta terça-feira (29). É o maior nível da série histórica da autoridade monetária, iniciada em março de 2011.\nLeia mais (09/29/2026 - 09h30)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "29 Sep 2026 09:30:00 -0300"
     },
     {
       "id": "adff5dfd13cc",
