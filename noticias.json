@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:15:58.235940+00:00",
+  "generated_at": "2026-09-29T22:43:38.851186+00:00",
   "items": [
     {
       "id": "d1aff8e328fe",
@@ -18,7 +18,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -41,7 +40,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -65,7 +63,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -89,7 +86,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -114,7 +110,6 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -123,24 +118,110 @@
       "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
     },
     {
-      "id": "992517eed820",
-      "source": "Folha de São Paulo",
+      "id": "64f466cfa646",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Vereador pede voto para Tarcísio e Flávio Bolsonaro em encontro de habitação popular e é aplaudido por Ricardo Nunes",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/vereador-pede-voto-para-tarcisio-e-flavio-bolsonaro-em-encontro-de-habitacao-popular-e-e-aplaudido-por-ricardo-nunes.shtml",
-      "summary": "O vereador de São Paulo Nunes Peixeiro (MDB) pediu votos para Guilherme Derrite (PP), André do Prado (PL), Tarcísio de Freitas (Republicanos) e Flávio Bolsonaro (PL) em um encontro sobre programas da Cohab-SP (Companhia Metropolitana de Habitação de São Paulo) e da CDHU (Companhia de Desenvolvimento Habitacional e Urbano) realizado na segunda (28). Ele relacionou os candidatos à continuidade dos programas de moradia na capital paulista e foi aplaudido pelos presentes, incluindo o prefeito Ricardo Nunes (MDB).\nLeia mais (09/29/2026 - 17h58)",
+      "title": "Candidatos aos governos estaduais fazem debates a cinco dias das eleições",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/candidatos-aos-governos-estaduais-fazem-debates-a-cinco-dias-das-eleicoes/",
+      "summary": "Principais postulantes aos governos de 26 estados e do Distrito Federal se reúnem nesta noite para debater propostas antes do primeiro turno, marcado para o próximo domingo (4)",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Tue, 29 Sep 2026 22:30:52 +0000"
+    },
+    {
+      "id": "125f7a2b3987",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE estuda impedir suspeitos de terem ligação com organizações criminosas de disputarem eleições",
+      "link": "https://www.estadao.com.br/politica/tse-estuda-impedir-suspeitos-de-terem-ligacao-com-organizacoes-criminosas-de-disputarem-eleicoes/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Tue, 29 Sep 2026 22:01:05 +0000"
+    },
+    {
+      "id": "1ed9a0e93844",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "EUA acionam Forças Armadas contra ameaças estrangeiras nas eleições",
+      "link": "https://www.poder360.com.br/poder-internacional/eua-acionam-forcas-armadas-contra-ameacas-estrangeiras-nas-eleicoes/",
+      "summary": "Eleições de meio de mandato serão realizadas em 3 de novembro e definirão novo Congresso norte-americano",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
+      "score": 88,
+      "publishedRaw": "Tue, 29 Sep 2026 21:37:31 +0000"
+    },
+    {
+      "id": "13b805f0e285",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
+      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
       "score": 87,
-      "publishedRaw": "29 Sep 2026 17:58:00 -0300"
+      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
+    },
+    {
+      "id": "92f0a35f4471",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanhas de Lula e Flávio travam 333 disputas diretas no TSE",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/campanhas-de-lula-e-flavio-travam-333-disputas-diretas-no-tse/",
+      "summary": "Levantamento de Julliana Lopes para o Hora H aponta aumento de oito ações por dia em relação às eleições de 2022, quando o embate era entre Lula e Jair Bolsonaro",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Tue, 29 Sep 2026 22:22:14 +0000"
     },
     {
       "id": "2d1951e3cdec",
@@ -165,26 +246,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 20:18:06 +0000"
     },
     {
-      "id": "99ee47c4040f",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que é a CNBB, entidade católica criticada por Flávio Bolsonaro",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kx20nx8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Candidato à Presidência disse que entidade teria ajudado o PT a espalhar notícias falsas sobre ele e sua relação com a santa que é padroeira do Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Mon, 28 Sep 2026 18:47:03 GMT"
-    },
-    {
       "id": "518a200efe97",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -207,24 +268,24 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:25:31 +0000"
     },
     {
-      "id": "14d156be4aeb",
-      "source": "G1 - Política",
+      "id": "13b805f0e285",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eduardo Bolsonaro diz que Simone Tebet 'se prostitui' por cargos, e candidata reage: 'covarde'; TRE determina remoção de postagem",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/eduardo-bolsonaro-insinua-que-simone-tebet-se-prostitui-por-cargos-e-candidata-reage-covarde.ghtml",
-      "summary": "Eduardo Bolsonaro insinua que Simone Tebet ‘se prostitui’ por cargos, e candidata reage: ‘covarde’\nAgência Brasil e Bruno Spada/Câmara dos Deputados\nA candidata ao Senado por São Paulo Simone Tebet (PSB) afirmou que vai processar Eduardo Bolsonaro (PL) após o ex-deputado federal insinuar que ela “se prostitui” por cargos políticos. Tebet chamou Eduardo de “covarde” e disse que a declaração configura violência política de gênero. Marina Silva (Rede), que também disputa uma das duas vagas ao Senado por São Paulo, demonstrou apoio à adversária.\nO episódio ocorreu após Tebet criticar, nesta segunda-feira (28), a desistência de Ricardo Salles (Novo) da candidatura ao Senado por São Paulo. A ex-ministra afirmou que Salles havia “se rendido ao Centrão” depois de abandonar a disputa e declarar apoio a André do Prado (PL) e Guilherme Derrite (PP).\nEduardo Bolsonaro rebateu a declaração em uma publicação nas redes sociais. O ex-deputado afirmou que Salles não havia se rendido ao Centrão, mas reconhecido que a divisão dos votos da direita entre três candidatos poderia prejudicar o grupo.\nNa sequência, Eduardo chamou Tebet de “vassala” do presidente Luiz Inácio Lula da Silva (PT) e fez a insinuação. “Quando passa a eleição, faz tudo ao contrário. Se prostitui por cargo, ministério etc.”, escreveu.\nInitial plugin text\nTRE determina remoção da postagem\nApós repercussão da publicação de Eduardo Bolsonaro nas redes sociais, o Tribunal Regional Eleitoral (TRE) determinou a remoção da publicação com ataques à honra da candidata.\nSimone Tebet entrou com a representação eleitoral contra Eduardo Bolsonaro e o Facebook Serviços Online do Brasil, responsável pela plataforma.\nO juiz Ronnie Herbert Barros Soares, relator do caso, concedeu o pedido de tutela de urgência. Na prática, isso significa que o tribunal determinou uma medida imediata, antes de o processo ser julgado definitivamente.\nO juiz determinou que o conteúdo seja removido em até 24 horas. Caso a determinação não seja cumprida, foi estabelecida uma multa de R$ 1 mil por dia, limitada a 30 dias. Portanto, a multa pode chegar a R$ 30 mil.\nTebet diz que vai à Justiça\nEm nota, a campanha de Simone Tebet afirmou que vai adotar “todas as medidas jurídicas cabíveis” contra Eduardo Bolsonaro. A equipe informou que pretende acionar a Justiça Eleitoral para pedir a “imediata remoção” da publicação e encaminhar uma notícia-crime ao Ministério Público Eleitoral por violência política de gênero.\nTebet também reagiu diretamente à declaração e chamou Eduardo Bolsonaro de “covarde”.\n“É particularmente grave e causa profunda repulsa que, em pleno processo eleitoral, se pretenda desqualificar uma candidata por meio de uma insinuação de natureza sexual e profundamente degradante”, afirmou a campanha.\n“É um covarde que ataca protegido pela distância e por um exército digital propagador de discurso de ódio. Essa é a indigência do debate político que não pode prosperar”, acrescentou.\nPostagem de Simone Tebet sobre declaração de Eduardo Bolsonaro\nReprodução/X\nPolíticos demonstram apoio\nMarina Silva, candidata ao Senado por São Paulo pelo Rede, demonstrou apoio a Tebet após o ataque. As duas candidatas têm feito campanha conjunta na disputa pelas duas vagas destinadas ao estado no Senado.\nMais cedo, também nesta segunda-feira (28), Marina havia criticado a desistência de Ricardo Salles. Em publicação nas redes sociais, ela afirmou que a decisão “desrespeita seus eleitores” e classificou a movimentação como um “vale-tudo” para tentar conter o avanço das duas candidatas mulheres do campo progressista.\nFernando Haddad (PT) e o vice-presidente, Geraldo Alckmin, também se manifestaram a favor de Tebet (veja abaixo).\nO episódio entre Eduardo Bolsonaro e Tebet ocorreu no mesmo dia em que Salles anunciou a desistência da candidatura, seis dias antes do primeiro turno das eleições.\nPostagem de Marina Silva após declaração de Eduardo Bolsonaro sobre Simone Tebet\nReprodução/X\nFernando Haddad prestou solidariedade a Simone Tebet\nReprodução/X\nGeraldo Alckmin demonstra apoio a Simone Tebet\nReprodução/X\nDesistência de Salles\nRicardo Salles anunciou nesta segunda-feira (28) que não disputará mais uma das duas vagas ao Senado por São Paulo. Ao lado do governador Tarcísio de Freitas (Republicanos), ele declarou apoio a André do Prado (PL) e Guilherme Derrite (PP).\nA decisão ocorreu depois de uma campanha em que Salles havia feito críticas a André do Prado e afirmado, em diferentes ocasiões, que o candidato do PL era ligado ao Centrão.\nApós a desistência, Tebet afirmou que Salles havia se “rendido ao Centrão”. Eduardo Bolsonaro contestou a declaração e defendeu a decisão do ex-ministro do Meio Ambiente.",
+      "category": "Economia",
+      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
+      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
       "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 86,
-      "publishedRaw": "Tue, 29 Sep 2026 20:47:26 -0000"
+      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
     },
     {
       "id": "7350144520ca",
@@ -233,7 +294,7 @@
       "category": "Política",
       "title": "Quaest: Flávio lidera no RJ e em SP, e Lula fica à frente em PE; há empate técnico em MG e no DF",
       "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-presidente-estados-29-setembro.ghtml",
-      "summary": "Pesquisas Quaest divulgadas nesta terça-feira (29) mostram como está a corrida presidencial em São Paulo, Minas Gerais, Rio de Janeiro, Pernambuco e no Distrito Federal a cinco dias do 1º turno. \nSP, MG e RJ são os estados com os maiores números de eleitores aptos a votar.\n O que as pesquisas de 1º turno apontam\nSão Paulo: Flávio Bolsonaro (PL) lidera, com 6 pontos de vantagem para Lula (PT).\nMinas Gerais: há empate técnico, com Lula numericamente à frente.\nRio de Janeiro: Flávio Bolsonaro lidera, com 7 pontos de vantagem.\nPernambuco: Lula lidera, com 38 pontos de vantagem.\nDistrito Federal: há empate técnico no limite da margem de erro, com Flávio Bolsonaro numericamente à frente.\n📋Os levantamentos foram encomendados pela Globo e pelo jornal O Globo. As margens de erro são de dois pontos percentuais, para mais ou para menos, na pesquisa de São Paulo, e de três pontos percentuais nos demais estados.\nSaiba mais: Quem são os candidatos nas eleições de 2026?\nAgora no g1\nSão Paulo: Flávio Bolsonaro 36% x 30% Lula\nFlávio Bolsonaro (PL): 36% (eram 34% em 23 de setembro)\nLula (PT): 30% (eram 31%)\nAugusto Cury (Avante): 5% (eram 7%)\nRonaldo Caiado (PSD): 4% (eram 4%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 1% (era 1%)\nIndecisos: 12% (eram 11%)\nEm branco/nulo/não vai votar: 9% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio Bolsonaro supera Lula por 43% a 35%.\nA margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.800 pessoas em São Paulo entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nMinas Gerais: Lula 35% x 31% Flávio Bolsonaro\nLula (PT): 35% (eram 35% em 23 de setembro)\nFlávio Bolsonaro (PL): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 5% (eram 5%)\nRonaldo Caiado (PSD): 3% (eram 4%)\nRenan Santos (Missão): 3% (eram 2%)\nRomeu Zema (Novo): 3% (eram 2%)\nIndecisos: 14% (eram 13%)\nBranco/nulo/não vai votar: 6% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, também há empate técnico: Lula tem 41%, contra 40% de Flávio Bolsonaro.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.506 pessoas em Minas Gerais entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nRio de Janeiro: Flávio Bolsonaro 38% x 31% Lula\nFlávio Bolsonaro (PL): 38% (eram 37% em 23 de setembro)\nLula (PT): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 4% (eram 4%)\nRonaldo Caiado (PSD): 2% (eram 3%)\nRenan Santos (Missão): 2% (eram 2%)\nSamara Martins (UP): 1% (não pontuou)\nIndecisos: 11% (eram 12%)\nBranco/nulo/não vai votar: 11% (eram 10%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 44% a 34%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas no Rio de Janeiro entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-03534/2026.\nPernambuco: Lula 58% x 20% Flávio Bolsonaro\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Lula supera Flávio por 61% a 24%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas em Pernambuco entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-08289/2026.\nDistrito Federal: Flávio Bolsonaro 38% x 32% Lula\nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nIndecisos: 8% (eram 8%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 48% a 37%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.104 pessoas no Distrito Federal entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-00531/2026.",
+      "summary": "Pesquisas Quaest divulgadas nesta terça-feira (29) mostram como está a corrida presidencial em São Paulo, Minas Gerais, Rio de Janeiro, Pernambuco e no Distrito Federal a cinco dias do 1º turno. \nSP, MG e RJ são os estados com os maiores números de eleitores aptos a votar.\n O que as pesquisas de 1º turno apontam\nSão Paulo: Flávio Bolsonaro (PL) lidera, com 6 pontos de vantagem para Lula (PT).\nMinas Gerais: há empate técnico, com Lula numericamente à frente.\nRio de Janeiro: Flávio Bolsonaro lidera, com 7 pontos de vantagem.\nPernambuco: Lula lidera, com 38 pontos de vantagem.\nDistrito Federal: há empate técnico no limite da margem de erro, com Flávio Bolsonaro numericamente à frente.\n📋Os levantamentos foram encomendados pela Globo. As margens de erro são de dois pontos percentuais, para mais ou para menos, na pesquisa de São Paulo, e de três pontos percentuais nos demais estados.\nSaiba mais: Quem são os candidatos nas eleições de 2026?\nVeja dados detalhados de todas as pesquisas Quaest e Datafolha\nAgora no g1\nSão Paulo: Flávio Bolsonaro 36% x 30% Lula\nFlávio Bolsonaro (PL): 36% (eram 34% em 23 de setembro)\nLula (PT): 30% (eram 31%)\nAugusto Cury (Avante): 5% (eram 7%)\nRonaldo Caiado (PSD): 4% (eram 4%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 1% (era 1%)\nIndecisos: 12% (eram 11%)\nEm branco/nulo/não vai votar: 9% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio Bolsonaro supera Lula por 43% a 35%.\nA margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.800 pessoas em São Paulo entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nMinas Gerais: Lula 35% x 31% Flávio Bolsonaro\nLula (PT): 35% (eram 35% em 23 de setembro)\nFlávio Bolsonaro (PL): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 5% (eram 5%)\nRonaldo Caiado (PSD): 3% (eram 4%)\nRenan Santos (Missão): 3% (eram 2%)\nRomeu Zema (Novo): 3% (eram 2%)\nIndecisos: 14% (eram 13%)\nBranco/nulo/não vai votar: 6% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, também há empate técnico: Lula tem 41%, contra 40% de Flávio Bolsonaro.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.506 pessoas em Minas Gerais entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nRio de Janeiro: Flávio Bolsonaro 38% x 31% Lula\nFlávio Bolsonaro (PL): 38% (eram 37% em 23 de setembro)\nLula (PT): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 4% (eram 4%)\nRonaldo Caiado (PSD): 2% (eram 3%)\nRenan Santos (Missão): 2% (eram 2%)\nSamara Martins (UP): 1% (não pontuou)\nIndecisos: 11% (eram 12%)\nBranco/nulo/não vai votar: 11% (eram 10%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 44% a 34%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas no Rio de Janeiro entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-03534/2026.\nPernambuco: Lula 58% x 20% Flávio Bolsonaro\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Lula supera Flávio por 61% a 24%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas em Pernambuco entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-08289/2026.\nDistrito Federal: Flávio Bolsonaro 38% x 32% Lula\nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nIndecisos: 8% (eram 8%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 48% a 37%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.104 pessoas no Distrito Federal entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-00531/2026.\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales",
       "tags": [
         "Lula"
       ],
@@ -275,7 +336,7 @@
       "category": "Política",
       "title": "Quaest no DF: Flávio, 38%; Lula, 32%; Caiado, 8%; Cury, 5%; Renan, 3%",
       "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/29/quaest-df-presidente-29-setembro.ghtml",
-      "summary": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nPesquisa Quaest divulgada nesta terça-feira (29) mostra como está a disputa pela Presidência da República entre os eleitores do Distrito Federal. O levantamento foi encomendado pela Globo. \nVeja, abaixo, os resultados da pesquisa estimulada, em que a Quaest mostra a lista de candidatos aos eleitores entrevistados. \nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 0% (eram 1%)\nSamara Martins (UP): 0% (eram 0%)\nRui Costa Pimenta (PCO): 0% (eram 0%)\nLeonardo Avalanche (PRTB): 0% (eram 0%)\nVeterinário Wilson Grassi (Democrata): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (eram 0%)\nClariana Barão (DC): 0% (eram 0%)\nHertz Dias (PSTU): 0% (eram 0%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nIndecisos: 8% (eram 8%)\nPara 86% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 14% dizem que ainda podem mudar o voto até as eleições, em 4 de outubro. \nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 25 e 28 de setembro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Os números de registro da pesquisa são DF-02515/2026 e BR-00531/2026.\nSegundo turno\nPela terceira vez, a Quaest questionou os eleitores do Distrito Federal sobre um eventual segundo turno entre Lula (PT) e Flávio Bolsonaro (PL). Veja o resultado:\nFlávio Bolsonaro (PL): 48% (eram 49%)\nLula (PT): 33% (eram 38%)\nBranco/nulo/não vai votar: 12% (eram 11%)\nIndecisos: 3% (eram 1%)\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales\nMaior 'medo' na eleição\nAinda sobre a eleição presidencial deste ano, a Quaest voltou a perguntar aos eleitores do DF qual era o principal \"medo\" deles em relação ao resultado das urnas.\nVeja como foram as respostas:\nMais um mandato de Lula: 49% (eram 46%)\nA volta da família Bolsonaro ao poder: 37% (eram 39%)\nTenho medo dos dois (espontânea): 7% (eram 8%)\nNão tenho medo de nenhum dos dois (espontânea): 3% (eram 3%)\nNão souberam ou não quiseram responder: 4% (eram 4%)\nLeia mais notícias sobre a região no g1 DF.",
+      "summary": "Lula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nPesquisa Quaest divulgada nesta terça-feira (29) mostra como está a disputa pela Presidência da República entre os eleitores do Distrito Federal. O levantamento foi encomendado pela Globo. \nVeja, abaixo, os resultados da pesquisa estimulada, em que a Quaest mostra a lista de candidatos aos eleitores entrevistados. \nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 0% (eram 1%)\nSamara Martins (UP): 0% (eram 0%)\nRui Costa Pimenta (PCO): 0% (eram 0%)\nLeonardo Avalanche (PRTB): 0% (eram 0%)\nVeterinário Wilson Grassi (Democrata): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (eram 0%)\nClariana Barão (DC): 0% (eram 0%)\nHertz Dias (PSTU): 0% (eram 0%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nIndecisos: 8% (eram 8%)\nPara 86% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 14% dizem que ainda podem mudar o voto até as eleições, em 4 de outubro. \nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 25 e 28 de setembro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Os números de registro da pesquisa são DF-02515/2026 e BR-00531/2026.\nSegundo turno\nPela terceira vez, a Quaest questionou os eleitores do Distrito Federal sobre um eventual segundo turno entre Lula (PT) e Flávio Bolsonaro (PL). Veja o resultado:\nFlávio Bolsonaro (PL): 48% (eram 49%)\nLula (PT): 37% (eram 38%)\nBranco/nulo/não vai votar: 12% (eram 11%)\nIndecisos: 3% (eram 1%)\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales\nMaior 'medo' na eleição\nAinda sobre a eleição presidencial deste ano, a Quaest voltou a perguntar aos eleitores do DF qual era o principal \"medo\" deles em relação ao resultado das urnas.\nVeja como foram as respostas:\nMais um mandato de Lula: 49% (eram 46%)\nA volta da família Bolsonaro ao poder: 37% (eram 39%)\nTenho medo dos dois (espontânea): 7% (eram 8%)\nNão tenho medo de nenhum dos dois (espontânea): 3% (eram 3%)\nNão souberam ou não quiseram responder: 4% (eram 4%)\nLeia mais notícias sobre a região no g1 DF.",
       "tags": [
         "Lula"
       ],
@@ -288,27 +349,6 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:13:39 -0000"
-    },
-    {
-      "id": "2fe7ac20ef48",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Flávio tem 36% no 1º turno em SP; Lula, 30%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-36-no-1o-turno-em-sp-lula-30/",
-      "summary": "Pesquisa ouviu 1.800 eleitores do estado, entre os dias 25 e 28 de setembro, por meio de entrevista presencial; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 21:40:33 +0000"
     },
     {
       "id": "d6342a76f328",
@@ -437,59 +477,23 @@
       "publishedRaw": "Tue, 29 Sep 2026 16:25:04 GMT"
     },
     {
-      "id": "1ed9a0e93844",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "EUA acionam Forças Armadas contra ameaças estrangeiras nas eleições",
-      "link": "https://www.poder360.com.br/poder-internacional/eua-acionam-forcas-armadas-contra-ameacas-estrangeiras-nas-eleicoes/",
-      "summary": "Eleições de meio de mandato serão realizadas em 3 de novembro e definirão novo Congresso norte-americano",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 21:37:31 +0000"
-    },
-    {
-      "id": "13b805f0e285",
+      "id": "14d156be4aeb",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
+      "title": "Eduardo Bolsonaro diz que Simone Tebet 'se prostitui' por cargos, e candidata reage: 'covarde'; TRE determina remoção de postagem",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/eduardo-bolsonaro-insinua-que-simone-tebet-se-prostitui-por-cargos-e-candidata-reage-covarde.ghtml",
+      "summary": "Eduardo Bolsonaro insinua que Simone Tebet ‘se prostitui’ por cargos, e candidata reage: ‘covarde’\nAgência Brasil e Bruno Spada/Câmara dos Deputados\nA candidata ao Senado por São Paulo Simone Tebet (PSB) afirmou que vai processar Eduardo Bolsonaro (PL) após o ex-deputado federal insinuar que ela “se prostitui” por cargos políticos. Tebet chamou Eduardo de “covarde” e disse que a declaração configura violência política de gênero. Marina Silva (Rede), que também disputa uma das duas vagas ao Senado por São Paulo, demonstrou apoio à adversária.\nO episódio ocorreu após Tebet criticar, nesta segunda-feira (28), a desistência de Ricardo Salles (Novo) da candidatura ao Senado por São Paulo. A ex-ministra afirmou que Salles havia “se rendido ao Centrão” depois de abandonar a disputa e declarar apoio a André do Prado (PL) e Guilherme Derrite (PP).\nEduardo Bolsonaro rebateu a declaração em uma publicação nas redes sociais. O ex-deputado afirmou que Salles não havia se rendido ao Centrão, mas reconhecido que a divisão dos votos da direita entre três candidatos poderia prejudicar o grupo.\nNa sequência, Eduardo chamou Tebet de “vassala” do presidente Luiz Inácio Lula da Silva (PT) e fez a insinuação. “Quando passa a eleição, faz tudo ao contrário. Se prostitui por cargo, ministério etc.”, escreveu.\nInitial plugin text\nTRE determina remoção da postagem\nApós repercussão da publicação de Eduardo Bolsonaro nas redes sociais, o Tribunal Regional Eleitoral (TRE) determinou a remoção da publicação com ataques à honra da candidata.\nSimone Tebet entrou com a representação eleitoral contra Eduardo Bolsonaro e o Facebook Serviços Online do Brasil, responsável pela plataforma.\nO juiz Ronnie Herbert Barros Soares, relator do caso, concedeu o pedido de tutela de urgência. Na prática, isso significa que o tribunal determinou uma medida imediata, antes de o processo ser julgado definitivamente.\nO juiz determinou que o conteúdo seja removido em até 24 horas. Caso a determinação não seja cumprida, foi estabelecida uma multa de R$ 1 mil por dia, limitada a 30 dias. Portanto, a multa pode chegar a R$ 30 mil.\nTebet diz que vai à Justiça\nEm nota, a campanha de Simone Tebet afirmou que vai adotar “todas as medidas jurídicas cabíveis” contra Eduardo Bolsonaro. A equipe informou que pretende acionar a Justiça Eleitoral para pedir a “imediata remoção” da publicação e encaminhar uma notícia-crime ao Ministério Público Eleitoral por violência política de gênero.\nTebet também reagiu diretamente à declaração e chamou Eduardo Bolsonaro de “covarde”.\n“É particularmente grave e causa profunda repulsa que, em pleno processo eleitoral, se pretenda desqualificar uma candidata por meio de uma insinuação de natureza sexual e profundamente degradante”, afirmou a campanha.\n“É um covarde que ataca protegido pela distância e por um exército digital propagador de discurso de ódio. Essa é a indigência do debate político que não pode prosperar”, acrescentou.\nPostagem de Simone Tebet sobre declaração de Eduardo Bolsonaro\nReprodução/X\nPolíticos demonstram apoio\nMarina Silva, candidata ao Senado por São Paulo pelo Rede, demonstrou apoio a Tebet após o ataque. As duas candidatas têm feito campanha conjunta na disputa pelas duas vagas destinadas ao estado no Senado.\nMais cedo, também nesta segunda-feira (28), Marina havia criticado a desistência de Ricardo Salles. Em publicação nas redes sociais, ela afirmou que a decisão “desrespeita seus eleitores” e classificou a movimentação como um “vale-tudo” para tentar conter o avanço das duas candidatas mulheres do campo progressista.\nFernando Haddad (PT) e o vice-presidente, Geraldo Alckmin, também se manifestaram a favor de Tebet (veja abaixo).\nO episódio entre Eduardo Bolsonaro e Tebet ocorreu no mesmo dia em que Salles anunciou a desistência da candidatura, seis dias antes do primeiro turno das eleições.\nPostagem de Marina Silva após declaração de Eduardo Bolsonaro sobre Simone Tebet\nReprodução/X\nFernando Haddad prestou solidariedade a Simone Tebet\nReprodução/X\nGeraldo Alckmin demonstra apoio a Simone Tebet\nReprodução/X\nDesistência de Salles\nRicardo Salles anunciou nesta segunda-feira (28) que não disputará mais uma das duas vagas ao Senado por São Paulo. Ao lado do governador Tarcísio de Freitas (Republicanos), ele declarou apoio a André do Prado (PL) e Guilherme Derrite (PP).\nA decisão ocorreu depois de uma campanha em que Salles havia feito críticas a André do Prado e afirmado, em diferentes ocasiões, que o candidato do PL era ligado ao Centrão.\nApós a desistência, Tebet afirmou que Salles havia se “rendido ao Centrão”. Eduardo Bolsonaro contestou a declaração e defendeu a decisão do ex-ministro do Meio Ambiente.",
       "tags": [
-        "eleições"
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Poder360"
+        "Estadão"
       ],
-      "score": 78,
-      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
-    },
-    {
-      "id": "13b805f0e285",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
+      "score": 81,
+      "publishedRaw": "Tue, 29 Sep 2026 20:47:26 -0000"
     },
     {
       "id": "71d597111627",
@@ -503,10 +507,29 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "29 Sep 2026 18:17:00 -0300"
+    },
+    {
+      "id": "ec12ad7b4e49",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin adia debate no plenário do STF sobre fake news de Nossa Senhora",
+      "link": "https://www.cnnbrasil.com.br/politica/fachin-adia-debate-no-stf-sobre-fake-news-de-nossa-senhora-aparecida/",
+      "summary": "Presidente do Supremo cogitou incluir assunto na sessão desta quarta-feira (30), mas possibilidade de embate tenso dissuadiu ministro",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 29 Sep 2026 22:07:21 +0000"
     },
     {
       "id": "b273e858c786",
@@ -520,9 +543,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Tue, 29 Sep 2026 21:00:33 +0000"
     },
     {
@@ -537,9 +561,10 @@
         "STF"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
     },
     {
@@ -557,21 +582,6 @@
       "crossOutlets": [],
       "score": 66,
       "publishedRaw": "Tue, 29 Sep 2026 14:39:45 +0000"
-    },
-    {
-      "id": "058dce3f2f87",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TRE-RJ mantém por unanimidade indeferimento da candidatura de Garotinho",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tre-rj-mantem-por-unanimidade-indeferimento-da-candidatura-de-garotinho/",
-      "summary": "Candidato afirma que vai recorrer ao TSE da decisão e seguirá cumprindo agenda eleitoral",
-      "tags": [
-        "candidatura"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Tue, 29 Sep 2026 21:36:09 +0000"
     }
   ]
 }
