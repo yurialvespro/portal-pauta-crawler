@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-09-29T11:45:23.560979+00:00",
+  "generated_at": "2026-09-29T12:21:39.264631+00:00",
   "items": [
-    {
-      "id": "9fc3bb87d734",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 45,3% contra 42,2% de Flávio Bolsonaro no primeiro turno, diz pesquisa Atlas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-453-contra-422-de-flavio-no-primeiro-turno-diz-atlas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "ddd5a8df4ac2",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro",
-      "link": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
-      "summary": "Como os EUA passaram de primeiros a reconhecer a vitória de Lula, em 2022, a serem acusados pelo governo brasileiro de tentar interferir na eleição atual, e o que o Planalto tem feito nos bastidores para esfriar a crise.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
-    },
     {
       "id": "0fa95b9014b0",
       "source": "G1 - Política",
@@ -67,9 +19,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 93,
       "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
@@ -92,12 +42,54 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
       "score": 93,
       "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "9fc3bb87d734",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 45,3% contra 42,2% de Flávio Bolsonaro no primeiro turno, diz pesquisa Atlas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-453-contra-422-de-flavio-no-primeiro-turno-diz-atlas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 93,
+      "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "ddd5a8df4ac2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro",
+      "link": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
+      "summary": "Como os EUA passaram de primeiros a reconhecer a vitória de Lula, em 2022, a serem acusados pelo governo brasileiro de tentar interferir na eleição atual, e o que o Planalto tem feito nos bastidores para esfriar a crise.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 93,
+      "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
     },
     {
       "id": "8bcde5b397dd",
@@ -116,36 +108,11 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
-    },
-    {
-      "id": "266256dac637",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Entidades que representam bets pedem ao STF suspensão da MP de Lula que proíbe apostas online",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/28/entidades-que-representam-bets-pedem-ao-stf-suspensao-da-mp-de-lula-que-proibe-apostas-online.ghtml",
-      "summary": "Empresas de bets pedem para STF derrubar suspensão\nA Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram nesta segunda-feira (28) um pedido, no Supremo Tribunal Federal (STF), para suspender os efeitos da medida provisória de Lula que determinou a proibição imediata da exploração, oferta, intermediação e publicidade das bets e dos cassinos online no país.\nAs entidades argumentam que a MP foi publicada sem demonstração de urgência. E que o próprio Executivo havia enviado ao Congresso o projeto de lei que resultou no marco regulatório do setor de 2023, destacando, à época, os benefícios econômicos da legalização.\nAs associações pedem que o STF suspenda integralmente a MP até a deliberação definitiva da medida pelo Congresso ou até o julgamento de ações em curso na Corte, preservando a vigência da legislação anterior e o funcionamento das empresas autorizadas.\n🔎Na última sexta-feira (25), às vésperas do primeiro turno das eleições, o presidente Lula, que é candidato a mais um mandato no Palácio do Planalto, anunciou a proibição total de apostas de quota fixa no país, as chamadas bets. A vedação inclui também jogos online e cassinos virtuais no país, como por exemplo, o \"Jogo do Tigrinho\".\n🔎🔎Lula também enviou ao Congresso um projeto de lei que estabelece penas para quem explorar, operar ou divulgar as bets e os cassinos virtuais. Ao tomar as medidas, o petista mencionou o endividamento de famílias e o vício de apostadores em jogos de azar.\nLEIA MAIS:\nBets foram legalizadas em 2018 e regulamentadas em 2023; histórico\nApostas e jogo do tigrinho proibidos: o que você precisa saber\nGoverno arrecadou R$ 15,3 bilhões com bets desde 2025\nGoverno anuncia proibição das bets no Brasil 3 anos após ter regulamentado as empresas de apostas\nJornal Nacional/ Reprodução\nNo pedido endereçado ao ministro Luiz Fux, que relatas ações sobre o tema no STF, as associações sustentam que a interrupção abrupta viola a segurança jurídica. \nAs operadoras legalizadas afirmam que investiram dezenas de milhões de reais em taxas de outorga (permissões), fixadas em R$ 30 milhões por licença, constituíram reservas financeiras e cumpriram exigências complexas de conformidade e governança para operar no mercado formal, sob a supervisão do Executivo.\nOutro ponto levantado pelas entidades é a ausência de estimativa de impacto orçamentário e financeiro da MP, além da falta de estudos técnicos prévios que dimensionassem:\nos custos da interrupção para a arrecadação tributária; \npara o financiamento de políticas públicas nas áreas de esporte, turismo e seguridade social; e\npara os postos de trabalho formais do setor.   \nA ANJL e o IBJR também alertam para o risco de migração em massa dos apostadores para o mercado clandestino e não regulado, o qual já representaria uma fatia expressiva das apostas no país.\nInconstitucionalidade da MP\nEm outra frente, a Associação Nacional pela Segurança Jurídica dos Jogos e Apostas (Anseja) apresentou uma ação que pede ao STF a declaração da inconstitucionalidade da MP e, consequentemente, a derrubada da medida. \nNo pedido, além de citar a violação da segurança jurídica, a Anseja alega:\na falta de urgência para edição da MP pelo governo; \nque há ausência de impacto financeiro da medida; e\nque houve a extinção sem devolução dos valores pagos por outorga;\nGoverno quer ser ouvido no caso\nEm outra frente, a Advocacia-Geral da União (AGU) solicitou ao Supremo Tribunal Federal (STF) um prazo de 72 horas para que a Presidência e a própria AGU possam se manifestar sobre o pedido apresentado pelas entidades do setor de apostas. \nA solicitação endereçada a Fux tem o objetivo de assegurar que o governo seja ouvido antes de eventuais decisões sobre os pedidos das entidades.\nPara o governo Lula, entre outras consequências, a liberação das bets gera:\nagravamento de problemas de saúde mental;\nsobrecarga do Sistema Único de Saúde (SUS);\nendividamento e perda de renda das famílias;\nimpacto sobre o consumo e a atividade econômica; e\nimpacto desproporcional sobre a população de menor renda.",
-      "tags": [
-        "STF",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Mon, 28 Sep 2026 13:55:06 -0000"
     },
     {
       "id": "9c5553de1124",
@@ -164,11 +131,9 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 89,
+      "score": 88,
       "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
     },
     {
@@ -186,11 +151,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 03:00:00 -0000"
     },
     {
@@ -208,11 +171,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 01:14:51 -0000"
     },
     {
@@ -230,21 +191,19 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "29 Sep 2026 07:00:00 -0300"
     },
     {
-      "id": "a8fe69ece827",
+      "id": "62437b4d3dd8",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Gerp: governo Lula é desaprovado por 51% dos eleitores; 44% aprovam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-governo-lula-e-desaprovado-por-51-dos-eleitores-44-aprovam/",
-      "summary": "Levantamento do instituto Gerp ouviu 2.400 eleitores por telefone em todo o território nacional com margem de erro de dois pontos",
+      "title": "Real Time Big Data: Em SP, Flávio tem 51% no 2º turno; Lula, 43%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-em-sp-flavio-tem-51-no-2o-turno-lula-43/",
+      "summary": "Foram ouvidos 2.000 eleitores de São Paulo entre os dias 24 e 28 de setembro; margem de erro é de dois pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
@@ -252,78 +211,30 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:04:21 +0000"
+      "score": 84,
+      "publishedRaw": "Tue, 29 Sep 2026 12:19:33 +0000"
     },
     {
-      "id": "bea45f3996c3",
-      "source": "CNN Brasil",
+      "id": "7ddcd2901863",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Gerp: Lula é rejeitado por 50% dos eleitores; Flávio, por 42%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/rejeicao-de-lula-vai-a-50-flavio-bolsonaro-atinge-42/",
-      "summary": "Levantamento do instituto Gerp ouviu 2.400 eleitores por telefone em todo o território nacional com margem de erro de dois pontos",
+      "title": "Lula diz que ‘homem não gosta de tomar toque’, e ‘mulher aprende a tomar toque desde pequena’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-homem-nao-gosta-de-tomar-toque-e-mulher-aprende-a-tomar-toque-desde-pequena/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:03:36 +0000"
-    },
-    {
-      "id": "fbefdc7c65fc",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gerp: Flávio tem 42% das intenções de voto no 1º turno; Lula, 40%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-42-das-intencoes-de-voto-no-1o-turno-lula-40/",
-      "summary": "Pesquisa ouviu 2.400 pessoas por telefone, em todo o território nacional, entre 24 e 28 de setembro; margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:02:35 +0000"
-    },
-    {
-      "id": "0a24814c1622",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gerp: Flávio tem 50% das intenções de voto no 2º turno; Lula, 43%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-50-das-intencoes-de-voto-no-2o-turno-lula-43/",
-      "summary": "Pesquisa ouviu 2.400 pessoas por telefone, em todo o território nacional, entre 24 e 28 de setembro; margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:01:58 +0000"
+      "score": 84,
+      "publishedRaw": "Tue, 29 Sep 2026 11:53:02 +0000"
     },
     {
       "id": "560fa7a3dcd1",
@@ -340,11 +251,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 10:30:00 +0000"
     },
     {
@@ -362,100 +271,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Mon, 28 Sep 2026 21:23:00 +0000"
-    },
-    {
-      "id": "d4ec7befe632",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 51% contra 43% de Lula no 2º turno em SP, diz pesquisa",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-51-contra-43-de-lula-no-2o-turno-em-sp-diz-pesquisa/",
-      "summary": "Levantamento do Real Time Big Data também mostra que o senador do PL tem 43% das intenções de voto no Estado no 1º turno",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:12:16 +0000"
-    },
-    {
-      "id": "208441dcfdf5",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba como estão Lula e Flávio nas pesquisas a 5 dias do 1º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-5-dias-do-1o-turno/",
-      "summary": "Senador fica numericamente à frente em 6 estudos e Lula em outros 3 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:00:14 +0000"
-    },
-    {
-      "id": "7ae3d194db64",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 50% contra 43% de Lula no 2º turno, diz Gerp",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-50-contra-43-de-lula-no-2o-turno-diz-gerp-2/",
-      "summary": "Gerp ouviu 2.400 eleitores brasileiros de 24 a 28 de setembro; a margem de erro é de 2 pontos percentuais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 11:00:03 +0000"
-    },
-    {
-      "id": "712a825163b3",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 47,7% e Lula, 47,6% no 2º turno, diz AtlasIntel",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-477-e-lula-476-no-2o-turno-diz-atlasintel/",
-      "summary": "Levantamento feito de 23 a 28 de setembro mostra candidatos empatados; no 1º turno, petista registra 45,3% e senador 42,2%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 10:30:27 +0000"
     },
     {
       "id": "67de2b3a66bc",
@@ -515,47 +334,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 00:21:01 -0000"
     },
     {
-      "id": "cd734642b007",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28)",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-segunda-feira-28.ghtml",
-      "summary": "Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28)\nOs candidatos ao governo de Goiás cumpriram compromissos de campanha na capital e no interior do estado nesta segunda-feira (28). Entre as atividades do dia, Daniel Vilela (MDB) realizou caminhada pelo Jardim Guanabara, em Goiânia, enquanto Marconi Perillo (PSDB) promoveu ato político em Morrinhos, na região sul de Goiá.\nDaniel Vilela (MDB)\nO candidato à reeleição iniciou a agenda por volta das 9h no Jardim Guanabara, na Região Norte de Goiânia. Ao lado do ex-governador e candidato à presidência Ronaldo Caiado e do prefeito Sandro Mabel, Vilela caminhou por duas horas pela Avenida Goiânia, conversando com comerciantes e moradores.\n✅ Clique e siga o canal do g1 GO no WhatsApp\nLuis César Bueno (PT)\nO candidato Luis César Bueno (PT) iniciou a agenda desta segunda-feira (28) às 10h, com entrevista a uma rádio de Cristalina. Ao meio-dia, gravou programa ao lado do ministro da Saúde, Alexandre Padilha, na sede do PT, no Setor Leste Universitário, em Goiânia. Às 17h, o candidato programou uma caminhada em Águas Lindas de Goiás.\nMarconi Perillo (PSDB)\nNo município de Morrinhos, no Sul goiano, Marconi Perillo (PSDB) cumpriu agenda matutina ao lado de aliados políticos, assessores e apoiadores. O candidato participou de uma caminhada por uma das principais avenidas da cidade, cumprimentando eleitores e comerciantes. O candidato defendeu a reestruturação e modernização do programa Renda Cidadã.\nEleições 2026: Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28)\nReprodução/TV Anhanguera\nLEIA TAMBÉM:\nVeja quem são os candidatos a governador em Goiás em 2026\nQuaest em GO: Daniel Vilela, 42%; Marconi Perillo, 19%; Wilder Morais, 15%\nA candidata Luciana Amorim (UP) fez uma panfletagem em uma empresa de Anápolis, na região central de Goiás.  Os candidatos Danilo Pinheiro Evangelista da Silva (PCO) e Wilder Morais (PL) não divulgaram agenda.\n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 00:12:07 -0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 28 Sep 2026 18:12:26 GMT"
-    },
-    {
       "id": "99ee47c4040f",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -575,6 +353,26 @@
       "publishedRaw": "Mon, 28 Sep 2026 18:47:03 GMT"
     },
     {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Mon, 28 Sep 2026 18:12:26 GMT"
+    },
+    {
       "id": "0ee0e1844662",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -589,30 +387,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 28 Sep 2026 18:21:36 GMT"
-    },
-    {
-      "id": "2c5124b0af58",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Só falta os ministros irem de vermelho ou enrolados nas bandeiras do Brasil, EUA e Israel para o STF",
-      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/so-falta-os-ministros-irem-de-vermelho-ou-enrolados-nas-bandeiras-do-brasil-eua-e-israel-para-o-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Tue, 29 Sep 2026 00:12:39 +0000"
+      "score": 81,
+      "publishedRaw": "Mon, 28 Sep 2026 18:21:36 GMT"
     },
     {
       "id": "cc912c56930f",
@@ -653,25 +431,6 @@
       "publishedRaw": "Mon, 28 Sep 2026 22:18:39 +0000"
     },
     {
-      "id": "8c8505fc57f3",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Renan Santos afirma que vai 'resolver problema do STF' e defende volta da prisão em 2ª instância",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/28/renan-santos-afirma-que-vai-resolver-problema-do-stf-e-defende-volta-da-prisao-em-2a-instancia.ghtml",
-      "summary": "Em agenda no ES, Renan Santos afirma que vai 'resolver problema do STF'\nEm agenda de campanha em Vitória na noite desta segunda-feira (28), o candidato à Presidência da República Renan Santos (Missão) defendeu uma reformulação no Judiciário e declarou que pretende \"resolver o problema” do Supremo Tribunal Federal (STF). \nO candidato sustentou, ainda, a retomada do cumprimento de pena de forma imediata após condenação em segunda instância. \n📲 Clique aqui para seguir o canal do g1 ES no WhatsApp \nAo criticar os integrantes do STF, Renan Santos afirmou que a Corte é corrupta e \"sai completamente fora da casinha [...] tomando mais do que deveria, [com] um ministro passando por cima do outro\".\nA execução provisória da pena em segunda instância deixou de ser aplicada pelo STF em 2019, quando o plenário da Corte decidiu que a prisão só pode ocorrer após o trânsito em julgado de todos os recursos, em respeito ao princípio constitucional da presunção de inocência.\nSegurança pública e combate às facções\nQuestionado sobre suas propostas para o Espírito Santo, Renan afirmou que o estado se tornou uma rota de passagem do crime organizado entre o Rio de Janeiro e a Bahia, e mencionou ações do Comando Vermelho na Região Metropolitana capixaba.\nGuerra do tráfico: saiba quais são as principais áreas de conflito entre facções criminosas na Grande Vitória\nPara a segurança pública, o candidato propôs a \"destruição do crime organizado\", a aprovação de leis penais mais rigorosas e o enfrentamento à \"indústria das multas aos municípios\". \n\"As facções, infelizmente, invadiram vários estados do Brasil e aqui é uma área de passagem entre Rio e Bahia. Infelizmente o Comando Vermelho vem para cá, traz o terror. Já passamos por muitos momentos difíceis, não só em Vitória, mas em Serra e outros lugares ao redor da capital\".\nRenan Santos cumpriu agenda de campanha no Espírito Santo nesta segunda-feira (28)\nReprodução/TV Gazeta\nInfraestrutura, turismo e polo fabril portuário\nDurante a passagem pelo estado capixaba, o candidato elencou outras propostas voltadas para o desenvolvimento regional capixaba:\nTurismo: afirmou que \"Vitória é a nova Florianópolis\" e defendeu um plano de investimentos para as próximas duas décadas com foco na infraestrutura da orla e na projeção internacional da gastronomia capixaba.\nInfraestrutura: defendeu a ampliação de rodovias, ferrovias e estruturas portuárias para escoar a produção do agronegócio e do café, reforçando a integração com Minas Gerais, Rio de Janeiro e Bahia.\nDesenvolvimento industrial: propôs cortes nos gastos do governo federal para redução da taxa de juros, visando financiar a instalação de um polo fabril tecnológico ao redor do Porto de Vitória.\nAo abordar a gestão da economia, o candidato citou publicações internacionais para chancelar suas propostas: \"A revista The Economist já deixou claro: eu sou o único capaz de resolver os problemas econômicos do Brasil\".\nLEIA TAMBÉM: \nAO VIVO NESTA TERÇA: Candidatos ao governo do Espírito Santo participam de debate da TV Gazeta\nENCONTRADO PELO NOME: Procurado há 30 anos por assassinato no ES é encontrado pela polícia por ser pai de 'Fábio Júnior'\nITAGUAÇU: Morre homem que matou a esposa e atirou na sogra e na própria cabeça\nDeclarações sobre a disputa política\nComentando o cenário político nacional e o escândalo envolvendo o Banco Master, o candidato voltou a fazer acusações contra lideranças de campos opostos: \"O Brasil não pode ser governado por dois corruptos (...) Lula e Flávio são bandidos. Me coloque lá que eu desmascaro essa gente\".\nVídeos: tudo sobre o Espírito Santo\nVeja o plantão de últimas notícias do g1 Espírito Santo",
-      "tags": [
-        "STF",
-        "Renan Santos"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia"
-      ],
-      "score": 78,
-      "publishedRaw": "Tue, 29 Sep 2026 00:14:08 -0000"
-    },
-    {
       "id": "e36d552d2b6b",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -690,23 +449,21 @@
       "publishedRaw": "Mon, 28 Sep 2026 21:37:25 -0000"
     },
     {
-      "id": "2034f65fc796",
+      "id": "2c5124b0af58",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PSD declara apoio a Celina Leão após Arruda ter candidatura rejeitada pelo TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/psd-declara-apoio-a-celina-leao-apos-arruda-ter-candidatura-rejeitada-pelo-tse-nprp/",
-      "summary": "‘Eu não apoio’, declara Arruda; candidato é considerado inelegível até 2030",
+      "title": "Só falta os ministros irem de vermelho ou enrolados nas bandeiras do Brasil, EUA e Israel para o STF",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/so-falta-os-ministros-irem-de-vermelho-ou-enrolados-nas-bandeiras-do-brasil-eua-e-israel-para-o-stf/",
+      "summary": "",
       "tags": [
-        "candidatura",
-        "TSE"
+        "STF"
       ],
       "crossOutlets": [
-        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 74,
-      "publishedRaw": "Mon, 28 Sep 2026 23:02:34 +0000"
+      "score": 75,
+      "publishedRaw": "Tue, 29 Sep 2026 00:12:39 +0000"
     },
     {
       "id": "f69809888bc5",
@@ -733,7 +490,7 @@
       "category": "Política",
       "title": "MP que proíbe bets precisa ser aprovada pelo Congresso até o começo de março para não perder validade",
       "link": "https://g1.globo.com/politica/noticia/2026/09/29/mp-que-proibe-bets-precisa-ser-aprovada-pelo-congresso-ate-o-comeco-de-marco-para-nao-perder-validade.ghtml",
-      "summary": "Joédson Alves/Agência Brasil\nA medida provisória que proibiu as empresas de apostas online, chamadas de bets, foi publicada na última sexta-feira (25), com validade imediata, a nove dias do primeiro turno das eleições.\nMas para que seja mantida, ela tem de ser votada e aprovada pelo Congresso Nacional em até 120 dias, ou seja, até o fim de janeiro do ano que vem.\nEsse prazo legal, entretanto, fica suspenso durante eventual recesso do Congresso Nacional, conforme as regras das medidas provisórias.\nA Constituição federal prevê dois períodos de suspensão dos trabalhos legislativos: de 23 de dezembro a 1º de fevereiro e de 17 a 31 de julho.\nCom isso, a MP precisa ser aprovada pelo Congresso Nacional até 5 de março para não perder a validade. Se não for votada e aprovada dentro desse prazo, a MP caduca e a proibição deixa de produzir efeitos a partir de 6 de março.\nSe a MP não for votada e aprovada pelo Congresso dentro desse prazo, ela perde a validade e as apostas voltam a ser liberadas no país em março de 2027 — já com um novo Congresso Nacional eleito.\nO governo federal proíbe todas as bets no país\n➡️Questionada pelo g1, a Secretaria de Relações Institucionais da Presidência da República informou que será feita uma articulação com os líderes da base aliada no Legislativo para construir o diálogo necessário para a aprovação da medida e contribuir para que sua apreciação avance dentro do prazo almejado.\n\"O governo considera prioritária a apreciação da MP ainda neste ano e vai trabalhar, em diálogo com o Congresso Nacional, para que isso ocorra. Há confiança de que deputados e senadores darão ao tema a atenção compatível com sua importância e com seus impactos sobre a população\", avaliou a Secretaria de Relações Institucionais da Presidência da República.\n🔎Nesta semana, a Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram um pedido, no Supremo Tribunal Federal (STF), para suspender os efeitos da medida provisória de Lula que determinou a proibição imediata da exploração, oferta, intermediação e publicidade das bets e dos cassinos online no país.\nPerda de arrecadação\nO governo federal arrecadou R$ 15,3 bilhões com a taxação das empresas de apostas online, conhecidas como \"bets\", desde o começo de 2025.\nNo ano passado, foram arrecadados R$ 8,94 bilhões e, de janeiro a agosto deste ano, outros R$ 6,32 bilhões. Os dados são da Secretaria da Receita Federal.\n🔎Os valores têm ajudado o governo a atingir as metas fiscais, ou seja, os valores de resultado primário (receitas menos despesas) fixados em lei. Sem eles, o governo teria de apertar mais as contas públicas, podendo levar a bloqueios maiores de gastos.\nGoverno defende Medida Provisória\nNa exposição de motivos da Medida Provisória, os Ministérios da Fazenda e da Justiça informaram que evidências disponíveis indicam que os \"instrumentos existentes não têm sido capazes de assegurar proteção adequada à saúde, aos consumidores, às crianças e aos adolescentes e à estabilidade financeira das famílias\".\n\"Estudos estimam que, em 2025, a transferência líquida de recursos das famílias brasileiras para plataformas de apostas pode ter sido de dezenas de bilhões de reais, com impactos ainda maiores na economia nacional no mesmo período. Além disso há efeitos negativos sobre o consumo das famílias, a arrecadação tributária e a distribuição de renda\", acrescentou o governo.\nPara ser editada, uma Medida Provisória precisa dos requisitos de urgência e relevância. \nSegundo a exposição de motivos, a relevância da medida \"evidencia-se pela magnitude dos impactos econômicos, sociais e sanitários associados à exploração de apostas de quota fixa, incluindo o agravamento do endividamento das famílias, prejuízos à saúde mental da população, a exposição de crianças e adolescentes à atividade e a incidência desproporcional desses efeitos sobre grupos em situação de vulnerabilidade\". \nJá a urgência, segundo o governo, decorre da constatação de que os \"mecanismos regulatórios atualmente vigentes não têm se mostrado suficientes para assegurar proteção adequada aos direitos e interesses jurídicos afetados pela atividade\". \n\"A manutenção do regime atual durante o período necessário à tramitação legislativa ordinária permitiria a continuidade dos impactos econômicos, sociais e sanitários que fundamentam a presente proposta. Mostra-se, portanto, necessária a adoção imediata de medidas destinadas a reduzir a exposição de atuais e potenciais apostadores a riscos já amplamente documentados\", acrescentou o Executivo.",
+      "summary": "Joédson Alves/Agência Brasil\nA medida provisória que proibiu as empresas de apostas online, chamadas de bets, foi publicada na última sexta-feira (25), com validade imediata, a nove dias do primeiro turno das eleições.\nMas para que seja mantida, ela tem de ser votada e aprovada pelo Congresso Nacional em até 120 dias, ou seja, até o fim de janeiro do ano que vem.\nEsse prazo legal, entretanto, fica suspenso durante eventual recesso do Congresso Nacional, conforme as regras das medidas provisórias.\nA Constituição federal prevê dois períodos de suspensão dos trabalhos legislativos: de 23 de dezembro a 1º de fevereiro e de 17 a 31 de julho.\nCom isso, a MP precisa ser aprovada pelo Congresso Nacional até 5 de março para não perder a validade. \nSe a MP não for votada e aprovada pelo Congresso dentro desse prazo, ela perde a validade e as apostas voltam a ser liberadas no país em março de 2027 — já com um novo Congresso Nacional eleito.\nO governo federal proíbe todas as bets no país\n➡️Questionada pelo g1, a Secretaria de Relações Institucionais da Presidência da República informou que será feita uma articulação com os líderes da base aliada no Legislativo para construir o diálogo necessário para a aprovação da medida e contribuir para que sua apreciação avance dentro do prazo almejado.\n\"O governo considera prioritária a apreciação da MP ainda neste ano e vai trabalhar, em diálogo com o Congresso Nacional, para que isso ocorra. Há confiança de que deputados e senadores darão ao tema a atenção compatível com sua importância e com seus impactos sobre a população\", avaliou a Secretaria de Relações Institucionais da Presidência da República.\n🔎Nesta semana, a Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram um pedido, no Supremo Tribunal Federal (STF), para suspender os efeitos da medida provisória de Lula que determinou a proibição imediata da exploração, oferta, intermediação e publicidade das bets e dos cassinos online no país.\nPerda de arrecadação\nO governo federal arrecadou R$ 15,3 bilhões com a taxação das empresas de apostas online, conhecidas como \"bets\", desde o começo de 2025.\nNo ano passado, foram arrecadados R$ 8,94 bilhões e, de janeiro a agosto deste ano, outros R$ 6,32 bilhões. Os dados são da Secretaria da Receita Federal.\n🔎Os valores têm ajudado o governo a atingir as metas fiscais, ou seja, os valores de resultado primário (receitas menos despesas) fixados em lei. Sem eles, o governo teria de apertar mais as contas públicas, podendo levar a bloqueios maiores de gastos.\nGoverno defende Medida Provisória\nNa exposição de motivos da Medida Provisória, os Ministérios da Fazenda e da Justiça informaram que evidências disponíveis indicam que os \"instrumentos existentes não têm sido capazes de assegurar proteção adequada à saúde, aos consumidores, às crianças e aos adolescentes e à estabilidade financeira das famílias\".\n\"Estudos estimam que, em 2025, a transferência líquida de recursos das famílias brasileiras para plataformas de apostas pode ter sido de dezenas de bilhões de reais, com impactos ainda maiores na economia nacional no mesmo período. Além disso há efeitos negativos sobre o consumo das famílias, a arrecadação tributária e a distribuição de renda\", acrescentou o governo.\nPara ser editada, uma Medida Provisória precisa dos requisitos de urgência e relevância. \nSegundo a exposição de motivos, a relevância da medida \"evidencia-se pela magnitude dos impactos econômicos, sociais e sanitários associados à exploração de apostas de quota fixa, incluindo o agravamento do endividamento das famílias, prejuízos à saúde mental da população, a exposição de crianças e adolescentes à atividade e a incidência desproporcional desses efeitos sobre grupos em situação de vulnerabilidade\". \nJá a urgência, segundo o governo, decorre da constatação de que os \"mecanismos regulatórios atualmente vigentes não têm se mostrado suficientes para assegurar proteção adequada aos direitos e interesses jurídicos afetados pela atividade\". \n\"A manutenção do regime atual durante o período necessário à tramitação legislativa ordinária permitiria a continuidade dos impactos econômicos, sociais e sanitários que fundamentam a presente proposta. Mostra-se, portanto, necessária a adoção imediata de medidas destinadas a reduzir a exposição de atuais e potenciais apostadores a riscos já amplamente documentados\", acrescentou o Executivo.",
       "tags": [
         "Congresso"
       ],
@@ -750,7 +507,7 @@
       "category": "Política",
       "title": "Óculos inteligentes são proibidos na cabine de votação, mas não são citados nas regras do TSE",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/09/29/oculos-inteligentes-proibidos-cabine-de-votacao.ghtml",
-      "summary": "Eleitora vota em cabine de votação na Faculdade Anhanguera, em Campinas\nThomaz Marostegan/g\nO uso de celular na cabine de votação é proibido, e quem leva o aparelho à seção eleitoral precisa deixá-lo em local indicado pelo mesário antes de votar. Mas, enquanto um telefone é relativamente fácil de identificar, outro tipo de dispositivo também proibido pode trazer um desafio diferente nas eleições deste ano: os óculos inteligentes.\n🔎 Óculos inteligentes são modelos com lentes de grau ou de sol equipados com câmeras, microfones e alto-falantes e capazes até de publicar conteúdo diretamente nas redes sociais. Embora não sejam citados nominalmente nas regras do TSE, esses dispositivos se enquadram na proibição de portar, na cabine de votação, qualquer instrumento que possa comprometer o sigilo do voto.\nA medida impede que a opção escolhida na urna seja registrada, transmitida ou divulgada e também ajuda a coibir práticas como a compra de votos, em que o eleitor pode ser pressionado a apresentar uma prova de como votou. Quem se recusar a deixar equipamentos proibidos fora da cabine não poderá votar naquele momento. A ocorrência deverá ser registrada em ata e, se necessário, a polícia poderá ser acionada.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\no CEO da Meta, Mark Zuckerberg, usa óculos Meta Ray-Ban Display durante apresentação da nova linha de óculos inteligentes no evento Meta Connect, em Menlo Park, Califórnia (EUA), em 17 de setembro de 2025.\nREUTERS/Carlos Barria\nDesde abril de 2026, o g1 questiona o Tribunal Superior Eleitoral (TSE), responsável pela organização das eleições no Brasil, sobre como pretende lidar com o uso de óculos inteligentes na cabine de votação e se há alguma preparação específica para identificar esse tipo de dispositivo.\nEm resposta, o TSE tem citado o artigo 137 dos Atos Gerais do Processo Eleitoral para as Eleições de 2026, que estabelece que “é vedado à eleitora ou ao eleitor portar aparelho de telefonia celular, máquinas fotográficas, filmadoras, equipamento de radiocomunicação ou qualquer instrumento que possa comprometer o sigilo do voto, ainda que desligados”. \nGuia do Eleitor: Posso usar celular na cabine de votação?\nO assunto preocupa especialistas pela dificuldade de fiscalização: além dos poucos modelos oficiais homologados no Brasil, há versões de marcas menos conhecidas à venda pela internet, com diferentes recursos de segurança e privacidade. Também há formas de comprometer mecanismos que indicam quando alguns desses dispositivos estão gravando ou fotografando, como o LED presente nos óculos da Meta.\n“A Justiça Eleitoral está preparada para garantir e assegurar que o eleitor tenha total liberdade de escolher seus candidatos. Por isso, continuará a colocar em prática a proibição de que o eleitor entre na cabine com o telefone celular, com óculos que tenham a funcionalidade de captar imagens ou com qualquer outro dispositivo que possa fazer a mesma coisa”, afirma o desembargador Roberto Maia Filho, vice-presidente e corregedor regional eleitoral do TRE-SP.\nMaia Filho diz que o uso de um novo formato de aparelho não muda a regra nem indica uma vulnerabilidade da urna eletrônica. O risco está na possibilidade de o eleitor produzir uma prova de sua escolha e depois apresentá-la a quem comprou o voto ou o coagiu. \nSegundo o desembargador, o procedimento com os óculos deve ser o mesmo aplicado ao celular: o mesário deve orientar o eleitor a deixar o equipamento fora da cabine.\n🔎 Violar ou tentar violar o sigilo do voto é crime, com pena de detenção de até dois anos. Se o registro for usado para comprovar uma escolha em troca de dinheiro ou outra vantagem, o caso pode envolver corrupção eleitoral; se houver violência ou grave ameaça, coação eleitoral. Os dois crimes têm pena de reclusão de até quatro anos e multa.\nÓculos já foram usados para comprovar compra de votos\nMP pede manutenção de cassação de vereador acusado de compra de votos com óculos espião no Pará\nMPE\nUm caso envolvendo um equipamento desse tipo já foi identificado nas últimas eleições municipais, em 2024, em Ourilândia do Norte, no Pará.\nEleitores venderam seus votos por até R$ 200 e foram coagidos a irem às urnas usando  um \"óculos-espião\" para comprovar que haviam votado no vereador Edivaldo Borges Gomes, conhecido como Irmão Edivaldo (MDB), como havia sido combinado.\nOs óculos tinham uma microcâmera embutida e chamaram a atenção de uma mesária. Mais de um eleitor entrou com o dispositivo na mesma seção eleitoral, conforme revelou o Fantástico.\n⚖️ Em 29 de maio de 2026, o TRE-PA rejeitou por unanimidade os recursos da defesa e manteve a cassação do diploma do vereador por compra de votos e abuso de poder econômico. \nO tribunal também determinou a anulação dos votos recebidos por ele e o reprocessamento do resultado da eleição. Segundo nota publicada pelo Ministério Público Federal em 11 de junho, ainda era possível recorrer, e uma ação penal sobre os mesmos fatos continuava em tramitação.\nOrientação é retirar dispositivo antes da votação\nMesários ouvidos pelo g1 afirmam que, ao identificar óculos inteligentes, a orientação é pedir ao eleitor que deixe o dispositivo fora da cabine de votação, assim como ocorre com celulares e outros equipamentos eletrônicos. O procedimento foi confirmado por uma chefe de cartório eleitoral.\nApesar disso, os óculos inteligentes não são mencionados especificamente nos manuais nem no treinamento dos mesários. O g1 consultou as versões dos manuais das últimas três eleições e também o material usado no treinamento obrigatório de 2026, sem encontrar referência a esse tipo de dispositivo.\nNas orientações deste ano, relógios digitais, por exemplo, aparecem expressamente na lista de equipamentos que não podem ser levados à cabine. Os mesários também são orientados a registrar em ata a recusa do eleitor em entregar aparelhos eletrônicos e as providências adotadas.\nEspecialistas ouvidos pelo g1 destacam que o cumprimento das regras de votação também é responsabilidade do eleitor, que não pode levar para a cabine equipamentos capazes de comprometer o sigilo do voto. Aos mesários cabe orientar os eleitores e adotar os procedimentos previstos caso identifiquem uma irregularidade.\nO professor de Direito Eleitoral da Fundação Getulio Vargas Fernando Neisser afirma que uma falha de percepção, por si só, não torna o mesário responsável por um crime. Segundo ele, os crimes eleitorais exigem conduta intencional. Para haver coautoria na violação do sigilo, seria necessário demonstrar que o mesário sabia da gravação e permitiu que ela ocorresse.\n“Não há necessidade de mudar a regulação para cada tipo de novo equipamento que surja, mas isso exige uma mudança de treinamento e de orientação na hora da votação”, afirma Neisser.\n“Um mesário não é um agente de fiscalização tecnológica. É um treinamento curto e já são diversas informações que ele precisa receber. Cabe à Justiça Eleitoral criar essas diretrizes, mas teremos aplicações distintas e pessoas que não necessariamente conhecem essa tecnologia”, afirma Hannickel.\nPara Ludmila Filizola, advogada especializada em direito digital e novas tecnologias no escritório Mpuppe, o desafio é fazer essa fiscalização de forma equilibrada, sem tratar toda tecnologia como suspeita nem prejudicar quem utiliza esses equipamentos por necessidade ou acessibilidade.\nSegundo a especialista, o presidente da mesa pode pedir que o equipamento seja retirado antes da entrada na cabine.\n“O que não deve acontecer é transformar isso em uma revista tecnológica. Não cabe ao mesário pedir senha, acessar arquivos ou vasculhar o aparelho. Se houver uma suspeita concreta de gravação, o caminho mais adequado é registrar a ocorrência e acionar a autoridade competente”, diz.\nFiscalização complexa\nA fiscalização pode se tornar mais complexa à medida que esses dispositivos ficam mais parecidos com óculos convencionais e chegam ao mercado em diferentes modelos e faixas de preço.\nEm um modelo da Meta consultado pelo g1, uma câmera de 12 megapixels permite tirar fotos e gravar vídeos. O aparelho também capta áudio, faz chamadas, envia mensagens e sincroniza arquivos com o celular, além de oferecer recursos de inteligência artificial, como tradução em tempo real e respostas sobre o que o usuário está vendo. Na cabine de votação, recursos de registro e transmissão como esses entram na proibição estabelecida pelo TSE.\nPara Luã Cruz, diretor da CTRL+Z, ONG voltada a denúncias contra big techs, e ex-membro do Comitê de Defesa dos Usuários de Serviços de Telecomunicações da Anatel, o indicador luminoso que sinaliza uma gravação não é suficiente, por si só, para solucionar o problema. Segundo ele, o alerta pode ser pouco perceptível e há modelos no mercado que adotam mecanismos diferentes.\n“Será que o aviso luminoso é suficiente? Para a gente, é insuficiente, porque imagine você na rua dar de cara com alguém com uma câmera dessas ligada. Como você vai lidar com isso? Você vai pedir para a pessoa desligar? Você já está sendo violado ali naquele momento”, afirma Cruz.\nÓculos da Meta têm LED para indicar quando estão gravando ou tirando foto.\nDarlan Helder/g1\nA homologação da Anatel verifica requisitos técnicos e de conectividade dos produtos, mas não equivale a uma análise prévia de todos os possíveis impactos sobre privacidade e proteção de dados, segundo especialistas ouvidos pelo g1. Outro ponto levantado é que, quanto mais esses dispositivos se aproximam da aparência de óculos convencionais, mais difícil pode ser para terceiros perceber a presença de recursos de câmera e gravação.\nQuestionada pelo g1 sobre o uso dos óculos no contexto eleitoral e os pontos levantados na reportagem, a Meta não respondeu especificamente às perguntas. A empresa enviou trechos da legislação e de resoluções do TSE que proíbem, na cabine de votação, instrumentos capazes de registrar, transmitir ou divulgar a escolha do eleitor.\nEspecialistas afirmam que as discussões sobre os limites e as regras para o uso de óculos inteligentes ainda estão em desenvolvimento. Fora do contexto eleitoral, algumas empresas já começaram a estabelecer restrições ao uso desses dispositivos em seus espaços.\nEm 2025, a MSC Cruzeiros, por exemplo, passou a proibir o uso do equipamento em áreas comuns dos navios, como piscinas. O embarque, porém, continua permitido. Segundo a empresa, a medida busca \"proteger a privacidade e a segurança de hóspedes e tripulantes\".",
+      "summary": "Imagem mostra um protótipo dos 'óculos inteligentes' do Facebook e os componentes presentes na haste\nDivulgação\nO uso de celular na cabine de votação é proibido, e quem leva o aparelho à seção eleitoral precisa deixá-lo em local indicado pelo mesário antes de votar. \nMas, enquanto um telefone é relativamente fácil de identificar, outro tipo de dispositivo também proibido pode trazer um desafio diferente nas eleições deste ano: os óculos inteligentes.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\n🔎 Óculos inteligentes são modelos com lentes de grau ou de sol equipados com câmeras, microfones e alto-falantes e capazes até de publicar conteúdo diretamente nas redes sociais. Embora não sejam citados nominalmente nas regras do TSE, esses dispositivos se enquadram na proibição de portar, na cabine de votação, qualquer instrumento que possa comprometer o sigilo do voto.\nA medida impede que a opção escolhida na urna seja registrada, transmitida ou divulgada e também ajuda a coibir práticas como a compra de votos, em que o eleitor pode ser pressionado a apresentar uma prova de como votou. \nAgora no g1\nQuem se recusar a deixar equipamentos proibidos fora da cabine não poderá votar naquele momento. A ocorrência deverá ser registrada em ata e, se necessário, a polícia poderá ser acionada. \n\"Sempre há uma autoridade policial de plantão nas seções para dar suporte aos mesários em casos de recusa ou desacato\", explica Thomas Hannickel, advogado da direito digital da Legitimuz e especialista em Lei Geral de Proteção de Dados (LGPD).\nDesde abril de 2026, o g1 questiona o Tribunal Superior Eleitoral (TSE), responsável pela organização das eleições no Brasil, sobre como pretende lidar com o uso de óculos inteligentes na cabine de votação e se há alguma preparação específica para identificar esse tipo de dispositivo.\nEm resposta, o TSE tem citado o artigo 137 dos Atos Gerais do Processo Eleitoral para as Eleições de 2026, que estabelece que “é vedado à eleitora ou ao eleitor portar aparelho de telefonia celular, máquinas fotográficas, filmadoras, equipamento de radiocomunicação ou qualquer instrumento que possa comprometer o sigilo do voto, ainda que desligados”. \no CEO da Meta, Mark Zuckerberg, usa óculos Meta Ray-Ban Display durante apresentação da nova linha de óculos inteligentes no evento Meta Connect, em Menlo Park, Califórnia (EUA), em 17 de setembro de 2025.\nREUTERS/Carlos Barria\nO assunto preocupa especialistas pela dificuldade de fiscalização: além dos poucos modelos oficiais homologados no Brasil, há versões de marcas menos conhecidas à venda pela internet, com diferentes recursos de segurança e privacidade. \nTambém há formas de comprometer mecanismos que indicam quando alguns desses dispositivos estão gravando ou fotografando, como o LED presente nos óculos da Meta.\n“A Justiça Eleitoral está preparada para garantir e assegurar que o eleitor tenha total liberdade de escolher seus candidatos\", afirma o desembargador Roberto Maia Filho, vice-presidente e corregedor regional eleitoral do TRE-SP. \n\"Por isso, continuará a colocar em prática a proibição de que o eleitor entre na cabine com o telefone celular, com óculos que tenham a funcionalidade de captar imagens ou com qualquer outro dispositivo que possa fazer a mesma coisa”, completa. \nMaia Filho diz que o uso de um novo formato de aparelho não muda a regra nem indica uma vulnerabilidade da urna eletrônica. O risco está na possibilidade de o eleitor produzir uma prova de sua escolha e depois apresentá-la a quem comprou o voto ou o coagiu. \nSegundo o desembargador, o procedimento com os óculos deve ser o mesmo aplicado ao celular: o mesário deve orientar o eleitor a deixar o equipamento fora da cabine.\n🔎 Violar ou tentar violar o sigilo do voto é crime, com pena de detenção de até dois anos. Se o registro for usado para comprovar uma escolha em troca de dinheiro ou outra vantagem, o caso pode envolver corrupção eleitoral; se houver violência ou grave ameaça, coação eleitoral. Os dois crimes têm pena de reclusão de até quatro anos e multa.\nÓculos já foram usados para comprovar compra de votos\nMP pede manutenção de cassação de vereador acusado de compra de votos com óculos espião no Pará\nMPE\nUm caso envolvendo um equipamento desse tipo já foi identificado nas últimas eleições municipais, em 2024, em Ourilândia do Norte, no Pará.\nEleitores venderam seus votos por até R$ 200 e foram coagidos a irem às urnas usando  um \"óculos-espião\" para comprovar que haviam votado no vereador Edivaldo Borges Gomes, conhecido como Irmão Edivaldo (MDB), como havia sido combinado.\nOs óculos tinham uma microcâmera embutida e chamaram a atenção de uma mesária. Mais de um eleitor entrou com o dispositivo na mesma seção eleitoral, conforme revelou o Fantástico.\n⚖️ Em 29 de maio de 2026, o TRE-PA rejeitou por unanimidade os recursos da defesa e manteve a cassação do diploma do vereador por compra de votos e abuso de poder econômico. \nO tribunal também determinou a anulação dos votos recebidos por ele e o reprocessamento do resultado da eleição. Segundo nota publicada pelo Ministério Público Federal em 11 de junho, ainda era possível recorrer, e uma ação penal sobre os mesmos fatos continuava em tramitação.\nOrientação é retirar dispositivo antes da votação\nMesários ouvidos pelo g1 afirmam que, ao identificar óculos inteligentes, a orientação é pedir ao eleitor que deixe o dispositivo fora da cabine de votação, assim como ocorre com celulares e outros equipamentos eletrônicos. O procedimento foi confirmado por uma chefe de cartório eleitoral.\nApesar disso, os óculos inteligentes não são mencionados especificamente nos manuais nem no treinamento dos mesários. O g1 consultou as versões dos manuais das últimas três eleições e também o material usado no treinamento obrigatório de 2026, sem encontrar referência a esse tipo de dispositivo.\nNas orientações deste ano, relógios digitais, por exemplo, aparecem expressamente na lista de equipamentos que não podem ser levados à cabine. Os mesários também são orientados a registrar em ata a recusa do eleitor em entregar aparelhos eletrônicos e as providências adotadas.\nEspecialistas ouvidos pelo g1 destacam que o cumprimento das regras de votação também é responsabilidade do eleitor, que não pode levar para a cabine equipamentos capazes de comprometer o sigilo do voto. Aos mesários cabe orientar os eleitores e adotar os procedimentos previstos caso identifiquem uma irregularidade.\nO professor de Direito Eleitoral da Fundação Getulio Vargas Fernando Neisser afirma que uma falha de percepção, por si só, não torna o mesário responsável por um crime. Segundo ele, os crimes eleitorais exigem conduta intencional. Para haver coautoria na violação do sigilo, seria necessário demonstrar que o mesário sabia da gravação e permitiu que ela ocorresse.\n“Não há necessidade de mudar a regulação para cada tipo de novo equipamento que surja, mas isso exige uma mudança de treinamento e de orientação na hora da votação”, afirma Neisser.\n“Um mesário não é um agente de fiscalização tecnológica. É um treinamento curto e já são diversas informações que ele precisa receber. Cabe à Justiça Eleitoral criar essas diretrizes, mas teremos aplicações distintas e pessoas que não necessariamente conhecem essa tecnologia”, afirma Hannickel.\nPara Ludmila Filizola, advogada especializada em direito digital e novas tecnologias no escritório Mpuppe, o desafio é fazer essa fiscalização de forma equilibrada, sem tratar toda tecnologia como suspeita nem prejudicar quem utiliza esses equipamentos por necessidade ou acessibilidade.\nSegundo a especialista, o presidente da mesa pode pedir que o equipamento seja retirado antes da entrada na cabine.\n“O que não deve acontecer é transformar isso em uma revista tecnológica. Não cabe ao mesário pedir senha, acessar arquivos ou vasculhar o aparelho. Se houver uma suspeita concreta de gravação, o caminho mais adequado é registrar a ocorrência e acionar a autoridade competente”, diz.\nFiscalização complexa\nA fiscalização pode se tornar mais complexa à medida que esses dispositivos ficam mais parecidos com óculos convencionais e chegam ao mercado em diferentes modelos e faixas de preço.\nEm um modelo da Meta consultado pelo g1, uma câmera de 12 megapixels permite tirar fotos e gravar vídeos. O aparelho também capta áudio, faz chamadas, envia mensagens e sincroniza arquivos com o celular, além de oferecer recursos de inteligência artificial, como tradução em tempo real e respostas sobre o que o usuário está vendo. \nNa cabine de votação, recursos de registro e transmissão como esses entram na proibição estabelecida pelo TSE.\nPara Luã Cruz, diretor da CTRL+Z, ONG voltada a denúncias contra big techs, e ex-membro do Comitê de Defesa dos Usuários de Serviços de Telecomunicações da Anatel, o indicador luminoso que sinaliza uma gravação não é suficiente, por si só, para solucionar o problema. Segundo ele, o alerta pode ser pouco perceptível e há modelos no mercado que adotam mecanismos diferentes.\n“Será que o aviso luminoso é suficiente? Para a gente, é insuficiente, porque imagine você na rua dar de cara com alguém com uma câmera dessas ligada. Como você vai lidar com isso? Você vai pedir para a pessoa desligar? Você já está sendo violado ali naquele momento”, afirma Cruz.\nÓculos da Meta têm LED para indicar quando estão gravando ou tirando foto.\nDarlan Helder/g1\nA homologação da Anatel verifica requisitos técnicos e de conectividade dos produtos, mas não equivale a uma análise prévia de todos os possíveis impactos sobre privacidade e proteção de dados, segundo especialistas ouvidos pelo g1. \nOutro ponto levantado é que, quanto mais esses dispositivos se aproximam da aparência de óculos convencionais, mais difícil pode ser para terceiros perceber a presença de recursos de câmera e gravação.\nQuestionada pelo g1 sobre o uso dos óculos no contexto eleitoral e os pontos levantados na reportagem, a Meta não respondeu especificamente às perguntas. A empresa enviou trechos da legislação e de resoluções do TSE que proíbem, na cabine de votação, instrumentos capazes de registrar, transmitir ou divulgar a escolha do eleitor.\nEspecialistas afirmam que as discussões sobre os limites e as regras para o uso de óculos inteligentes ainda estão em desenvolvimento. Fora do contexto eleitoral, algumas empresas já começaram a estabelecer restrições ao uso desses dispositivos em seus espaços.\nEm 2025, a MSC Cruzeiros, por exemplo, passou a proibir o uso do equipamento em áreas comuns dos navios, como piscinas. O embarque, porém, continua permitido. Segundo a empresa, a medida busca \"proteger a privacidade e a segurança de hóspedes e tripulantes\".",
       "tags": [
         "TSE"
       ],
@@ -767,7 +524,7 @@
       "category": "Economia",
       "title": "Óculos inteligentes são proibidos na cabine de votação, mas não são citados nas regras do TSE",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/09/29/oculos-inteligentes-proibidos-cabine-de-votacao.ghtml",
-      "summary": "Eleitora vota em cabine de votação na Faculdade Anhanguera, em Campinas\nThomaz Marostegan/g\nO uso de celular na cabine de votação é proibido, e quem leva o aparelho à seção eleitoral precisa deixá-lo em local indicado pelo mesário antes de votar. Mas, enquanto um telefone é relativamente fácil de identificar, outro tipo de dispositivo também proibido pode trazer um desafio diferente nas eleições deste ano: os óculos inteligentes.\n🔎 Óculos inteligentes são modelos com lentes de grau ou de sol equipados com câmeras, microfones e alto-falantes e capazes até de publicar conteúdo diretamente nas redes sociais. Embora não sejam citados nominalmente nas regras do TSE, esses dispositivos se enquadram na proibição de portar, na cabine de votação, qualquer instrumento que possa comprometer o sigilo do voto.\nA medida impede que a opção escolhida na urna seja registrada, transmitida ou divulgada e também ajuda a coibir práticas como a compra de votos, em que o eleitor pode ser pressionado a apresentar uma prova de como votou. Quem se recusar a deixar equipamentos proibidos fora da cabine não poderá votar naquele momento. A ocorrência deverá ser registrada em ata e, se necessário, a polícia poderá ser acionada.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\no CEO da Meta, Mark Zuckerberg, usa óculos Meta Ray-Ban Display durante apresentação da nova linha de óculos inteligentes no evento Meta Connect, em Menlo Park, Califórnia (EUA), em 17 de setembro de 2025.\nREUTERS/Carlos Barria\nDesde abril de 2026, o g1 questiona o Tribunal Superior Eleitoral (TSE), responsável pela organização das eleições no Brasil, sobre como pretende lidar com o uso de óculos inteligentes na cabine de votação e se há alguma preparação específica para identificar esse tipo de dispositivo.\nEm resposta, o TSE tem citado o artigo 137 dos Atos Gerais do Processo Eleitoral para as Eleições de 2026, que estabelece que “é vedado à eleitora ou ao eleitor portar aparelho de telefonia celular, máquinas fotográficas, filmadoras, equipamento de radiocomunicação ou qualquer instrumento que possa comprometer o sigilo do voto, ainda que desligados”. \nGuia do Eleitor: Posso usar celular na cabine de votação?\nO assunto preocupa especialistas pela dificuldade de fiscalização: além dos poucos modelos oficiais homologados no Brasil, há versões de marcas menos conhecidas à venda pela internet, com diferentes recursos de segurança e privacidade. Também há formas de comprometer mecanismos que indicam quando alguns desses dispositivos estão gravando ou fotografando, como o LED presente nos óculos da Meta.\n“A Justiça Eleitoral está preparada para garantir e assegurar que o eleitor tenha total liberdade de escolher seus candidatos. Por isso, continuará a colocar em prática a proibição de que o eleitor entre na cabine com o telefone celular, com óculos que tenham a funcionalidade de captar imagens ou com qualquer outro dispositivo que possa fazer a mesma coisa”, afirma o desembargador Roberto Maia Filho, vice-presidente e corregedor regional eleitoral do TRE-SP.\nMaia Filho diz que o uso de um novo formato de aparelho não muda a regra nem indica uma vulnerabilidade da urna eletrônica. O risco está na possibilidade de o eleitor produzir uma prova de sua escolha e depois apresentá-la a quem comprou o voto ou o coagiu. \nSegundo o desembargador, o procedimento com os óculos deve ser o mesmo aplicado ao celular: o mesário deve orientar o eleitor a deixar o equipamento fora da cabine.\n🔎 Violar ou tentar violar o sigilo do voto é crime, com pena de detenção de até dois anos. Se o registro for usado para comprovar uma escolha em troca de dinheiro ou outra vantagem, o caso pode envolver corrupção eleitoral; se houver violência ou grave ameaça, coação eleitoral. Os dois crimes têm pena de reclusão de até quatro anos e multa.\nÓculos já foram usados para comprovar compra de votos\nMP pede manutenção de cassação de vereador acusado de compra de votos com óculos espião no Pará\nMPE\nUm caso envolvendo um equipamento desse tipo já foi identificado nas últimas eleições municipais, em 2024, em Ourilândia do Norte, no Pará.\nEleitores venderam seus votos por até R$ 200 e foram coagidos a irem às urnas usando  um \"óculos-espião\" para comprovar que haviam votado no vereador Edivaldo Borges Gomes, conhecido como Irmão Edivaldo (MDB), como havia sido combinado.\nOs óculos tinham uma microcâmera embutida e chamaram a atenção de uma mesária. Mais de um eleitor entrou com o dispositivo na mesma seção eleitoral, conforme revelou o Fantástico.\n⚖️ Em 29 de maio de 2026, o TRE-PA rejeitou por unanimidade os recursos da defesa e manteve a cassação do diploma do vereador por compra de votos e abuso de poder econômico. \nO tribunal também determinou a anulação dos votos recebidos por ele e o reprocessamento do resultado da eleição. Segundo nota publicada pelo Ministério Público Federal em 11 de junho, ainda era possível recorrer, e uma ação penal sobre os mesmos fatos continuava em tramitação.\nOrientação é retirar dispositivo antes da votação\nMesários ouvidos pelo g1 afirmam que, ao identificar óculos inteligentes, a orientação é pedir ao eleitor que deixe o dispositivo fora da cabine de votação, assim como ocorre com celulares e outros equipamentos eletrônicos. O procedimento foi confirmado por uma chefe de cartório eleitoral.\nApesar disso, os óculos inteligentes não são mencionados especificamente nos manuais nem no treinamento dos mesários. O g1 consultou as versões dos manuais das últimas três eleições e também o material usado no treinamento obrigatório de 2026, sem encontrar referência a esse tipo de dispositivo.\nNas orientações deste ano, relógios digitais, por exemplo, aparecem expressamente na lista de equipamentos que não podem ser levados à cabine. Os mesários também são orientados a registrar em ata a recusa do eleitor em entregar aparelhos eletrônicos e as providências adotadas.\nEspecialistas ouvidos pelo g1 destacam que o cumprimento das regras de votação também é responsabilidade do eleitor, que não pode levar para a cabine equipamentos capazes de comprometer o sigilo do voto. Aos mesários cabe orientar os eleitores e adotar os procedimentos previstos caso identifiquem uma irregularidade.\nO professor de Direito Eleitoral da Fundação Getulio Vargas Fernando Neisser afirma que uma falha de percepção, por si só, não torna o mesário responsável por um crime. Segundo ele, os crimes eleitorais exigem conduta intencional. Para haver coautoria na violação do sigilo, seria necessário demonstrar que o mesário sabia da gravação e permitiu que ela ocorresse.\n“Não há necessidade de mudar a regulação para cada tipo de novo equipamento que surja, mas isso exige uma mudança de treinamento e de orientação na hora da votação”, afirma Neisser.\n“Um mesário não é um agente de fiscalização tecnológica. É um treinamento curto e já são diversas informações que ele precisa receber. Cabe à Justiça Eleitoral criar essas diretrizes, mas teremos aplicações distintas e pessoas que não necessariamente conhecem essa tecnologia”, afirma Hannickel.\nPara Ludmila Filizola, advogada especializada em direito digital e novas tecnologias no escritório Mpuppe, o desafio é fazer essa fiscalização de forma equilibrada, sem tratar toda tecnologia como suspeita nem prejudicar quem utiliza esses equipamentos por necessidade ou acessibilidade.\nSegundo a especialista, o presidente da mesa pode pedir que o equipamento seja retirado antes da entrada na cabine.\n“O que não deve acontecer é transformar isso em uma revista tecnológica. Não cabe ao mesário pedir senha, acessar arquivos ou vasculhar o aparelho. Se houver uma suspeita concreta de gravação, o caminho mais adequado é registrar a ocorrência e acionar a autoridade competente”, diz.\nFiscalização complexa\nA fiscalização pode se tornar mais complexa à medida que esses dispositivos ficam mais parecidos com óculos convencionais e chegam ao mercado em diferentes modelos e faixas de preço.\nEm um modelo da Meta consultado pelo g1, uma câmera de 12 megapixels permite tirar fotos e gravar vídeos. O aparelho também capta áudio, faz chamadas, envia mensagens e sincroniza arquivos com o celular, além de oferecer recursos de inteligência artificial, como tradução em tempo real e respostas sobre o que o usuário está vendo. Na cabine de votação, recursos de registro e transmissão como esses entram na proibição estabelecida pelo TSE.\nPara Luã Cruz, diretor da CTRL+Z, ONG voltada a denúncias contra big techs, e ex-membro do Comitê de Defesa dos Usuários de Serviços de Telecomunicações da Anatel, o indicador luminoso que sinaliza uma gravação não é suficiente, por si só, para solucionar o problema. Segundo ele, o alerta pode ser pouco perceptível e há modelos no mercado que adotam mecanismos diferentes.\n“Será que o aviso luminoso é suficiente? Para a gente, é insuficiente, porque imagine você na rua dar de cara com alguém com uma câmera dessas ligada. Como você vai lidar com isso? Você vai pedir para a pessoa desligar? Você já está sendo violado ali naquele momento”, afirma Cruz.\nÓculos da Meta têm LED para indicar quando estão gravando ou tirando foto.\nDarlan Helder/g1\nA homologação da Anatel verifica requisitos técnicos e de conectividade dos produtos, mas não equivale a uma análise prévia de todos os possíveis impactos sobre privacidade e proteção de dados, segundo especialistas ouvidos pelo g1. Outro ponto levantado é que, quanto mais esses dispositivos se aproximam da aparência de óculos convencionais, mais difícil pode ser para terceiros perceber a presença de recursos de câmera e gravação.\nQuestionada pelo g1 sobre o uso dos óculos no contexto eleitoral e os pontos levantados na reportagem, a Meta não respondeu especificamente às perguntas. A empresa enviou trechos da legislação e de resoluções do TSE que proíbem, na cabine de votação, instrumentos capazes de registrar, transmitir ou divulgar a escolha do eleitor.\nEspecialistas afirmam que as discussões sobre os limites e as regras para o uso de óculos inteligentes ainda estão em desenvolvimento. Fora do contexto eleitoral, algumas empresas já começaram a estabelecer restrições ao uso desses dispositivos em seus espaços.\nEm 2025, a MSC Cruzeiros, por exemplo, passou a proibir o uso do equipamento em áreas comuns dos navios, como piscinas. O embarque, porém, continua permitido. Segundo a empresa, a medida busca \"proteger a privacidade e a segurança de hóspedes e tripulantes\".",
+      "summary": "Imagem mostra um protótipo dos 'óculos inteligentes' do Facebook e os componentes presentes na haste\nDivulgação\nO uso de celular na cabine de votação é proibido, e quem leva o aparelho à seção eleitoral precisa deixá-lo em local indicado pelo mesário antes de votar. \nMas, enquanto um telefone é relativamente fácil de identificar, outro tipo de dispositivo também proibido pode trazer um desafio diferente nas eleições deste ano: os óculos inteligentes.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\n🔎 Óculos inteligentes são modelos com lentes de grau ou de sol equipados com câmeras, microfones e alto-falantes e capazes até de publicar conteúdo diretamente nas redes sociais. Embora não sejam citados nominalmente nas regras do TSE, esses dispositivos se enquadram na proibição de portar, na cabine de votação, qualquer instrumento que possa comprometer o sigilo do voto.\nA medida impede que a opção escolhida na urna seja registrada, transmitida ou divulgada e também ajuda a coibir práticas como a compra de votos, em que o eleitor pode ser pressionado a apresentar uma prova de como votou. \nAgora no g1\nQuem se recusar a deixar equipamentos proibidos fora da cabine não poderá votar naquele momento. A ocorrência deverá ser registrada em ata e, se necessário, a polícia poderá ser acionada. \n\"Sempre há uma autoridade policial de plantão nas seções para dar suporte aos mesários em casos de recusa ou desacato\", explica Thomas Hannickel, advogado da direito digital da Legitimuz e especialista em Lei Geral de Proteção de Dados (LGPD).\nDesde abril de 2026, o g1 questiona o Tribunal Superior Eleitoral (TSE), responsável pela organização das eleições no Brasil, sobre como pretende lidar com o uso de óculos inteligentes na cabine de votação e se há alguma preparação específica para identificar esse tipo de dispositivo.\nEm resposta, o TSE tem citado o artigo 137 dos Atos Gerais do Processo Eleitoral para as Eleições de 2026, que estabelece que “é vedado à eleitora ou ao eleitor portar aparelho de telefonia celular, máquinas fotográficas, filmadoras, equipamento de radiocomunicação ou qualquer instrumento que possa comprometer o sigilo do voto, ainda que desligados”. \no CEO da Meta, Mark Zuckerberg, usa óculos Meta Ray-Ban Display durante apresentação da nova linha de óculos inteligentes no evento Meta Connect, em Menlo Park, Califórnia (EUA), em 17 de setembro de 2025.\nREUTERS/Carlos Barria\nO assunto preocupa especialistas pela dificuldade de fiscalização: além dos poucos modelos oficiais homologados no Brasil, há versões de marcas menos conhecidas à venda pela internet, com diferentes recursos de segurança e privacidade. \nTambém há formas de comprometer mecanismos que indicam quando alguns desses dispositivos estão gravando ou fotografando, como o LED presente nos óculos da Meta.\n“A Justiça Eleitoral está preparada para garantir e assegurar que o eleitor tenha total liberdade de escolher seus candidatos\", afirma o desembargador Roberto Maia Filho, vice-presidente e corregedor regional eleitoral do TRE-SP. \n\"Por isso, continuará a colocar em prática a proibição de que o eleitor entre na cabine com o telefone celular, com óculos que tenham a funcionalidade de captar imagens ou com qualquer outro dispositivo que possa fazer a mesma coisa”, completa. \nMaia Filho diz que o uso de um novo formato de aparelho não muda a regra nem indica uma vulnerabilidade da urna eletrônica. O risco está na possibilidade de o eleitor produzir uma prova de sua escolha e depois apresentá-la a quem comprou o voto ou o coagiu. \nSegundo o desembargador, o procedimento com os óculos deve ser o mesmo aplicado ao celular: o mesário deve orientar o eleitor a deixar o equipamento fora da cabine.\n🔎 Violar ou tentar violar o sigilo do voto é crime, com pena de detenção de até dois anos. Se o registro for usado para comprovar uma escolha em troca de dinheiro ou outra vantagem, o caso pode envolver corrupção eleitoral; se houver violência ou grave ameaça, coação eleitoral. Os dois crimes têm pena de reclusão de até quatro anos e multa.\nÓculos já foram usados para comprovar compra de votos\nMP pede manutenção de cassação de vereador acusado de compra de votos com óculos espião no Pará\nMPE\nUm caso envolvendo um equipamento desse tipo já foi identificado nas últimas eleições municipais, em 2024, em Ourilândia do Norte, no Pará.\nEleitores venderam seus votos por até R$ 200 e foram coagidos a irem às urnas usando  um \"óculos-espião\" para comprovar que haviam votado no vereador Edivaldo Borges Gomes, conhecido como Irmão Edivaldo (MDB), como havia sido combinado.\nOs óculos tinham uma microcâmera embutida e chamaram a atenção de uma mesária. Mais de um eleitor entrou com o dispositivo na mesma seção eleitoral, conforme revelou o Fantástico.\n⚖️ Em 29 de maio de 2026, o TRE-PA rejeitou por unanimidade os recursos da defesa e manteve a cassação do diploma do vereador por compra de votos e abuso de poder econômico. \nO tribunal também determinou a anulação dos votos recebidos por ele e o reprocessamento do resultado da eleição. Segundo nota publicada pelo Ministério Público Federal em 11 de junho, ainda era possível recorrer, e uma ação penal sobre os mesmos fatos continuava em tramitação.\nOrientação é retirar dispositivo antes da votação\nMesários ouvidos pelo g1 afirmam que, ao identificar óculos inteligentes, a orientação é pedir ao eleitor que deixe o dispositivo fora da cabine de votação, assim como ocorre com celulares e outros equipamentos eletrônicos. O procedimento foi confirmado por uma chefe de cartório eleitoral.\nApesar disso, os óculos inteligentes não são mencionados especificamente nos manuais nem no treinamento dos mesários. O g1 consultou as versões dos manuais das últimas três eleições e também o material usado no treinamento obrigatório de 2026, sem encontrar referência a esse tipo de dispositivo.\nNas orientações deste ano, relógios digitais, por exemplo, aparecem expressamente na lista de equipamentos que não podem ser levados à cabine. Os mesários também são orientados a registrar em ata a recusa do eleitor em entregar aparelhos eletrônicos e as providências adotadas.\nEspecialistas ouvidos pelo g1 destacam que o cumprimento das regras de votação também é responsabilidade do eleitor, que não pode levar para a cabine equipamentos capazes de comprometer o sigilo do voto. Aos mesários cabe orientar os eleitores e adotar os procedimentos previstos caso identifiquem uma irregularidade.\nO professor de Direito Eleitoral da Fundação Getulio Vargas Fernando Neisser afirma que uma falha de percepção, por si só, não torna o mesário responsável por um crime. Segundo ele, os crimes eleitorais exigem conduta intencional. Para haver coautoria na violação do sigilo, seria necessário demonstrar que o mesário sabia da gravação e permitiu que ela ocorresse.\n“Não há necessidade de mudar a regulação para cada tipo de novo equipamento que surja, mas isso exige uma mudança de treinamento e de orientação na hora da votação”, afirma Neisser.\n“Um mesário não é um agente de fiscalização tecnológica. É um treinamento curto e já são diversas informações que ele precisa receber. Cabe à Justiça Eleitoral criar essas diretrizes, mas teremos aplicações distintas e pessoas que não necessariamente conhecem essa tecnologia”, afirma Hannickel.\nPara Ludmila Filizola, advogada especializada em direito digital e novas tecnologias no escritório Mpuppe, o desafio é fazer essa fiscalização de forma equilibrada, sem tratar toda tecnologia como suspeita nem prejudicar quem utiliza esses equipamentos por necessidade ou acessibilidade.\nSegundo a especialista, o presidente da mesa pode pedir que o equipamento seja retirado antes da entrada na cabine.\n“O que não deve acontecer é transformar isso em uma revista tecnológica. Não cabe ao mesário pedir senha, acessar arquivos ou vasculhar o aparelho. Se houver uma suspeita concreta de gravação, o caminho mais adequado é registrar a ocorrência e acionar a autoridade competente”, diz.\nFiscalização complexa\nA fiscalização pode se tornar mais complexa à medida que esses dispositivos ficam mais parecidos com óculos convencionais e chegam ao mercado em diferentes modelos e faixas de preço.\nEm um modelo da Meta consultado pelo g1, uma câmera de 12 megapixels permite tirar fotos e gravar vídeos. O aparelho também capta áudio, faz chamadas, envia mensagens e sincroniza arquivos com o celular, além de oferecer recursos de inteligência artificial, como tradução em tempo real e respostas sobre o que o usuário está vendo. \nNa cabine de votação, recursos de registro e transmissão como esses entram na proibição estabelecida pelo TSE.\nPara Luã Cruz, diretor da CTRL+Z, ONG voltada a denúncias contra big techs, e ex-membro do Comitê de Defesa dos Usuários de Serviços de Telecomunicações da Anatel, o indicador luminoso que sinaliza uma gravação não é suficiente, por si só, para solucionar o problema. Segundo ele, o alerta pode ser pouco perceptível e há modelos no mercado que adotam mecanismos diferentes.\n“Será que o aviso luminoso é suficiente? Para a gente, é insuficiente, porque imagine você na rua dar de cara com alguém com uma câmera dessas ligada. Como você vai lidar com isso? Você vai pedir para a pessoa desligar? Você já está sendo violado ali naquele momento”, afirma Cruz.\nÓculos da Meta têm LED para indicar quando estão gravando ou tirando foto.\nDarlan Helder/g1\nA homologação da Anatel verifica requisitos técnicos e de conectividade dos produtos, mas não equivale a uma análise prévia de todos os possíveis impactos sobre privacidade e proteção de dados, segundo especialistas ouvidos pelo g1. \nOutro ponto levantado é que, quanto mais esses dispositivos se aproximam da aparência de óculos convencionais, mais difícil pode ser para terceiros perceber a presença de recursos de câmera e gravação.\nQuestionada pelo g1 sobre o uso dos óculos no contexto eleitoral e os pontos levantados na reportagem, a Meta não respondeu especificamente às perguntas. A empresa enviou trechos da legislação e de resoluções do TSE que proíbem, na cabine de votação, instrumentos capazes de registrar, transmitir ou divulgar a escolha do eleitor.\nEspecialistas afirmam que as discussões sobre os limites e as regras para o uso de óculos inteligentes ainda estão em desenvolvimento. Fora do contexto eleitoral, algumas empresas já começaram a estabelecer restrições ao uso desses dispositivos em seus espaços.\nEm 2025, a MSC Cruzeiros, por exemplo, passou a proibir o uso do equipamento em áreas comuns dos navios, como piscinas. O embarque, porém, continua permitido. Segundo a empresa, a medida busca \"proteger a privacidade e a segurança de hóspedes e tripulantes\".",
       "tags": [
         "TSE"
       ],
@@ -785,7 +542,7 @@
       "category": "Economia",
       "title": "MP que proíbe bets precisa ser aprovada pelo Congresso até o começo de março para não perder validade",
       "link": "https://g1.globo.com/politica/noticia/2026/09/29/mp-que-proibe-bets-precisa-ser-aprovada-pelo-congresso-ate-o-comeco-de-marco-para-nao-perder-validade.ghtml",
-      "summary": "Joédson Alves/Agência Brasil\nA medida provisória que proibiu as empresas de apostas online, chamadas de bets, foi publicada na última sexta-feira (25), com validade imediata, a nove dias do primeiro turno das eleições.\nMas para que seja mantida, ela tem de ser votada e aprovada pelo Congresso Nacional em até 120 dias, ou seja, até o fim de janeiro do ano que vem.\nEsse prazo legal, entretanto, fica suspenso durante eventual recesso do Congresso Nacional, conforme as regras das medidas provisórias.\nA Constituição federal prevê dois períodos de suspensão dos trabalhos legislativos: de 23 de dezembro a 1º de fevereiro e de 17 a 31 de julho.\nCom isso, a MP precisa ser aprovada pelo Congresso Nacional até 5 de março para não perder a validade. Se não for votada e aprovada dentro desse prazo, a MP caduca e a proibição deixa de produzir efeitos a partir de 6 de março.\nSe a MP não for votada e aprovada pelo Congresso dentro desse prazo, ela perde a validade e as apostas voltam a ser liberadas no país em março de 2027 — já com um novo Congresso Nacional eleito.\nO governo federal proíbe todas as bets no país\n➡️Questionada pelo g1, a Secretaria de Relações Institucionais da Presidência da República informou que será feita uma articulação com os líderes da base aliada no Legislativo para construir o diálogo necessário para a aprovação da medida e contribuir para que sua apreciação avance dentro do prazo almejado.\n\"O governo considera prioritária a apreciação da MP ainda neste ano e vai trabalhar, em diálogo com o Congresso Nacional, para que isso ocorra. Há confiança de que deputados e senadores darão ao tema a atenção compatível com sua importância e com seus impactos sobre a população\", avaliou a Secretaria de Relações Institucionais da Presidência da República.\n🔎Nesta semana, a Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram um pedido, no Supremo Tribunal Federal (STF), para suspender os efeitos da medida provisória de Lula que determinou a proibição imediata da exploração, oferta, intermediação e publicidade das bets e dos cassinos online no país.\nPerda de arrecadação\nO governo federal arrecadou R$ 15,3 bilhões com a taxação das empresas de apostas online, conhecidas como \"bets\", desde o começo de 2025.\nNo ano passado, foram arrecadados R$ 8,94 bilhões e, de janeiro a agosto deste ano, outros R$ 6,32 bilhões. Os dados são da Secretaria da Receita Federal.\n🔎Os valores têm ajudado o governo a atingir as metas fiscais, ou seja, os valores de resultado primário (receitas menos despesas) fixados em lei. Sem eles, o governo teria de apertar mais as contas públicas, podendo levar a bloqueios maiores de gastos.\nGoverno defende Medida Provisória\nNa exposição de motivos da Medida Provisória, os Ministérios da Fazenda e da Justiça informaram que evidências disponíveis indicam que os \"instrumentos existentes não têm sido capazes de assegurar proteção adequada à saúde, aos consumidores, às crianças e aos adolescentes e à estabilidade financeira das famílias\".\n\"Estudos estimam que, em 2025, a transferência líquida de recursos das famílias brasileiras para plataformas de apostas pode ter sido de dezenas de bilhões de reais, com impactos ainda maiores na economia nacional no mesmo período. Além disso há efeitos negativos sobre o consumo das famílias, a arrecadação tributária e a distribuição de renda\", acrescentou o governo.\nPara ser editada, uma Medida Provisória precisa dos requisitos de urgência e relevância. \nSegundo a exposição de motivos, a relevância da medida \"evidencia-se pela magnitude dos impactos econômicos, sociais e sanitários associados à exploração de apostas de quota fixa, incluindo o agravamento do endividamento das famílias, prejuízos à saúde mental da população, a exposição de crianças e adolescentes à atividade e a incidência desproporcional desses efeitos sobre grupos em situação de vulnerabilidade\". \nJá a urgência, segundo o governo, decorre da constatação de que os \"mecanismos regulatórios atualmente vigentes não têm se mostrado suficientes para assegurar proteção adequada aos direitos e interesses jurídicos afetados pela atividade\". \n\"A manutenção do regime atual durante o período necessário à tramitação legislativa ordinária permitiria a continuidade dos impactos econômicos, sociais e sanitários que fundamentam a presente proposta. Mostra-se, portanto, necessária a adoção imediata de medidas destinadas a reduzir a exposição de atuais e potenciais apostadores a riscos já amplamente documentados\", acrescentou o Executivo.",
+      "summary": "Joédson Alves/Agência Brasil\nA medida provisória que proibiu as empresas de apostas online, chamadas de bets, foi publicada na última sexta-feira (25), com validade imediata, a nove dias do primeiro turno das eleições.\nMas para que seja mantida, ela tem de ser votada e aprovada pelo Congresso Nacional em até 120 dias, ou seja, até o fim de janeiro do ano que vem.\nEsse prazo legal, entretanto, fica suspenso durante eventual recesso do Congresso Nacional, conforme as regras das medidas provisórias.\nA Constituição federal prevê dois períodos de suspensão dos trabalhos legislativos: de 23 de dezembro a 1º de fevereiro e de 17 a 31 de julho.\nCom isso, a MP precisa ser aprovada pelo Congresso Nacional até 5 de março para não perder a validade. \nSe a MP não for votada e aprovada pelo Congresso dentro desse prazo, ela perde a validade e as apostas voltam a ser liberadas no país em março de 2027 — já com um novo Congresso Nacional eleito.\nO governo federal proíbe todas as bets no país\n➡️Questionada pelo g1, a Secretaria de Relações Institucionais da Presidência da República informou que será feita uma articulação com os líderes da base aliada no Legislativo para construir o diálogo necessário para a aprovação da medida e contribuir para que sua apreciação avance dentro do prazo almejado.\n\"O governo considera prioritária a apreciação da MP ainda neste ano e vai trabalhar, em diálogo com o Congresso Nacional, para que isso ocorra. Há confiança de que deputados e senadores darão ao tema a atenção compatível com sua importância e com seus impactos sobre a população\", avaliou a Secretaria de Relações Institucionais da Presidência da República.\n🔎Nesta semana, a Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) protocolaram um pedido, no Supremo Tribunal Federal (STF), para suspender os efeitos da medida provisória de Lula que determinou a proibição imediata da exploração, oferta, intermediação e publicidade das bets e dos cassinos online no país.\nPerda de arrecadação\nO governo federal arrecadou R$ 15,3 bilhões com a taxação das empresas de apostas online, conhecidas como \"bets\", desde o começo de 2025.\nNo ano passado, foram arrecadados R$ 8,94 bilhões e, de janeiro a agosto deste ano, outros R$ 6,32 bilhões. Os dados são da Secretaria da Receita Federal.\n🔎Os valores têm ajudado o governo a atingir as metas fiscais, ou seja, os valores de resultado primário (receitas menos despesas) fixados em lei. Sem eles, o governo teria de apertar mais as contas públicas, podendo levar a bloqueios maiores de gastos.\nGoverno defende Medida Provisória\nNa exposição de motivos da Medida Provisória, os Ministérios da Fazenda e da Justiça informaram que evidências disponíveis indicam que os \"instrumentos existentes não têm sido capazes de assegurar proteção adequada à saúde, aos consumidores, às crianças e aos adolescentes e à estabilidade financeira das famílias\".\n\"Estudos estimam que, em 2025, a transferência líquida de recursos das famílias brasileiras para plataformas de apostas pode ter sido de dezenas de bilhões de reais, com impactos ainda maiores na economia nacional no mesmo período. Além disso há efeitos negativos sobre o consumo das famílias, a arrecadação tributária e a distribuição de renda\", acrescentou o governo.\nPara ser editada, uma Medida Provisória precisa dos requisitos de urgência e relevância. \nSegundo a exposição de motivos, a relevância da medida \"evidencia-se pela magnitude dos impactos econômicos, sociais e sanitários associados à exploração de apostas de quota fixa, incluindo o agravamento do endividamento das famílias, prejuízos à saúde mental da população, a exposição de crianças e adolescentes à atividade e a incidência desproporcional desses efeitos sobre grupos em situação de vulnerabilidade\". \nJá a urgência, segundo o governo, decorre da constatação de que os \"mecanismos regulatórios atualmente vigentes não têm se mostrado suficientes para assegurar proteção adequada aos direitos e interesses jurídicos afetados pela atividade\". \n\"A manutenção do regime atual durante o período necessário à tramitação legislativa ordinária permitiria a continuidade dos impactos econômicos, sociais e sanitários que fundamentam a presente proposta. Mostra-se, portanto, necessária a adoção imediata de medidas destinadas a reduzir a exposição de atuais e potenciais apostadores a riscos já amplamente documentados\", acrescentou o Executivo.",
       "tags": [
         "Congresso"
       ],
