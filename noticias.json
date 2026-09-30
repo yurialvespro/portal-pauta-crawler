@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:17:29.040317+00:00",
+  "generated_at": "2026-09-30T20:44:57.317278+00:00",
   "items": [
     {
       "id": "cef1aa1f17b8",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -23,6 +24,30 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 16:25:58 -0000"
+    },
+    {
+      "id": "4f21aeddb626",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula acusa Flávio Bolsonaro de ligação com o crime e Eduardo de conspirar com dinheiro de Vorcaro",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-acusa-flavio-bolsonaro-de-ligacao-com-o-crime-e-eduardo-de-conspirar-com-dinheiro-de-vorcaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Wed, 30 Sep 2026 20:31:15 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -38,6 +63,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -62,9 +88,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Wed, 30 Sep 2026 13:37:10 -0000"
@@ -83,13 +109,13 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
-      "publishedRaw": "Wed, 30 Sep 2026 19:41:05 GMT"
+      "publishedRaw": "Wed, 30 Sep 2026 20:30:04 GMT"
     },
     {
       "id": "fe3909804577",
@@ -153,6 +179,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -162,18 +189,101 @@
       "publishedRaw": "Wed, 30 Sep 2026 16:28:18 +0000"
     },
     {
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+    },
+    {
+      "id": "36f9cc1ae0ca",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pablo Marçal anuncia apoio a Flávio Bolsonaro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml",
+      "summary": "Pablo Marçal (PRTB) anuncia entrada na campanha de Flávio Bolsonaro (PL) durante agenda de campanha em São Paulo (SP) nesta terça-feira (29)\nVittor Sales\nO empresário Pablo Marçal (PRTB) anunciou que entrou na equipe de campanha de Flávio Bolsonaro (PL) para a Presidência da República. O comunicado aconteceu nessa terça-feira (29) em São Paulo. \nSAIBA MAIS: Quem são os candidatos para votar nas eleições de 2026?\nEm fala a jornalistas numa academia de jiu-jitsu, Flávio disse que Marçal vai desenvolver propostas voltadas ao empreendedorismo e \"incentivar uma cultura de prosperidade dentro das famílias, para que não precisem depender de ninguém ou do governo para terem que levar dignidade para suas casas.\"\n\"Pablo Marçal está vindo para nos ajudar nessa parte de empreendedorismo e de mobilidade social. É alguém que é um grande empreendedor,  e está unindo forças nessa grande coalizão\", afirmou Flávio Bolsonaro.\nApesar do ingresso na campanha Flávio, o PRTB, partido de Marçal, segue com candidatura própria à Presidência da República. Após o Tribunal Superior Eleitoral (TSE) barrar o registro da candidatura de Marçal em setembro, o então vice dele, Leonardo Avalanche, se tornou cabeça de chapa. \nAgora no g1\nAo lado de Flávio durante o anúncio, Pablo Marçal destacou que seu objetivo é \"aposentar Lula\". \"Um presidenciável vai virar o voto para Flávio ainda nesta semana\", disse o empresário.\n\"Eu cheguei a convite do Flávio e reafirmo a vocês que todos estão contra o PT agora, e é hora de salvar esse país\", disse Marçal.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 30 Sep 2026 13:41:23 -0000"
+    },
+    {
+      "id": "aad48dc40757",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml",
+      "summary": "Augusto Cury em entrevista a podcast\nDivulgação\nO candidato à Presidência Augusto Cury (Avante) afirmou nesta quarta-feira (30), em entrevista ao podcast Inteligência Ltda., que Flávio Bolsonaro (PL) “não é tanto de direita” e o situou politicamente entre o centro e a esquerda.\n“Eu quero dizer para você que Flávio não é tanto de direita, não, viu?”, declarou. Após o apresentador comentar que há quem coloque Flávio no centro, Cury respondeu: “Centro até para a esquerda”.\nAo defender uma gestão com empreendedorismo, liberdade de negócios e Estado enxuto, Cury também criticou o adversário por, segundo ele, não aceitar o contraditório.\nAgora no g1\nPossível convite para a PF\nCury citou a possibilidade de chamar Leandro Daiello, que foi diretor-geral da Polícia Federal entre 2011 e 2017, nos governos Dilma Rousseff e Michel Temer, para comandar a corporação ou o Ministério da Segurança em um eventual governo.\n“Pode voltar ao governo, talvez dirigindo a Polícia Federal ou até mesmo o Ministério da Segurança”, afirmou.\nO candidato também defendeu a construção de pelo menos mais dois presídios federais e uma força-tarefa que reúna diferentes forças de segurança.\nCríticas a Lula e ao Bolsa Família\nNa mesma entrevista, Cury chamou o “pacote de bondades” do governo Lula de “maldade” e acusou o presidente de usar o aumento do Bolsa Família para obter votos.\n“E vamos falar agora do pacote de bondades. Na verdade, maldade do Lula, porque o Lula, número um, ele colocou 15% a mais no Bolsa Família a 17 dias da eleição. Número um, indica que ele não ama os pobres, porque alguém que ama os pobres deveria ter feito isso no começo do ano. E por que não 30%? É porque é usar a dor das pessoas para ter votos\", afirmou.\n🔎 Lula anunciou em 17 de setembro, a 17 dias do primeiro turno, um reajuste de cerca de 15% nos benefícios do Bolsa Família, elevando o piso de R$ 600 para R$ 691. Os pagamentos com os novos valores começam em 19 de outubro, antes do segundo turno. Segundo o governo, a medida recompõe a inflação acumulada desde março de 2023 e será custeada dentro das regras fiscais, com remanejamento de recursos do Orçamento.\nEncontro com Fachin, do STF\nDurante a entrevista, o candidato afirmou que tentará uma conversa com o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, para tratar da crise na Corte. Segundo Cury, é preciso acabar com a \"espetacularização\" dos julgamentos e divulgar os resultados apenas para as partes envolvidas com cada análise.\n\"STF tem que ser discreto, eles são empregados da sociedade, devia ter o máximo de descrição. Eu vou chamar, conversar com o doutor Fachin e com membros do STF porque eu sei que ele é um leitor carinhoso dos meus livros. Tem que terminar com essa espetacularidade da transmissão ao vivo, tem que gravar e distribuir para as partes\", afirmou.\nDe acordo com Cury, caso eleito, ele levará ao Congresso Nacional a proposta de mandato de 8 anos para ministros do Supremo. \"Alguém que entra como o doutro Toffoli, com 41 anos, sai com 75?! Ah, pelo amor de Deus! Tem que ser 8 anos para ir embora para nunca mais votar\", disse.",
+      "tags": [
+        "Bolsonaro",
+        "esquerda",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 30 Sep 2026 19:20:26 -0000"
+    },
+    {
+      "id": "41603f252ae1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eduardo Bolsonaro ameaça retaliar diplomatas que 'sabotaram' governo de seu pai caso Flávio seja eleito",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eduardo-bolsonaro-ameaca-retaliar-diplomatas-que-sabotaram-governo-de-seu-pai-caso-flavio-seja-eleito.shtml",
+      "summary": "Em vídeo publicado na tarde desta quarta-feira (30) em suas redes sociais, o ex-deputado Eduardo Bolsonaro prometeu fazer \"uma faxina\" no Itamaraty caso seu irmão, o senador Flávio Bolsonaro (PL-RJ), vença a eleição.\nLeia mais (09/30/2026 - 17h11)",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "30 Sep 2026 17:11:00 -0300"
+    },
+    {
       "id": "fbf8494d1a23",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Lula informa que não vai participar do debate da Globo, nesta quinta-feira (1º)",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/lula-informa-que-nao-vai-participar-do-debate-da-globo.ghtml",
-      "summary": "A assessoria do presidente Lula, candidato à reeleição pelo PT, informou à Globo nesta quarta-feira (30) que ele não participará do debate que será realizado pela emissora, nesta quinta-feira (1º) à noite. \nEstão confirmados no debate os candidatos Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo).\nDebate presidencial 2026 na Globo: veja data, horário e onde assistir \nMediado pelo jornalista César Tralli, o encontro será transmitido ao vivo pela TV Globo direto dos Estúdios Globo, no Rio de Janeiro, e também poderá ser visto simultaneamente no g1 e na GloboNews.\nO debate será logo após o Jornal Nacional, com início previsto para as 21h30. Pela primeira vez, o programa ocupará a faixa da novela das 21h, \"Quem Ama Cuida\".\nComo será o formato do debate\nO programa terá quatro blocos de perguntas e respostas, além das considerações finais. Dois blocos são de temas determinados e dois, de tema livre.\nA dinâmica dos candidatos acontece ao redor de um mapa do Brasil posicionado no centro do cenário. \nPor meio do mapa, o debate abordará as regiões do Brasil e temas específicos como a preservação da Amazônia; segurança nas fronteiras e combate ao crime organizado; e desafios para melhorar a infraestrutura para as exportações brasileiras.\nAlém disso, os candidatos poderão escolher entre temas predefinidos no telão para fazer as suas perguntas.\nO candidato que faz a pergunta terá dois minutos para dividir entre a formulação da questão e a réplica. O candidato que responde terá três minutos para dividir entre resposta e tréplica.\nVEJA TAMBÉM\nQuem são os candidatos nas eleições de 2026\nDecisão de Nunes Marques sobre candidatos do Novo\nNa terça-feira (29), o ministro Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), concedeu uma decisão liminar (provisória) requerida pelo Partido Novo, alterando entendimento anterior do TSE que define os critérios de participação de partidos em debates eleitorais em emissoras de rádio e TV.\nA decisão garantiu a participação dos candidatos do Partido Novo nos debates das eleições de 2026 em todas as emissoras de rádio e TV a partir de terça.\nO ministro determinou que os candidatos do Novo ao governo do Distrito Federal (DF), Kiko Caputo, e do Rio de Janeiro (RJ), André Marinho, participassem dos debates realizados pela Globo na noite de terça.\nA decisão também beneficia o candidato a presidente pelo Novo, Romeu Zema.\nAgora no g1\nUrna eletrônica usada nas eleições brasileiras\nTSE",
+      "summary": "Lula informa que não vai participar do debate da Globo, nesta quinta-feira (1º)\nA assessoria do presidente Lula, candidato à reeleição pelo PT, informou à Globo nesta quarta-feira (30) que ele não participará do debate que será realizado pela emissora, nesta quinta-feira (1º) à noite. \nEstão confirmados no debate os candidatos Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo).\nDebate presidencial 2026 na Globo: veja data, horário e onde assistir \nMediado pelo jornalista César Tralli, o encontro será transmitido ao vivo pela TV Globo direto dos Estúdios Globo, no Rio de Janeiro, e também poderá ser visto simultaneamente no g1 e na GloboNews.\nO debate será logo após o Jornal Nacional, com início previsto para as 21h30. Pela primeira vez, o programa ocupará a faixa da novela das 21h, \"Quem Ama Cuida\".\nComo será o formato do debate\nO programa terá quatro blocos de perguntas e respostas, além das considerações finais. Dois blocos são de temas determinados e dois, de tema livre.\nA dinâmica dos candidatos acontece ao redor de um mapa do Brasil posicionado no centro do cenário. \nPor meio do mapa, o debate abordará as regiões do Brasil e temas específicos como a preservação da Amazônia; segurança nas fronteiras e combate ao crime organizado; e desafios para melhorar a infraestrutura para as exportações brasileiras.\nAlém disso, os candidatos poderão escolher entre temas predefinidos no telão para fazer as suas perguntas.\nO candidato que faz a pergunta terá dois minutos para dividir entre a formulação da questão e a réplica. O candidato que responde terá três minutos para dividir entre resposta e tréplica.\nVEJA TAMBÉM\nQuem são os candidatos nas eleições de 2026\nDecisão de Nunes Marques sobre candidatos do Novo\nNa terça-feira (29), o ministro Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), concedeu uma decisão liminar (provisória) requerida pelo Partido Novo, alterando entendimento anterior do TSE que define os critérios de participação de partidos em debates eleitorais em emissoras de rádio e TV.\nA decisão garantiu a participação dos candidatos do Partido Novo nos debates das eleições de 2026 em todas as emissoras de rádio e TV a partir de terça.\nO ministro determinou que os candidatos do Novo ao governo do Distrito Federal (DF), Kiko Caputo, e do Rio de Janeiro (RJ), André Marinho, participassem dos debates realizados pela Globo na noite de terça.\nA decisão também beneficia o candidato a presidente pelo Novo, Romeu Zema.\nUrna eletrônica usada nas eleições brasileiras\nTSE",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -181,6 +291,27 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 30 Sep 2026 16:14:24 -0000"
+    },
+    {
+      "id": "7969f4b524da",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
+      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
     },
     {
       "id": "ddc0da49ab4a",
@@ -195,6 +326,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -202,6 +334,50 @@
       ],
       "score": 85,
       "publishedRaw": "30 Sep 2026 16:55:00 -0300"
+    },
+    {
+      "id": "12f4c3665b14",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sem Lula, Flávio define estratégias para último debate antes do 1º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/sem-lula-flavio-define-estrategias-para-ultimo-debate-antes-do-1o-turno/",
+      "summary": "Com ausência confirmada de Lula no último debate antes do 1º turno, campanha de Flávio Bolsonaro traça novos cenários de confronto; a apuração é da âncora da CNN Débora Bergamasco",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 20:19:19 +0000"
+    },
+    {
+      "id": "ede362741e70",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Isso é grave”, diz Augusto Cury sobre ausência de Lula em debate da Globo",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/isso-e-grave-diz-augusto-cury-sobre-ausencia-de-lula-em-debate-da-globo/",
+      "summary": "Candidato do Avante afirmou que queria questionar o presidente sobre endividamento, juros e desempenho da educação brasileira",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 19:59:17 +0000"
     },
     {
       "id": "b17f52bf2cd8",
@@ -216,6 +392,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -237,6 +414,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -258,6 +436,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -279,6 +458,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -288,15 +468,15 @@
       "publishedRaw": "Wed, 30 Sep 2026 19:49:15 +0000"
     },
     {
-      "id": "7969f4b524da",
+      "id": "fe0a7a30441c",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nAgora no g1\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
+      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
+      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
       "tags": [
-        "Lula"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
@@ -304,47 +484,8 @@
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
-    },
-    {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
-    },
-    {
-      "id": "36f9cc1ae0ca",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pablo Marçal anuncia apoio a Flávio Bolsonaro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml",
-      "summary": "Pablo Marçal (PRTB) anuncia entrada na campanha de Flávio Bolsonaro (PL) durante agenda de campanha em São Paulo (SP) nesta terça-feira (29)\nVittor Sales\nO empresário Pablo Marçal (PRTB) anunciou que entrou na equipe de campanha de Flávio Bolsonaro (PL) para a Presidência da República. O comunicado aconteceu nessa terça-feira (29) em São Paulo. \nSAIBA MAIS: Quem são os candidatos para votar nas eleições de 2026?\nEm fala a jornalistas numa academia de jiu-jitsu, Flávio disse que Marçal vai desenvolver propostas voltadas ao empreendedorismo e \"incentivar uma cultura de prosperidade dentro das famílias, para que não precisem depender de ninguém ou do governo para terem que levar dignidade para suas casas.\"\n\"Pablo Marçal está vindo para nos ajudar nessa parte de empreendedorismo e de mobilidade social. É alguém que é um grande empreendedor,  e está unindo forças nessa grande coalizão\", afirmou Flávio Bolsonaro.\nApesar do ingresso na campanha Flávio, o PRTB, partido de Marçal, segue com candidatura própria à Presidência da República. Após o Tribunal Superior Eleitoral (TSE) barrar o registro da candidatura de Marçal em setembro, o então vice dele, Leonardo Avalanche, se tornou cabeça de chapa. \nAgora no g1\nAo lado de Flávio durante o anúncio, Pablo Marçal destacou que seu objetivo é \"aposentar Lula\". \"Um presidenciável vai virar o voto para Flávio ainda nesta semana\", disse o empresário.\n\"Eu cheguei a convite do Flávio e reafirmo a vocês que todos estão contra o PT agora, e é hora de salvar esse país\", disse Marçal.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
       "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 13:41:23 -0000"
+      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
     },
     {
       "id": "7969f4b524da",
@@ -353,12 +494,13 @@
       "category": "Economia",
       "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
       "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nAgora no g1\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
+      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -368,23 +510,44 @@
       "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
     },
     {
-      "id": "0d47e6f8e9f0",
-      "source": "CNN Brasil",
+      "id": "dc81223d3293",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleições 2026: saiba qual o valor da multa para quem não votar",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-saiba-qual-o-valor-da-multa-para-quem-nao-votar/",
-      "summary": "Primeiro turno das eleições gerais deste ano acontece no próximo domingo, dia 4 de outubro",
+      "title": "Ministro do TSE diverge de Mendonça e defende publicação de Tabet sobre Nossa Senhora",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/ministro-do-tse-diverge-de-mendonca-e-defende-publicacao-de-tabet-sobre-nossa-senhora.shtml",
+      "summary": "O ministro Ricardo Villas Bôas Cueva, corregedor-geral eleitoral do TSE (Tribunal Superior Eleitoral), divergiu nesta quarta-feira (30) do relator André Mendonça no julgamento de uma representação sobre publicações envolvendo Flávio Bolsonaro (PL) e Nossa Senhora Aparecida.\nLeia mais (09/30/2026 - 17h34)",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 19:26:29 +0000"
+      "publishedRaw": "30 Sep 2026 17:34:00 -0300"
+    },
+    {
+      "id": "4ccb56217703",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE tem 3 votos a 1 para proibir posts com fake news sobre Nossa Senhora; votação continua",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
     },
     {
       "id": "abdedcc0e828",
@@ -400,7 +563,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil"
+        "Folha de São Paulo"
       ],
       "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 19:32:45 +0000"
@@ -419,7 +582,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil"
+        "Folha de São Paulo"
       ],
       "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 17:05:07 +0000"
@@ -436,6 +599,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -443,7 +607,7 @@
         "Poder360"
       ],
       "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 19:08:59 GMT"
+      "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
     },
     {
       "id": "f0bc9ce6e993",
@@ -457,6 +621,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -479,50 +644,31 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
-      "id": "aad48dc40757",
-      "source": "G1 - Política",
+      "id": "266f07cbe7ff",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml",
-      "summary": "Augusto Cury em entrevista a podcast\nDivulgação\nO candidato à Presidência Augusto Cury (Avante) afirmou nesta quarta-feira (30), em entrevista ao podcast Inteligência Ltda., que Flávio Bolsonaro (PL) “não é tanto de direita” e o situou politicamente entre o centro e a esquerda.\n“Eu quero dizer para você que Flávio não é tanto de direita, não, viu?”, declarou. Após o apresentador comentar que há quem coloque Flávio no centro, Cury respondeu: “Centro até para a esquerda”.\nAo defender uma gestão com empreendedorismo, liberdade de negócios e Estado enxuto, Cury também criticou o adversário por, segundo ele, não aceitar o contraditório.\nAgora no g1\nPossível convite para a PF\nCury citou a possibilidade de chamar Leandro Daiello, que foi diretor-geral da Polícia Federal entre 2011 e 2017, nos governos Dilma Rousseff e Michel Temer, para comandar a corporação ou o Ministério da Segurança em um eventual governo.\n“Pode voltar ao governo, talvez dirigindo a Polícia Federal ou até mesmo o Ministério da Segurança”, afirmou.\nO candidato também defendeu a construção de pelo menos mais dois presídios federais e uma força-tarefa que reúna diferentes forças de segurança.\nCríticas a Lula e ao Bolsa Família\nNa mesma entrevista, Cury chamou o “pacote de bondades” do governo Lula de “maldade” e acusou o presidente de usar o aumento do Bolsa Família para obter votos.\n“E vamos falar agora do pacote de bondades. Na verdade, maldade do Lula, porque o Lula, número um, ele colocou 15% a mais no Bolsa Família a 17 dias da eleição. Número um, indica que ele não ama os pobres, porque alguém que ama os pobres deveria ter feito isso no começo do ano. E por que não 30%? É porque é usar a dor das pessoas para ter votos\", afirmou.\n🔎 Lula anunciou em 17 de setembro, a 17 dias do primeiro turno, um reajuste de cerca de 15% nos benefícios do Bolsa Família, elevando o piso de R$ 600 para R$ 691. Os pagamentos com os novos valores começam em 19 de outubro, antes do segundo turno. Segundo o governo, a medida recompõe a inflação acumulada desde março de 2023 e será custeada dentro das regras fiscais, com remanejamento de recursos do Orçamento.\nEncontro com Fachin, do STF\nDurante a entrevista, o candidato afirmou que tentará uma conversa com o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, para tratar da crise na Corte. Segundo Cury, é preciso acabar com a \"espetacularização\" dos julgamentos e divulgar os resultados apenas para as partes envolvidas com cada análise.\n\"STF tem que ser discreto, eles são empregados da sociedade, devia ter o máximo de descrição. Eu vou chamar, conversar com o doutor Fachin e com membros do STF porque eu sei que ele é um leitor carinhoso dos meus livros. Tem que terminar com essa espetacularidade da transmissão ao vivo, tem que gravar e distribuir para as partes\", afirmou.\nDe acordo com Cury, caso eleito, ele levará ao Congresso Nacional a proposta de mandato de 8 anos para ministros do Supremo. \"Alguém que entra como o doutro Toffoli, com 41 anos, sai com 75?! Ah, pelo amor de Deus! Tem que ser 8 anos para ir embora para nunca mais votar\", disse.",
+      "title": "TSE tem 3 X 1 para remover posts sobre Nossa Senhora e Flávio",
+      "link": "https://www.poder360.com.br/poder-justica/tse-tem-3-x-1-para-remover-posts-sobre-nossa-senhora-e-flavio/",
+      "summary": "Ministros seguem posição de André Mendonça e demonstram unidade da ala do Supremo no TSE; corregedor diverge na amplitude da medida",
       "tags": [
-        "Bolsonaro",
-        "esquerda",
-        "Flávio Bolsonaro"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 81,
-      "publishedRaw": "Wed, 30 Sep 2026 19:20:26 -0000"
-    },
-    {
-      "id": "41603f252ae1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eduardo Bolsonaro ameaça retaliar diplomatas que 'sabotaram' governo de seu pai caso Flávio seja eleito",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eduardo-bolsonaro-ameaca-retaliar-diplomatas-que-sabotaram-governo-de-seu-pai-caso-flavio-seja-eleito.shtml",
-      "summary": "Em vídeo publicado na tarde desta quarta-feira (30) em suas redes sociais, o ex-deputado Eduardo Bolsonaro prometeu fazer \"uma faxina\" no Itamaraty caso seu irmão, o senador Flávio Bolsonaro (PL-RJ), vença a eleição.\nLeia mais (09/30/2026 - 17h11)",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "30 Sep 2026 17:11:00 -0300"
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 20:39:50 +0000"
     },
     {
       "id": "d4c1ca32a46c",
@@ -579,80 +725,22 @@
       "publishedRaw": "Wed, 30 Sep 2026 15:27:41 -0000"
     },
     {
-      "id": "fe0a7a30441c",
-      "source": "G1 - Política",
+      "id": "9d3ed9430192",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
-      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
+      "title": "Justiça proíbe funcionário do Planalto de postar sobre eleições a pedido de Flávio após caso Nossa Senhora",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/justica-proibe-funcionario-do-planalto-de-postar-sobre-eleicoes-a-pedido-de-flavio-apos-caso-nossa-senhora.shtml",
+      "summary": "A 1ª Zona Eleitoral do Distrito Federal acolheu um pedido da campanha do senador Flávio Bolsonaro (PL-RJ) e proibiu um servidor do Palácio do Planalto de publicar conteúdos políticos-eleitorais sobre a eleição presidencial de 2026.\nLeia mais (09/30/2026 - 17h38)",
       "tags": [
-        "TSE"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
-    },
-    {
-      "id": "d93e4e64dfc2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE tem 3 a 0 para proibir posts sobre fake news de Nossa Senhora",
-      "link": "https://www.cnnbrasil.com.br/politica/julgamento-tse-fake-news-nossa-senhora-aparecida/",
-      "summary": "Corte Eleitoral analisa decisão do ministro André Mendonça sobre a derrubada de publicações com a informação falsa de que Flávio Bolsonaro teria defendido a retirada do título de Padroeira do Brasil de Nossa Senhora Aparecida",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 19:29:47 +0000"
-    },
-    {
-      "id": "4ccb56217703",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE tem três votos a um para proibir posts com fake news sobre Nossa Senhora; votação continua",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
-    },
-    {
-      "id": "0078cabd649c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quem são os ministros do TSE que votam derrubada de posts falsos sobre N.S. Aparecida",
-      "link": "https://www.estadao.com.br/politica/quem-sao-os-ministros-do-tse-que-votam-derrubada-de-posts-falsos-sobre-ns-aparecida-npr/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 14:11:33 +0000"
+      "score": 78,
+      "publishedRaw": "30 Sep 2026 17:38:00 -0300"
     },
     {
       "id": "101df2cb01d4",
@@ -666,26 +754,11 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 77,
       "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
-    },
-    {
-      "id": "6caf95b18a38",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "No domingo, Flávio acompanha resultado das urnas em Brasília",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/no-domingo-flavio-acompanha-resultado-das-urnas-em-brasilia/",
-      "summary": "Campanha ainda avalia se grupo político vai se encontrar na casa do senador ou no QG, no Lago Sul",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "Wed, 30 Sep 2026 18:52:39 +0000"
     },
     {
       "id": "ce125d549da5",
