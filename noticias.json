@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:51:28.614484+00:00",
+  "generated_at": "2026-09-30T01:16:56.387356+00:00",
   "items": [
     {
       "id": "d75191a6a76b",
@@ -74,6 +74,29 @@
       "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
     },
     {
+      "id": "401534eb9783",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Waack: STF e TSE brigam pelo controle das eleições",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/waack-stf-e-tse-brigam-pelo-controle-das-eleicoes/",
+      "summary": "Mantém em suspenso questão de ordem que acusa o topo do TSE de estar impedido de votar dentro da Corte, pois teria se comportado de maneira inapropriada favorecendo a oposição",
+      "tags": [
+        "STF",
+        "eleições",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 93,
+      "publishedRaw": "Wed, 30 Sep 2026 01:02:49 +0000"
+    },
+    {
       "id": "8bcde5b397dd",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -141,27 +164,6 @@
       "publishedRaw": "29 Sep 2026 21:01:00 -0300"
     },
     {
-      "id": "93f86d69ec21",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro perde mais respondendo fake news sobre Nossa Senhora",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/09/flavio-bolsonaro-perde-mais-respondendo-fake-news-sobre-nossa-senhora.shtml",
-      "summary": "Flávio Bolsonaro tenta secar gelo. Há uma semana ele repete que é fake news a história de que pretende tirar de Nossa Senhora Aparecida o posto de padroeira do Brasil. Ele tem razão. Mas o eleitor católico não está julgando o que Flávio disse. Está julgando o que evangélicos, alguns próximos a ele, vêm dizendo e fazendo há décadas.\nLeia mais (09/29/2026 - 20h07)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "29 Sep 2026 20:07:00 -0300"
-    },
-    {
       "id": "2d0b73a66a5a",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -202,6 +204,27 @@
       ],
       "score": 90,
       "publishedRaw": "Tue, 29 Sep 2026 20:47:26 -0000"
+    },
+    {
+      "id": "4f0ff959c158",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TRE-SP determina retirada de vídeo de Eduardo Bolsonaro após fala contra Simone Tebet",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tre-sp-determina-retirada-de-video-de-eduardo-bolsonaro-apos-fala-contra-simone-tebet-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
     },
     {
       "id": "9c5553de1124",
@@ -249,48 +272,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 23:05:54 -0000"
     },
     {
-      "id": "924e0d868da4",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nunes Marques diz que mais de 90% das urnas estão preparadas para eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-diz-que-mais-de-90-das-urnas-estao-preparadas-para-eleicoes/",
-      "summary": "Presidente do Tribunal Superior Eleitoral afirmou que a maioria das urnas já chegou aos locais de votação; TSE começou a testar as urnas eletrônicas em dezembro de 2025",
-      "tags": [
-        "eleições",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "Tue, 29 Sep 2026 23:33:05 +0000"
-    },
-    {
-      "id": "df1ce7550738",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino não integra TSE e há interferência política do STF, diz especialista",
-      "link": "https://www.cnnbrasil.com.br/politica/dino-nao-integra-tse-e-ha-interferencia-politica-do-stf-diz-especialista/",
-      "summary": "Vera Chemin avalia que interferências políticas entre ministros do STF e TSE podem fundamentar pedidos para anular o pleito eleitoral",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "Tue, 29 Sep 2026 23:29:23 +0000"
-    },
-    {
       "id": "125f7a2b3987",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -311,6 +292,29 @@
       ],
       "score": 88,
       "publishedRaw": "Tue, 29 Sep 2026 22:01:05 +0000"
+    },
+    {
+      "id": "d509d57fb583",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Coligação de Lula aciona TSE contra publicação de Nikolas que usa fala do presidente sobre ‘toque’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/coligacao-de-lula-aciona-tse-contra-publicacao-de-nikolas-que-usa-fala-do-presidente-sobre-toque-nprp/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 30 Sep 2026 00:34:26 +0000"
     },
     {
       "id": "2d1951e3cdec",
@@ -444,13 +448,13 @@
       "publishedRaw": "Tue, 29 Sep 2026 20:13:39 -0000"
     },
     {
-      "id": "bace42b6819f",
+      "id": "1259fb088a15",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Padilha chama de repugnante ataque bolsonarista a fala de Lula sobre mulheres",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/padilha-chama-de-repugnante-ataque-bolsonarista-a-fala-de-lula.shtml",
-      "summary": "O ministro da Saúde, Alexandre Padilha, disse ser repugnante a associação feita pela campanha de Flávio Bolsonaro (PL) da fala do presidente Lula (PT) sobre \"toque\" em mulheres com estupro de menores.\nLeia mais (09/29/2026 - 20h11)",
+      "title": "Lula presta solidariedade a bispos e diz que 'todas religiões' são atacadas quando uma é alvo de políticos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/lula-presta-solidariedade-a-bispos-e-diz-que-todas-religioes-sao-atacadas-quando-uma-e-alvo-de-politicos.shtml",
+      "summary": "O presidente Lula (PT) emitiu uma nota em solidariedade à CNBB (Conferência Nacional dos Bispos do Brasil) após Flávio Bolsonaro (PL) acusar o grupo de propagar notícias falsas contra ele.\nLeia mais (09/29/2026 - 22h00)",
       "tags": [
         "Lula"
       ],
@@ -463,16 +467,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "29 Sep 2026 20:11:00 -0300"
+      "publishedRaw": "29 Sep 2026 22:00:00 -0300"
     },
     {
-      "id": "136b0e6f2f13",
+      "id": "b52fcc7e11b8",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que falou de coragem feminina ao citar “toque” e critica Nikolas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-falou-de-coragem-feminina-ao-citar-toque-e-critica-nikolas/",
-      "summary": "Em Salvador o presidente criticou a divulgação de corte descontextualizado e defendeu sua declaração sobre exames preventivos feita durante agenda no Pará",
+      "title": "Lula publica nota em solidariedade à CNBB e devotos de Nossa Senhora",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-publica-nota-em-solidariedade-a-cnbb-e-devotos-de-nossa-senhora/",
+      "summary": "Presidente manifesta solidariedade a bispos e devotos em meio a polêmica provocada pela fake news relacionando o nome de Flávio Bolsonaro (PL) e a figura da Padroeira do Brasil",
       "tags": [
         "Lula"
       ],
@@ -485,7 +489,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 23:26:15 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 00:52:14 +0000"
     },
     {
       "id": "f4095a72b5e0",
@@ -554,48 +558,48 @@
       "publishedRaw": "Tue, 29 Sep 2026 20:48:38 +0000"
     },
     {
-      "id": "d6342a76f328",
-      "source": "Estadão",
+      "id": "38c83f0908f4",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula copia Flávio e mira frustração de indecisos, na reta final da campanha",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-copia-flavio-e-mira-frustracao-de-indecisos-na-reta-final-da-campanha/",
-      "summary": "",
+      "title": "Lula chama baianos de “povo superior” em ato em Salvador",
+      "link": "https://www.poder360.com.br/poder-governo/lula-chama-baianos-de-povo-superior-em-ato-em-salvador/",
+      "summary": "Presidente elogia a diversidade cultural da Bahia e cita nomes da música e da Independência após caminhada de campanha",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 20:39:23 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 01:13:41 +0000"
     },
     {
-      "id": "2eb4f071205a",
-      "source": "Estadão",
+      "id": "b3583ea8a2d1",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Atlas: Cadu de Lula lidera corrida ao governo do RN, com 37,1%; Álvaro Dias e Allyson empatam",
-      "link": "https://www.estadao.com.br/politica/eleicoes/atlas-cadu-de-lula-lidera-corrida-ao-governo-do-rn-com-371-alvaro-dias-e-allyson-empatam/",
-      "summary": "",
+      "title": "Nikolas critica fala de Lula: “Meninas não são tocadas desde cedo”",
+      "link": "https://www.poder360.com.br/poder-congresso/nikolas-critica-fala-de-lula-meninas-nao-sao-tocadas-desde-cedo/",
+      "summary": "Deputado cita orientações médicas para contestar a referência à infância e critica petistas que defendem a declaração",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 20:46:49 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 00:57:21 +0000"
     },
     {
       "id": "28c318da6325",
@@ -803,23 +807,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
     },
     {
-      "id": "b273e858c786",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do STF aconselham Fachin a evitar julgamento sobre fake news da padroeira antes da eleição",
-      "link": "https://www.estadao.com.br/politica/ministros-do-stf-aconselham-fachin-a-evitar-julgamento-sobre-nossa-senhora-antes-das-eleicoes/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 29 Sep 2026 21:00:33 +0000"
-    },
-    {
       "id": "313a625ec835",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -837,6 +824,23 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
     },
     {
+      "id": "b273e858c786",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do STF aconselham Fachin a evitar julgamento sobre fake news da padroeira antes da eleição",
+      "link": "https://www.estadao.com.br/politica/ministros-do-stf-aconselham-fachin-a-evitar-julgamento-sobre-nossa-senhora-antes-das-eleicoes/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 29 Sep 2026 21:00:33 +0000"
+    },
+    {
       "id": "720e833ab7fe",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -849,11 +853,25 @@
         "candidatura"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "G1 - Política"
       ],
-      "score": 75,
+      "score": 70,
       "publishedRaw": "Tue, 29 Sep 2026 14:39:45 +0000"
+    },
+    {
+      "id": "e01b391196ee",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Debate da Globo em SP: acompanhe o encontro entre Tarcísio de Freitas e Fernando Haddad",
+      "link": "https://www.estadao.com.br/politica/ao-vivo-debate-globo-governador-sao-paulo-2026-tarcisio-de-freitas-fernando-haddad/",
+      "summary": "",
+      "tags": [
+        "Tarcísio de Freitas"
+      ],
+      "crossOutlets": [],
+      "score": 68,
+      "publishedRaw": "Wed, 30 Sep 2026 00:47:12 +0000"
     },
     {
       "id": "5c42fa8f0f27",
