@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:17:13.159381+00:00",
+  "generated_at": "2026-09-30T09:48:14.047121+00:00",
   "items": [
     {
       "id": "e93ee1105bca",
@@ -244,30 +244,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:00:33 +0000"
     },
     {
-      "id": "9c5553de1124",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisador diz que esquerda está usando de forma inédita o tema religião para animar o seu eleitorado a poucos dias do primeiro turno.",
-      "tags": [
-        "Bolsonaro",
-        "esquerda",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
-    },
-    {
       "id": "624ecccbc5b7",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -391,6 +367,26 @@
       "publishedRaw": "Wed, 30 Sep 2026 02:05:28 -0000"
     },
     {
+      "id": "3604f9f86c71",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "BBC News Brasil fará cobertura AO VIVO sobre debate e jornada eleitoral, apuração e resultados do primeiro turno das eleições 2026",
+      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Você poderá acompanhar cobertura em tempo real de debate da TV Globo na quinta-feira; no domingo, haverá transmissão ao vivo durante apuração dos resultados.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
+    },
+    {
       "id": "22349d5b94ac",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -501,6 +497,28 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:16:27 +0000"
     },
     {
+      "id": "2888d909bd41",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Médico aciona entidades por fala de Lula sobre “tomar toque”",
+      "link": "https://www.poder360.com.br/poder-saude/medico-aciona-entidades-por-fala-de-lula-sobre-tomar-toque/",
+      "summary": "Victor Augustho pediu posicionamento da Sociedade Brasileira de Pediatria e da Febrasgo sobre declaração do presidente; post teve 284 mil visualizações",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 09:42:03 +0000"
+    },
+    {
       "id": "a056ebf8b7fc",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -545,28 +563,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 09:15:14 +0000"
     },
     {
-      "id": "345fd929c307",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba como estão Lula e Flávio nas pesquisas a 4 dias do 1º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-4-dias-do-1o-turno/",
-      "summary": "Senador fica numericamente à frente em 7 estudos e Lula em outros 4 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 09:00:04 +0000"
-    },
-    {
       "id": "caa234a915a2",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
@@ -593,7 +589,7 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca e o que a faz voltar de tempos em tempos?",
+      "title": "A teoria da conspiração que diz que Lula é um clone e que convenceu 12% do eleitorado — e por que ela volta de tempos em tempos",
       "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
       "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
       "tags": [
@@ -674,7 +670,7 @@
       "category": "Política",
       "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
       "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
-      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até às 23h59 desta quarta.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até as 23h59 desta quarta.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
       "tags": [
         "TSE"
       ],
