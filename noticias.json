@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:52:41.884278+00:00",
+  "generated_at": "2026-09-30T13:20:11.841435+00:00",
   "items": [
     {
       "id": "94a0565aded9",
@@ -21,7 +21,6 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
       "score": 96,
@@ -43,11 +42,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -66,35 +64,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Wed, 30 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
       "id": "708ce9a4b4ba",
@@ -112,12 +86,33 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 93,
       "publishedRaw": "Wed, 30 Sep 2026 01:57:59 +0000"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
       "id": "8bcde5b397dd",
@@ -136,7 +131,6 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -159,32 +153,70 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Wed, 30 Sep 2026 03:10:48 -0000"
     },
     {
-      "id": "ba6521359d4e",
+      "id": "88b527aaedd2",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Japão realiza primeira cirurgia cardíaca com células-tronco",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/japao-realiza-primeira-cirurgia-cardiaca-com-celulas-tronco.shtml",
-      "summary": "Um hospital no Japão realizou a primeira cirurgia do mundo utilizando lâminas de células-tronco de músculo cardíaco disponíveis comercialmente, após a aprovação dessa terapia inovadora no início deste ano, segundo um dos cirurgiões.\nLeia mais (09/30/2026 - 09h02)",
+      "title": "Lula promete benefício a mães atípicas e cuidadoras",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/romulo-saraiva/2026/09/lula-promete-beneficio-a-maes-atipicas-e-cuidadoras.shtml",
+      "summary": "Após aumentar o valor do Bolsa Família, buscar o fim das bets e o fornecimento gratuito de canetas emagrecedoras, o presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) prometeu criar a partir de 2027 um novo benefício no âmbito do INSS (Instituto Nacional do Seguro Social).\nLeia mais (09/30/2026 - 10h00)",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "30 Sep 2026 09:02:00 -0300"
+      "score": 84,
+      "publishedRaw": "30 Sep 2026 10:00:00 -0300"
+    },
+    {
+      "id": "1843c3fd3a85",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bets querem usar proibição de Lula para se livrar de patrocínios do futebol que já não davam retorno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/09/bets-querem-usar-proibicao-de-lula-para-se-livrar-de-patrocinios-do-futebol-que-ja-nao-davam-retorno.shtml",
+      "summary": "Algumas bets querem aproveitar a medida provisória do governo Lula (PT) que proibiu as apostas online para se livrar, sem ter prejuízo, de contratos de patrocínio com os quais já estavam insatisfeitas.\nLeia mais (09/30/2026 - 10h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "30 Sep 2026 10:00:00 -0300"
+    },
+    {
+      "id": "e74618692453",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula acelera crédito a estados e municípios e amplia limites às vésperas da eleição",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-acelera-credito-a-estados-e-municipios-e-amplia-limites-as-vesperas-da-eleicao.shtml",
+      "summary": "O governo de Luiz Inácio Lula da Silva (PT) liberou um volume maior de crédito para estados e municípios em 2026 e até ampliou os limites para destravar novos empréstimos às vésperas da eleição.\nLeia mais (09/30/2026 - 10h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "30 Sep 2026 10:00:00 -0300"
     },
     {
       "id": "0fcad7f2cdd0",
@@ -200,21 +232,20 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
-      "id": "176d361d0e7a",
+      "id": "c241c0be8c37",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Zema apoiará anti-Lula em seguida a anúncio do 2º turno",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/zema-apoiara-anti-lula-em-seguida-a-anuncio-do-2o-turno/",
-      "summary": "Candidato do Novo, com 1% na pesquisa PoderData/Aya, diz que fará declaração no domingo assim que sair o resultado do 1º turno",
+      "title": "Lula propõe até 6 anos de prisão para quem explorar ou operar bets",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-propoe-ate-6-anos-de-prisao-para-quem-operar-bets/",
+      "summary": "Projeto estabelece pena de 4 a 6 anos para quem explorar apostas; jogo do bicho é punido com até 1 ano",
       "tags": [
         "Lula"
       ],
@@ -222,72 +253,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 12:02:07 +0000"
-    },
-    {
-      "id": "931e8d3e93c8",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: como votar em trânsito?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-como-votar-em-transito.ghtml",
-      "summary": "Solicitação para voto em trânsito termina dia 20 de agosto\nEleitores que optarem pelo voto em trânsito nas Eleições 2026 poderão votar fora da cidade onde têm domicílio eleitoral. O prazo para solicitar a modalidade terminou em 20 de agosto.\nA opção estará disponível nas capitais e em municípios com mais de 100 mil eleitores. Os locais de votação serão definidos pelos Tribunais Regionais Eleitorais (TREs).\nVeja abaixo como funciona o voto em trânsito.\nO que é o voto em trânsito?\nO voto em trânsito permite que cidadãos que estão fora da cidade onde votam participem da eleição em outro local.\nA modalidade existe nas eleições gerais, quando são escolhidos presidente, governadores, senadores e deputados federais, estaduais e distritais.\nA pessoa que estiver em cidades diferentes nos dois turnos da eleição pode solicitar a habilitação para votar em trânsito em uma cidade distinta em cada turno.\nApós as eleições, o título retornará à seção eleitoral de origem automaticamente, o que dispensa a necessidade de pedir a transferência de volta ao domicílio eleitoral original.\nEm quais cargos o eleitor pode votar nesta situação?\nIsso depende de onde o eleitor estará no dia da votação. Quem estiver no mesmo estado, mas em outra cidade, pode votar para presidente da República, governador, senador, deputado federal e deputado estadual ou distrital. \nJá quem estiver fora do estado onde vota poderá escolher apenas o presidente da República.\nComo funciona para quem mora no exterior?\nBrasileiros que moram no exterior e estarão no país durante as eleições também podem usar o voto em trânsito. \nQuem tem título registrado no exterior pode votar no Brasil em outubro, desde que solicite o voto em trânsito no mesmo prazo para quem mora no Brasil.\nO que acontece se o eleitor não comparecer?\nO eleitor que se inscreveu para o voto em trânsito e não pôde comparecer deve justificar a ausência, mesmo que esteja na cidade onde tem inscrição eleitoral no dia da eleição.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "caa234a915a2",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixarem o Brasil",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/29/e-fake-que-video-mostre-presidente-do-paraguai-agradecendo-a-lula-por-empresas-deixarem-o-brasil.ghtml",
-      "summary": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nCircula nas redes sociais um vídeo que mostra o presidente Lula (PT) conversando com um homem em um evento. Segundo as descrições dos posts, esse interlocutor seria o presidente paraguaio Santiago Penã, flagrado no momento em que agradeceu ao petista, durante a Assembleia Geral da Organização das Nações Unidas (ONU), por empresas migrarem do Brasil para o Paraguai. É #FAKE.\n✅ Siga o canal de Fato ou Fake no WhatsApp\nSelo Fake (Horizontal)\ng1\n🔴 Como é o vídeo?\nPublicado no X, Threads, Instagram, Facebook e TikTok, o vídeo começou a circular na quarta-feira (23), um dia após o presidente Lula ter feito discurso na abertura do debate geral da 81ª Assembleia Geral da ONU, em Nova York.\nUma caixa de texto sobreposta às imagens diz: \"Lula foge de Rubio na ONU, mas é barrado pelo presidente do Paraguai, que agradece a política que faz empresas brasileiras atravessarem a fronteira\".\nO registro mostra Lula cumprimentando um homem com um aperto de mão. Uma tradutora que assistia ao diálogo traduziu as declarações para o português.\n⚠️ Por que é #FAKE? \nEmbora seja real – e não um registro fabricado por inteligência artificial (IA) –, o vídeo mostra uma conversa entre Lula e o senador paraguaio Beto Ovelar, ocorrida em 30 de junho, durante a cúpula do Mercosul, em Assunção. O presidente Santiago Peña, aliás, estava presente naquele encontro (veja imagem ao final desta checagem). Além disso, o trecho exibido não trata de empresas supostamente trocando o Brasil pelo país vizinho.\nProcurada pelo Fato ou Fake, a assessoria de imprensa da Presidência do Brasil afirmou que \"o conteúdo é falso\". A nota diz: \"O presidente Lula não manteve encontro bilateral, mesmo informal, com o presidente do Paraguai, Santiago Peña, durante a Assembleia Geral da ONU, em Nova York, no dia 22 de setembro. A Secretaria de Comunicação Social da Presidência da República repudia a divulgação de boatos falsos com objetivos políticos, que visam única e exclusivamente desinformar a população, enfraquecer instituições e manipular a opinião pública\".\nNa mesma data da conversa com Lula, o próprio senador Beto Ovelar divulgou o encontro em suas redes sociais. Na legenda, escreveu: \"Durante a Cúpula do Mercosul, expressei meu agradecimento ao presidente do Brasil, Luiz Inácio Lula da Silva, pois suas políticas sociais foram fundamentais como base para a implementação do programa Tekoporã no Paraguai\".\nEm nenhum momento do vídeo Ovelar mencionou empresas brasileiras. Na verdade, é possível ouvir o senador comentando sobre o Programa Tekoporã, uma iniciativa social do governo paraguaio, que inclui transferência de renda a famílias em situação de pobreza e vulnerabilidade. \nEle disse: \"Quando o senhor foi presidente da República, eu era ministro, e o senhor abriu ​as portas do ​Ministério do ⁠Desenvolvimento Social. Hoje, nós temos um programa que se chama Tekoporã, e, graças à abertura do ​senhor, isso foi possível. Então, eu queria lhe agradecer muito em nome do povo paraguaio\".\nO presidente do Paraguai, Santiago Peña (à esq.), ao lado do presidente Lula, que conversa com o senador paraguaio Beto Ovelar (à dir.).\nReprodução/Instagram\nÉ #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: vídeo que mostra homem tomando banho em fonte natural em meio a chamas é real\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
-    },
-    {
-      "id": "f0bc9ce6e993",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "A teoria da conspiração que diz que Lula é um clone e que convenceu 12% do eleitorado — e por que ela volta de tempos em tempos",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 07:48:08 GMT"
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 13:09:00 +0000"
     },
     {
       "id": "3604f9f86c71",
@@ -328,42 +297,97 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
     },
     {
-      "id": "28969baee37a",
-      "source": "G1 - Política",
+      "id": "f0bc9ce6e993",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin pediu a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/30/fachin-pede-a-nunes-marques-para-resolver-crise-do-caso-nossa-senhora-primeiro-no-tse.ghtml",
-      "summary": "Fachin pede a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE\nO agendamento da sessão do plenário virtual do Tribunal Superior Eleitoral (TSE) que vai julgar o caso de Nossa Senhora Aparecida, nesta quarta-feira (30), passou por uma conversa de bastidor e um acordo entre o presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o presidente da Justiça Eleitoral, Kassio Nunes Marques. \nO blog apurou que Fachin pediu que o TSE decidisse primeiro sobre o caso de Aparecida para, só depois, o Supremo avaliar a questão — inclusive se ela ainda será uma questão.\nNessa conversa, Fachin pediu para, primeiramente, ver a posição do colegiado do TSE sobre a decisão e, só depois, avaliar se vai ser necessário o Supremo atuar, a partir da decisão que sair do plenário virtual.\nPode haver pedido de vista no STF após a decisão colegiada do TSE. No entanto, uma decisão tomada no plenário da Justiça Eleitoral derruba as decisões liminares decretadas no Supremo.\n🔎Fachin e Nunes Marques tiveram uma reunião fechada sobre o caso na seguda-feira (28). \nPlenário virtual\nNesta quarta (30), o TSE analisa a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça. \nNa prática, isso significa que os posts devem permanecer fora do ar. \nMinistro Edson Fachin do STF\nRosinei Coutinho/STF\nComo caso chegou ao STF?\nO julgamento começou no TSE, com a decisão de Mendonça. Um recurso levou o caso ao ministro Flávio Dino, do STF, que suspendeu a decisão e levou a questão ao Supremo. \nA defesa do candidato Flávio Bolsonaro entrou com uma nova ação enviada a Luiz Fux, que suspendeu a decisão de Dino e retomou os efeitos da proibição decretada por Mendonça. \nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.\nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.",
+      "category": "Internacional",
+      "title": "A teoria da conspiração que diz que Lula é um clone e que convenceu 12% do eleitorado — e por que ela volta de tempos em tempos",
+      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
       "tags": [
-        "TSE"
+        "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 11:54:50 -0000"
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 07:48:08 GMT"
     },
     {
-      "id": "90660cbe5930",
+      "id": "13c62f9a58c4",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
-      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até as 23h59 desta quarta. O TSE é composto por sete integrantes: três do STF, três do Superior Tribunal de Justiça (STJ) e dois advogados indicados pelo Supremo (veja quem vota mais abaixo).\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nMinistros do TSE\nOs ministros integrantes da Corte são:\nKássio Nunes Marques (atual presidente do TSE);\nAndré Mendonça (vice-presidente);\nDias Toffoli;\nSebastião Reis Júnior;\nRicardo Villas Bôas Cueva;\nFloriano Peixoto Marques Neto;\nEstela Aranha.\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
+      "summary": "A crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nAgora no g1\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
       "tags": [
-        "TSE"
+        "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
+    },
+    {
+      "id": "fe0ebdc0d037",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "urnas"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "313a625ec835",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Guerra santa ressuscita batalha no STF entre grupo de Moraes e Mendonça às vésperas do 1.º turno",
+      "link": "https://www.estadao.com.br/politica/vera-rosa/guerra-santa-ressuscita-batalha-no-stf-entre-grupo-de-moraes-e-mendonca-as-vesperas-do-1-turno/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
+    },
+    {
+      "id": "bc7d7b9deb38",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flamengo se junta a bets em ação no STF contra a proibição",
+      "link": "https://www.poder360.com.br/poder-sportsmkt/flamengo-se-junta-a-bets-no-stf-em-acao-contra-a-proibicao/",
+      "summary": "Clube estima perda de até R$ 430 milhões em 2027 e pede suspensão da medida até análise do Congresso",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 13:08:47 +0000"
     },
     {
       "id": "13b805f0e285",
@@ -384,6 +408,59 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
     },
     {
+      "id": "28969baee37a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin pediu a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/30/fachin-pede-a-nunes-marques-para-resolver-crise-do-caso-nossa-senhora-primeiro-no-tse.ghtml",
+      "summary": "Fachin pede a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE\nO agendamento da sessão do plenário virtual do Tribunal Superior Eleitoral (TSE) que vai julgar o caso de Nossa Senhora Aparecida, nesta quarta-feira (30), passou por uma conversa de bastidor e um acordo entre o presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o presidente da Justiça Eleitoral, Kassio Nunes Marques. \nO blog apurou que Fachin pediu que o TSE decidisse primeiro sobre o caso de Aparecida para, só depois, o Supremo avaliar a questão — inclusive se ela ainda será uma questão.\nNessa conversa, Fachin pediu para, primeiramente, ver a posição do colegiado do TSE sobre a decisão e, só depois, avaliar se vai ser necessário o Supremo atuar, a partir da decisão que sair do plenário virtual.\nPode haver pedido de vista no STF após a decisão colegiada do TSE. No entanto, uma decisão tomada no plenário da Justiça Eleitoral derruba as decisões liminares decretadas no Supremo.\n🔎Fachin e Nunes Marques tiveram uma reunião fechada sobre o caso na seguda-feira (28). \nPlenário virtual\nNesta quarta (30), o TSE analisa a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça. \nNa prática, isso significa que os posts devem permanecer fora do ar. \nMinistro Edson Fachin do STF\nRosinei Coutinho/STF\nComo caso chegou ao STF?\nO julgamento começou no TSE, com a decisão de Mendonça. Um recurso levou o caso ao ministro Flávio Dino, do STF, que suspendeu a decisão e levou a questão ao Supremo. \nA defesa do candidato Flávio Bolsonaro entrou com uma nova ação enviada a Luiz Fux, que suspendeu a decisão de Dino e retomou os efeitos da proibição decretada por Mendonça. \nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.\nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 73,
+      "publishedRaw": "Wed, 30 Sep 2026 11:54:50 -0000"
+    },
+    {
+      "id": "90660cbe5930",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
+      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até as 23h59 desta quarta. O TSE é composto por sete integrantes: três do STF, três do Superior Tribunal de Justiça (STJ) e dois advogados indicados pelo Supremo (veja quem vota mais abaixo).\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nMinistros do TSE\nOs ministros integrantes da Corte são:\nKássio Nunes Marques (atual presidente do TSE);\nAndré Mendonça (vice-presidente);\nDias Toffoli;\nSebastião Reis Júnior;\nRicardo Villas Bôas Cueva;\nFloriano Peixoto Marques Neto;\nEstela Aranha.\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 73,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "4271b5f2caf7",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça nega censura e vota para manter derrubada de notícia falsa sobre Flávio e Nossa Senhora",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/mendonca-nega-censura-e-vota-para-manter-derrubada-de-noticia-falsa-sobre-flavio-e-nossa-senhora.shtml",
+      "summary": "O ministro André Mendonça, vice-presidente do TSE (Tribunal Superior Eleitoral), votou nesta quarta-feira (30) para manter sua decisão provisória que, na última semana, mandou derrubar publicações nas redes sociais com a notícia falsa de que o candidato à Presidência Flávio Bolsonaro (PL) iria retirar o título de padroeira do Brasil de Nossa Senhora Aparecida.\nLeia mais (09/30/2026 - 09h56)",
+      "tags": [
+        "censura"
+      ],
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 73,
+      "publishedRaw": "30 Sep 2026 09:56:00 -0300"
+    },
+    {
       "id": "a8a563b84917",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -396,118 +473,27 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Wed, 30 Sep 2026 03:35:12 +0000"
     },
     {
-      "id": "1e5f462ef710",
+      "id": "7d32fdd4418f",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda X apagar capa falsa de revista com foto de Janja",
-      "link": "https://www.poder360.com.br/poder-justica/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja/",
-      "summary": "Decisão de André Mendonça atende a pedido da coligação de Lula e determina remoção de 4 publicações em até 24 horas",
+      "title": "Mendonça vota para apagar posts de Nossa Senhora e nega que há censura",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mendonca-vota-para-apagar-posts-de-nossa-senhora-e-nega-que-ha-censura/",
+      "summary": "Ministro do TSE afirmou ser uma irresponsabilidade alegar restrição à liberdade religiosa e que a remoção recai apenas sobre publicações que atribuem o caso da padroeira aos Bolsonaros",
       "tags": [
-        "TSE"
+        "censura"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 12:06:43 +0000"
-    },
-    {
-      "id": "13c62f9a58c4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
-      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
-      "summary": "A crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nAgora no g1\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
-    },
-    {
-      "id": "a0af632e9173",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Veja as propostas dos candidatos a presidente para segurança, combate à corrupção, STF, salário mínimo e outros temas",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/propostas-candidatos-presidente-eleicoes-2026.ghtml",
-      "summary": "Uma série de reportagens publicadas pelo g1 ao longo da campanha eleitoral mostrou quais são as propostas dos candidatos à Presidência da República para temas que estão entre as principais preocupações dos brasileiros.\nQuem são os candidatos nas eleições de 2026? Veja todos os cargos\nPara fazer as reportagens, a equipe de jornalistas analisou os planos de governo que cada candidato registrou no Tribunal Superior Eleitoral (TSE).\nPesquisa Quaest divulgada na última segunda-feira (28) mostra que violência (29%), corrupção (21%) e economia (19%) são as preocupações mais citadas pelos eleitores.\nCombate à corrupção; \nReforma do STF e Judiciário;\nCombate aos feminicídios;\nSupersalários e penduricalhos no setor público;\nSalário mínimo e aposentadorias;\nTaxa Selic, juros e endividamento;\nPolítica externa;\nSegurança nas fronteiras;\nAs propostas para a região Nordeste;\nViolência e segurança;\nO que há de comum entre Lula (PT) e a oposição?\nAgora no g1\nCombate à corrupção\nAs propostas dos presidenciáveis focam na ampliação dos mecanismos de rastreamento do orçamento, na modernização da fiscalização de contratos estatais e no fortalecimento de órgãos de controle e punições. As medidas vão desde inteligência artificial para o combate de crimes contra o patrimônio público até confisco de bens dos condenados por corrupção.\nLeia a reportagem.\nVoltar ao topo.\nReforma do STF e Judiciário\nSessão plenária extraordinária do STF sobre o caso Moraes\nGustavo Moreno/STF\nApós novos desdobramentos no caso Master, a crise no Supremo Tribunal Federal (STF) virou tema da campanha presidencial. Propostas para uma reforma no Judiciário variam nos planos de governo, desde ajustes na dinâmica de decisões monocráticas e tempo de mandato para magistrados até reformulações nas regras de indicação e na estrutura do Judiciário.\nLeia a reportagem.\nVoltar ao topo.\nCombate aos feminicídios\nOs feminicídios bateram recorde no Brasil em 2025, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto as mulheres são maioria do eleitorado brasileiro, o debate sobre a escalada da violência contra a mulher ganhou espaço nas propostas dos candidatos. Os programas eleitorais englobam a expansão das redes de acolhimento especializado, o fortalecimento de tecnologias de monitoramento e o endurecimento de penas e regras de prisão para agressores.\nLeia a reportagem.\nVoltar ao topo.\nSupersalários e penduricalhos no setor público\nOs chamados “supersalários” e “penduricalhos” estão no centro de propostas em discussão nos Três Poderes. As verbas que ultrapassam o limite do funcionalismo público, só em 2025, custaram mais de R$ 10 bilhões aos cofres públicos. As diretrizes dos candidatos à Presidência abordam a limitação de verbas indenizatórias e benefícios extras, buscando aplicar com rigor o limite salarial estabelecido pela Constituição nos Três Poderes.\nLeia a reportagem\nVoltar ao topo.\nSalário mínimo e aposentadorias\nINSS\nArquivo/Agência Brasil\nO reajuste das aposentadorias e dos benefícios previdenciários está vinculado ao salário mínimo, e esse é um dos pontos centrais em discussão nos planos de governo dos candidatos à Presidência. As propostas dos presidenciáveis dividem-se entre a manutenção ou alteração das regras de valorização do salário mínimo, reajustes nos benefícios sociais e medidas para assegurar a sustentabilidade da Previdência.\nLeia a reportagem.\nVoltar ao topo.\nTaxa Selic, juros e endividamento\nEdifício-sede do BC em Brasília, onde a decisão sobre a taxa de juros é tomada\nFoto: Adobe stock - Banco Central.\nA taxa básica de juros, a Selic, afeta diretamente o acesso ao crédito, os investimentos produtivos e o grau de endividamento das famílias brasileiras. Os planos dos presidenciáveis propõem diferentes estratégias para a redução do custo do dinheiro, o controle da inflação, o equilíbrio da dívida pública e programas voltados à renegociação de débitos dos consumidores.\nLeia a reportagem.\nVoltar ao topo.\nPolítica externa\nO posicionamento diplomático do Brasil define a inserção comercial do país no mercado global, suas alianças estratégicas e a atração de capital estrangeiro. As propostas dos candidatos incluem a aproximação de países da Ásia e da África, dos Estados Unidos, fortalecimento do Mercosul e saída do Brics. Com diferentes abordagens, os planos de governo detalham rumos para o fortalecimento das exportações, a soberania do Brasil perante o mundo e a celebração de acordos internacionais.\nLeia a reportagem.\nVoltar ao topo.\nSegurança nas fronteiras\nO controle das divisas territoriais do país é peça estratégica para coibir a entrada de armas e drogas que abastecem as redes de crime organizado nas cidades. Diante da escalada no combate ao tráfico de drogas no contexto da América do Sul, as propostas dos presidenciáveis focam no fortalecimento da integração entre forças de segurança, na expansão de acordos de cooperação com países vizinhos e em investimentos em tecnologias de vigilância territorial.\nLeia a reportagem.\nVoltar ao topo.\nAs propostas para a região Nordeste\nParaíba tem maior crescimento populacional do Nordeste entre 2025 e 2026\nRizemberg Felipe/Jornal da Paraíba\nA Região Nordeste é estratégica no cenário eleitoral e socioeconômico do país, demandando políticas públicas focadas na redução das desigualdades regionais e no crescimento sustentável. As diretrizes apresentadas pelos presidenciáveis buscam impulsionar a economia local com investimentos em infraestrutura e segurança hídrica, além de explorar o potencial da região para a geração de energias renováveis e a atração de novos polos tecnológicos. \nLeia a reportagem.\nVoltar ao topo.\nViolência e segurança\nA sensação de insegurança e a atuação de facções criminosas colocam a segurança pública no topo das prioridades apontadas pelo eleitorado em todo o país. As ações propostas pelos candidatos cobrem o combate a grupos armados, a reestruturação e modernização das corporações policiais, a reformulação do sistema penitenciário e ações de inteligência.\nLeia a reportagem.\nVoltar ao topo.\nO que há de comum entre os planos de governo\nLula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nAdversários na eleição presidencial de 2026, os seis candidatos mais bem colocados nas pesquisas de intenção de voto apresentam propostas convergentes para temas detalhados em seus planos de governo.\nTanto o presidente Lula (PT) quanto os adversários da oposição, Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Renan Santos (Missão), Augusto Cury (Avante) e Romeu Zema (Novo), defendem propostas iguais ou similares em cinco assuntos nos planos de governo enviados à Justiça Eleitoral. \nLeia a reportagem.\nVoltar ao topo.\nurna eletrônica\nTSE",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
-    },
-    {
-      "id": "fe0ebdc0d037",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "313a625ec835",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Guerra santa ressuscita batalha no STF entre grupo de Moraes e Mendonça às vésperas do 1.º turno",
-      "link": "https://www.estadao.com.br/politica/vera-rosa/guerra-santa-ressuscita-batalha-no-stf-entre-grupo-de-moraes-e-mendonca-as-vesperas-do-1-turno/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
-    },
-    {
-      "id": "8175bf59a136",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
-      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 72,
-      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
+      "score": 73,
+      "publishedRaw": "Wed, 30 Sep 2026 12:57:47 +0000"
     },
     {
       "id": "e01b391196ee",
@@ -525,6 +511,24 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:47:12 +0000"
     },
     {
+      "id": "8175bf59a136",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
+      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 68,
+      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
+    },
+    {
       "id": "b5b0670ebb07",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -540,19 +544,19 @@
       "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
     },
     {
-      "id": "0f025bf6ffcf",
-      "source": "Poder360",
+      "id": "3a1ac2ac6dae",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TRE-RJ mantém decisão que barra candidatura de Garotinho ao governo",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tre-rj-mantem-decisao-que-barra-candidatura-de-garotinho-ao-governo/",
-      "summary": "Tribunal acolheu parte dos embargos de declaração, mas manteve decisão anterior; candidato diz que vai recorrer ao TSE",
+      "title": "Raízen convoca assembleia para votar novo conselho e reestruturação prevista na recuperação extrajudicial",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/raizen-convoca-assembleia-para-votar-novo-conselho-e-reestruturacao-prevista-na-recuperacao-extrajudicial.shtml",
+      "summary": "O conselho de administração da Raízen aprovou, nesta terça-feira (29), medidas para implementar o plano de recuperação extrajudicial do grupo, homologado em julho. Dentre elas, estão a eleição de um novo colegiado, o aumento do limite de capital autorizado para a empresa e a criação de um programa de units -cesta de ações que são negociadas juntas no mercado sob um único código.\nLeia mais (09/30/2026 - 10h15)",
       "tags": [
-        "candidatura"
+        "MBL"
       ],
       "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Wed, 30 Sep 2026 12:17:55 +0000"
+      "score": 58,
+      "publishedRaw": "30 Sep 2026 10:15:00 -0300"
     },
     {
       "id": "6d666cb38c21",
