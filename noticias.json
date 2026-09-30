@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:49:44.024885+00:00",
+  "generated_at": "2026-09-30T15:20:45.796950+00:00",
   "items": [
     {
       "id": "94a0565aded9",
@@ -20,77 +20,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 96,
+      "score": 95,
       "publishedRaw": "Wed, 30 Sep 2026 10:48:59 -0000"
-    },
-    {
-      "id": "5eed3ba08cfa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 39% e Flávio Bolsonaro soma 34% no 1º turno, aponta Indexa/Broadcast",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-39-e-flavio-bolsonaro-34-no-1-turno-aponta-indexabroadcast/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
-    },
-    {
-      "id": "7f53eb3e907a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula tem 39,4% e Flávio Bolsonaro soma 38,4% no primeiro turno, diz pesquisa Meio/Ideia",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-394-e-flavio-bolsonaro-soma-384-no-primeiro-turno-diz-pesquisa-meioideia/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
       "id": "8bcde5b397dd",
@@ -109,11 +42,73 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
+    },
+    {
+      "id": "5eed3ba08cfa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 39% e Flávio Bolsonaro soma 34% no 1º turno, aponta Indexa/Broadcast",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-39-e-flavio-bolsonaro-34-no-1-turno-aponta-indexabroadcast/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
+    },
+    {
+      "id": "7f53eb3e907a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 39,4% e Flávio Bolsonaro soma 38,4% no primeiro turno, diz pesquisa Meio/Ideia",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-394-e-flavio-bolsonaro-soma-384-no-primeiro-turno-diz-pesquisa-meioideia/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 10:00:00 +0000"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
       "id": "da7a5c3a5002",
@@ -130,11 +125,50 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 89,
+      "score": 85,
       "publishedRaw": "Wed, 30 Sep 2026 13:11:46 +0000"
+    },
+    {
+      "id": "6e26fc133bc7",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE vai limitar decisão de André Mendonça ao que é de fato fake news contra Flávio Bolsonaro",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/tse-vai-limitar-decisao-de-andre-mendonca-ao-que-e-de-fato-fake-news-contra-flavio-bolsonaro.ghtml",
+      "summary": "O Tribunal Superior Eleitoral (TSE) deve limitar o alcance da decisão do ministro André Mendonça às publicações que associam o candidato à Presidência Flávio Bolsonaro (PL) a uma iniciativa para retirar de Nossa Senhora Aparecida o título de padroeira do Brasil.\nSegundo apurou o blog, vários ministros devem apresentar votos para restringir a decisão de Mendonça, considerada ampla demais. \nA proposta que tende a prevalecer é preservar manifestações protegidas pela liberdade de expressão e pela liberdade religiosa, além de críticas jornalísticas e sátiras, desde que não atribuam a Flávio Bolsonaro a autoria, o apoio ou a articulação de uma proposta para retirar o título da santa.\nA avaliação interna é que Mendonça acertou ao determinar a remoção da informação que fazem associação a Flávio Bolsonaro, mas foi longe demais ao alcançar publicações que não citavam o candidato do PL e tratavam do debate religioso envolvendo católicos e evangélicos.\nMendonça confirma em voto decisão que tirou do ar posts sobre Nossa Senhora Aparecida\nMendonça havia determinado a retirada de publicações que vinculavam Flávio Bolsonaro à suposta iniciativa. \nEntre os conteúdos atingidos estava uma postagem do humorista Antonio Tabet que não mencionava nominalmente o candidato. \nNo domingo (27), o ministro Flávio Dino, do Supremo Tribunal Federal (STF), derrubou a ordem em relação a essas publicações, argumentando que era necessário proteger a liberdade de expressão. \nNa segunda (28), o ministro Luiz Fux suspendeu a decisão de Dino e restabeleceu a determinação de Mendonça até que o caso fosse analisado de forma colegiada.\nA decisão final no TSE será tomada nesta quarta (30), no plenário virtual, em julgamento pautado pelo presidente da Corte, ministro Kassio Nunes Marques. Mendonça, relator do caso e vice-presidente do TSE, já apresentou voto para manter sua decisão.\nAo defender sua posição, Mendonça também procurou deixar claro que sua decisão não teve como objetivo restringir a liberdade de expressão ou a liberdade religiosa. \nO posicionamento dialoga diretamente com os argumentos usados por Dino ao derrubar a ordem do TSE.\nNos bastidores, a decisão de Nunes Marques de levar o caso ao plenário do TSE também ajuda a reduzir a tensão institucional com o Supremo.\nO presidente do STF, Edson Fachin, conversou com Kassio Nunes Marques, e os dois entenderam que o melhor caminho seria deixar a questão ser resolvida pelo plenário da Justiça Eleitoral. \nCom isso, Fachin decidiu não levar o tema ao plenário do Supremo nesta quarta, abrindo espaço para uma solução dentro do TSE.\nNunes Marques poderia ter evitado que a crise entre TSE e STF se agravasse se tivesse submetido a decisão de Mendonça ao plenário da Corte Eleitoral ainda na semana passada. Aliados chegaram a defender esse caminho imediatamente após a ordem de retirada das publicações.\nComo isso não ocorreu, abriu-se espaço para a intervenção de Dino no caso e para uma disputa no Supremo sobre os limites da atuação individual de ministros diante de uma decisão da Justiça Eleitoral.\nMinistro André Mendonça em sessão do STF sobre caso Master - 15/09/2026\nAlejandro Zambrana/STF",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 30 Sep 2026 13:37:10 -0000"
+    },
+    {
+      "id": "8cb5a5bbf5a1",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Mendonça vota por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 30 Sep 2026 14:40:57 GMT"
     },
     {
       "id": "36f9cc1ae0ca",
@@ -150,211 +184,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 13:41:23 -0000"
-    },
-    {
-      "id": "6e26fc133bc7",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE vai limitar decisão de André Mendonça ao que é de fato fake news contra Flávio Bolsonaro",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/tse-vai-limitar-decisao-de-andre-mendonca-ao-que-e-de-fato-fake-news-contra-flavio-bolsonaro.ghtml",
-      "summary": "O Tribunal Superior Eleitoral (TSE) deve limitar o alcance da decisão do ministro André Mendonça às publicações que associam falsamente o candidato à Presidência Flávio Bolsonaro (PL) a uma iniciativa para retirar de Nossa Senhora Aparecida o título de padroeira do Brasil.\nSegundo apurou o blog, vários ministros devem apresentar votos para restringir a decisão de Mendonça, considerada ampla demais. \nA proposta que tende a prevalecer é preservar manifestações protegidas pela liberdade de expressão e pela liberdade religiosa, além de críticas jornalísticas e sátiras, desde que não atribuam falsamente a Flávio Bolsonaro a autoria, o apoio ou a articulação de uma proposta para retirar o título da santa.\nA avaliação interna é que Mendonça acertou ao determinar a remoção da informação considerada falsa sobre Flávio Bolsonaro, mas foi longe demais ao alcançar publicações que não citavam o candidato do PL e tratavam do debate religioso envolvendo católicos e evangélicos.\nMendonça confirma em voto decisão que tirou do ar posts sobre Nossa Senhora Aparecida\nMendonça havia determinado a retirada de publicações que vinculavam Flávio Bolsonaro à suposta iniciativa. \nEntre os conteúdos atingidos estava uma postagem do humorista Antonio Tabet que não mencionava nominalmente o candidato. \nNo domingo (27), o ministro Flávio Dino, do Supremo Tribunal Federal (STF), derrubou a ordem em relação a essas publicações, argumentando que era necessário proteger a liberdade de expressão. \nNa segunda (28), o ministro Luiz Fux suspendeu a decisão de Dino e restabeleceu a determinação de Mendonça até que o caso fosse analisado de forma colegiada.\nA decisão final no TSE será tomada nesta quarta (30), no plenário virtual, em julgamento pautado pelo presidente da Corte, ministro Kassio Nunes Marques. Mendonça, relator do caso e vice-presidente do TSE, já apresentou voto para manter sua decisão.\nAo defender sua posição, Mendonça também procurou deixar claro que sua decisão não teve como objetivo restringir a liberdade de expressão ou a liberdade religiosa. \nO posicionamento dialoga diretamente com os argumentos usados por Dino ao derrubar a ordem do TSE.\nNos bastidores, a decisão de Nunes Marques de levar o caso ao plenário do TSE também ajuda a reduzir a tensão institucional com o Supremo.\nO presidente do STF, Edson Fachin, conversou com Kassio Nunes Marques, e os dois entenderam que o melhor caminho seria deixar a questão ser resolvida pelo plenário da Justiça Eleitoral. \nCom isso, Fachin decidiu não levar o tema ao plenário do Supremo nesta quarta, abrindo espaço para uma solução dentro do TSE.\nNunes Marques poderia ter evitado que a crise entre TSE e STF se agravasse se tivesse submetido a decisão de Mendonça ao plenário da Corte Eleitoral ainda na semana passada. Aliados chegaram a defender esse caminho imediatamente após a ordem de retirada das publicações.\nComo isso não ocorreu, abriu-se espaço para a intervenção de Dino no caso e para uma disputa no Supremo sobre os limites da atuação individual de ministros diante de uma decisão da Justiça Eleitoral.\nMinistro André Mendonça em sessão do STF sobre caso Master - 15/09/2026\nAlejandro Zambrana/STF",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 13:37:10 -0000"
-    },
-    {
-      "id": "8cb5a5bbf5a1",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Mendonça vota por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-      "summary": "TSE está julgando nesta quarta (30/9), em plenário virtual, se confirma ou não decisão do ministro André Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 14:40:57 GMT"
-    },
-    {
-      "id": "81d2aa3866a8",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarcísio evita citar Flávio Bolsonaro em debate da “Globo”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-evita-citar-flavio-bolsonaro-em-debate-da-globo/",
-      "summary": "Citou candidato a presidente do PL só uma vez nas considerações finais; tentativa do governador de desvincular sua imagem da do senador já foi alvo de críticas por Haddad",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 13:57:47 +0000"
-    },
-    {
-      "id": "13c62f9a58c4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
-      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
-      "summary": "Análise: Perfil político de ministros do STF acirra crise institucional\nA crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
-    },
-    {
-      "id": "871c3f18a426",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futura: 52,8% desaprovam presidente Lula; 44,1% aprovam",
-      "link": "https://www.cnnbrasil.com.br/politica/futura-528-desaprovam-presidente-lula-441-aprovam/",
-      "summary": "Foram ouvidos 2.000 eleitores entre os dias 25 e 29 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 14:42:28 +0000"
-    },
-    {
-      "id": "19db5242ddbf",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flamengo entra com ação no STF contra o fim das bets",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-entra-com-acao-no-stf-contra-o-fim-das-bets/",
-      "summary": "Rubro-Negro aumenta pressão em prol da parceria com o mercado de apostas esportivas",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 14:18:42 +0000"
-    },
-    {
-      "id": "fe0ebdc0d037",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "0fcad7f2cdd0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Indexa/Broadcast: 51% desaprovam forma de administrar de Lula, e 46% aprovam",
-      "link": "https://www.estadao.com.br/politica/eleicoes/indexabroadcast-51-desaprovam-forma-de-administrar-de-lula-e-46-aprovam/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
-    },
-    {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
-    },
-    {
-      "id": "cc68b1c5c34e",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio tem 52% e Lula, 41% no 2º turno no RJ, diz Real Time Big Data",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-52-e-lula-41-no-2o-turno-no-rj-diz-real-time-big-data/",
-      "summary": "Levantamento entrevistou 2.000 eleitores do Estado do Rio de Janeiro de 25 a 29 de setembro de 2026",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 14:16:21 +0000"
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 13:41:23 -0000"
     },
     {
       "id": "3604f9f86c71",
@@ -376,24 +209,155 @@
       "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
-      "id": "f0bc9ce6e993",
-      "source": "BBC Brasil",
+      "id": "13c62f9a58c4",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
+      "category": "Política",
+      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
+      "summary": "Análise: Perfil político de ministros do STF acirra crise institucional\nA crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
+    },
+    {
+      "id": "d4d55767728c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Futura: Flávio tem 49% das intenções de voto no 2º turno; Lula, 43,5%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-49-das-intencoes-de-voto-no-2o-turno-lula-435/",
+      "summary": "Pesquisa ouviu 2.000 eleitores em todo o Brasil entre os dias 25 e 29 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 15:04:21 +0000"
+    },
+    {
+      "id": "77ba4d24b4d5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Futura: Flávio tem 42,2% das intenções de voto no 1º turno; Lula, 39,4%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-422-das-intencoes-de-voto-no-1o-turno-lula-394/",
+      "summary": "Foram ouvidos 2.000 eleitores entre os dias 19 e 23 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 14:56:25 +0000"
+    },
+    {
+      "id": "02f32b2ad065",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Futura: 48,9% rejeitam voto em Lula; 45,6%, em Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-489-rejeitam-voto-em-lula-456-em-flavio/",
+      "summary": "Foram entrevistados 2.000 eleitores de todo o país entre os dias 25 e 29 de setembro; margem de erro do levantamento é de 2,2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 14:55:15 +0000"
+    },
+    {
+      "id": "871c3f18a426",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Futura: 52,8% desaprovam presidente Lula; 44,1% aprovam",
+      "link": "https://www.cnnbrasil.com.br/politica/futura-528-desaprovam-presidente-lula-441-aprovam/",
+      "summary": "Foram ouvidos 2.000 eleitores entre os dias 25 e 29 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 14:42:28 +0000"
+    },
+    {
+      "id": "fe0ebdc0d037",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "urnas"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "0fcad7f2cdd0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Indexa/Broadcast: 51% desaprovam forma de administrar de Lula, e 46% aprovam",
+      "link": "https://www.estadao.com.br/politica/eleicoes/indexabroadcast-51-desaprovam-forma-de-administrar-de-lula-e-46-aprovam/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
+    },
+    {
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 79,
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
     },
     {
       "id": "13b805f0e285",
@@ -412,6 +376,25 @@
       ],
       "score": 77,
       "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
+    },
+    {
+      "id": "f0bc9ce6e993",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
+      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 76,
+      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
     },
     {
       "id": "28969baee37a",
@@ -463,21 +446,6 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
-    },
-    {
-      "id": "3a1ac2ac6dae",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Raízen convoca assembleia para votar novo conselho e reestruturação prevista na recuperação extrajudicial",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/raizen-convoca-assembleia-para-votar-novo-conselho-e-reestruturacao-prevista-na-recuperacao-extrajudicial.shtml",
-      "summary": "O conselho de administração da Raízen aprovou, nesta terça-feira (29), medidas para implementar o plano de recuperação extrajudicial do grupo, homologado em julho. Dentre elas, estão a eleição de um novo colegiado, o aumento do limite de capital autorizado para a empresa e a criação de um programa de units -cesta de ações que são negociadas juntas no mercado sob um único código.\nLeia mais (09/30/2026 - 10h15)",
-      "tags": [
-        "MBL"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "30 Sep 2026 10:15:00 -0300"
     },
     {
       "id": "6d666cb38c21",
