@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:50:26.885135+00:00",
+  "generated_at": "2026-09-30T07:18:37.371886+00:00",
   "items": [
     {
       "id": "f169eaec12ef",
@@ -51,30 +51,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 06:20:45 +0000"
     },
     {
-      "id": "35fe20b77974",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vínculos com Lula, Flávio Bolsonaro e Cláudio Castro marcam debate entre candidatos no RJ",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/vinculos-com-lula-flavio-bolsonaro-e-claudio-castro-marcam-debate-entre-candidatos-no-rj.shtml",
-      "summary": "O vínculo com o presidente Lula (PT), o senador Flávio Bolsonaro (PL), candidatos à Presidência, e o ex-governador Cláudio Castro (PL) marcou o debate entre os postulantes ao Governo do Rio de Janeiro nesta terça-feira (29) promovido pela TV Globo.\nLeia mais (09/30/2026 - 00h56)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "30 Sep 2026 00:56:00 -0300"
-    },
-    {
       "id": "ddd5a8df4ac2",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -121,6 +97,27 @@
       ],
       "score": 93,
       "publishedRaw": "Wed, 30 Sep 2026 01:57:59 +0000"
+    },
+    {
+      "id": "3ff15872c2b0",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veja como candidatos ao Senado se posicionam sobre impeachment de ministros do STF",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/veja-como-candidatos-ao-senado-se-posicionam-sobre-impeachment-de-ministros-do-stf.shtml",
+      "summary": "A grave crise institucional que atingiu o STF (Supremo Tribunal Federal) no início do mês trouxe à tona discussões sobre a abertura de processos de impeachment contra ministros de tribunais superiores.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
     },
     {
       "id": "a90f05e8341b",
@@ -234,6 +231,26 @@
       "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
     },
     {
+      "id": "503e94605874",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Anarquia que corrói STF não vai acabar antes da eleição",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/09/anarquia-que-corroi-stf-nao-vai-acabar-antes-da-eleicao.shtml",
+      "summary": "Instaurou-se a anarquia no Supremo Tribunal Federal, que caminha em ritmo acelerado de politização, sem disfarçar motivações eleitorais, na direção de um muro. A situação já seria bastante complexa com os enfrentamentos recentes entre duas alas de magistrados, mas há evidências que ampliam o quadro de enfermidade institucional.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
+    },
+    {
       "id": "c04b96ad588c",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -338,27 +355,6 @@
       ],
       "score": 89,
       "publishedRaw": "Wed, 30 Sep 2026 03:26:20 +0000"
-    },
-    {
-      "id": "b10f929c98c9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Golpe de Bolsonaro fracassou também porque ele nunca buscou maioria no Congresso, diz estudo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/golpe-de-bolsonaro-fracassou-tambem-porque-ele-nunca-buscou-maioria-no-congresso-diz-estudo.shtml",
-      "summary": "Um novo estudo publicado pela Fundação FHC avalia que o Brasil foi capaz de resistir à tentativa de golpe do ex-presidente Jair Bolsonaro (PL) graças ao sistema fragmentado da política partidária brasileira -aliado a um Judiciário forte e a um ecossistema midiático independente e robusto.\nLeia mais (09/29/2026 - 23h00)",
-      "tags": [
-        "Congresso",
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "29 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "1b0b6f60c7ed",
@@ -467,13 +463,79 @@
       "publishedRaw": "Wed, 30 Sep 2026 02:05:28 -0000"
     },
     {
-      "id": "3aa3619bf4b4",
+      "id": "22349d5b94ac",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Candidatos à Presidência são vagos na cultura, com plano de Lula maior que o de Flávio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/09/candidatos-a-presidencia-sao-vagos-na-cultura-com-plano-de-lula-maior-que-o-de-flavio.shtml",
+      "summary": "Mudanças em leis de incentivo, como a Aldir Blanc e a Rouanet, medidas para melhorar a distribuição de recursos e desenvolver polos regionais e a regulamentação do streaming estão entre as propostas para a cultura dos principais candidatos à Presidência do Brasil nessas eleições.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
+    },
+    {
+      "id": "43fc90ebc173",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Projeto de Lula para criminalizar bets prevê pena maior do que para o jogo do bicho",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/09/projeto-de-lula-para-criminalizar-bets-preve-pena-maior-do-que-para-o-jogo-do-bicho.shtml",
+      "summary": "O projeto do governo Lula (PT) para criminalizar apostas online no Brasil institui penas maiores para seus operadores do que aquelas relacionadas ao jogo do bicho, que opera há décadas fora da lei e cuja atuação está associada a episódios de violência e corrupção.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
+    },
+    {
+      "id": "1d3519ae39f5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caso Nossa Senhora faz Lula levar santa ao palanque após criticar mistura de política com religião",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/caso-nossa-senhora-faz-lula-levar-santa-ao-palanque-apos-criticar-mistura-de-politica-com-religiao.shtml",
+      "summary": "Com o comício em Belém prestes a acabar, na segunda-feira (28), o ex-governador e candidato a senador Helder Barbalho (MDB-PA) levou até o presidente Lula (PT) uma estatueta de Nossa Senhora de Nazaré. O petista levantou a peça, a exibiu ao público e foi aplaudido. No dia seguinte, em Fortaleza, o petista disse que, enquanto for presidente, Nossa Senhora Aparecida será padroeira do Brasil.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
+    },
+    {
+      "id": "3abe5998877e",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Tarcísio e Haddad falam de privatização da Sabesp e acenam a Flávio e Lula",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-e-haddad-falam-de-privatizacao-da-sabesp-e-acenam-a-flavio-e-lula/",
-      "summary": "Candidatos ao governo paulista citaram alianças com Flávio Bolsonaro (PL) e Lula (PT) ao encerrarem o debate eleitoral",
+      "title": "Lula deve dar entrevista a podcast durante debate e cogita “pool”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-deve-dar-entrevista-a-podcast-durante-debate-e-cogita-pool/",
+      "summary": "Ainda há negociações sobre o podcast que receberá o presidente; uma das possibilidades seria Lula ser entrevistado por um conjunto de canais",
       "tags": [
         "Lula"
       ],
@@ -486,7 +548,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 03:28:20 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 07:00:14 +0000"
     },
     {
       "id": "f4095a72b5e0",
@@ -553,6 +615,28 @@
       ],
       "score": 85,
       "publishedRaw": "Tue, 29 Sep 2026 20:48:38 +0000"
+    },
+    {
+      "id": "6ccd412516c5",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio critica ligação de Lula para Dino em evento do governo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-critica-ligacao-de-lula-para-dino-em-evento-do-governo/",
+      "summary": "Candidato questionou relação entre presidente e ministro do STF após telefonema transmitido ao vivo antes de sanção de projeto",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 06:59:13 +0000"
     },
     {
       "id": "e338d276b53f",
@@ -643,28 +727,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 02:12:43 +0000"
     },
     {
-      "id": "dbf32896836c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nikolas a Lula e Janja: “Canalha é quem foi preso por corrupção”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-a-lula-e-janja-canalha-e-quem-foi-preso-por-corrupcao/",
-      "summary": "Deputado responde depois de ser chamado de “canalha” pelo presidente e de “piá de bosta” pela primeira-dama",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 02:02:01 +0000"
-    },
-    {
       "id": "90660cbe5930",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -725,6 +787,26 @@
       ],
       "score": 82,
       "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
+    },
+    {
+      "id": "e1f2cce27cf2",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga hoje caso sobre fake news de Nossa Senhora; veja como será",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-julga-hoje-caso-sobre-fake-news-de-nossa-senhora-veja-como-sera/",
+      "summary": "Sessão virtual começa às 10h e se estende até as 23h59 desta quarta-feira (30); os sete ministros da Corte Eleitoral vão analisar ordem de remoção de publicações sobre Flávio Bolsonaro",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 06:50:00 +0000"
     },
     {
       "id": "a8a563b84917",
@@ -828,23 +910,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
     },
     {
-      "id": "b5b0670ebb07",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso Nacional: o que está em jogo no Orçamento e na crise entre os Poderes - O Assunto #1815",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/30/congresso-nacional-o-que-esta-em-jogo-no-orcamento-e-na-crise-entre-os-poderes-o-assunto-1815.ghtml",
-      "summary": "Os brasileiros vão às urnas neste domingo (4) para eleger os 513 deputados federais e dois terços dos 81 senadores. O Congresso é o Poder responsável por legislar, ou seja, é quem decide as leis brasileiras. Mas sua atuação alcança os limites dos demais Poderes. É o Senado Federal quem aprova ou rejeita a indicação do presidente para o Supremo Tribunal Federal – e são também os senadores que podem abrir um processo de impeachment contra algum ministro da Corte. E no Orçamento, desde 2015, o dispositivo das emendas parlamentares individuais impositivas (ou seja, de execução obrigatória) deu ao Congresso mais força nas disputas políticas com o Palácio do Planalto – essas emendas cresceram e, em 2027, devem representar cerca de 20% da verba que está à disposição do governo federal.  \nNeste episódio, Natuza Nery entrevista a cientista política Lara Mesquita, que estuda a correlação das emendas parlamentares com a redistribuição de forças na República.  \nConvidada: Lara Mesquita, cientista política e professora da Escola de Economia da FGV-SP. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nEleitor mudou percepção sobre importância de deputados e senadores\nO que você precisa saber: \nVÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?;\nOrçamento 2026: governo propõe R$ 40,8 bilhões para emendas parlamentares;\nOrçamento 2027: governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares;\nVÍDEO: O que está em jogo nas eleições para o Senado?;\nDatafolha: 34% dizem que apoio ao impeachment de ministros do STF aumenta chance de voto em candidato ao Senado;\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nCâmara dos Deputados completa 200 anos com acervo histórico acessível a quem visita o Congresso\nJornal Nacional/ Reprodução",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 68,
-      "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
-    },
-    {
       "id": "e01b391196ee",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -858,6 +923,36 @@
       "crossOutlets": [],
       "score": 68,
       "publishedRaw": "Wed, 30 Sep 2026 00:47:12 +0000"
+    },
+    {
+      "id": "b5b0670ebb07",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Congresso Nacional: o que está em jogo no Orçamento e na crise entre os Poderes - O Assunto #1815",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/30/congresso-nacional-o-que-esta-em-jogo-no-orcamento-e-na-crise-entre-os-poderes-o-assunto-1815.ghtml",
+      "summary": "Os brasileiros vão às urnas neste domingo (4) para eleger os 513 deputados federais e dois terços dos 81 senadores. O Congresso é o Poder responsável por legislar, ou seja, é quem decide as leis brasileiras. Mas sua atuação alcança os limites dos demais Poderes. É o Senado Federal quem aprova ou rejeita a indicação do presidente para o Supremo Tribunal Federal – e são também os senadores que podem abrir um processo de impeachment contra algum ministro da Corte. E no Orçamento, desde 2015, o dispositivo das emendas parlamentares individuais impositivas (ou seja, de execução obrigatória) deu ao Congresso mais força nas disputas políticas com o Palácio do Planalto – essas emendas cresceram e, em 2027, devem representar cerca de 20% da verba que está à disposição do governo federal.  \nNeste episódio, Natuza Nery entrevista a cientista política Lara Mesquita, que estuda a correlação das emendas parlamentares com a redistribuição de forças na República.  \nConvidada: Lara Mesquita, cientista política e professora da Escola de Economia da FGV-SP. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nEleitor mudou percepção sobre importância de deputados e senadores\nO que você precisa saber: \nVÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?;\nOrçamento 2026: governo propõe R$ 40,8 bilhões para emendas parlamentares;\nOrçamento 2027: governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares;\nVÍDEO: O que está em jogo nas eleições para o Senado?;\nDatafolha: 34% dizem que apoio ao impeachment de ministros do STF aumenta chance de voto em candidato ao Senado;\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nCâmara dos Deputados completa 200 anos com acervo histórico acessível a quem visita o Congresso\nJornal Nacional/ Reprodução",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
+    },
+    {
+      "id": "79810a4aff4e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Histórico de escândalos e notícias a conta-gotas levam eleitor a associar esquerda ao Master, dizem analistas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/historico-de-escandalos-e-noticias-a-conta-gotas-levam-eleitor-a-associar-esquerda-ao-master-dizem-analistas.shtml",
+      "summary": "Ainda que a teia de relações de Daniel Vorcaro, do Banco Master, envolva em sua maioria nomes do centrão e da direita, inclusive o candidato Flávio Bolsonaro, é a esquerda o grupo político mais associado ao caso na visão do eleitorado, como mostrou pesquisa Datafolha publicada em 18 de setembro.\nLeia mais (09/30/2026 - 04h00)",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
     }
   ]
 }
