@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:24:46.216040+00:00",
+  "generated_at": "2026-09-30T12:52:41.884278+00:00",
   "items": [
     {
       "id": "94a0565aded9",
@@ -18,7 +18,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -27,6 +26,29 @@
       ],
       "score": 96,
       "publishedRaw": "Wed, 30 Sep 2026 10:48:59 -0000"
+    },
+    {
+      "id": "5eed3ba08cfa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 39% e Flávio Bolsonaro soma 34% no 1º turno, aponta Indexa/Broadcast",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-tem-39-e-flavio-bolsonaro-34-no-1-turno-aponta-indexabroadcast/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
       "id": "7f53eb3e907a",
@@ -43,7 +65,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -66,7 +87,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -91,7 +111,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -114,7 +133,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -139,7 +157,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -147,29 +164,6 @@
       ],
       "score": 90,
       "publishedRaw": "Wed, 30 Sep 2026 03:10:48 -0000"
-    },
-    {
-      "id": "d509d57fb583",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Coligação de Lula aciona TSE contra publicação de Nikolas que usa fala do presidente sobre ‘toque’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/coligacao-de-lula-aciona-tse-contra-publicacao-de-nikolas-que-usa-fala-do-presidente-sobre-toque-nprp/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 00:34:26 +0000"
     },
     {
       "id": "ba6521359d4e",
@@ -184,7 +178,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
@@ -194,48 +187,25 @@
       "publishedRaw": "30 Sep 2026 09:02:00 -0300"
     },
     {
-      "id": "b4cf44a9b1b1",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Meio/Ideia: No 2º turno, Lula herda 56,6% de Cury; Flávio, 82,2% de Renan",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/meio-ideia-no-2o-turno-lula-herda-566-de-cury-flavio-822-de-renan/",
-      "summary": "Foram entrevistados 2.000 eleitores, entre os dias 25 e 28 de setembro; margem de erro é de 2,2 pontos para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 11:53:11 +0000"
-    },
-    {
-      "id": "f4095a72b5e0",
+      "id": "0fcad7f2cdd0",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula reage à polêmica de fala sobre ‘toque’ em mulheres e Janja xinga Nikolas; veja vídeo",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-reage-a-polemica-de-fala-sobre-toque-em-mulheres-e-janja-xinga-nikolas-veja-video/",
+      "title": "Indexa/Broadcast: 51% desaprovam forma de administrar de Lula, e 46% aprovam",
+      "link": "https://www.estadao.com.br/politica/eleicoes/indexabroadcast-51-desaprovam-forma-de-administrar-de-lula-e-46-aprovam/",
       "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 00:16:27 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
       "id": "176d361d0e7a",
@@ -250,7 +220,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -258,46 +227,6 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 30 Sep 2026 12:02:07 +0000"
-    },
-    {
-      "id": "28969baee37a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin pediu a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/30/fachin-pede-a-nunes-marques-para-resolver-crise-do-caso-nossa-senhora-primeiro-no-tse.ghtml",
-      "summary": "Fachin pede a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE\nO agendamento da sessão do plenário virtual do Tribunal Superior Eleitoral (TSE) que vai julgar o caso de Nossa Senhora Aparecida, nesta quarta-feira (30), passou por uma conversa de bastidor e um acordo entre o presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o presidente da Justiça Eleitoral, Kassio Nunes Marques. \nO blog apurou que Fachin pediu que o TSE decidisse primeiro sobre o caso de Aparecida para, só depois, o Supremo avaliar a questão — inclusive se ela ainda será uma questão.\nNessa conversa, Fachin pediu para, primeiramente, ver a posição do colegiado do TSE sobre a decisão e, só depois, avaliar se vai ser necessário o Supremo atuar, a partir da decisão que sair do plenário virtual.\nPode haver pedido de vista no STF após a decisão colegiada do TSE. No entanto, uma decisão tomada no plenário da Justiça Eleitoral derruba as decisões liminares decretadas no Supremo.\n🔎Fachin e Nunes Marques tiveram uma reunião fechada sobre o caso na seguda-feira (28). \nPlenário virtual\nNesta quarta (30), o TSE analisa a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça. \nNa prática, isso significa que os posts devem permanecer fora do ar. \nMinistro Edson Fachin do STF\nRosinei Coutinho/STF\nComo caso chegou ao STF?\nO julgamento começou no TSE, com a decisão de Mendonça. Um recurso levou o caso ao ministro Flávio Dino, do STF, que suspendeu a decisão e levou a questão ao Supremo. \nA defesa do candidato Flávio Bolsonaro entrou com uma nova ação enviada a Luiz Fux, que suspendeu a decisão de Dino e retomou os efeitos da proibição decretada por Mendonça. \nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.\nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 11:54:50 -0000"
-    },
-    {
-      "id": "90660cbe5930",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
-      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até as 23h59 desta quarta. O TSE é composto por sete integrantes: três do STF, três do Superior Tribunal de Justiça (STJ) e dois advogados indicados pelo Supremo (veja quem vota mais abaixo).\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nMinistros do TSE\nOs ministros integrantes da Corte são:\nKássio Nunes Marques (atual presidente do TSE);\nAndré Mendonça (vice-presidente);\nDias Toffoli;\nSebastião Reis Júnior;\nRicardo Villas Bôas Cueva;\nFloriano Peixoto Marques Neto;\nEstela Aranha.\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "931e8d3e93c8",
@@ -331,7 +260,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -339,46 +267,6 @@
       ],
       "score": 82,
       "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
-    },
-    {
-      "id": "659b92e5d7c2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fake News sobre Nossa Senhora em análise no TSE: entenda o que será julgado",
-      "link": "https://www.cnnbrasil.com.br/politica/fake-news-da-nossa-senhora-no-tse-entenda-o-que-sera-julgado/",
-      "summary": "Ministros analisam nesta quarta-feira (30), em sessão virtual, se referendam a decisão de Mendonça sobre a derrubada de publicações com a informação falsa de que Flávio Bolsonaro retiraria o título de padroeira do Brasil",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 11:45:31 +0000"
-    },
-    {
-      "id": "a8a563b84917",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE manda X apagar capa falsa de revista com foto de Janja sobre projeto para favorecer a umbanda",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja-sobre-projeto-para-favorecer-a-umbanda/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 03:35:12 +0000"
     },
     {
       "id": "f0bc9ce6e993",
@@ -392,7 +280,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -422,26 +309,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
-      "id": "1e5f462ef710",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE manda X apagar capa falsa de revista com foto de Janja",
-      "link": "https://www.poder360.com.br/poder-justica/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja/",
-      "summary": "Decisão de André Mendonça atende a pedido da coligação de Lula e determina remoção de 4 publicações em até 24 horas",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 12:06:43 +0000"
-    },
-    {
       "id": "4f0ff959c158",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -459,6 +326,44 @@
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
+    },
+    {
+      "id": "28969baee37a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin pediu a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/09/30/fachin-pede-a-nunes-marques-para-resolver-crise-do-caso-nossa-senhora-primeiro-no-tse.ghtml",
+      "summary": "Fachin pede a Nunes Marques para resolver crise do caso Nossa Senhora primeiro no TSE\nO agendamento da sessão do plenário virtual do Tribunal Superior Eleitoral (TSE) que vai julgar o caso de Nossa Senhora Aparecida, nesta quarta-feira (30), passou por uma conversa de bastidor e um acordo entre o presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o presidente da Justiça Eleitoral, Kassio Nunes Marques. \nO blog apurou que Fachin pediu que o TSE decidisse primeiro sobre o caso de Aparecida para, só depois, o Supremo avaliar a questão — inclusive se ela ainda será uma questão.\nNessa conversa, Fachin pediu para, primeiramente, ver a posição do colegiado do TSE sobre a decisão e, só depois, avaliar se vai ser necessário o Supremo atuar, a partir da decisão que sair do plenário virtual.\nPode haver pedido de vista no STF após a decisão colegiada do TSE. No entanto, uma decisão tomada no plenário da Justiça Eleitoral derruba as decisões liminares decretadas no Supremo.\n🔎Fachin e Nunes Marques tiveram uma reunião fechada sobre o caso na seguda-feira (28). \nPlenário virtual\nNesta quarta (30), o TSE analisa a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça. \nNa prática, isso significa que os posts devem permanecer fora do ar. \nMinistro Edson Fachin do STF\nRosinei Coutinho/STF\nComo caso chegou ao STF?\nO julgamento começou no TSE, com a decisão de Mendonça. Um recurso levou o caso ao ministro Flávio Dino, do STF, que suspendeu a decisão e levou a questão ao Supremo. \nA defesa do candidato Flávio Bolsonaro entrou com uma nova ação enviada a Luiz Fux, que suspendeu a decisão de Dino e retomou os efeitos da proibição decretada por Mendonça. \nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.\nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 11:54:50 -0000"
+    },
+    {
+      "id": "90660cbe5930",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
+      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até as 23h59 desta quarta. O TSE é composto por sete integrantes: três do STF, três do Superior Tribunal de Justiça (STJ) e dois advogados indicados pelo Supremo (veja quem vota mais abaixo).\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nMinistros do TSE\nOs ministros integrantes da Corte são:\nKássio Nunes Marques (atual presidente do TSE);\nAndré Mendonça (vice-presidente);\nDias Toffoli;\nSebastião Reis Júnior;\nRicardo Villas Bôas Cueva;\nFloriano Peixoto Marques Neto;\nEstela Aranha.\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "13b805f0e285",
@@ -479,24 +384,42 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
     },
     {
-      "id": "8175bf59a136",
-      "source": "BBC Brasil",
+      "id": "a8a563b84917",
+      "source": "Estadão",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
-      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
+      "category": "Política",
+      "title": "TSE manda X apagar capa falsa de revista com foto de Janja sobre projeto para favorecer a umbanda",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja-sobre-projeto-para-favorecer-a-umbanda/",
+      "summary": "",
       "tags": [
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
+        "BBC Brasil",
         "G1 - Política",
         "Poder360"
       ],
       "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
+      "publishedRaw": "Wed, 30 Sep 2026 03:35:12 +0000"
+    },
+    {
+      "id": "1e5f462ef710",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE manda X apagar capa falsa de revista com foto de Janja",
+      "link": "https://www.poder360.com.br/poder-justica/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja/",
+      "summary": "Decisão de André Mendonça atende a pedido da coligação de Lula e determina remoção de 4 publicações em até 24 horas",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 12:06:43 +0000"
     },
     {
       "id": "13c62f9a58c4",
@@ -568,21 +491,23 @@
       "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
     },
     {
-      "id": "b5b0670ebb07",
-      "source": "G1 - Política",
+      "id": "8175bf59a136",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso Nacional: o que está em jogo no Orçamento e na crise entre os Poderes - O Assunto #1815",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/30/congresso-nacional-o-que-esta-em-jogo-no-orcamento-e-na-crise-entre-os-poderes-o-assunto-1815.ghtml",
-      "summary": "Os brasileiros vão às urnas neste domingo (4) para eleger os 513 deputados federais e dois terços dos 81 senadores. O Congresso é o Poder responsável por legislar, ou seja, é quem decide as leis brasileiras. Mas sua atuação alcança os limites dos demais Poderes. É o Senado Federal quem aprova ou rejeita a indicação do presidente para o Supremo Tribunal Federal – e são também os senadores que podem abrir um processo de impeachment contra algum ministro da Corte. E no Orçamento, desde 2015, o dispositivo das emendas parlamentares individuais impositivas (ou seja, de execução obrigatória) deu ao Congresso mais força nas disputas políticas com o Palácio do Planalto – essas emendas cresceram e, em 2027, devem representar cerca de 20% da verba que está à disposição do governo federal.  \nNeste episódio, Natuza Nery entrevista a cientista política Lara Mesquita, que estuda a correlação das emendas parlamentares com a redistribuição de forças na República.  \nConvidada: Lara Mesquita, cientista política e professora da Escola de Economia da FGV-SP. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nEleitor mudou percepção sobre importância de deputados e senadores\nO que você precisa saber: \nVÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?;\nOrçamento 2026: governo propõe R$ 40,8 bilhões para emendas parlamentares;\nOrçamento 2027: governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares;\nVÍDEO: O que está em jogo nas eleições para o Senado?;\nDatafolha: 34% dizem que apoio ao impeachment de ministros do STF aumenta chance de voto em candidato ao Senado;\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nCâmara dos Deputados completa 200 anos com acervo histórico acessível a quem visita o Congresso\nJornal Nacional/ Reprodução",
+      "category": "Internacional",
+      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
+      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
       "tags": [
-        "Congresso"
+        "TSE"
       ],
       "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 68,
-      "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
+      "score": 72,
+      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
     },
     {
       "id": "e01b391196ee",
@@ -600,21 +525,19 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:47:12 +0000"
     },
     {
-      "id": "5abc18eaf7ab",
-      "source": "Poder360",
+      "id": "b5b0670ebb07",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Ao vivo: Poder360 entrevista executivos no 2º dia do Congresso Aço Brasil",
-      "link": "https://www.poder360.com.br/poder-economia/ao-vivo-poder360-entrevista-executivos-no-2o-dia-do-congresso-aco-brasil/",
-      "summary": "Jornal digital acompanha a 36ª edição do evento, que se encerra nesta 4ª feira (30.set), em São Paulo",
+      "title": "Congresso Nacional: o que está em jogo no Orçamento e na crise entre os Poderes - O Assunto #1815",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/30/congresso-nacional-o-que-esta-em-jogo-no-orcamento-e-na-crise-entre-os-poderes-o-assunto-1815.ghtml",
+      "summary": "Os brasileiros vão às urnas neste domingo (4) para eleger os 513 deputados federais e dois terços dos 81 senadores. O Congresso é o Poder responsável por legislar, ou seja, é quem decide as leis brasileiras. Mas sua atuação alcança os limites dos demais Poderes. É o Senado Federal quem aprova ou rejeita a indicação do presidente para o Supremo Tribunal Federal – e são também os senadores que podem abrir um processo de impeachment contra algum ministro da Corte. E no Orçamento, desde 2015, o dispositivo das emendas parlamentares individuais impositivas (ou seja, de execução obrigatória) deu ao Congresso mais força nas disputas políticas com o Palácio do Planalto – essas emendas cresceram e, em 2027, devem representar cerca de 20% da verba que está à disposição do governo federal.  \nNeste episódio, Natuza Nery entrevista a cientista política Lara Mesquita, que estuda a correlação das emendas parlamentares com a redistribuição de forças na República.  \nConvidada: Lara Mesquita, cientista política e professora da Escola de Economia da FGV-SP. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nEleitor mudou percepção sobre importância de deputados e senadores\nO que você precisa saber: \nVÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?;\nOrçamento 2026: governo propõe R$ 40,8 bilhões para emendas parlamentares;\nOrçamento 2027: governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares;\nVÍDEO: O que está em jogo nas eleições para o Senado?;\nDatafolha: 34% dizem que apoio ao impeachment de ministros do STF aumenta chance de voto em candidato ao Senado;\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nCâmara dos Deputados completa 200 anos com acervo histórico acessível a quem visita o Congresso\nJornal Nacional/ Reprodução",
       "tags": [
         "Congresso"
       ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 68,
-      "publishedRaw": "Wed, 30 Sep 2026 11:30:41 +0000"
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
     },
     {
       "id": "0f025bf6ffcf",
