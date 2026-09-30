@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:48:36.277870+00:00",
+  "generated_at": "2026-09-30T16:19:47.600422+00:00",
   "items": [
     {
       "id": "94a0565aded9",
@@ -21,7 +21,8 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 96,
       "publishedRaw": "Wed, 30 Sep 2026 10:48:59 -0000"
@@ -43,9 +44,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
     },
     {
@@ -65,9 +67,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 10:00:00 +0000"
     },
     {
@@ -87,9 +90,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
@@ -110,7 +114,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
@@ -259,6 +264,48 @@
       "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
+      "id": "fbf8494d1a23",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula informa que não vai participar do debate da Globo, nesta quinta-feira (1º)",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/lula-informa-que-nao-vai-participar-do-debate-da-globo.ghtml",
+      "summary": "A assessoria do presidente Lula, candidato à reeleição pelo PT, informou nesta quarta-feira (30) à Globo que ele não participará do debate que será realizado pela emissora, nesta quinta-feira (1º) à noite. \nPara este debate, confirmaram presença os candidatos Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo).\nNa terça-feira (29), o ministro Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE), concedeu uma decisão liminar requerida pelo Partido Novo, alterando entendimento anterior do TSE que regulamenta os critérios de participação de partidos em debates eleitorais em emissoras de rádio e TV.\nA decisão liminar (provisória) garantiu a participação dos candidatos do Partido Novo nos debates das Eleições de 2026 em todas as emissoras de rádio e TV a partir de terça.\nO ministro determinou que os candidatos do partido ao governo do Distrito Federal (DF), Kiko Caputo, e do Rio de Janeiro (RJ), André Marinho, participassem dos debates realizados pela Globo na noite de terça.\nA decisão também beneficia o candidato a presidente pelo Novo, Romeu Zema.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:14:24 -0000"
+    },
+    {
+      "id": "7969f4b524da",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "EUA deve enviar ao Brasil proposta de negociação do tarifaço, diz equipe de Lula após reunião com representante de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
+      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump se comprometeu a apresentar \"nas próximas semanas\" uma nova proposta acerca do tarifaço.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
+    },
+    {
       "id": "302c3de5bb7d",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -273,9 +320,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "30 Sep 2026 12:37:00 -0300"
     },
     {
@@ -293,10 +341,32 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "30 Sep 2026 12:35:00 -0300"
+    },
+    {
+      "id": "42ceb65fc1cf",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pacientes perdem mais peso com pílula Wegovy do que com canetas, diz estudo",
+      "link": "https://www.cnnbrasil.com.br/saude/pacientes-perdem-mais-peso-com-pilula-wegovy-do-que-com-canetas-diz-estudo/",
+      "summary": "Participantes de estudo reduziram em média 4,1% de massa corporal após três meses de migração de injetáveis para o tratamento oral da Novo Nordisk",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:14:25 +0000"
     },
     {
       "id": "0ffe38f864e8",
@@ -313,30 +383,11 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Wed, 30 Sep 2026 15:41:40 +0000"
-    },
-    {
-      "id": "d4d55767728c",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futura: Flávio tem 49% das intenções de voto no 2º turno; Lula, 43,5%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/futura-flavio-tem-49-das-intencoes-de-voto-no-2o-turno-lula-435/",
-      "summary": "Pesquisa ouviu 2.000 eleitores em todo o Brasil entre os dias 25 e 29 de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 15:04:21 +0000"
     },
     {
       "id": "0fcad7f2cdd0",
@@ -353,10 +404,129 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
+    },
+    {
+      "id": "715ca968f214",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: Lula vai a ato político em Juiz de Fora",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-vai-a-ato-politico-em-juiz-de-fora/",
+      "summary": "Antes, às 12h, o presidente participa de um bate-papo ao vivo com influenciadores",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:00:44 +0000"
+    },
+    {
+      "id": "93d1d7f2ee2a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF impede PF de concluir inquérito-mãe do caso Master",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
+      "summary": "A Polícia Federal havia planejado fechar, até o fim de setembro, o primeiro inquérito do Banco Master, classificado de inquérito-mãe, que trata das fraudes bancárias praticadas por Daniel Vorcaro. \nContudo, a PF acabou sendo obrigada a mudar de planos depois da crise no Supremo Tribunal Federal (STF), que paralisou o caso. Agora, tudo indica que a conclusão vai ficar para depois das eleições, atrasando as investigações de outras etapas do caso.\nOs investigadores avaliavam incialmente que seria possível fechar esse primeiro inquérito entre agosto e setembro por considerar que as fraudes bancárias praticadas pelo Banco Master na tentativa de venda da instituição para o BRB, o banco público de Brasília, já estão comprovadas. \nNesta primeira fase, a PF vai pedir o indiciamento do banqueiro Daniel Vorcaro, do ex-presidente do BRB Paulo Henrique Costa e de servidores do Banco Central que ajudaram o dono do Master com informações privilegiadas.\nAgora no g1\nNesta quarta-feira (30), o banqueiro Daniel Vorcaro e seu pai, Henrique Vorcaro, vão depor na Polícia Federal. \nEsses depoimentos serão feitos para elucidar a existência do grupo \"Turma\", que seria encarregado de fazer ameaças a pessoas classificadas pelo dono do Master como suas adversárias e inimigas. \nOs dados do celular trazem informações de algumas tentativas de agressões, até contra jornalistas, pela \"turma\".\nEsse grupo, montado por Daniel Vorcaro, era comandado por Luiz Phillipi Mourão, o Sicário. Preso em uma operação da Polícia Federal, ele acabou tirando a própria vida numa cela do órgão em Belo Horizonte. \nO pai dele é apontado como o responsável por fazer pagamentos ao Sicário. Henrique Vorcaro nega qualquer envolvimento no caso.\nDaniel Vorcaro\nDivulgação",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 15:27:41 -0000"
+    },
+    {
+      "id": "13c62f9a58c4",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
+      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
+      "summary": "Análise: Perfil político de ministros do STF acirra crise institucional\nA crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
+    },
+    {
+      "id": "fe0ebdc0d037",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "urnas"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
+    },
+    {
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+    },
+    {
+      "id": "9d434c08a894",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: STF vota previdência de funcionários públicos",
+      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-vota-previdencia-de-funcionarios-publicos/",
+      "summary": "O julgamento será realizado a partir das 14h, no Recurso Extraordinário 1.050.597",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 12:10:00 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 16:00:19 +0000"
     },
     {
       "id": "96de6cc2759d",
@@ -378,6 +548,27 @@
       "publishedRaw": "30 Sep 2026 12:24:00 -0300"
     },
     {
+      "id": "f0bc9ce6e993",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
+      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+    },
+    {
       "id": "13b805f0e285",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -395,100 +586,6 @@
       ],
       "score": 81,
       "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
-    },
-    {
-      "id": "f0bc9ce6e993",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 81,
-      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
-    },
-    {
-      "id": "93d1d7f2ee2a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF impede PF de concluir inquérito-mãe do caso Master",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
-      "summary": "A Polícia Federal havia planejado fechar, até o fim de setembro, o primeiro inquérito do Banco Master, classificado de inquérito-mãe, que trata das fraudes bancárias praticadas por Daniel Vorcaro. \nContudo, a PF acabou sendo obrigada a mudar de planos depois da crise no Supremo Tribunal Federal (STF), que paralisou o caso. Agora, tudo indica que a conclusão vai ficar para depois das eleições, atrasando as investigações de outras etapas do caso.\nOs investigadores avaliavam incialmente que seria possível fechar esse primeiro inquérito entre agosto e setembro por considerar que as fraudes bancárias praticadas pelo Banco Master na tentativa de venda da instituição para o BRB, o banco público de Brasília, já estão comprovadas. \nNesta primeira fase, a PF vai pedir o indiciamento do banqueiro Daniel Vorcaro, do ex-presidente do BRB Paulo Henrique Costa e de servidores do Banco Central que ajudaram o dono do Master com informações privilegiadas.\nAgora no g1\nNesta quarta-feira (30), o banqueiro Daniel Vorcaro e seu pai, Henrique Vorcaro, vão depor na Polícia Federal. \nEsses depoimentos serão feitos para elucidar a existência do grupo \"Turma\", que seria encarregado de fazer ameaças a pessoas classificadas pelo dono do Master como suas adversárias e inimigas. \nOs dados do celular trazem informações de algumas tentativas de agressões, até contra jornalistas, pela \"turma\".\nEsse grupo, montado por Daniel Vorcaro, era comandado por Luiz Phillipi Mourão, o Sicário. Preso em uma operação da Polícia Federal, ele acabou tirando a própria vida numa cela do órgão em Belo Horizonte. \nO pai dele é apontado como o responsável por fazer pagamentos ao Sicário. Henrique Vorcaro nega qualquer envolvimento no caso.\nDaniel Vorcaro\nDivulgação",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 30 Sep 2026 15:27:41 -0000"
-    },
-    {
-      "id": "13c62f9a58c4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Perfil político de ministros do STF acirra crise institucional",
-      "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/09/30/analise-perfil-politico-de-ministros-do-stf-acirra-crise-institucional.ghtml",
-      "summary": "Análise: Perfil político de ministros do STF acirra crise institucional\nA crise envolvendo ministros do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) expôs uma disputa entre diferentes grupos dentro do Judiciário sobre a atuação dos integrantes das duas cortes. Parte dos ministros do STF questiona decisões tomadas no TSE e defende que determinadas questões sejam submetidas ao Supremo.\nO TSE é composto por sete ministros, sendo três deles integrantes do STF: Kassio Nunes Marques, André Mendonça e Dias Toffoli. \nEm geral, as decisões do TSE não podem ser levadas a outro tribunal. Há, porém, uma exceção: quando uma decisão é considerada contrária à Constituição, a questão pode ser levada ao STF para análise.\nNesse cenário, ganha relevância o perfil dos atuais integrantes do STF. A Corte reúne hoje mais ministros com passagem pela política, como Flávio Dino, Alexandre de Moraes e André Mendonça. Isso teria contribuído para ampliar a formação de grupos com posições distintas dentro dos tribunais superiores.\nA origem da tensão é associada ainda a desdobramentos do caso Master. Episódios envolvendo ministros foram sendo tratados sem uma solução definitiva e ganharam dimensão ao longo das investigações da Polícia Federal e de discussões posteriores no Supremo.\nO resultado é uma disputa que já ultrapassa casos específicos e envolve diferentes visões sobre o funcionamento do STF e do TSE. \nGloboPop: veja os vídeos do palco da Julia Dualibi",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 30 Sep 2026 11:09:15 -0000"
-    },
-    {
-      "id": "fe0ebdc0d037",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Urnas vão traçar futuro de Moraes; proximidade do primeiro turno reativa tema nos bastidores do STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/urnas-vao-tracar-futuro-de-moraes-proximidade-do-primeiro-turno-reativa-tema-nos-bastidores-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 30 Sep 2026 08:30:00 +0000"
-    },
-    {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 79,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
     },
     {
       "id": "28969baee37a",
@@ -527,21 +624,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 14:11:33 +0000"
     },
     {
-      "id": "b5b0670ebb07",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso Nacional: o que está em jogo no Orçamento e na crise entre os Poderes - O Assunto #1815",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/30/congresso-nacional-o-que-esta-em-jogo-no-orcamento-e-na-crise-entre-os-poderes-o-assunto-1815.ghtml",
-      "summary": "Os brasileiros vão às urnas neste domingo (4) para eleger os 513 deputados federais e dois terços dos 81 senadores. O Congresso é o Poder responsável por legislar, ou seja, é quem decide as leis brasileiras. Mas sua atuação alcança os limites dos demais Poderes. É o Senado Federal quem aprova ou rejeita a indicação do presidente para o Supremo Tribunal Federal – e são também os senadores que podem abrir um processo de impeachment contra algum ministro da Corte. E no Orçamento, desde 2015, o dispositivo das emendas parlamentares individuais impositivas (ou seja, de execução obrigatória) deu ao Congresso mais força nas disputas políticas com o Palácio do Planalto – essas emendas cresceram e, em 2027, devem representar cerca de 20% da verba que está à disposição do governo federal.  \nNeste episódio, Natuza Nery entrevista a cientista política Lara Mesquita, que estuda a correlação das emendas parlamentares com a redistribuição de forças na República.  \nConvidada: Lara Mesquita, cientista política e professora da Escola de Economia da FGV-SP. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Carlos Catelan, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nEleitor mudou percepção sobre importância de deputados e senadores\nO que você precisa saber: \nVÍDEO: Como nascem as leis e qual o caminho para aprovação no Congresso?;\nOrçamento 2026: governo propõe R$ 40,8 bilhões para emendas parlamentares;\nOrçamento 2027: governo federal propôs destinar R$ 44,8 bilhões para emendas parlamentares;\nVÍDEO: O que está em jogo nas eleições para o Senado?;\nDatafolha: 34% dizem que apoio ao impeachment de ministros do STF aumenta chance de voto em candidato ao Senado;\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio. No YouTube, o podcast diário do g1 soma mais de 14,2 milhões de visualizações.Moraes encaminha a Fachin pedido de investigação contra Mendonça\nCâmara dos Deputados completa 200 anos com acervo histórico acessível a quem visita o Congresso\nJornal Nacional/ Reprodução",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Wed, 30 Sep 2026 03:30:00 -0000"
-    },
-    {
       "id": "6d666cb38c21",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -555,21 +637,6 @@
       "crossOutlets": [],
       "score": 57,
       "publishedRaw": "Wed, 30 Sep 2026 08:00:01 -0000"
-    },
-    {
-      "id": "948c8f33d800",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reforma tributária é maior avanço para indústria, diz Gerdau",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/reforma-tributaria-e-maior-avanco-para-industria-diz-gerdau/",
-      "summary": "Gustavo Werneck defende mobilização para evitar recuo nas regras; a proposta de mudança é do candidato Flavio Bolsonaro (PL)",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Wed, 30 Sep 2026 15:27:54 +0000"
     }
   ]
 }
