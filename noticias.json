@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:44:53.533791+00:00",
+  "generated_at": "2026-09-30T03:17:34.819675+00:00",
   "items": [
     {
       "id": "d75191a6a76b",
@@ -16,7 +16,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -40,7 +39,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -63,7 +61,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -72,29 +69,6 @@
       ],
       "score": 94,
       "publishedRaw": "Mon, 28 Sep 2026 07:34:10 GMT"
-    },
-    {
-      "id": "401534eb9783",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Waack: STF e TSE brigam pelo controle das eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/waack-stf-e-tse-brigam-pelo-controle-das-eleicoes/",
-      "summary": "Lula nada viu de inapropriado telefonar para um desses ministros do Supremo, no meio de um comício, para dizer que acabara de sancionar um antigo projeto desse mesmo ministro",
-      "tags": [
-        "STF",
-        "eleições",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 01:02:49 +0000"
     },
     {
       "id": "708ce9a4b4ba",
@@ -111,7 +85,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -146,6 +119,48 @@
       "publishedRaw": "Mon, 28 Sep 2026 16:55:01 GMT"
     },
     {
+      "id": "931e8d3e93c8",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: como votar em trânsito?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/eleicoes-2026-como-votar-em-transito.ghtml",
+      "summary": "Solicitação para voto em trânsito termina dia 20 de agosto\nEleitores que optarem pelo voto em trânsito nas Eleições 2026 poderão votar fora da cidade onde têm domicílio eleitoral. O prazo para solicitar a modalidade terminou em 20 de agosto.\nA opção estará disponível nas capitais e em municípios com mais de 100 mil eleitores. Os locais de votação serão definidos pelos Tribunais Regionais Eleitorais (TREs).\nVeja abaixo como funciona o voto em trânsito.\nO que é o voto em trânsito?\nO voto em trânsito permite que cidadãos que estão fora da cidade onde votam participem da eleição em outro local.\nA modalidade existe nas eleições gerais, quando são escolhidos presidente, governadores, senadores e deputados federais, estaduais e distritais.\nA pessoa que estiver em cidades diferentes nos dois turnos da eleição pode solicitar a habilitação para votar em trânsito em uma cidade distinta em cada turno.\nApós as eleições, o título retornará à seção eleitoral de origem automaticamente, o que dispensa a necessidade de pedir a transferência de volta ao domicílio eleitoral original.\nEm quais cargos o eleitor pode votar nesta situação?\nIsso depende de onde o eleitor estará no dia da votação. Quem estiver no mesmo estado, mas em outra cidade, pode votar para presidente da República, governador, senador, deputado federal e deputado estadual ou distrital. \nJá quem estiver fora do estado onde vota poderá escolher apenas o presidente da República.\nComo funciona para quem mora no exterior?\nBrasileiros que moram no exterior e estarão no país durante as eleições também podem usar o voto em trânsito. \nQuem tem título registrado no exterior pode votar no Brasil em outubro, desde que solicite o voto em trânsito no mesmo prazo para quem mora no Brasil.\nO que acontece se o eleitor não comparecer?\nO eleitor que se inscreveu para o voto em trânsito e não pôde comparecer deve justificar a ausência, mesmo que esteja na cidade onde tem inscrição eleitoral no dia da eleição.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 91,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "e42f954318cb",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: qual a ordem de votação na urna?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/30/eleicoes-2026-qual-a-ordem-de-votacao-na-urna.ghtml",
+      "summary": "Guia do eleitor: Qual a ordem de votação na urna?\nNo próximo domingo, dia 4 de outubro,  o eleitor brasileiro vai fazer seis escolhas nas urnas para as Eleições 2026.\nQual a ordem de votação na urna?\n  No primeiro turno, o eleitor deverá seguir a seguinte ordem: \nPrimeiro, vota para deputado federal  (quatro dígitos). \nEm seguida, é a vez de votar para deputado estadual ou distrital, no caso do DF  (cinco dígitos).\nNa sequência, aparece a tela para votar na primeira vaga para senador (três dígitos). \nAssim que a urna computar este voto, o eleitor vota novamente para senador (três dígitos). \nNa sequência, escolhe o governador do seu estado (dois dígitos). \nE, por fim, vota para presidente da República (dois dígitos). \nA cada etapa, confira os dados que aparecem na tela, como a foto do candidato, o nome, o número e o partido, antes de apertar a tecla verde de “Confirma” e passar para o próximo cargo em disputa.  \n❗ATENÇÃO: ao votar nas duas vagas para o Senado, para que os dois votos sejam válidos, é necessário escolher nomes diferentes. Se o eleitor repetir e confirmar o mesmo candidato nas duas opções, o segundo voto será anulado. \nNo primeiro turno das eleições, leve a cola eleitoral com a ordem de votação em papel.\nG1\nBaixe a colinha do g1 para imprimir\nCaso haja segundo turno, no dia 25 de outubro o eleitor seguirá a seguinte ordem nas urnas:\nGovernador (dois dígitos);\nPresidente da República (dois dígitos).\nSe houver apenas uma disputa pendente, o eleitor votará somente para aquele cargo no segundo turno.\nCola Eleitoral\nNo dia da eleição, é possível levar um cola eleitoral já com a ordem de votação na urna para ajudar o eleitor ao fazer suas escolhas. No entanto, esta cola deve ser de papel. Não é permitido usar celular na cabine de votação e este deve ficar no local indicado pelos mesários enquanto o eleitor vota. \nEm 2026, eleitor deve votar para seis cargos em disputa.\nReprodução/ TV Globo",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 91,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+    },
+    {
       "id": "3df4676d7335",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -167,6 +182,28 @@
       "publishedRaw": "Wed, 30 Sep 2026 02:05:28 -0000"
     },
     {
+      "id": "bb947e34336c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tarcísio e Haddad nacionalizam debate em SP com ataques sobre infiltração do PCC e CV, saúde e governos Lula e Bolsonaro",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/30/tarcisio-e-haddad-nacionalizam-debate-em-sp-com-ataques-sobre-infiltracao-do-pcc-e-cv-saude-e-governos-lula-e-bolsonaro.ghtml",
+      "summary": "Os candidatos Fernando Haddad (PT) e Tarcísio de Freitas (Republicanos) no estúdio da TV Globo para participar do debate entre candidatos ao governo de São Paulo\nBob Paulino/Globo\nOs candidatos ao governo de São Paulo Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) fizeram nesta terça-feira (29), na TV Globo, o último debate do 1º turno, em um encontro nacionalizado, pautado por enfrentamentos baseados em dados e ataques sobre impactos das gestões Bolsonaro e Lula no Brasil. \nEm um primeiro turno sem nenhum outro candidato com representatividade no Congresso Nacional, os dois chegam à reta final da campanha concentrando as atenções e disputando a liderança na corrida pelo Palácio dos Bandeirantes. \nOs temas mais presentes na campanha, como a privatização da Sabesp, os resultados da Educação paulista, as concessões no setor do transporte e os números do feminicídio voltaram à tona. A Prefeitura de São Paulo e seus contratos também apareceram na fala de Haddad, e os pedidos de recuperação judicial de empresas do governo Lula, na fala de Tarcísio. \nNo início do debate, os candidatos discutiram segurança pública, tema que mais preocupa os eleitores de São Paulo, segundo as pesquisas. Eles divergiram e fizeram críticas a supostas alianças com pessoas suspeitas de envolvimento com o PCC, como o ex-vereador Milton Leite (União Brasil), preso neste mês, no caso de Tarcísio, e o vereador Senival Moura (PT), no caso de Haddad. \nEnquanto o petista falou sobre a entrada do Comando Vermelho no interior do estado e a infiltração do PCC em instituições públicas e privadas, o governador rebateu citando indicadores criminais que caíram nos últimos anos.\nHaddad também citou problemas na segurança, como a alta dos casos de feminicídio e os roubos e furtos de celulares na capital.\n\"Nós estamos batendo recorde de feminicídio no estado de São Paulo. Recorde de crimes de natureza racial, recorde de intolerância com a comunidade LGBT. De cada 10 celulares roubados, no Brasil, três são roubados no estado de São Paulo; dois são roubados na cidade de São Paulo, e você está falando que tudo está melhorando. O crime organizado. O PCC se infiltrando nas instituições. Você teve que afastar o comandante que você nomeou.\"    \nConvidados\nConvidados de Haddad e Tarcísio acompanharam o debate no estúdio da Globo. \nDo lado de Tarcísio, estavam André do Prado (PL), presidente da Alesp; Ricardo Salles (Novo), deputado federal; Felício Ramuth (PSD), vice-governador de São Paulo; Guilherme Derrite (PP), deputado federal; Baleia Rossi (MDB), deputado federal; Ricardo Nunes (MDB), prefeito de São Paulo; Edson Aparecido (MDB), secretário de governo da Prefeitura de São Paulo; e Guilherme Afif Domingos (PSD), secretário estadual de Projetos Estratégicos.\nAntes do debate, Derrite conversava com Salles em uma roda. André do Prado, que estava próximo, se afastou quando Salles se aproximou do grupo. A cena ocorre um dia depois de Salles desistir da candidatura ao Senado e declarar apoio justamente a André do Prado e Guilherme Derrite. \nA aproximação marca uma mudança na relação entre Salles e Prado, que protagonizaram alguns dos principais embates entre candidatos da direita durante a campanha. Salles chegou a acusar Prado de dividir o eleitorado conservador e, em debates e entrevistas, questionou sua atuação política e suas alianças. Em setembro, o TRE-SP também determinou a retirada de vídeos publicados por Salles contra Prado por considerar falsas acusações feitas pelo candidato do Novo.\nDepois, na plateia, André e Salles só tiveram Derrite entre eles. \nEntre os aliados de Haddad estavam Marina Silva (Rede), deputada federal e candidata ao Senado; Simone Tebet (MDB), ministra do Planejamento e candidata ao Senado; Márcio França (PSB), candidato a vice na chapa de Haddad; Edinho Silva (PT), presidente nacional do partido; e Marco Aurélio Carvalho (PT), coordenador da campanha em São Paulo.\nO candidato Derrite entre André do Prado e Salles, que durante a campanha divergiram e disputaram votos\nReprodução/TV Globo\nSaúde\nAinda no primeiro bloco, Tarcísio escolheu o tema saúde e a região da Baixada Santista. Haddad usou a discussão sobre a saúde na Baixada Santista para mencionar filas que, segundo ele, foram herdadas pelo governo Lula (PT) da gestão de Jair Bolsonaro (PL) durante a pandemia. \n\"Com a gestão da pandemia que vocês fizeram lá em Brasília no governo Bolsonaro. Você tem ideia do estoque de procedimentos represados ​​por causa da pior gestão do mundo de uma pandemia que aconteceu aqui? 2,7% da população 10% de mortes por Covid no mundo.\"\nTarcísio, por sua vez, recorreu ao mesmo tema para relacionar os atrasos na entrega da Linha 6-Laranja do metrô à Lava Jato. Uma das estações da linha está sendo construída em um terreno onde, em 2012, havia planos para a construção de um hospital.\nO candidato à reeleição também cutucou Haddad quando prefeito da capital paulista. \"A gente sabe que os prefeitos não vão dar conta e quando um hospital não tem custeio, ele acaba operando abaixo da capacidade. Isso estava acontecendo em vários hospitais municipais do estado de São Paulo Não foi por outra razão que a gente estendeu a tabela SUS Paulista, que é recurso do Tesouro do estado de São Paulo, Tesouro estadual. A gente está aportando R$ 10 bilhões por ano para garantir que os hospitais municipais vão funcionar, porque aí a gente dá previsibilidade com isso. A gente aumenta a ocupação. A gente consegue trabalhar. com os hospitais por mais tempo.\" \nSegundo bloco\nNo bloco de tema livre, Tarcísio falou sobre problema de grandes empresas do varejo sobre recuperação judicial e pergunta se aconselha um ajuste fiscal no momento. \"A gente está tendo um problema no crédito. As empresas estão tendo dificuldades de securitizar as suas dívidas, estão encurtando suas operações de crédito, estão quebrando, estão entrando em recuperação judicial. O que que você tem a falar para os pais de família que estão perdendo seus empregos? Qual é a justificativa? E a pergunta que eu faço é: você acha que o Brasil precisa de ajuste fiscal? Você acha que o Brasil precisa de ajuste de rota?\"\nHaddad disse que assumiu a Fazenda após a saída de Paulo Guedes com um déficit. \"Você esteve na minha sala em fevereiro de 2023, cobrando o calote que o Bolsonaro deu no Doria e eu paguei, ao contrário do que o Bolsonaro e o Guedes fizeram. Eu fui lá e paguei porque eu não te discriminei. Eu não deixei você ter que ter uma sentença do Supremo antes de sentença. Eu fui lá, fiz o acordo, falei que era justo e paguei os precatórios.\"\nTerceiro bloco \nTarcísio abriu o terceiro bloco apresentando seus projetos na área. Citou o Rodoanel Norte e linhas de metrô. \"Entregamos no final do ano passado os primeiros 24 km. Estamos com uns 20 km em obra agora finalzinho do ano a gente está entregando essa obra completa desde lá da Via Dutra. Concluímos a obra da Copa da Linha 17, que a partir de amanhã começa a funcionar no horário estendido. (...) Estamos fazendo a linha 6, que vai atender a Brasilândia. Já estamos operando em caráter de teste da João Paulo primeiro até perdiz no final do ano, a gente começa a operar da Brasilândia até perdiz no ano que vem da Brasilândia até São Joaquim\"\nHaddad propôs o Bilhete Integrado. \"Meu sonho aqui na região metropolitana, não só de São Paulo, é o Bilhete Integrado. Nós precisamos integrar o bilhete do mesmo jeito que nós fizemos na gestão da Marta, o Bilhete Único que depois eu fiz o Bilhete Único mensal e o semanal, que eu dei o passe livre para o estudante e pro idoso a partir de 60 anos. Nós precisamos considerar quem mora longe de São Paulo, na região metropolitana e tem que pegar dois ou três condições para chegar no trabalho. Meu sonho é colocar todo esse cronograma de obras para rodar, mas fazer a integração do bilhete Único Metropolitano em São Paulo e nas demais regiões metropolitanas do estado.\"\nHaddad afirmou haver uma \"privatização desenfreada de tudo em São Paulo\". \"É serviço funerário, é parque, é trem, é tudo, Sabesp, que está dando a maior confusão no Procon, aumentou a conta de água enquanto devia baixar, prometeu baixar e não baixou. Está dando uma grande confusão. Esse programa de privatizações e sobretudo nos trens também está nos jornais. Depois da privatização aumentou 27% as falhas.\"\nQuarto bloco\nNo quarto e último bloco, de tema livre, Haddad e Tarcísio também divergiram sobre recursos hídricos. O petista criticou problemas de abastecimento e qualidade da água na Baixada Santista e questionou a privatização da Sabesp. Tarcísio listou obras de reservatórios, barragens e desassoreamento de rios.\nNa discussão sobre a Sabesp, Haddad criticou problemas recentes de abastecimento e qualidade da água e questionou a privatização da empresa, citando a promessa de redução da conta de água. Tarcísio rebateu dizendo que não houve problema de potabilidade e que a orientação sobre o consumo de água na Baixada Santista ocorreu por causa da turbidez provocada pelas chuvas. O governador também defendeu que a privatização ampliou a capacidade de investimento da empresa e citou avanços na coleta e no tratamento de esgoto.  \nDepois, o petista levou a discussão sobre a revisão dos contratos com as empresas em concessões feitas pelo estado. Tarcísio voltou para o Rio Tietê, disse que a mancha de poluição diminuiu e ironizou que Haddad, ex-ministro da Fazenda, não sabe de matemática. \nRegras do debate\nForam convidados os candidatos de partidos e federações com representação mínima de cinco parlamentares no Congresso Nacional. A mediação foi feita pelo jornalista Alan Severiano, e o encontro foi transmitido ao vivo pela TV Globo, direto dos estúdios da Globo na capital paulista.\nO encontro foi dividido em quatro blocos e teve como base perguntas feitas entre os próprios candidatos. \nO primeiro e o terceiro blocos foram dedicados a temas determinados, com 20 minutos de duração cada, sendo 10 minutos para a discussão de cada tema. Nesses blocos, cada candidato escolheu um tema entre os seis previamente definidos pelo jornalismo da Globo e que foram exibidos em um telão. \nEm seguida, foi selecionada uma das regiões metropolitanas do estado. A questão proposta ao adversário deveria estar relacionada tanto ao tema quanto à região escolhidos. Cada candidato teve 6 minutos por tema e pôde administrar seu tempo livremente.\nO segundo e o quarto blocos tiveram tema livre, com 20 minutos de duração cada um. Em cada um deles, os candidatos tiveram 10 minutos para conduzir o debate e gerenciar o próprio tempo. O candidato sorteado para iniciar o segundo bloco foi o segundo a perguntar no quarto bloco. Ao final do quarto bloco, os candidatos apresentaram suas considerações finais.",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 03:10:48 -0000"
+    },
+    {
       "id": "9c5553de1124",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -180,7 +217,6 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
@@ -254,70 +290,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 01:17:49 +0000"
     },
     {
-      "id": "d509d57fb583",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Coligação de Lula aciona TSE contra publicação de Nikolas que usa fala do presidente sobre ‘toque’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/coligacao-de-lula-aciona-tse-contra-publicacao-de-nikolas-que-usa-fala-do-presidente-sobre-toque-nprp/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 00:34:26 +0000"
-    },
-    {
-      "id": "2d1951e3cdec",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula pede que TSE derrube posts de Nikolas que explora declaração sobre ‘toque’ de exame de próstata",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-pede-que-tse-derrube-posts-de-nikolas-sobre-declaracao-sobre-toque-de-exame-de-prostata/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Tue, 29 Sep 2026 20:18:06 +0000"
-    },
-    {
-      "id": "14d156be4aeb",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eduardo Bolsonaro diz que Simone Tebet 'se prostitui' por cargos, e candidata reage: 'covarde'; TRE determina remoção de postagem",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/eduardo-bolsonaro-insinua-que-simone-tebet-se-prostitui-por-cargos-e-candidata-reage-covarde.ghtml",
-      "summary": "Eduardo Bolsonaro insinua que Simone Tebet ‘se prostitui’ por cargos, e candidata reage: ‘covarde’\nAgência Brasil e Bruno Spada/Câmara dos Deputados\nA candidata ao Senado por São Paulo Simone Tebet (PSB) afirmou que vai processar Eduardo Bolsonaro (PL) após o ex-deputado federal insinuar que ela “se prostitui” por cargos políticos. Tebet chamou Eduardo de “covarde” e disse que a declaração configura violência política de gênero. Marina Silva (Rede), que também disputa uma das duas vagas ao Senado por São Paulo, demonstrou apoio à adversária.\nO episódio ocorreu após Tebet criticar, nesta segunda-feira (28), a desistência de Ricardo Salles (Novo) da candidatura ao Senado por São Paulo. A ex-ministra afirmou que Salles havia “se rendido ao Centrão” depois de abandonar a disputa e declarar apoio a André do Prado (PL) e Guilherme Derrite (PP).\nEduardo Bolsonaro rebateu a declaração em uma publicação nas redes sociais. O ex-deputado afirmou que Salles não havia se rendido ao Centrão, mas reconhecido que a divisão dos votos da direita entre três candidatos poderia prejudicar o grupo.\nNa sequência, Eduardo chamou Tebet de “vassala” do presidente Luiz Inácio Lula da Silva (PT) e fez a insinuação. “Quando passa a eleição, faz tudo ao contrário. Se prostitui por cargo, ministério etc.”, escreveu.\nInitial plugin text\nTRE determina remoção da postagem\nApós repercussão da publicação de Eduardo Bolsonaro nas redes sociais, o Tribunal Regional Eleitoral (TRE) determinou a remoção da publicação com ataques à honra da candidata.\nSimone Tebet entrou com a representação eleitoral contra Eduardo Bolsonaro e o Facebook Serviços Online do Brasil, responsável pela plataforma.\nO juiz Ronnie Herbert Barros Soares, relator do caso, concedeu o pedido de tutela de urgência. Na prática, isso significa que o tribunal determinou uma medida imediata, antes de o processo ser julgado definitivamente.\nO juiz determinou que o conteúdo seja removido em até 24 horas. Caso a determinação não seja cumprida, foi estabelecida uma multa de R$ 1 mil por dia, limitada a 30 dias. Portanto, a multa pode chegar a R$ 30 mil.\nTebet diz que vai à Justiça\nEm nota, a campanha de Simone Tebet afirmou que vai adotar “todas as medidas jurídicas cabíveis” contra Eduardo Bolsonaro. A equipe informou que pretende acionar a Justiça Eleitoral para pedir a “imediata remoção” da publicação e encaminhar uma notícia-crime ao Ministério Público Eleitoral por violência política de gênero.\nTebet também reagiu diretamente à declaração e chamou Eduardo Bolsonaro de “covarde”.\n“É particularmente grave e causa profunda repulsa que, em pleno processo eleitoral, se pretenda desqualificar uma candidata por meio de uma insinuação de natureza sexual e profundamente degradante”, afirmou a campanha.\n“É um covarde que ataca protegido pela distância e por um exército digital propagador de discurso de ódio. Essa é a indigência do debate político que não pode prosperar”, acrescentou.\nPostagem de Simone Tebet sobre declaração de Eduardo Bolsonaro\nReprodução/X\nPolíticos demonstram apoio\nMarina Silva, candidata ao Senado por São Paulo pelo Rede, demonstrou apoio a Tebet após o ataque. As duas candidatas têm feito campanha conjunta na disputa pelas duas vagas destinadas ao estado no Senado.\nMais cedo, também nesta segunda-feira (28), Marina havia criticado a desistência de Ricardo Salles. Em publicação nas redes sociais, ela afirmou que a decisão “desrespeita seus eleitores” e classificou a movimentação como um “vale-tudo” para tentar conter o avanço das duas candidatas mulheres do campo progressista.\nFernando Haddad (PT) e o vice-presidente, Geraldo Alckmin, também se manifestaram a favor de Tebet (veja abaixo).\nO episódio entre Eduardo Bolsonaro e Tebet ocorreu no mesmo dia em que Salles anunciou a desistência da candidatura, seis dias antes do primeiro turno das eleições.\nPostagem de Marina Silva após declaração de Eduardo Bolsonaro sobre Simone Tebet\nReprodução/X\nFernando Haddad prestou solidariedade a Simone Tebet\nReprodução/X\nGeraldo Alckmin demonstra apoio a Simone Tebet\nReprodução/X\nDesistência de Salles\nRicardo Salles anunciou nesta segunda-feira (28) que não disputará mais uma das duas vagas ao Senado por São Paulo. Ao lado do governador Tarcísio de Freitas (Republicanos), ele declarou apoio a André do Prado (PL) e Guilherme Derrite (PP).\nA decisão ocorreu depois de uma campanha em que Salles havia feito críticas a André do Prado e afirmado, em diferentes ocasiões, que o candidato do PL era ligado ao Centrão.\nApós a desistência, Tebet afirmou que Salles havia se “rendido ao Centrão”. Eduardo Bolsonaro contestou a declaração e defendeu a decisão do ex-ministro do Meio Ambiente.",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 86,
-      "publishedRaw": "Tue, 29 Sep 2026 20:47:26 -0000"
-    },
-    {
       "id": "13b805f0e285",
       "source": "G1 - Economia",
       "tipo": "mainstream",
@@ -358,6 +330,48 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
     },
     {
+      "id": "d509d57fb583",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Coligação de Lula aciona TSE contra publicação de Nikolas que usa fala do presidente sobre ‘toque’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/coligacao-de-lula-aciona-tse-contra-publicacao-de-nikolas-que-usa-fala-do-presidente-sobre-toque-nprp/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 30 Sep 2026 00:34:26 +0000"
+    },
+    {
+      "id": "2d1951e3cdec",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula pede que TSE derrube posts de Nikolas que explora declaração sobre ‘toque’ de exame de próstata",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-pede-que-tse-derrube-posts-de-nikolas-sobre-declaracao-sobre-toque-de-exame-de-prostata/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 29 Sep 2026 20:18:06 +0000"
+    },
+    {
       "id": "bfcb24e34e8c",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -370,76 +384,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 23:47:34 -0000"
-    },
-    {
-      "id": "7350144520ca",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: Flávio lidera no RJ e em SP, e Lula fica à frente em PE; há empate técnico em MG e no DF",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/29/quaest-presidente-estados-29-setembro.ghtml",
-      "summary": "Quaest: Flávio lidera no RJ e SP, Lula fica à frente em PE; há empate técnico em MG e DF\nPesquisas Quaest divulgadas nesta terça-feira (29) mostram como está a corrida presidencial em São Paulo, Minas Gerais, Rio de Janeiro, Pernambuco e no Distrito Federal a cinco dias do 1º turno. \nSP, MG e RJ são os estados com os maiores números de eleitores aptos a votar.\n O que as pesquisas de 1º turno apontam\nSão Paulo: Flávio Bolsonaro (PL) lidera, com 6 pontos de vantagem para Lula (PT).\nMinas Gerais: há empate técnico, com Lula numericamente à frente.\nRio de Janeiro: Flávio Bolsonaro lidera, com 7 pontos de vantagem.\nPernambuco: Lula lidera, com 38 pontos de vantagem.\nDistrito Federal: há empate técnico no limite da margem de erro, com Flávio Bolsonaro numericamente à frente.\n📋Os levantamentos foram encomendados pela Globo. As margens de erro são de dois pontos percentuais, para mais ou para menos, na pesquisa de São Paulo, e de três pontos percentuais nos demais estados.\nSaiba mais: Quem são os candidatos nas eleições de 2026?\nVeja dados detalhados de todas as pesquisas Quaest e Datafolha\nAgora no g1\nSão Paulo: Flávio Bolsonaro 36% x 30% Lula\nFlávio Bolsonaro (PL): 36% (eram 34% em 23 de setembro)\nLula (PT): 30% (eram 31%)\nAugusto Cury (Avante): 5% (eram 7%)\nRonaldo Caiado (PSD): 4% (eram 4%)\nRenan Santos (Missão): 3% (eram 3%)\nRomeu Zema (Novo): 1% (era 1%)\nIndecisos: 12% (eram 11%)\nEm branco/nulo/não vai votar: 9% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio Bolsonaro supera Lula por 43% a 35%.\nA margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.800 pessoas em São Paulo entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nMinas Gerais: Lula 35% x 31% Flávio Bolsonaro\nLula (PT): 35% (eram 35% em 23 de setembro)\nFlávio Bolsonaro (PL): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 5% (eram 5%)\nRonaldo Caiado (PSD): 3% (eram 4%)\nRenan Santos (Missão): 3% (eram 2%)\nRomeu Zema (Novo): 3% (eram 2%)\nIndecisos: 14% (eram 13%)\nBranco/nulo/não vai votar: 6% (eram 9%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, também há empate técnico: Lula tem 41%, contra 40% de Flávio Bolsonaro.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.506 pessoas em Minas Gerais entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-05155/2026.\nRio de Janeiro: Flávio Bolsonaro 38% x 31% Lula\nFlávio Bolsonaro (PL): 38% (eram 37% em 23 de setembro)\nLula (PT): 31% (eram 30%)\nEscritor Augusto Cury (Avante): 4% (eram 4%)\nRonaldo Caiado (PSD): 2% (eram 3%)\nRenan Santos (Missão): 2% (eram 2%)\nSamara Martins (UP): 1% (não pontuou)\nIndecisos: 11% (eram 12%)\nBranco/nulo/não vai votar: 11% (eram 10%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 44% a 34%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas no Rio de Janeiro entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-03534/2026.\nPernambuco: Lula 58% x 20% Flávio Bolsonaro\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Lula supera Flávio por 61% a 24%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.302 pessoas em Pernambuco entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-08289/2026.\nDistrito Federal: Flávio Bolsonaro 38% x 32% Lula\nFlávio Bolsonaro (PL): 38% (eram 33%)\nLula (PT): 32% (eram 32%)\nRonaldo Caiado (PSD): 8% (eram 8%)\nAugusto Cury (Avante): 5% (eram 7%)\nRenan Santos (Missão): 3% (eram 3%)\nIndecisos: 8% (eram 8%)\nBranco/nulo/não vai votar: 6% (eram 8%)\nOs demais candidatos não pontuaram. Veja os dados completos. No cenário de 2º turno, Flávio supera Lula por 48% a 37%.\nA margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. Foram entrevistadas 1.104 pessoas no Distrito Federal entre os dias 25 e 28 de setembro. A pesquisa foi registrada sob o número BR-00531/2026.\nLula (PT) e Flávio Bolsonaro (PL)\nRicardo Stuckert e Vittor Sales",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 20:37:01 -0000"
-    },
-    {
-      "id": "330ccda7b93e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest em PE: Lula, 58%; Flávio, 20%; Cury, 3%; Renan, 2%; Caiado, 1%",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/quaest-presidencial-em-pe-29-de-setembro.ghtml",
-      "summary": "Candidatos à Presidência da República em 2026: Lula, Flávio, Renan, Caiado, Cury, Zema, Samara, Edmilson Costa, Clariana, Hertz Dias, Marçal, Rui Costa Pimenta e Wilson Grassi\nMontagem/g1\nPesquisa Quaest divulgada nesta terça-feira (29) mostra como está a disputa pela Presidência da República no 1º turno entre os eleitores de Pernambuco. O levantamento foi encomendado pela Globo.\n✅ Receba no WhatsApp as notícias do g1 PE\nVeja, abaixo, os resultados da pesquisa estimulada, em que a Quaest mostra a lista de candidatos aos eleitores entrevistados:\nLula (PT): 58% (eram 54% em 23 de setembro)\nFlávio Bolsonaro (PL): 20% (eram 21%)\nEscritor Augusto Cury (Avante): 3% (era 5%)\nRenan Santos (Missão): 2% (eram 2%)\nRonaldo Caiado (PSD): 1% (eram 1%)\nRomeu Zema (Novo): 0% (eram 0%)\nEdmilson Costa (PCB): 0% (era 0%)\nClariana Barão (DC): 0% (era 0%)\nHertz Dias (PSTU): 0% (era 0%) \nLeonardo Avalanche (PRTB): 0% (era 0%)\nRui Costa Pimenta (PCO): 0% (era 0%)\nSamara Martins (UP): 0% (era 0%)\nVeterinário Wilson Grassi (Democrata): 0% (era 0%)\nIndecisos: 11% (era 10%)\nBranco/nulo/não vai votar: 5% (era 7%)\nContratada pela Globo, a Quaest entrevistou 1.302 pessoas de 16 anos ou mais em todo o país, entre os dias 25 e 28 de setembro. A margem de erro é de três pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob os números PE-00324/2026 e BR-08289/2026.\nLEIA TAMBÉM:\nGOVERNO: João Campos e Raquel Lyra empatam, com 42%\nSENADO: Marília, 19%; Humberto, 17%; Mendonça, 10%; Eduardo, 7%\nAVALIAÇÃO: 59% aprovam governo de Raquel, e 33% desaprovam\nSegundo turno em Pernambuco\nLula: 61% (eram 58%);\nFlávio Bolsonaro: 24% (eram 25%);\nBranco/nulo/não vai votar: 10% (eram 12%);\nIndecisos: 5% (eram 5%).\nVÍDEOS: mais vistos de Pernambuco nos últimos 7 vídeos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 29 Sep 2026 20:20:05 -0000"
-    },
-    {
-      "id": "b52fcc7e11b8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula publica nota em solidariedade à CNBB e devotos de Nossa Senhora",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-publica-nota-em-solidariedade-a-cnbb-e-devotos-de-nossa-senhora/",
-      "summary": "Presidente manifesta solidariedade a bispos e devotos em meio a polêmica provocada pela fake news relacionando o nome de Flávio Bolsonaro (PL) e a figura da Padroeira do Brasil",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 00:52:14 +0000"
     },
     {
       "id": "f4095a72b5e0",
@@ -454,12 +404,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 00:16:27 +0000"
     },
     {
@@ -475,12 +424,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 23:44:30 +0000"
     },
     {
@@ -496,33 +444,51 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Tue, 29 Sep 2026 20:48:38 +0000"
     },
     {
-      "id": "dd8fc3e85002",
+      "id": "e338d276b53f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio chama Lula de machista por fala sobre mulher “tomar toque”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-chama-lula-de-machista-por-fala-sobre-mulher-tomar-toque/",
+      "summary": "Senador classifica declaração sobre exames de saúde como preconceituosa e diz que presidente não tem condições de seguir no cargo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 30 Sep 2026 02:46:55 +0000"
+    },
+    {
+      "id": "cf6d86b207de",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
       "title": "Lula faz “banana” e afirma que seguirá nos palanques do país",
-      "link": "https://www.poder360.com.br/poder-governo/lula-faz-banana-e-afirma-que-seguira-nos-palanques-do-pais/",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-banana-e-afirma-que-seguira-nos-palanques-do-pais/",
       "summary": "Em Salvador, presidente reage a comentário sobre último comício na Bahia; garante presença em futuras agendas e diz que não se renderá à idade",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 02:31:03 +0000"
     },
     {
@@ -538,12 +504,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 02:20:10 +0000"
     },
     {
@@ -559,12 +524,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 02:12:43 +0000"
     },
     {
@@ -580,12 +544,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 02:02:01 +0000"
     },
     {
@@ -601,12 +564,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 01:59:52 +0000"
     },
     {
@@ -622,34 +584,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 01:28:28 +0000"
-    },
-    {
-      "id": "38c83f0908f4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula chama baianos de “povo superior” em ato em Salvador",
-      "link": "https://www.poder360.com.br/poder-governo/lula-chama-baianos-de-povo-superior-em-ato-em-salvador/",
-      "summary": "Presidente elogia a diversidade cultural da Bahia e cita nomes da música e da Independência após caminhada de campanha",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 01:13:41 +0000"
     },
     {
       "id": "b10f929c98c9",
@@ -691,6 +631,65 @@
       "publishedRaw": "29 Sep 2026 23:00:00 -0300"
     },
     {
+      "id": "caa234a915a2",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixarem o Brasil",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/29/e-fake-que-video-mostre-presidente-do-paraguai-agradecendo-a-lula-por-empresas-deixarem-o-brasil.ghtml",
+      "summary": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nCircula nas redes sociais um vídeo que mostra o presidente Lula (PT) conversando com um homem em um evento. Segundo as descrições dos posts, esse interlocutor seria o presidente paraguaio Santiago Penã, flagrado no momento em que agradeceu ao petista, durante a Assembleia Geral da Organização das Nações Unidas (ONU), por empresas migrarem do Brasil para o Paraguai. É #FAKE.\n✅ Siga o canal de Fato ou Fake no WhatsApp\nSelo Fake (Horizontal)\ng1\n🔴 Como é o vídeo?\nPublicado no X, Threads, Instagram, Facebook e TikTok, o vídeo começou a circular na quarta-feira (23), um dia após o presidente Lula ter feito discurso na abertura do debate geral da 81ª Assembleia Geral da ONU, em Nova York.\nUma caixa de texto sobreposta às imagens diz: \"Lula foge de Rubio na ONU, mas é barrado pelo presidente do Paraguai, que agradece a política que faz empresas brasileiras atravessarem a fronteira\".\nO registro mostra Lula cumprimentando um homem com um aperto de mão. Uma tradutora que assistia ao diálogo traduziu as declarações para o português.\n⚠️ Por que é #FAKE? \nEmbora seja real – e não um registro fabricado por inteligência artificial (IA) –, o vídeo mostra uma conversa entre Lula e o senador paraguaio Beto Ovelar, ocorrida em 30 de junho, durante a cúpula do Mercosul, em Assunção. O presidente Santiago Peña, aliás, estava presente naquele encontro (veja imagem ao final desta checagem). Além disso, o trecho exibido não trata de empresas supostamente trocando o Brasil pelo país vizinho.\nProcurada pelo Fato ou Fake, a assessoria de imprensa da Presidência do Brasil afirmou que \"o conteúdo é falso\". A nota diz: \"O presidente Lula não manteve encontro bilateral, mesmo informal, com o presidente do Paraguai, Santiago Peña, durante a Assembleia Geral da ONU, em Nova York, no dia 22 de setembro. A Secretaria de Comunicação Social da Presidência da República repudia a divulgação de boatos falsos com objetivos políticos, que visam única e exclusivamente desinformar a população, enfraquecer instituições e manipular a opinião pública\".\nNa mesma data da conversa com Lula, o próprio senador Beto Ovelar divulgou o encontro em suas redes sociais. Na legenda, escreveu: \"Durante a Cúpula do Mercosul, expressei meu agradecimento ao presidente do Brasil, Luiz Inácio Lula da Silva, pois suas políticas sociais foram fundamentais como base para a implementação do programa Tekoporã no Paraguai\".\nEm nenhum momento do vídeo Ovelar mencionou empresas brasileiras. Na verdade, é possível ouvir o senador comentando sobre o Programa Tekoporã, uma iniciativa social do governo paraguaio, que inclui transferência de renda a famílias em situação de pobreza e vulnerabilidade. \nEle disse: \"Quando o senhor foi presidente da República, eu era ministro, e o senhor abriu ​as portas do ​Ministério do ⁠Desenvolvimento Social. Hoje, nós temos um programa que se chama Tekoporã, e, graças à abertura do ​senhor, isso foi possível. Então, eu queria lhe agradecer muito em nome do povo paraguaio\".\nO presidente do Paraguai, Santiago Peña (à esq.), ao lado do presidente Lula, que conversa com o senador paraguaio Beto Ovelar (à dir.).\nReprodução/Instagram\nÉ #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: vídeo que mostra homem tomando banho em fonte natural em meio a chamas é real\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
+    },
+    {
+      "id": "e93ee1105bca",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Tue, 29 Sep 2026 16:25:04 GMT"
+    },
+    {
+      "id": "90660cbe5930",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
+      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até às 23h59 desta quarta.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+    },
+    {
       "id": "e02530204aa1",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -703,11 +702,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Tue, 29 Sep 2026 23:56:03 -0000"
     },
     {
@@ -723,11 +721,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Tue, 29 Sep 2026 23:23:49 -0000"
     },
     {
@@ -743,73 +740,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Poder360"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Tue, 29 Sep 2026 23:02:05 -0000"
-    },
-    {
-      "id": "13b805f0e285",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "A cinco dias das eleições, governo lança Desenrola MEI e novas medidas de renegociação de dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-      "summary": "A cinco dias das eleições, o governo federal anunciou nesta terça-feira (29) um pacote de medidas destinadas à renegociação de dívidas de microempreendedores individuais (MEIs), produtores rurais, pessoas físicas, empregadores e ex-bolsistas de pesquisa.\nAs iniciativas incluem a criação de novos programas de transação tributária e a prorrogação de editais já existentes para negociação de débitos federais.\nPelo lado da Procuradoria-Geral da Fazenda Nacional (PGFN), foi lançado o Desenrola MEI Pequeno Valor, voltado a microempreendedores com débitos de até cinco salários mínimos, ou seja, R$ 8.105.\n🗓️ A janela de renegociação poderá ser feita entre 1º de outubro de 2026 e 31 de janeiro de 2027.\nAgora no g1\nO programa prevê entrada de 5% do valor da dívida, sem desconto, e parcelamento do saldo restante em até 55 meses, com abatimento de 50%.\n💰A PGFN também abriu uma modalidade de negociação voltada a empregadores pessoas físicas e jurídicas com passivo consolidado de até R$ 45 milhões em débitos inscritos em dívida ativa do FGTS ou da União. \nEmpresas incluídas no cadastro de empregadores que submeteram trabalhadores a condições análogas à escravidão não são contemplados.\n🗓️ Além das novas medidas, o governo prorrogou até 29 de janeiro de 2027 três programas já em vigor. \nEntre eles está o edital de transação destinado a pessoas físicas e jurídicas com dívidas de até R$ 45 milhões inscritas em dívida ativa até 3 de março de 2026, ou até 1º de junho de 2025 nos casos classificados como de pequeno valor.\nSegundo o governo, os descontos podem chegar a 100% sobre juros, multas e encargos legais, mas não incidem sobre o valor principal da dívida. O abatimento total fica limitado a 65% do débito consolidado.\nPara pessoas físicas, MEIs, microempresas, empresas de pequeno porte, cooperativas e Santas Casas, o limite pode alcançar 70%.\nOs programas Desenrola MEI e Desenrola Rural também tiveram o prazo de adesão prorrogado até 29 de janeiro de 2027.\nPrazo para renegociar dívidas no Desenrola Brasil termina nesta segunda (20)\nLuis Lima Jr./Fotoarena/Estadão Conteúdo\nAutarquias\nPelo lado da Advocacia-Geral da União (AGU), foi anunciado ainda um edital específico para MEIs que possuem débitos de até cinco salários mínimos junto a autarquias e fundações públicas federais. \nA medida cobre dívidas tributárias e não tributárias com órgãos como Anatel, Agência Nacional de Transportes Terrestres (ANTT), Agência Nacional do Petróleo (ANP), Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), Departamento Nacional de Infraestrutura de Transportes (DNIT), Instituto Nacional de Colonização e Reforma Agrária (Incra) e Fundo Nacional de Desenvolvimento da Educação (FNDE).\nDe acordo com o governo, cerca de 10 mil devedores poderão ser beneficiados pela iniciativa, que envolve um volume estimado de R$ 50 milhões em débitos.\nEx-bolsistas\nA AGU também lançou duas modalidades para ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) com dívidas relacionadas a bolsas de estudo no Brasil ou no exterior.\nO prazo para adesão vai de 16 de outubro de 2026 a 31 de março de 2027. Os descontos variam conforme a forma de pagamento e podem chegar a 70% para quitação à vista e a 30% para parcelamentos em até 84 meses.\nO desconto é sobre o valor consolidado do crédito, incluídos o principal, os juros, as multas e os encargos legais, mas não poderá resultar em valor inferior ao montante principal do crédito.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
-    },
-    {
-      "id": "caa234a915a2",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixarem o Brasil",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/29/e-fake-que-video-mostre-presidente-do-paraguai-agradecendo-a-lula-por-empresas-deixarem-o-brasil.ghtml",
-      "summary": "É #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nCircula nas redes sociais um vídeo que mostra o presidente Lula (PT) conversando com um homem em um evento. Segundo as descrições dos posts, esse interlocutor seria o presidente paraguaio Santiago Penã, flagrado no momento em que agradeceu ao petista, durante a Assembleia Geral da Organização das Nações Unidas (ONU), por empresas migrarem do Brasil para o Paraguai. É #FAKE.\n✅ Siga o canal de Fato ou Fake no WhatsApp\nSelo Fake (Horizontal)\ng1\n🔴 Como é o vídeo?\nPublicado no X, Threads, Instagram, Facebook e TikTok, o vídeo começou a circular na quarta-feira (23), um dia após o presidente Lula ter feito discurso na abertura do debate geral da 81ª Assembleia Geral da ONU, em Nova York.\nUma caixa de texto sobreposta às imagens diz: \"Lula foge de Rubio na ONU, mas é barrado pelo presidente do Paraguai, que agradece a política que faz empresas brasileiras atravessarem a fronteira\".\nO registro mostra Lula cumprimentando um homem com um aperto de mão. Uma tradutora que assistia ao diálogo traduziu as declarações para o português.\n⚠️ Por que é #FAKE? \nEmbora seja real – e não um registro fabricado por inteligência artificial (IA) –, o vídeo mostra uma conversa entre Lula e o senador paraguaio Beto Ovelar, ocorrida em 30 de junho, durante a cúpula do Mercosul, em Assunção. O presidente Santiago Peña, aliás, estava presente naquele encontro (veja imagem ao final desta checagem). Além disso, o trecho exibido não trata de empresas supostamente trocando o Brasil pelo país vizinho.\nProcurada pelo Fato ou Fake, a assessoria de imprensa da Presidência do Brasil afirmou que \"o conteúdo é falso\". A nota diz: \"O presidente Lula não manteve encontro bilateral, mesmo informal, com o presidente do Paraguai, Santiago Peña, durante a Assembleia Geral da ONU, em Nova York, no dia 22 de setembro. A Secretaria de Comunicação Social da Presidência da República repudia a divulgação de boatos falsos com objetivos políticos, que visam única e exclusivamente desinformar a população, enfraquecer instituições e manipular a opinião pública\".\nNa mesma data da conversa com Lula, o próprio senador Beto Ovelar divulgou o encontro em suas redes sociais. Na legenda, escreveu: \"Durante a Cúpula do Mercosul, expressei meu agradecimento ao presidente do Brasil, Luiz Inácio Lula da Silva, pois suas políticas sociais foram fundamentais como base para a implementação do programa Tekoporã no Paraguai\".\nEm nenhum momento do vídeo Ovelar mencionou empresas brasileiras. Na verdade, é possível ouvir o senador comentando sobre o Programa Tekoporã, uma iniciativa social do governo paraguaio, que inclui transferência de renda a famílias em situação de pobreza e vulnerabilidade. \nEle disse: \"Quando o senhor foi presidente da República, eu era ministro, e o senhor abriu ​as portas do ​Ministério do ⁠Desenvolvimento Social. Hoje, nós temos um programa que se chama Tekoporã, e, graças à abertura do ​senhor, isso foi possível. Então, eu queria lhe agradecer muito em nome do povo paraguaio\".\nO presidente do Paraguai, Santiago Peña (à esq.), ao lado do presidente Lula, que conversa com o senador paraguaio Beto Ovelar (à dir.).\nReprodução/Instagram\nÉ #FAKE que vídeo mostre presidente do Paraguai agradecendo a Lula por empresas deixaram o Brasil\nReprodução\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: vídeo que mostra homem tomando banho em fonte natural em meio a chamas é real\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
-    },
-    {
-      "id": "e93ee1105bca",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 29 Sep 2026 16:25:04 GMT"
     },
     {
       "id": "df006c977a38",
@@ -824,11 +759,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Wed, 30 Sep 2026 02:26:12 +0000"
     },
     {
@@ -844,32 +778,28 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
+      "score": 77,
       "publishedRaw": "Wed, 30 Sep 2026 01:35:08 +0000"
     },
     {
-      "id": "8175bf59a136",
-      "source": "BBC Brasil",
+      "id": "a0af632e9173",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
-      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
+      "category": "Política",
+      "title": "Veja as propostas dos candidatos a presidente para segurança, combate à corrupção, STF, salário mínimo e outros temas",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/propostas-candidatos-presidente-eleicoes-2026.ghtml",
+      "summary": "Uma série de reportagens publicadas pelo g1 ao longo da campanha eleitoral mostrou quais são as propostas dos candidatos à Presidência da República para temas que estão entre as principais preocupações dos brasileiros.\nQuem são os candidatos nas eleições de 2026? Veja todos os cargos\nPara fazer as reportagens, a equipe de jornalistas analisou os planos de governo que cada candidato registrou no Tribunal Superior Eleitoral (TSE).\nPesquisa Quaest divulgada na última segunda-feira (28) mostra que violência (29%), corrupção (21%) e economia (19%) são as preocupações mais citadas pelos eleitores.\nCombate à corrupção; \nReforma do STF e Judiciário.\nCombate aos feminicídios;\nSupersalários e penduricalhos no setor público;\nSalário mínimo e aposentadorias;\nTaxa Selic, juros e endividamento;\nPolítica externa;\nSegurança nas fronteiras;\nAs propostas para a região Nordeste;\nViolência e segurança;\nO que há de comum entre Lula (PT) e a oposição?\nAgora no g1\nCombate à corrupção\nAs propostas dos presidenciáveis focam na ampliação dos mecanismos de rastreamento do orçamento, na modernização da fiscalização de contratos estatais e no fortalecimento de órgãos de controle e punições. As medidas vão desde inteligência artificial para o combate de crimes contra o patrimônio público até confisco de bens dos condenados por corrupção.\nLeia a reportagem.\nVoltar ao topo.\nReforma do STF e Judiciário\nSessão plenária extraordinária do STF sobre o caso Moraes\nGustavo Moreno/STF\nApós novos desdobramentos no caso Master, a crise no Supremo Tribunal Federal (STF) virou tema da campanha presidencial. Propostas para uma reforma no Judiciário variam nos planos de governo, desde ajustes na dinâmica de decisões monocráticas e tempo de mandato para magistrados até reformulações nas regras de indicação e na estrutura do Judiciário.\nLeia a reportagem.\nVoltar ao topo.\nCombate aos feminicídios\nOs feminicídios bateram recorde no Brasil em 2025, com uma média de quatro mulheres mortas por dia por razões de gênero. Enquanto as mulheres são maioria do eleitorado brasileiro, o debate sobre a escalada da violência contra a mulher ganhou espaço nas propostas dos candidatos. Os programas eleitorais englobam a expansão das redes de acolhimento especializado, o fortalecimento de tecnologias de monitoramento e o endurecimento de penas e regras de prisão para agressores.\nLeia a reportagem.\nVoltar ao topo.\nSupersalários e penduricalhos no setor público\nOs chamados “supersalários” e “penduricalhos” estão no centro de propostas em discussão nos Três Poderes. As verbas que ultrapassam o limite do funcionalismo público, só em 2025, custaram mais de R$ 10 bilhões aos cofres públicos. As diretrizes dos candidatos à Presidência abordam a limitação de verbas indenizatórias e benefícios extras, buscando aplicar com rigor o limite salarial estabelecido pela Constituição nos Três Poderes.\nLeia a reportagem\nVoltar ao topo.\nSalário mínimo e aposentadorias\nINSS\nArquivo/Agência Brasil\nO reajuste das aposentadorias e dos benefícios previdenciários está vinculado ao salário mínimo, e esse é um dos pontos centrais em discussão nos planos de governo dos candidatos à Presidência. As propostas dos presidenciáveis dividem-se entre a manutenção ou alteração das regras de valorização do salário mínimo, reajustes nos benefícios sociais e medidas para assegurar a sustentabilidade da Previdência.\nLeia a reportagem.\nVoltar ao topo.\nTaxa Selic, juros e endividamento\nEdifício-sede do BC em Brasília, onde a decisão sobre a taxa de juros é tomada\nFoto: Adobe stock - Banco Central.\nA taxa básica de juros, a Selic, afeta diretamente o acesso ao crédito, os investimentos produtivos e o grau de endividamento das famílias brasileiras. Os planos dos presidenciáveis propõe diferentes estratégias para a redução do custo do dinheiro, o controle da inflação, o equilíbrio da dívida pública e programas voltados à renegociação de débitos dos consumidores.\nLeia a reportagem.\nVoltar ao topo.\nPolítica externa\nO posicionamento diplomático do Brasil define a inserção comercial do país no mercado global, suas alianças estratégicas e a atração de capital estrangeiro. As propostas dos candidatos incluem a aproximação de países da Ásia e da África, dos Estados Unidos, fortalecimento do Mercosul e saída do Brics. Com diferentes abordagens, os planos de governo detalham rumos para o fortalecimento das exportações, a soberania do Brasil perante o mundo e a celebração de acordos internacionais.\nLeia a reportagem.\nVoltar ao topo.\nSegurança nas fronteiras\nO controle das divisas territoriais do país é peça estratégica para coibir a entrada de armas e drogas que abastecem as redes de crime organizado nas cidades. Diante da escalada no combate do tráfico de drogas no contexto da América do Sul, as propostas dos presidenciáveis focam no fortalecimento da integração entre forças de segurança, na expansão de acordos de cooperação com países vizinhos e em investimentos em tecnologias de vigilância territorial.\nLeia a reportagem.\nVoltar ao topo.\nAs propostas para a região Nordeste\nParaíba tem maior crescimento populacional do Nordeste entre 2025 e 2026\nRizemberg Felipe/Jornal da Paraíba\nA Região Nordeste é estratégica no cenário eleitoral e socioeconômico do país, demandando políticas públicas focadas na redução das desigualdades regionais e no crescimento sustentável. As diretrizes apresentadas pelos presidenciáveis buscam impulsionar a economia local com investimentos em infraestrutura e segurança hídrica, além de explorar o potencial da região para a geração de energias renováveis e a atração de novos polos tecnológicos. \nLeia a reportagem.\nVoltar ao topo.\nViolência e segurança\nA sensação de insegurança e a atuação de facções criminosas colocam a segurança pública no topo das prioridades apontadas pelo eleitorado em todo o país. As ações propostas pelos candidatos cobrem o combate a grupos armados, a reestruturação e modernização das corporações policiais, a reformulação do sistema penitenciário e ações de inteligência.\nLeia a reportagem.\nVoltar ao topo.\nO que há de comum entre os planos de governo\nLula, Flávio Bolsonaro, Augusto Cury, Ronaldo Caiado, Renan Santos e Romeu Zema\nGlobo\nAdversários na eleição presidencial de 2026, os seis candidatos mais bem colocados nas pesquisas de intenção de voto apresentam propostas convergentes para temas detalhados em seus planos de governo.\nTanto o presidente Lula (PT) quanto os adversários da oposição, Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Renan Santos (Missão), Augusto Cury (Avante) e Romeu Zema (Novo), defendem propostas iguais ou similares em cinco assuntos nos planos de governo enviados à Justiça Eleitoral. \nLeia a reportagem.\nVoltar ao topo.\nurna eletrônica\nTSE",
       "tags": [
-        "TSE"
+        "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Estadão"
       ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
+      "score": 75,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
     },
     {
       "id": "313a625ec835",
@@ -883,7 +813,7 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil"
+        "G1 - Política"
       ],
       "score": 75,
       "publishedRaw": "Tue, 29 Sep 2026 21:02:11 +0000"
@@ -900,10 +830,29 @@
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil"
+        "G1 - Política"
       ],
       "score": 75,
       "publishedRaw": "Tue, 29 Sep 2026 21:00:33 +0000"
+    },
+    {
+      "id": "8175bf59a136",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
+      "link": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Controvérsia começou na semana passada, quando passou a circular nas redes sociais a alegação falsa de que Flávio Bolsonaro teria intenção de retirar da santa o título de Padroeira do Brasil.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 72,
+      "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
     }
   ]
 }
