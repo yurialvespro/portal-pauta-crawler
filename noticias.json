@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:16:59.215661+00:00",
+  "generated_at": "2026-09-30T22:45:24.705374+00:00",
   "items": [
     {
       "id": "cef1aa1f17b8",
@@ -16,6 +16,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -23,6 +24,30 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 16:25:58 -0000"
+    },
+    {
+      "id": "a4e9916417c8",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Rivais na política, Lula e Flávio Bolsonaro fazem escolhas estéticas semelhantes na propaganda da TV",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/criticos-veem-novela-faroeste-e-cinema-de-guerra-na-propaganda-eleitoral-de-presidenciaveis.shtml",
+      "summary": "Numa campanha, uma imagem diz mais que mil propostas. Pensando nisso, a Folha convidou dois críticos de cinema para analisar propagandas de televisão dos presidenciáveis Lula (PT), Flávio Bolsonaro (PL), Ronaldo Caiado (PSD) e Augusto Cury (Avante) ?os demais candidatos não têm espaço no horário eleitoral.\nLeia mais (09/30/2026 - 19h02)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "30 Sep 2026 19:02:00 -0300"
     },
     {
       "id": "4f21aeddb626",
@@ -39,6 +64,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -61,6 +87,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -75,7 +102,7 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "TSE tem três votos por proibição ampla de posts que ligam Flávio Bolsonaro a Nossa Senhora e um voto por restrições mais brandas; siga julgamento",
+      "title": "TSE tem três votos por proibição ampla de posts que ligam Flávio Bolsonaro a Nossa Senhora e dois por restrições mais brandas; siga julgamento",
       "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
       "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
       "tags": [
@@ -84,14 +111,13 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 21:38:22 GMT"
+      "score": 92,
+      "publishedRaw": "Wed, 30 Sep 2026 22:24:35 GMT"
     },
     {
       "id": "fe3909804577",
@@ -118,16 +144,15 @@
       "publishedRaw": "Wed, 30 Sep 2026 17:33:53 -0000"
     },
     {
-      "id": "a0ad0bb74087",
+      "id": "28e91dfdb884",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE determina que Nikolas Ferreira apague post que associa fala de Lula à violência contra crianças",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-determina-que-nikolas-ferreira-apague-post-que-associa-fala-de-lula-a-violencia-contra-criancas-nprp/",
-      "summary": "A decisão entende que a publicação retirou de contexto declaração de Lula sobre procedimentos médicos e relacionou com crime sexual contra crianças e adolescentes",
+      "title": "Justiça proíbe coordenador da Secom de Lula de fazer posts sobre eleições nas redes sociais",
+      "link": "https://www.estadao.com.br/politica/eleicoes/justica-proibe-coordenador-da-secom-de-lula-de-fazer-posts-sobre-eleicoes-nas-redes-sociais/",
+      "summary": "",
       "tags": [
-        "Nikolas Ferreira",
-        "TSE",
+        "eleições",
         "Lula"
       ],
       "crossOutlets": [
@@ -138,75 +163,29 @@
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
-      "publishedRaw": "Wed, 30 Sep 2026 19:01:33 +0000"
+      "score": 89,
+      "publishedRaw": "Wed, 30 Sep 2026 22:24:56 +0000"
     },
     {
-      "id": "9c9541cb154a",
-      "source": "CNN Brasil",
+      "id": "aad48dc40757",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Vox Radar: disputa entre TSE e STF mantém caso Nossa Senhora no ar",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-disputa-entre-tse-e-stf-mantem-caso-nossa-senhora-no-ar/",
-      "summary": "Pesquisa revela que 71% das citações sobre a polêmica ocorreram após determinação do ministro Flávio Dino, do Supremo Tribunal Federal",
+      "title": "Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml",
+      "summary": "Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'\nO candidato à Presidência Augusto Cury (Avante) afirmou nesta quarta-feira (30), em entrevista ao podcast Inteligência Ltda., que Flávio Bolsonaro (PL) “não é tanto de direita” e o situou politicamente entre o centro e a esquerda.\n“Eu quero dizer para você que Flávio não é tanto de direita, não, viu?”, declarou. Após o apresentador comentar que há quem coloque Flávio no centro, Cury respondeu: “Centro até para a esquerda”.\nAo defender uma gestão com empreendedorismo, liberdade de negócios e Estado enxuto, Cury também criticou o adversário por, segundo ele, não aceitar o contraditório.\nAugusto Cury em entrevista a podcast\nDivulgação\nPossível convite para a PF\nCury citou a possibilidade de chamar Leandro Daiello, que foi diretor-geral da Polícia Federal entre 2011 e 2017, nos governos Dilma Rousseff e Michel Temer, para comandar a corporação ou o Ministério da Segurança em um eventual governo.\n“Pode voltar ao governo, talvez dirigindo a Polícia Federal ou até mesmo o Ministério da Segurança”, afirmou.\nO candidato também defendeu a construção de pelo menos mais dois presídios federais e uma força-tarefa que reúna diferentes forças de segurança.\nCríticas a Lula e ao Bolsa Família\nNa mesma entrevista, Cury chamou o “pacote de bondades” do governo Lula de “maldade” e acusou o presidente de usar o aumento do Bolsa Família para obter votos.\n“E vamos falar agora do pacote de bondades. Na verdade, maldade do Lula, porque o Lula, número um, ele colocou 15% a mais no Bolsa Família a 17 dias da eleição. Número um, indica que ele não ama os pobres, porque alguém que ama os pobres deveria ter feito isso no começo do ano. E por que não 30%? É porque é usar a dor das pessoas para ter votos\", afirmou.\n🔎 Lula anunciou em 17 de setembro, a 17 dias do primeiro turno, um reajuste de cerca de 15% nos benefícios do Bolsa Família, elevando o piso de R$ 600 para R$ 691. Os pagamentos com os novos valores começam em 19 de outubro, antes do segundo turno. Segundo o governo, a medida recompõe a inflação acumulada desde março de 2023 e será custeada dentro das regras fiscais, com remanejamento de recursos do Orçamento.\nEncontro com Fachin, do STF\nDurante a entrevista, o candidato afirmou que tentará uma conversa com o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, para tratar da crise na Corte. Segundo Cury, é preciso acabar com a \"espetacularização\" dos julgamentos e divulgar os resultados apenas para as partes envolvidas com cada análise.\n\"STF tem que ser discreto, eles são empregados da sociedade, devia ter o máximo de descrição. Eu vou chamar, conversar com o doutor Fachin e com membros do STF porque eu sei que ele é um leitor carinhoso dos meus livros. Tem que terminar com essa espetacularidade da transmissão ao vivo, tem que gravar e distribuir para as partes\", afirmou.\nDe acordo com Cury, caso eleito, ele levará ao Congresso Nacional a proposta de mandato de 8 anos para ministros do Supremo. \"Alguém que entra como o doutro Toffoli, com 41 anos, sai com 75?! Ah, pelo amor de Deus! Tem que ser 8 anos para ir embora para nunca mais votar\", disse.",
       "tags": [
-        "STF",
-        "TSE"
+        "Bolsonaro",
+        "esquerda",
+        "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 21:30:29 +0000"
-    },
-    {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
-    },
-    {
-      "id": "554abde3dde1",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE manda Nikolas apagar vídeo que associa Lula a crimes contra crianças",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-nikolas-apagar-video-que-associa-lula-a-crimes-contra-criancas/",
-      "summary": "Ministra diz que deputado descontextualizou declaração sobre exames médicos; publicação deve ser removida em 24 horas",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Wed, 30 Sep 2026 21:23:37 +0000"
+      "score": 86,
+      "publishedRaw": "Wed, 30 Sep 2026 19:20:26 -0000"
     },
     {
       "id": "fbf8494d1a23",
@@ -221,6 +200,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -228,6 +208,71 @@
       ],
       "score": 85,
       "publishedRaw": "Wed, 30 Sep 2026 16:14:24 -0000"
+    },
+    {
+      "id": "7969f4b524da",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
+      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
+    },
+    {
+      "id": "88ac77acb6ed",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ativistas inauguram armário que distribui pílulas abortivas na Polônia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/09/ativistas-inauguram-armario-que-distribui-pilulas-abortivas-na-polonia.shtml",
+      "summary": "Ativistas polonesas inauguraram o primeiro armário para distribuir pílulas abortivas no país, permitindo que mulheres acessem o medicamento de forma rápida e anônima, apesar da legislação rigorosa, observou um fotógrafo da AFP.\nLeia mais (09/30/2026 - 19h33)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 19:33:00 -0300"
+    },
+    {
+      "id": "e07706f396e8",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Personagem do debate em SP, 'Selo Ouro' do MEC foi criado por governo Lula em 2024",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/09/personagem-do-debate-em-sp-selo-ouro-do-mec-foi-criado-por-governo-lula-em-2024.shtml",
+      "summary": "Aliados de Tarcísio de Freitas (Republicanos) avaliam que o melhor momento do governador no debate com Fernando Haddad (PT), na terça-feira (29) foi a menção ao \"Selo Ouro\" do Ministério da Educação para mostrar os avanços da alfabetização em São Paulo.\nLeia mais (09/30/2026 - 19h21)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 19:21:00 -0300"
     },
     {
       "id": "9a7fc5fc01eb",
@@ -242,6 +287,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -249,6 +295,28 @@
       ],
       "score": 85,
       "publishedRaw": "30 Sep 2026 19:08:00 -0300"
+    },
+    {
+      "id": "d419cfc91f03",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula cancela agenda em Juiz de Fora por causa da forte chuva",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-cancela-agenda-em-juiz-de-fora-por-causa-da-forte-chuva/",
+      "summary": "Presidente chegou ao Aeroporto Regional da Zona da Mata, mas não teria conseguido seguir de helicóptero para a cidade; ato foi encerrado por volta das 18h30.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 21:59:44 +0000"
     },
     {
       "id": "b17f52bf2cd8",
@@ -263,6 +331,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -284,6 +353,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -293,205 +363,46 @@
       "publishedRaw": "Wed, 30 Sep 2026 17:43:17 +0000"
     },
     {
-      "id": "ad78c61e05a6",
+      "id": "464e2f587356",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula é desaprovado por 52,8% dos brasileiros, diz Futura",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-desaprovado-por-528-dos-brasileiros-diz-futura/",
-      "summary": "Levantamento ouviu 2.000 eleitores de 25 a 29 de setembro; margem de erro é de 2,2 p.p., para mais ou para menos",
+      "title": "Mau tempo impede Lula de ir a ato do PT em Juiz de Fora",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/mau-tempo-impede-lula-de-ir-a-ato-do-pt-em-juiz-de-fora/",
+      "summary": "Condições não permitiram a decolagem segura do helicóptero; agenda está mantida com as candidaturas majoritárias",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 21:16:39 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 22:18:59 +0000"
     },
     {
-      "id": "d4c1ca32a46c",
-      "source": "G1 - Política",
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise interna, ministros do STF participam de sessão",
-      "link": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
-      "summary": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida. Os ministros do STF (Supremo Tribunal Federal) se reuniram nesta quarta-feira (30) para analisar uma ação sobre planos de saúde. . A sessão ocorreu em meio a seguidas crises entre os ministros. Os embates geraram uma 'guerra de decisões' na Corte. . A nova disputa envolve os posts sobre Flávio Bolsonaro e a Nossa Senhora Aparecida. O caso está em votação no TSE. . Na sessão, Gilmar Mendes criticou vazamentos em fala sobre aniversário de 1 ano de Fachin na presidência.",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
       "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 20:57:26 -0000"
-    },
-    {
-      "id": "a2bb53aaa768",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise no STF, Gilmar critica vazamentos em fala no aniversário de um ano da presidência de Fachin",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/em-meio-a-crise-no-stf-gilmar-critica-vazamentos-em-fala-no-aniversario-de-um-ano-de-fachin-na-presidencia-do-stf.ghtml",
-      "summary": "Em meio à crise institucional instalada no Supremo Tribunal Federal (STF), o ministro Gilmar Mendes criticou, nesta quarta-feira (30), vazamentos seletivos e o uso político-eleitoral de investigações. \nA fala ocorreu durante uma homenagem ao aniversário de um ano da presidência do ministro Edson Fachin na Corte. Tradicionalmente, o presidente e o decano, ministro que ocupa há mais tempo o cargo, fazem um discurso. Gilmar é o decano e pediu a palavra no início da sessão. \n\"Naquela quadra, não houve notícias de vazamentos seletivos em nossos gabinetes, apesar da sensibilidade dos documentos que estavam sob nossa responsabilidade. Tampouco qualquer ato que pudesse indicar uso político eleitoral das investigações\", disse Gilmar ao relembrar a atuação dele e de Fachin na Operação Lava Jato.\nFachin foi o relator das investigações da operação da Polícia Federal (PF) no STF, após a morte do ministro Teori Zavascki. Gilmar classificou a condução do processo por Fachin como equilibrada, sem espetáculo e sem interesses políticos, e citou discordâncias com o colega. \n\"Naqueles casos, divergimos com frequência, como todos sabem, sobre questões centrais da operação, como é natural em um colegiado. Nossos votos apontaram muitas vezes em sentidos opostos. a partir de compreensões distintas sobre o processo penal. Essa divergência, porém, jamais alcançou aquilo que nos unia – a convicção de que o juiz não é parte nem instrumento de causa alguma\", afirmou Gilmar.\nAgora no g1\nGilmar disse que Fachin \"tem mantido o tom sóbrio, a palavra medida e o comprometimento integral com a manutenção da constância, da tranquilidade e do ethos decisórios do Tribunal\" em um \"ambiente de temperatura elevada\".\nO decano do STF também destacou julgamentos na gestão de Fachin como:\nas restrições para o pagamento de penduricalhos de juízes e integrantes do Ministério Público;\naquisição de imóveis rurais por empresas brasileiras controladas por capital estrangeiro;\nvalidade da lei que alterou os limites do Parque Nacional do Jamanxim, no Pará, para permitir a passagem da ferrovia destinada a ligar a produção do Centro-Oeste aos portos do Arco Norte; e\nvalidade da lei que trata da igualdade salarial e de critérios remuneratórios entre mulheres e homens.\nMontagem com fotos dos ministros Gilmar Mendes e Edson Fachin, do STF\nCarlos Moura/SCO/STF\n'Sabe quando agir'\nCriticado pela demora em responder à crise instalada no STF, Fachin recebeu um elogio do procurador-geral da República (PGR), Paulo Gonet, que afirmou que Fachin sabe quando e como agir.\n“Vossa Excelência é sobretudo um homem do diálogo, do diálogo sereno, do diálogo franco, afável, aberto e eficaz. Mas Vossa Excelência também sabe como e quando agir”, disse o procurador-geral.\n“Essas qualidades demonstradas por Vossa Excelência nesse primeiro ano do biênio da sua presidência nos dá segurança e tranquilidade quanto à última etapa da do seu biênio à frente do Tribunal”, complementou o PGR.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 17:47:24 -0000"
-    },
-    {
-      "id": "7969f4b524da",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
-    },
-    {
-      "id": "93d1d7f2ee2a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Crise no STF impede PF de concluir inquérito-mãe do caso Master",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
-      "summary": "A Polícia Federal havia planejado fechar, até o fim de setembro, o primeiro inquérito do Banco Master, classificado de inquérito-mãe, que trata das fraudes bancárias praticadas por Daniel Vorcaro. \nContudo, a PF acabou sendo obrigada a mudar de planos depois da crise no Supremo Tribunal Federal (STF), que paralisou o caso. Agora, tudo indica que a conclusão vai ficar para depois das eleições, atrasando as investigações de outras etapas do caso.\nOs investigadores avaliavam incialmente que seria possível fechar esse primeiro inquérito entre agosto e setembro por considerar que as fraudes bancárias praticadas pelo Banco Master na tentativa de venda da instituição para o BRB, o banco público de Brasília, já estão comprovadas. \nNesta primeira fase, a PF vai pedir o indiciamento do banqueiro Daniel Vorcaro, do ex-presidente do BRB Paulo Henrique Costa e de servidores do Banco Central que ajudaram o dono do Master com informações privilegiadas.\nAgora no g1\nNesta quarta-feira (30), o banqueiro Daniel Vorcaro e seu pai, Henrique Vorcaro, vão depor na Polícia Federal. \nEsses depoimentos serão feitos para elucidar a existência do grupo \"Turma\", que seria encarregado de fazer ameaças a pessoas classificadas pelo dono do Master como suas adversárias e inimigas. \nOs dados do celular trazem informações de algumas tentativas de agressões, até contra jornalistas, pela \"turma\".\nEsse grupo, montado por Daniel Vorcaro, era comandado por Luiz Phillipi Mourão, o Sicário. Preso em uma operação da Polícia Federal, ele acabou tirando a própria vida numa cela do órgão em Belo Horizonte. \nO pai dele é apontado como o responsável por fazer pagamentos ao Sicário. Henrique Vorcaro nega qualquer envolvimento no caso.\nDaniel Vorcaro\nDivulgação",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 15:27:41 -0000"
-    },
-    {
-      "id": "dfc0b74d674e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em nova decisão, TSE garante candidatura de Garotinho no RJ até julgamento",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-nova-decisao-tse-garante-candidatura-de-garotinho-no-rj-ate-julgamento/",
-      "summary": "De acordo com decisão do Tribunal Superior Eleitoral, candidato a governo do estado pode participar das eleições, receber votos e praticar atos de campanha",
-      "tags": [
-        "candidatura",
+        "STF",
         "TSE"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 21:41:02 +0000"
-    },
-    {
-      "id": "7f127e30b8f4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
-    },
-    {
-      "id": "6944e7ec083b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ala do sofá e ala da mesa: sala de lanches retrata guerra fria no STF",
-      "link": "https://www.estadao.com.br/politica/carolina-brigido/ala-do-sofa-e-ala-da-mesa-sala-de-lanches-retrata-guerra-fria-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "id": "9ea9296373ab",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Partido Missão pede ao TSE inclusão de Renan Santos em debate",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/partido-missao-pede-ao-tse-inclusao-de-renan-santos-em-debate/",
-      "summary": "Pedido vem após Zema ser incluído no debate da \"TV Globo\"; ausência de Lula no evento é usado como argumento",
-      "tags": [
-        "Renan Santos",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 22:11:12 +0000"
-    },
-    {
-      "id": "fe0a7a30441c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
-      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
     },
     {
       "id": "7969f4b524da",
@@ -506,6 +417,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -534,48 +446,6 @@
       "publishedRaw": "30 Sep 2026 18:46:00 -0300"
     },
     {
-      "id": "a9a339ad4221",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Institutos pedem ao TSE que mudanças em registro de pesquisas sejam opcionais na eleição",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/institutos-pedem-ao-tse-que-mudancas-em-registro-de-pesquisas-sejam-opcionais-na-eleicao.shtml",
-      "summary": "A Abep (Associação Brasileira de Empresas de Pesquisa) acionou na terça-feira (29) o TSE (Tribunal Superior Eleitoral) para questionar as mudanças no registro de pesquisas eleitorais que passarão a exigir mais detalhes da metodologia dos levantamentos após o primeiro turno das eleições.\nLeia mais (09/30/2026 - 18h08)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "30 Sep 2026 18:08:00 -0300"
-    },
-    {
-      "id": "4ccb56217703",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE tem 3 votos a 1 para proibir posts com fake news sobre Nossa Senhora; votação continua",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
-    },
-    {
       "id": "abdedcc0e828",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -595,25 +465,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 19:32:45 +0000"
     },
     {
-      "id": "d5988ab08560",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Veja as propostas dos candidatos à Presidência da República",
-      "link": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-veja-as-propostas-dos-candidatos-a-presidencia-da-republica/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 17:05:07 +0000"
-    },
-    {
       "id": "3fee83207f3d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -625,6 +476,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -646,6 +498,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -675,24 +528,188 @@
       "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
-      "id": "aad48dc40757",
+      "id": "d4c1ca32a46c",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Augusto Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/augusto-cury-entrevista-podcast.ghtml",
-      "summary": "Cury diz que Flávio Bolsonaro 'não é tanto de direita' e o situa 'até para a esquerda'\nO candidato à Presidência Augusto Cury (Avante) afirmou nesta quarta-feira (30), em entrevista ao podcast Inteligência Ltda., que Flávio Bolsonaro (PL) “não é tanto de direita” e o situou politicamente entre o centro e a esquerda.\n“Eu quero dizer para você que Flávio não é tanto de direita, não, viu?”, declarou. Após o apresentador comentar que há quem coloque Flávio no centro, Cury respondeu: “Centro até para a esquerda”.\nAo defender uma gestão com empreendedorismo, liberdade de negócios e Estado enxuto, Cury também criticou o adversário por, segundo ele, não aceitar o contraditório.\nAugusto Cury em entrevista a podcast\nDivulgação\nPossível convite para a PF\nCury citou a possibilidade de chamar Leandro Daiello, que foi diretor-geral da Polícia Federal entre 2011 e 2017, nos governos Dilma Rousseff e Michel Temer, para comandar a corporação ou o Ministério da Segurança em um eventual governo.\n“Pode voltar ao governo, talvez dirigindo a Polícia Federal ou até mesmo o Ministério da Segurança”, afirmou.\nO candidato também defendeu a construção de pelo menos mais dois presídios federais e uma força-tarefa que reúna diferentes forças de segurança.\nCríticas a Lula e ao Bolsa Família\nNa mesma entrevista, Cury chamou o “pacote de bondades” do governo Lula de “maldade” e acusou o presidente de usar o aumento do Bolsa Família para obter votos.\n“E vamos falar agora do pacote de bondades. Na verdade, maldade do Lula, porque o Lula, número um, ele colocou 15% a mais no Bolsa Família a 17 dias da eleição. Número um, indica que ele não ama os pobres, porque alguém que ama os pobres deveria ter feito isso no começo do ano. E por que não 30%? É porque é usar a dor das pessoas para ter votos\", afirmou.\n🔎 Lula anunciou em 17 de setembro, a 17 dias do primeiro turno, um reajuste de cerca de 15% nos benefícios do Bolsa Família, elevando o piso de R$ 600 para R$ 691. Os pagamentos com os novos valores começam em 19 de outubro, antes do segundo turno. Segundo o governo, a medida recompõe a inflação acumulada desde março de 2023 e será custeada dentro das regras fiscais, com remanejamento de recursos do Orçamento.\nEncontro com Fachin, do STF\nDurante a entrevista, o candidato afirmou que tentará uma conversa com o presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, para tratar da crise na Corte. Segundo Cury, é preciso acabar com a \"espetacularização\" dos julgamentos e divulgar os resultados apenas para as partes envolvidas com cada análise.\n\"STF tem que ser discreto, eles são empregados da sociedade, devia ter o máximo de descrição. Eu vou chamar, conversar com o doutor Fachin e com membros do STF porque eu sei que ele é um leitor carinhoso dos meus livros. Tem que terminar com essa espetacularidade da transmissão ao vivo, tem que gravar e distribuir para as partes\", afirmou.\nDe acordo com Cury, caso eleito, ele levará ao Congresso Nacional a proposta de mandato de 8 anos para ministros do Supremo. \"Alguém que entra como o doutro Toffoli, com 41 anos, sai com 75?! Ah, pelo amor de Deus! Tem que ser 8 anos para ir embora para nunca mais votar\", disse.",
+      "title": "Em meio à crise interna, ministros do STF participam de sessão",
+      "link": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
+      "summary": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida. Os ministros do STF (Supremo Tribunal Federal) se reuniram nesta quarta-feira (30) para analisar uma ação sobre planos de saúde. . A sessão ocorreu em meio a seguidas crises entre os ministros. Os embates geraram uma 'guerra de decisões' na Corte. . A nova disputa envolve os posts sobre Flávio Bolsonaro e a Nossa Senhora Aparecida. O caso está em votação no TSE. . Na sessão, Gilmar Mendes criticou vazamentos em fala sobre aniversário de 1 ano de Fachin na presidência.",
       "tags": [
-        "Bolsonaro",
-        "esquerda",
-        "Flávio Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão"
       ],
-      "score": 81,
-      "publishedRaw": "Wed, 30 Sep 2026 19:20:26 -0000"
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 20:57:26 -0000"
+    },
+    {
+      "id": "a2bb53aaa768",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à crise no STF, Gilmar critica vazamentos em fala no aniversário de um ano da presidência de Fachin",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/em-meio-a-crise-no-stf-gilmar-critica-vazamentos-em-fala-no-aniversario-de-um-ano-de-fachin-na-presidencia-do-stf.ghtml",
+      "summary": "Em meio à crise institucional instalada no Supremo Tribunal Federal (STF), o ministro Gilmar Mendes criticou, nesta quarta-feira (30), vazamentos seletivos e o uso político-eleitoral de investigações. \nA fala ocorreu durante uma homenagem ao aniversário de um ano da presidência do ministro Edson Fachin na Corte. Tradicionalmente, o presidente e o decano, ministro que ocupa há mais tempo o cargo, fazem um discurso. Gilmar é o decano e pediu a palavra no início da sessão. \n\"Naquela quadra, não houve notícias de vazamentos seletivos em nossos gabinetes, apesar da sensibilidade dos documentos que estavam sob nossa responsabilidade. Tampouco qualquer ato que pudesse indicar uso político eleitoral das investigações\", disse Gilmar ao relembrar a atuação dele e de Fachin na Operação Lava Jato.\nFachin foi o relator das investigações da operação da Polícia Federal (PF) no STF, após a morte do ministro Teori Zavascki. Gilmar classificou a condução do processo por Fachin como equilibrada, sem espetáculo e sem interesses políticos, e citou discordâncias com o colega. \n\"Naqueles casos, divergimos com frequência, como todos sabem, sobre questões centrais da operação, como é natural em um colegiado. Nossos votos apontaram muitas vezes em sentidos opostos. a partir de compreensões distintas sobre o processo penal. Essa divergência, porém, jamais alcançou aquilo que nos unia – a convicção de que o juiz não é parte nem instrumento de causa alguma\", afirmou Gilmar.\nAgora no g1\nGilmar disse que Fachin \"tem mantido o tom sóbrio, a palavra medida e o comprometimento integral com a manutenção da constância, da tranquilidade e do ethos decisórios do Tribunal\" em um \"ambiente de temperatura elevada\".\nO decano do STF também destacou julgamentos na gestão de Fachin como:\nas restrições para o pagamento de penduricalhos de juízes e integrantes do Ministério Público;\naquisição de imóveis rurais por empresas brasileiras controladas por capital estrangeiro;\nvalidade da lei que alterou os limites do Parque Nacional do Jamanxim, no Pará, para permitir a passagem da ferrovia destinada a ligar a produção do Centro-Oeste aos portos do Arco Norte; e\nvalidade da lei que trata da igualdade salarial e de critérios remuneratórios entre mulheres e homens.\nMontagem com fotos dos ministros Gilmar Mendes e Edson Fachin, do STF\nCarlos Moura/SCO/STF\n'Sabe quando agir'\nCriticado pela demora em responder à crise instalada no STF, Fachin recebeu um elogio do procurador-geral da República (PGR), Paulo Gonet, que afirmou que Fachin sabe quando e como agir.\n“Vossa Excelência é sobretudo um homem do diálogo, do diálogo sereno, do diálogo franco, afável, aberto e eficaz. Mas Vossa Excelência também sabe como e quando agir”, disse o procurador-geral.\n“Essas qualidades demonstradas por Vossa Excelência nesse primeiro ano do biênio da sua presidência nos dá segurança e tranquilidade quanto à última etapa da do seu biênio à frente do Tribunal”, complementou o PGR.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 17:47:24 -0000"
+    },
+    {
+      "id": "93d1d7f2ee2a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Crise no STF impede PF de concluir inquérito-mãe do caso Master",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
+      "summary": "A Polícia Federal havia planejado fechar, até o fim de setembro, o primeiro inquérito do Banco Master, classificado de inquérito-mãe, que trata das fraudes bancárias praticadas por Daniel Vorcaro. \nContudo, a PF acabou sendo obrigada a mudar de planos depois da crise no Supremo Tribunal Federal (STF), que paralisou o caso. Agora, tudo indica que a conclusão vai ficar para depois das eleições, atrasando as investigações de outras etapas do caso.\nOs investigadores avaliavam incialmente que seria possível fechar esse primeiro inquérito entre agosto e setembro por considerar que as fraudes bancárias praticadas pelo Banco Master na tentativa de venda da instituição para o BRB, o banco público de Brasília, já estão comprovadas. \nNesta primeira fase, a PF vai pedir o indiciamento do banqueiro Daniel Vorcaro, do ex-presidente do BRB Paulo Henrique Costa e de servidores do Banco Central que ajudaram o dono do Master com informações privilegiadas.\nAgora no g1\nNesta quarta-feira (30), o banqueiro Daniel Vorcaro e seu pai, Henrique Vorcaro, vão depor na Polícia Federal. \nEsses depoimentos serão feitos para elucidar a existência do grupo \"Turma\", que seria encarregado de fazer ameaças a pessoas classificadas pelo dono do Master como suas adversárias e inimigas. \nOs dados do celular trazem informações de algumas tentativas de agressões, até contra jornalistas, pela \"turma\".\nEsse grupo, montado por Daniel Vorcaro, era comandado por Luiz Phillipi Mourão, o Sicário. Preso em uma operação da Polícia Federal, ele acabou tirando a própria vida numa cela do órgão em Belo Horizonte. \nO pai dele é apontado como o responsável por fazer pagamentos ao Sicário. Henrique Vorcaro nega qualquer envolvimento no caso.\nDaniel Vorcaro\nDivulgação",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 15:27:41 -0000"
+    },
+    {
+      "id": "7f127e30b8f4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
+    },
+    {
+      "id": "acb537392cce",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fux aceita Flamengo como parte interessada na ação sobre bets no STF",
+      "link": "https://www.estadao.com.br/politica/fux-aceita-flamengo-como-parte-interessada-na-acao-sobre-bets-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 22:39:58 +0000"
+    },
+    {
+      "id": "6944e7ec083b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ala do sofá e ala da mesa: sala de lanches retrata guerra fria no STF",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/ala-do-sofa-e-ala-da-mesa-sala-de-lanches-retrata-guerra-fria-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 21:00:00 +0000"
+    },
+    {
+      "id": "473f294bca47",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mais mulheres: a crise no STF e um lembrete eleitoral",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mais-mulheres-a-crise-no-stf-e-um-lembrete-eleitoral/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 22:00:00 +0000"
+    },
+    {
+      "id": "9ea9296373ab",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Partido Missão pede ao TSE inclusão de Renan Santos em debate",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/partido-missao-pede-ao-tse-inclusao-de-renan-santos-em-debate/",
+      "summary": "Pedido vem após Zema ser incluído no debate da \"TV Globo\"; ausência de Lula no evento é usado como argumento",
+      "tags": [
+        "Renan Santos",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Wed, 30 Sep 2026 22:11:12 +0000"
+    },
+    {
+      "id": "fe0a7a30441c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
+      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
+    },
+    {
+      "id": "4ccb56217703",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE tem 3 votos a 2 para proibir posts com fake news sobre Nossa Senhora; votação continua",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
     },
     {
       "id": "101df2cb01d4",
@@ -713,21 +730,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
     },
     {
-      "id": "ce125d549da5",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Conselho de Direitos Humanos pede que Congresso aprove proibição das bets",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/conselho-de-direitos-humanos-pede-que-congresso-aprove-proibicao-das-bets/",
-      "summary": "",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Wed, 30 Sep 2026 17:17:45 +0000"
-    },
-    {
       "id": "966066483536",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -741,21 +743,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Wed, 30 Sep 2026 21:05:45 -0000"
-    },
-    {
-      "id": "6afc8762946b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Missão aciona Justiça Eleitoral para incluir Renan Santos em debate da Globo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/missao-aciona-justica-eleitoral-para-incluir-renan-santos-em-debate-da-globo.shtml",
-      "summary": "O Missão entrou com pedido de liminar na Justiça Eleitoral na tarde desta quarta-feira (30) para o candidato do partido à Presidência, Renan Santos, participar do debate entre presidenciáveis na TV Globo, programado para a noite desta quinta-feira (1º).\nLeia mais (09/30/2026 - 18h28)",
-      "tags": [
-        "Renan Santos"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "30 Sep 2026 18:28:00 -0300"
     },
     {
       "id": "f58c9d6a40f1",
