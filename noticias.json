@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:47:58.701508+00:00",
+  "generated_at": "2026-09-30T09:17:13.159381+00:00",
   "items": [
-    {
-      "id": "0cce6f3a0d95",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Jair Bolsonaro pode votar nas eleições 2026 após ser condenado? Entenda",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/jair-bolsonaro-pode-votar-nas-eleicoes-2026-apos-ser-condenado-entenda/",
-      "summary": "Ex-presidente foi condenado no âmbito da trama golpista no ano passado; especialista explica como isso afeta direitos políticos de Bolsonaro",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "eleições 2026",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 95,
-      "publishedRaw": "Wed, 30 Sep 2026 06:20:45 +0000"
-    },
     {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
@@ -186,26 +163,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
     },
     {
-      "id": "503e94605874",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Anarquia que corrói STF não vai acabar antes da eleição",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/09/anarquia-que-corroi-stf-nao-vai-acabar-antes-da-eleicao.shtml",
-      "summary": "Instaurou-se a anarquia no Supremo Tribunal Federal, que caminha em ritmo acelerado de politização, sem disfarçar motivações eleitorais, na direção de um muro. A situação já seria bastante complexa com os enfrentamentos recentes entre duas alas de magistrados, mas há evidências que ampliam o quadro de enfermidade institucional.\nLeia mais (09/30/2026 - 04h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "30 Sep 2026 04:00:00 -0300"
-    },
-    {
       "id": "a141f478a04a",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -311,13 +268,13 @@
       "publishedRaw": "Mon, 28 Sep 2026 18:40:45 GMT"
     },
     {
-      "id": "5a8df510ab97",
+      "id": "624ecccbc5b7",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lindbergh pede que STF investigue Flávio por fraude nos Correios",
-      "link": "https://www.poder360.com.br/poder-congresso/lindbergh-pede-que-stf-investigue-flavio-por-fraude-nos-correios/",
-      "summary": "Deputado questiona relatoria de Kassio Nunes Marques no caso; esquema causou prejuízo de R$ 94 milhões à estatal",
+      "title": "Plenário do STF: saiba quais ações estão na pauta desta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-4a-feira-7/",
+      "summary": "Julgamento sobre regime de previdência complementar para funcionários públicos egressos de Estados e municípios é o destaque do dia",
       "tags": [
         "STF"
       ],
@@ -328,7 +285,27 @@
         "G1 - Política"
       ],
       "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 03:26:20 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 09:15:45 +0000"
+    },
+    {
+      "id": "71f925e339c1",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF aceitou Vaza Jato, mas rejeita chats de Vorcaro contra Moraes",
+      "link": "https://www.poder360.com.br/poder-justica/stf-aceitou-vaza-jato-mas-rejeita-chats-de-vorcaro-contra-moraes/",
+      "summary": "Corte usou diálogos de Moro e Dallagnol obtidos de maneira informal para sepultar Lava Jato; agora, mensagens de fundador do Master já foram periciadas pela PF e Tribunal resiste a investigar Moraes",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Wed, 30 Sep 2026 09:00:48 +0000"
     },
     {
       "id": "d509d57fb583",
@@ -367,8 +344,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
@@ -387,8 +364,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
@@ -407,31 +384,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 86,
       "publishedRaw": "Wed, 30 Sep 2026 02:05:28 -0000"
-    },
-    {
-      "id": "4f0ff959c158",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TRE-SP determina retirada de vídeo de Eduardo Bolsonaro após fala contra Simone Tebet",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tre-sp-determina-retirada-de-video-de-eduardo-bolsonaro-apos-fala-contra-simone-tebet-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
     },
     {
       "id": "22349d5b94ac",
@@ -522,28 +479,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 07:10:39 +0000"
     },
     {
-      "id": "3abe5998877e",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula deve dar entrevista a podcast durante debate e cogita “pool”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-deve-dar-entrevista-a-podcast-durante-debate-e-cogita-pool/",
-      "summary": "Ainda há negociações sobre o podcast que receberá o presidente; uma das possibilidades seria Lula ser entrevistado por um conjunto de canais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 07:00:14 +0000"
-    },
-    {
       "id": "f4095a72b5e0",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -566,13 +501,13 @@
       "publishedRaw": "Wed, 30 Sep 2026 00:16:27 +0000"
     },
     {
-      "id": "6ccd412516c5",
+      "id": "a056ebf8b7fc",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio critica ligação de Lula para Dino em evento do governo",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-critica-ligacao-de-lula-para-dino-em-evento-do-governo/",
-      "summary": "Candidato questionou relação entre presidente e ministro do STF após telefonema transmitido ao vivo antes de sanção de projeto",
+      "title": "Agenda de Lula: leia os compromissos do presidente 4ª feira",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/agenda-de-lula-leia-os-compromissos-do-presidente-4a-feira-2/",
+      "summary": "Bate-papo ao vivo com influenciadores e ato político em Juiz de Fora (MG) movimentam a agenda do chefe do Executivo",
       "tags": [
         "Lula"
       ],
@@ -585,16 +520,16 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 06:59:13 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 09:15:49 +0000"
     },
     {
-      "id": "e338d276b53f",
+      "id": "a88c2f9ae872",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio chama Lula de machista por fala sobre mulher “tomar toque”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-chama-lula-de-machista-por-fala-sobre-mulher-tomar-toque/",
-      "summary": "Senador classifica declaração sobre exames de saúde como preconceituosa e diz que presidente não tem condições de seguir no cargo",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 4ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-4a-feira-10/",
+      "summary": "Viagem a MG, entregas de infraestrutura, encontro com líderes do setor de pesca e abertura da Abav Expo em SP movimentam o dia",
       "tags": [
         "Lula"
       ],
@@ -607,16 +542,16 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 02:46:55 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 09:15:14 +0000"
     },
     {
-      "id": "cf6d86b207de",
+      "id": "345fd929c307",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula faz “banana” e afirma que seguirá nos palanques do país",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-banana-e-afirma-que-seguira-nos-palanques-do-pais/",
-      "summary": "Em Salvador, presidente reage a comentário sobre último comício na Bahia; garante presença em futuras agendas e diz que não se renderá à idade",
+      "title": "Saiba como estão Lula e Flávio nas pesquisas a 4 dias do 1º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-4-dias-do-1o-turno/",
+      "summary": "Senador fica numericamente à frente em 7 estudos e Lula em outros 4 sobre eventual 2º turno entre os 2; o Poder360 compila os resultados dos levantamentos nacionais mais recentes",
       "tags": [
         "Lula"
       ],
@@ -629,27 +564,7 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 02:31:03 +0000"
-    },
-    {
-      "id": "90660cbe5930",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
-      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até às 23h59 desta quarta.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+      "publishedRaw": "Wed, 30 Sep 2026 09:00:04 +0000"
     },
     {
       "id": "caa234a915a2",
@@ -674,66 +589,6 @@
       "publishedRaw": "Tue, 29 Sep 2026 19:58:44 -0000"
     },
     {
-      "id": "7b404c1da8ae",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE barra fórum ligado ao Vox e outros 14 como observadores eleitorais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-barra-forum-ligado-ao-vox-e-outros-14-como-observadores-eleitorais/",
-      "summary": "Lista de pedidos negados pelo tribunal abrange partido ultranacionalista português e organização espanhola que tem Eduardo Bolsonaro como signatário de manifesto",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 07:50:55 +0000"
-    },
-    {
-      "id": "e1f2cce27cf2",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE julga hoje caso sobre fake news de Nossa Senhora; veja como será",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-julga-hoje-caso-sobre-fake-news-de-nossa-senhora-veja-como-sera/",
-      "summary": "Sessão virtual começa às 10h e se estende até as 23h59 desta quarta-feira (30); os sete ministros da Corte Eleitoral vão analisar ordem de remoção de publicações sobre Flávio Bolsonaro",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 06:50:00 +0000"
-    },
-    {
-      "id": "a8a563b84917",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE manda X apagar capa falsa de revista com foto de Janja sobre projeto para favorecer a umbanda",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja-sobre-projeto-para-favorecer-a-umbanda/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 03:35:12 +0000"
-    },
-    {
       "id": "f0bc9ce6e993",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -756,24 +611,23 @@
       "publishedRaw": "Wed, 30 Sep 2026 07:48:08 GMT"
     },
     {
-      "id": "df006c977a38",
+      "id": "a431c8324844",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE julga na 4ª decisão sobre posts de Nossa Senhora Aparecida",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-julga-na-4a-decisao-sobre-posts-de-nossa-senhora-aparecida/",
-      "summary": "Plenário virtual analisa decisão de André Mendonça que mandou retirar posts com notícias falsas sobre Flávio e a padroeira",
+      "title": "Poder360 fará live com análise e apuração do 1º turno das eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/poder360-fara-live-com-analise-e-apuracao-do-1o-turno-das-eleicoes/",
+      "summary": "Transmissão será a partir das 16h30 de domingo (4.out), com notícias, acompanhamento dos resultados e participação de especialistas e importantes nomes da política",
       "tags": [
-        "TSE"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
+        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 02:26:12 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 09:00:56 +0000"
     },
     {
       "id": "13b805f0e285",
@@ -788,11 +642,87 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 81,
       "publishedRaw": "Tue, 29 Sep 2026 21:30:18 -0000"
+    },
+    {
+      "id": "4f0ff959c158",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TRE-SP determina retirada de vídeo de Eduardo Bolsonaro após fala contra Simone Tebet",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tre-sp-determina-retirada-de-video-de-eduardo-bolsonaro-apos-fala-contra-simone-tebet-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 00:43:17 +0000"
+    },
+    {
+      "id": "90660cbe5930",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga nesta quarta caso sobre posts de Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-julga-nesta-quarta-caso-sobre-posts-de-nossa-senhora-aparecida.ghtml",
+      "summary": "O plenário virtual do Tribunal Superior Eleitoral (TSE) vai analisar nesta quarta-feira (30) a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nA análise está prevista para começar às 10h e vai até às 23h59 desta quarta.\nNa segunda-feira (28), o ministro Luiz Fux, do Supremo Tribunal Federal (STF) suspendeu a decisão do ministro Flávio Dino que havia derrubado a ordem do ministro Mendonça.  \nCom a decisão, Fux restabeleceu, até a análise pelo plenário do STF, a determinação de Mendonça para retirar do ar as postagens, que incluíam a uma publicação do humorista Antonio Tabet.\nTSE julga amanhã posts sobre Nossa Senhora\nA decisão de Dino, tomada no domingo (27), havia permitido o restabelecimento do post de Tabet e de outras publicações removidas pelo mesmo fundamento. \nDino argumentou que a postagem não citava nominalmente Flávio Bolsonaro e que a medida era necessária para proteger a liberdade de expressão.\nFux, que atendeu a um pedido da defesa do candidato, defendeu que o tema fosse examinado pelo colegiado diante dos impactos sobre a Justiça Eleitoral e sobre a disputa presidencial em curso.\nApós Flávio Bolsonaro recorrer da derrubada da decisão de Mendonça, Dino já havia enviado a decisão dele para aprovação no plenário.  \nO presidente do STF, ministro Edson Fachin, chegou a sinalizar que pautaria o assunto nesta quarta-feira (30), o que não chegou a ser confirmado.\nFachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nCrise do STF chega ao TSE \nPerto de completar um mês, a crise institucional vivida pelo STF provoca impactos no TSE, na reta final do primeiro turno.\nA ala alinhada ao ministro André Mendonça chegou a procurar o presidente do STF, Edson Fachin, na segunda para questionar ações de aliados do ministro Alexandre de Moraes que, na avaliação desses integrantes da Corte, tentam arrastar a Corte Eleitoral.\nA tentativa desse grupo de ministros era acelerar o julgamento no plenário da decisão de Dino que derrubou a ordem de Mendonça, tomada no TSE, para que plataformas excluíssem postagens sobre a discussão em torno do título de padroeira de Nossa Senhora Aparecida.\nEm outra frente, os aliados de Moraes indicavam que uma discussão na véspera da eleição poderia expor ainda mais o tribunal e acirrar a erosão interna na cúpula do Judiciário.\nTema das campanhas\nNa noite de segunda, Flávio Bolsonaro participou de um podcast católico. O senador comparou as informações que o associam ao caso da Nossa Senhora de Aparecida com a facada sofrida pelo ex-presidente Jair Bolsonaro na campanha de 2018, em Juiz de Fora (MG).\n\"Eu tenho a convicção de que tentaram matar o meu pai porque viram que ele já era presidente do Brasil em 2018. Por isso, foram para tentar eliminá-lo. Foi aquela facada, lá em Juiz de Fora... Para você ver, mais uma vez. Eu acho que eu posso considerar uma espécie de facada essa fake news em mim\", disse o candidato ao SantoFlow Podcast.\nEm Belém (PA), o presidente Luiz Inácio Lula da Silva (PT) disse, também na segunda, que \"ninguém vai avacalhar com Nossa Senhora Aparecida\" enquanto ele for presidente da República.  \n\"Enquanto eu for presidente da República, ninguém vai avacalhar com Nossa Senhora Aparecida. Ninguém. As pessoas precisam aprender a respeitar todas as religiões, inclusive as religiões de matriz africana. É preciso. Ninguém é dono da verdade. A única igreja mentirosa é aquela da Lagoinha, daquele pastor chamado Valadão, que era sócio do Vorcaro\", afirmou Lula.\nA Igreja Batista da Lagoinha tem sede em Belo Horizonte, em Minas Gerais, e recebeu repasses por investigados ligados ao ex-banqueiro Daniel Vorcaro, segundo relatórios do Conselho de Controle de Atividades Financeiras (Coaf).",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 03:00:00 -0000"
+    },
+    {
+      "id": "7b404c1da8ae",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE barra fórum ligado ao Vox e outros 14 como observadores eleitorais",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-barra-forum-ligado-ao-vox-e-outros-14-como-observadores-eleitorais/",
+      "summary": "Lista de pedidos negados pelo tribunal abrange partido ultranacionalista português e organização espanhola que tem Eduardo Bolsonaro como signatário de manifesto",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 07:50:55 +0000"
+    },
+    {
+      "id": "a8a563b84917",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE manda X apagar capa falsa de revista com foto de Janja sobre projeto para favorecer a umbanda",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-manda-x-apagar-capa-falsa-de-revista-com-foto-de-janja-sobre-projeto-para-favorecer-a-umbanda/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 03:35:12 +0000"
     },
     {
       "id": "8175bf59a136",
@@ -808,10 +738,9 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Wed, 30 Sep 2026 00:36:37 GMT"
     },
     {
@@ -873,6 +802,21 @@
       "crossOutlets": [],
       "score": 57,
       "publishedRaw": "Wed, 30 Sep 2026 08:00:01 -0000"
+    },
+    {
+      "id": "87caa2e84683",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Equipe de Flávio vê nova janela para reforçar falas sobre segurança pública",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/equipe-de-flavio-ve-nova-janela-para-reforcar-falas-sobre-seguranca-publica/",
+      "summary": "Comunicação do candidato à Presidência ressalta propostas de castração química a estupradores e de endurecimentos de penas; ainda houve gravação com o prefeito de São Paulo, Ricardo Nunes, sobre sistema utilizado na segurança da capital paulista",
+      "tags": [
+        "segurança pública"
+      ],
+      "crossOutlets": [],
+      "score": 57,
+      "publishedRaw": "Wed, 30 Sep 2026 08:30:24 +0000"
     }
   ]
 }
