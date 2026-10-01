@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:47:35.882848+00:00",
+  "generated_at": "2026-10-01T16:16:34.379233+00:00",
   "items": [
     {
       "id": "30ff4055cd40",
@@ -43,7 +43,6 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
@@ -66,12 +65,13 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
     },
     {
@@ -132,6 +132,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
@@ -154,13 +155,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
+    },
+    {
+      "id": "e879f9f56a2c",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Flávio Bolsonaro testará terreno para 2º turno em debate",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-bolsonaro-testara-terreno-para-2o-turno-em-debate/",
+      "summary": "Analistas avaliam que debate do primeiro turno será ensaio decisivo para Flávio Bolsonaro firmar alianças e apresentar tom moderado",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 01 Oct 2026 15:55:01 +0000"
     },
     {
       "id": "5a0d53164466",
@@ -175,34 +196,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Mundo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 14:44:55 -0000"
-    },
-    {
-      "id": "30eeccb39810",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "EUA destinam US$ 1 milhão a grupos contra o STF no Brasil, diz jornal",
-      "link": "https://www.cnnbrasil.com.br/internacional/eua-destinam-us-1-milhao-a-grupos-contra-o-stf-no-brasil-diz-jornal/",
-      "summary": "Recurso do Departamento de Estado americano financia projeto contra o que considera abuso judicial e censura cometidos pelo Supremo Tribunal Federal",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 14:57:06 +0000"
     },
     {
       "id": "640f970efef3",
@@ -217,57 +216,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "id": "ffb26456310b",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Associação de rádios e TVs aciona STF contra proibição das bets",
-      "link": "https://www.poder360.com.br/poder-justica/associacao-de-radios-e-tvs-aciona-stf-contra-proibicao-das-bets/",
-      "summary": "Associação Brasileira de Emissoras de Rádio e Televisão diz que medida prejudica veículos com contratos de publicidade em vigor",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 13:32:56 +0000"
-    },
-    {
-      "id": "411e5f7f344d",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino declara perda de objeto no STF após TSE liberar post sobre padroeira",
-      "link": "https://www.cnnbrasil.com.br/politica/dino-declara-perda-de-objeto-no-stf-apos-tse-liberar-post-sobre-padroeira/",
-      "summary": "Ministro usou reversão de decisão sobre postagem do humorista Antônio Tabet para criticar Mendonça e mandar recado para Fux",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 14:55:27 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "id": "a723f1c542a6",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: STF julga reajustes de planos de saúde de pessoas idosa",
+      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-reajustes-de-planos-de-saude-de-pessoas-idosa/",
+      "summary": "A discussão trata das regras aplicáveis aos contratos antigos de planos de saúde",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 01 Oct 2026 16:00:53 +0000"
     },
     {
       "id": "8e84663ad711",
@@ -283,13 +257,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 88,
       "publishedRaw": "Thu, 01 Oct 2026 12:30:00 +0000"
     },
     {
@@ -305,15 +277,33 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 88,
       "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+    },
+    {
+      "id": "cc38dbdeaa9c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro cita caso Master e Moraes ao pedir nova revisão criminal",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-cita-caso-master-e-moraes-ao-pedir-nova-revisao-criminal/",
+      "summary": "Defesa do ex-presidente alega que ministro defendeu garantias no caso Master que não foram concedidas na ação da trama golpista",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 14:30:22 +0000"
     },
     {
       "id": "e53d7a2ea613",
@@ -420,9 +410,9 @@
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula assina medida que garante benefício do INSS a vítimas de violência doméstica por até 6 meses",
+      "title": "Lula assina medida que garante benefício do INSS por até 6 meses a vítimas de violência doméstica",
       "link": "https://g1.globo.com/politica/noticia/2026/10/01/lula-assina-medida-que-que-concede-beneficio-do-inss-a-mulheres-vitimas-de-violencia-domestica.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (1º) uma medida que garante o afastamento remunerado do trabalho, por até seis meses, a mulheres vítimas de violência doméstica que tenham a medida determinada pela Justiça.\nNa prática, quando a vítima tem vínculo empregatício, os primeiros 15 dias de afastamento são pagos pelo empregador. \nA partir do 16º dia, o pagamento fica a cargo do INSS. Se a mulher não tiver emprego formal,  o benefício é pago integralmente pelo INSS, com a despesa indo para o Estado ou Município.\nA cerimônia foi realizada nesta manhã no Palácio do Planalto e reuniu autoridades, representantes do INSS e da sociedade civil.\nAgora no g1\nA primeira-dama, Janja da Silva, afirmou que a dependência econômica é um dos fatores que dificultam a denúncia por mulheres vítimas de violência doméstica. \nSegundo ela, a medida busca permitir que essas mulheres se afastem da situação de violência sem ficarem desamparadas financeiramente.\n“Muitas não denunciam porque têm dependência econômica”, afirmou Janja.\nEla também disse que mulheres do campo, das periferias e das comunidades das águas podem enfrentar dificuldades para ter acesso a informações sobre os mecanismos de proteção.\nLula afirmou que o benefício alcançará tanto mulheres empregadas quanto aquelas que não têm vínculo formal de trabalho.\nSegundo o presidente, no caso das mulheres empregadas, os primeiros 15 dias ficam a cargo do empregador e, depois, o pagamento passa ao INSS. \nPara as mulheres sem emprego, Lula afirmou que o benefício será custeado por estados ou municípios por meio do Sistema Único de Assistência Social (Suas).\n“Todas as mulheres terão direito ao benefício”, afirmou o presidente.\n- Esta reportagem está em atualização.\nO presidente do Brasil, Luiz Inácio Lula da Silva, assina medida de apoio a mulheres vítimas de viol\nGETTY IMAGES via BBC",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (1º) um parecer que garante o afastamento remunerado do trabalho, por até seis meses, a mulheres vítimas de violência doméstica que tenham o afastamento determinado pela Justiça como medida protetiva.\n🔎Na prática, quando a vítima tem vínculo empregatício, os primeiros 15 dias de afastamento são pagos pelo empregador. A partir do 16º dia, o pagamento fica a cargo do INSS. \n➡️Nos casos de mulheres seguradas da Previdência, mas sem relação de emprego, como contribuintes individuais, facultativas e seguradas especiais, o INSS paga o benefício integralmente.\n➡️Já para as mulheres que não são seguradas da Previdência, o pagamento tem natureza assistencial e cabe ao estado, Distrito Federal ou município indicado pelo juiz.\nAgora no g1\nA medida segue entendimento do Supremo Tribunal Federal (STF) de que mulheres afastadas do trabalho por decisão judicial, como medida protetiva prevista na Lei Maria da Penha, devem continuar recebendo renda durante o período de afastamento, que pode chegar a seis meses.\nO que muda com o parecer\nA decisão do STF, tomada em junho, estabeleceu as regras para o afastamento remunerado, mas obrigava legalmente apenas juízes e tribunais. \nO parecer da Advocacia-Geral da União (AGU) aprovado por Lula incorpora esse entendimento às regras da Administração Pública federal.\nNa prática, a decisão judicial que determina a medida protetiva será suficiente para que o INSS faça o pagamento. \nNão haverá nova perícia ou análise do direito; o instituto verificará apenas se a mulher é segurada da Previdência.\nApós a publicação do parecer, o Ministério da Previdência Social e o INSS terão até 15 dias para regulamentar esse tipo de pagamento. \nO atendimento às vítimas deverá ser prioritário e sigiloso, inclusive pelo aplicativo \"Meu INSS\".\nA cerimônia foi realizada nesta manhã no Palácio do Planalto e reuniu autoridades, representantes do INSS e da sociedade civil.\nLula durante entrevista nesta quarta (30).\nFoto: Ricardo Stuckert.\nDependência econômica\nA primeira-dama, Janja da Silva, afirmou que a dependência econômica é um dos fatores que dificultam a denúncia de casos de violência doméstica.\nSegundo ela, a medida busca permitir que essas mulheres saiam de situações de violência sem ficarem desamparadas financeiramente.\n“Muitas não denunciam porque têm dependência econômica”, afirmou Janja da Silva.\nEla também disse que mulheres do campo, das periferias e das comunidades das águas podem enfrentar dificuldades para ter acesso a informações sobre os mecanismos de proteção.\nLula afirmou durante a cerimônia que a proteção alcançará mulheres com e sem vínculo formal de trabalho.\nSegundo o presidente, no caso das mulheres empregadas, os primeiros 15 dias ficam a cargo do empregador e, depois, o pagamento passa ao INSS.",
       "tags": [
         "Lula"
       ],
@@ -536,6 +526,46 @@
       "publishedRaw": "Thu, 01 Oct 2026 11:33:06 +0000"
     },
     {
+      "id": "e7f5d0e54620",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tem 48,4% contra 44,7% de Flávio no 2º turno no PA, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-484-contra-447-de-flavio-no-2o-turno-no-pa-diz-pesquisa/",
+      "summary": "Futura/100% Cidades entrevistou 1.000 eleitores do Pará de 24 a 28 de setembro; a margem de erro é de 3,1 p.p.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 16:06:43 +0000"
+    },
+    {
+      "id": "08ad89483488",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula torna obrigatório garantir renda à mulher vítima de violência",
+      "link": "https://www.poder360.com.br/poder-governo/lula-torna-obrigatorio-garantir-renda-a-mulher-vitima-de-violencia/",
+      "summary": "Ato regulamenta, no âmbito federal, entendimento firmado pelo STF sobre afastamento remunerado de mulheres sob medida protetiva",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 15:59:18 +0000"
+    },
+    {
       "id": "e45725b34552",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -556,86 +586,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 14:48:32 +0000"
     },
     {
-      "id": "cc38dbdeaa9c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro cita caso Master e Moraes ao pedir nova revisão criminal",
-      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-cita-caso-master-e-moraes-ao-pedir-nova-revisao-criminal/",
-      "summary": "Defesa do ex-presidente alega que ministro defendeu garantias no caso Master que não foram concedidas na ação da trama golpista",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 01 Oct 2026 14:30:22 +0000"
-    },
-    {
-      "id": "3a8087e95fb4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Bolsonaro pede suspensão da condenação por golpe",
-      "link": "https://www.poder360.com.br/poder-justica/defesa-de-bolsonaro-pede-suspensao-da-condenacao-por-golpe/",
-      "summary": "Pedido de revisão criminal já foi distribuído ao ministro Kassio Nunes Marques; ex-presidente foi condenado a 27 anos e 3 meses de prisão",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 83,
-      "publishedRaw": "Thu, 01 Oct 2026 13:11:22 +0000"
-    },
-    {
-      "id": "a925f2666a4d",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nossa Senhora: Mendonça mudou de voto após conversas com Nunes Marques e ministros do TSE",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/01/nossa-senhora-mendonca-mudou-de-voto-apos-conversas-com-nunes-marques-e-ministros-do-tse.ghtml",
-      "summary": "Mendonça permite post de Tabet em decisão do TSE sobre postagens de N. Sra. Aparecida\nA decisão do Tribunal Superior Eleitoral (TSE) sobre o caso Nossa Senhora aconteceu depois de muitas conversas entre ministros e de um acordo que deu sinais em várias direções. \nO ministro André Mendonça, relator do caso, conversou com o presidente do TSE, ministro Kassio Nunes Marques, e com vários ministros da Corte, e foi só a partir daí que ele decidiu mudar o voto.\nPrimeiro, o ministro tinha votado a favor da retirada de mais de mil postagens que ele entendia que associavam o candidato Flávio Bolsonaro (PL) à informação inverídica envolvendo Nossa Senhora Aparecida, inclusive um post do humorista Antonio Tabet. Ele é o relator do caso. \nNa postagem, o humorista escreveu, sem citar Flávio Bolsonaro, que \"a família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida\".\nDepois, ele liberou o post de Tabet, reformulando seu voto e deixando mais claro o argumento da liberdade de expressão.\nAo rever seu entendimento, Mendonça modificou o voto para liberar a postagem sob o argumento de que o texto não atribui a Flávio uma ação concreta contra a imagem ou o título de Nossa Senhora Aparecida.\n\"Diante da razoabilidade da compreensão de ambiguidade de seu conteúdo, entendo que a solução mais consentânea com os critérios de intervenção mínima e de proteção reforçada da liberdade de expressão consiste em preservar a postagem\", diz Mendonça.\nO ministro do STF e futuro vice-presidente do TSE, André Mendonça\nAlejandro Zambrana/Secom/TSE\nIsso só aconteceu depois de muitas conversas internas. Ministros alertaram o relator de que não mudar de voto implicaria passar mensagem duvidosa sobre liberdade de expressão, e tirar um post de um humorista que não cita o candidato deixaria isso muito claro. \nAlém disso, estava claro internamente que, se ele mudasse, seria uma solução doméstica para a crise, enfraquecendo a atuação do STF posteriormente.\nEssa atuação do STF foi feita até agora por dois ministros: Flávio Dino, que derrubou a primeira decisão monocrática de Mendonça; e Luiz Fux, que retomou a decisão de Mendonça. \nOs dois pediram para o caso ir ao plenário, o que sinalizava que era o STF a dar a palavra final. O presidente do TSE, Nunes Marques, reclamou ao presidente do STF, Edson Fachin, que havia uma sobreposição do Supremo à atuação da Justiça Eleitoral.\nComo o blog revelou, ao receber essa reclamação, Fachin pediu a Nunes que resolvesse essa questão primeiro no TSE para minimizar as chances de essa nova crise depender de um desfecho do STF – que já tem a crise do Master para lidar. \nFoi assim que Nunes Marques decidiu marcar a decisão para o plenário virtual do TSE. E após esse acordo institucional, depois houve um novo acordo sobre o voto do ministro Mendonça, que topou mudar.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 12:01:05 -0000"
-    },
-    {
-      "id": "c1ab97e111d7",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após Mendonça mudar voto, TSE decide liberar post de humorista sobre Nossa Senhora Aparecida",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml",
-      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), alterou o voto que havia apresentado na manhã desta quarta-feira (30) e votou para liberar de uma publicação do humorista Antonio Tabet sobre Nossa Senhora Aparecida. Todos os ministros decidiram por liberar o post. \nMendonça é autor de ações que resultaram na retirada de publicações nas redes sociais que associavam Flávio Bolsonaro à informação falsa de que ele pretendia retirar de Nossa Senhora Aparecida o título de padroeira do Brasil.\nEntre as postagens suspensas estava a de Antonio Tabet, que escreveu, sem citar Flávio Bolsonaro, que \"a família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida\".\nMendonça permite post de Tabet em decisão do TSE sobre postagens de N. Sra. Aparecida\nMais cedo, o ministro havia votado para confirmar a remoção desses conteúdos. Na ocasião, afirmou que as decisões não configuravam censura prévia nem violação à liberdade de expressão ou à liberdade religiosa, por se tratarem de publicações baseadas em informação falsa.\nO ministro também destacou que as determinações judiciais não alcançavam críticas, opiniões ou manifestações sobre temas distintos da desinformação que motivou as ações. \nApós rever seu entendimento, porém, Mendonça modificou o voto para liberar a publicação feita por Antonio Tabet. Com isso, todos os sete ministros do tribunal acompanharam esse entendimento.\nO ministro avaliou que o texto não atribui a Flávio uma ação concreta contra a imagem ou o título de Nossa Senhora Aparecida.\n\"Diante da razoabilidade da compreensão de ambiguidade de seu conteúdo, entendo que a solução mais consentânea com os critérios de intervenção mínima e de proteção reforçada da liberdade de expressão consiste em preservar a postagem\", diz Mendonça.\nMinistro André Mendonça\nJornal Nacional/ Reprodução\nJulgamento no TSE\nO plenário virtual do Tribunal Superior Eleitoral (TSE) analisa nesta quarta a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nOs ministros decidiram manter a retirada de posts falsos que ligavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil. No entanto, houve divergências no julgamento quanto à amplitude da medida.\nMendonça, autor da decisão, foi o primeiro a votar. Ele incluiu o voto nos sistemas da Justiça Eleitoral antes do horário marcado para o julgamento, às 10h.\nEm sua manifestação, o ministro afirmou que as decisões dele não restringem a liberdade religiosa, foram determinadas em caráter excepcional e \"não constituem censura prévia\".\nO ministro votou para referendar as duas determinações dele sobre o tema.\n➡️ Disse que a primeira decisão foi tomada porque a Justiça identificou um conjunto de informações específicas que poderiam ser verificadas e que, em uma análise inicial, foram consideradas falsas.\n➡️ A decisão seguinte, na explicação dele, teve o objetivo de fazer cumprir a medida diante da ampla divulgação desse conteúdo, com base nas regras eleitorais e em decisões já tomadas pelo Supremo Tribunal Federal.\nAo registrar seu voto, o presidente do TSE, Kassio Nunes Marques, afirmou que a medida tomada por Mendonça \"protege a liberdade religiosa em sua dimensão coletiva e democrática\".\n\"A meu sentir, a tutela deferida protege a liberdade religiosa em sua dimensão coletiva e democrática, pois impede que a fé de milhões de brasileiros seja instrumentalizada, às vésperas do pleito, por meio de uma afirmação factual inexistente, destinada a despertar, artificialmente, estados emocionais no eleitorado\", disse o presidente do TSE no seu voto.\nO ministro Dias Toffoli afirmou ao votar que \"a amplitude conferida à liberdade de expressão não impede a atuação da Justiça Eleitoral quando a manifestação deixa de se situar no campo da opinião ou da crítica política para ingressar no plano da afirmação de fatos objetivamente verificáveis e desprovidos de suporte mínimo na realidade\".\nDessa forma, afirmou ser legítima a adoção de medidas voltadas à \"proteção da integridade informacional do processo eleitoral\".\nJá o ministro Ricardo Villas Bôas Cueva propôs restringir o alcance das medidas determinadas pelo ministro André Mendonça para preservar críticas, opiniões e manifestações sobre eventual atuação futura do candidato.\nNo voto, Cueva considerou falsas, em análise preliminar, as afirmações apresentadas como fatos já ocorridos ou em curso de que Flávio Bolsonaro propôs, apoiou ou articulou concretamente a retirada do título ou a extinção do feriado nacional.\nEle defendeu, contudo, que previsões e avaliações sobre possíveis iniciativas futuras não sejam automaticamente abrangidas pela ordem de remoção.\nO ministro Floriano Peixoto Marques Neto votou para que sejam retiradas do ar apenas as postagens consideradas “notoriamente inverídicas”, delimitando o escopo da ação àquelas com aparente conteúdo falso.\nNa avaliação do ministro, a vedação precisa estar estritamente relacionada \"a afirmar ou insinuar\" que Flávio Bolsonaro atuou na proposta, \"assim delimitado o núcleo factual da desinformação\".",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
-    },
-    {
       "id": "5879399380f0",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -653,111 +603,6 @@
       ],
       "score": 82,
       "publishedRaw": "01 Oct 2026 12:17:00 -0300"
-    },
-    {
-      "id": "205e83fac322",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Kassio rebate críticas sobre acúmulo de decisões e diz que TSE foi ágil em julgamentos",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-rebate-criticas-sobre-acumulo-de-decisoes-e-diz-que-tse-foi-agil-em-julgamentos.shtml",
-      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), Kassio Nunes Marques, rebateu nesta quinta-feira (1º) as alegações de que estaria havendo um congestionamento de decisões individuais sem referendo do plenário. Segundo o ministro, a corte tem agido de forma célere para dar respostas colegiadas a representações sobre propaganda eleitoral.\nLeia mais (10/01/2026 - 11h58)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "01 Oct 2026 11:58:00 -0300"
-    },
-    {
-      "id": "da19e12c854a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino considera que decisão de liberar posts sobre Nossa Senhora Aparecida foi contemplada pelo TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/dino-considera-que-decisao-de-liberar-posts-sobre-nossa-senhora-aparecida-foi-contemplada-pelo-tse/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 15:08:07 +0000"
-    },
-    {
-      "id": "4ccb56217703",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça ajusta voto, e TSE decide excluir posts que ligam Flávio a ação contra padroeira",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
-    },
-    {
-      "id": "2e4f08d24ac9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE libera, provisoriamente, campanha de Garotinho",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-libera-provisoriamente-campanha-de-garotinho-nprp/",
-      "summary": "Decisão do TSE é válida até que o julgamento definitivo da candidatura seja concluído",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
-    },
-    {
-      "id": "9467954b7b40",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino encerra ação sobre post de Nossa Senhora após decisão do TSE",
-      "link": "https://www.poder360.com.br/poder-justica/dino-encerra-acao-sobre-post-de-nossa-senhora-apos-decisao-do-tse/",
-      "summary": "Ministro considerou que o Tribunal Superior Eleitoral decidiu manter publicação no ar, como ele já havia determinado anteriormente no STF",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 15:17:53 +0000"
     },
     {
       "id": "f18f10b29a73",
@@ -839,6 +684,120 @@
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
     },
     {
+      "id": "a925f2666a4d",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nossa Senhora: Mendonça mudou de voto após conversas com Nunes Marques e ministros do TSE",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/01/nossa-senhora-mendonca-mudou-de-voto-apos-conversas-com-nunes-marques-e-ministros-do-tse.ghtml",
+      "summary": "Mendonça permite post de Tabet em decisão do TSE sobre postagens de N. Sra. Aparecida\nA decisão do Tribunal Superior Eleitoral (TSE) sobre o caso Nossa Senhora aconteceu depois de muitas conversas entre ministros e de um acordo que deu sinais em várias direções. \nO ministro André Mendonça, relator do caso, conversou com o presidente do TSE, ministro Kassio Nunes Marques, e com vários ministros da Corte, e foi só a partir daí que ele decidiu mudar o voto.\nPrimeiro, o ministro tinha votado a favor da retirada de mais de mil postagens que ele entendia que associavam o candidato Flávio Bolsonaro (PL) à informação inverídica envolvendo Nossa Senhora Aparecida, inclusive um post do humorista Antonio Tabet. Ele é o relator do caso. \nNa postagem, o humorista escreveu, sem citar Flávio Bolsonaro, que \"a família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida\".\nDepois, ele liberou o post de Tabet, reformulando seu voto e deixando mais claro o argumento da liberdade de expressão.\nAo rever seu entendimento, Mendonça modificou o voto para liberar a postagem sob o argumento de que o texto não atribui a Flávio uma ação concreta contra a imagem ou o título de Nossa Senhora Aparecida.\n\"Diante da razoabilidade da compreensão de ambiguidade de seu conteúdo, entendo que a solução mais consentânea com os critérios de intervenção mínima e de proteção reforçada da liberdade de expressão consiste em preservar a postagem\", diz Mendonça.\nO ministro do STF e futuro vice-presidente do TSE, André Mendonça\nAlejandro Zambrana/Secom/TSE\nIsso só aconteceu depois de muitas conversas internas. Ministros alertaram o relator de que não mudar de voto implicaria passar mensagem duvidosa sobre liberdade de expressão, e tirar um post de um humorista que não cita o candidato deixaria isso muito claro. \nAlém disso, estava claro internamente que, se ele mudasse, seria uma solução doméstica para a crise, enfraquecendo a atuação do STF posteriormente.\nEssa atuação do STF foi feita até agora por dois ministros: Flávio Dino, que derrubou a primeira decisão monocrática de Mendonça; e Luiz Fux, que retomou a decisão de Mendonça. \nOs dois pediram para o caso ir ao plenário, o que sinalizava que era o STF a dar a palavra final. O presidente do TSE, Nunes Marques, reclamou ao presidente do STF, Edson Fachin, que havia uma sobreposição do Supremo à atuação da Justiça Eleitoral.\nComo o blog revelou, ao receber essa reclamação, Fachin pediu a Nunes que resolvesse essa questão primeiro no TSE para minimizar as chances de essa nova crise depender de um desfecho do STF – que já tem a crise do Master para lidar. \nFoi assim que Nunes Marques decidiu marcar a decisão para o plenário virtual do TSE. E após esse acordo institucional, depois houve um novo acordo sobre o voto do ministro Mendonça, que topou mudar.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 12:01:05 -0000"
+    },
+    {
+      "id": "c1ab97e111d7",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após Mendonça mudar voto, TSE decide liberar post de humorista sobre Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml",
+      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), alterou o voto que havia apresentado na manhã desta quarta-feira (30) e votou para liberar de uma publicação do humorista Antonio Tabet sobre Nossa Senhora Aparecida. Todos os ministros decidiram por liberar o post. \nMendonça é autor de ações que resultaram na retirada de publicações nas redes sociais que associavam Flávio Bolsonaro à informação falsa de que ele pretendia retirar de Nossa Senhora Aparecida o título de padroeira do Brasil.\nEntre as postagens suspensas estava a de Antonio Tabet, que escreveu, sem citar Flávio Bolsonaro, que \"a família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida\".\nMendonça permite post de Tabet em decisão do TSE sobre postagens de N. Sra. Aparecida\nMais cedo, o ministro havia votado para confirmar a remoção desses conteúdos. Na ocasião, afirmou que as decisões não configuravam censura prévia nem violação à liberdade de expressão ou à liberdade religiosa, por se tratarem de publicações baseadas em informação falsa.\nO ministro também destacou que as determinações judiciais não alcançavam críticas, opiniões ou manifestações sobre temas distintos da desinformação que motivou as ações. \nApós rever seu entendimento, porém, Mendonça modificou o voto para liberar a publicação feita por Antonio Tabet. Com isso, todos os sete ministros do tribunal acompanharam esse entendimento.\nO ministro avaliou que o texto não atribui a Flávio uma ação concreta contra a imagem ou o título de Nossa Senhora Aparecida.\n\"Diante da razoabilidade da compreensão de ambiguidade de seu conteúdo, entendo que a solução mais consentânea com os critérios de intervenção mínima e de proteção reforçada da liberdade de expressão consiste em preservar a postagem\", diz Mendonça.\nMinistro André Mendonça\nJornal Nacional/ Reprodução\nJulgamento no TSE\nO plenário virtual do Tribunal Superior Eleitoral (TSE) analisa nesta quarta a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nOs ministros decidiram manter a retirada de posts falsos que ligavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil. No entanto, houve divergências no julgamento quanto à amplitude da medida.\nMendonça, autor da decisão, foi o primeiro a votar. Ele incluiu o voto nos sistemas da Justiça Eleitoral antes do horário marcado para o julgamento, às 10h.\nEm sua manifestação, o ministro afirmou que as decisões dele não restringem a liberdade religiosa, foram determinadas em caráter excepcional e \"não constituem censura prévia\".\nO ministro votou para referendar as duas determinações dele sobre o tema.\n➡️ Disse que a primeira decisão foi tomada porque a Justiça identificou um conjunto de informações específicas que poderiam ser verificadas e que, em uma análise inicial, foram consideradas falsas.\n➡️ A decisão seguinte, na explicação dele, teve o objetivo de fazer cumprir a medida diante da ampla divulgação desse conteúdo, com base nas regras eleitorais e em decisões já tomadas pelo Supremo Tribunal Federal.\nAo registrar seu voto, o presidente do TSE, Kassio Nunes Marques, afirmou que a medida tomada por Mendonça \"protege a liberdade religiosa em sua dimensão coletiva e democrática\".\n\"A meu sentir, a tutela deferida protege a liberdade religiosa em sua dimensão coletiva e democrática, pois impede que a fé de milhões de brasileiros seja instrumentalizada, às vésperas do pleito, por meio de uma afirmação factual inexistente, destinada a despertar, artificialmente, estados emocionais no eleitorado\", disse o presidente do TSE no seu voto.\nO ministro Dias Toffoli afirmou ao votar que \"a amplitude conferida à liberdade de expressão não impede a atuação da Justiça Eleitoral quando a manifestação deixa de se situar no campo da opinião ou da crítica política para ingressar no plano da afirmação de fatos objetivamente verificáveis e desprovidos de suporte mínimo na realidade\".\nDessa forma, afirmou ser legítima a adoção de medidas voltadas à \"proteção da integridade informacional do processo eleitoral\".\nJá o ministro Ricardo Villas Bôas Cueva propôs restringir o alcance das medidas determinadas pelo ministro André Mendonça para preservar críticas, opiniões e manifestações sobre eventual atuação futura do candidato.\nNo voto, Cueva considerou falsas, em análise preliminar, as afirmações apresentadas como fatos já ocorridos ou em curso de que Flávio Bolsonaro propôs, apoiou ou articulou concretamente a retirada do título ou a extinção do feriado nacional.\nEle defendeu, contudo, que previsões e avaliações sobre possíveis iniciativas futuras não sejam automaticamente abrangidas pela ordem de remoção.\nO ministro Floriano Peixoto Marques Neto votou para que sejam retiradas do ar apenas as postagens consideradas “notoriamente inverídicas”, delimitando o escopo da ação àquelas com aparente conteúdo falso.\nNa avaliação do ministro, a vedação precisa estar estritamente relacionada \"a afirmar ou insinuar\" que Flávio Bolsonaro atuou na proposta, \"assim delimitado o núcleo factual da desinformação\".",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
+    },
+    {
+      "id": "da19e12c854a",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dino considera que decisão de liberar posts sobre Nossa Senhora Aparecida foi contemplada pelo TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/dino-considera-que-decisao-de-liberar-posts-sobre-nossa-senhora-aparecida-foi-contemplada-pelo-tse/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 15:08:07 +0000"
+    },
+    {
+      "id": "4ccb56217703",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mendonça ajusta voto, e TSE decide excluir posts que ligam Flávio a ação contra padroeira",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
+    },
+    {
+      "id": "2e4f08d24ac9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE libera, provisoriamente, campanha de Garotinho",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-libera-provisoriamente-campanha-de-garotinho-nprp/",
+      "summary": "Decisão do TSE é válida até que o julgamento definitivo da candidatura seja concluído",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
+    },
+    {
+      "id": "9467954b7b40",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Dino encerra ação sobre post de Nossa Senhora após decisão do TSE",
+      "link": "https://www.poder360.com.br/poder-justica/dino-encerra-acao-sobre-post-de-nossa-senhora-apos-decisao-do-tse/",
+      "summary": "Ministro considerou que o Tribunal Superior Eleitoral decidiu manter publicação no ar, como ele já havia determinado anteriormente no STF",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 15:17:53 +0000"
+    },
+    {
       "id": "8cb5a5bbf5a1",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -850,31 +809,12 @@
         "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 78,
+      "score": 72,
       "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
-    },
-    {
-      "id": "6f1faa52c172",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump destina US$ 1 mi para campanha de combate à “censura” no Brasil",
-      "link": "https://www.poder360.com.br/poder-internacional/trump-destina-us-1-mi-para-campanha-de-combate-a-censura-no-brasil/",
-      "summary": "Segundo jornal, repasse do Departamento de Estado integra fundo de direitos humanos e mira decisões do STF",
-      "tags": [
-        "censura"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 73,
-      "publishedRaw": "Thu, 01 Oct 2026 13:16:05 +0000"
     },
     {
       "id": "87e3b63e42e6",
@@ -890,21 +830,6 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "id": "a6417e0c20cd",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Kassio nega pedido de Renan Santos para ir a debate da Globo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-nega-pedido-de-renan-santos-para-ir-a-debate-da-globo.shtml",
-      "summary": "O presidente do TSE (Tribunal Superior Eleitoral), ministro Kassio Nunes Marques, negou ontem pedido do partido Missão e seu candidato à Presidência, Renan Santos, para garantir a participação dele no debate presidencial da TV Globo.\nLeia mais (10/01/2026 - 11h48)",
-      "tags": [
-        "Renan Santos"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "01 Oct 2026 11:48:00 -0300"
     },
     {
       "id": "3ce6cfe33d95",
