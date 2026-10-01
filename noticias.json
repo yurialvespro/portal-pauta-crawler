@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:45:40.501815+00:00",
+  "generated_at": "2026-10-01T17:17:04.987537+00:00",
   "items": [
     {
       "id": "30ff4055cd40",
@@ -112,37 +112,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 13:01:33 -0000"
-    },
-    {
-      "id": "d026c706c12c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Bolsonaro pede nova anulação de condenação no STF; Nunes Marques é relator",
-      "link": "https://www.estadao.com.br/politica/defesa-de-bolsonaro-pede-nova-anulacao-de-condenacao-no-stf-nunes-marques-e-relator/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Thu, 01 Oct 2026 14:13:09 +0000"
     },
     {
       "id": "e53d7a2ea613",
@@ -160,7 +135,8 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 09:14:35 -0000"
@@ -181,7 +157,8 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 06:00:00 -0000"
@@ -202,7 +179,8 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:01 -0000"
@@ -223,7 +201,8 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Mundo"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:00 -0000"
@@ -244,53 +223,31 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
     },
     {
-      "id": "850f377bf6e1",
-      "source": "Folha de São Paulo",
+      "id": "d026c706c12c",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "O currículo de Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-curriculo-de-flavio-bolsonaro.shtml",
-      "summary": "O ponto forte da democracia é assegurar que governantes reprovados nas urnas entreguem o poder pacificamente, não favorecer a escolha de bons líderes -o que, infelizmente, ela não faz. A melhor prova disso é a possibilidade muito real de Flávio Bolsonaro (PL) ser eleito presidente da República.\nLeia mais (10/01/2026 - 13h16)",
+      "title": "Defesa de Bolsonaro pede nova anulação de condenação no STF; Nunes Marques é relator",
+      "link": "https://www.estadao.com.br/politica/defesa-de-bolsonaro-pede-nova-anulacao-de-condenacao-no-stf-nunes-marques-e-relator/",
+      "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "STF",
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 91,
-      "publishedRaw": "01 Oct 2026 13:16:00 -0300"
-    },
-    {
-      "id": "e879f9f56a2c",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Análise: Flávio Bolsonaro testará terreno para 2º turno em debate",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-bolsonaro-testara-terreno-para-2o-turno-em-debate/",
-      "summary": "Analistas avaliam que debate do primeiro turno será ensaio decisivo para Flávio Bolsonaro firmar alianças e apresentar tom moderado",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 91,
-      "publishedRaw": "Thu, 01 Oct 2026 15:55:01 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 14:13:09 +0000"
     },
     {
       "id": "5a0d53164466",
@@ -307,11 +264,30 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Mundo"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 14:44:55 -0000"
+    },
+    {
+      "id": "253729414809",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF nega recurso da Surf Telecom e mantém decisão favorável à indiana Plintron",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/stf-nega-recurso-da-surf-telecom-e-mantem-decisao-favoravel-a-indiana-plintron.shtml",
+      "summary": "O ministro Flávio Dino, do STF (Supremo Tribunal Federal), negou recurso da empresa brasileira Surf Telecom e manteve a homologação da sentença arbitral que deu ganho de causa à indiana Plintron Mobility, que pedia o pagamento de US$ 4,5 milhões (R$ 23,5 milhões pela cotação atual).\nLeia mais (10/01/2026 - 13h54)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 89,
+      "publishedRaw": "01 Oct 2026 13:54:00 -0300"
     },
     {
       "id": "95c2432e2034",
@@ -328,10 +304,9 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "01 Oct 2026 13:23:00 -0300"
     },
     {
@@ -349,54 +324,10 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
-    },
-    {
-      "id": "a723f1c542a6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: STF julga reajustes de planos de saúde de pessoas idosa",
-      "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-reajustes-de-planos-de-saude-de-pessoas-idosa/",
-      "summary": "A discussão trata das regras aplicáveis aos contratos antigos de planos de saúde",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 16:00:53 +0000"
-    },
-    {
-      "id": "8e84663ad711",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministros do TSE e do STF fazem campeonato de quem produz a pior decisão",
-      "link": "https://www.estadao.com.br/politica/ricardo-correa/tomados-pela-polarizacao-ministros-do-tse-e-do-stf-fazem-campeonato-de-quem-produz-a-pior-decisao/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
       "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 12:30:00 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
     },
     {
       "id": "db7b8885f587",
@@ -421,28 +352,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 12:56:45 GMT"
     },
     {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
-    },
-    {
       "id": "7331a9b068e4",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -457,9 +366,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 88,
       "publishedRaw": "01 Oct 2026 13:37:00 -0300"
     },
     {
@@ -477,9 +387,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 88,
       "publishedRaw": "Thu, 01 Oct 2026 16:15:31 +0000"
     },
     {
@@ -497,9 +408,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 87,
+      "score": 88,
       "publishedRaw": "Thu, 01 Oct 2026 16:02:52 +0000"
     },
     {
@@ -517,10 +429,117 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 16:07:41 +0000"
+    },
+    {
+      "id": "8e84663ad711",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministros do TSE e do STF fazem campeonato de quem produz a pior decisão",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/tomados-pela-polarizacao-ministros-do-tse-e-do-stf-fazem-campeonato-de-quem-produz-a-pior-decisao/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+    },
+    {
+      "id": "850f377bf6e1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O currículo de Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-curriculo-de-flavio-bolsonaro.shtml",
+      "summary": "O ponto forte da democracia é assegurar que governantes reprovados nas urnas entreguem o poder pacificamente, não favorecer a escolha de bons líderes -o que, infelizmente, ela não faz. A melhor prova disso é a possibilidade muito real de Flávio Bolsonaro (PL) ser eleito presidente da República.\nLeia mais (10/01/2026 - 13h16)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
       "score": 87,
-      "publishedRaw": "Thu, 01 Oct 2026 16:07:41 +0000"
+      "publishedRaw": "01 Oct 2026 13:16:00 -0300"
+    },
+    {
+      "id": "dc3114c31886",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump diz que está acompanhando 'muito de perto' as eleições do Brasil",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/trump-diz-que-esta-acompanhando-de-perto-eleicoes-do-brasil.ghtml",
+      "summary": "Trump fala com a imprensa na Casa Branca antes de embarcar\nEvan Vucci/Reuters\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (1º) que está acompanhando \"muito de perto\" as eleições no Brasil. Ele disse ainda que o pleito brasileiro é \"muito importante\". \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\"O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante\", declarou o presidente a repórteres na Casa Branca. \nTrump não mencionou se apoiava algum candidato no pleito. Na semana passada, congressistas norte-americanos acusaram o governo de Donald Trump de tentar interferir nas eleições brasileiras, em uma carta enviada ao secretário de Estado dos EUA, Marco Rubio. \nEsta reportagem está em atualização.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Thu, 01 Oct 2026 16:43:58 -0000"
+    },
+    {
+      "id": "af188dc00d6e",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quem é Renan Santos, o líder roqueiro do MBL que ataca Flávio e Lula e tenta ser presidente em 2026; veja vídeo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/tv/2026/10/quem-e-renan-santos-o-lider-roqueiro-do-mbl-que-ataca-flavio-e-lula-e-tenta-ser-presidente-em-2026-veja-video.shtml",
+      "summary": "Renan Santos, que disputa a Presidência pelo partido Missão, veste o figurino de candidato antissistema nas eleições 2026.\nLeia mais (10/01/2026 - 13h52)",
+      "tags": [
+        "Renan Santos",
+        "MBL",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "01 Oct 2026 13:52:00 -0300"
     },
     {
       "id": "101df2cb01d4",
@@ -537,6 +556,7 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 86,
@@ -549,7 +569,7 @@
       "category": "Política",
       "title": "Lula assina medida que garante benefício do INSS por até 6 meses a vítimas de violência doméstica",
       "link": "https://g1.globo.com/politica/noticia/2026/10/01/lula-assina-medida-que-que-concede-beneficio-do-inss-a-mulheres-vitimas-de-violencia-domestica.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (1º) um parecer que garante o afastamento remunerado do trabalho, por até seis meses, a mulheres vítimas de violência doméstica que tenham o afastamento determinado pela Justiça como medida protetiva.\n🔎Na prática, quando a vítima tem vínculo empregatício, os primeiros 15 dias de afastamento são pagos pelo empregador. A partir do 16º dia, o pagamento fica a cargo do INSS. \n➡️Nos casos de mulheres seguradas da Previdência, mas sem relação de emprego, como contribuintes individuais, facultativas e seguradas especiais, o INSS paga o benefício integralmente.\n➡️Já para as mulheres que não são seguradas da Previdência, o pagamento tem natureza assistencial e cabe ao estado, Distrito Federal ou município indicado pelo juiz.\nAgora no g1\nA medida segue entendimento do Supremo Tribunal Federal (STF) de que mulheres afastadas do trabalho por decisão judicial, como medida protetiva prevista na Lei Maria da Penha, devem continuar recebendo renda durante o período de afastamento, que pode chegar a seis meses.\nO que muda com o parecer\nA decisão do STF, tomada em junho, estabeleceu as regras para o afastamento remunerado, mas obrigava legalmente apenas juízes e tribunais. \nO parecer da Advocacia-Geral da União (AGU) aprovado por Lula incorpora esse entendimento às regras da Administração Pública federal.\nNa prática, a decisão judicial que determina a medida protetiva será suficiente para que o INSS faça o pagamento. \nNão haverá nova perícia ou análise do direito; o instituto verificará apenas se a mulher é segurada da Previdência.\nApós a publicação do parecer, o Ministério da Previdência Social e o INSS terão até 15 dias para regulamentar esse tipo de pagamento. \nO atendimento às vítimas deverá ser prioritário e sigiloso, inclusive pelo aplicativo \"Meu INSS\".\n➡️A mulher não precisará cumprir período de carência para receber o pagamento. Também não haverá desconto de contribuição previdenciária sobre o valor recebido, e o período de afastamento será contado como tempo de contribuição para a aposentadoria.\n➡️As regras também serão aplicadas aos afastamentos que já estiverem em curso quando a regulamentação entrar em vigor, desde que tenham sido determinados pela Justiça com base na Lei Maria da Penha.\nA cerimônia foi realizada nesta manhã no Palácio do Planalto e reuniu autoridades, representantes do INSS e da sociedade civil.\nLula durante entrevista nesta quarta (30).\nFoto: Ricardo Stuckert.\nDependência econômica\nA primeira-dama, Janja da Silva, afirmou que a dependência econômica é um dos fatores que dificultam a denúncia de casos de violência doméstica.\nSegundo ela, a medida busca permitir que essas mulheres saiam de situações de violência sem ficarem desamparadas financeiramente.\n“Muitas não denunciam porque têm dependência econômica”, afirmou Janja da Silva.\nEla também disse que mulheres do campo, das periferias e das comunidades das águas podem enfrentar dificuldades para ter acesso a informações sobre os mecanismos de proteção.\nLula afirmou durante a cerimônia que a proteção alcançará mulheres com e sem vínculo formal de trabalho.\nSegundo o presidente, no caso das mulheres empregadas, os primeiros 15 dias ficam a cargo do empregador e, depois, o pagamento passa ao INSS.\nO INSS também deverá cobrar judicialmente dos responsáveis pela violência doméstica os valores pagos às vítimas. A cobrança será feita por meio das chamadas ações regressivas.",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quinta-feira (1º) um parecer que garante o afastamento remunerado do trabalho, por até seis meses, a mulheres vítimas de violência doméstica que tenham o afastamento determinado pela Justiça como medida protetiva.\n🔎Na prática, quando a vítima tem vínculo empregatício, os primeiros 15 dias de afastamento são pagos pelo empregador. A partir do 16º dia, o pagamento fica a cargo do INSS. \n➡️Nos casos de mulheres seguradas da Previdência, mas sem relação de emprego, como contribuintes individuais, facultativas e seguradas especiais, o INSS paga o benefício integralmente.\n➡️Já para as mulheres que não são seguradas da Previdência, o pagamento tem natureza assistencial e cabe ao estado, Distrito Federal ou município indicado pelo juiz.\nAgora no g1\nA medida segue entendimento do Supremo Tribunal Federal (STF) de que mulheres afastadas do trabalho por decisão judicial, como medida protetiva prevista na Lei Maria da Penha, devem continuar recebendo renda durante o período de afastamento, que pode chegar a seis meses.\nO que muda com o parecer\nA decisão do STF, tomada em junho, estabeleceu as regras para o afastamento remunerado, mas obrigava apenas juízes e tribunais a aplicar o entendimento aos casos concretos. \nO parecer da Advocacia-Geral da União (AGU) aprovado por Lula incorpora esse entendimento às regras da Administração Pública federal.\nNa prática, a decisão judicial que determina a medida protetiva será suficiente para que o INSS faça o pagamento. \nNão haverá nova perícia ou análise do direito; o instituto verificará apenas se a mulher é segurada da Previdência.\nApós a publicação do parecer, o Ministério da Previdência Social e o INSS terão até 15 dias para regulamentar esse tipo de pagamento. \nO atendimento às vítimas deverá ser prioritário e sigiloso, inclusive pelo aplicativo \"Meu INSS\".\n➡️A mulher não precisará cumprir período de carência para receber o pagamento. Também não haverá desconto de contribuição previdenciária sobre o valor recebido, e o período de afastamento será contado como tempo de contribuição para a aposentadoria.\n➡️As regras também serão aplicadas aos afastamentos que já estiverem em curso quando a regulamentação entrar em vigor, desde que tenham sido determinados pela Justiça com base na Lei Maria da Penha.\nA cerimônia foi realizada nesta manhã no Palácio do Planalto e reuniu autoridades, representantes do INSS e da sociedade civil.\nLula durante entrevista nesta quarta (30).\nFoto: Ricardo Stuckert.\nDependência econômica\nA primeira-dama, Janja da Silva, afirmou que a dependência econômica é um dos fatores que dificultam a denúncia de casos de violência doméstica.\nSegundo ela, a medida busca permitir que essas mulheres saiam de situações de violência sem ficarem desamparadas financeiramente.\n“Muitas não denunciam porque têm dependência econômica”, afirmou Janja da Silva.\nEla também disse que mulheres do campo, das periferias e das comunidades das águas podem enfrentar dificuldades para ter acesso a informações sobre os mecanismos de proteção.\nLula afirmou durante a cerimônia que a proteção alcançará mulheres com e sem vínculo formal de trabalho.\nSegundo o presidente, no caso das mulheres empregadas, os primeiros 15 dias ficam a cargo do empregador e, depois, o pagamento passa ao INSS.\nO INSS também deverá cobrar judicialmente dos responsáveis pela violência doméstica os valores pagos às vítimas. A cobrança será feita por meio das chamadas ações regressivas.",
       "tags": [
         "Lula"
       ],
@@ -557,9 +577,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 15:27:55 -0000"
     },
     {
@@ -577,9 +598,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 14:14:33 -0000"
     },
     {
@@ -597,9 +619,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 12:24:12 -0000"
     },
     {
@@ -616,10 +639,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 16:02:55 +0000"
     },
     {
@@ -636,11 +660,33 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 11:33:06 +0000"
+    },
+    {
+      "id": "17f0d5c6abbb",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula negocia acordo para cumprir promessa e aprovar fim da 6 X 1",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-negocia-acordo-para-cumprir-promessa-e-aprovar-fim-da-6-x-1/",
+      "summary": "Presidente quer entregar sua maior bandeira de campanha e tenta costurar a análise no Congresso antes do 2º turno",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 01 Oct 2026 17:07:31 +0000"
     },
     {
       "id": "56f04ae173e3",
@@ -657,9 +703,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 16:30:07 +0000"
     },
     {
@@ -677,30 +724,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 16:06:43 +0000"
-    },
-    {
-      "id": "08ad89483488",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula torna obrigatório garantir renda à mulher vítima de violência",
-      "link": "https://www.poder360.com.br/poder-governo/lula-torna-obrigatorio-garantir-renda-a-mulher-vitima-de-violencia/",
-      "summary": "Ato regulamenta, no âmbito federal, entendimento firmado pelo STF sobre afastamento remunerado de mulheres sob medida protetiva",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 15:59:18 +0000"
     },
     {
       "id": "f18f10b29a73",
@@ -716,10 +744,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Thu, 01 Oct 2026 08:50:15 GMT"
     },
     {
@@ -736,10 +765,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
     },
     {
@@ -756,10 +786,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
     },
     {
@@ -775,10 +806,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Poder360"
+        "Estadão"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Thu, 01 Oct 2026 12:01:05 -0000"
     },
     {
@@ -794,10 +824,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Poder360"
+        "Estadão"
       ],
-      "score": 77,
+      "score": 73,
       "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
     },
     {
@@ -813,68 +842,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 15:08:07 +0000"
-    },
-    {
-      "id": "4ccb56217703",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça ajusta voto, e TSE decide excluir posts que ligam Flávio a ação contra padroeira",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
-    },
-    {
-      "id": "2e4f08d24ac9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE libera, provisoriamente, campanha de Garotinho",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-libera-provisoriamente-campanha-de-garotinho-nprp/",
-      "summary": "Decisão do TSE é válida até que o julgamento definitivo da candidatura seja concluído",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
-    },
-    {
-      "id": "9467954b7b40",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Dino encerra ação sobre post de Nossa Senhora após decisão do TSE",
-      "link": "https://www.poder360.com.br/poder-justica/dino-encerra-acao-sobre-post-de-nossa-senhora-apos-decisao-do-tse/",
-      "summary": "Ministro considerou que o Tribunal Superior Eleitoral decidiu manter publicação no ar, como ele já havia determinado anteriormente no STF",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
         "G1 - Política"
       ],
-      "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 15:17:53 +0000"
+      "score": 73,
+      "publishedRaw": "Thu, 01 Oct 2026 15:08:07 +0000"
     },
     {
       "id": "8cb5a5bbf5a1",
@@ -889,10 +860,9 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 72,
+      "score": 68,
       "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
     },
     {
@@ -909,6 +879,36 @@
       "crossOutlets": [],
       "score": 64,
       "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "id": "131b1c69b0bd",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Leonardo Avalanche desiste de candidatura à Presidência",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/leonardo-avalanche-desiste-de-candidatura-a-presidencia.shtml",
+      "summary": "O empresário Leonardo Avalanche, presidente nacional do PRTB, anunciou nesta quinta-feira (1º) que desistiu de concorrer à Presidência da República. Em nota publicada no Instagram, ele disse renunciar à candidatura \"por motivos técnicos, jurídicos e pessoais\".\nLeia mais (10/01/2026 - 13h45)",
+      "tags": [
+        "candidatura"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "01 Oct 2026 13:45:00 -0300"
+    },
+    {
+      "id": "c5cdd7adc921",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cármen Lúcia rejeita ação de Renan Santos para participar de debate da Globo",
+      "link": "https://www.estadao.com.br/politica/eleicoes/carmen-lucia-rejeita-acao-de-renan-santos-para-participar-de-debate-da-globo-nprp/",
+      "summary": "",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Thu, 01 Oct 2026 16:30:14 +0000"
     },
     {
       "id": "3ce6cfe33d95",
