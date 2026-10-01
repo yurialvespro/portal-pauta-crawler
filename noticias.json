@@ -1,50 +1,6 @@
 {
-  "generated_at": "2026-10-01T21:16:18.318322+00:00",
+  "generated_at": "2026-10-01T21:46:29.754519+00:00",
   "items": [
-    {
-      "id": "2067b6ff56ce",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle vai acompanhar eleições em casa com Jair Bolsonaro, que está ansioso, segundo relatos",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/michelle-vai-acompanhar-eleicoes-em-casa-com-jair-bolsonaro-que-esta-ansioso-segundo-relatos.shtml",
-      "summary": "A ex-primeira-dama Michelle Bolsonaro (PL) pretende acompanhar o resultado das eleições no domingo (4) em casa com o marido, Jair Bolsonaro (PL), que está em prisão domiciliar.\nLeia mais (10/01/2026 - 17h21)",
-      "tags": [
-        "eleições",
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 94,
-      "publishedRaw": "01 Oct 2026 17:21:00 -0300"
-    },
-    {
-      "id": "82be4015944d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: Bancada feminina pode chegar a 22 integrantes no Senado",
-      "link": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-bancada-feminina-pode-chegar-a-22-integrantes-no-senado/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 91,
-      "publishedRaw": "Thu, 01 Oct 2026 18:09:11 +0000"
-    },
     {
       "id": "62e3f5cb94bf",
       "source": "Folha de São Paulo",
@@ -61,10 +17,33 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
+      "score": 93,
       "publishedRaw": "01 Oct 2026 17:43:00 -0300"
+    },
+    {
+      "id": "5f31177f892f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quem é o eleitor ou a eleitora que vai desempatar o jogo entre Lula e Flávio Bolsonaro?",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/quem-e-o-eleitor-ou-a-eleitora-que-vai-desempatar-o-jogo-entre-lula-e-flavio-bolsonaro/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 93,
+      "publishedRaw": "Thu, 01 Oct 2026 21:00:00 +0000"
     },
     {
       "id": "8ae8b2acb8c7",
@@ -82,9 +61,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
+      "score": 93,
       "publishedRaw": "Thu, 01 Oct 2026 18:33:27 +0000"
     },
     {
@@ -103,9 +83,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
+      "score": 93,
       "publishedRaw": "Thu, 01 Oct 2026 21:02:45 GMT"
     },
     {
@@ -124,9 +105,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 88,
+      "score": 93,
       "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
     },
     {
@@ -144,9 +126,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 87,
+      "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 19:47:20 +0000"
     },
     {
@@ -164,130 +147,32 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 87,
+      "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 18:56:05 +0000"
     },
     {
-      "id": "18ce3b470ab6",
-      "source": "Estadão",
+      "id": "767732de6cbb",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Trump diz acompanhar ‘muito de perto’ as eleições no Brasil",
-      "link": "https://www.estadao.com.br/politica/eleicoes/trump-diz-acompanhar-muito-de-perto-as-eleicoes-no-brasil-npr/",
-      "summary": "",
+      "title": "Caso Vorcaro é “o de menos” diante do 8 de Janeiro, diz Eduardo Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/caso-vorcaro-e-o-de-menos-diante-do-8-de-janeiro-diz-eduardo-bolsonaro/",
+      "summary": "Ex-deputado comparou fraudes do Banco Master com as prisões de condenados pela tentativa de golpe em 2023",
       "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 01 Oct 2026 17:49:59 +0000"
-    },
-    {
-      "id": "f1fe7e2d1de5",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Dólar sobe e fecha a R$ 5,22 com alta do petróleo e reta final para as eleições; Ibovespa avança",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair\nO dólar fechou em alta de 0,89% nesta quinta-feira (1º), cotado a R$ 5,2202. Já o Ibovespa, principal índice da bolsa brasileira, avançou 0,46%, aos 187.197 pontos, impulsionado pela alta nas ações da Petrobras.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ As tensões no Oriente Médio voltaram a pressionar o mercado de energia, após novos ataques no Estreito de Ormuz. Três petroleiros foram atingidos por projéteis enquanto transitavam pelo canal, o que voltou a levantar preocupações com o conflito na região. Ontem, o Irã também afirmou que se a República Islâmica continuar com suas exportações bloqueadas, nenhum outro país da região será capaz de exportar petróleo.\n🔎 Em meio à nova escalada das tensões, os preços do petróleo voltaram a subir. Perto das 17h, o barril tipo Brent, referência internacional, avançava 4,55%, a US$ 102,58. Já o West Texas Intermediate (WTI), referência nos Estados Unidos, subia 2,81%, a US$ 93,23 o barril. \n▶️ Investidores também seguem atentos aos sinais sobre o futuro dos juros nos EUA. Na véspera, o PCE, indicador que mede a inflação a partir dos gastos dos consumidores americanos e a medida preferida do Federal Reserve (Fed, o banco central dos EUA) na condução dos juros, ficou em 3,4% em agosto na comparação com um ano antes, abaixo das previsões do mercado (3,7%). No mês, a alta foi de 0,3%, também abaixo da estimativa de 0,4%.\n🔎 O dado foi bem recebido pelo mercado e reduziu as preocupações de que o BC americano subisse os juros já em outubro. A política de juros nos EUA tem reflexos no Brasil. Com as taxas em nível historicamente elevado, cresce a pressão para que a Selic, taxa básica de juros brasileira, permaneça em patamar alto por mais tempo, além de gerar efeitos sobre o câmbio. \n▶️ As atenções também seguem voltadas ao cenário político, em meio à proximidade das eleições. Nesta quinta-feira, o Datafolha deve divulgar, no início da noite, uma nova rodada de pesquisas com os números da corrida presidencial. O levantamento foi contratado pela Globo e pelo jornal Folha de S.Paulo e é o último antes do debate presidencial da Globo, previsto para as 21h20 desta quinta.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,76%;\nAcumulado do mês: +0,89%;\nAcumulado do ano: -4,89%.\n📈Ibovespa\n\nAcumulado da semana: +0,32%;\nAcumulado da semana: +2,03%\nAcumulado do mês: +0,46%;\nAcumulado do ano: +16,18%.\nNovas tensões no Oriente Médio\nO ataque a navios petroleiros que trafegavem pelo Estreito de Ormuz voltou a elevar os preços do petróleo nesta quinta-feira. As embarcações foram atingidas por projéteis de origem desconhecida. As informações são do serviço de inteligência marítima Marisks.\nA ofensiva acontece apenas dois dias depois de o presidente do Parlamento iraniano, Mohammad Baqer Qalibaf, afirmar que nenhum país da região será capaz de exportar petróleo se a República Islâmica for impedida de vender sua commodity. \nNa véspera, o Irã informou que recebeu uma resposta dos EUA à sua mais recente proposta para restabelecer o cessar-fogo no Golfo Pérsico, dias depois de o presidente americano, Doanld Trump, ter afirmado que havia rejeitado.\nSegundo o Irã, seu plano visava restaurar um acordo provisório que fracassou semanas após ter sido assinado por Trump e pelo presidente iraniano Masoud Pezeshkian, em junho. A proposta também incluia a suspensão do bloqueio aos portos iranianos por parte de Washington e a reabertura do Estreito de Ormuz em sete dias pelo Irã.\nNa semana passada, mediadores do Catar transitaram entre os enviados dos EUA e do Irã em Nova York, à margem de uma reunião das Nações Unidas -- as primeiras negociações indiretas entre as partes em conflito desde que o cessar-fogo foi rompido.\nUma autoridade a par das negociações afirmou à Reuters que as partes concordam amplamente sobre as medidas necessárias, mas ainda discordam sobre a ordem em que devem ser tomadas.\nO Irã quer que um eventual acordo lhe conceda o controle sobre o Estreito de Ormuz, a rota de transporte de petróleo mais importante do mundo, que passa ao largo de sua costa.\nO tráfego marítimo pelo estreito aumentou nas últimas semanas, com as transportadoras cobrando taxas elevadas para enfrentar o risco de ataques. No entanto, os fluxos de petróleo bruto, produtos refinados e gás natural continuam substancialmente interrompidos. \nNesta quinta-feira, o presidente iraniano, Masoud Pezeshkian, afirmou que o Irã \"nunca se esquivará\" do diálogo com os EUA.\n“Nunca nos esquivamos das negociações, e nunca o faremos, embora os Estados Unidos tenham atacado nosso país três vezes, apesar de terem assinado um acordo”, afirmou ele, segundo a agência de notícias semioficial Tasnim.\nBolsas globais\nEm Wall Street, os principais índices americanos fecharam em alta nesta quinta-feira. O Dow Jones avançou 0,04%, o S&amp;P 500 subiu 0,25% e o Nasdaq Composite teve ganho de 0,04%. \nNa Europa, a maioria dos índices locais fechou em queda, conforme investidores avaliavam a nova escalada das tensões no Oriente Médio e repercutiam novos indicadores da região. O índice pan-europeu STOXX 600 recuou 1,3%, na maior baixa diária em três semanas.\nEntre os demais índices da região, o DAX, da Alemanha, recuou 1,03%, enquanto o CAC-40, da França, perdeu 1,62% e o FTSE 100, do Reino Unido, caiu 1,68%.\nNa Ásia, a bolsa japonesa registrou, nesta quinta-feira, seu maior fechamento em mais de seis semanas, depois que resultados sólidos da Micron Technology alimentaram o otimismo em relação aos investimentos ligados à inteligência artificial. O índice Nikkei, do Japão, subiu 3,3%, aos 68.956,72 pontos, no maior nível desde 17 de agosto. \nEntre os demais índices da região, o Kospi, da Coreia do Sul, valorizou 1,95%. Já o Hang Seng, de Hong Kong, o SSEC, Índice de Xangai, e o CSI 300, que reúne as maiores companhias listadas em Xangai e Shenzhen, permaneceram fechados.\nNotas de real e dólar\nAmanda Perobelli/ Reuters\n* Com informações da agência de notícias Reuters.",
-      "tags": [
-        "eleições"
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 12:00:12 -0000"
-    },
-    {
-      "id": "dc3114c31886",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Trump diz que está acompanhando 'muito de perto' as eleições do Brasil",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/trump-diz-que-esta-acompanhando-de-perto-eleicoes-do-brasil.ghtml",
-      "summary": "Trump fala com a imprensa na Casa Branca antes de embarcar\nEvan Vucci/Reuters\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (1º) que está acompanhando \"muito de perto\" as eleições no Brasil. Ele disse ainda que o pleito brasileiro é \"muito importante\". \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\"O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante\", declarou o presidente a repórteres na Casa Branca. \nTrump não mencionou se está apoiando algum candidato no pleito brasileiro, rompendo com a postura que tem adotado em eleições na América Latina. No exemplo mais recente, no pleito da Colômbia, o norte-americano manifestou abertamente apoio ao agora presidente do país, Abelardo de la Espriella.\nTrump diz que eleição brasileira é muito importante\nNa semana passada, congressistas norte-americanos acusaram o governo de Donald Trump de tentar interferir nas eleições brasileiras, em uma carta enviada ao secretário de Estado dos EUA, Marco Rubio.  Esta semana, senadores cobraram da gestão Trump, também por meio de uma carta a Rubio, garantias de que Washington aceitará o resultado do pleito.\nNo novo documento, os senadores expressaram \"preocupação com ações do governo (dos EUA) que ameaçam nossa aliança estratégica com o Brasil\" e voltaram a apontar uma suposta tentativa de interferência por parte de Washington.\n\"Ao longo do segundo mandato do Presidente Trump, observamos autoridades dos EUA envolvidas em uma campanha de interferência e desestabilização no Brasil\", diz o documento.\nNa carta, eles apresentam, como indícios:\nA nomeação de Darren Beattie, político de extrema direita e forte crítico do governo de Luiz Inácio Lula da Silva, como assessor sênior para questões relacionadas ao Brasil no Departamento de Estado dos EUA;\nA aplicação de novas tarifas extras após uma investigação, segundo relatos, \"iniciada por determinação do presidente Trump\".\n👉 Em agosto, o Departamento do Estado dos EUA afirmou ao g1 que respeitará \"qualquer governo\" que for eleito em outubro no Brasil. O departamento também negou ter um plano para impedir uma reeleição do presidente Lula.\nAinda assim, o governo brasileiro construiu uma \"barreira\" para tentar blindar qualquer tentativa de interferência por parte do governo Trump, de acordo com uma reportagem do jornal norte-americano \"The New York Times\" com base em fontes de Brasília.\nComo exemplo, o Brasil tem buscado apoio de países na Europa e Ásia e monitorado lobbies estrangeiros dentro do país, além de tentar combater informações falsas sobre fraude eleitoral.\nAbin informou europeus de interferência, diz agência \nFlávio Bolsonaro, Donald Trump e Lula\nMontagem - Arte/g1\nUma reportagem da agência de notícias Reuters afirmou que a Agência Brasileira de Inteligência (Abin) informou à União Europeia que Estados Unidos e Rússia tentaram interferir no pleito brasileiro. \nCom base também em fontes e documentos da UE, a Reuters afirmou que o alerta foi feito pela Abin a delegações da Alemanha e da França que visitaram em setembro a capital brasileira. Na ocasião, afirmou a agência, autoridades da Abin “confirmaram a existência de interferência tanto dos Estados Unidos quanto da Rússia\".\nPor parte do governo norte-americano, a suposta interferência veio por meio de \"ações judiciais até interferência abertamente reconhecida\", segundo um relatório da UE sobre a reunião ao que a Reuters teve acesso. O documento não detalhou a suposta interferência do governo da Rússia.\nAgora no g1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 16:43:58 -0000"
-    },
-    {
-      "id": "14943241245e",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'",
-      "link": "https://www.bbc.com/portuguese/articles/cwm2q2yd1jp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "'O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante', disse o presidente americano.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 19:00:55 GMT"
-    },
-    {
-      "id": "101df2cb01d4",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
-      "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
-    },
-    {
-      "id": "50446db66d31",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/01/nao-se-pode-falar-de-nossa-senhora-diz-gilmar-em-meio-a-polemica-entre-stf-e-tse.ghtml",
-      "summary": "Gilmar Mendes, ministro do Supremo Tribunal Federal (STF)\nLuiz Silveira/STF\nA polêmica envolvendo a remoção de postagens sobre Nossa Senhora Aparecida chegou nesta quinta-feira (1º) de forma lateral ao plenário do Supremo Tribunal Federal (STF).\nEm meio à crise instalada há um mês, que envolve uma batalha de decisões individuais, o ministro Gilmar Mendes comentou que \"não se pode falar o nome de Nossa Senhora\".\nA declaração ocorreu durante uma troca de impressões entre os ministros Cármen Lúcia e Flávio Dino no julgamento que discute a aplicação do Estatuto da Pessoa Idosa a contratos de planos de saúde que foram fechados antes de 2004, quando a norma passou a valer.\nApós seu voto, a ministra Cármen Lúcia afirmou: \"Graças a Deus esse tema veio comigo, eu podia ter morrido antes e não teria o problema do idoso\".\nO ministro Flávio Dino respondeu: \"Não, Vossa Excelência está longe disso, eu tenho certeza\".\nA ministra, que é católica, retrucou: \"Deus e Nossa Senhora que garantam isso\".\nO ministro Flávio Dino emendou: \"Outubro é o mês da Santa\".\nNeste momento, foi possível ouvir o ministro Gilmar Mendes, ao fundo, falar: \"Não se pode falar o nome de Nossa Senhora\".\nDino está no centro de um embate entre o Supremo e o Tribunal Superior Eleitoral (TSE). \n\nNa sexta-feira (25), o ministro André Mendonça, vice-presidente do TSE, determinou a retirada de postagens que ligavam o candidato do PL à Presidência, senador Flávio Bolsonaro, e a família dele a um movimento para retirar o título de padroeira do Brasil de Nossa Senhora Aparecida.\nNo domingo, Dino atendeu a um pedido da defesa do humorista Antonio Tabet e restabeleceu as postagens sob o argumento de que a medida representava censura. \nUm dia depois, o ministro Luiz Fux atendeu a um novo pedido de Flávio Bolsonaro, desta vez no STF, e suspendeu a decisão de Dino, mantendo, portanto, a suspensão das mais de 1.000 postagens.\nO presidente do TSE, Kassio Nunes Marques, chegou a reclamar ao presidente do STF, Edson Fachin, de interferências indevidas do STF no TSE. \nDiante de mais um capítulo da crise, Nunes Marques acabou levando a decisão de Mendonça para o plenário virtual do TSE,  que determinou que a postagem do ator fosse liberada e que fossem excluídas postagens que atribuam falsamente a Flavio Bolsonaro movimento para tirar o título da santa. \nApós o julgamento no TSE, Dino considerou nesta quinta que o caso do ator já estava resolvido porque o TSE seguiu o mesmo entendimento da decisão individual dele, portanto, mantendo a postagem.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 20:35:00 -0000"
+      "score": 90,
+      "publishedRaw": "Thu, 01 Oct 2026 21:38:20 +0000"
     },
     {
       "id": "60a1b9412b99",
@@ -304,10 +189,33 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 20:28:29 -0000"
+    },
+    {
+      "id": "3b43b94af6ae",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Censura a Lula e a Nikolas está errada. Quando vamos aprender?",
+      "link": "https://www.estadao.com.br/politica/fernando-schuler/censura-a-lula-e-a-nikolas-esta-errada-quando-vamos-aprender/",
+      "summary": "",
+      "tags": [
+        "censura",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 01 Oct 2026 21:13:26 +0000"
     },
     {
       "id": "db7b8885f587",
@@ -324,29 +232,52 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 88,
       "publishedRaw": "Thu, 01 Oct 2026 12:56:45 GMT"
     },
     {
-      "id": "9933230e4071",
-      "source": "G1 - Mundo",
+      "id": "34e529040ef1",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Governo Trump destina US$ 1 milhão a projeto que contesta atuação do STF e diz combater 'censura' no Brasil, diz jornal",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/governo-trump-destina-us-1-milhao-a-projeto-que-contesta-atuacao-do-stf-e-diz-combater-censura-no-brasil-diz-jornal.ghtml",
-      "summary": "Foto de arquivo: Trump com o secretário de Estado, Marco Rubio, no Salão Oval da Casa Branca, em Washington, D.C, em 16 de julho de 2025.\nReuters/Nathan Howard\nOs Estados Unidos destinaram US$ 1 milhão (mais de R$ 5 milhões) a um projeto que financia grupos da sociedade civil contrários ao que o governo americano descreve como excesso de poder judicial e censura por parte do Supremo Tribunal Federal (STF), segundo uma reportagem publicada pelo jornal britânico \"The Guardian\" na quarta-feira (30).\nA verba faz parte de um pacote de US$ 176,9 milhões (cerca de R$ 917 milhões) em 43 concessões do Fundo de Direitos Humanos e Democracia (HRDF, na sigla em inglês) do Departamento de Estado dos EUA. Segundo o \"Guardian\", os recursos foram destinados a projetos que incluem iniciativas de direita e conservadoras em diferentes países.\nO projeto relacionado ao Brasil é chamado de \"Countering Lawfare and Censorship in Brazil\" (\"Combatendo a guerra jurídica e a censura no Brasil\", em tradução livre). \nDe acordo com um documento visto pelo jornal, a iniciativa financiaria organizações da sociedade civil que se opõem ao que o programa classifica como excesso de poder judicial e censura por parte do STF.\nO jornal britânico afirma que a iniciativa faz parte de uma mudança na forma como o governo de Donald Trump direciona recursos do fundo. A nova lista inclui projetos relacionados a temas como imigração, anticomunismo, proteção de cristãos, oposição à chamada \"ideologia de gênero\" e críticas à regulamentação.\nAgora no g1\nO pacote também inclui uma concessão de US$ 40 milhões para um consórcio liderado pela \"Victims of Communism Memorial Foundation\" (Fundação Memorial das Vítimas do Comunismo), organização sem fins lucrativos anticomunista.\nSegundo o jornal, integrantes do governo Trump defenderam pessoalmente algumas das concessões. Um assessor democrata do Congresso americano afirmou que a senadora Jeanne Shaheen havia mantido bloqueios sobre US$ 22 milhões em concessões, incluindo recursos destinados ao Brasil, à África do Sul, à Nigéria e à promoção de uma ideologia de direita no Reino Unido e na Europa.\nAinda segundo o assessor, o secretário de Estado americano, Marco Rubio, assinou pessoalmente um memorando para desconsiderar os bloqueios e liberar os recursos.\nO Departamento de Estado não comentou concessões específicas. Em resposta ao \"Guardian\", afirmou que os programas ainda estavam em \"deliberação ativa\" e que os beneficiários precisariam atender às regras para concessões federais. O departamento também disse que todos os programas passariam por um processo de verificação.",
+      "category": "Política",
+      "title": "Ministra do TSE veta que Globo mostre púlpito vazio reservado a Lula em debate",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-veta-que-globo-mostre-pulpito-vazio-reservado-a-lula-em-debate.shtml",
+      "summary": "A ministra do TSE (Tribunal Superior Eleitoral) Estela Aranha determinou que a Rede Globo não mostre o púlpito que seria destinado ao presidente Luiz Inácio Lula da Silva (PT) no debate presidencial desta quinta-feira (1°).\nLeia mais (10/01/2026 - 18h33)",
       "tags": [
-        "STF",
-        "censura"
+        "TSE",
+        "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
+      "score": 86,
+      "publishedRaw": "01 Oct 2026 18:33:00 -0300"
+    },
+    {
+      "id": "82be4015944d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: Bancada feminina pode chegar a 22 integrantes no Senado",
+      "link": "https://www.estadao.com.br/politica/eleicoes/eleicoes-2026-bancada-feminina-pode-chegar-a-22-integrantes-no-senado/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Thu, 01 Oct 2026 18:09:11 +0000"
     },
     {
       "id": "e8635735d896",
@@ -362,46 +293,31 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 20:51:21 -0000"
     },
     {
-      "id": "c844884372e8",
+      "id": "50446db66d31",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "STF tem maioria para permitir reajuste em planos de saúde fechados antes de Estatuto do Idoso",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/01/stf-tem-maioria-para-permitir-reajuste-em-planos-de-saude-fechados-antes-de-estatuto-do-idoso.ghtml",
-      "summary": "A maioria dos ministros do Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (1) que os planos de saúde podem reajustar os valores por faixa etária em contratos firmados antes da entrada em vigor do Estatuto do Idoso.  \nO julgamento foi suspenso antes da proclamação do resultado final.  A pedido do relator, ministro Dias Toffoli, a ação será enviada ao Núcleo de Solução de Controvérsias do STF junto com outra ação que trata do mesmo tema. \nOs ministros querem ouvir a Agência Nacional de Saúde Suplementar (ANS) para entender os impactos da decisão e, dessa forma, ajustar a modulação (o alcance) da decisão. \nA ação foi proposta pela Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização (CNseg). \nAgora no g1\nA organização afirmou que diversos tribunais do país aplicam trecho do Estatuto do Idoso que proíbe discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade contratos fechados antes de 30 de dezembro de 2003, quando entrou em vigor o Estatuto do Idoso. \nCom isso, proíbem o reajuste de mensalidades de planos de saúde quando os beneficiários completam 60 anos. Por outro lado, segundo a confederação, diversas decisões judiciais reconhecem que o Estatuto da Pessoa Idosa não pode ser aplicado retroativamente. \nA organização defendeu que os dispositivos fossem declarados constitucionais, mas que o STF decidisse pela não aplicação da proteção a contratos firmados antes da entrada em vigor do Estatuto do Idoso. \nVotos \nO julgamento havia começado no plenário virtual em agosto de 2025. O caso foi ao plenário físico após pedido de vista de Flávio Dino e depois foi novamente interrompido por pedido de vista do ministro Alexandre de Moraes.\nAo devolver o caso para julgamento e votar nesta quinta, Moraes seguiu a divergência aberta pelo ministro Flávio Dino e entendeu que a proteção prevista no estatuto pode ser aplicada a contratos anteriores à entrada em vigor do Estatuto. \n“O Estatuto do Idoso não protege só quem ficou idoso depois do Estatuto do Idoso ou só quem era idoso antes. Protege todos os idosos no momento da aplicação de cada uma das normas, sejam normas referentes, como aqui há planos de saúde, ou sejam as demais”, afirmou. \n“No momento em que a pessoa atingiu 60 anos, o Estatuto do Idoso a protege e o Estatuto do Idoso a protege por força de mandamento constitucional do artigo 230. Ah, mas o contrato , um plano de saúde, foi assinado antes. Sim, mas a proteção é a partir do momento em que ela constitui a proteção, a partir do momento em que ela é considerada idosa”, disse. \nO ministro Luiz Fux acompanhou integralmente o relator, Dias Toffoli, que havia votado pela possibilidade de reajuste, caso os contratos fossem firmados antes de 30 de dezembro de 2003. Cármen Lúcia e Fachin seguiram a divergência aberta por Dino. \nCom isso, apesar de pontos divergentes nos votos dos ministros, o julgamento foi suspenso com o placar de 6 votos a 4, para permitir o reajuste em planos de saúde de idosos sobre contratos firmados antes da entrada em vigor do Estatuto do Idoso, ou seja, para a maioria a proibição de reajuste não alcança esses contratos.\nVotaram nesse sentido:\nDias Toffoli;\nAndré Mendonça;\nCristiano Zanin;\nNunes Marques;\nLuiz Fux;\nGilmar Mendes (mas fez uma ressalva no sentido de aplicar a proteção prevista no Estatuto nos contratos firmados antes de sua vigência desde que tenham sido renovados após a sua entrada em vigor)\nJá para outros quatro ministros, a discriminação por faixa etária não pode ser aplicada:\nFlávio Dino (desde que as pessoas se tenham se tornado idosas depois de 1º de janeiro de 2004, ainda que se trate de contrato de plano de saúde anteriormente firmado);\nAlexandre de Moraes (seguiu Dino, mas não acatou modulação);\nCármen Lúcia (seguiu Dino integralmente);\nFachin (acompanhou Dino integralmente).\nPlano de saúde é condenado a indenizar paciente em Fernandópolis (SP)\nDivulgação / TJSP",
+      "title": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/01/nao-se-pode-falar-de-nossa-senhora-diz-gilmar-em-meio-a-polemica-entre-stf-e-tse.ghtml",
+      "summary": "Gilmar Mendes, ministro do Supremo Tribunal Federal (STF)\nLuiz Silveira/STF\nA polêmica envolvendo a remoção de postagens sobre Nossa Senhora Aparecida chegou nesta quinta-feira (1º) de forma lateral ao plenário do Supremo Tribunal Federal (STF).\nEm meio à crise instalada há um mês, que envolve uma batalha de decisões individuais, o ministro Gilmar Mendes comentou que \"não se pode falar o nome de Nossa Senhora\".\nA declaração ocorreu durante uma troca de impressões entre os ministros Cármen Lúcia e Flávio Dino no julgamento que discute a aplicação do Estatuto da Pessoa Idosa a contratos de planos de saúde que foram fechados antes de 2004, quando a norma passou a valer.\nApós seu voto, a ministra Cármen Lúcia afirmou: \"Graças a Deus esse tema veio comigo, eu podia ter morrido antes e não teria o problema do idoso\".\nO ministro Flávio Dino respondeu: \"Não, Vossa Excelência está longe disso, eu tenho certeza\".\nA ministra, que é católica, retrucou: \"Deus e Nossa Senhora que garantam isso\".\nO ministro Flávio Dino emendou: \"Outubro é o mês da Santa\".\nNeste momento, foi possível ouvir o ministro Gilmar Mendes, ao fundo, falar: \"Não se pode falar o nome de Nossa Senhora\".\nDino está no centro de um embate entre o Supremo e o Tribunal Superior Eleitoral (TSE). \n\nNa sexta-feira (25), o ministro André Mendonça, vice-presidente do TSE, determinou a retirada de postagens que ligavam o candidato do PL à Presidência, senador Flávio Bolsonaro, e a família dele a um movimento para retirar o título de padroeira do Brasil de Nossa Senhora Aparecida.\nNo domingo, Dino atendeu a um pedido da defesa do humorista Antonio Tabet e restabeleceu as postagens sob o argumento de que a medida representava censura. \nUm dia depois, o ministro Luiz Fux atendeu a um novo pedido de Flávio Bolsonaro, desta vez no STF, e suspendeu a decisão de Dino, mantendo, portanto, a suspensão das mais de 1.000 postagens.\nO presidente do TSE, Kassio Nunes Marques, chegou a reclamar ao presidente do STF, Edson Fachin, de interferências indevidas do STF no TSE. \nDiante de mais um capítulo da crise, Nunes Marques acabou levando a decisão de Mendonça para o plenário virtual do TSE,  que determinou que a postagem do ator fosse liberada e que fossem excluídas postagens que atribuam falsamente a Flavio Bolsonaro movimento para tirar o título da santa. \nApós o julgamento no TSE, Dino considerou nesta quinta que o caso do ator já estava resolvido porque o TSE seguiu o mesmo entendimento da decisão individual dele, portanto, mantendo a postagem.",
       "tags": [
-        "STF"
+        "STF",
+        "TSE"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 80,
-      "publishedRaw": "Thu, 01 Oct 2026 20:18:50 -0000"
-    },
-    {
-      "id": "83dc81b29747",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF envia para conciliação ações sobre reajuste de plano de saúde de idosos",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-envia-para-conciliacao-acoes-sobre-reajuste-de-plano-de-saude-de-idosos/",
-      "summary": "Corte ficou dividida em 5 a 5 sobre aplicação do Estatuto da Pessoa Idosa a contratos anteriores a 2004; Núcleo de Solução Consensual de Conflitos do Supremo terá 60 dias para buscar acordo",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Thu, 01 Oct 2026 20:36:57 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 20:35:00 -0000"
     },
     {
       "id": "d098b8ef9a97",
@@ -417,10 +333,107 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 17:15:34 +0000"
+    },
+    {
+      "id": "49f65e0c6508",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo Lula pede investigação sobre verba dos EUA à “extrema-direita”",
+      "link": "https://www.poder360.com.br/poder-governo/agu-pede-investigacao-sobre-verba-dos-eua-a-extrema-direita/",
+      "summary": "Notícia-crime cita reportagem do \"The Guardian\", que relata US$ 1 milhão destinado a programa voltado ao questionamento do STF",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Thu, 01 Oct 2026 17:15:34 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 20:47:32 +0000"
+    },
+    {
+      "id": "9933230e4071",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Governo Trump destina US$ 1 milhão a projeto que contesta atuação do STF e diz combater 'censura' no Brasil, diz jornal",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/governo-trump-destina-us-1-milhao-a-projeto-que-contesta-atuacao-do-stf-e-diz-combater-censura-no-brasil-diz-jornal.ghtml",
+      "summary": "Foto de arquivo: Trump com o secretário de Estado, Marco Rubio, no Salão Oval da Casa Branca, em Washington, D.C, em 16 de julho de 2025.\nReuters/Nathan Howard\nOs Estados Unidos destinaram US$ 1 milhão (mais de R$ 5 milhões) a um projeto que financia grupos da sociedade civil contrários ao que o governo americano descreve como excesso de poder judicial e censura por parte do Supremo Tribunal Federal (STF), segundo uma reportagem publicada pelo jornal britânico \"The Guardian\" na quarta-feira (30).\nA verba faz parte de um pacote de US$ 176,9 milhões (cerca de R$ 917 milhões) em 43 concessões do Fundo de Direitos Humanos e Democracia (HRDF, na sigla em inglês) do Departamento de Estado dos EUA. Segundo o \"Guardian\", os recursos foram destinados a projetos que incluem iniciativas de direita e conservadoras em diferentes países.\nO projeto relacionado ao Brasil é chamado de \"Countering Lawfare and Censorship in Brazil\" (\"Combatendo a guerra jurídica e a censura no Brasil\", em tradução livre). \nDe acordo com um documento visto pelo jornal, a iniciativa financiaria organizações da sociedade civil que se opõem ao que o programa classifica como excesso de poder judicial e censura por parte do STF.\nO jornal britânico afirma que a iniciativa faz parte de uma mudança na forma como o governo de Donald Trump direciona recursos do fundo. A nova lista inclui projetos relacionados a temas como imigração, anticomunismo, proteção de cristãos, oposição à chamada \"ideologia de gênero\" e críticas à regulamentação.\nAgora no g1\nO pacote também inclui uma concessão de US$ 40 milhões para um consórcio liderado pela \"Victims of Communism Memorial Foundation\" (Fundação Memorial das Vítimas do Comunismo), organização sem fins lucrativos anticomunista.\nSegundo o jornal, integrantes do governo Trump defenderam pessoalmente algumas das concessões. Um assessor democrata do Congresso americano afirmou que a senadora Jeanne Shaheen havia mantido bloqueios sobre US$ 22 milhões em concessões, incluindo recursos destinados ao Brasil, à África do Sul, à Nigéria e à promoção de uma ideologia de direita no Reino Unido e na Europa.\nAinda segundo o assessor, o secretário de Estado americano, Marco Rubio, assinou pessoalmente um memorando para desconsiderar os bloqueios e liberar os recursos.\nO Departamento de Estado não comentou concessões específicas. Em resposta ao \"Guardian\", afirmou que os programas ainda estavam em \"deliberação ativa\" e que os beneficiários precisariam atender às regras para concessões federais. O departamento também disse que todos os programas passariam por um processo de verificação.",
+      "tags": [
+        "STF",
+        "censura"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
+    },
+    {
+      "id": "18ce3b470ab6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump diz acompanhar ‘muito de perto’ as eleições no Brasil",
+      "link": "https://www.estadao.com.br/politica/eleicoes/trump-diz-acompanhar-muito-de-perto-as-eleicoes-no-brasil-npr/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 01 Oct 2026 17:49:59 +0000"
+    },
+    {
+      "id": "f1fe7e2d1de5",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dólar sobe e fecha a R$ 5,22 com alta do petróleo e reta final para as eleições; Ibovespa avança",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair\nO dólar fechou em alta de 0,89% nesta quinta-feira (1º), cotado a R$ 5,2202. Já o Ibovespa, principal índice da bolsa brasileira, avançou 0,46%, aos 187.197 pontos, impulsionado pela alta nas ações da Petrobras.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ As tensões no Oriente Médio voltaram a pressionar o mercado de energia, após novos ataques no Estreito de Ormuz. Três petroleiros foram atingidos por projéteis enquanto transitavam pelo canal, o que voltou a levantar preocupações com o conflito na região. Ontem, o Irã também afirmou que se a República Islâmica continuar com suas exportações bloqueadas, nenhum outro país da região será capaz de exportar petróleo.\n🔎 Em meio à nova escalada das tensões, os preços do petróleo voltaram a subir. Perto das 17h, o barril tipo Brent, referência internacional, avançava 4,55%, a US$ 102,58. Já o West Texas Intermediate (WTI), referência nos Estados Unidos, subia 2,81%, a US$ 93,23 o barril. \n▶️ Investidores também seguem atentos aos sinais sobre o futuro dos juros nos EUA. Na véspera, o PCE, indicador que mede a inflação a partir dos gastos dos consumidores americanos e a medida preferida do Federal Reserve (Fed, o banco central dos EUA) na condução dos juros, ficou em 3,4% em agosto na comparação com um ano antes, abaixo das previsões do mercado (3,7%). No mês, a alta foi de 0,3%, também abaixo da estimativa de 0,4%.\n🔎 O dado foi bem recebido pelo mercado e reduziu as preocupações de que o BC americano subisse os juros já em outubro. A política de juros nos EUA tem reflexos no Brasil. Com as taxas em nível historicamente elevado, cresce a pressão para que a Selic, taxa básica de juros brasileira, permaneça em patamar alto por mais tempo, além de gerar efeitos sobre o câmbio. \n▶️ As atenções também seguem voltadas ao cenário político, em meio à proximidade das eleições. Nesta quinta-feira, o Datafolha deve divulgar, no início da noite, uma nova rodada de pesquisas com os números da corrida presidencial. O levantamento foi contratado pela Globo e pelo jornal Folha de S.Paulo e é o último antes do debate presidencial da Globo, previsto para as 21h20 desta quinta.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,76%;\nAcumulado do mês: +0,89%;\nAcumulado do ano: -4,89%.\n📈Ibovespa\n\nAcumulado da semana: +0,32%;\nAcumulado da semana: +2,03%\nAcumulado do mês: +0,46%;\nAcumulado do ano: +16,18%.\nNovas tensões no Oriente Médio\nO ataque a navios petroleiros que trafegavem pelo Estreito de Ormuz voltou a elevar os preços do petróleo nesta quinta-feira. As embarcações foram atingidas por projéteis de origem desconhecida. As informações são do serviço de inteligência marítima Marisks.\nA ofensiva acontece apenas dois dias depois de o presidente do Parlamento iraniano, Mohammad Baqer Qalibaf, afirmar que nenhum país da região será capaz de exportar petróleo se a República Islâmica for impedida de vender sua commodity. \nNa véspera, o Irã informou que recebeu uma resposta dos EUA à sua mais recente proposta para restabelecer o cessar-fogo no Golfo Pérsico, dias depois de o presidente americano, Doanld Trump, ter afirmado que havia rejeitado.\nSegundo o Irã, seu plano visava restaurar um acordo provisório que fracassou semanas após ter sido assinado por Trump e pelo presidente iraniano Masoud Pezeshkian, em junho. A proposta também incluia a suspensão do bloqueio aos portos iranianos por parte de Washington e a reabertura do Estreito de Ormuz em sete dias pelo Irã.\nNa semana passada, mediadores do Catar transitaram entre os enviados dos EUA e do Irã em Nova York, à margem de uma reunião das Nações Unidas -- as primeiras negociações indiretas entre as partes em conflito desde que o cessar-fogo foi rompido.\nUma autoridade a par das negociações afirmou à Reuters que as partes concordam amplamente sobre as medidas necessárias, mas ainda discordam sobre a ordem em que devem ser tomadas.\nO Irã quer que um eventual acordo lhe conceda o controle sobre o Estreito de Ormuz, a rota de transporte de petróleo mais importante do mundo, que passa ao largo de sua costa.\nO tráfego marítimo pelo estreito aumentou nas últimas semanas, com as transportadoras cobrando taxas elevadas para enfrentar o risco de ataques. No entanto, os fluxos de petróleo bruto, produtos refinados e gás natural continuam substancialmente interrompidos. \nNesta quinta-feira, o presidente iraniano, Masoud Pezeshkian, afirmou que o Irã \"nunca se esquivará\" do diálogo com os EUA.\n“Nunca nos esquivamos das negociações, e nunca o faremos, embora os Estados Unidos tenham atacado nosso país três vezes, apesar de terem assinado um acordo”, afirmou ele, segundo a agência de notícias semioficial Tasnim.\nBolsas globais\nEm Wall Street, os principais índices americanos fecharam em alta nesta quinta-feira. O Dow Jones avançou 0,04%, o S&amp;P 500 subiu 0,25% e o Nasdaq Composite teve ganho de 0,04%. \nNa Europa, a maioria dos índices locais fechou em queda, conforme investidores avaliavam a nova escalada das tensões no Oriente Médio e repercutiam novos indicadores da região. O índice pan-europeu STOXX 600 recuou 1,3%, na maior baixa diária em três semanas.\nEntre os demais índices da região, o DAX, da Alemanha, recuou 1,03%, enquanto o CAC-40, da França, perdeu 1,62% e o FTSE 100, do Reino Unido, caiu 1,68%.\nNa Ásia, a bolsa japonesa registrou, nesta quinta-feira, seu maior fechamento em mais de seis semanas, depois que resultados sólidos da Micron Technology alimentaram o otimismo em relação aos investimentos ligados à inteligência artificial. O índice Nikkei, do Japão, subiu 3,3%, aos 68.956,72 pontos, no maior nível desde 17 de agosto. \nEntre os demais índices da região, o Kospi, da Coreia do Sul, valorizou 1,95%. Já o Hang Seng, de Hong Kong, o SSEC, Índice de Xangai, e o CSI 300, que reúne as maiores companhias listadas em Xangai e Shenzhen, permaneceram fechados.\nNotas de real e dólar\nAmanda Perobelli/ Reuters\n* Com informações da agência de notícias Reuters.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 01 Oct 2026 12:00:12 -0000"
+    },
+    {
+      "id": "dc3114c31886",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump diz que está acompanhando 'muito de perto' as eleições do Brasil",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/trump-diz-que-esta-acompanhando-de-perto-eleicoes-do-brasil.ghtml",
+      "summary": "Trump fala com a imprensa na Casa Branca antes de embarcar\nEvan Vucci/Reuters\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (1º) que está acompanhando \"muito de perto\" as eleições no Brasil. Ele disse ainda que o pleito brasileiro é \"muito importante\". \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\"O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante\", declarou o presidente a repórteres na Casa Branca. \nTrump não mencionou se está apoiando algum candidato no pleito brasileiro, rompendo com a postura que tem adotado em eleições na América Latina. No exemplo mais recente, no pleito da Colômbia, o norte-americano manifestou abertamente apoio ao agora presidente do país, Abelardo de la Espriella.\nTrump diz que eleição brasileira é muito importante\nNa semana passada, congressistas norte-americanos acusaram o governo de Donald Trump de tentar interferir nas eleições brasileiras, em uma carta enviada ao secretário de Estado dos EUA, Marco Rubio.  Esta semana, senadores cobraram da gestão Trump, também por meio de uma carta a Rubio, garantias de que Washington aceitará o resultado do pleito.\nNo novo documento, os senadores expressaram \"preocupação com ações do governo (dos EUA) que ameaçam nossa aliança estratégica com o Brasil\" e voltaram a apontar uma suposta tentativa de interferência por parte de Washington.\n\"Ao longo do segundo mandato do Presidente Trump, observamos autoridades dos EUA envolvidas em uma campanha de interferência e desestabilização no Brasil\", diz o documento.\nNa carta, eles apresentam, como indícios:\nA nomeação de Darren Beattie, político de extrema direita e forte crítico do governo de Luiz Inácio Lula da Silva, como assessor sênior para questões relacionadas ao Brasil no Departamento de Estado dos EUA;\nA aplicação de novas tarifas extras após uma investigação, segundo relatos, \"iniciada por determinação do presidente Trump\".\n👉 Em agosto, o Departamento do Estado dos EUA afirmou ao g1 que respeitará \"qualquer governo\" que for eleito em outubro no Brasil. O departamento também negou ter um plano para impedir uma reeleição do presidente Lula.\nAinda assim, o governo brasileiro construiu uma \"barreira\" para tentar blindar qualquer tentativa de interferência por parte do governo Trump, de acordo com uma reportagem do jornal norte-americano \"The New York Times\" com base em fontes de Brasília.\nComo exemplo, o Brasil tem buscado apoio de países na Europa e Ásia e monitorado lobbies estrangeiros dentro do país, além de tentar combater informações falsas sobre fraude eleitoral.\nAbin informou europeus de interferência, diz agência \nFlávio Bolsonaro, Donald Trump e Lula\nMontagem - Arte/g1\nUma reportagem da agência de notícias Reuters afirmou que a Agência Brasileira de Inteligência (Abin) informou à União Europeia que Estados Unidos e Rússia tentaram interferir no pleito brasileiro. \nCom base também em fontes e documentos da UE, a Reuters afirmou que o alerta foi feito pela Abin a delegações da Alemanha e da França que visitaram em setembro a capital brasileira. Na ocasião, afirmou a agência, autoridades da Abin “confirmaram a existência de interferência tanto dos Estados Unidos quanto da Rússia\".\nPor parte do governo norte-americano, a suposta interferência veio por meio de \"ações judiciais até interferência abertamente reconhecida\", segundo um relatório da UE sobre a reunião ao que a Reuters teve acesso. O documento não detalhou a suposta interferência do governo da Rússia.\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 01 Oct 2026 16:43:58 -0000"
     },
     {
       "id": "f18f10b29a73",
@@ -436,10 +449,49 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 76,
+      "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 19:47:55 GMT"
+    },
+    {
+      "id": "14943241245e",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'",
+      "link": "https://www.bbc.com/portuguese/articles/cwm2q2yd1jp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "'O Brasil é um país muito importante. É um ótimo país. As pessoas do Brasil são fantásticas. É uma eleição muito importante', disse o presidente americano.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 01 Oct 2026 19:00:55 GMT"
+    },
+    {
+      "id": "101df2cb01d4",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
     },
     {
       "id": "3fee83207f3d",
@@ -455,9 +507,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 76,
+      "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
     },
     {
@@ -474,10 +527,46 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+    },
+    {
+      "id": "c844884372e8",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF tem maioria para permitir reajuste em planos de saúde fechados antes de Estatuto do Idoso",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/01/stf-tem-maioria-para-permitir-reajuste-em-planos-de-saude-fechados-antes-de-estatuto-do-idoso.ghtml",
+      "summary": "A maioria dos ministros do Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (1) que os planos de saúde podem reajustar os valores por faixa etária em contratos firmados antes da entrada em vigor do Estatuto do Idoso.  \nO julgamento foi suspenso antes da proclamação do resultado final.  A pedido do relator, ministro Dias Toffoli, a ação será enviada ao Núcleo de Solução de Controvérsias do STF junto com outra ação que trata do mesmo tema. \nOs ministros querem ouvir a Agência Nacional de Saúde Suplementar (ANS) para entender os impactos da decisão e, dessa forma, ajustar a modulação (o alcance) da decisão. \nA ação foi proposta pela Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização (CNseg). \nAgora no g1\nA organização afirmou que diversos tribunais do país aplicam trecho do Estatuto do Idoso que proíbe discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade contratos fechados antes de 30 de dezembro de 2003, quando entrou em vigor o Estatuto do Idoso. \nCom isso, proíbem o reajuste de mensalidades de planos de saúde quando os beneficiários completam 60 anos. Por outro lado, segundo a confederação, diversas decisões judiciais reconhecem que o Estatuto da Pessoa Idosa não pode ser aplicado retroativamente. \nA organização defendeu que os dispositivos fossem declarados constitucionais, mas que o STF decidisse pela não aplicação da proteção a contratos firmados antes da entrada em vigor do Estatuto do Idoso. \nVotos \nO julgamento havia começado no plenário virtual em agosto de 2025. O caso foi ao plenário físico após pedido de vista de Flávio Dino e depois foi novamente interrompido por pedido de vista do ministro Alexandre de Moraes.\nAo devolver o caso para julgamento e votar nesta quinta, Moraes seguiu a divergência aberta pelo ministro Flávio Dino e entendeu que a proteção prevista no estatuto pode ser aplicada a contratos anteriores à entrada em vigor do Estatuto. \n“O Estatuto do Idoso não protege só quem ficou idoso depois do Estatuto do Idoso ou só quem era idoso antes. Protege todos os idosos no momento da aplicação de cada uma das normas, sejam normas referentes, como aqui há planos de saúde, ou sejam as demais”, afirmou. \n“No momento em que a pessoa atingiu 60 anos, o Estatuto do Idoso a protege e o Estatuto do Idoso a protege por força de mandamento constitucional do artigo 230. Ah, mas o contrato , um plano de saúde, foi assinado antes. Sim, mas a proteção é a partir do momento em que ela constitui a proteção, a partir do momento em que ela é considerada idosa”, disse. \nO ministro Luiz Fux acompanhou integralmente o relator, Dias Toffoli, que havia votado pela possibilidade de reajuste, caso os contratos fossem firmados antes de 30 de dezembro de 2003. Cármen Lúcia e Fachin seguiram a divergência aberta por Dino. \nCom isso, apesar de pontos divergentes nos votos dos ministros, o julgamento foi suspenso com o placar de 6 votos a 4, para permitir o reajuste em planos de saúde de idosos sobre contratos firmados antes da entrada em vigor do Estatuto do Idoso, ou seja, para a maioria a proibição de reajuste não alcança esses contratos.\nVotaram nesse sentido:\nDias Toffoli;\nAndré Mendonça;\nCristiano Zanin;\nNunes Marques;\nLuiz Fux;\nGilmar Mendes (mas fez uma ressalva no sentido de aplicar a proteção prevista no Estatuto nos contratos firmados antes de sua vigência desde que tenham sido renovados após a sua entrada em vigor)\nJá para outros quatro ministros, a discriminação por faixa etária não pode ser aplicada:\nFlávio Dino (desde que as pessoas se tenham se tornado idosas depois de 1º de janeiro de 2004, ainda que se trate de contrato de plano de saúde anteriormente firmado);\nAlexandre de Moraes (seguiu Dino, mas não acatou modulação);\nCármen Lúcia (seguiu Dino integralmente);\nFachin (acompanhou Dino integralmente).\nPlano de saúde é condenado a indenizar paciente em Fernandópolis (SP)\nDivulgação / TJSP",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Mundo"
+      ],
+      "score": 75,
+      "publishedRaw": "Thu, 01 Oct 2026 20:18:50 -0000"
+    },
+    {
+      "id": "8cb5a5bbf5a1",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que o TSE decidiu sobre os posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+      "summary": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Em recuo, o ministro André Mendonça passou a apoiar a liberação de um post do humorista Antonio Tabet.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 76,
-      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+      "score": 68,
+      "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
     },
     {
       "id": "37a3d3772a86",
@@ -510,23 +599,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 15:00:00 +0000"
     },
     {
-      "id": "8cb5a5bbf5a1",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que o TSE decidiu sobre os posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-      "summary": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Em recuo, o ministro André Mendonça passou a apoiar a liberação de um post do humorista Antonio Tabet.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 63,
-      "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
-    },
-    {
       "id": "17c4b058279f",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -540,6 +612,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 01 Oct 2026 19:31:08 -0000"
+    },
+    {
+      "id": "ef7e10ce4878",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar Mendes deve determinar que TV Globo inclua Renan Santos no debate",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/gilmar-mendes-deve-autorizar-que-tv-globo-inclua-renan-santos-no-debate.shtml",
+      "summary": "O ministro do STF (Supremo Tribunal Federal) Gilmar Mendes deve decidir que o candidato a presidente Renan Santos tem o direito de participar do debate que a TV Globo promove nesta quinta (1).\nLeia mais (10/01/2026 - 18h21)",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "01 Oct 2026 18:21:00 -0300"
     },
     {
       "id": "84b2ae4914f2",
