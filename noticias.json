@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:46:02.014605+00:00",
+  "generated_at": "2026-10-01T12:22:41.376778+00:00",
   "items": [
     {
       "id": "30ff4055cd40",
@@ -20,6 +20,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -44,6 +45,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -73,6 +75,27 @@
       "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
     },
     {
+      "id": "1950b92fd634",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+    },
+    {
       "id": "e53d7a2ea613",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -87,10 +110,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 91,
+      "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 09:14:35 -0000"
     },
     {
@@ -108,10 +130,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 91,
+      "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 06:00:00 -0000"
     },
     {
@@ -129,10 +150,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 91,
+      "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:01 -0000"
     },
     {
@@ -150,10 +170,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 91,
+      "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:00 -0000"
     },
     {
@@ -171,10 +190,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "Folha de São Paulo"
       ],
-      "score": 91,
+      "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 00:41:30 -0000"
     },
     {
@@ -192,93 +210,10 @@
       "crossOutlets": [
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
-    },
-    {
-      "id": "28e91dfdb884",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Justiça proíbe coordenador da Secom de Lula de fazer posts sobre eleições nas redes sociais",
-      "link": "https://www.estadao.com.br/politica/eleicoes/justica-proibe-coordenador-da-secom-de-lula-de-fazer-posts-sobre-eleicoes-nas-redes-sociais/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 22:24:56 +0000"
-    },
-    {
-      "id": "cc7650fc5194",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao menos 20 capitais terão passe livre no transporte no domingo de eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/ao-menos-20-capitais-terao-passe-livre-no-transporte-no-domingo-de-eleicoes.shtml",
-      "summary": "Eleitores de pelo menos 20 capitais poderão usar o transporte coletivo sem pagar tarifa no domingo (4), quando ocorre o primeiro turno das eleições gerais.\nLeia mais (10/01/2026 - 06h00)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "01 Oct 2026 06:00:00 -0300"
-    },
-    {
-      "id": "48aa7ab50e91",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições passam a ter restrição maior a conteúdo de IA; entenda",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-passam-a-ter-restricao-maior-a-conteudo-de-ia-entenda/",
-      "summary": "O TSE estabeleceu que conteúdos criados por IA devem sempre ter avisos sobre a produção do material",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 87,
-      "publishedRaw": "Thu, 01 Oct 2026 09:50:58 +0000"
-    },
-    {
-      "id": "101df2cb01d4",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
-      "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
       "score": 86,
-      "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
+      "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
     },
     {
       "id": "f0380123955a",
@@ -341,86 +276,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 11:16:35 +0000"
     },
     {
-      "id": "65ef792b1b22",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: veja como está a corrida entre Lula e Flávio nas regiões",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-veja-como-esta-a-corrida-entre-lula-e-flavio-nas-regioes/",
-      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre os dias 26 e 30 de setembro; margem de erro é de dois pontos percentuais, com nível de confiança de 95%",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 10:07:44 +0000"
-    },
-    {
-      "id": "47c3910396f6",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time: Lula e Flávio empatam com 49% de rejeição",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-lula-e-flavio-empatam-com-49-de-rejeicao/",
-      "summary": "Foram entrevistados 2.000 eleitores, entre os dias 26 e 30 de setembro; margem de erro é de 2 pontos percentuais para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 10:05:08 +0000"
-    },
-    {
-      "id": "385d5797344b",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: trabalho de Lula é desaprovado por 52%; 46% aprovam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-trabalho-de-lula-e-desaprovado-por-52-46-aprovam/",
-      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre 26 e 30 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 10:04:16 +0000"
-    },
-    {
-      "id": "b08b39a31324",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Real Time Big Data: Lula tem 43% no 1º turno; Flávio, 39%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-43-no-1o-turno-flavio-39/",
-      "summary": "Foram ouvidas 2.000 pessoas entre os dias 26 e 30 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 10:03:17 +0000"
-    },
-    {
       "id": "e6e043fa4f48",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -461,24 +316,24 @@
       "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
     },
     {
-      "id": "1950b92fd634",
-      "source": "BBC Brasil",
+      "id": "12ee7fb9f1c6",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como nasceu e para que serve o TSE, o tribunal eleitoral presidido por Kassio Nunes Marques e agora no centro da briga entre ministros do STF",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kg5m721xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Criação da Justiça Eleitoral, em 1932, é vista como um marco fundamental da democracia brasileira e corrigiu vícios das eleições da República Velha.",
+      "category": "Política",
+      "title": "Ao vivo: Lula assina concessão do Centro de Treinamento Rei Pelé",
+      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-assina-concessao-do-centro-de-treinamento-rei-pele/",
+      "summary": "Presidente participa nesta 5ª feira (1º.out) de cerimônia no Planalto",
       "tags": [
-        "STF",
-        "TSE"
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
+      "publishedRaw": "Thu, 01 Oct 2026 12:00:42 +0000"
     },
     {
       "id": "09e878142d42",
@@ -501,6 +356,44 @@
       "publishedRaw": "Thu, 01 Oct 2026 10:52:05 +0000"
     },
     {
+      "id": "9933230e4071",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Governo Trump destina US$ 1 milhão a projeto que contesta atuação do STF e diz combater 'censura' no Brasil, diz jornal",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/governo-trump-destina-us-1-milhao-a-projeto-que-contesta-atuacao-do-stf-e-diz-combater-censura-no-brasil-diz-jornal.ghtml",
+      "summary": "Foto de arquivo: Trump com o secretário de Estado, Marco Rubio, no Salão Oval da Casa Branca, em Washington, D.C, em 16 de julho de 2025.\nReuters/Nathan Howard\nOs Estados Unidos destinaram US$ 1 milhão a um projeto que financia grupos da sociedade civil contrários ao que o governo americano descreve como excesso de poder judicial e censura por parte do Supremo Tribunal Federal (STF), segundo uma reportagem publicada pelo jornal britânico \"The Guardian\".\nA verba faz parte de um pacote de US$ 176,9 milhões (cerca de R$ 917 milhões) em 43 concessões do Fundo de Direitos Humanos e Democracia (HRDF, na sigla em inglês) do Departamento de Estado dos EUA. Segundo o \"Guardian\", os recursos foram destinados a projetos que incluem iniciativas de direita e conservadoras em diferentes países.\nO projeto relacionado ao Brasil é chamado de “Countering Lawfare and Censorship in Brazil” (“Combatendo a guerra jurídica e a censura no Brasil”, em tradução livre). De acordo com um documento visto pelo jornal, a iniciativa financiaria organizações da sociedade civil que se opõem ao que o programa classifica como excesso de poder judicial e censura por parte do STF.\nO jornal britânico afirma que a iniciativa faz parte de uma mudança na forma como o governo de Donald Trump direciona recursos do fundo. A nova lista inclui projetos relacionados a temas como imigração, anticomunismo, proteção de cristãos, oposição à chamada “ideologia de gênero” e críticas à regulamentação.\nAgora no g1\nO pacote também inclui uma concessão de US$ 40 milhões para um consórcio liderado pela \"Victims of Communism Memorial Foundation\", organização sem fins lucrativos anticomunista.\nSegundo o jornal, integrantes do governo Trump defenderam pessoalmente algumas das concessões. Um assessor democrata do Congresso americano afirmou que a senadora Jeanne Shaheen havia mantido bloqueios sobre US$ 22 milhões em concessões, incluindo recursos destinados ao Brasil, à África do Sul, à Nigéria e à promoção de uma ideologia de direita no Reino Unido e na Europa.\nAinda segundo o assessor, o secretário de Estado americano, Marco Rubio, assinou pessoalmente um memorando para desconsiderar os bloqueios e liberar os recursos.\nO Departamento de Estado não comentou concessões específicas. Em resposta ao \"Guardian\", afirmou que os programas ainda estavam em “deliberação ativa” e que os beneficiários precisariam atender às regras para concessões federais. O departamento também disse que todos os programas passariam por um processo de verificação.",
+      "tags": [
+        "STF",
+        "censura"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
+    },
+    {
+      "id": "cc7650fc5194",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao menos 20 capitais terão passe livre no transporte no domingo de eleições",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/ao-menos-20-capitais-terao-passe-livre-no-transporte-no-domingo-de-eleicoes.shtml",
+      "summary": "Eleitores de pelo menos 20 capitais poderão usar o transporte coletivo sem pagar tarifa no domingo (4), quando ocorre o primeiro turno das eleições gerais.\nLeia mais (10/01/2026 - 06h00)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "01 Oct 2026 06:00:00 -0300"
+    },
+    {
       "id": "3fee83207f3d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -519,6 +412,25 @@
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
+    },
+    {
+      "id": "101df2cb01d4",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Da pergunta sobre Deus a FHC à cadeirada de Datena: 5 debates que marcaram as eleições brasileiras",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9ekkzdl89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analista político elenca episódios de 1985, 1989, 2022 e 2024 que ajudam a entender como os programas passaram da TV para a lógica dos memes e dos cortes.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
     },
     {
       "id": "f0bc9ce6e993",
@@ -541,6 +453,43 @@
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
     },
     {
+      "id": "7f127e30b8f4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
+    },
+    {
+      "id": "a925f2666a4d",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nossa Senhora: Mendonça mudou de voto após conversas com Nunes Marques e ministros do TSE",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/01/nossa-senhora-mendonca-mudou-de-voto-apos-conversas-com-nunes-marques-e-ministros-do-tse.ghtml",
+      "summary": "A decisão do Tribunal Superior Eleitoral (TSE) sobre o caso Nossa Senhora aconteceu depois de muitas conversas entre ministros e de um acordo que deu sinais em várias direções. \nO ministro André Mendonça, relator do caso, conversou com o presidente do TSE, ministro Kassio Nunes Marques, e com vários ministros da Corte e foi só a partir daí que ele decidiu mudar o voto.\nPrimeiro, o ministro tinha votado a favor da retirada de mais de mil postagens que ele entendia que associavam o candidato Flávio Bolsonaro (PL) à informação inverídica envolvendo nossa Senhora Aparecida, inclusive o post do humorista Antonio Tabet. \nDepois, ele liberou o post de Tabet, reformulando seu voto e deixando mais claro o argumento da liberdade de expressão.\nMendonça permite post de Tabet em decisão do TSE sobre postagens de N. Sra. Aparecida\nIsso só aconteceu depois de muitas conversas internas. Ministros alertaram o relator que não mudar de voto implicaria passar mensagem duvidosa sobre liberdade de expressão, e tirar um post de um humorista que não cita o candidato deixaria isso muito claro. \nAlém disso, estava claro internamente que, se ele mudasse, seria uma solução doméstica pra crise, enfraquecendo a atuação do STF posteriormente.\nO ministro do STF e futuro vice-presidente do TSE, André Mendonça\nAlejandro Zambrana/Secom/TSE\nEssa atuação do STF foi feita até agora por dois ministros: Flavio Dino, que derrubou a primeira decisão monocrática de Mendonça; e Luiz Fux, que retomou a decisão de Mendonça. \nOs dois pediram pro caso ir ao plenário, o que sinalizava que era o STF a dar a palavra final. O presidente do TSE, Nunes Marques, reclamou ao presidente do STF, Edson Fachin, que havia uma sobreposição do Supremo sobre a atuação da Justiça Eleitoral.\nComo o blog revelou, ao receber essa reclamação, Fachin pediu a Nunes que resolvesse essa questão primeiro no TSE para minimizar as chances de essa nova crise depender de desfecho do STF – que já tem a crise do Master para lidar. \nFoi assim que Nunes Marques decidiu marcar a decisão para o plenário virtual do TSE. E após esse acordo institucional, depois houve um novo acordo sobre o voto do ministro Mendonça, que topou mudar.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 12:01:05 -0000"
+    },
+    {
       "id": "c1ab97e111d7",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -553,11 +502,30 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 77,
       "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
+    },
+    {
+      "id": "a33b19121615",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda o que o TSE decidiu sobre a fake news de Nossa Senhora Aparecida",
+      "link": "https://www.cnnbrasil.com.br/politica/entenda-o-que-o-tse-decidiu-sobre-a-fake-news-de-nossa-senhora-aparecida/",
+      "summary": "Após divergências e reajustes de voto, publicação do humorista Antonio Tabet foi liberada, mas posts que associam Flávio à intenção de retirar o título de padroeira da santa estão proibidos",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 11:35:26 +0000"
     },
     {
       "id": "4ccb56217703",
@@ -572,8 +540,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 77,
       "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
@@ -591,30 +559,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
-    },
-    {
-      "id": "dc8d241cf8d0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após decisão do TSE, Tabet publica post sobre Nossa Senhora pela 3ª vez",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/apos-decisao-do-tse-tabet-publica-post-sobre-nossa-senhora-pela-3a-vez/",
-      "summary": "Humorista afirma que, “se Deus e a democracia quiserem”, publicação que cita \"família miliciana\" não sai mais do ar",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "G1 - Política"
       ],
       "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 10:12:10 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
     },
     {
       "id": "dc48afe90a15",
@@ -635,23 +584,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
     },
     {
-      "id": "7f127e30b8f4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
-    },
-    {
       "id": "8cb5a5bbf5a1",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -663,9 +595,9 @@
         "TSE"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 72,
       "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
