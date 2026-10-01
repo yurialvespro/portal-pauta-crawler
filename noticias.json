@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:46:57.586929+00:00",
+  "generated_at": "2026-10-01T08:19:36.394089+00:00",
   "items": [
     {
       "id": "0f81bf335621",
@@ -21,7 +21,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "Poder360"
       ],
       "score": 96,
@@ -46,12 +45,34 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 96,
       "publishedRaw": "Thu, 01 Oct 2026 02:42:43 +0000"
+    },
+    {
+      "id": "07f0a6822692",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Podcast analisa o que guia o voto em Lula e Flávio Bolsonaro por rejeição ou medo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-o-que-guia-o-voto-em-lula-e-flavio-bolsonaro-por-rejeicao-ou-medo.shtml",
+      "summary": "Às vésperas do primeiro turno, Lula (PT) e Flávio Bolsonaro (PL) aumentaram apelos por um voto útil. O presidente dedicou medidas e discursos para atrair o eleitor independente. \"Não precisa 'fazer o L'\", disse. O senador também tem buscado convencer eleitores de candidatos da direita a mudar de posição. \"Não precisa gostar de mim\", afirmou.\nLeia mais (10/01/2026 - 05h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "01 Oct 2026 05:00:00 -0300"
     },
     {
       "id": "2955bc096a65",
@@ -70,7 +91,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -94,7 +114,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -139,7 +158,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 90,
@@ -162,7 +180,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 90,
@@ -184,7 +201,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -226,8 +242,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 06:00:00 -0000"
@@ -246,8 +262,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:01 -0000"
@@ -266,8 +282,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 03:00:00 -0000"
@@ -286,8 +302,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 86,
       "publishedRaw": "Thu, 01 Oct 2026 00:41:30 -0000"
@@ -306,8 +322,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
       "score": 86,
       "publishedRaw": "Wed, 30 Sep 2026 23:16:32 -0000"
@@ -326,7 +342,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 86,
@@ -345,8 +361,8 @@
         "eleições 2026"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 86,
@@ -367,7 +383,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -389,7 +404,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -435,35 +449,13 @@
       "publishedRaw": "Wed, 30 Sep 2026 21:00:00 +0000"
     },
     {
-      "id": "7969f4b524da",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
-    },
-    {
-      "id": "b5c1c7e7bc6d",
-      "source": "CNN Brasil",
+      "id": "5c8c9db6726c",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Abstenção é desafio para pesquisas nas eleições de 2026, diz CEO da Nexus",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/abstencao-e-desafio-para-pesquisas-nas-eleicoes-de-2026-diz-ceo-da-nexus/",
-      "summary": "Ao O Grande Debate Eleições, Marcelo Tokarski avalia erros de levantamentos e aponta limites de diferentes metodologias adotadas pelos institutos",
+      "title": "São Paulo tem previsão de chuva até domingo (4), o primeiro turno das eleições",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-tem-previsao-de-chuva-ate-domingo-4-o-primeiro-turno-das-eleicoes.shtml",
+      "summary": "O primeiro turno das eleições de 2026, no próximo domingo (4), deve transcorrer com muita chuva em grande parte do país, atrapalhando os eleitores no deslocamento até as zonas de votação.\nLeia mais (10/01/2026 - 05h00)",
       "tags": [
         "eleições"
       ],
@@ -473,7 +465,7 @@
         "G1 - Política"
       ],
       "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 06:35:12 +0000"
+      "publishedRaw": "01 Oct 2026 05:00:00 -0300"
     },
     {
       "id": "3fee83207f3d",
@@ -490,7 +482,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -512,7 +503,6 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
@@ -531,8 +521,8 @@
         "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 81,
