@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:45:22.246842+00:00",
+  "generated_at": "2026-10-01T02:16:45.971848+00:00",
   "items": [
     {
       "id": "0f81bf335621",
@@ -28,37 +28,60 @@
       "publishedRaw": "Wed, 30 Sep 2026 23:19:33 -0000"
     },
     {
-      "id": "6f14c194fa93",
+      "id": "f830f9adb7cf",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro pede suspeição de Dino em casos sobre eleições, Lula e o próprio senador",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-pede-suspeicao-de-dino-em-casos-sobre-eleicoes-lula-e-o-proprio-senador.shtml",
-      "summary": "A defesa do senador Flávio Bolsonaro (PL) pediu nesta quarta-feira (30) ao presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, a suspeição de Flávio Dino para tratar de processos relativos ao candidato à Presidência, e também ao presidente Luiz Inácio Lula da Silva (PT) e à disputa presidencial.\nLeia mais (09/30/2026 - 21h11)",
+      "title": "STF tem precedente para manter investigação sobre Flávio Bolsonaro caso ele seja eleito",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/stf-tem-precedente-para-manter-investigacao-sobre-flavio-bolsonaro-caso-ele-seja-eleito.shtml",
+      "summary": "Caso Flávio Bolsonaro (PL) seja eleito presidente da República, uma questão sobre a qual o STF (Supremo Tribunal Federal) possivelmente terá que se pronunciar é quanto ao que ocorreria com investigações envolvendo o hoje senador relacionadas ao filme \"Dark Horse\" e ao Banco Master.\nLeia mais (09/30/2026 - 23h00)",
       "tags": [
-        "eleições",
+        "STF",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 95,
+      "publishedRaw": "30 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "4e5b6d345c45",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula tenta conter abstenção, e Flávio Bolsonaro foca voto útil na reta final da campanha",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/lula-tenta-conter-abstencao-e-flavio-bolsonaro-foca-voto-util-na-reta-final-da-campanha.shtml",
+      "summary": "Na reta final para o primeiro turno das eleições, o presidente Lula (PT) quer mobilizar idosos para votar visando conter a abstenção nas urnas, enquanto o senador Flávio Bolsonaro (PL) pretende usar o debate da TV Globo desta quinta-feira (30) para atrair eleitores indecisos e de outros candidatos da direita.\nLeia mais (09/30/2026 - 23h00)",
+      "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 95,
-      "publishedRaw": "30 Sep 2026 21:11:00 -0300"
+      "score": 94,
+      "publishedRaw": "30 Sep 2026 23:00:00 -0300"
     },
     {
-      "id": "e30af40507c0",
+      "id": "35a35bffcb34",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Campanha de Lula vai explorar reportagens que ligam Flávio Bolsonaro a milícia em programa eleitoral",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-vai-explorar-reportagens-que-ligam-flavio-bolsonaro-a-milicia-em-programa-eleitoral.shtml",
-      "summary": "Com o mote de \"Flávio Bolsonaro, o candidato das milícias\", a campanha do presidente Lula (PT) vai exibir em peça eleitoral desta quinta-feira (1°) reportagens que mostraram vínculos do candidato do PL com milicianos.\nLeia mais (09/30/2026 - 22h37)",
+      "title": "Campanha de Lula vai explorar reportagens que ligam Flávio Bolsonaro a milícia em peça eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/campanha-de-lula-vai-explorar-reportagens-que-ligam-flavio-bolsonaro-a-milicia-em-peca-eleitoral.shtml",
+      "summary": "Com o mote de \"Flávio Bolsonaro, o candidato das milícias\", a campanha do presidente Lula (PT) vai exibir em peça eleitoral desta quinta-feira (1°) reportagens que indicaram vínculos do candidato do PL com milicianos.\nLeia mais (09/30/2026 - 22h37)",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro",
@@ -66,6 +89,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Economia",
         "G1 - Política",
@@ -73,29 +97,6 @@
       ],
       "score": 94,
       "publishedRaw": "30 Sep 2026 22:37:00 -0300"
-    },
-    {
-      "id": "4f21aeddb626",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula acusa Flávio Bolsonaro de ligação com o crime e Eduardo de conspirar com dinheiro de Vorcaro",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-acusa-flavio-bolsonaro-de-ligacao-com-o-crime-e-eduardo-de-conspirar-com-dinheiro-de-vorcaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Wed, 30 Sep 2026 20:31:15 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -111,6 +112,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -119,6 +121,27 @@
       ],
       "score": 94,
       "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
+    },
+    {
+      "id": "d4c1ca32a46c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Em meio à crise interna, ministros do STF participam de sessão",
+      "link": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
+      "summary": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida. Os ministros do STF (Supremo Tribunal Federal) se reuniram nesta quarta-feira (30) para analisar uma ação sobre planos de saúde. . A sessão ocorreu em meio a seguidas crises entre os ministros. Os embates geraram uma 'guerra de decisões' na Corte. . A nova disputa envolve os posts sobre Flávio Bolsonaro e a Nossa Senhora Aparecida. O caso está em votação no TSE. . Na sessão, Gilmar Mendes criticou vazamentos em fala sobre aniversário de 1 ano de Fachin na presidência.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 20:57:26 -0000"
     },
     {
       "id": "aad48dc40757",
@@ -143,28 +166,46 @@
       "publishedRaw": "Wed, 30 Sep 2026 19:20:26 -0000"
     },
     {
-      "id": "fe3909804577",
+      "id": "a2bb53aaa768",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda Nikolas Ferreira apagar publicação que associa fala de Lula a conteúdo sexual envolvendo crianças",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/tse-manda-nikolas-ferreira-apagar-publicacao-que-associa-fala-de-lula-a-conteudo-sexual-envolvendo-criancas.ghtml",
-      "summary": "A ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), determinou nesta quarta-feira (30) que Nikolas Ferreira (PL-MG) remova, em até 24 horas, uma publicação no X em que associa uma declaração do presidente Luiz Inácio Lula da Silva (PT) a conteúdo sexual envolvendo crianças e adolescentes.\nNa decisão, a ministra afirma que a postagem descontextualizou uma fala de Lula feita durante um discurso sobre prevenção e tratamento do câncer de próstata e sobre a resistência dos homens à realização de exames médicos.\nEstela Aranha também determinou que Nikolas se abstenha de republicar ou divulgar novamente o mesmo conteúdo ou mídias \"substancialmente idênticas\". \nO X foi notificado para remover a publicação em até 24 horas e informar à Justiça Eleitoral as providências adotadas (entenda mais abaixo).\nEm nota, PT diz que rivais deturpam fala de Lula sobre 'toque' em mulheres\nA decisão é liminar, ou seja, provisória. A própria ministra determinou que o caso seja submetido ao plenário do TSE, inclusive com a possibilidade de análise em sessão virtual.\nA ação foi apresentada pela Coligação \"Brasil Pronto Pra Mais\", que sustenta que Nikolas divulgou, na terça (29), um trecho recortado de uma declaração de Lula e atribuiu à fala uma conotação sexual relacionada a crianças e adolescentes.\nSegundo a coligação, a íntegra do discurso mostra que Lula falava sobre a resistência dos homens aos exames preventivos e comparava esse comportamento ao acompanhamento médico realizado por mulheres.\nNa publicação questionada, Nikolas contestou essa interpretação e relacionou a declaração do presidente a meninas e a práticas criminosas envolvendo crianças.\nDep. Nikolas Ferreira (PL - MG)\nKayo Magalhães / Câmara dos Deputados\nNa decisão, Estela Aranha afirmou que a publicação de Nikolas vai além de uma crítica política ou de uma discordância sobre a expressão utilizada por Lula. \nSegundo ela, o deputado deu à fala uma \"conotação inteiramente diversa\" da original, retirando a discussão do contexto de saúde pública e associando-a a crimes envolvendo crianças e adolescentes.\n\"Não se está diante de mera interpretação alternativa de um fato incontroverso, mas de construção discursiva capaz de conduzir o destinatário da mensagem à conclusão de que o candidato representado estaria fazendo referência, anuindo ou normalizando práticas de crimes extremamente graves envolvendo crianças e adolescentes\", afirmou a ministra.\nA relatora também afirmou que a desinformação eleitoral não ocorre apenas quando uma informação falsa é criada, mas pode decorrer da forma como um conteúdo é apresentado.\n\"A desinformação eleitoral não se limita à mentira integralmente fabricada. A distorção também pode decorrer da maneira pela qual uma informação é apresentada\", escreveu.\nEstela Aranha ressaltou ainda que a liberdade de expressão tem proteção ampla, principalmente no debate político, que admite manifestações críticas e até contundentes contra agentes públicos e governos.\nA ministra considerou também que havia risco de dano pela permanência da publicação no ar porque o conteúdo foi divulgado em uma rede social de amplo alcance e por um perfil com \"expressiva capacidade de difusão\".\nCom esses argumentos, Estela Aranha concedeu parcialmente a liminar solicitada pela coligação. \nAlém da retirada da postagem e da proibição de republicação do conteúdo, o processo seguirá para manifestação da Procuradoria-Geral Eleitoral (PGE) e será submetido ao plenário do TSE.",
+      "title": "Em meio à crise no STF, Gilmar critica vazamentos em fala no aniversário de um ano da presidência de Fachin",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/em-meio-a-crise-no-stf-gilmar-critica-vazamentos-em-fala-no-aniversario-de-um-ano-de-fachin-na-presidencia-do-stf.ghtml",
+      "summary": "Em meio à crise institucional instalada no Supremo Tribunal Federal (STF), o ministro Gilmar Mendes criticou, nesta quarta-feira (30), vazamentos seletivos e o uso político-eleitoral de investigações. \nA fala ocorreu durante uma homenagem ao aniversário de um ano da presidência do ministro Edson Fachin na Corte. Tradicionalmente, o presidente e o decano, ministro que ocupa há mais tempo o cargo, fazem um discurso. Gilmar é o decano e pediu a palavra no início da sessão. \n\"Naquela quadra, não houve notícias de vazamentos seletivos em nossos gabinetes, apesar da sensibilidade dos documentos que estavam sob nossa responsabilidade. Tampouco qualquer ato que pudesse indicar uso político eleitoral das investigações\", disse Gilmar ao relembrar a atuação dele e de Fachin na Operação Lava Jato.\nFachin foi o relator das investigações da operação da Polícia Federal (PF) no STF, após a morte do ministro Teori Zavascki. Gilmar classificou a condução do processo por Fachin como equilibrada, sem espetáculo e sem interesses políticos, e citou discordâncias com o colega. \n\"Naqueles casos, divergimos com frequência, como todos sabem, sobre questões centrais da operação, como é natural em um colegiado. Nossos votos apontaram muitas vezes em sentidos opostos. a partir de compreensões distintas sobre o processo penal. Essa divergência, porém, jamais alcançou aquilo que nos unia – a convicção de que o juiz não é parte nem instrumento de causa alguma\", afirmou Gilmar.\nAgora no g1\nGilmar disse que Fachin \"tem mantido o tom sóbrio, a palavra medida e o comprometimento integral com a manutenção da constância, da tranquilidade e do ethos decisórios do Tribunal\" em um \"ambiente de temperatura elevada\".\nO decano do STF também destacou julgamentos na gestão de Fachin como:\nas restrições para o pagamento de penduricalhos de juízes e integrantes do Ministério Público;\naquisição de imóveis rurais por empresas brasileiras controladas por capital estrangeiro;\nvalidade da lei que alterou os limites do Parque Nacional do Jamanxim, no Pará, para permitir a passagem da ferrovia destinada a ligar a produção do Centro-Oeste aos portos do Arco Norte; e\nvalidade da lei que trata da igualdade salarial e de critérios remuneratórios entre mulheres e homens.\nMontagem com fotos dos ministros Gilmar Mendes e Edson Fachin, do STF\nCarlos Moura/SCO/STF\n'Sabe quando agir'\nCriticado pela demora em responder à crise instalada no STF, Fachin recebeu um elogio do procurador-geral da República (PGR), Paulo Gonet, que afirmou que Fachin sabe quando e como agir.\n“Vossa Excelência é sobretudo um homem do diálogo, do diálogo sereno, do diálogo franco, afável, aberto e eficaz. Mas Vossa Excelência também sabe como e quando agir”, disse o procurador-geral.\n“Essas qualidades demonstradas por Vossa Excelência nesse primeiro ano do biênio da sua presidência nos dá segurança e tranquilidade quanto à última etapa da do seu biênio à frente do Tribunal”, complementou o PGR.",
       "tags": [
-        "Nikolas Ferreira",
-        "TSE",
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "Wed, 30 Sep 2026 17:33:53 -0000"
+      "publishedRaw": "Wed, 30 Sep 2026 17:47:24 -0000"
+    },
+    {
+      "id": "10981c039625",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF restringe punição a empresas por bonificações a acionistas",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/stf-restringe-punicao-a-empresas-por-bonificacoes-a-acionistas/",
+      "summary": "Resolução decorre de uma ação movida pela OAB contra lei que proíbe as empresas em débito com a União de distribuir bonificações a seus acionistas e de pagar participação de lucros a seus sócios",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Thu, 01 Oct 2026 00:43:34 +0000"
     },
     {
       "id": "dc48afe90a15",
@@ -186,6 +227,69 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
+    },
+    {
+      "id": "7f127e30b8f4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
+    },
+    {
+      "id": "6944e7ec083b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ala do sofá e ala da mesa: sala de lanches retrata guerra fria no STF",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/ala-do-sofa-e-ala-da-mesa-sala-de-lanches-retrata-guerra-fria-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 21:00:00 +0000"
+    },
+    {
+      "id": "473f294bca47",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Mais mulheres: a crise no STF e um lembrete eleitoral",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mais-mulheres-a-crise-no-stf-e-um-lembrete-eleitoral/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 22:00:00 +0000"
     },
     {
       "id": "5548e186f810",
@@ -224,6 +328,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -233,13 +338,13 @@
       "publishedRaw": "Wed, 30 Sep 2026 23:57:02 +0000"
     },
     {
-      "id": "d4c1ca32a46c",
-      "source": "G1 - Política",
+      "id": "a9732dba96e4",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Em meio à crise interna, ministros do STF participam de sessão",
-      "link": "https://g1.globo.com/politica/ao-vivo/ministros-do-stf-sessao.ghtml",
-      "summary": "Em meio à crise interna, ministros do STF participam de sessão Supremo enfrenta 'guerra de decisões' entre os ministros. Após embate entre Moraes e Mendonça, disputa agora envolve posts sobre Nossa Senhora Aparecida. Os ministros do STF (Supremo Tribunal Federal) se reuniram nesta quarta-feira (30) para analisar uma ação sobre planos de saúde. . A sessão ocorreu em meio a seguidas crises entre os ministros. Os embates geraram uma 'guerra de decisões' na Corte. . A nova disputa envolve os posts sobre Flávio Bolsonaro e a Nossa Senhora Aparecida. O caso está em votação no TSE. . Na sessão, Gilmar Mendes criticou vazamentos em fala sobre aniversário de 1 ano de Fachin na presidência.",
+      "title": "Fux autoriza Flamengo a participar de ações sobre bets no STF",
+      "link": "https://www.poder360.com.br/poder-justica/fux-autoriza-flamengo-a-participar-de-acoes-sobre-bets-no-stf/",
+      "summary": "Clube entra como amicus curiae em 3 ações relatadas pelo ministro que discutem regras para apostas de quota fixa",
       "tags": [
         "STF"
       ],
@@ -247,30 +352,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 20:57:26 -0000"
-    },
-    {
-      "id": "a2bb53aaa768",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em meio à crise no STF, Gilmar critica vazamentos em fala no aniversário de um ano da presidência de Fachin",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/30/em-meio-a-crise-no-stf-gilmar-critica-vazamentos-em-fala-no-aniversario-de-um-ano-de-fachin-na-presidencia-do-stf.ghtml",
-      "summary": "Em meio à crise institucional instalada no Supremo Tribunal Federal (STF), o ministro Gilmar Mendes criticou, nesta quarta-feira (30), vazamentos seletivos e o uso político-eleitoral de investigações. \nA fala ocorreu durante uma homenagem ao aniversário de um ano da presidência do ministro Edson Fachin na Corte. Tradicionalmente, o presidente e o decano, ministro que ocupa há mais tempo o cargo, fazem um discurso. Gilmar é o decano e pediu a palavra no início da sessão. \n\"Naquela quadra, não houve notícias de vazamentos seletivos em nossos gabinetes, apesar da sensibilidade dos documentos que estavam sob nossa responsabilidade. Tampouco qualquer ato que pudesse indicar uso político eleitoral das investigações\", disse Gilmar ao relembrar a atuação dele e de Fachin na Operação Lava Jato.\nFachin foi o relator das investigações da operação da Polícia Federal (PF) no STF, após a morte do ministro Teori Zavascki. Gilmar classificou a condução do processo por Fachin como equilibrada, sem espetáculo e sem interesses políticos, e citou discordâncias com o colega. \n\"Naqueles casos, divergimos com frequência, como todos sabem, sobre questões centrais da operação, como é natural em um colegiado. Nossos votos apontaram muitas vezes em sentidos opostos. a partir de compreensões distintas sobre o processo penal. Essa divergência, porém, jamais alcançou aquilo que nos unia – a convicção de que o juiz não é parte nem instrumento de causa alguma\", afirmou Gilmar.\nAgora no g1\nGilmar disse que Fachin \"tem mantido o tom sóbrio, a palavra medida e o comprometimento integral com a manutenção da constância, da tranquilidade e do ethos decisórios do Tribunal\" em um \"ambiente de temperatura elevada\".\nO decano do STF também destacou julgamentos na gestão de Fachin como:\nas restrições para o pagamento de penduricalhos de juízes e integrantes do Ministério Público;\naquisição de imóveis rurais por empresas brasileiras controladas por capital estrangeiro;\nvalidade da lei que alterou os limites do Parque Nacional do Jamanxim, no Pará, para permitir a passagem da ferrovia destinada a ligar a produção do Centro-Oeste aos portos do Arco Norte; e\nvalidade da lei que trata da igualdade salarial e de critérios remuneratórios entre mulheres e homens.\nMontagem com fotos dos ministros Gilmar Mendes e Edson Fachin, do STF\nCarlos Moura/SCO/STF\n'Sabe quando agir'\nCriticado pela demora em responder à crise instalada no STF, Fachin recebeu um elogio do procurador-geral da República (PGR), Paulo Gonet, que afirmou que Fachin sabe quando e como agir.\n“Vossa Excelência é sobretudo um homem do diálogo, do diálogo sereno, do diálogo franco, afável, aberto e eficaz. Mas Vossa Excelência também sabe como e quando agir”, disse o procurador-geral.\n“Essas qualidades demonstradas por Vossa Excelência nesse primeiro ano do biênio da sua presidência nos dá segurança e tranquilidade quanto à última etapa da do seu biênio à frente do Tribunal”, complementou o PGR.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 17:47:24 -0000"
+      "score": 90,
+      "publishedRaw": "Wed, 30 Sep 2026 23:28:22 +0000"
     },
     {
       "id": "dabb82aff415",
@@ -295,46 +381,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
     },
     {
-      "id": "10981c039625",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF restringe punição a empresas por bonificações a acionistas",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/stf-restringe-punicao-a-empresas-por-bonificacoes-a-acionistas/",
-      "summary": "Resolução decorre de uma ação movida pela OAB contra lei que proíbe as empresas em débito com a União de distribuir bonificações a seus acionistas e de pagar participação de lucros a seus sócios",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 00:43:34 +0000"
-    },
-    {
-      "id": "7f127e30b8f4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
-    },
-    {
       "id": "28e91dfdb884",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -348,6 +394,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -355,46 +402,6 @@
       ],
       "score": 89,
       "publishedRaw": "Wed, 30 Sep 2026 22:24:56 +0000"
-    },
-    {
-      "id": "6944e7ec083b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ala do sofá e ala da mesa: sala de lanches retrata guerra fria no STF",
-      "link": "https://www.estadao.com.br/politica/carolina-brigido/ala-do-sofa-e-ala-da-mesa-sala-de-lanches-retrata-guerra-fria-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 21:00:00 +0000"
-    },
-    {
-      "id": "473f294bca47",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mais mulheres: a crise no STF e um lembrete eleitoral",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/mais-mulheres-a-crise-no-stf-e-um-lembrete-eleitoral/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 22:00:00 +0000"
     },
     {
       "id": "1950b92fd634",
@@ -419,24 +426,92 @@
       "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
     },
     {
-      "id": "a9732dba96e4",
-      "source": "Poder360",
+      "id": "df17c637da49",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Fux autoriza Flamengo a participar de ações sobre bets no STF",
-      "link": "https://www.poder360.com.br/poder-justica/fux-autoriza-flamengo-a-participar-de-acoes-sobre-bets-no-stf/",
-      "summary": "Clube entra como amicus curiae em 3 ações relatadas pelo ministro que discutem regras para apostas de quota fixa",
+      "title": "Lula silencia sobre supersalários e rivais citam cortes genéricos no funcionalismo em planos de governo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/lula-silencia-sobre-supersalarios-e-rivais-citam-cortes-genericos-no-funcionalismo-em-planos-de-governo.shtml",
+      "summary": "O combate aos supersalários é o tema ligado ao funcionamento da máquina pública que mais aparece nos programas de governo das chapas que disputam a Presidência, apesar de serem poucos os candidatos que explicam como pretendem atacar a questão.\nLeia mais (09/30/2026 - 23h00)",
       "tags": [
-        "STF"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 89,
-      "publishedRaw": "Wed, 30 Sep 2026 23:28:22 +0000"
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "8ab2bdf9e2c5",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nossa Senhora Aparecida e fala de Lula sobre 'toque' em mulheres perdem para MP das Bets em alcance digital",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/09/nossa-senhora-aparecida-e-fala-de-lula-sobre-toque-em-mulheres-perdem-para-mp-das-bets-em-alcance-digital.shtml",
+      "summary": "A última semana foi marcada por discussões nas redes sociais que mobilizaram as campanhas do presidente Lula (PT) e do senador Flávio Bolsonaro (PL-RJ) na disputa pelo Palácio do Planalto.\nLeia mais (09/30/2026 - 23h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "30 Sep 2026 23:00:00 -0300"
+    },
+    {
+      "id": "ce6c9add76a6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio pede que Fachin declare Dino suspeito em casos sobre Lula e eleição",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-que-fachin-declare-dino-suspeito-em-casos-sobre-lula-e-eleicao/",
+      "summary": "Defesa do senador alega amizade de décadas entre o ministro e o presidente e questiona como processos de impacto eleitoral chegaram à relatoria de Dino",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 01 Oct 2026 01:44:57 +0000"
+    },
+    {
+      "id": "9193ecf8ae20",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Campanha de Lula pede a evangélicos orações pelo presidente até fim da apuração no 1º turno",
+      "link": "https://www.estadao.com.br/politica/eleicoes/campanha-de-lula-pede-a-evangelicos-oracoes-pelo-presidente-ate-fim-da-apuracao-no-1-turno/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
     },
     {
       "id": "704a2e11d22c",
@@ -452,10 +527,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 86,
+      "score": 82,
       "publishedRaw": "Thu, 01 Oct 2026 00:41:30 -0000"
     },
     {
@@ -472,11 +546,32 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 86,
+      "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 23:16:32 -0000"
+    },
+    {
+      "id": "7969f4b524da",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
+      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
+      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
     },
     {
       "id": "abdedcc0e828",
@@ -492,174 +587,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 86,
+      "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 19:32:45 +0000"
-    },
-    {
-      "id": "3604f9f86c71",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "BBC News Brasil fará cobertura AO VIVO sobre debate e jornada eleitoral, apuração e resultados do primeiro turno das eleições 2026",
-      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Você poderá acompanhar cobertura em tempo real de debate da TV Globo na quinta-feira; no domingo, haverá transmissão ao vivo durante apuração dos resultados.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
-    },
-    {
-      "id": "8dda17dc72cc",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Proibição de bets por Lula pode transferir R$ 25 bilhões a sites ilegais, diz consultoria",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/09/proibicao-de-bets-por-lula-pode-transferir-r-25-bilhoes-a-sites-ilegais-diz-consultoria.shtml",
-      "summary": "A proibição de apostas online assinada pelo presidente Lula (PT) na última sexta-feira (25) deve transferir cerca de R$ 25 bilhões por ano do mercado regulado para sites ilegais. A estimativa é da consultoria britânica H2 Gambling Capital, especializada em dados do setor de jogos.\nLeia mais (09/30/2026 - 21h11)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "30 Sep 2026 21:11:00 -0300"
-    },
-    {
-      "id": "9193ecf8ae20",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha de Lula pede a evangélicos orações pelo presidente até fim da apuração no 1º turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/campanha-de-lula-pede-a-evangelicos-oracoes-pelo-presidente-ate-fim-da-apuracao-no-1-turno/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
-    },
-    {
-      "id": "fe0a7a30441c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
-      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
-    },
-    {
-      "id": "7969f4b524da",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Tarifaço: EUA devem enviar ao Brasil proposta de negociação, diz equipe de Lula após reunião com representante de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/30/eua-deve-enviar-ao-brasil-proposta-de-negociacao-do-tarifaco-diz-equipe-de-lula-apos-reuniao-com-representante-de-trump.ghtml",
-      "summary": "Os ministérios das Relações Exteriores (Itamaraty) e do Desenvolvimento, Indústria e Comércio (MDIC) divulgaram uma nota nesta quarta-feira (30) na qual afirmam que o governo do presidente Donald Trump deve encaminhar \"nas próximas semanas\" uma nova proposta de negociação acerca do tarifaço contra produtos brasileiros.\nA nota foi divulgada após os ministros Mauro Vieira (Relações Exteriores) e Márcio Elias Rosa (MDIC) terem se reunido em Milwaukee (EUA) com o representante comercial da Casa Branca, Jamieson Greer.\nMauro Vieira e Márcio Elias Rosa estão na cidade para participar da reunião ministerial de comércio do G20, grupo do qual Brasil e Estados Unidos fazem parte.\n\"O governo norte-americano deverá encaminhar, nas próximas semanas, um documento com uma proposta para o escopo dos trabalhos, contemplando questões tarifárias e não tarifárias. Também foi acordada a criação de um Grupo de Trabalho para discutir temas relacionados a um possível acordo\", informou a nota.\nMinistro Márcio Elias Rosa fala sobre reunião com representante comercial dos EUA\nEm declaração enviada à imprensa após a reunião, Márcio Elias Rosa disse que as partes convergiram sobre a necessidade de se definir um \"escopo para o que possa vir a ser um acordo comercial entre o Brasil e os Estados Unidos\". \n\"Apresentamos nossos argumentos, o quão injusta e indevida são as tarifas que são impostas no Brasil na atualidade. Eles assumiram o compromisso de nos encaminhar nas próximas semanas um escopo das discussões daqui pra frente. Não foi simplesmente mais uma reunião, foi uma reunião importante, em que nós reapresentamos argumentos que vínhamos debatendo e eles também apresentaram os seus argumentos\", declarou.\nConforme a nota divulgada nesta quarta pelos ministérios, o encontro foi uma continuidade da conversa recente dos presidentes Lula e Trump, na qual os dois concordaram em orientar as respectivas equipes a retomar as negociações em torno do tarifaço.\nOs Estados Unidos são o segundo maior parceiro comercial do Brasil, atrás somente da China, e integrantes do governo têm dito que a orientação é negociar para que os dois países cheguem a um consenso sobre o tema.\n“Durante a reunião, os ministros brasileiros reafirmaram a disposição do Brasil de avançar, por meio do diálogo e da negociação, na construção de soluções para os temas que afetam o comércio bilateral, sempre tendo como referência a defesa dos interesses brasileiros e a ampliação das oportunidades para empresas e setores produtivos dos dois países”, informou o governo brasileiro.\nO Brasil foi alvo de rodadas de tarifaços anunciadas pelo governo dos EUA:\nde 25%: em razão do entendimento da Casa Branca de que o Brasil adota práticas desleais na economia em relação a empresários americanos em áreas como PIX, etanol e propriedade intelectual;\nde 12,5%: diante do entendimento dos EUA de que dezenas de países, incluindo o Brasil, falharam ao coibir a importação de mercadorias de países onde há trabalho forçado.\n🎤Durante as negociações para tentar evitar o tarifaço, representantes do governo brasileiro disseram que os americanos desconsideraram os argumentos técnicos, o que levou o Brasil a considerar que as medidas tiveram caráter político, não comercial.\nNesse contexto, o Brasil abriu um pedido de consultas na Organização Mundial do Comércio (OMC), alegando que ao agir dessa maneira os EUA tratam o Brasil de maneira diferente dos demais parceiros comerciais.\nEm resposta, os Estados Unidos informaram à OMC estarem à disposição do Brasil para discutir o tema, mas ainda não indicaram, segundo diplomatas brasileiros, qualquer sinal de reversão do tarifaço.\nNa semana passada, representantes dos presidentes Luiz Inácio Lula da Silva e Donald Trump se reuniram em Genebra, na sede da OMC, para negociar.\nCom isso, abriu-se o prazo de 60 dias para que os dois países cheguem a um consenso. Se não houver acordo no prazo, uma das partes pode abrir um painel, ou seja, pedir que o tema vá a julgamento pela OMC.\nO governo da China pediu formalmente à OMC para participar do processo, mas os EUA se manifestaram contra a abertura de espaço para os chineses.\nJamieson Greer e os ministros brasileiros Márcio Elias Rosa (MDIC) e Mauro Vieira (Itamaraty) durante reunião sobre tarifaço\nDivulgação/Itamaraty\nLula diz ter 'boa relação' com Trump\nEm entrevista recente, Lula disse ter \"boa relação\" com Trump, a quem trata \"com respeito\" por ter sido eleito pelo povo norte-americano. \n\"Acho que o Trump é uma pessoa sui generis, porque ele muitas vezes não diz nada com nada, você conversa com ele e parece que não conversou, mas ele tem me tratado com respeito e eu trato ele como presidente, com respeito. Gostando ou não gostando dele, ele foi eleito pelo povo americano. Eu vou ser eleito pelo povo brasileiro\", disse. \n\"Ele não precisa gostar de mim ou não, só tem que ter relação civilizada, relação respeitando a soberania do Brasil\", completou o petista.\nUnião Europeia\nOs ministros brasileiros também se reuniram com o Comissário europeu Maroš Šefčovič em Milwaukee, e trataram sobre o crescimento do comércio após a entrada em vigor do acordo Mercosul-UE. \nSegundo o governo brasileiro, o lado europeu sinalizou revisão positiva nas quotas de aço e perspectiva de breve retomada das exportações de carne de aves e mel.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 16:11:46 -0000"
-    },
-    {
-      "id": "8581f2d90ae2",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mendonça muda voto no TSE para liberar post de Antonio Tabet sobre Nossa Senhora",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-muda-voto-no-tse-para-liberar-post-de-antonio-tabet-sobre-nossa-senhora.shtml",
-      "summary": "O ministro André Mendonça, relator no TSE (Tribunal Superior Eleitoral) do processo que discute publicações envolvendo Flávio Bolsonaro (PL) e Nossa Senhora Aparecida, ajustou o voto proferido horas antes para preservar publicação do ator Antonio Tabet.\nLeia mais (09/30/2026 - 21h34)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "30 Sep 2026 21:34:00 -0300"
-    },
-    {
-      "id": "466d745b2189",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Demora de Kassio no caso de Nossa Senhora acende luz vermelha no TSE",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/09/demora-de-kassio-no-caso-de-nossa-senhora-acende-luz-vermelha-no-tse.shtml",
-      "summary": "A demora do presidente do TSE (Tribunal Superior Eleitoral), ministro Kassio Nunes Marques, em pautar o julgamento da decisão do ministro André Mendonça sobre o caso envolvendo a retirada de publicações sobre Nossa Senhora Aparecida das redes sociais acende um alerta vermelho para os próximos dias decisivos até a votação de domingo.\nLeia mais (09/30/2026 - 21h17)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "30 Sep 2026 21:17:00 -0300"
-    },
-    {
-      "id": "4ccb56217703",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE tem 3 votos a 2 para proibir posts com fake news sobre Nossa Senhora; votação continua",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
     },
     {
       "id": "3fee83207f3d",
@@ -673,6 +604,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -694,6 +626,7 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -702,6 +635,82 @@
       ],
       "score": 82,
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+    },
+    {
+      "id": "3604f9f86c71",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "BBC News Brasil fará cobertura AO VIVO sobre debate e jornada eleitoral, apuração e resultados do primeiro turno das eleições 2026",
+      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Você poderá acompanhar cobertura em tempo real de debate da TV Globo na quinta-feira; no domingo, haverá transmissão ao vivo durante apuração dos resultados.",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 30 Sep 2026 09:39:48 GMT"
+    },
+    {
+      "id": "c1ab97e111d7",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após Mendonça mudar voto, TSE decide liberar post de humorista sobre Nossa Senhora Aparecida",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml",
+      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), alterou o voto que havia apresentado na manhã desta quarta-feira (30) e votou para liberar de uma publicação do humorista Antonio Tabet sobre Nossa Senhora Aparecida. Todos os ministros seguiram \nMendonça é autor de ações que resultaram na retirada de publicações nas redes sociais que associavam Flávio Bolsonaro à informação falsa de que ele pretendia retirar de Nossa Senhora Aparecida o título de padroeira do Brasil.\nEntre as postagens suspensas estava a de Antonio Tabet, que escreveu, sem citar Flávio Bolsonaro, que \"a família miliciana odeia tanto mulher preta, que resolveu atacar Nossa Senhora Aparecida\".\nAgora no g1\nMais cedo, o ministro havia votado para confirmar a remoção desses conteúdos. Na ocasião, afirmou que as decisões não configuravam censura prévia nem violação à liberdade de expressão ou à liberdade religiosa, por se tratarem de publicações baseadas em informação falsa.\nO ministro também destacou que as determinações judiciais não alcançavam críticas, opiniões ou manifestações sobre temas distintos da desinformação que motivou as ações. Após rever seu entendimento, porém, Mendonça modificou o voto para liberar a publicação feita por Antonio Tabet.\nCom isso, todos os sete ministros do tribunal acompanharam esse entendimento.\nO ministro avaliou que o texto não atribui a Flávio uma ação concreta contra a imagem ou o título de Nossa Senhora Aparecida.\nMinistro André Mendonça\nJornal Nacional/ Reprodução\nJulgamento no TSE\nO plenário virtual do Tribunal Superior Eleitoral (TSE) analisa nesta quarta a decisão do ministro André Mendonça que removeu as publicações que associavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil.\nOs ministros decidiram manter a retirada de posts falsos que ligavam o candidato Flávio Bolsonaro (PL) a um suposto movimento de retirada de Nossa Senhora Aparecida do posto de padroeira do Brasil. No entanto, houve divergências no julgamento quanto à amplitude da medida.\nMendonça, autor da decisão, foi o primeiro a votar. Ele incluiu o voto nos sistemas da Justiça Eleitoral antes do horário marcado para o julgamento, às 10h.\nEm sua manifestação, o ministro afirmou que as decisões dele não restringem a liberdade religiosa, foram determinadas em caráter excepcional e \"não constituem censura prévia\".\nO ministro votou para referendar as duas determinações dele sobre o tema.\n➡️ Disse que a primeira decisão foi tomada porque a Justiça identificou um conjunto de informações específicas que poderiam ser verificadas e que, em uma análise inicial, foram consideradas falsas.\n➡️ A decisão seguinte, na explicação dele, teve o objetivo de fazer cumprir a medida diante da ampla divulgação desse conteúdo, com base nas regras eleitorais e em decisões já tomadas pelo Supremo Tribunal Federal.\nAo registrar seu voto, o presidente do TSE, Kassio Nunes Marques, afirmou que a medida tomada por Mendonça \"protege a liberdade religiosa em sua dimensão coletiva e democrática\".\n\"A meu sentir, a tutela deferida protege a liberdade religiosa em sua dimensão coletiva e democrática, pois impede que a fé de milhões de brasileiros seja instrumentalizada, às vésperas do pleito, por meio de uma afirmação factual inexistente, destinada a despertar, artificialmente, estados emocionais no eleitorado\", disse o presidente do TSE no seu voto.\nO ministro Dias Toffoli afirmou ao votar que \"a amplitude conferida à liberdade de expressão não impede a atuação da Justiça Eleitoral quando a manifestação deixa de se situar no campo da opinião ou da crítica política para ingressar no plano da afirmação de fatos objetivamente verificáveis e desprovidos de suporte mínimo na realidade\".\nDessa forma, afirmou ser legítima a adoção de medidas voltadas à \"proteção da integridade informacional do processo eleitoral\".\nJá o ministro Ricardo Villas Bôas Cueva propôs restringir o alcance das medidas determinadas pelo ministro André Mendonça para preservar críticas, opiniões e manifestações sobre eventual atuação futura do candidato.\nNo voto, Cueva considerou falsas, em análise preliminar, as afirmações apresentadas como fatos já ocorridos ou em curso de que Flávio Bolsonaro propôs, apoiou ou articulou concretamente a retirada do título ou a extinção do feriado nacional.\nEle defendeu, contudo, que previsões e avaliações sobre possíveis iniciativas futuras não sejam automaticamente abrangidas pela ordem de remoção.\nO ministro Floriano Peixoto Marques Neto votou para que sejam retiradas do ar apenas as postagens consideradas “notoriamente inverídicas”, delimitando o escopo da ação àquelas com aparente conteúdo falso.\nNa avaliação do ministro, a vedação precisa estar estritamente relacionada \"a afirmar ou insinuar\" que Flávio Bolsonaro atuou na proposta, \"assim delimitado o núcleo factual da desinformação\".",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
+    },
+    {
+      "id": "fe0a7a30441c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Institutos de pesquisa questionam no TSE mudanças no registro de pesquisas eleitorais",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/institutos-de-pesquisa-regras-tse-pesquisas-eleitorais.ghtml",
+      "summary": "Fachada do prédio do Tribunal Superior Eleitoral (TSE)\nLuiz Roberto/Secom/tse\nA Associação Brasileira de Empresas de Pesquisa (Abep) entrou com um mandado de segurança no Tribunal Superior Eleitoral (TSE) na noite de terça-feira (29) para questionar as mudanças anunciadas pela corte para o registro de pesquisas eleitorais no Sistema de Registro de Pesquisas Eleitorais (PesqEle), sistema público de consulta a levantamentos de intenção de voto. A relatoria do caso, definida por sorteio, ficou com a ministra Estela Aranha.\n🔍O mandado de segurança é uma ação usada para contestar ato ilegal ou abusivo de autoridade pública que viole um direito que possa ser comprovado de imediato, só com documentos. Previsto no artigo 5º da Constituição e na Lei 12.016/2009, deve ser apresentado em até 120 dias após a ciência do ato. No caso do processo no TSE, o caso está classificado como um mandado de segurança \"cível\" para indicar que o tema em questão não é penal.\nEm ofício assinado em 17 de setembro, o presidente do TSE, ministro Nunes Marques, passou a exigir mais detalhes sobre a coleta de dados, a metodologia e os questionários a partir de 5 de outubro, um dia depois do primeiro turno.  O ofício foi enviado aos representantes legais das empresas que realizam pesquisas eleitorais. \nEm nota divulgada na segunda-feira (28), a ABEP já havia criticado a adoção das novas exigências em meio ao processo eleitoral deste ano. A entidade argumentou que a implementação das mudanças deveria ocorrer somente depois de um debate técnico mais amplo com participação efetiva do setor e em “período adequado de transição”. \nNo documento enviado ao TSE, a entidade fez um pedido de liminar (decisão provisória) para que o preenchimento dos novos campos de informação no sistema sejam facultativos durante as eleições deste ano. Também solicita que o não preenchimento, informações incompletas ou eventuais divergências metodológicas não impeçam o registro e a divulgação de pesquisas nem produzam efeitos jurídicos que não estejam previstos na regulamentação vigente. Como alternativa, a ABEP sugere que o tribunal tenha um regime de transição para a adoção das novas exigências.\nAgora no g1\n\"A associação considera que o sistema eletrônico pode organizar e detalhar informações já previstas pela legislação, mas não deveria criar novas obrigações ou consequências jurídicas para o registro das pesquisas sem que essas mudanças sejam incorporadas às normas eleitorais\", afirma a associação em nova nota à imprensa. \"Na ação, a ABEP não questiona a ampliação da transparência das pesquisas nem a competência do TSE para aperfeiçoar o PesqEle. A discussão se concentra na forma como as novas exigências serão implementadas.\"\nA Abep reúne empresas de pesquisas de mercado, opinião e mídia e atua na promoção de padrões de qualidade e boas práticas no setor. A entidade representa ao menos 104 empresas do setor.\nQuais são as mudanças estabelecidas pelo TSE?\nAlgumas das novas exigências na hora do registro incluem:\ndescrição da amostra da pesquisa, descrevendo a população que foi entrevistada, o nível de confiança e margem de erro máxima;\ndetalhamento da metodologia de campo, com a base utilizada para acessar o eleitorado e a indicação o uso de mídias durante a entrevista;\nexigência sobre a estrutura do questionário, com informações sobre a ordem das perguntas que foi apresentada aos entrevistados.\nAlém disso, para depois da divulgação das pesquisas, as empresas devem:\nregistrar o dia e a hora do início e do fim da realização dos questionários;\napresentar a amostra real e o descarte, mostrando o tamanho efetivo da amostra e se houve alguma recusa, perda ou substituição de entrevistados;\ndemonstrar o modo de coleta das respostas, incluindo a plataforma utilizada, metodologia de ponderação e medidas de precisão estatística;\ntrazer o cálculo da taxa de resposta e identificar eventuais limitações metodológicas em um relatório próprio. \nCríticas anteriores ao TSE\nO recurso contra o anúncio do presidente do TSE acontece dois meses depois que o ministro propôs criar um selo para reconhecer os institutos cujas pesquisas mais se aproximassem dos resultados oficiais das urnas. A proposta foi apresentada pelo presidente durante reunião com representantes do setor, sem aviso prévio. Ministros do TSE ouvidos pelo g1 também disseram que foram pegos de surpresa a respeito do tema da reunião. Eles descreveram a proposta como \"constrangedora\".\nDepois do encontro, a entidade publicou uma nota na qual afirmou que a iniciativa parte de uma compreensão equivocada sobre a finalidade das pesquisas eleitorais. Segundo a associação, os levantamentos medem a intenção de voto no momento em que são realizados e não representam previsões ou promessas de resultado. “Exigir que uma pesquisa ‘acerte’ o resultado é confundir ciência com bola de cristal”, afirmou a ABEP. Em minoria, Nunes Marques recuou a respeito da ideia de implementar o selo de acurácia.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 18:03:09 -0000"
+    },
+    {
+      "id": "4ccb56217703",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Maioria do TSE vota para excluir parte de posts que ligam Flávio à retirada do título de padroeira",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-posts-fake-news-nossa-senhora-aparecida-redes-sociais-eleicoes-2026/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 30 Sep 2026 13:34:33 +0000"
     },
     {
       "id": "101df2cb01d4",
@@ -716,10 +725,9 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 81,
+      "score": 77,
       "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
     },
     {
@@ -727,20 +735,19 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "TSE decide sobre posts de Nossa Senhora: após votos divergentes, Mendonça ajusta decisão para liberar publicação de Antonio Tabet",
+      "title": "TSE proíbe posts que ligam Flávio a plano de tirar título de padroeira de Nossa Senhora Aparecida; Mendonça suaviza voto sobre publicação de Antonio Tabet",
       "link": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
+      "summary": "O Tribunal Superior Eleitoral (TSE) decidiu nesta quarta-feira (30/9) manter a proibição a publicações que associem Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Em recuo, o ministro André Mendonça passou a apoiar a liberação de um post do humorista Antonio Tabet.",
       "tags": [
         "TSE"
       ],
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 77,
-      "publishedRaw": "Thu, 01 Oct 2026 00:27:04 GMT"
+      "score": 72,
+      "publishedRaw": "Thu, 01 Oct 2026 02:03:54 GMT"
     },
     {
       "id": "966066483536",
@@ -771,6 +778,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 01 Oct 2026 00:08:13 +0000"
+    },
+    {
+      "id": "9f5114d0c1dd",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Brasil gera quase 4,6 milhões de empregos para beneficiários do Bolsa Família desde 2023, diz FGV",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/09/brasil-gera-quase-46-milhoes-de-empregos-para-beneficiarios-do-bolsa-familia-desde-2023-diz-fgv.shtml",
+      "summary": "O Brasil teve um saldo de geração de empregos formais de quase 4,6 milhões para beneficiários do Bolsa Família no período de janeiro de 2023 a julho de 2026, no terceiro governo Lula (PT), aponta estudo de pesquisadores da FGV (Fundação Getulio Vargas).\nLeia mais (09/30/2026 - 23h00)",
+      "tags": [
+        "família"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "30 Sep 2026 23:00:00 -0300"
     },
     {
       "id": "f58c9d6a40f1",
