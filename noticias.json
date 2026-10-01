@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:18:39.366294+00:00",
+  "generated_at": "2026-10-01T10:46:55.886541+00:00",
   "items": [
     {
       "id": "0f81bf335621",
@@ -18,11 +18,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 95,
+      "score": 96,
       "publishedRaw": "Wed, 30 Sep 2026 23:19:33 -0000"
     },
     {
@@ -42,12 +43,37 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 95,
+      "score": 96,
       "publishedRaw": "Thu, 01 Oct 2026 02:42:43 +0000"
+    },
+    {
+      "id": "6fb26787e420",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições: STF tem papel inédito na disputa entre Flávio e Lula com caso Master e avanço sobre o TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes-stf-tem-papel-inedito-na-disputa-entre-flavio-e-lula-com-caso-master-e-avanco-sobre-o-tse/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "eleições",
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Thu, 01 Oct 2026 08:30:00 +0000"
     },
     {
       "id": "07f0a6822692",
@@ -64,9 +90,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 93,
       "publishedRaw": "01 Oct 2026 05:00:00 -0300"
@@ -86,35 +112,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 93,
       "publishedRaw": "01 Oct 2026 04:00:00 -0300"
-    },
-    {
-      "id": "6fb26787e420",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições: STF tem papel inédito na disputa entre Flávio e Lula com caso Master e avanço sobre o TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes-stf-tem-papel-inedito-na-disputa-entre-flavio-e-lula-com-caso-master-e-avanco-sobre-o-tse/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "eleições",
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Thu, 01 Oct 2026 08:30:00 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -130,10 +133,10 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 93,
       "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
@@ -299,6 +302,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
@@ -407,6 +411,146 @@
       "publishedRaw": "Wed, 30 Sep 2026 19:15:54 GMT"
     },
     {
+      "id": "65ef792b1b22",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: veja como está a corrida entre Lula e Flávio nas regiões",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-veja-como-esta-a-corrida-entre-lula-e-flavio-nas-regioes/",
+      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre os dias 26 e 30 de setembro; margem de erro é de dois pontos percentuais, com nível de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:07:44 +0000"
+    },
+    {
+      "id": "47c3910396f6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: Lula e Flávio empatam com 49% de rejeição",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-lula-e-flavio-empatam-com-49-de-rejeicao/",
+      "summary": "Foram entrevistados 2.000 eleitores, entre os dias 26 e 30 de setembro; margem de erro é de 2 pontos percentuais para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:05:08 +0000"
+    },
+    {
+      "id": "385d5797344b",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: trabalho de Lula é desaprovado por 52%; 46% aprovam",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-trabalho-de-lula-e-desaprovado-por-52-46-aprovam/",
+      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre 26 e 30 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:04:16 +0000"
+    },
+    {
+      "id": "b08b39a31324",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Lula tem 43% no 1º turno; Flávio, 39%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-lula-tem-43-no-1o-turno-flavio-39/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 26 e 30 de setembro; a margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:03:17 +0000"
+    },
+    {
+      "id": "a70ae08ac0c6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: Flávio tem 52% das intenções de votos evangélicos; Lula, 31%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-flavio-tem-52-das-intencoes-de-votos-evangelicos-lula-31/",
+      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre os dias 26 e 30 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:02:57 +0000"
+    },
+    {
+      "id": "3475be880d58",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time: entre católicos, Lula tem 49% no 1º turno; Flávio, 33%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-entre-catolicos-lula-tem-49-no-1o-turno-flavio-33/",
+      "summary": "Levantamento ouviu 2.000 eleitores em todo o país entre 26 e 30 de setembro; margem de erro é de 2 pontos percentuais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:01:45 +0000"
+    },
+    {
+      "id": "5f78853d8832",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Real Time Big Data: Flávio tem 46% no 2º turno; Lula, 45%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-flavio-tem-46-no-2o-turno-lula-45/",
+      "summary": "Levantamento do instituto ouviu 2.000 eleitores por telefone em todo o país; a margem de erro é de 2 pontos percentuais para mais ou para menos",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 10:00:15 +0000"
+    },
+    {
       "id": "9193ecf8ae20",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -419,9 +563,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 84,
       "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
@@ -485,26 +629,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 09:15:48 +0000"
     },
     {
-      "id": "6cd76fdb30b9",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Agenda de Lula: leia os compromissos do presidente 5ª feira",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/agenda-de-lula-leia-os-compromissos-do-presidente-5a-feira-4/",
-      "summary": "Reuniões com ministros no Planalto, atos oficiais e entrevista ao vivo ao \"Flow Podcast\" marcam o dia em Brasília",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 09:15:11 +0000"
-    },
-    {
       "id": "3fee83207f3d",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -516,10 +640,10 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
@@ -536,10 +660,10 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
@@ -668,6 +792,21 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 01 Oct 2026 00:08:13 +0000"
+    },
+    {
+      "id": "9c5592a71093",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT do Pará endossa candidaturas de Helder e Chicão ao Senado",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-do-para-endossa-candidaturas-de-helder-e-chicao-ao-senado/",
+      "summary": "Partido do presidente Lula deixou Celso Sabino (PDT) de lado",
+      "tags": [
+        "candidatura"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Thu, 01 Oct 2026 10:44:00 +0000"
     },
     {
       "id": "84b2ae4914f2",
