@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:18:22.716202+00:00",
+  "generated_at": "2026-10-01T04:48:09.296990+00:00",
   "items": [
     {
       "id": "0f81bf335621",
@@ -125,6 +125,50 @@
       "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
     },
     {
+      "id": "753aad98ba63",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba qual é o número de Flávio Bolsonaro, candidato do PL à Presidência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-flavio-bolsonaro-candidato-do-pl-a-presidencia/",
+      "summary": "Senador disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Alfredo Gaspar (PL), candidato a vice-presidente",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Thu, 01 Oct 2026 04:05:59 +0000"
+    },
+    {
+      "id": "dc48afe90a15",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eduardo Bolsonaro ameaça fazer ‘faxina’ no Itamaraty caso irmão Flávio seja eleito presidente",
+      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-ameaca-fazer-faxina-no-itamaraty-caso-irmao-flavio-seja-eleito-presidente/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
+    },
+    {
       "id": "d5860cf27a39",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -167,27 +211,6 @@
       ],
       "score": 90,
       "publishedRaw": "Thu, 01 Oct 2026 02:43:08 +0000"
-    },
-    {
-      "id": "dc48afe90a15",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eduardo Bolsonaro ameaça fazer ‘faxina’ no Itamaraty caso irmão Flávio seja eleito presidente",
-      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-ameaca-fazer-faxina-no-itamaraty-caso-irmao-flavio-seja-eleito-presidente/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
     },
     {
       "id": "7f127e30b8f4",
@@ -299,28 +322,6 @@
       "publishedRaw": "Wed, 30 Sep 2026 23:28:22 +0000"
     },
     {
-      "id": "dabb82aff415",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Waack: TSE tenta reduzir interferência do STF na pauta",
-      "link": "https://www.cnnbrasil.com.br/politica/waack-tse-tenta-reduzir-interferencia-do-stf-na-pauta/",
-      "summary": "O ministro Flávio Dino, com coisas que leu publicadas nos últimos meses, decidiu mandar a Polícia Federal investigar casos diversos de ataques contra imagens religiosas que, segundo ele, configurariam uma onda",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
-    },
-    {
       "id": "28e91dfdb884",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -410,6 +411,28 @@
       "publishedRaw": "30 Sep 2026 23:00:00 -0300"
     },
     {
+      "id": "43b0b5a34943",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba qual é o número de Lula, candidato do PT à Presidência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-numero-de-lula-candidato-do-pt-a-presidencia/",
+      "summary": "Presidente tenta a reeleição em 2026; sua chapa é composta também por Geraldo Alckmin (PSB), candidato a vice-presidente",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 01 Oct 2026 04:03:19 +0000"
+    },
+    {
       "id": "3b21136fc9ab",
       "source": "CNN Brasil",
       "tipo": "mainstream",
@@ -430,28 +453,6 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 02:15:32 +0000"
-    },
-    {
-      "id": "ce6c9add76a6",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio pede que Fachin declare Dino suspeito em casos sobre Lula e eleição",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-pede-que-fachin-declare-dino-suspeito-em-casos-sobre-lula-e-eleicao/",
-      "summary": "Defesa do senador alega amizade de décadas entre o ministro e o presidente e questiona como processos de impacto eleitoral chegaram à relatoria de Dino",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 01 Oct 2026 01:44:57 +0000"
     },
     {
       "id": "9193ecf8ae20",
@@ -675,6 +676,25 @@
       "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
     },
     {
+      "id": "3b36832f6124",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Antonio Tabet faz novo post sobre Nossa Senhora após decisão do TSE",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/antonio-tabet-faz-novo-post-sobre-nossa-senhora-apos-decisao-do-tse/",
+      "summary": "Publicação do humorista havia sido retirada duas vezes antes de nova manifestação nas redes sociais",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 01 Oct 2026 04:25:33 +0000"
+    },
+    {
       "id": "2e4f08d24ac9",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -748,6 +768,51 @@
       ],
       "score": 72,
       "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
+    },
+    {
+      "id": "8e017753d1c6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba qual é o número de Ronaldo Caiado, candidato do PSD à Presidência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-ronaldo-caiado-candidato-do-psd-a-presidencia/",
+      "summary": "Médico disputa a Presidência pela segunda vez em 2026; sua chapa é composta também por Gilberto Kassab (PSD), candidato a vice-presidente",
+      "tags": [
+        "Ronaldo Caiado"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Thu, 01 Oct 2026 04:12:20 +0000"
+    },
+    {
+      "id": "ec662817ca46",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba qual é o número de Romeu Zema, candidato do Novo à Presidência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-romeu-zema-candidato-do-novo-a-presidencia/",
+      "summary": "Empresário disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Eduardo Girão (Novo), candidato a vice-presidente",
+      "tags": [
+        "Romeu Zema"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Thu, 01 Oct 2026 04:16:40 +0000"
+    },
+    {
+      "id": "bfa27725f3d1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba qual é o número de Renan Santos, candidato do Missão à Presidência",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/saiba-qual-e-o-numero-de-renan-santos-candidato-do-missao-a-presidencia/",
+      "summary": "Coordenador do MBL disputa a Presidência pela primeira vez em 2026; sua chapa é composta também por Coronel Medina (Missão), candidato a vice-presidente",
+      "tags": [
+        "Renan Santos"
+      ],
+      "crossOutlets": [],
+      "score": 60,
+      "publishedRaw": "Thu, 01 Oct 2026 04:07:04 +0000"
     },
     {
       "id": "217af6784105",
