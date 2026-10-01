@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:19:50.543812+00:00",
+  "generated_at": "2026-10-01T14:48:28.860778+00:00",
   "items": [
     {
       "id": "30ff4055cd40",
@@ -66,13 +66,12 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
+      "score": 93,
       "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
     },
     {
@@ -270,6 +269,46 @@
       "publishedRaw": "Thu, 01 Oct 2026 13:32:56 +0000"
     },
     {
+      "id": "d083b83003e1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de Bolsonaro pede liberdade do ex-presidente com base em sessão sobre Moraes",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/defesa-de-bolsonaro-pede-liberdade-do-ex-presidente-com-base-em-sessao-sobre-moraes.shtml",
+      "summary": "A defesa de Jair Bolsonaro pediu a liberdade do ex-presidente nesta quinta-feira (1) ao ministro do STF (Supremo Tribunal Federal) Kassio Nunes Marques. Os advogados sustentam que investigações sobre a trama golpista foram instauradas de ofício pelo ministro relator, Alexandre de Moraes.\nLeia mais (10/01/2026 - 11h25)",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "01 Oct 2026 11:25:00 -0300"
+    },
+    {
+      "id": "cc38dbdeaa9c",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro cita caso Master e Moraes ao pedir nova revisão criminal",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-cita-caso-master-e-moraes-ao-pedir-nova-revisao-criminal/",
+      "summary": "Defesa do ex-presidente alega que ministro defendeu garantias no caso Master que não foram concedidas na ação da trama golpista",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 14:30:22 +0000"
+    },
+    {
       "id": "3a8087e95fb4",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -370,13 +409,13 @@
       "publishedRaw": "Thu, 01 Oct 2026 03:00:00 -0000"
     },
     {
-      "id": "1307d2fa02e4",
+      "id": "3b1a66acf612",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleições 2026: Saiba a função de um presidente da República",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-saiba-a-funcao-de-um-presidente-da-republica/",
-      "summary": "Brasileiros decidirão neste mês quem será o chefe do Executivo pelos próximos quatro anos",
+      "title": "Eleições 2026: horário eleitoral do 1º turno termina nesta quinta",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-horario-eleitoral-do-1o-turno-termina-nesta-quinta/",
+      "summary": "Eleitores de todo o país vão às urnas no próximo domingo (4) escolher novos deputados federais, deputados estaduais ou distritais, senadores, governadores e presidente",
       "tags": [
         "eleições",
         "eleições 2026"
@@ -387,7 +426,7 @@
         "G1 - Política"
       ],
       "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 13:14:19 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 14:11:31 +0000"
     },
     {
       "id": "3604f9f86c71",
@@ -422,12 +461,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 14:14:33 -0000"
     },
     {
@@ -443,12 +481,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 12:24:12 -0000"
     },
     {
@@ -464,34 +501,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "01 Oct 2026 11:00:00 -0300"
-    },
-    {
-      "id": "65b622053d13",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Milei apoia Flávio e volta a atacar Lula em entrevista: “Ladrão”",
-      "link": "https://www.cnnbrasil.com.br/internacional/milei-apoia-flavio-e-volta-a-atacar-lula-em-entrevista-ladrao/",
-      "summary": "Em entrevista a revista francesa, presidente da Argentina, Javier Milei, voltou a criticar Lula em favor do aliado Flávio Bolsonaro e acusa petista de sabotar sua candidatura em 2023",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 01 Oct 2026 13:21:38 +0000"
     },
     {
       "id": "e6e043fa4f48",
@@ -506,12 +521,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 11:33:06 +0000"
     },
     {
@@ -527,12 +541,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 13:00:10 +0000"
     },
     {
@@ -548,34 +561,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 12:42:43 +0000"
-    },
-    {
-      "id": "12ee7fb9f1c6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: Lula assina concessão do Centro de Treinamento Rei Pelé",
-      "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-assina-concessao-do-centro-de-treinamento-rei-pele/",
-      "summary": "Presidente participa nesta 5ª feira (1º.out) de cerimônia no Planalto",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 01 Oct 2026 12:00:42 +0000"
     },
     {
       "id": "a925f2666a4d",
@@ -616,6 +607,25 @@
       ],
       "score": 82,
       "publishedRaw": "Thu, 01 Oct 2026 02:04:16 -0000"
+    },
+    {
+      "id": "8c6366ef3b8a",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições nos EUA: Qual é a diferença entre os red, blue e purple states?",
+      "link": "https://www.cnnbrasil.com.br/internacional/eleicoes-nos-eua-qual-e-a-diferenca-entre-os-red-blue-e-purple-states/",
+      "summary": "Cores em estados americanos são associadas ao desempenho dos partidos republicano e democrata",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Thu, 01 Oct 2026 14:11:13 +0000"
     },
     {
       "id": "f6d366144310",
@@ -678,48 +688,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 02:44:06 +0000"
     },
     {
-      "id": "3fee83207f3d",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O cálculo de Lula para não ir ao debate da Globo",
-      "link": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
-    },
-    {
-      "id": "f0bc9ce6e993",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
-      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
-    },
-    {
       "id": "c502d5a7b295",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -740,6 +708,26 @@
       "publishedRaw": "Thu, 01 Oct 2026 12:29:59 +0000"
     },
     {
+      "id": "3fee83207f3d",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O cálculo de Lula para não ir ao debate da Globo",
+      "link": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
+    },
+    {
       "id": "101df2cb01d4",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -757,6 +745,26 @@
       ],
       "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
+    },
+    {
+      "id": "f0bc9ce6e993",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "12% dos brasileiros dizem que Lula é um clone. De onde saiu essa teoria rocambolesca que aparece até em site de culinária?",
+      "link": "https://www.bbc.com/portuguese/articles/cr86x2j642q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Narrativa surgiu após a eleição de 2022 e ganhou novas versões ao longo dos anos; hoje, vídeos que afirmam que presidente foi substituído por um sósia ou clone são compartilhados por perfis com milhões de seguidores, enquanto pesquisa aponta que 1 a cada 8 pessoas dizem acreditar na teoria.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
     },
     {
       "id": "8cb5a5bbf5a1",
@@ -824,21 +832,6 @@
       "crossOutlets": [],
       "score": 60,
       "publishedRaw": "Thu, 01 Oct 2026 00:08:13 +0000"
-    },
-    {
-      "id": "59f36d692f89",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsa Família de outubro já tem pagamento marcado; veja datas",
-      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/bolsa-familia-de-outubro-ja-tem-pagamento-marcado-veja-datas/",
-      "summary": "Valor mínimo do benefício passou por ajustes de acordo com aumento de preços no país; famílias agora recebem R$ 691",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Thu, 01 Oct 2026 13:14:23 +0000"
     },
     {
       "id": "84b2ae4914f2",
