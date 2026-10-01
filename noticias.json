@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:46:55.886541+00:00",
+  "generated_at": "2026-10-01T11:16:58.397446+00:00",
   "items": [
     {
       "id": "0f81bf335621",
@@ -76,55 +76,11 @@
       "publishedRaw": "Thu, 01 Oct 2026 08:30:00 +0000"
     },
     {
-      "id": "07f0a6822692",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Podcast analisa o que guia o voto em Lula e Flávio Bolsonaro por rejeição ou medo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-analisa-o-que-guia-o-voto-em-lula-e-flavio-bolsonaro-por-rejeicao-ou-medo.shtml",
-      "summary": "Às vésperas do primeiro turno, Lula (PT) e Flávio Bolsonaro (PL) aumentaram apelos por um voto útil. O presidente dedicou medidas e discursos para atrair o eleitor independente. \"Não precisa 'fazer o L'\", disse. O senador também tem buscado convencer eleitores de candidatos da direita a mudar de posição. \"Não precisa gostar de mim\", afirmou.\nLeia mais (10/01/2026 - 05h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 93,
-      "publishedRaw": "01 Oct 2026 05:00:00 -0300"
-    },
-    {
-      "id": "2955bc096a65",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Tanto Lula quanto Flávio Bolsonaro geram pouco entusiasmo', diz brasilianista",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tanto-lula-quanto-flavio-bolsonaro-geram-pouco-entusiasmo-diz-brasilianista.shtml",
-      "summary": "Esta é uma disputa com \"os dois lados apagados\", afirma a cientista política norte-americana Wendy Hunter, professora da Universidade do Texas.\nLeia mais (10/01/2026 - 04h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 93,
-      "publishedRaw": "01 Oct 2026 04:00:00 -0300"
-    },
-    {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno, e distância cai no 1º no Agregador de Pesquisas da BBC News Brasil",
+      "title": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
       "tags": [
@@ -135,11 +91,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 93,
-      "publishedRaw": "Wed, 30 Sep 2026 08:43:05 GMT"
+      "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
     },
     {
       "id": "e53d7a2ea613",
@@ -331,26 +287,6 @@
       "publishedRaw": "01 Oct 2026 06:00:00 -0300"
     },
     {
-      "id": "5c8c9db6726c",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "São Paulo tem previsão de chuva até domingo (4), o primeiro turno das eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sao-paulo-tem-previsao-de-chuva-ate-domingo-4-o-primeiro-turno-das-eleicoes.shtml",
-      "summary": "O primeiro turno das eleições de 2026, no próximo domingo (4), deve transcorrer com muita chuva em grande parte do país, atrapalhando os eleitores no deslocamento até as zonas de votação.\nLeia mais (10/01/2026 - 05h00)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "01 Oct 2026 05:00:00 -0300"
-    },
-    {
       "id": "48aa7ab50e91",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -369,26 +305,6 @@
       ],
       "score": 87,
       "publishedRaw": "Thu, 01 Oct 2026 09:50:58 +0000"
-    },
-    {
-      "id": "dc48afe90a15",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eduardo Bolsonaro ameaça fazer ‘faxina’ no Itamaraty caso irmão Flávio seja eleito presidente",
-      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-ameaca-fazer-faxina-no-itamaraty-caso-irmao-flavio-seja-eleito-presidente/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
     },
     {
       "id": "101df2cb01d4",
@@ -424,8 +340,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:07:44 +0000"
@@ -444,8 +360,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:05:08 +0000"
@@ -464,8 +380,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:04:16 +0000"
@@ -484,8 +400,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:03:17 +0000"
@@ -504,8 +420,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:02:57 +0000"
@@ -524,8 +440,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:01:45 +0000"
@@ -544,8 +460,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 84,
       "publishedRaw": "Thu, 01 Oct 2026 10:00:15 +0000"
@@ -564,30 +480,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
-    },
-    {
-      "id": "7f127e30b8f4",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "G1 - Política",
         "Poder360"
       ],
       "score": 84,
-      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
+      "publishedRaw": "Wed, 30 Sep 2026 22:57:43 +0000"
     },
     {
       "id": "1950b92fd634",
@@ -610,23 +507,43 @@
       "publishedRaw": "Wed, 30 Sep 2026 13:38:35 GMT"
     },
     {
-      "id": "d1fc49060dae",
+      "id": "09e878142d42",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Plenário do STF: saiba quais ações estão na pauta desta 5ª feira",
-      "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-5a-feira-7/",
-      "summary": "Julgamento sobre reajuste de planos de saúde para pessoas idosas com contratos anteriores a 2003 é o destaque na pauta da Corte",
+      "title": "Flávio tem 46% no 2º turno, contra 45% de Lula, diz pesquisa",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-46-no-2o-turno-contra-45-de-lula-diz-pesquisa/",
+      "summary": "Levantamento da Real Time Big Data mostra que senador e presidente estão tecnicamente empatados na margem de erro",
       "tags": [
-        "STF"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
       "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 09:15:48 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 10:52:05 +0000"
+    },
+    {
+      "id": "dc48afe90a15",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eduardo Bolsonaro ameaça fazer ‘faxina’ no Itamaraty caso irmão Flávio seja eleito presidente",
+      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-ameaca-fazer-faxina-no-itamaraty-caso-irmao-flavio-seja-eleito-presidente/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 01 Oct 2026 01:03:07 +0000"
     },
     {
       "id": "3fee83207f3d",
@@ -642,8 +559,8 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 20:35:48 GMT"
@@ -662,11 +579,29 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 81,
       "publishedRaw": "Wed, 30 Sep 2026 14:43:55 GMT"
+    },
+    {
+      "id": "7f127e30b8f4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gilmar homenageia Fachin no STF e faz críticas indiretas a André Mendonça por ‘vazamentos seletivos’",
+      "link": "https://www.estadao.com.br/politica/eleicoes/gilmar-homenageia-fachin-no-stf-e-faz-criticas-indiretas-a-andre-mendonca-sob-vazamentos-seletivos-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 30 Sep 2026 20:49:04 +0000"
     },
     {
       "id": "c1ab97e111d7",
