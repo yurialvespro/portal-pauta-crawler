@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:45:31.706771+00:00",
+  "generated_at": "2026-10-02T02:16:02.969124+00:00",
   "items": [
     {
       "id": "9a1f8b555259",
@@ -18,7 +18,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -119,29 +118,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 22:05:06 -0000"
     },
     {
-      "id": "cfd38255a0cb",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: Lula tem 42% contra 38% de Flávio Bolsonaro no 1º turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/pesquisa-datafolha-1-outubro-lula-flavio-bolsonaro/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Thu, 01 Oct 2026 22:05:48 +0000"
-    },
-    {
       "id": "e93ee1105bca",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -163,6 +139,29 @@
       ],
       "score": 94,
       "publishedRaw": "Thu, 01 Oct 2026 10:49:44 GMT"
+    },
+    {
+      "id": "aac314005ecd",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sem citar nomes, Lula chama Flávio Bolsonaro de “vira-lata”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/sem-citar-nomes-lula-chama-flavio-bolsonaro-de-vira-lata/",
+      "summary": "Na reta final das eleições, petista tem intensificado as críticas ao seu principal adversário na corrida presidencial",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Fri, 02 Oct 2026 01:48:16 +0000"
     },
     {
       "id": "4537ba955d9e",
@@ -252,53 +251,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
-    },
-    {
-      "id": "9b064a1602a3",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fundador da revista piauí questiona apoio empresarial a Flávio Bolsonaro e aponta riscos à democracia",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fundador-da-revista-piaui-questiona-apoio-empresarial-a-flavio-bolsonaro-e-aponta-riscos-a-democracia.shtml",
-      "summary": "Em artigo publicado na quinta-feira (1º) na revista piauí, seu fundador, João Moreira Salles, sustenta que parte da elite econômica brasileira está disposta a relativizar os riscos à democracia e a valores institucionais para se aproximar da candidatura de Flávio Bolsonaro (PL), movida sobretudo por preocupações com a situação fiscal do país e pela perspectiva de uma agenda econômica mais alinhada aos próprios interesses.\nLeia mais (10/01/2026 - 22h16)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "01 Oct 2026 22:16:00 -0300"
-    },
-    {
-      "id": "b4cf2cecabfa",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao vivo: após desistir de debate da “Globo”, Flávio Bolsonaro faz live",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-apos-desistir-de-debate-da-globo-flavio-bolsonaro-faz-live/",
-      "summary": "A live começa às 21h30 desta 5ª feira (1º.out.2026)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 91,
-      "publishedRaw": "Fri, 02 Oct 2026 00:37:33 +0000"
+      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
     },
     {
       "id": "60a1b9412b99",
@@ -337,11 +293,33 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 89,
+      "publishedRaw": "Thu, 01 Oct 2026 20:18:50 -0000"
+    },
+    {
+      "id": "95bcbf591382",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio: Lula usou seus amigos do Judiciário para impor censura ao debate",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-lula-usou-seus-amigos-do-judiciario-para-impor-censura-ao-debate/",
+      "summary": "Senador afirmou em transmissão ao vivo que a proibição de cadeira vazia e inclusão de candidato inviabilizaram o confronto",
+      "tags": [
+        "censura",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 20:18:50 -0000"
+      "score": 89,
+      "publishedRaw": "Fri, 02 Oct 2026 02:01:06 +0000"
     },
     {
       "id": "c68541649da1",
@@ -358,10 +336,9 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Fri, 02 Oct 2026 01:02:30 +0000"
     },
     {
@@ -379,10 +356,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 90,
+      "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 23:23:50 +0000"
     },
     {
@@ -400,144 +376,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "id": "00265e64ee55",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Polícia isola área do STF após suspeita de bomba em mochila",
-      "link": "https://www.poder360.com.br/poder-seguranca-publica/policia-isola-area-do-stf-apos-suspeita-de-bomba-em-mochila/",
-      "summary": "Homem foi detido após arremessar a mochila em ponto de ônibus próximo ao Supremo; Esquadrão Antibombas atua na ocorrência",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 90,
-      "publishedRaw": "Thu, 01 Oct 2026 23:48:35 +0000"
-    },
-    {
-      "id": "50446db66d31",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/01/nao-se-pode-falar-de-nossa-senhora-diz-gilmar-em-meio-a-polemica-entre-stf-e-tse.ghtml",
-      "summary": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE\nA polêmica envolvendo a remoção de postagens sobre Nossa Senhora Aparecida chegou nesta quinta-feira (1º) de forma lateral ao plenário do Supremo Tribunal Federal (STF).\nEm meio à crise instalada há um mês, que envolve uma batalha de decisões individuais, o ministro Gilmar Mendes comentou que \"não se pode falar o nome de Nossa Senhora\".\nA declaração ocorreu durante uma troca de impressões entre os ministros Cármen Lúcia e Flávio Dino no julgamento que discute a aplicação do Estatuto da Pessoa Idosa a contratos de planos de saúde que foram fechados antes de 2004, quando a norma passou a valer.\nApós seu voto, a ministra Cármen Lúcia afirmou: \"Graças a Deus esse tema veio comigo, eu podia ter morrido antes e não teria o problema do idoso\".\nO ministro Flávio Dino respondeu: \"Não, Vossa Excelência está longe disso, eu tenho certeza\".\nA ministra, que é católica, retrucou: \"Deus e Nossa Senhora que garantam isso\".\nO ministro Flávio Dino emendou: \"Outubro é o mês da Santa\".\nNeste momento, foi possível ouvir o ministro Gilmar Mendes, ao fundo, falar: \"Não se pode falar o nome de Nossa Senhora\".\nDino está no centro de um embate entre o Supremo e o Tribunal Superior Eleitoral (TSE). \n\nNa sexta-feira (25), o ministro André Mendonça, vice-presidente do TSE, determinou a retirada de postagens que ligavam o candidato do PL à Presidência, senador Flávio Bolsonaro, e a família dele a um movimento para retirar o título de padroeira do Brasil de Nossa Senhora Aparecida.\nNo domingo, Dino atendeu a um pedido da defesa do humorista Antonio Tabet e restabeleceu as postagens sob o argumento de que a medida representava censura. \nUm dia depois, o ministro Luiz Fux atendeu a um novo pedido de Flávio Bolsonaro, desta vez no STF, e suspendeu a decisão de Dino, mantendo, portanto, a suspensão das mais de 1.000 postagens.\nO presidente do TSE, Kassio Nunes Marques, chegou a reclamar ao presidente do STF, Edson Fachin, de interferências indevidas do STF no TSE. \nDiante de mais um capítulo da crise, Nunes Marques acabou levando a decisão de Mendonça para o plenário virtual do TSE,  que determinou que a postagem do ator fosse liberada e que fossem excluídas postagens que atribuam falsamente a Flavio Bolsonaro movimento para tirar o título da santa. \nApós o julgamento no TSE, Dino considerou nesta quinta que o caso do ator já estava resolvido porque o TSE seguiu o mesmo entendimento da decisão individual dele, portanto, mantendo a postagem.\nGilmar Mendes, ministro do Supremo Tribunal Federal (STF)\nLuiz Silveira/STF",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "Poder360"
-      ],
       "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 20:35:00 -0000"
-    },
-    {
-      "id": "9462e2e52aae",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Milei volta a atacar Lula e apoiar Flávio às vésperas das eleições no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milei-volta-a-atacar-lula-e-apoiar-flavio-as-vesperas-das-eleicoes-no-brasil.shtml",
-      "summary": "O presidente da Argentina, Javier Milei, voltou a atacar Luiz Inácio Lula da Silva (PT) e demonstrar apoio a Flávio Bolsonaro (PL) nas eleições presidenciais do próximo domingo (4). As declarações foram feitas à revista Le Point, da França, para onde o ultraliberal viajou nesta quarta (30) em busca de investimentos.\nLeia mais (10/01/2026 - 22h15)",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "01 Oct 2026 22:15:00 -0300"
-    },
-    {
-      "id": "7f6ab4daf22c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Manobras no STF deixam recado: fechem o TSE; o que importa é ter ministro favorito",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/manobras-no-stf-deixam-recado-fechem-o-tse-o-que-importa-e-ter-ministro-favorito/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 02 Oct 2026 00:13:27 +0000"
-    },
-    {
-      "id": "09614ac7d6fa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Debate da Globo: Vale tudo para os ministros do TSE e do STF, menos as regras eleitorais",
-      "link": "https://www.estadao.com.br/politica/ricardo-correa/debate-da-globo-vale-tudo-para-os-ministros-do-tse-e-do-stf-menos-as-regras-eleitorais/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 23:10:21 +0000"
-    },
-    {
-      "id": "1a0ad2eb1109",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
-      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 02 Oct 2026 01:39:26 GMT"
+      "publishedRaw": "Thu, 01 Oct 2026 23:00:00 +0000"
     },
     {
       "id": "db7b8885f587",
@@ -562,13 +404,13 @@
       "publishedRaw": "Thu, 01 Oct 2026 12:56:45 GMT"
     },
     {
-      "id": "c826f34ab2ee",
-      "source": "Poder360",
+      "id": "50446db66d31",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "“Globo” cancela debate por causa de decisões do TSE e do STF",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-desistem-e-globo-cancela-debate-presidencial/",
-      "summary": "Gilmar Mendes mandou incluir Renan Santos e Estela Aranha proibiu proibir púlpito vazio para Lula; Flávio desistiu de participar",
+      "title": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/01/nao-se-pode-falar-de-nossa-senhora-diz-gilmar-em-meio-a-polemica-entre-stf-e-tse.ghtml",
+      "summary": "'Não se pode falar de Nossa Senhora', diz Gilmar em meio à polêmica entre STF e TSE\nA polêmica envolvendo a remoção de postagens sobre Nossa Senhora Aparecida chegou nesta quinta-feira (1º) de forma lateral ao plenário do Supremo Tribunal Federal (STF).\nEm meio à crise instalada há um mês, que envolve uma batalha de decisões individuais, o ministro Gilmar Mendes comentou que \"não se pode falar o nome de Nossa Senhora\".\nA declaração ocorreu durante uma troca de impressões entre os ministros Cármen Lúcia e Flávio Dino no julgamento que discute a aplicação do Estatuto da Pessoa Idosa a contratos de planos de saúde que foram fechados antes de 2004, quando a norma passou a valer.\nApós seu voto, a ministra Cármen Lúcia afirmou: \"Graças a Deus esse tema veio comigo, eu podia ter morrido antes e não teria o problema do idoso\".\nO ministro Flávio Dino respondeu: \"Não, Vossa Excelência está longe disso, eu tenho certeza\".\nA ministra, que é católica, retrucou: \"Deus e Nossa Senhora que garantam isso\".\nO ministro Flávio Dino emendou: \"Outubro é o mês da Santa\".\nNeste momento, foi possível ouvir o ministro Gilmar Mendes, ao fundo, falar: \"Não se pode falar o nome de Nossa Senhora\".\nDino está no centro de um embate entre o Supremo e o Tribunal Superior Eleitoral (TSE). \n\nNa sexta-feira (25), o ministro André Mendonça, vice-presidente do TSE, determinou a retirada de postagens que ligavam o candidato do PL à Presidência, senador Flávio Bolsonaro, e a família dele a um movimento para retirar o título de padroeira do Brasil de Nossa Senhora Aparecida.\nNo domingo, Dino atendeu a um pedido da defesa do humorista Antonio Tabet e restabeleceu as postagens sob o argumento de que a medida representava censura. \nUm dia depois, o ministro Luiz Fux atendeu a um novo pedido de Flávio Bolsonaro, desta vez no STF, e suspendeu a decisão de Dino, mantendo, portanto, a suspensão das mais de 1.000 postagens.\nO presidente do TSE, Kassio Nunes Marques, chegou a reclamar ao presidente do STF, Edson Fachin, de interferências indevidas do STF no TSE. \nDiante de mais um capítulo da crise, Nunes Marques acabou levando a decisão de Mendonça para o plenário virtual do TSE,  que determinou que a postagem do ator fosse liberada e que fossem excluídas postagens que atribuam falsamente a Flavio Bolsonaro movimento para tirar o título da santa. \nApós o julgamento no TSE, Dino considerou nesta quinta que o caso do ator já estava resolvido porque o TSE seguiu o mesmo entendimento da decisão individual dele, portanto, mantendo a postagem.\nGilmar Mendes, ministro do Supremo Tribunal Federal (STF)\nLuiz Silveira/STF",
       "tags": [
         "STF",
         "TSE"
@@ -577,11 +419,73 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Mundo"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 20:35:00 -0000"
+    },
+    {
+      "id": "7f6ab4daf22c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Manobras no STF deixam recado: fechem o TSE; o que importa é ter ministro favorito",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/manobras-no-stf-deixam-recado-fechem-o-tse-o-que-importa-e-ter-ministro-favorito/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 89,
-      "publishedRaw": "Thu, 01 Oct 2026 23:56:59 +0000"
+      "score": 88,
+      "publishedRaw": "Fri, 02 Oct 2026 00:13:27 +0000"
+    },
+    {
+      "id": "09614ac7d6fa",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Debate da Globo: Vale tudo para os ministros do TSE e do STF, menos as regras eleitorais",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/debate-da-globo-vale-tudo-para-os-ministros-do-tse-e-do-stf-menos-as-regras-eleitorais/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Thu, 01 Oct 2026 23:10:21 +0000"
+    },
+    {
+      "id": "1a0ad2eb1109",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
+      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Fri, 02 Oct 2026 01:39:26 GMT"
     },
     {
       "id": "1b4ad5bb8d22",
@@ -604,6 +508,26 @@
       ],
       "score": 87,
       "publishedRaw": "Thu, 01 Oct 2026 23:01:12 +0000"
+    },
+    {
+      "id": "b4cf2cecabfa",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ao vivo: após desistir de debate da “Globo”, Flávio Bolsonaro faz live",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-apos-desistir-de-debate-da-globo-flavio-bolsonaro-faz-live/",
+      "summary": "A live começa às 21h30 desta 5ª feira (1º.out.2026)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Fri, 02 Oct 2026 00:37:33 +0000"
     },
     {
       "id": "ee7993de3f8b",
@@ -669,13 +593,13 @@
       "publishedRaw": "Thu, 01 Oct 2026 20:51:21 -0000"
     },
     {
-      "id": "6d80fc03f458",
+      "id": "ccff8a2ab658",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Zema, Caiado e Cury atribuem a Lula cancelamento do debate na Globo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml",
-      "summary": "Os candidatos à Presidência da República que foram à TV Globo nesta quinta-feira (1º) atribuíram ao presidente Lula (PT) o cancelamento do debate na emissora.\nLeia mais (10/01/2026 - 21h53)",
+      "title": "Filha de FHC declara voto em Lula e cita defesa da democracia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/filha-de-fhc-declara-voto-em-lula-e-cita-defesa-da-democracia.shtml",
+      "summary": "Filha do ex-presidente da República Fernando Henrique Cardoso, Beatriz Cardoso declarou que votará em Lula (PT) nesta eleição e que escolheu defender a democracia brasileira.\nLeia mais (10/01/2026 - 23h00)",
       "tags": [
         "Lula"
       ],
@@ -687,49 +611,28 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "01 Oct 2026 21:53:00 -0300"
+      "publishedRaw": "01 Oct 2026 23:00:00 -0300"
     },
     {
-      "id": "eb8d22d5f211",
-      "source": "Folha de São Paulo",
+      "id": "8bcff96c9810",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Datafolha: Lula tem 50% entre católicos, e Flávio, 52% entre evangélicos no 1º turno",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-50-entre-catolicos-e-flavio-52-entre-evangelicos-no-1o-turno.shtml",
-      "summary": "O presidente Lula (PT) oscilou de 45% para 50% das intenções de voto entre os católicos, e o senador Flávio Bolsonaro (PL), de 47% para 52% entre os evangélicos, segundo pesquisa Datafolha divulgada nesta quinta-feira (1º). Ambos mantêm a liderança nos respectivos grupos no primeiro turno.\nLeia mais (10/01/2026 - 21h52)",
+      "title": "“Acho que esses debates não produzem nada”, diz Lula",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/acho-que-esses-debates-nao-produzem-nada-diz-lula/",
+      "summary": "Presidente, que decidiu não participar de debates no primeiro turno, concedeu entrevista ao podcast Flow nesta quinta-feira (1º)",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "01 Oct 2026 21:52:00 -0300"
-    },
-    {
-      "id": "c18bea483baa",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula critica modelo de debate da Globo para justificar ausência em confronto",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-critica-modelo-de-debate-da-globo-para-justificar-ausencia-em-confronto.shtml",
-      "summary": "O presidente Lula (PT) criticou nesta quinta-feira (1º) o formato de debate das televisões para justificar a própria ausência no debate presidencial que seria realizado pela Globo. A afirmação foi feita em entrevista ao Flow Podcast, concedida pelo petista no horário em que ocorreria o evento na emissora.\nLeia mais (10/01/2026 - 21h24)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "01 Oct 2026 21:24:00 -0300"
+      "publishedRaw": "Fri, 02 Oct 2026 01:42:12 +0000"
     },
     {
       "id": "b6315c4d9ef6",
@@ -774,32 +677,11 @@
       "publishedRaw": "Fri, 02 Oct 2026 00:51:57 +0000"
     },
     {
-      "id": "dd5a0c4a01b8",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "“Estão querendo beneficiar o Lula”, afirma Zema após debate ser cancelado",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/estao-querendo-beneficiar-o-lula-afirma-zema-apos-debate-ser-cancelado/",
-      "summary": "Candidato do Novo à Presidência da República citou clima de \"insegurança política\" após emissora cancelar debate nesta quinta-feira (1º)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 02 Oct 2026 00:27:27 +0000"
-    },
-    {
       "id": "901d00c67a11",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Siga: Lula fala em podcast e Flávio faz live; debate na Globo é cancelado",
+      "title": "Siga: Flávio faz live; Lula participou de podcast e debate na Globo foi cancelado",
       "link": "https://www.estadao.com.br/politica/ao-vivo-debate-presidente-globo-2026-sem-lula-e-flavio-encontro-reune-caiado-cury-renan-e-zema/",
       "summary": "",
       "tags": [
@@ -814,6 +696,27 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 23:36:34 +0000"
+    },
+    {
+      "id": "96fa7da34e55",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sem debate na Globo, terceira via perde vitrine e Lula e Flávio ficam como estão, dizem analistas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/sem-debate-na-globo-terceira-via-perde-vitrine-e-lula-e-flavio-ficam-como-estao-dizem-analistas/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 02 Oct 2026 01:46:12 +0000"
     },
     {
       "id": "0044e3d7349d",
@@ -900,6 +803,27 @@
       "publishedRaw": "Thu, 01 Oct 2026 23:44:55 +0000"
     },
     {
+      "id": "025a70ceb518",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula diz que não pede favores a ministros do Supremo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-nao-pede-favores-a-ministros-do-supremo/",
+      "summary": "Presidente elogiou ministro Flávio Dino e disse que interferir no tribunal significa ultrapassar limites entre Poderes",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 02 Oct 2026 02:03:18 +0000"
+    },
+    {
       "id": "2f5902ab704b",
       "source": "Poder360",
       "tipo": "mainstream",
@@ -940,109 +864,6 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 02 Oct 2026 00:47:22 +0000"
-    },
-    {
-      "id": "be5dbcaadcee",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio ironiza acordo de Lula com Santos a 3 dias da eleição",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-ironiza-acordo-de-lula-com-santos-a-3-dias-da-eleicao/",
-      "summary": "Candidato disse que o petista daria terreno de “dezenas de milhões” ao clube e pediu voto ao presidente do clube",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 02 Oct 2026 00:02:35 +0000"
-    },
-    {
-      "id": "bdec44da57c1",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-64-aprovam-e-31-sao-contra-reajuste-no-bolsa-familia-anunciado-por-lula-antes-da-eleicao.shtml",
-      "summary": "O reajuste de 15% no Bolsa Família anunciado pelo presidente Luiz Inácio Lula da Silva (PT) 17 dias antes do primeiro turno das eleições presidenciais tem a aprovação de 64% dos eleitores, enquanto 31% se dizem contra. Outros 3% afirmam ser indiferentes e 2% não opinaram, segundo pesquisa Datafolha divulgada nesta quinta-feira (1º).\nLeia mais (10/01/2026 - 21h07)",
-      "tags": [
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "01 Oct 2026 21:07:00 -0300"
-    },
-    {
-      "id": "4bf907134de7",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE proíbe coligação de Deltan de fazer campanha para o político ao Senado",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-proibe-coligacao-de-deltan-de-fazer-campanha-para-o-politico-ao-senado/",
-      "summary": "Floriano de Azevedo Marques entendeu que permitir a campanha por integrantes da coligação frustraria a suspensão imposta ao candidato, que continuará na urna no domingo (4)",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 02 Oct 2026 01:10:16 +0000"
-    },
-    {
-      "id": "736b238cba32",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quem é Estela Aranha, a ministra do TSE que mudou regra do debate da Globo?",
-      "link": "https://www.estadao.com.br/politica/quem-e-estela-aranha-a-ministra-do-tse-que-mudou-regra-do-debate-da-globo/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 02 Oct 2026 01:23:38 +0000"
-    },
-    {
-      "id": "12ed23761e4e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Nunes Marques rebate críticas sobre lentidão no andamento de processos no TSE",
-      "link": "https://www.estadao.com.br/politica/eleicoes/nunes-marques-rebate-criticas-sobre-lentidao-no-andamento-de-processos-no-tse-nprp/",
-      "summary": "Ministro destacou resposta rápida para as ações; declaração foi dada na última sessão da Corte Eleitoral antes das eleições",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 02 Oct 2026 00:58:58 +0000"
     },
     {
       "id": "f18f10b29a73",
@@ -1099,10 +920,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 81,
+      "score": 77,
       "publishedRaw": "Thu, 01 Oct 2026 12:00:12 -0000"
     },
     {
@@ -1118,11 +938,67 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Economia"
       ],
-      "score": 81,
+      "score": 77,
       "publishedRaw": "Thu, 01 Oct 2026 16:43:58 -0000"
+    },
+    {
+      "id": "4bf907134de7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE proíbe coligação de Deltan de fazer campanha para o político ao Senado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-proibe-coligacao-de-deltan-de-fazer-campanha-para-o-politico-ao-senado/",
+      "summary": "Floriano de Azevedo Marques entendeu que permitir a campanha por integrantes da coligação frustraria a suspensão imposta ao candidato, que continuará na urna no domingo (4)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 02 Oct 2026 01:10:16 +0000"
+    },
+    {
+      "id": "736b238cba32",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quem é Estela Aranha, a ministra do TSE que mudou regra do debate da Globo?",
+      "link": "https://www.estadao.com.br/politica/quem-e-estela-aranha-a-ministra-do-tse-que-mudou-regra-do-debate-da-globo/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 02 Oct 2026 01:23:38 +0000"
+    },
+    {
+      "id": "12ed23761e4e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nunes Marques rebate críticas sobre lentidão no andamento de processos no TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/nunes-marques-rebate-criticas-sobre-lentidao-no-andamento-de-processos-no-tse-nprp/",
+      "summary": "Ministro destacou resposta rápida para as ações; declaração foi dada na última sessão da Corte Eleitoral antes das eleições",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Fri, 02 Oct 2026 00:58:58 +0000"
     },
     {
       "id": "14943241245e",
@@ -1136,11 +1012,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
-      "score": 81,
+      "score": 77,
       "publishedRaw": "Thu, 01 Oct 2026 19:00:55 GMT"
     },
     {
@@ -1155,11 +1030,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
-      "score": 81,
+      "score": 77,
       "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
     },
     {
@@ -1176,10 +1050,9 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Thu, 01 Oct 2026 02:45:25 GMT"
     },
     {
