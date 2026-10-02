@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:17:14.213991+00:00",
+  "generated_at": "2026-10-02T03:47:04.847999+00:00",
   "items": [
     {
       "id": "6c096cc1c2b8",
@@ -46,6 +46,29 @@
       ],
       "score": 94,
       "publishedRaw": "Fri, 02 Oct 2026 00:25:14 -0000"
+    },
+    {
+      "id": "901d00c67a11",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula no Flow, live de Flávio Bolsonaro e repercussão do debate cancelado na Globo",
+      "link": "https://www.estadao.com.br/politica/ao-vivo-debate-presidente-globo-2026-sem-lula-e-flavio-encontro-reune-caiado-cury-renan-e-zema/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Thu, 01 Oct 2026 23:36:34 +0000"
     },
     {
       "id": "e93ee1105bca",
@@ -155,7 +178,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -179,33 +201,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 92,
       "publishedRaw": "Fri, 02 Oct 2026 00:09:47 +0000"
-    },
-    {
-      "id": "9933230e4071",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Governo Trump destina US$ 1 milhão a projeto que contesta atuação do STF e diz combater 'censura' no Brasil, diz jornal",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/01/governo-trump-destina-us-1-milhao-a-projeto-que-contesta-atuacao-do-stf-e-diz-combater-censura-no-brasil-diz-jornal.ghtml",
-      "summary": "Foto de arquivo: Trump com o secretário de Estado, Marco Rubio, no Salão Oval da Casa Branca, em Washington, D.C, em 16 de julho de 2025.\nReuters/Nathan Howard\nOs Estados Unidos destinaram US$ 1 milhão (mais de R$ 5 milhões) a um projeto que financia grupos da sociedade civil contrários ao que o governo americano descreve como excesso de poder judicial e censura por parte do Supremo Tribunal Federal (STF), segundo uma reportagem publicada pelo jornal britânico \"The Guardian\" na quarta-feira (30).\nA verba faz parte de um pacote de US$ 176,9 milhões (cerca de R$ 917 milhões) em 43 concessões do Fundo de Direitos Humanos e Democracia (HRDF, na sigla em inglês) do Departamento de Estado dos EUA. Segundo o \"Guardian\", os recursos foram destinados a projetos que incluem iniciativas de direita e conservadoras em diferentes países.\nO projeto relacionado ao Brasil é chamado de \"Countering Lawfare and Censorship in Brazil\" (\"Combatendo a guerra jurídica e a censura no Brasil\", em tradução livre). \nDe acordo com um documento visto pelo jornal, a iniciativa financiaria organizações da sociedade civil que se opõem ao que o programa classifica como excesso de poder judicial e censura por parte do STF.\nO jornal britânico afirma que a iniciativa faz parte de uma mudança na forma como o governo de Donald Trump direciona recursos do fundo. A nova lista inclui projetos relacionados a temas como imigração, anticomunismo, proteção de cristãos, oposição à chamada \"ideologia de gênero\" e críticas à regulamentação.\nAgora no g1\nO pacote também inclui uma concessão de US$ 40 milhões para um consórcio liderado pela \"Victims of Communism Memorial Foundation\" (Fundação Memorial das Vítimas do Comunismo), organização sem fins lucrativos anticomunista.\nSegundo o jornal, integrantes do governo Trump defenderam pessoalmente algumas das concessões. Um assessor democrata do Congresso americano afirmou que a senadora Jeanne Shaheen havia mantido bloqueios sobre US$ 22 milhões em concessões, incluindo recursos destinados ao Brasil, à África do Sul, à Nigéria e à promoção de uma ideologia de direita no Reino Unido e na Europa.\nAinda segundo o assessor, o secretário de Estado americano, Marco Rubio, assinou pessoalmente um memorando para desconsiderar os bloqueios e liberar os recursos.\nO Departamento de Estado não comentou concessões específicas. Em resposta ao \"Guardian\", afirmou que os programas ainda estavam em \"deliberação ativa\" e que os beneficiários precisariam atender às regras para concessões federais. O departamento também disse que todos os programas passariam por um processo de verificação.",
-      "tags": [
-        "STF",
-        "censura"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 91,
-      "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
     },
     {
       "id": "7db7d0093f37",
@@ -244,7 +244,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -267,7 +266,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -290,7 +288,6 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
@@ -320,48 +317,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 12:56:45 GMT"
     },
     {
-      "id": "09614ac7d6fa",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Debate da Globo: Vale tudo para os ministros do TSE e do STF, menos as regras eleitorais",
-      "link": "https://www.estadao.com.br/politica/ricardo-correa/debate-da-globo-vale-tudo-para-os-ministros-do-tse-e-do-stf-menos-as-regras-eleitorais/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 88,
-      "publishedRaw": "Thu, 01 Oct 2026 23:10:21 +0000"
-    },
-    {
-      "id": "1a0ad2eb1109",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
-      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
-      "tags": [
-        "STF",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 88,
-      "publishedRaw": "Fri, 02 Oct 2026 01:39:26 GMT"
-    },
-    {
       "id": "a56a8f578dae",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
@@ -382,28 +337,6 @@
       ],
       "score": 87,
       "publishedRaw": "01 Oct 2026 23:32:00 -0300"
-    },
-    {
-      "id": "1b4ad5bb8d22",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE proíbe púlpito vazio de Lula, Gilmar obriga ida de Renan, Flávio desiste e Globo cancela debate",
-      "link": "https://www.estadao.com.br/politica/debate-na-globo-tse-proibe-pulpito-vazio-e-perguntas-a-lula-flavio-desiste-e-gilmar-obriga-renan/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 01 Oct 2026 23:01:12 +0000"
     },
     {
       "id": "24af7cdcb8d5",
@@ -735,27 +668,6 @@
       "publishedRaw": "Fri, 02 Oct 2026 01:25:37 +0000"
     },
     {
-      "id": "901d00c67a11",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Siga: Flávio faz live; Lula participou de podcast e debate na Globo foi cancelado",
-      "link": "https://www.estadao.com.br/politica/ao-vivo-debate-presidente-globo-2026-sem-lula-e-flavio-encontro-reune-caiado-cury-renan-e-zema/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 01 Oct 2026 23:36:34 +0000"
-    },
-    {
       "id": "96fa7da34e55",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -817,6 +729,27 @@
       ],
       "score": 85,
       "publishedRaw": "Fri, 02 Oct 2026 00:39:37 +0000"
+    },
+    {
+      "id": "96c75d8329ea",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Tudo que Jaques Wagner quer é depor”, diz Lula sobre caso Master",
+      "link": "https://www.poder360.com.br/poder-governo/tudo-que-jaques-wagner-quer-e-depor-diz-lula-sobre-caso-master/",
+      "summary": "Lula diz que senador do PT não tem culpa e atribui irregularidades à gestão anterior do Banco Central",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 02 Oct 2026 03:24:37 +0000"
     },
     {
       "id": "a68f56bc76ed",
@@ -882,85 +815,44 @@
       "publishedRaw": "Fri, 02 Oct 2026 02:03:18 +0000"
     },
     {
-      "id": "2f5902ab704b",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula critica “Globo” e Luciano Huck e diz que Vorcaro criou “putaria”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-critica-globo-e-luciano-huck-e-diz-que-vorcaro-criou-putaria/",
-      "summary": "Presidente diz que apresentador queria usar avião do fundador do Master para “baratear o programa dele”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 02 Oct 2026 01:13:01 +0000"
-    },
-    {
-      "id": "9a6666479fec",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que debate na “TV Globo” é “infrutífero”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-debate-na-tv-globo-e-infrutifero/",
-      "summary": "Debate seria realizado nesta 5ª feira (1º.out), mas foi cancelado após desistência de Flávio Bolsonaro e decisões do TSE e STF",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 02 Oct 2026 00:47:22 +0000"
-    },
-    {
-      "id": "fe003f70e80c",
+      "id": "09614ac7d6fa",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Polícia Militar descarta bomba após operação para apurar suspeita nos arredores do STF",
-      "link": "https://www.estadao.com.br/politica/policia-militar-do-df-faz-operacao-para-apurar-suspeita-de-bomba-nos-arredores-do-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 84,
-      "publishedRaw": "Thu, 01 Oct 2026 23:23:50 +0000"
-    },
-    {
-      "id": "b0e9c8bdd75d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Decisão de Gilmar que impôs Renan Santos em debate pegou carona em ação antiga no STF",
-      "link": "https://www.estadao.com.br/politica/decisao-de-gilmar-que-impos-renan-santos-em-debate-pegou-carona-em-acao-antiga-no-stf/",
+      "title": "Debate da Globo: Vale tudo para os ministros do TSE e do STF, menos as regras eleitorais",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/debate-da-globo-vale-tudo-para-os-ministros-do-tse-e-do-stf-menos-as-regras-eleitorais/",
       "summary": "",
       "tags": [
         "STF",
-        "Renan Santos"
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "CNN Brasil",
+        "Folha de São Paulo"
       ],
-      "score": 82,
-      "publishedRaw": "Fri, 02 Oct 2026 02:22:23 +0000"
+      "score": 84,
+      "publishedRaw": "Thu, 01 Oct 2026 23:10:21 +0000"
+    },
+    {
+      "id": "1a0ad2eb1109",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
+      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 84,
+      "publishedRaw": "Fri, 02 Oct 2026 01:39:26 GMT"
     },
     {
       "id": "f18f10b29a73",
@@ -1079,6 +971,61 @@
       ],
       "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
+    },
+    {
+      "id": "fe003f70e80c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Polícia Militar descarta bomba após operação para apurar suspeita nos arredores do STF",
+      "link": "https://www.estadao.com.br/politica/policia-militar-do-df-faz-operacao-para-apurar-suspeita-de-bomba-nos-arredores-do-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Thu, 01 Oct 2026 23:23:50 +0000"
+    },
+    {
+      "id": "b0e9c8bdd75d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Decisão de Gilmar que impôs Renan Santos em debate pegou carona em ação antiga no STF",
+      "link": "https://www.estadao.com.br/politica/decisao-de-gilmar-que-impos-renan-santos-em-debate-pegou-carona-em-acao-antiga-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Renan Santos"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo"
+      ],
+      "score": 78,
+      "publishedRaw": "Fri, 02 Oct 2026 02:22:23 +0000"
+    },
+    {
+      "id": "a0bfdce3c8c6",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Liminar do TSE, decisão de Gilmar: o passo a passo até debate ser cancelado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/liminar-do-tse-decisao-de-gilmar-o-passo-a-passo-ate-debate-ser-cancelado/",
+      "summary": "Emissora tomou a medida depois que determinações do TSE e do STF alteraram regras combinadas com os candidatos na reta final do primeiro turno",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 73,
+      "publishedRaw": "Fri, 02 Oct 2026 03:14:29 +0000"
     },
     {
       "id": "4bf907134de7",
