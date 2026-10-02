@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:16:57.807541+00:00",
+  "generated_at": "2026-10-02T01:45:31.706771+00:00",
   "items": [
     {
       "id": "9a1f8b555259",
@@ -119,29 +119,6 @@
       "publishedRaw": "Thu, 01 Oct 2026 22:05:06 -0000"
     },
     {
-      "id": "9071cb056da9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TV Globo cancela debate após desistência de Flávio Bolsonaro e ausência de Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tv-globo-cancela-debate-apos-desistencia-de-flavio-bolsonaro-e-ausencia-de-lula.shtml",
-      "summary": "A TV Globo cancelou o debate presidencial que ocorreria nesta quinta-feira (1º) depois de o senador Flávio Bolsonaro desistir de participar da sabatina. O presidente Lula (PT) já havia comunicado a emissora que não iria ao debate e daria entrevista ao Flow Podcast.\nLeia mais (10/01/2026 - 20h42)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "01 Oct 2026 20:42:00 -0300"
-    },
-    {
       "id": "cfd38255a0cb",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -212,13 +189,13 @@
       "publishedRaw": "Thu, 01 Oct 2026 22:37:43 -0000"
     },
     {
-      "id": "bdf817da1c30",
-      "source": "CNN Brasil",
+      "id": "6349f964cc7f",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Análise: Alas do STF e TSE escancaram decisões pró-Lula",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-alas-do-stf-e-tse-escancaram-decisoes-pro-lula/",
-      "summary": "O analista de Política da CNN Caio Junqueira aponta, no CNN Prime Time, que atuação de ministros do STF e TSE beneficia reeleição de Lula em reta final da campanha",
+      "title": "Candidatos lamentam cancelamento do debate na Globo e fazem críticas a Lula, Flávio, STF e TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/candidatos-lamentam-cancelamento-do-debate-na-globo-e-fazem-criticas-a-lula-flavio-stf-e-tse/",
+      "summary": "",
       "tags": [
         "STF",
         "TSE",
@@ -226,14 +203,14 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 92,
-      "publishedRaw": "Thu, 01 Oct 2026 23:53:04 +0000"
+      "publishedRaw": "Fri, 02 Oct 2026 01:25:14 +0000"
     },
     {
       "id": "9cc5f19d2cb8",
@@ -272,14 +249,35 @@
         "censura"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 91,
       "publishedRaw": "Thu, 01 Oct 2026 12:01:18 -0000"
+    },
+    {
+      "id": "9b064a1602a3",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fundador da revista piauí questiona apoio empresarial a Flávio Bolsonaro e aponta riscos à democracia",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/fundador-da-revista-piaui-questiona-apoio-empresarial-a-flavio-bolsonaro-e-aponta-riscos-a-democracia.shtml",
+      "summary": "Em artigo publicado na quinta-feira (1º) na revista piauí, seu fundador, João Moreira Salles, sustenta que parte da elite econômica brasileira está disposta a relativizar os riscos à democracia e a valores institucionais para se aproximar da candidatura de Flávio Bolsonaro (PL), movida sobretudo por preocupações com a situação fiscal do país e pela perspectiva de uma agenda econômica mais alinhada aos próprios interesses.\nLeia mais (10/01/2026 - 22h16)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "01 Oct 2026 22:16:00 -0300"
     },
     {
       "id": "b4cf2cecabfa",
@@ -336,9 +334,9 @@
         "STF"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
@@ -346,40 +344,40 @@
       "publishedRaw": "Thu, 01 Oct 2026 20:18:50 -0000"
     },
     {
-      "id": "583cacb3d4a4",
-      "source": "Folha de São Paulo",
+      "id": "c68541649da1",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PM apura suspeita de bomba em mochila jogada nas proximidades do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pm-apura-suspeita-de-bomba-em-mochila-jogada-nas-proximidades-do-stf.shtml",
-      "summary": "A Polícia Militar de Brasília apura suspeita de bomba em uma mochila na noite desta quinta-feira (1º) nas proximidades do STF (Supremo Tribunal Federal), na praça dos Três Poderes, região central de Brasília. Um homem de 28 anos foi detido pelos agentes, que vistoriam o local.\nLeia mais (10/01/2026 - 20h30)",
+      "title": "PM descarta suspeita de bomba nas proximidades do STF",
+      "link": "https://www.cnnbrasil.com.br/politica/pm-descarta-suspeita-de-bomba-nas-proximidades-do-stf/",
+      "summary": "Homem de 28 anos foi detido após arremessar uma mochila em ponto de ônibus próximo ao STF; esquadrão anti-bomba e cães farejadores atuaram no local",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
+        "BBC Brasil",
         "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 90,
-      "publishedRaw": "01 Oct 2026 20:30:00 -0300"
+      "publishedRaw": "Fri, 02 Oct 2026 01:02:30 +0000"
     },
     {
       "id": "fe003f70e80c",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Polícia Militar faz operação para apurar suspeita de bomba em mochila jogada nos arredores do STF",
+      "title": "Polícia Militar descarta bomba após operação para apurar suspeita nos arredores do STF",
       "link": "https://www.estadao.com.br/politica/policia-militar-do-df-faz-operacao-para-apurar-suspeita-de-bomba-nos-arredores-do-stf/",
       "summary": "",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -399,8 +397,8 @@
         "STF"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -420,9 +418,9 @@
         "STF"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -445,12 +443,35 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 20:35:00 -0000"
+    },
+    {
+      "id": "9462e2e52aae",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Milei volta a atacar Lula e apoiar Flávio às vésperas das eleições no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/milei-volta-a-atacar-lula-e-apoiar-flavio-as-vesperas-das-eleicoes-no-brasil.shtml",
+      "summary": "O presidente da Argentina, Javier Milei, voltou a atacar Luiz Inácio Lula da Silva (PT) e demonstrar apoio a Flávio Bolsonaro (PL) nas eleições presidenciais do próximo domingo (4). As declarações foram feitas à revista Le Point, da França, para onde o ultraliberal viajou nesta quarta (30) em busca de investimentos.\nLeia mais (10/01/2026 - 22h15)",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "01 Oct 2026 22:15:00 -0300"
     },
     {
       "id": "7f6ab4daf22c",
@@ -467,7 +488,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -490,13 +510,34 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Thu, 01 Oct 2026 23:10:21 +0000"
+    },
+    {
+      "id": "1a0ad2eb1109",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
+      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reconfiguração do confronto com inclusão de Renan Santos e proibição da Globo mostrar púlpitos vazios levou emissora a cancelar o debate alegando 'insegurança jurídica'.",
+      "tags": [
+        "STF",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Fri, 02 Oct 2026 01:39:26 GMT"
     },
     {
       "id": "db7b8885f587",
@@ -536,7 +577,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política"
       ],
@@ -564,28 +604,6 @@
       ],
       "score": 87,
       "publishedRaw": "Thu, 01 Oct 2026 23:01:12 +0000"
-    },
-    {
-      "id": "b4f8bcaabafd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE proíbe TV Globo de exibir púlpito vazio com o nome de Lula durante debate presidencial",
-      "link": "https://www.estadao.com.br/politica/tse-proibe-tv-globo-de-exibir-pulpito-vazio-com-o-nome-de-lula-durante-debate-presidencial/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Thu, 01 Oct 2026 21:36:57 +0000"
     },
     {
       "id": "ee7993de3f8b",
@@ -714,25 +732,46 @@
       "publishedRaw": "01 Oct 2026 21:24:00 -0300"
     },
     {
-      "id": "06f67a28d05c",
-      "source": "Folha de São Paulo",
+      "id": "b6315c4d9ef6",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula e Flávio a ouvirem a palavra debate",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/lula-e-flavio-a-ouvirem-a-palavra-debate.shtml",
-      "summary": "Leia mais (10/01/2026 - 20h46)",
+      "title": "Ministra que proibiu púlpito vazio em debate trabalhou no governo Lula",
+      "link": "https://www.cnnbrasil.com.br/politica/ministra-que-proibiu-pulpito-vazio-em-debate-trabalhou-no-governo-lula/",
+      "summary": "No governo do petista, magistrada do TSE foi secretária do Ministério da Justiça e assessora especial da Presidência da República",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "01 Oct 2026 20:46:00 -0300"
+      "publishedRaw": "Fri, 02 Oct 2026 01:25:37 +0000"
+    },
+    {
+      "id": "81892d53b94f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula bateu em retirada do debate após ser provacado por Flávio, diz Caiado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-bateu-em-retirada-do-debate-apos-ser-provacado-por-flavio-diz-caiado/",
+      "summary": "TV Globo cancelou debate presidencial desta quinta-feira (1º) apontando insegurança judicial após decisões do TSE e do STF",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 02 Oct 2026 00:51:57 +0000"
     },
     {
       "id": "dd5a0c4a01b8",
@@ -775,6 +814,27 @@
       ],
       "score": 85,
       "publishedRaw": "Thu, 01 Oct 2026 23:36:34 +0000"
+    },
+    {
+      "id": "0044e3d7349d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula escolheu o púlpito vazio e foi protegido pelo Judiciário",
+      "link": "https://www.estadao.com.br/politica/raquel-landim/lula-escolheu-o-pulpito-vazio-e-foi-protegido-pelo-judiciario/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Fri, 02 Oct 2026 01:13:45 +0000"
     },
     {
       "id": "222bf4fe0c12",
@@ -925,6 +985,46 @@
       "publishedRaw": "01 Oct 2026 21:07:00 -0300"
     },
     {
+      "id": "4bf907134de7",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE proíbe coligação de Deltan de fazer campanha para o político ao Senado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-proibe-coligacao-de-deltan-de-fazer-campanha-para-o-politico-ao-senado/",
+      "summary": "Floriano de Azevedo Marques entendeu que permitir a campanha por integrantes da coligação frustraria a suspensão imposta ao candidato, que continuará na urna no domingo (4)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 02 Oct 2026 01:10:16 +0000"
+    },
+    {
+      "id": "736b238cba32",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quem é Estela Aranha, a ministra do TSE que mudou regra do debate da Globo?",
+      "link": "https://www.estadao.com.br/politica/quem-e-estela-aranha-a-ministra-do-tse-que-mudou-regra-do-debate-da-globo/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 02 Oct 2026 01:23:38 +0000"
+    },
+    {
       "id": "12ed23761e4e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -943,26 +1043,6 @@
       ],
       "score": 82,
       "publishedRaw": "Fri, 02 Oct 2026 00:58:58 +0000"
-    },
-    {
-      "id": "d77978b1a8f3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Zanin toma posse como ministro substituto do TSE depois de quase um mês de sua eleição",
-      "link": "https://www.estadao.com.br/politica/eleicoes/zanin-toma-posse-como-ministro-substituto-do-tse-depois-de-quase-um-mes-de-sua-eleicao-nprp/",
-      "summary": "Data da posse é definida pelo presidente do TSE",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Thu, 01 Oct 2026 22:17:28 +0000"
     },
     {
       "id": "f18f10b29a73",
@@ -1019,9 +1099,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 12:00:12 -0000"
     },
     {
@@ -1037,9 +1118,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 16:43:58 -0000"
     },
     {
@@ -1054,10 +1136,11 @@
         "eleições"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 19:00:55 GMT"
     },
     {
@@ -1072,10 +1155,11 @@
         "eleições"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
-      "score": 77,
+      "score": 81,
       "publishedRaw": "Thu, 01 Oct 2026 13:02:32 GMT"
     },
     {
@@ -1114,19 +1198,19 @@
       "publishedRaw": "Fri, 02 Oct 2026 00:48:47 +0000"
     },
     {
-      "id": "04971cd1203c",
-      "source": "Estadão",
+      "id": "5ce6ca779951",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Gilmar Mendes obriga Globo a incluir Renan Santos no debate",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-mendes-obriga-globo-a-incluir-renan-santos-no-debate/",
-      "summary": "",
+      "title": "Flávio teve “medo” e fugiu de debate, diz Renan Santos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-teve-medo-e-fugiu-de-debate-diz-renan-santos/",
+      "summary": "Candidato do Missão afirma que desistência do senador se deu diante da possibilidade de enfrentá-lo; Flávio atribuiu ausência a decisão do TSE",
       "tags": [
         "Renan Santos"
       ],
       "crossOutlets": [],
       "score": 60,
-      "publishedRaw": "Thu, 01 Oct 2026 22:28:08 +0000"
+      "publishedRaw": "Fri, 02 Oct 2026 01:32:33 +0000"
     },
     {
       "id": "84b2ae4914f2",
