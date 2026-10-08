@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:31:33.927457+00:00",
+  "generated_at": "2026-10-08T00:53:00.268590+00:00",
   "items": [
     {
       "id": "c270353a4246",
@@ -50,13 +50,13 @@
       "publishedRaw": "Wed, 07 Oct 2026 15:27:16 -0000"
     },
     {
-      "id": "348dd8307196",
-      "source": "CNN Brasil",
+      "id": "ddcf5ee3c50e",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro venceu em 714 municípios que deram vitória a Lula em 2022",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-venceu-em-714-municipios-que-deram-vitoria-a-lula-em-2022/",
-      "summary": "Levantamento da CNN mostra avanço de Flávio sobre cidades de Lula e manutenção do voto bolsonarista nos municípios que haviam escolhido Jair em 2022",
+      "title": "Críticas de aliados a Janja se intensificam após Lula terminar primeiro turno atrás de Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/criticas-de-aliados-a-janja-se-intensificam-apos-lula-terminar-primeiro-turno-atras-de-flavio-bolsonaro.shtml",
+      "summary": "A desvantagem do presidente Lula (PT) na corrida presidencial fez com que petistas e aliados não escondessem desconforto com o excesso de exposição da primeira-dama, Rosângela Lula da Silva, a Janja, no primeiro turno.\nLeia mais (10/07/2026 - 20h36)",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro",
@@ -64,6 +64,30 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "07 Oct 2026 20:36:00 -0300"
+    },
+    {
+      "id": "0f06886bc2b5",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quais são as propostas de Flávio Bolsonaro e de Lula sobre a escala 6x1",
+      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lula defende no plano de governo o fim da escala 6x1 e redução para 40 horas semanais sem corte de salário; Flávio Bolsonaro apoia proposta que cria pagamento por hora e jornada flexível no Senado.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
@@ -71,7 +95,31 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Wed, 07 Oct 2026 20:20:47 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 15:22:23 GMT"
+    },
+    {
+      "id": "f8c6ee2ad3e2",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
+      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC News Brasil preparou especial interativo com as propostas e posicionamentos dos candidatos em oito áreas: economia e emprego; saúde; educação; política e corrupção; meio ambiente; programas sociais e direitos humanos; política externa; e segurança.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 06 Oct 2026 14:16:53 GMT"
     },
     {
       "id": "f8c6ee2ad3e2",
@@ -102,9 +150,9 @@
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais poderoso e conservador?",
+      "title": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais conservador?",
       "link": "https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss",
-      "summary": "PL fez bancadas recordes na Câmara e no Senado, enquanto Centrão encolheu e esquerda ficou estável. Especialistas apontam possíveis cenários para o ano que vem.",
+      "summary": "PL fez bancadas recordes, enquanto Centrão encolheu e esquerda ficou estável. Especialistas apontam possíveis cenários para o ano que vem.",
       "tags": [
         "Congresso",
         "Bolsonaro",
@@ -115,20 +163,19 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 93,
       "publishedRaw": "Wed, 07 Oct 2026 16:13:34 GMT"
     },
     {
-      "id": "19096660af98",
+      "id": "59c76c152dce",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Oposição tenta adiar votação do fim da escala 6x1: 'Não faz bem para o país', diz coordenador da campanha de Flávio Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/07/oposicao-tenta-adiar-votacao-do-fim-da-escala-6x1-nao-faz-bem-para-o-pais-diz-coordenador-da-campanha-de-flavio-bolsonaro.ghtml",
-      "summary": "ANÁLISE: Os impactos da escala 6x1 na campanha de Flávio Bolsonaro e Lula no segundo turno\nA oposição ao governo do presidente Luiz Inácio Lula da Silva (PT) no Senado Federal tenta adiar a votação do fim da escala 6x1, prevista para a próxima semana. Senadores bolsonaristas se reuniram nesta quarta-feira (7) e decidiram pedir ao presidente da Casa, Davi Alcolumbre (União-AP), para que a votação seja feita somente depois do resultado da eleição presidencial.\nO coordenador da campanha de Flávio Bolsonaro (PL) à Presidência da República, senador Rogério Marinho (PL-RN), disse que eles não se negam a discutir a jornada de trabalho no Brasil, mas que, neste momento, não é o ideal. Ele evitou dizer, no entanto, como o partido vai votar na proposta.\n\"Não faz bem ao país votar um assunto dessa gravidade, dessa importância e com essa repercussão da maneira que está sendo votado”, disse Rogério Marinho.\nPara tentar negociar com Alcolumbre, os senadores escolheram a senadora Tereza Cristina (PP-MT) como porta-voz. Segundo eles, Tereza irá tentar conversar com o presidente do Senado ainda nesta quarta-feira (7). \nNa terça-feira (6), Flávio Bolsonaro foi questionado sobre a PEC do governo e, mais uma vez, defendeu a proposta alternativa. O texto da oposição prevê a possibilidade de redução da jornada, com redução proporcional do salário.\nEntre os pedidos está que, caso ele queira votar, que faça somente a primeira votação da Proposta de Emenda à Constituição (PEC) do fim da 6x1 e deixe o restante para depois.\nUma PEC precisa ser votada duas vezes antes de ser considerada aprovada. O que abre margem para que, mesmo com a primeira aprovação, a proposta não siga adiante após as eleições. \nSenador Rogerio Marinho (PL-RN) concede entrevista\nCarlos Moura/Agência Senado\nGoverno quer acelerar votação \nAlcolumbre rebateu as falar da oposição e disse que seu compromisso era não votar durante as eleições para o Legislativo. A disputa para o Senado não tem segundo turno, então já foi encerrada.\nAgora, segundo o presidente do Senado, cada senador pode votar o fim da 6x1 sem pressão de ser a favor ou contra para se reeleger. Disse ainda que pode acelerar a votação, se essa for a decisão do plenário.\n\"Eu, como presidente do Senado, vou submeter ao voto, porque, do ponto de vista regimental, quando era interessante para uns ou para outros terem um calendário especial para acelerar a votação de uma PEC, eles apresentaram\", disse Alcolumbre.\nEm seguida, a líder do Governo no Senado, Teresa Leitão (PT-PB), disse já estar recolhendo assinaturas para pedir calendário especial e votar o fim da 6x1 antes do segundo turno. \n\"A cara de quem é contra [o fim da 6x1] tem que ser mostrada\", disse a senadora.\nPelas regras do Senado, a proposta precisa ser discutida durante cinco sessões no plenário antes da primeira votação. A primeira sessão de discussão foi feita na terça-feira (6) e a segunda será hoje. \nDepois das cinco sessões e da votação em primeiro turno, pelo regimento, deve-se esperar mais 5 dias úteis, ter mais três sessões de discussão e só depois votar o segundo turno. \nCaso emendas sejam apresentadas, o prazo é maior, para análise das emendas pela Comissão de Constituição e Justiça (CCJ) do Senado. A oposição já disse que pretende apresentar emendas.\nMarinho afirmou que irá pedir que o regimento seja cumprido, e assim deixar a votação para depois do fim de outubro e depois do resultado da disputa pela presidência entre Lula e Flávio. Mas o regimento também permite a quebra dos prazos, desde que aprovada pelo plenário do Senado. \nMomento da eleição\nOs senadores da oposição criticaram o presidente do Senado por pautar a PEC que acaba com a escala de trabalho de 44 horas semanais e garante dois dias de descanso remunerados por semana para os trabalhadores em pauta. Apesar disso, reconhecem que o governo já tem os 49 votos favoráveis necessários para aprovar a proposta.\nA senadora Damares Alves (Republicanos-DF) disse que é a favor da mudança, mas questionou a escolha de Alcolumbre de colocar o tema em votação nos próximos dias. \n\"Jogar entre o primeiro e segundo turno? Eu tenho matérias mais importantes ali na pauta”, disse a senadora. \"Essa matéria pautada é para desgastar a imagem do Flávio\", continua.\nEntre os governistas, o clima ainda é de lutar para aprovar o texto em dois turnos antes do segundo turno. Apostam ainda em expor integrantes da oposição que tentem evitar a votação do fim da 6x1. \nSe aprovada, a PEC deve seguir a seguinte cronologia: \nem dois meses, redução da jornada semanal para 42 horas, com dois dias de repouso semanal remunerado; \nem um ano após esses dois meses, redução da jornada semanal para 40 horas. \nCarteira de trabalho\nJorge Júnior/Rede Amazônica",
+      "title": "Flávio Bolsonaro volta a falar em 'redemocratizar' o Brasil: 'instituições têm que voltar a ser respeitadas'",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-bolsonaro-volta-a-falar-em-redemocratizar-o-brasil-instituicoes-precisam-voltar-a-ser-respeitadas.ghtml",
+      "summary": "O candidato à Presidência da República Flávio Bolsonaro (PL) voltou a falar nesta quarta-feira (7) em \"redemocratizar\" o Brasil. Mais cedo, senador afirmou que medida se referia a propostas já anunciadas por ele caso seja eleito (veja mais abaixo).\n\"A gente tem que buscar a estabilidade nesse país. Não dar para admitir o Supremo Tribunal Federal da forma como está, a gente tem que proteger as instituições. Não é por causa de um ou outro que a gente tem que baixar a cabeça e achar que tá tudo bem, porque não está tudo bem. Inclusive de ontem para hoje, uma parte da imprensa questionando, é a papel da imprensa questionar, quando eu falo que a gente tem que redemocratizar o Brasil. A gente tem que redemocratizar, porque as instruções têm que voltar a ser respeitadas\", disse Flávio.\n\"Olha o que o povo brasileiro falou nas urnas. Olha o Congresso Nacional que será configurado a partir de janeiro. Acho que nenhum um presidente da República com meu perfil casou tanto com um Congresso como esse de centro-direita, em que a maioria está ali estabelecida por identidade programática\".\nO senador deu a declaração durante evento de anúncio de apoio do partido Republicanos à sua candidatura no segundo turno das eleições.\nRepublicanos declara apoio a Flávio Bolsonaro no segundo turno\nNa manhã desta quarta, Flávio afirmou que a declaração sobre querer \"mudar a Constituição para redemocratizar o país\" se referia a propostas já anunciadas por ele caso seja eleito, como a redução da maioridade penal e mudanças no Supremo Tribunal Federal (STF).\n\"Vocês acham que o Brasil está numa democracia plena? Não. A gente tem que respeitar a política, tem várias PECs [propostas de mudanças na Constituição] que são possíveis\", disse.\n“Tem que haver, sim, uma reforma no Judiciário. Eu sou a favor da redução da maioridade penal há bastante tempo, tem que ser feito por PEC. Tem pontos da reforma tributária que têm que ser alterados por PEC. E o fim da reeleição\", prosseguiu.\nDurante viagem a Goiânia nessa terça-feira (6), Flávio falou que, caso seja eleito, quer usar a maioria no Congresso conquistada nas urnas no último domingo (4) para \"mudar a Constituição\", mas não disse o que pretende alterar.\nEle deu a declaração ao lado do candidato derrotado no primeiro turno Ronaldo Caiado (PSD), que anunciou apoio à candidatura dele.\nO candidato à presidência do Brasil, Flávio Bolsonaro, do Partido Liberal (PL), fala com a imprensa no dia de um encontro com representantes de partidos políticos que apoiam sua campanha para o segundo turno das eleições, em Brasília, Brasil, em 7 de outubro de 2026\nREUTERS/Diego Herculano",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
@@ -138,8 +185,51 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 07 Oct 2026 22:51:28 -0000"
+    },
+    {
+      "id": "776781d2cfa7",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Republicanos declara apoio a Flávio Bolsonaro no segundo turno",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/republicanos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml",
+      "summary": "Republicanos declara apoio a Flávio Bolsonaro no segundo turno\nO partido Republicanos declarou nesta quarta-feira (7) apoio a Flávio Bolsonaro (PL) no segundo turno da eleição presidencial contra o presidente Luiz Inácio Lula da Silva (PT).\nO anúncio foi realizado após uma reunião do presidente nacional do Republicanos, deputado Marcos Pereira (SP) e lideranças do partido com o senador Flávio Bolsonaro. Estavam presentes o governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos), o senador e governador eleito de Minas Gerais, Cleitinho (Republicanos), entre outros membros do partido.\n\"O primeiro turno passou, o povo falou, e agora o Brasil tem diante de si uma escolha clara entre dois caminhos. Parlamentares e lideranças do nosso partido em todo o país, venho anunciar que o Republicanos vai apoiar Flávio Bolsonaro para presidente da República. Mas mantenho meu respeito a realidades locais, e cito Paraíba e Pernambuco\", disse Pereira.\n\"Não é uma decisão incondicional, mas nasce da voz das urnas e de um sentimento que a gente ouve em toda esquina, o brasileiro quer ter esperança de novo [...]  tenho que dizer com sinceridade: não é um cheque em branco. O voto de milhões de brasileiros dá poder, mas dá antes de tudo responsabilidade\", disse o presidente do Republicanos.\nO presidente da sigla, Marcos Pereira, disse que a legenda está disposta a participar de um eventual governo de Flávio, mas disse que ainda não há um debate sobre em que área poderia ocorrer a colaboração. \n“Conte com o Republicanos nas reformas, na responsabilidade fiscal, no apoio aos municípios, na segurança, e conte também com nossa franqueza, porque apoiar não é se calar.”\nFlávio Bolsonaro (PL) e integrantes do partido Republicanos durante anuncio de apoio no segundo turno\nReprodução/ TV Globo\nDurante o evento, o candidato Flávio Bolsonaro voltou a falar em \"redemocratizar\" o país.\n\"A gente tem que buscar a estabilidade nesse país. Não dá para admitir o Supremo Tribunal Federal da forma como está, a gente tem que proteger as instituições. Não é por causa de um ou outro que a gente tem que baixar a cabeça e achar que tá tudo bem, porque não está tudo bem. [...] A gente tem que redemocratizar, porque as instruções têm que voltar a ser respeitadas\", disse Flávio.\nNo primeiro turno, o partido adotou uma posição de neutralidade na disputa pela Presidência da República.\nFlávio Bolsonaro e Luiz Inácio Lula da Silva disputarão o segundo turno em 25 de outubro. No primeiro turno, Flávio Bolsonaro teve 47,03% dos votos válidos, e Lula, 45,16%.\nNas eleições deste ano o Republicanos manteve 41 cadeiras na Câmara dos Deputados e elegeu 2 senadores.\nApoios no segundo turno\nNesta quarta, a ex-candidata à Presidência Clariana Barão (DC) declarou apoio ao candidato do PL no segundo turno. O anúncio de Clariana engrossa a lista de apoios recebidos por Flávio Bolsonaro desde o primeiro turno.\nNesta quarta (7), ACM Neto também declarou apoio ao candidato e afirmou que trabalhará por sua eleição na Bahia.\nA federação formada por União Brasil e PP já havia anunciado na terça (6) apoio a Flávio Bolsonaro.\nTambém declararam apoio ao candidato do PL o ex-presidente Michel Temer (MDB), o ex-candidato à Presidência Romeu Zema (Novo) e o também ex-presidenciável Ronaldo Caiado (PSD).",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 07 Oct 2026 22:22:12 -0000"
+    },
+    {
+      "id": "19096660af98",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Oposição tenta adiar votação do fim da escala 6x1: 'Não faz bem para o país', diz coordenador da campanha de Flávio Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/07/oposicao-tenta-adiar-votacao-do-fim-da-escala-6x1-nao-faz-bem-para-o-pais-diz-coordenador-da-campanha-de-flavio-bolsonaro.ghtml",
+      "summary": "ANÁLISE: Os impactos da escala 6x1 na campanha de Flávio Bolsonaro e Lula no segundo turno\nA oposição ao governo do presidente Luiz Inácio Lula da Silva (PT) no Senado Federal tenta adiar a votação do fim da escala 6x1, prevista para a próxima semana. Senadores bolsonaristas se reuniram nesta quarta-feira (7) e decidiram pedir ao presidente da Casa, Davi Alcolumbre (União-AP), para que a votação seja feita somente depois do resultado da eleição presidencial.\nO coordenador da campanha de Flávio Bolsonaro (PL) à Presidência da República, senador Rogério Marinho (PL-RN), disse que eles não se negam a discutir a jornada de trabalho no Brasil, mas que, neste momento, não é o ideal. Ele evitou dizer, no entanto, como o partido vai votar na proposta.\n\"Não faz bem ao país votar um assunto dessa gravidade, dessa importância e com essa repercussão da maneira que está sendo votado”, disse Rogério Marinho.\nPara tentar negociar com Alcolumbre, os senadores escolheram a senadora Tereza Cristina (PP-MT) como porta-voz. Tereza se reuniu com o presidente do Senado na tarde desta quarta e disse que gostaria de adiar a votação da proposta.\nNa ocasião, Alcolumbre reafirmou à senadora que vai seguir o regimento da Casa.\nNa terça-feira (6), Flávio Bolsonaro foi questionado sobre a PEC do governo e, mais uma vez, defendeu a proposta alternativa. O texto da oposição prevê a possibilidade de redução da jornada, com redução proporcional do salário.\nEntre os pedidos está que, caso ele queira votar, que faça somente a primeira votação da Proposta de Emenda à Constituição (PEC) do fim da 6x1 e deixe o restante para depois.\nUma PEC precisa ser votada duas vezes antes de ser considerada aprovada. O que abre margem para que, mesmo com a primeira aprovação, a proposta não siga adiante após as eleições. \nSenador Rogerio Marinho (PL-RN) concede entrevista\nCarlos Moura/Agência Senado\nGoverno quer acelerar votação \nAlcolumbre rebateu as falar da oposição e disse que seu compromisso era não votar durante as eleições para o Legislativo. A disputa para o Senado não tem segundo turno, então já foi encerrada.\nAgora, segundo o presidente do Senado, cada senador pode votar o fim da 6x1 sem pressão de ser a favor ou contra para se reeleger. Disse ainda que pode acelerar a votação, se essa for a decisão do plenário.\n\"Eu, como presidente do Senado, vou submeter ao voto, porque, do ponto de vista regimental, quando era interessante para uns ou para outros terem um calendário especial para acelerar a votação de uma PEC, eles apresentaram\", disse Alcolumbre.\nEm seguida, a líder do Governo no Senado, Teresa Leitão (PT-PB), disse já estar recolhendo assinaturas para pedir calendário especial e votar o fim da 6x1 antes do segundo turno. \n\"A cara de quem é contra [o fim da 6x1] tem que ser mostrada\", disse a senadora.\nPelas regras do Senado, a proposta precisa ser discutida durante cinco sessões no plenário antes da primeira votação. A primeira sessão de discussão foi feita na terça-feira (6) e a segunda será hoje. \nDepois das cinco sessões e da votação em primeiro turno, pelo regimento, deve-se esperar mais 5 dias úteis, ter mais três sessões de discussão e só depois votar o segundo turno. \nCaso emendas sejam apresentadas, o prazo é maior, para análise das emendas pela Comissão de Constituição e Justiça (CCJ) do Senado. A oposição já disse que pretende apresentar emendas.\nMarinho afirmou que irá pedir que o regimento seja cumprido, e assim deixar a votação para depois do fim de outubro e depois do resultado da disputa pela presidência entre Lula e Flávio. Mas o regimento também permite a quebra dos prazos, desde que aprovada pelo plenário do Senado. \nMomento da eleição\nOs senadores da oposição criticaram o presidente do Senado por pautar a PEC que acaba com a escala de trabalho de 44 horas semanais e garante dois dias de descanso remunerados por semana para os trabalhadores em pauta. Apesar disso, reconhecem que o governo já tem os 49 votos favoráveis necessários para aprovar a proposta.\nA senadora Damares Alves (Republicanos-DF) disse que é a favor da mudança, mas questionou a escolha de Alcolumbre de colocar o tema em votação nos próximos dias. \n\"Jogar entre o primeiro e segundo turno? Eu tenho matérias mais importantes ali na pauta”, disse a senadora. \"Essa matéria pautada é para desgastar a imagem do Flávio\", continua.\nEntre os governistas, o clima ainda é de lutar para aprovar o texto em dois turnos antes do segundo turno. Apostam ainda em expor integrantes da oposição que tentem evitar a votação do fim da 6x1. \nSe aprovada, a PEC deve seguir a seguinte cronologia: \nem dois meses, redução da jornada semanal para 42 horas, com dois dias de repouso semanal remunerado; \nem um ano após esses dois meses, redução da jornada semanal para 40 horas. \nCarteira de trabalho\nJorge Júnior/Rede Amazônica",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
       ],
       "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 18:14:36 -0000"
@@ -161,34 +251,10 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 14:43:13 -0000"
-    },
-    {
-      "id": "987b441f6a1e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Flávio Bolsonaro alertam para risco de discurso sobre mudança na Constituição e clima de 'já ganhou'",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/07/aliados-de-flavio-bolsonaro-alertam-para-risco-de-discurso-sobre-mudanca-na-constituicao-e-clima-de-ja-ganhou.ghtml",
-      "summary": "Valdo: Flávio Bolsonaro foi aconselhado a 'baixar o tom'\nAliados do candidato do PL à Presidência da República, Flávio Bolsonaro, alertam para o risco de declarações como a de mudar a Constituição para “redemocratizar o país”, que podem transmitir uma mensagem de autoritarismo. Também pedem que o senador evite adotar um tom de “já ganhou”.\nNa avaliação desses interlocutores, o momento é favorável a Flávio Bolsonaro, que chegou ao segundo turno à frente de Luiz Inácio Lula da Silva (PT), mas a diferença entre os dois candidatos ainda pode ser revertida.\nSegundo aliados do senador, Flávio Bolsonaro adotou nesta terça-feira (6), em Goiânia, um tom de quem já se considerava eleito e começava a planejar as primeiras medidas de um eventual governo, entre elas mudanças na Constituição.\nDesde a redemocratização, os candidatos que terminaram o primeiro turno à frente também venceram o segundo turno das eleições presidenciais (leia mais abaixo). \nInterlocutores de Flávio, no entanto, avaliam que esse histórico não é garantia de vitória e consideram perigoso entrar na etapa final da disputa de “salto alto”.\nAo receber o apoio do ex-governador de Goiás, Ronaldo Caiado, Flávio Bolsonaro afirmou que um Congresso com maioria de direita permitiria fazer mudanças na Constituição para “redemocratizar o país”.\nA declaração foi explorada por aliados do presidente Lula, que afirmaram que o candidato do PL estaria planejando medidas autoritárias capazes de colocar em risco regras democráticas.\nInterlocutores de Flávio Bolsonaro buscaram explicar a declaração. Segundo eles, o candidato não pretende adotar medidas autoritárias e as cláusulas pétreas da Constituição não podem ser abolidas por emenda constitucional. \nEntre as garantias protegidas estão o voto direto, secreto, universal e periódico; a separação dos Poderes; e os direitos e garantias individuais.\nNa interpretação desses aliados, o senador queria sinalizar que, com uma maioria no Congresso, teria condições políticas de levar adiante propostas de campanha que dependem do Legislativo, como a redução da maioridade penal de 18 para 16 anos e mudanças no Judiciário.\nRonaldo Caiado e Flávio Bolsonaro, em Goiânia\nWildes Barbosa/O Popular\nApoios\nNesta primeira semana do segundo turno, Flávio Bolsonaro saiu na frente na busca por apoios políticos. \nConseguiu as adesões de Ronaldo Caiado e Romeu Zema, além de União Brasil e Progressistas. Nesta quarta (7), Republicanos e Podemos podem seguir o mesmo caminho.\nO candidato do PL busca atrair a maior parte dos 8% dos votos que foram destinados aos demais candidatos de direita no primeiro turno, parcela que pode ser decisiva para o resultado da eleição.\nMudança de tom\nNa manhã desta quarta, Flávio Bolsonaro usou um tom mais moderado em sua fala, e prometeu respeito à Constituição. \nO candidato afirmou ainda não ter procedência avaliações de que ele poderia adotar medidas autoritárias. \n\"Eu já vi gente começar a dizer: 'Ah, agora o Flávio com esse Congresso com ampla maioria ele vai fazer o que o pai dele não fez'. Vamos parar de mentir, vamos aterrizar no mundo real, para de fazer torcida\", afirmou.\n\"Eu respeito o trabalho de todo mundo, mas são pessoas que são influentes, as vozes são ouvidas por alguns outros brasileiros na audiência deles ali. A ameaça que tem à democracia tem é com o Lula. Vocês estão vendo aí, gente. Não vai ter com Flávio Bolsonaro\", prosseguiu.\nFlávio reforçou que o Brasil tem que voltar ao normal e que, com ele no governo, o Brasil vai ter segurança jurídica e respeito à Constituição.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 13:07:32 -0000"
     },
     {
       "id": "ed9178354699",
@@ -207,45 +273,19 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 12:27:34 -0000"
     },
     {
-      "id": "8d48a00aeb15",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro propõe congelar dívidas das famílias, aos moldes de Desenrola de Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-propoe-congelar-dividas-das-familias-aos-moldes-de-desenrola-de-lula.shtml",
-      "summary": "O senador e candidato a presidente Flávio Bolsonaro (PL) afirmou nesta quarta-feira (7) que a proposta para resolver o endividamento da população vai envolver a compra de dívidas pelo governo e suspensão do pagamento de parcelas, a exemplo do programa Desenrola do governo Lula (PT).\nLeia mais (10/07/2026 - 16h40)",
-      "tags": [
-        "Bolsonaro",
-        "família",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "07 Oct 2026 16:40:00 -0300"
-    },
-    {
-      "id": "ea22daaa3260",
+      "id": "a827ad063280",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "QG de Flávio Bolsonaro traça estratégias contra fake news",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/qg-de-flavio-bolsonaro-traca-estrategias-contra-fake-news/",
-      "summary": "Campanha detectou onda \"descomunal\" de desinformação nas redes sociais e planeja rebater mentiras com fact-checking e judicialização; a apuração é da âncora da CNN Débora Bergamasco ao CNN 360°",
+      "title": "Podemos deve anunciar apoio a Flávio Bolsonaro nesta quinta",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/podemos-deve-anunciar-apoio-a-flavio-bolsonaro-nesta-quinta/",
+      "summary": "Sigla pretende se juntar a União Brasil, PP, Novo e Republicanos no apoio ao candidato do PL à Presidência",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
@@ -255,11 +295,56 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 07 Oct 2026 23:17:11 +0000"
+    },
+    {
+      "id": "79cf9f6eab03",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Republicanos anuncia apoio a Flávio Bolsonaro no 2º turno",
+      "link": "https://www.estadao.com.br/politica/eleicoes/republicanos-anuncia-apoio-a-flavio-bolsonaro-no-2-turno/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 92,
+      "publishedRaw": "Wed, 07 Oct 2026 22:43:15 +0000"
+    },
+    {
+      "id": "57fdead0079e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com Flávio à frente nas urnas, ministros do STF próximos de Lula afagam bolsonarismo",
+      "link": "https://www.estadao.com.br/politica/carolina-brigido/com-flavio-a-frente-nas-urnas-ministros-do-stf-proximos-de-lula-afagam-bolsonarismo/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "urnas",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 20:22:46 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 21:00:00 +0000"
     },
     {
       "id": "4948bf058a91",
@@ -278,8 +363,7 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 19:46:15 +0000"
@@ -301,57 +385,32 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 17:25:44 +0000"
     },
     {
-      "id": "924242f5c24f",
+      "id": "2d45c6694094",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Novo declara apoio a Flávio Bolsonaro no segundo turno",
-      "link": "https://www.estadao.com.br/politica/eleicoes/novo-declara-apoio-a-flavio-bolsonaro-no-2-turno-nprp/",
-      "summary": "Além do Novo, Flávio conta também com o apoio de Ronaldo Caiado, Tarcísio de Freitas e União Progressista",
+      "title": "Michelle Bolsonaro diz esperar que Flávio seja eleito e afirma que ele pode contar com o PL Mulher",
+      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-diz-esperar-que-flavio-seja-eleito-e-afirma-que-ele-pode-contar-com-o-pl-mulher/",
+      "summary": "",
       "tags": [
         "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Michelle Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 18:57:31 +0000"
-    },
-    {
-      "id": "ba69154b52ad",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ao lado de Michelle, Flávio diz que Jair Bolsonaro subirá rampa na posse e passa a faixa presidencial a ele",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ao-lado-de-michelle-flavio-diz-que-jair-bolsonaro-subira-rampa-na-posse-e-passa-a-faixa-presidencial-a-ele.shtml",
-      "summary": "O senador e candidato a presidente Flávio Bolsonaro (PL) afirmou nesta quarta-feira (7) que seu pai, o ex-presidente Jair Bolsonaro (PL), vai subir com ele a rampa do Palácio do Planalto em uma eventual posse, caso seja eleito no segundo turno contra o presidente Lula (PT).\nLeia mais (10/07/2026 - 16h50)",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "07 Oct 2026 16:50:00 -0300"
+      "score": 90,
+      "publishedRaw": "Wed, 07 Oct 2026 19:24:14 +0000"
     },
     {
       "id": "00284d359568",
@@ -377,133 +436,46 @@
       "publishedRaw": "Wed, 07 Oct 2026 19:49:47 +0000"
     },
     {
-      "id": "2d45c6694094",
-      "source": "Estadão",
+      "id": "3816988ac3e5",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Michelle Bolsonaro diz esperar que Flávio seja eleito e afirma que ele pode contar com o PL Mulher",
-      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-diz-esperar-que-flavio-seja-eleito-e-afirma-que-ele-pode-contar-com-o-pl-mulher/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 07 Oct 2026 19:24:14 +0000"
-    },
-    {
-      "id": "5b55de0f65ed",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
-      "summary": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição'\nO candidato à Presidência Flávio Bolsonaro (PL) afirmou, nesta quarta-feira (7), que a declaração sobre querer \"mudar a Constituição para redemocratizar o país\" se referia a propostas já anunciadas por ele caso seja eleito, como a redução da maioridade penal e mudanças no Supremo Tribunal Federal (STF).\n\"Vocês acham que o Brasil está numa democracia plena? Não. A gente tem que respeitar a política, tem várias PECs [propostas de mudanças na Constituição] que são possíveis\", disse. \n“Tem que haver, sim, uma reforma no Judiciário. Eu sou a favor da redução da maioridade penal há bastante tempo, tem que ser feito por PEC. Tem pontos da reforma tributária que têm que ser alterados por PEC. E o fim da reeleição\", prosseguiu.\n\"Comigo não vai ter isso, vai ter estabilidade, vai ter paz para todo mundo trabalhar, vai ter segurança jurídica, respeito à Constituição. Vai ser o normal. O Brasil tem que voltar ao normal\". \nDurante viagem a Goiânia nessa terça-feira (6), Flávio falou que, caso seja eleito, quer usar a maioria no Congresso conquistada nas urnas no último domingo (4) para \"mudar a Constituição\", mas não disse o que pretende alterar.\nEle deu a declaração em Goiânia, ao lado do candidato derrotado no primeiro turno Ronaldo Caiado (PSD), que anunciou apoio à candidatura dele.\nFlávio Bolsonaro (PL)\nFoto: Vittor Sales\nQuestionado pela imprensa nesta quarta (7) sobre o que quis dizer com a declaração, o candidato adotou um tom mais moderado em respeito à Constituição, e tentou afastar qualquer possibilidade de medidas autoritárias.\n\"Comigo vai ser sempre com ponderação, com respeito à política e honrando e respeitando cada seguimento da sociedade aqui representado nesses parlamentares, não só os deputados estaduais e federais que estão aqui, mas os governadores, as candidatas ao governo que estão concorrendo ainda, os senadores\", disse.\nEle também comentou críticas que a declaração vem sofrendo. \"Eu já vi gente começar a dizer: 'Ah, agora o Flávio com esse Congresso com ampla maioria ele vai fazer o que o pai dele não fez [no caso da trama golpista]. Vamos parar de mentir, vamos aterrizar no mundo real\". \nA reforma do Judiciário já aparece no programa de governo de Flávio Bolsonaro, que reúne propostas principalmente relacionadas ao Supremo Tribunal Federal (STF), entre elas mudanças em decisões monocráticas.\nA redução da maioridade penal também já havia sido defendida pelo candidato. Em agosto, Flávio Bolsonaro afirmou que apoiaria a redução de 18 para 16 anos. A proposta em discussão no Congresso altera o artigo 228 da Constituição e, portanto, precisa ser aprovada por meio de uma PEC.\nFim da reeleição\nFlávio também disse que não pretende concorrer à reeleição, caso conquiste um mandato como presidente. Afirmou que a decisão caberá ao Congresso. O partido dele, PL, elegeu 121 deputados e conquistou a maior bancada na Câmara desde a Constituição de 1988. \n\"Quando eu falo que eu sou a favor do fim da reeleição e é assim que eu vou fazer, eu vou usar o capital político de um presidente recém-eleito para aprovar essa PEC para redemocratizar o nosso país nesse sentido. É para dar o exemplo\", afirmou. \n“Para mostrar que eu não estou disputando o poder como esse atual governo. [...] Não estou disputando o poder. Eu estou disputando o futuro do meu país, futuro para as minhas filhas, para as filhas de vocês que estão aqui, para quem está assistindo. Então, fiz o compromisso de não concorrer à reeleição\". \nSegundo Flávio Bolsonaro, a definição de como funcionaria o fim da reeleição ficaria a cargo dos deputados e senadores.\n“É o Congresso que vai discutir os critérios, se vai ser mandato de quatro, de cinco anos, se vai valer só para presidente, se vai valer para governador. Aí é o processo legislativo que vai ser respeitado e a maioria vai decidir qual é o caminho que tem que ser feito, a reforma política.”",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 07 Oct 2026 13:15:37 -0000"
-    },
-    {
-      "id": "4d9a158d07ab",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF exclui créditos presumidos de ICMS da base do PIS e da Cofins",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/stf-exclui-creditos-presumidos-de-icms-da-base-do-pis-e-da-cofins.shtml",
-      "summary": "O STF (Supremo Tribunal Federal) decidiu nesta quarta-feira (7) que créditos presumidos de ICMS - benefícios fiscais concedidos pelos estados - não podem ser incluídos na base de cálculo do PIS e da Cofins, tributos federais.\nLeia mais (10/07/2026 - 17h22)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "07 Oct 2026 17:22:00 -0300"
-    },
-    {
-      "id": "79d418f40a6d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Financial Times vê chance de retorno da família Bolsonaro e aponta fragilidades de Lula",
-      "link": "https://www.estadao.com.br/politica/eleicoes/financial-times-ve-chance-de-retorno-da-familia-bolsonaro-e-aponta-fragilidades-de-lula-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "família",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 07 Oct 2026 15:33:33 +0000"
-    },
-    {
-      "id": "14732950c501",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Por 6 a 4, STF exclui crédito presumido de ICMS da base do PIS/Cofins",
-      "link": "https://www.poder360.com.br/poder-justica/por-6-a-4-stf-exclui-credito-presumido-de-icms-da-base-do-pis-cofins/",
-      "summary": "Corte decide por maioria que benefício fiscal do imposto estadual não integra receita tributável para PIS e Cofins",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Wed, 07 Oct 2026 19:22:37 +0000"
-    },
-    {
-      "id": "a4d451270932",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle diz que Bolsonaro é “ameaça para si” sem acompanhamento",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-diz-que-bolsonaro-e-ameaca-para-si-sem-acompanhamento/",
-      "summary": "Ex-primeira-dama diz que marido não toma medicamentos, não se alimenta nem faz atividades quando está sem auxílio da família",
+      "title": "Daniella Marques diz que governo Bolsonaro acabaria com split pay",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/daniella-marques-diz-que-governo-bolsonaro-acabaria-com-split-pay/",
+      "summary": "Ex-presidente da Caixa Econômica Federal teceu fortes críticas à reforma tributária, tanto em relação à demora para a definição das alíquotas quanto em relação ao impacto que as alterações devem gerar na economia",
       "tags": [
         "Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 88,
-      "publishedRaw": "Wed, 07 Oct 2026 19:15:34 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 23:47:16 +0000"
+    },
+    {
+      "id": "3743e5672e63",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin dá 5 dias para PGR revisar pedido de arquivamento do caso de Bolsonaro na pandemia",
+      "link": "https://www.estadao.com.br/politica/eleicoes/fachin-da-5-dias-para-pgr-revisar-pedido-de-arquivamento-do-caso-de-bolsonaro-na-pandemia-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Wed, 07 Oct 2026 20:55:55 +0000"
     },
     {
       "id": "344029766703",
@@ -512,7 +484,7 @@
       "category": "Política",
       "title": "Eleições 2026: TV Globo promove entrevistas e debate com candidatos à Presidência no 2º turno",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-tv-globo-promove-entrevistas-e-debate-com-candidatos-a-presidencia-no-2o-turno.ghtml",
-      "summary": "Flávio Bolsonaro e Lula.\nFoto: Mateus Bonomi/Reuters; Roberto Sungi/Estadão Conteúdo\nA TV Globo promove, nos dias 15 e 16 de outubro, entrevistas ao vivo com os candidatos que disputam o segundo turno da eleição presidencial. \nRealizados nos Estúdios Globo, no Rio de Janeiro, os encontros serão conduzidos por Renata Lo Prete e exibidos após o 'Jornal Nacional', com transmissão simultânea pelo g1 e pela GloboNews. Após a exibição, o conteúdo ficará disponível na íntegra no g1 e no Globoplay.\nVeja a ordem das entrevistas:\nLuiz Inácio Lula da Silva (PT): quinta-feira, 15 de outubro;\nFlávio Bolsonaro (PL): sexta-feira, 16 de outubro.\nA ordem foi definida por sorteio realizado em reunião com representantes das campanhas. Durante as entrevistas, os candidatos poderão detalhar propostas, apresentar prioridades para o país e responder a questionamentos sobre temas de interesse da população.\nMAPA DA APURAÇÃO: veja como foi a votação no 1º turno\nVeja dados da apuração para presidente, governador e Congresso em todo o país\n2º turno: Flávio Bolsonaro, do PL, e Lula, do PT, disputam votos dos outros partidos e buscam motivar quem não foi às urnas\nDebate no 2º turno\nNo dia 23 de outubro, a TV Globo realiza o último debate entre os dois candidatos que disputam a Presidência da República. Foram convidados Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). O encontro acontecerá nos Estúdios Globo, no Rio de Janeiro, logo após o 'Jornal Nacional'. \nMediado pelo jornalista César Tralli, o debate será transmitido ao vivo pela TV Globo, e também poderá ser acompanhado simultaneamente pelo g1 e pela GloboNews, que disponibilizará o conteúdo para o mundo todo. Pelo Globoplay, o público poderá assistir tudo pelo sinal da TV Globo. Após a exibição, a íntegra ficará disponível no g1.\nAs entrevistas e o debate realizados pela Globo integram a cobertura para o segundo turno das Eleições 2026 e têm como principal objetivo oferecer aos brasileiros a oportunidade de conhecer e avaliar as propostas dos candidatos para os desafios do país.",
+      "summary": "Flávio Bolsonaro e Lula.\nFoto: Mateus Bonomi/Reuters; Roberto Sungi/Estadão Conteúdo\nA TV Globo promove, nos dias 15 e 16 de outubro, entrevistas ao vivo com os candidatos que disputam o segundo turno da eleição presidencial. \nRealizados nos Estúdios Globo, no Rio de Janeiro, os encontros serão conduzidos por Renata Lo Prete e exibidos após o 'Jornal Nacional', com transmissão simultânea pelo g1 e pela GloboNews. Após a exibição, o conteúdo ficará disponível na íntegra no g1 e no Globoplay.\nVeja a ordem das entrevistas (definida por sorteio em reunião realizada com representantes das campanhas na tarde de terça-feira, 6):\nLuiz Inácio Lula da Silva (PT): quinta-feira, 15 de outubro;\nFlávio Bolsonaro (PL): sexta-feira, 16 de outubro.\nDurante as entrevistas, os candidatos poderão detalhar propostas, apresentar prioridades para o país e responder a questionamentos sobre temas de interesse da população.\nMAPA DA APURAÇÃO: veja como foi a votação no 1º turno\nVeja dados da apuração para presidente, governador e Congresso em todo o país\n2º turno: Flávio Bolsonaro, do PL, e Lula, do PT, disputam votos dos outros partidos e buscam motivar quem não foi às urnas\nDebate no 2º turno\nNo dia 23 de outubro, a TV Globo realiza o último debate entre os dois candidatos que disputam a Presidência da República. Foram convidados Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). O encontro acontecerá nos Estúdios Globo, no Rio de Janeiro, logo após o 'Jornal Nacional'. \nMediado pelo jornalista César Tralli, o debate será transmitido ao vivo pela TV Globo, e também poderá ser acompanhado simultaneamente pelo g1 e pela GloboNews, que disponibilizará o conteúdo para o mundo todo. Pelo Globoplay, o público poderá assistir tudo pelo sinal da TV Globo. Após a exibição, a íntegra ficará disponível no g1.\nAs entrevistas e o debate realizados pela Globo integram a cobertura para o segundo turno das Eleições 2026 e têm como principal objetivo oferecer aos brasileiros a oportunidade de conhecer e avaliar as propostas dos candidatos para os desafios do país.",
       "tags": [
         "eleições",
         "eleições 2026"
@@ -520,30 +492,71 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "G1 - Economia"
       ],
       "score": 86,
       "publishedRaw": "Wed, 07 Oct 2026 19:12:27 -0000"
     },
     {
-      "id": "31cef713b26d",
+      "id": "75e9f72b6c97",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleições 2026: cidades mais católicas do Brasil dão vitória a Flávio",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-cidades-mais-catolicas-do-brasil-dao-vitoria-a-flavio/",
-      "summary": "Senador do PL foi o mais votado nos municípios que têm maior proporção de seguidores da fé apostólica romana",
+      "title": "Eleições 2026: veja onde Cury, Renan, Caiado e Zema foram mais votados",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-onde-cury-renan-caiado-e-zema-foram-mais-votados/",
+      "summary": "Candidatos que não foram ao segundo turno não venceram em nenhum município brasileiro no último domingo (4), segundo dados do TSE (Tribunal Superior Eleitoral)",
       "tags": [
         "eleições",
         "eleições 2026"
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política"
       ],
       "score": 86,
-      "publishedRaw": "Wed, 07 Oct 2026 20:27:07 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 23:54:11 +0000"
+    },
+    {
+      "id": "86f687fba1af",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: veja quais as cidades mais bolsonaristas e mais lulistas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-quais-as-cidades-mais-bolsonaristas-e-mais-lulistas/",
+      "summary": "Cidade onde o senador e candidato à Presidência Flávio Bolsonaro (PL) obteve mais votos fica no Sul, já a do presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT), no Nordeste",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 07 Oct 2026 23:14:53 +0000"
+    },
+    {
+      "id": "b300272b8b9b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Gabinete diz que Janja seguirá na campanha de Lula; atuação da primeira-dama é alvo de críticas",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/gabinete-diz-que-janja-seguira-na-campanha-de-lula-atuacao-da-primeira-dama-e-alvo-de-criticas.ghtml",
+      "summary": "O gabinete da primeira-dama do Brasil, Janja da Silva, afirmou em nota nesta quarta-feira (7) que, \"independente do que falem\", ela seguirá na campanha de Lula (PT) à reeleição. \n\"Independente do que falem, Janja seguirá na campanha. Sua participação é legítima e sempre respaldada pelo presidente Lula.  O objetivo de todos os envolvidos é um só: reeleger o presidente\", diz comunicado da equipe da primeira-dama enviado ao g1.\nNesta terça-feira (6), a reunião de coordenadores da campanha petista, em Brasília, foi marcada por críticas à área de comunicação e à atuação da primeira-dama.\nEm entrevista ao Estúdio i, da GloboNews, a ex-senadora Kátia Abreu, coordenadora da campanha do presidente Lula no Tocantins, confirmou que fez críticas à primeira-dama na reunião.\n'Janja está ocupando espaço maior que Alckmin', diz Kátia Abreu sobre campanha de Lula\nA informação sobre as declarações da ex-senadora no encontro foi publicada pela jornalista Bela Megale, do jornal O Globo.\nA reunião de terça reuniu integrantes da cúpula da campanha de Lula para discutir mudanças na estratégia para o segundo turno. Durante o encontro, Kátia defendeu maior participação de Geraldo Alckmin (PSB) na campanha e fez críticas à condução da coordenação nacional.\nNa entrevista, Kátia Abreu afirmou que Janja está ocupando um espaço maior que o vice-presidente Alckmin na campanha pela reeleição do petista e disse que não esperava que o conteúdo da reunião fosse divulgado, mas afirmou que não vai negar a avaliação que fez.\n“A primeira-dama está ocupando um espaço maior do que o vice-presidente. E não querendo desmerecê-la. Ao contrário, querendo enaltecer o vice-presidente Alckmin”, afirmou.\nSegundo ela, a avaliação foi feita sob o ponto de vista da estratégia eleitoral.\n“Eu estava ali como um agente político que pretende, quer ganhar, a eleição. Então, nisso aí, eu sou muito pragmática e objetiva. Se alguém está exorbitando negativamente num processo eleitoral, ele precisa ser chamado, né? Ou então fazem-se pesquisas e, se isso configurar um erro, tudo bem. Se não, continua o trem andando”, disse.\nA ex-senadora afirmou que Alckmin deveria aparecer mais na campanha e destacou a experiência e a capacidade do vice-presidente, principalmente na área econômica.\nIncômodo dentro da campanha\nJanja e Lula durante desfile de 7 de Setembro\nRicardo Stuckert\nNos comícios do primeiro turno, a primeira-dama acabou ganhando um protagonismo que incomodou uma ala da coordenação da campanha de Lula. \nNos atos e caminhadas por todo país, Janja era vista tendo um papel central na organização dos eventos enquanto estavam ocorrendo e também discursava e cantava em todos eles.\nNo Distrito Federal, durante discurso, a primeira-dama chamou Michelle Bolsonaro de \"Bolsonara de Ceilândia\", região em que nasceu Michelle e que ocorria o comício na ocasião.\nApós a declaração, Michelle Bolsonaro começou a usar o apelido dado por Janja e chegou a estampar o nome em uma camiseta, gerando um efeito contrário ao pensado inicialmente ao fazer uma crítica à ex-primeira dama.\nJá em Minas Gerais, Janja repetiu por várias vezes que o deputado Nikolas Ferreira era um \"piá de bosta\". Nikolas também começou a usar o título dado por Janja em suas publicações nas redes sociais.\n'Tem muito PT dentro do Palácio do Planalto', diz Kátia Abreu",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 07 Oct 2026 20:35:34 -0000"
     },
     {
       "id": "345372f721dd",
@@ -630,193 +643,207 @@
       "publishedRaw": "Wed, 07 Oct 2026 16:46:23 -0000"
     },
     {
-      "id": "4dd4eecd56ff",
+      "id": "a75af6fa8783",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Imobilismo ou estelionato eleitoral nos programas econômicos de Flávio e Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/imobilismo-ou-estelionato-eleitoral-nos-programas-economicos-de-flavio-e-lula.shtml",
+      "summary": "A discussão de programa econômico dos candidatos a presidente quase inexiste. Sabemos de inanidades, camuflagens e frases de efeito, soporífero ou revoltante, a depender da bobagem.\nLeia mais (10/07/2026 - 21h16)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "07 Oct 2026 21:16:00 -0300"
+    },
+    {
+      "id": "b87cd15113d1",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula fala em novo lema no 2º turno: 'Para o povo trabalhador, proteção; para bandido, a prisão'",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-em-novo-lema-no-2o-turno-para-o-povo-trabalhador-protecao-para-bandido-a-prisao.shtml",
+      "summary": "Na tentativa de reorganizar o grupo político e reformular o discurso após o primeiro turno da eleição, o presidente Lula (PT) endureceu o discurso contra a criminalidade e disse que a campanha adotou um novo lema em torno do tema.\nLeia mais (10/07/2026 - 20h21)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "07 Oct 2026 20:21:00 -0300"
+    },
+    {
+      "id": "0d3e6e4521c0",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ato por reeleição de Lula organizado pela UNE leva estudantes às ruas do Rio",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-por-reeleicao-de-lula-organizado-pela-une-leva-estudantes-as-ruas-do-rio.shtml",
+      "summary": "Estudantes secundaristas e universitários participaram de um ato nesta quarta-feira (7), no centro do Rio de Janeiro, pela reeleição do presidente Lula (PT). Com início na Igreja da Candelária, a passeata reuniu uma multidão com destino à Cinelândia em defesa da gratuidade e expansão das escolas públicas, da continuidade do programa Pé-de-Meia e contra cortes no orçamento do setor.\nLeia mais (10/07/2026 - 19h58)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "07 Oct 2026 19:58:00 -0300"
+    },
+    {
+      "id": "657d3a6ce11d",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PSTU, de Hertz Dias, declara apoio “crítico” a Lula no 2º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pstu-de-hertz-dias-declara-apoio-critico-a-lula-no-2o-turno/",
+      "summary": "Sigla afirma que decisão busca barrar candidatura de Flávio Bolsonaro, mas diz que manterá oposição a eventual novo governo petista",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 07 Oct 2026 23:51:19 +0000"
+    },
+    {
+      "id": "acd4fecad2d3",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja responde Kátia Abreu: ‘Estou respaldada pelo presidente Lula’",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/janja-responde-katia-abreu-estou-respaldada-pelo-presidente-lula/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 07 Oct 2026 21:01:54 +0000"
+    },
+    {
+      "id": "d04e551ff7ca",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula fala de segurança e lança lema: ‘para o povo trabalhador, a proteção; para o bandido, a prisão’",
+      "link": "https://www.estadao.com.br/politica/lula-fala-de-seguranca-e-lanca-lema-para-o-povo-trabalhador-a-protecao-para-o-bandido-a-prisao/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 07 Oct 2026 20:22:14 +0000"
+    },
+    {
+      "id": "cba5c6fbbaf8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“TV Globo” marca para 23 de outubro o debate entre Lula e Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tv-globo-marca-para-23-de-outubro-o-debate-entre-lula-e-flavio/",
+      "summary": "Candidatos também participarão de uma 2ª rodada de entrevistas ao vivo",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 07 Oct 2026 22:49:47 +0000"
+    },
+    {
+      "id": "218acac0a44d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF arquiva pedido da AGU para investigar interferência dos EUA nas eleições",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-arquiva-pedido-da-agu-para-investigar-interferencia-dos-eua-nas-eleicoes/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 07 Oct 2026 20:10:40 +0000"
+    },
+    {
+      "id": "492482df4bc2",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "PF arquiva investigação sobre suposta interferência dos EUA nas eleições brasileiras",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/pf-arquiva-investigacao-sobre-suposta-interferencia-dos-eua-nas-eleicoes-brasileiras.ghtml",
+      "summary": "A Polícia Federal decidiu arquivar uma investigação sobre suposta interferência do governo de Donald Trump nas eleições brasileiras. O pedido, feito pela Advocacia-Geral da União (AGU), falava sobre o eventual uso de dinheiro público dos Estados Unidos no financiamento de organizações e grupos que operam em território brasileiro.\nO pedido de investigação foi encaminhado na última quinta-feira (1) ao diretor-geral da PF, Andrei Rodrigues, e ao procurador-geral da República, Paulo Gonet.\nNo domingo (4), dia do primeiro turno das eleições, Andrei Rodrigues afirmou que a PF estava realizando uma apuração preliminar sobre o caso, sem instauração formal de inquérito.\nAgora no g1\n\"Recebemos uma representação da AGU sugerindo apuração de interferência externa. Foi encaminhado para a Diretoria de Inteligência para dar início à apuração. É uma investigação em andamento, um procedimento prévio. Não foi publicada a portaria do inquérito, mas já temos uma investigação em curso\", disse Andrei.\nA informação sobre o arquivamento foi publicada pelo jornal O Globo e confirmada pela GloboNews e TV Globo.\nO pedido teve como base uma matéria do jornal britânico The Guardian, publicada na quarta (30), segundo a qual o Departamento de Estado dos EUA teria repassado US$ 1 milhão a entidades e grupos envolvidos na mobilização de ações contra instituições do país — em especial o Supremo Tribunal Federal (STF) — sob a justificativa de combater supostos excessos judiciais e práticas de censura.\nSegundo consta na notícia-crime apresentada pela AGU, com base na reportagem, a verba repassada pelo governo dos EUA teria como \"objetivo explícito o financiamento e a sustentação financeira de entidades e grupos da sociedade civil focados em desestabilizar e atentar contra a institucionalidade do Poder Judiciário brasileiro\".\nOs repasses do Departamento de Estado norte-americano teriam sido feitos pelo 'Human Rights and Democracy Fund' (HRDF) ao programa \"Countering Lawfare and Censorship in Brazil\", que supostamente combateria supostos excessos judiciais e práticas de censura no país.\nAo final do documento, a AGU pedia a apuração dos fatos narrados na reportagem, ressaltando a gravidade das informações apresentadas pelo jornal britânico. O documento é assinado pelo advogado-geral da União, Jorge Messias, e outros três membros da instituição.\nFachada da sede da Polícia Federal em Brasília\nDivulgação/PF",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 07 Oct 2026 21:08:53 -0000"
+    },
+    {
+      "id": "84dc7e267ddb",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Nas redes sociais, Lula convoca apoiadores a irem às ruas impedir 'retrocesso' no país",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/nas-redes-sociais-lula-convoca-apoiadores-a-irem-as-ruas-impedir-retrocesso-no-pais.ghtml",
-      "summary": "Orientado a ter maior presença nas redes sociais, Lula divulgou vídeo no Instagram nesta quarta (7)\nReprodução/Instagram\nO presidente Luiz Inácio Lula da Silva (PT) divulgou um vídeo selfie, nas redes sociais, nesta quarta-feira (7), em que convoca apoiadores a irem às ruas para impedir o que chama de volta do \"retrocesso\" no país.\nApós o resultado do último domingo (4), integrantes da campanha de Lula passaram a defender uma presença maior do presidente nas redes sociais. No primeiro turno, o petista teve 2,3 milhões de votos a menos que o adversário Flávio Bolsonaro (PL).\n\"Bora, gente, pra rua, vamos conversar com as pessoas, você que gosta do Brasil, que gosta da educação, da democracia, que quer ter emprego de qualidade, continuar estudando e ver o Brasil crescer, que precisa melhorar de vida, bora pra rua\", pediu Lula.\n\"Vamos ganhar estas eleições para não permitir que o retrocesso volte para esse país, vamos lá gente, tá na hora\", prosseguiu o candidato do PT à reeleição.\nCampanha de Lula recruta jovens eleitos e influencers para 'força-tarefa' digital\nFim da escala 6x1\nNesta terça, Lula voltou a defender o fim da escala de trabalho 6x1, proposta que está em análise no Senado.\nO petista afirmou que quer ver a redução da jornada \"sair do papel\" e que o senador Flávio Bolsonaro (PL-RJ), candidato à Presidência da República, é contra a mudança.\n\"Flávio Bolsonaro é contra. Para ele, quem trabalhar menos tem que ganhar menos. Queria ver ele explicar para uma mãe de família qual conta ela deixa de pagar para poder descansar. A comida? A luz? O aluguel? Quem vive de salário sabe que isso não é escolha\", disse Lula.\nA PEC em discussão no Congresso Nacional estabelece jornada máxima de 40 horas semanais, divididas em cinco dias de trabalho e dois de descanso, sem redução salarial. A proposta começou a ser discutida nesta terça pelo plenário do Senado.\n\"Eu estou confiante que o Alcolumbre vai colocar em votação. Estou confiando que o Senado vai repetir a decisão que já foi tomada pela Câmara e estou confiante que o PL vai demonstrar se tem coragem ou não votar a favor do fim dessa escala\", disse Lula.\nEntre os governistas, o clima ainda é de lutar para aprovar o texto em duas votações antes do segundo turno. \nApostam ainda em expor integrantes da oposição que tentem evitar a votação do fim da 6x1. Integrantes do PL e Republicanos devem se reunir na quarta-feira (7) para definir uma estratégia e evitar a votação.",
+      "title": "STF exclui crédito de ICMS da base de cálculo de impostos federais e União estima impacto de R$16,5 bilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/stf-exclui-credito-de-icms-da-base-de-calculo-de-impostos-federais-e-uniao-deve-perder-r165-bilhoes.ghtml",
+      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (7) que incentivos concedidos por estados e o Distrito Federal via ICMS não devem entrar na base de cálculo das contribuições ao PIS (Programa de Integração Social) e a Contribuição para o Financiamento da Seguridade Social (Cofins). \n🔎O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) é um tributo estadual. Os créditos presumidos são uma forma de incentivar empresas e setores da economia.\nO impacto, segundo os riscos fiscais inscritos na Lei de Diretrizes Orçamentárias de 2026, é de R$16,5 bilhões. A votação acabou 7 a 4 – ficaram vencidos os ministros Alexandre de Moraes, Gilmar Mendes, Nunes Marques e Luiz Fux.  \nOs ministros André Mendonça, Cristiano Zanin e Flávio Dino não votaram, já que seus antecessores – Marco Aurélio, Ricardo Lewandowski e Rosa Weber – já haviam votado.\nAgora no g1\nValores não podem compor base de cálculo\nO ministro Alexandre de Moraes, que saiu vencido do julgamento, entendeu que ao conceder o incentivo fiscal o estado não pode “dar mais do que tem”, ou seja, dar o benefício em relação ao ente federativo e à União.\n“A concessão de benefício fiscal pelo estado, o fato de conceder um benefício fiscal, não pode por via oblíqua impedir um tributo da União sobre a parte que lhe compete”\nÚltimo a votar, o presidente da Corte, Edson Fachin, considerou que valores que transitam na contabilidade ou que não representam riqueza própria não podem ser enquadrados como receita ou faturamento e, por isso, não devem compor a base de cálculo dos tributos federais.\nMaioria dos ministros entendeu que créditos presumidos do ICMS não podem entrar na base de cálculo do PIS e Cofins\nReprodução\n“Ainda que epidermicamente o debate seja tributário, na parte mais profunda está a se discutir o desenho do federalismo brasileiro à luz da Constituição de 1988. Por tanto, nessa ordem de ideia, à luz desse desenho que entendo presente na Constituição, reputo compatível com o texto constitucional a inclusão de créditos presumidos de icms na base da Cofins e na contribuição ao PIS”, afirmou o ministro.\nAo final do julgamento foi aprovada a tese segundo a qual “surge incompatível, com a Constituição Federal, a inclusão, na base de cálculo da Cofins e da contribuição ao PIS, de créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços – ICMS.”",
       "tags": [
-        "Lula"
+        "STF"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 14:02:21 -0000"
-    },
-    {
-      "id": "4c330c5e8d98",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Áudios de advogado a Vorcaro mostram insistência para que Mantega defendesse Master a Lula; ouça",
-      "link": "https://www.estadao.com.br/politica/audios-de-advogado-a-vorcaro-mostram-insistencia-para-que-mantega-defendesse-master-a-lula-ouca/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 19:13:42 +0000"
-    },
-    {
-      "id": "e375f8d9e977",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Milei reivindica ser motor da direita na América Latina após Flávio ficar à frente de Lula",
-      "link": "https://www.estadao.com.br/internacional/governo-milei-reivindica-ser-motor-da-direita-na-america-latina-apos-flavio-ficar-a-frente-de-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 06 Oct 2026 21:48:26 +0000"
-    },
-    {
-      "id": "e8956817b26a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula diz que campanha à Presidência foi a mais desorganizada desde a primeira que disputou em 1989",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-diz-que-campanha-a-presidencia-e-a-mais-desorganizada-desde-a-primeira-que-disputou-em-1989/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 17:11:52 +0000"
-    },
-    {
-      "id": "20fd2e107d49",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Deputada mais votada do PT entra na campanha de Lula para reforçar presença nas redes",
-      "link": "https://www.estadao.com.br/politica/eleicoes/deputada-mais-votada-do-pt-entra-na-campanha-de-lula-para-reforcar-presenca-nas-redes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 15:48:03 +0000"
-    },
-    {
-      "id": "c2a3a0fa8f59",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Janones brinca e diz que se bater meta Lula entrará em canal no Zap",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-brinca-e-diz-que-se-bater-meta-lula-entrara-em-canal-no-zap/",
-      "summary": "Presidente não usa celular; congressista disse que petista comprará um aparelho caso canal alcance número de inscritos combinado",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 20:19:32 +0000"
-    },
-    {
-      "id": "ebc2bf885817",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como vencer Lula ou Flávio? Material não oficial circula nas redes",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/como-vencer-lula-ou-flavio-material-nao-oficial-circula-nas-redes/",
-      "summary": "Arquivos dão orientações para tentar convencer um indeciso a votar no presidente ou no senador do PL",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 19:59:36 +0000"
-    },
-    {
-      "id": "a6cfaea359b6",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Apoio campanha, mas não sou vassalo dele, diz Paes sobre Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/apoio-campanha-mas-nao-sou-vassalo-dele-diz-paes-sobre-lula/",
-      "summary": "Candidato ao governo do RJ afirmou estar do lado do petista, mas não isentou de críticas a campanha no Estado",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 19:23:17 +0000"
-    },
-    {
-      "id": "0cf89dc6a093",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em evento do PL, Moro é apresentado como o “homem que prendeu Lula”",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-evento-do-pl-moro-e-apresentado-como-homem-que-prendeu-lula/",
-      "summary": "Ex-juiz da Lava Jato foi eleito governador do Paraná no 1º turno, com 50,10% dos votos válidos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 19:16:23 +0000"
+      "score": 80,
+      "publishedRaw": "Wed, 07 Oct 2026 21:45:47 -0000"
     },
     {
       "id": "5b55de0f65ed",
@@ -831,110 +858,27 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 84,
+      "score": 80,
       "publishedRaw": "Wed, 07 Oct 2026 13:15:37 -0000"
     },
     {
-      "id": "b8f0443fe152",
-      "source": "Folha de São Paulo",
+      "id": "84dc7e267ddb",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF arquiva pedido da AGU sobre investigação de interferência estrangeira nas eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pf-arquiva-pedido-do-governo-para-investigar-suspeita-de-interferencia-estrangeira-nas-eleicoes.shtml",
-      "summary": "A Polícia Federal arquivou um pedido da AGU (Advocacia-Geral da União) para investigar suspeita de interferência estrangeira nas eleições de 2026.\nLeia mais (10/07/2026 - 17h18)",
+      "category": "Economia",
+      "title": "STF exclui crédito de ICMS da base de cálculo de impostos federais e União estima impacto de R$16,5 bilhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/07/stf-exclui-credito-de-icms-da-base-de-calculo-de-impostos-federais-e-uniao-deve-perder-r165-bilhoes.ghtml",
+      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (7) que incentivos concedidos por estados e o Distrito Federal via ICMS não devem entrar na base de cálculo das contribuições ao PIS (Programa de Integração Social) e a Contribuição para o Financiamento da Seguridade Social (Cofins). \n🔎O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) é um tributo estadual. Os créditos presumidos são uma forma de incentivar empresas e setores da economia.\nO impacto, segundo os riscos fiscais inscritos na Lei de Diretrizes Orçamentárias de 2026, é de R$16,5 bilhões. A votação acabou 7 a 4 – ficaram vencidos os ministros Alexandre de Moraes, Gilmar Mendes, Nunes Marques e Luiz Fux.  \nOs ministros André Mendonça, Cristiano Zanin e Flávio Dino não votaram, já que seus antecessores – Marco Aurélio, Ricardo Lewandowski e Rosa Weber – já haviam votado.\nAgora no g1\nValores não podem compor base de cálculo\nO ministro Alexandre de Moraes, que saiu vencido do julgamento, entendeu que ao conceder o incentivo fiscal o estado não pode “dar mais do que tem”, ou seja, dar o benefício em relação ao ente federativo e à União.\n“A concessão de benefício fiscal pelo estado, o fato de conceder um benefício fiscal, não pode por via oblíqua impedir um tributo da União sobre a parte que lhe compete”\nÚltimo a votar, o presidente da Corte, Edson Fachin, considerou que valores que transitam na contabilidade ou que não representam riqueza própria não podem ser enquadrados como receita ou faturamento e, por isso, não devem compor a base de cálculo dos tributos federais.\nMaioria dos ministros entendeu que créditos presumidos do ICMS não podem entrar na base de cálculo do PIS e Cofins\nReprodução\n“Ainda que epidermicamente o debate seja tributário, na parte mais profunda está a se discutir o desenho do federalismo brasileiro à luz da Constituição de 1988. Por tanto, nessa ordem de ideia, à luz desse desenho que entendo presente na Constituição, reputo compatível com o texto constitucional a inclusão de créditos presumidos de icms na base da Cofins e na contribuição ao PIS”, afirmou o ministro.\nAo final do julgamento foi aprovada a tese segundo a qual “surge incompatível, com a Constituição Federal, a inclusão, na base de cálculo da Cofins e da contribuição ao PIS, de créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços – ICMS.”",
       "tags": [
-        "eleições"
+        "STF"
       ],
       "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
+        "Estadão"
       ],
-      "score": 82,
-      "publishedRaw": "07 Oct 2026 17:18:00 -0300"
-    },
-    {
-      "id": "b8dc1af9bc97",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF arquiva apuração sobre suposta interferência estrangeira nas eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/pf-arquiva-investigacao-sobre-suposta-interferencia-estrangeira-em-eleicoes/",
-      "summary": "Anuncio de abertura de investigação preliminar foi feito por diretor-geral da corporação no dia da votação do primeiro turno, no último domingo (4)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 07 Oct 2026 20:20:09 +0000"
-    },
-    {
-      "id": "b9a7a601bcd6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Discurso antissistema, fundo eleitoral  e redes: 10 pontos explicam avanço do PL nas eleições",
-      "link": "https://www.estadao.com.br/politica/eleicoes/discurso-antissistema-fundo-eleitoral-e-redes-10-pontos-explicam-avanco-do-pl-nas-eleicoes/",
-      "summary": "",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 07 Oct 2026 15:40:25 +0000"
-    },
-    {
-      "id": "0f06886bc2b5",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quais são as propostas de Flávio e Lula sobre a escala 6x1",
-      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lula defende no plano de governo o fim da escala 6x1 e redução para 40 horas semanais sem corte de salário; Flávio Bolsonaro apoia proposta que cria pagamento por hora e jornada flexível no Senado.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 07 Oct 2026 15:22:23 GMT"
-    },
-    {
-      "id": "d7500afee0e3",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Lula pode virar no segundo turno? As 5 batalhas do petista",
-      "link": "https://www.bbc.com/portuguese/articles/c6y0enryxv77o?at_medium=RSS&at_campaign=rss",
-      "summary": "Analistas ouvidos pela BBC News Brasil apontam cinco obstáculos que Lula enfrentará para tentar reverter a situação, algo que nunca aconteceu desde a redemocratização.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 07 Oct 2026 19:58:39 GMT"
+      "score": 75,
+      "publishedRaw": "Wed, 07 Oct 2026 21:45:47 -0000"
     },
     {
       "id": "ac571250aa6a",
@@ -948,56 +892,107 @@
         "urnas",
         "Nikolas Ferreira"
       ],
-      "crossOutlets": [],
-      "score": 68,
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 73,
       "publishedRaw": "Wed, 07 Oct 2026 18:21:00 -0000"
     },
     {
-      "id": "6d902aec7211",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defendida por Flávio, redução da maioridade penal tramita no Congresso e tem divergência sobre legalidade",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/defendida-por-flavio-reducao-da-maioridade-penal-tramita-no-congresso-e-tem-divergencia-sobre-legalidade.shtml",
-      "summary": "A redução da maioridade penal, defendida pelo senador Flávio Bolsonaro (PL), tramita no Congresso Nacional e teve novo impulso em junho, quando foi aprovada na CCJ (Comissão de Constituição e Justiça) da Câmara. A mudança da lei é analisada em comissão especial e enfrenta discussões quanto à constitucionalidade.\nLeia mais (10/07/2026 - 17h21)",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 68,
-      "publishedRaw": "07 Oct 2026 17:21:00 -0300"
-    },
-    {
-      "id": "688800c2e472",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Advogado de Garotinho aparece no TSE como autor de parecer a favor de desistência na eleição",
-      "link": "https://www.estadao.com.br/politica/eleicoes/advogado-de-garotinho-aparece-no-tse-como-autor-de-parecer-a-favor-de-desistencia-na-eleicao/",
-      "summary": "",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Wed, 07 Oct 2026 03:07:20 +0000"
-    },
-    {
-      "id": "55254937eeeb",
+      "id": "a721e44dfcca",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Modelo desaparece em Pinheiros após sair para trançar o cabelo, diz família",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/modelo-desaparece-em-pinheiros-apos-sair-para-trancar-o-cabelo-diz-familia/",
-      "summary": "Dandara Couto teria sido vista pela última vez nas proximidades da Rua Cristiano Viana, na zona oeste da capital paulista, na última segunda-feira (5).",
+      "title": "Nikolas diz que primeira pauta no Senado tem que ser impeachment de Moraes",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nikolas-diz-que-primeira-pauta-no-senado-tem-que-ser-impeachment-de-moraes/",
+      "summary": "Reeleito com mais de 3,1 milhões de votos, deputado afirmou, em entrevista à CNN, que ação daria exemplo de que \"ninguém está acima da lei\"",
+      "tags": [
+        "impeachment"
+      ],
+      "crossOutlets": [],
+      "score": 71,
+      "publishedRaw": "Wed, 07 Oct 2026 23:03:22 +0000"
+    },
+    {
+      "id": "9ebd56df4c29",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TRE-MG pede à Meta e ao X dados sobre publicação de Nikolas Ferreira que mostrava documento falso",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tre-mg-pede-a-meta-e-ao-x-dados-sobre-publicacao-de-nikolas-ferreira-que-mostrava-documento-falso-nprp/",
+      "summary": "Autoria do documento era atribuída à Polícia Federal e fornecia um parecer favorável ao político diante de uma relação com o banqueiro Daniel Vorcaro; Nikolas foi procurado, mas Estadão não obteve resposta",
+      "tags": [
+        "Nikolas Ferreira"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 70,
+      "publishedRaw": "Wed, 07 Oct 2026 21:30:14 +0000"
+    },
+    {
+      "id": "75f82559df90",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga caso Deltan Dallagnol nesta quinta-feira (8) após votação que o coloca no Senado",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-julga-caso-deltan-dallagnol-nesta-quinta-feira-8-apos-votacao-que-o-coloca-no-senado.shtml",
+      "summary": "O plenário do TSE (Tribunal Superior Eleitoral) deve julgar nesta quinta-feira (8) o caso do ex-procurador da Lava Jato Deltan Dallagnol (Novo), que recebeu 2,9 milhões de votos domingo (4), o suficiente para ocupar uma das duas vagas disponíveis na bancada do Paraná no Senado.\nLeia mais (10/07/2026 - 20h14)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
+      "publishedRaw": "07 Oct 2026 20:14:00 -0300"
+    },
+    {
+      "id": "5723bbbbebc2",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cabo Gilberto diz ter acionado TSE contra “TV Globo” por fala sobre Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/cabo-gilberto-diz-ter-acionado-tse-contra-tv-globo-por-fala-sobre-flavio/",
+      "summary": "Deputado alega tratamento desigual; comentarista Miriam Leitão disse que candidato do PL ao Planalto tem “projeto antidemocrático”",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo"
+      ],
+      "score": 68,
+      "publishedRaw": "Wed, 07 Oct 2026 22:53:36 +0000"
+    },
+    {
+      "id": "6e900604b7ff",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nikolas critica PT e diz que esquerda faz “terrorismo eleitoral”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nikolas-critica-pt-e-diz-que-esquerda-faz-terrorismo-eleitoral/",
+      "summary": "Em entrevista à CNN Brasil, deputado do PL afirmou que sempre defendeu a \"moderação no discurso\" e criticou o posicionamento do presidente Lula (PT)",
+      "tags": [
+        "esquerda"
+      ],
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "Wed, 07 Oct 2026 23:33:26 +0000"
+    },
+    {
+      "id": "4d98be5a248d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Advogado convidou Vorcaro para casa da família de senador Otto Alencar em Trancoso: ‘Vai de bermuda’",
+      "link": "https://www.estadao.com.br/politica/advogado-convidou-vorcaro-para-casa-da-familia-de-senador-otto-alencar-em-trancoso-vai-de-bermuda/",
+      "summary": "",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Wed, 07 Oct 2026 20:02:12 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 21:45:05 +0000"
     },
     {
       "id": "53033e40a2ab",
