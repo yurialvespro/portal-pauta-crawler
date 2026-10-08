@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:11:55.053322+00:00",
+  "generated_at": "2026-10-08T14:50:29.466445+00:00",
   "items": [
     {
       "id": "83c97bdde2cf",
@@ -71,7 +71,7 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Wed, 07 Oct 2026 15:22:23 GMT"
+      "publishedRaw": "Thu, 08 Oct 2026 10:07:50 GMT"
     },
     {
       "id": "f8c6ee2ad3e2",
@@ -98,28 +98,53 @@
       "publishedRaw": "Tue, 06 Oct 2026 14:16:53 GMT"
     },
     {
-      "id": "f8c6ee2ad3e2",
-      "source": "BBC Brasil",
+      "id": "447c9d58f6c2",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
-      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News Brasil preparou especial interativo com as propostas e posicionamentos dos candidatos em oito áreas: economia e emprego; saúde; educação; política e corrupção; meio ambiente; programas sociais e direitos humanos; política externa; e segurança.",
+      "category": "Política",
+      "title": "Podemos anuncia apoio a Flávio Bolsonaro no 2º turno das eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/podemos-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno-das-eleicoes/",
+      "summary": "Anúncio foi feito depois de reunião com dirigentes do partido; com o anúncio, candidato do PL soma 4 apoios do Centrão",
+      "tags": [
+        "eleições",
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 94,
+      "publishedRaw": "Thu, 08 Oct 2026 13:22:33 +0000"
+    },
+    {
+      "id": "05563f1960f9",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/o-que-flavio-bolsonaro-e-lula-propoem-sobre-o-bolsa-familia.shtml",
+      "summary": "Criado no primeiro governo Lula (PT), em 2003, o Bolsa Família nasceu da unificação de programas de transferência de renda que já existiam, como Bolsa Escola, Bolsa Alimentação, Auxílio Gás e Cartão Alimentação.\nLeia mais (10/08/2026 - 10h40)",
       "tags": [
         "Bolsonaro",
+        "família",
         "Flávio Bolsonaro",
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 94,
-      "publishedRaw": "Tue, 06 Oct 2026 14:16:53 GMT"
+      "score": 92,
+      "publishedRaw": "08 Oct 2026 10:40:00 -0300"
     },
     {
       "id": "da5168e8dfef",
@@ -135,14 +160,59 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 93,
+      "score": 92,
       "publishedRaw": "Wed, 07 Oct 2026 16:13:34 GMT"
+    },
+    {
+      "id": "936d731c9b3a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
+      "link": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lula e Flávio Bolsonaro disputam eleição para presidente no segundo turno e apresentam propostas diferentes para o Bolsa Família.",
+      "tags": [
+        "Bolsonaro",
+        "família",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 92,
+      "publishedRaw": "Thu, 08 Oct 2026 08:52:25 GMT"
+    },
+    {
+      "id": "99538418ad12",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Podemos declara apoio a Flávio Bolsonaro no segundo turno",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/podemos-anuncia-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml",
+      "summary": "O plano de governo de Flávio Bolsonaro registrado no TSE não cita a escala 6x1 nem a PEC 12/2026 nominalmente.\nGetty Images\nO Podemos declarou nesta quinta-feira (8) apoio à candidatura de Flávio Bolsonaro (PL) à Presidência da República no segundo turno da eleição. O deputado vai disputar a segunda etapa contra o presidente Luiz Inácio Lula da Silva (PT).\nO anúncio foi feito após uma reunião de integrantes do partido em Brasília. A presidente nacional do Podemos, deputada Renata Abreu (SP), afirmou que a decisão considera o resultado no primeiro turno.\n“As urnas foram abertas e o Brasil quer mudança. O Brasil quer voltar a sonhar”, afirmou Renata.\nFlávio Bolsonaro recebeu mais de 56 milhões de votos e enfrentará, no segundo turno, Luiz Inácio Lula da Silva, candidato do PT à reeleição, que recebeu 53,8 milhões de votos. Flávio recebeu 47,03% dos votos válidos; Lula ficou com 45,15%.\nCampanha Flávio Bolsonaro, do PL, busca novos apoios de partidos no segundo turno\nCom a decisão, o Podemos passa a integrar a lista de partidos que já declararam apoio ao candidato.\nRepublicanos, Novo, Progressistas e União Brasil, que declararam apoio a Flávio Bolsonaro no segundo turno, elegeram juntos 138 deputados federais para a próxima legislatura. \nUnião Brasil e Progressistas integram a Federação União Progressista, que terá 87 deputados. Republicanos terá 41 e Novo, 10.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Thu, 08 Oct 2026 13:06:43 -0000"
     },
     {
       "id": "59c76c152dce",
@@ -158,79 +228,33 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Wed, 07 Oct 2026 22:51:28 -0000"
     },
     {
-      "id": "776781d2cfa7",
-      "source": "G1 - Política",
+      "id": "100f6d4ab838",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Republicanos declara apoio a Flávio Bolsonaro no segundo turno",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/republicanos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml",
-      "summary": "Republicanos declara apoio a Flávio Bolsonaro no segundo turno\nO partido Republicanos declarou nesta quarta-feira (7) apoio a Flávio Bolsonaro (PL) no segundo turno da eleição presidencial contra o presidente Luiz Inácio Lula da Silva (PT).\nO anúncio foi realizado após uma reunião do presidente nacional do Republicanos, deputado Marcos Pereira (SP) e lideranças do partido com o senador Flávio Bolsonaro. Estavam presentes o governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos), o senador e governador eleito de Minas Gerais, Cleitinho (Republicanos), entre outros membros do partido.\n\"O primeiro turno passou, o povo falou, e agora o Brasil tem diante de si uma escolha clara entre dois caminhos. Parlamentares e lideranças do nosso partido em todo o país, venho anunciar que o Republicanos vai apoiar Flávio Bolsonaro para presidente da República. Mas mantenho meu respeito a realidades locais, e cito Paraíba e Pernambuco\", disse Pereira.\n\"Não é uma decisão incondicional, mas nasce da voz das urnas e de um sentimento que a gente ouve em toda esquina, o brasileiro quer ter esperança de novo [...]  tenho que dizer com sinceridade: não é um cheque em branco. O voto de milhões de brasileiros dá poder, mas dá antes de tudo responsabilidade\", disse o presidente do Republicanos.\nO presidente da sigla, Marcos Pereira, disse que a legenda está disposta a participar de um eventual governo de Flávio, mas disse que ainda não há um debate sobre em que área poderia ocorrer a colaboração. \n“Conte com o Republicanos nas reformas, na responsabilidade fiscal, no apoio aos municípios, na segurança, e conte também com nossa franqueza, porque apoiar não é se calar.”\nFlávio Bolsonaro (PL) e integrantes do partido Republicanos durante anuncio de apoio no segundo turno\nReprodução/ TV Globo\nDurante o evento, o candidato Flávio Bolsonaro voltou a falar em \"redemocratizar\" o país.\n\"A gente tem que buscar a estabilidade nesse país. Não dá para admitir o Supremo Tribunal Federal da forma como está, a gente tem que proteger as instituições. Não é por causa de um ou outro que a gente tem que baixar a cabeça e achar que tá tudo bem, porque não está tudo bem. [...] A gente tem que redemocratizar, porque as instruções têm que voltar a ser respeitadas\", disse Flávio.\nNo primeiro turno, o partido adotou uma posição de neutralidade na disputa pela Presidência da República.\nFlávio Bolsonaro e Luiz Inácio Lula da Silva disputarão o segundo turno em 25 de outubro. No primeiro turno, Flávio Bolsonaro teve 47,03% dos votos válidos, e Lula, 45,16%.\nNas eleições deste ano o Republicanos manteve 41 cadeiras na Câmara dos Deputados e elegeu 2 senadores.\nApoios no segundo turno\nNesta quarta, a ex-candidata à Presidência Clariana Barão (DC) declarou apoio ao candidato do PL no segundo turno. O anúncio de Clariana engrossa a lista de apoios recebidos por Flávio Bolsonaro desde o primeiro turno.\nNesta quarta (7), ACM Neto também declarou apoio ao candidato e afirmou que trabalhará por sua eleição na Bahia.\nA federação formada por União Brasil e PP já havia anunciado na terça (6) apoio a Flávio Bolsonaro.\nTambém declararam apoio ao candidato do PL o ex-presidente Michel Temer (MDB), o ex-candidato à Presidência Romeu Zema (Novo) e o também ex-presidenciável Ronaldo Caiado (PSD).",
+      "title": "Bastidores: PF acena a Flávio Bolsonaro e evita tese de ‘golpe judicial’ ao arquivar caso sobre EUA",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-pf-acena-a-flavio-bolsonaro-e-evita-tese-de-golpe-judicial-ao-arquivar-caso-sobre-eua/",
+      "summary": "",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 22:22:12 -0000"
-    },
-    {
-      "id": "89f8e70263c0",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro vence em 9 de cada 10 cidades mais afetadas por tarifaço dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-vence-em-9-de-cada-10-cidades-mais-afetadas-por-tarifaco-dos-eua.shtml",
-      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, ficou à frente do presidente Lula (PT) na grande maioria dos municípios mais afetados pelo tarifaço dos Estados Unidos contra produtos brasileiros.\nLeia mais (10/08/2026 - 04h03)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "08 Oct 2026 04:03:00 -0300"
-    },
-    {
-      "id": "ac217f24845f",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Brasília já precifica possível vitória de Flávio Bolsonaro, avalia analista",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/brasilia-ja-precifica-possivel-vitoria-de-flavio-bolsonaro-avalia-analista/",
-      "summary": "Ao WW, Thiago Vidal, diretor de Análise Política da Prospectiva, afirma que clima de \"já ganhou\" pode dar munição ao PT",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Thu, 08 Oct 2026 06:02:17 +0000"
+      "score": 91,
+      "publishedRaw": "Thu, 08 Oct 2026 08:30:00 +0000"
     },
     {
       "id": "79cf9f6eab03",
@@ -246,164 +270,34 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 92,
+      "score": 91,
       "publishedRaw": "Wed, 07 Oct 2026 22:43:15 +0000"
     },
     {
-      "id": "57fdead0079e",
-      "source": "Estadão",
+      "id": "eb755351af84",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Com Flávio à frente nas urnas, ministros do STF próximos de Lula afagam bolsonarismo",
-      "link": "https://www.estadao.com.br/politica/carolina-brigido/com-flavio-a-frente-nas-urnas-ministros-do-stf-proximos-de-lula-afagam-bolsonarismo/",
-      "summary": "",
+      "title": "Primeiro Datafolha do 2º turno será termômetro das campanhas, com Flávio esperando aumentar distância para Lula",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/08/primeiro-datafolha-do-2o-turno-sera-termometro-das-campanhas-com-flavio-esperando-aumentar-distancia-para-lula.ghtml",
+      "summary": "Flávio Bolsonaro articula alianças para o 2º turno\nA equipe do candidato do PL, Flávio Bolsonaro, espera que os apoios obtidos ao longo desta semana se revertam em mais intenções de votos nesta reta final da campanha. \nA expectativa é que a distância entre Flávio e o presidente Luiz Inácio Lula da Silva (PT) aumente a favor do candidato do PL, confirmando o acerto da estratégia de mostrar um governo desconectado da população e com a direita fechando integralmente com o filho do ex-presidente Bolsonaro.\nNesta quinta-feira (8), Flávio Bolsonaro recebeu o apoio oficial do Podemos. Antes, União Brasil, Progressistas, Novo e Republicanos já haviam declarado apoio ao candidato do PL. \nA equipe do bolsonarista busca ainda uma declaração favorável à sua candidatura de Augusto Cury, que está fora do Brasil.\nO candidato à presidência do Brasil, Flávio Bolsonaro, do Partido Liberal (PL), discursa durante um evento antes do segundo turno das eleições, em Brasília, Brasil, em 7 de outubro de 2026\nREUTERS/Diego Herculano\nA última pesquisa Datafolha mostrou Lula com 47% e Flávio Bolsonaro com 46% nas simulações de segundo turno. Já a Quaest registrou o candidato do PL na frente, 44% a 42%. \nAssessores do senador do PL dizem que a simulação do Datafolha está defasada e a campanha espera que o levantamento que será divulgado nesta quinta-feira já mostre uma diferença de mais de dois pontos percentuais entre os dois candidatos, com o bolsonarista na frente.\nEnquanto isso, depois de reconhecer desorganização na sua campanha de primeiro turno, o presidente Lula decidiu reforçar seu time para o segundo turno. A expectativa é que o Datafolha mostre um cenário de empate técnico, com Flávio Bolsonaro à frente. \nEsse é o melhor cenário para os aliados de Lula. Daria tempo para uma reação nas duas últimas semanas de campanha, com uma mobilização mais forte da militância diante do risco de derrota.",
       "tags": [
-        "STF",
-        "urnas",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 21:00:00 +0000"
-    },
-    {
-      "id": "4948bf058a91",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em vídeo, Flávio Bolsonaro já convida presidente da Colômbia para sua posse em 2027: ‘Save the date’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/em-video-flavio-bolsonaro-ja-convida-presidente-da-colombia-para-sua-posse-em-2027-save-the-date/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
         "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Wed, 07 Oct 2026 19:46:15 +0000"
-    },
-    {
-      "id": "2d45c6694094",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Michelle Bolsonaro diz esperar que Flávio seja eleito e afirma que ele pode contar com o PL Mulher",
-      "link": "https://www.estadao.com.br/politica/eleicoes/michelle-bolsonaro-diz-esperar-que-flavio-seja-eleito-e-afirma-que-ele-pode-contar-com-o-pl-mulher/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Michelle Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 90,
-      "publishedRaw": "Wed, 07 Oct 2026 19:24:14 +0000"
-    },
-    {
-      "id": "1225bdeceb4d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Soltar Bolsonaro em decisão liminar exigiria evidência de erro judicial crasso, apontam especialistas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/soltar-bolsonaro-em-decisao-liminar-exigiria-evidencia-de-erro-judicial-crasso-apontam-especialistas.shtml",
-      "summary": "Hoje em prisão domiciliar, o ex-presidente Jair Bolsonaro já entrou com dois pedidos de revisão criminal no STF (Supremo Tribunal Federal) para tentar reverter sua condenação no caso da trama golpista.\nLeia mais (10/08/2026 - 04h06)",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "08 Oct 2026 04:06:00 -0300"
-    },
-    {
-      "id": "a99bbfe3d0e1",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio: Bolsonaro ficou “aliviado” com eleição de Carlos como senador em SC",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-ficou-aliviado-com-eleicao-de-carlos-como-senador-em-sc/",
-      "summary": "Com vida política construída no Rio de Janeiro, irmão do presidenciável derrotou Esperidião Amin, político tradicional da direita catarinense, por exemplo",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Thu, 08 Oct 2026 02:40:25 +0000"
-    },
-    {
-      "id": "3743e5672e63",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin dá 5 dias para PGR revisar pedido de arquivamento do caso de Bolsonaro na pandemia",
-      "link": "https://www.estadao.com.br/politica/eleicoes/fachin-da-5-dias-para-pgr-revisar-pedido-de-arquivamento-do-caso-de-bolsonaro-na-pandemia-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Wed, 07 Oct 2026 20:55:55 +0000"
-    },
-    {
-      "id": "3d8bac64374c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes intima Bolsonaro sobre caso das joias sauditas",
-      "link": "https://www.poder360.com.br/poder-justica/moraes-intima-bolsonaro-sobre-caso-das-joias-sauditas/",
-      "summary": "Receita Federal abriu procedimento fiscal relacionado aos bens recebidos pelo ex-presidente durante o mandato",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "Thu, 08 Oct 2026 00:53:21 +0000"
+      "score": 85,
+      "publishedRaw": "Thu, 08 Oct 2026 13:40:45 -0000"
     },
     {
       "id": "838fd388f1d3",
@@ -421,19 +315,20 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Thu, 08 Oct 2026 03:00:00 -0000"
     },
     {
-      "id": "b300272b8b9b",
+      "id": "cc62cc241acd",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Gabinete diz que Janja seguirá na campanha de Lula; atuação da primeira-dama é alvo de críticas",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/gabinete-diz-que-janja-seguira-na-campanha-de-lula-atuacao-da-primeira-dama-e-alvo-de-criticas.ghtml",
-      "summary": "O gabinete da primeira-dama do Brasil, Janja da Silva, afirmou em nota nesta quarta-feira (7) que, \"independente do que falem\", ela seguirá na campanha de Lula (PT) à reeleição. \n\"Independente do que falem, Janja seguirá na campanha. Sua participação é legítima e sempre respaldada pelo presidente Lula.  O objetivo de todos os envolvidos é um só: reeleger o presidente\", diz comunicado da equipe da primeira-dama enviado ao g1.\nNesta terça-feira (6), a reunião de coordenadores da campanha petista, em Brasília, foi marcada por críticas à área de comunicação e à atuação da primeira-dama.\nEm entrevista ao Estúdio i, da GloboNews, a ex-senadora Kátia Abreu, coordenadora da campanha do presidente Lula no Tocantins, confirmou que fez críticas à primeira-dama na reunião.\n'Janja está ocupando espaço maior que Alckmin', diz Kátia Abreu sobre campanha de Lula\nA informação sobre as declarações da ex-senadora no encontro foi publicada pela jornalista Bela Megale, do jornal O Globo.\nA reunião de terça reuniu integrantes da cúpula da campanha de Lula para discutir mudanças na estratégia para o segundo turno. Durante o encontro, Kátia defendeu maior participação de Geraldo Alckmin (PSB) na campanha e fez críticas à condução da coordenação nacional.\nNa entrevista, Kátia Abreu afirmou que Janja está ocupando um espaço maior que o vice-presidente Alckmin na campanha pela reeleição do petista e disse que não esperava que o conteúdo da reunião fosse divulgado, mas afirmou que não vai negar a avaliação que fez.\n“A primeira-dama está ocupando um espaço maior do que o vice-presidente. E não querendo desmerecê-la. Ao contrário, querendo enaltecer o vice-presidente Alckmin”, afirmou.\nSegundo ela, a avaliação foi feita sob o ponto de vista da estratégia eleitoral.\n“Eu estava ali como um agente político que pretende, quer ganhar, a eleição. Então, nisso aí, eu sou muito pragmática e objetiva. Se alguém está exorbitando negativamente num processo eleitoral, ele precisa ser chamado, né? Ou então fazem-se pesquisas e, se isso configurar um erro, tudo bem. Se não, continua o trem andando”, disse.\nA ex-senadora afirmou que Alckmin deveria aparecer mais na campanha e destacou a experiência e a capacidade do vice-presidente, principalmente na área econômica.\nIncômodo dentro da campanha\nJanja e Lula durante desfile de 7 de Setembro\nRicardo Stuckert\nNos comícios do primeiro turno, a primeira-dama acabou ganhando um protagonismo que incomodou uma ala da coordenação da campanha de Lula. \nNos atos e caminhadas por todo país, Janja era vista tendo um papel central na organização dos eventos enquanto estavam ocorrendo e também discursava e cantava em todos eles.\nNo Distrito Federal, durante discurso, a primeira-dama chamou Michelle Bolsonaro de \"Bolsonara de Ceilândia\", região em que nasceu Michelle e que ocorria o comício na ocasião.\nApós a declaração, Michelle Bolsonaro começou a usar o apelido dado por Janja e chegou a estampar o nome em uma camiseta, gerando um efeito contrário ao pensado inicialmente ao fazer uma crítica à ex-primeira dama.\nJá em Minas Gerais, Janja repetiu por várias vezes que o deputado Nikolas Ferreira era um \"piá de bosta\". Nikolas também começou a usar o título dado por Janja em suas publicações nas redes sociais.\n'Tem muito PT dentro do Palácio do Planalto', diz Kátia Abreu",
+      "title": "Fã-clubes de artistas pop se mobilizam para reforçar presença de Lula nas redes sociais",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fa-clubes-de-artistas-pop-se-mobilizam-para-reforcar-presenca-de-lula-nas-redes.ghtml",
+      "summary": "Uma rede formada por cerca de 500 fã-clubes de artistas da música pop passou a atuar para ampliar a presença do presidente Luiz Inácio Lula da Silva (PT) nas redes sociais durante a campanha eleitoral. A mobilização reúne páginas dedicadas a nomes como Taylor Swift, The Weeknd, Harry Styles e BTS.\nAlém de compartilhar conteúdos produzidos pela campanha de Lula, os fã-clubes criam materiais próprios para divulgação nas plataformas digitais. Entre as publicações estão vídeos curtos e os chamados \"edits\", montagens feitas por fãs que combinam imagens, músicas e textos.\nA movimentação busca atingir o eleitor jovem. Juntas, as páginas estimam alcançar cerca de 20 milhões de seguidores.\nAgora no g1\nO blog ouviu Breno Scarpate Hochileitner, 20, que é administrador do \"Katy Cats Updates\", um dos portais participantes do movimento. \nSegundo ele, a organização surgiu de forma espontânea, sem uma convocação inicial da campanha de Lula. De acordo com Breno, a motivação está ligada à defesa dos direitos das minorias e da cultura.\nNesta terça-feira (6), o presidente Lula enviou um áudio agradecendo a iniciativa dos fã-clubes.\n“Ei, ‘fandoms’ desse Brasil, vim agradecer por esse movimento que vocês estão fazendo pelo nosso país e pela democracia. Nós temos 19 dias para ganhar essas eleições. Vamos embora, gente, vamos ganhar essas eleições, conto com vocês!”, diz o presidente.\n🔎“Fandoms” é o termo usado para designar comunidades de fãs de um determinado artista, grupo, obra ou universo cultural.\nA proximidade da comunidade com o governo não é recente. Em agosto, administradores de fã-clubes foram convidados ao Palácio do Planalto para um evento sobre medidas contra o cambismo digital e regras para a venda e a transferência de ingressos.\nNa ocasião, Lula assinou um decreto que estabeleceu novas regras para a comercialização e a transferência de ingressos, com medidas para combater a compra em massa e a revenda especulativa. \nO texto também determinou a distribuição gratuita de água em grandes eventos e permitiu a entrada de garrafas com água potável.\nPresidente Luiz Inácio Lula da Silva (PT) em pronunciamento após o 1º turno das eleições\nFoto: Ricardo Stuckert\nEstratégia digital\nPara o segundo turno das eleições, a equipe de Lula montou uma sala dentro do QG de campanha do petista em Brasília para receber os jovens eleitos e influenciadores de esquerda que foram recrutados para tentar melhorar o desempenho de Lula nas redes sociais no segundo turno da eleição.\nO grupo participou nesta quarta-feira (7) de uma reunião com o presidente Lula e deve ficar em Brasília até sexta-feira (9), pelo menos.\nFazem parte desse novo núcleo da campanha candidatos eleitos para a Câmara dos Deputados, como Guilherme Cortez (PSOL-SP), Ana Elisa (PT-MG) e Ana Júlia Ribeiro (PT-PR).\nCríticas da oposição\nA mobilização também foi alvo de críticas da oposição. O deputado federal eleito Lucas Pavanato (PL-SP), um dos políticos de direita com maior alcance nas redes, afirmou que \"páginas de fofoca estariam alinhando o discurso para atacar a imagem de Flávio Bolsonaro e favorecer Lula\".\nEm uma publicação nas redes sociais, Pavanato questionou se a articulação poderia ser comparada a um “gabinete do ódio” e perguntou se haveria remuneração para a disseminação desse conteúdo.\nA campanha de Lula afirma que o movimento foi orgânico e partiu dos próprios perfis.",
       "tags": [
         "Lula"
       ],
@@ -442,40 +337,19 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 20:35:34 -0000"
+      "publishedRaw": "Thu, 08 Oct 2026 01:55:18 -0000"
     },
     {
-      "id": "345372f721dd",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Campanha monta sala no QG de Lula para influenciadores e jovens eleitos reforçarem estratégia digital",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/campanha-monta-sala-no-qg-de-lula-para-influenciadores-e-jovens-eleitos-reforcarem-estrategia-digital.ghtml",
-      "summary": "Lula: 'Para o povo trabalhador, proteção; para o bandido, prisão'\nA equipe do presidente Luiz Inácio Lula da Silva (PT) montou uma sala dentro do QG de campanha do petista em Brasília para receber os jovens eleitos e influenciadores de esquerda que foram recrutados para tentar melhorar o desempenho de Lula nas redes sociais no segundo turno da eleição.\nO grupo participou nesta quarta-feira (7) de uma reunião com o presidente Lula e deve ficar em Brasília até sexta-feira (9), pelo menos. \nFazem parte desse novo núcleo da campanha candidatos eleitos para a Câmara dos Deputados, como Guilherme Cortez (PSOL-SP), Ana Elisa (PT-MG) e Ana Júlia Ribeiro (PT-PR).\nDurante o encontro, Lula afirmou que comunicou ao presidente do PT, Edinho Silva, que essa é campanha a mais desorganizada que ele participou, desde a primeira, em 1989.\n“Acho que nós fizemos uma campanha aquém da minha possibilidade, poderíamos ter feito mais. Disse para o Edinho que essa foi a campanha menos organizada que participei desde 1989”, declarou Lula.\nA campanha organiza uma espécie de força-tarefa digital e tem recebido sugestões de aliados de como trabalhar melhor nas redes sociais.\nNesta quarta-feira (7), o presidente Lula e o vice-presidente Geraldo Alckmin passaram a publicar vídeos em formato de selfie, sugestão dada recentemente pelo governador reeleito do Piauí, Rafael Fonteles (PT).\nLula convoca apoiadores a irem às ruas\nPetista questiona posição de Flávio sobre 6x1\nLema da campanha é: 'Para bandido, prisão'\nA campanha de Lula também quer reeditar a \"Rede da Legalidade\", movimento comandado por Leonel Brizola na década de 1960, quando milhares de brasileiros foram para as ruas depois que o presidente Jânio Quadros renunciou ao cargo. De um lado, estava o povo, a favor da democracia. Do outro, os militares que queriam ocupar o poder.\nSegundo integrantes da campanha de Lula, a ideia é criar nas redes sociais uma versão do movimento brizolista, batizada de \"Rede para o Futuro\". \nA ideia foi lançada nas últimas discussões dentro da coordenação nacional do PT. Há uma defesa de que esse grupo de jovens influenciadores se transforme em uma rede mais articulada em termos de estratégia.\nAgenda de viagens\nLula em Teresina durante campanha\nReprodução\nOutro foco de discussão entre coordenadores da campanha de Lula nos últimos dias foi sobre a agenda de viagens do petista.\nLula vai iniciar a rodada de viagens para o segundo turno das eleições pelo Rio Grande do Norte. A previsão é que o presidente faça uma caminhada em Natal no próximo sábado (10).\nDepois, Lula deve focar em comícios na região Sudeste e desembarcar no Rio de Janeiro, Minas Gerais e São Paulo.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia"
-      ],
-      "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 19:29:00 -0000"
-    },
-    {
-      "id": "ccb74eeb1a43",
+      "id": "92e4c54b1f26",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Campanha de Lula emenda 3 dias de crise interna enquanto busca rumo para o 2º turno",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-emenda-3-dias-de-crise-interna-enquanto-busca-rumo-para-o-2o-turno.shtml",
-      "summary": "A campanha de reeleição do presidente Lula (PT) vive um período de crise após o petista terminar o primeiro turno com menos votos do que o senador Flávio Bolsonaro (PL-RJ). A instabilidade no grupo político do chefe do governo se dá no momento em que ele busca formas de virar a disputa no segundo turno, o que seria um feito inédito desde a redemocratização.\nLeia mais (10/08/2026 - 04h00)",
+      "title": "Lula retomará campanha com caminhada no DF 5 dias depois do primeiro turno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-retomara-campanha-com-caminhada-no-df-5-dias-depois-do-primeiro-turno.shtml",
+      "summary": "O presidente Lula (PT), candidato à reeleição, fará seu primeiro ato de campanha de segundo turno na sexta-feira (9), no Distrito Federal. Será uma caminhada em Ceilândia, a maior cidade-satélite de Brasília. Depois, provavelmente no sábado (10), o petista deverá promover outro ato em Natal (RN).\nLeia mais (10/08/2026 - 11h16)",
       "tags": [
         "Lula"
       ],
@@ -484,19 +358,20 @@
         "CNN Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "08 Oct 2026 04:00:00 -0300"
+      "publishedRaw": "08 Oct 2026 11:16:00 -0300"
     },
     {
-      "id": "2178a166109f",
+      "id": "bd5a195a072a",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula muda coordenação de campanha e mira reformular discurso para 2º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-muda-coordenacao-de-campanha-e-mira-reformular-discurso-para-2o-turno/",
-      "summary": "Após revés no primeiro turno, presidente incorpora Camilo Santana à coordenação-geral e testa nova linguagem ao elevar o tom sobre segurança pública",
+      "title": "Lula priorizará agendas de campanha com petistas que disputam 2° turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-priorizara-agendas-de-campanha-com-petistas-que-disputam-2-turno/",
+      "summary": "Primeiros atos serão no Distrito Federal e Rio Grande do Norte, onde Leandro Grass e Cadu Xavier concorrem pelo governo",
       "tags": [
         "Lula"
       ],
@@ -505,52 +380,11 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Thu, 08 Oct 2026 06:31:55 +0000"
-    },
-    {
-      "id": "6c526bc83dca",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio deve investir em idas ao Nordeste para reduzir vantagem de Lula",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-deve-investir-em-idas-ao-nordeste-para-reduzir-vantagem-de-lula/",
-      "summary": "Ideia é diminuir a diferença de votos recebidos para o atual presidente da República. Presidenciável do PL já começou a mobilizar aliados na região",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 08 Oct 2026 06:30:50 +0000"
-    },
-    {
-      "id": "bb3963d56cc3",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O Grande Debate: Apoio do centrão a Flávio isola Lula no 2º turno?",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-apoio-do-centrao-a-flavio-isola-lula-no-2o-turno/",
-      "summary": "Republicanos, Novo e União Progressista declaram apoio ao candidato do PL; analistas debatem impacto na próxima etapa do pleito",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Thu, 08 Oct 2026 06:12:44 +0000"
+      "publishedRaw": "Thu, 08 Oct 2026 13:49:27 +0000"
     },
     {
       "id": "49ee39a1a453",
@@ -568,10 +402,55 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Thu, 08 Oct 2026 01:52:28 +0000"
+    },
+    {
+      "id": "8614c8d1209e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio senta na cadeira antes da hora e campanha de Lula está atônita, mas eleição ainda não acabou",
+      "link": "https://www.estadao.com.br/politica/ricardo-correa/flavio-senta-na-cadeira-antes-da-hora-e-campanha-de-lula-esta-atonita-mas-eleicao-ainda-nao-acabou/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 08 Oct 2026 12:30:00 +0000"
+    },
+    {
+      "id": "8b8dac173a13",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Virada de Lula sobre Flávio é possível? Entenda o que dizem especialistas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/virada-de-lula-sobre-flavio-e-possivel-entenda-o-que-dizem-especialistas/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Thu, 08 Oct 2026 08:30:00 +0000"
     },
     {
       "id": "acd4fecad2d3",
@@ -589,40 +468,42 @@
         "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Wed, 07 Oct 2026 21:01:54 +0000"
     },
     {
-      "id": "d04e551ff7ca",
-      "source": "Estadão",
+      "id": "f2441dc8c129",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula fala de segurança e lança lema: ‘para o povo trabalhador, a proteção; para o bandido, a prisão’",
-      "link": "https://www.estadao.com.br/politica/lula-fala-de-seguranca-e-lanca-lema-para-o-povo-trabalhador-a-protecao-para-o-bandido-a-prisao/",
-      "summary": "",
+      "title": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno",
+      "link": "https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-no-2o-turno/",
+      "summary": "O 1º levantamento realizado depois do 1º turno mostra Flávio com 53% dos votos válidos e Lula com 47%; leia também os dados de rejeição e expectativa de vitória",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Wed, 07 Oct 2026 20:22:14 +0000"
+      "publishedRaw": "Thu, 08 Oct 2026 13:50:15 +0000"
     },
     {
-      "id": "cc62cc241acd",
-      "source": "G1 - Política",
+      "id": "fc1238686270",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Fã-clubes de artistas pop se mobilizam para reforçar presença de Lula nas redes sociais",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/07/fa-clubes-de-artistas-pop-se-mobilizam-para-reforcar-presenca-de-lula-nas-redes.ghtml",
-      "summary": "Uma rede formada por cerca de 500 fã-clubes de artistas da música pop passou a atuar para ampliar a presença do presidente Luiz Inácio Lula da Silva (PT) nas redes sociais durante a campanha eleitoral. A mobilização reúne páginas dedicadas a nomes como Taylor Swift, The Weeknd, Harry Styles e BTS.\nAlém de compartilhar conteúdos produzidos pela campanha de Lula, os fã-clubes criam materiais próprios para divulgação nas plataformas digitais. Entre as publicações estão vídeos curtos e os chamados \"edits\", montagens feitas por fãs que combinam imagens, músicas e textos.\nA movimentação busca atingir o eleitor jovem. Juntas, as páginas estimam alcançar cerca de 20 milhões de seguidores.\nAgora no g1\nO blog ouviu Breno Scarpate Hochileitner, 20, que é administrador do \"Katy Cats Updates\", um dos portais participantes do movimento. \nSegundo ele, a organização surgiu de forma espontânea, sem uma convocação inicial da campanha de Lula. De acordo com Breno, a motivação está ligada à defesa dos direitos das minorias e da cultura.\nNesta terça-feira (6), o presidente Lula enviou um áudio agradecendo a iniciativa dos fã-clubes.\n“Ei, ‘fandoms’ desse Brasil, vim agradecer por esse movimento que vocês estão fazendo pelo nosso país e pela democracia. Nós temos 19 dias para ganhar essas eleições. Vamos embora, gente, vamos ganhar essas eleições, conto com vocês!”, diz o presidente.\n🔎“Fandoms” é o termo usado para designar comunidades de fãs de um determinado artista, grupo, obra ou universo cultural.\nA proximidade da comunidade com o governo não é recente. Em agosto, administradores de fã-clubes foram convidados ao Palácio do Planalto para um evento sobre medidas contra o cambismo digital e regras para a venda e a transferência de ingressos.\nNa ocasião, Lula assinou um decreto que estabeleceu novas regras para a comercialização e a transferência de ingressos, com medidas para combater a compra em massa e a revenda especulativa. \nO texto também determinou a distribuição gratuita de água em grandes eventos e permitiu a entrada de garrafas com água potável.\nPresidente Luiz Inácio Lula da Silva (PT) em pronunciamento após o 1º turno das eleições\nFoto: Ricardo Stuckert\nEstratégia digital\nPara o segundo turno das eleições, a equipe de Lula montou uma sala dentro do QG de campanha do petista em Brasília para receber os jovens eleitos e influenciadores de esquerda que foram recrutados para tentar melhorar o desempenho de Lula nas redes sociais no segundo turno da eleição.\nO grupo participou nesta quarta-feira (7) de uma reunião com o presidente Lula e deve ficar em Brasília até sexta-feira (9), pelo menos.\nFazem parte desse novo núcleo da campanha candidatos eleitos para a Câmara dos Deputados, como Guilherme Cortez (PSOL-SP), Ana Elisa (PT-MG) e Ana Júlia Ribeiro (PT-PR).\nCríticas da oposição\nA mobilização também foi alvo de críticas da oposição. O deputado federal eleito Lucas Pavanato (PL-SP), um dos políticos de direita com maior alcance nas redes, afirmou que \"páginas de fofoca estariam alinhando o discurso para atacar a imagem de Flávio Bolsonaro e favorecer Lula\".\nEm uma publicação nas redes sociais, Pavanato questionou se a articulação poderia ser comparada a um “gabinete do ódio” e perguntou se haveria remuneração para a disseminação desse conteúdo.\nA campanha de Lula afirma que o movimento foi orgânico e partiu dos próprios perfis.",
+      "title": "Kassio mantém vídeos de Flávio que associam Lula a Moraes, INSS e cassinos",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/kassio-mantem-videos-de-flavio-que-associam-lula-a-moraes-inss-e-cassinos/",
+      "summary": "Presidente do TSE considerou que conteúdos questionados pelo PT estão dentro dos limites da crítica eleitoral",
       "tags": [
         "Lula"
       ],
@@ -630,29 +511,12 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Thu, 08 Oct 2026 01:55:18 -0000"
-    },
-    {
-      "id": "344029766703",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: TV Globo promove entrevistas e debate com candidatos à Presidência no 2º turno",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/eleicoes-2026-tv-globo-promove-entrevistas-e-debate-com-candidatos-a-presidencia-no-2o-turno.ghtml",
-      "summary": "Flávio Bolsonaro e Lula.\nFoto: Mateus Bonomi/Reuters; Roberto Sungi/Estadão Conteúdo\nA TV Globo promove, nos dias 15 e 16 de outubro, entrevistas ao vivo com os candidatos que disputam o segundo turno da eleição presidencial. \nRealizados nos Estúdios Globo, no Rio de Janeiro, os encontros serão conduzidos por Renata Lo Prete e exibidos após o 'Jornal Nacional', com transmissão simultânea pelo g1 e pela GloboNews. Após a exibição, o conteúdo ficará disponível na íntegra no g1 e no Globoplay.\nVeja a ordem das entrevistas (definida por sorteio em reunião realizada com representantes das campanhas na tarde de terça-feira, 6):\nLuiz Inácio Lula da Silva (PT): quinta-feira, 15 de outubro;\nFlávio Bolsonaro (PL): sexta-feira, 16 de outubro.\nDurante as entrevistas, os candidatos poderão detalhar propostas, apresentar prioridades para o país e responder a questionamentos sobre temas de interesse da população.\nMAPA DA APURAÇÃO: veja como foi a votação no 1º turno\nVeja dados da apuração para presidente, governador e Congresso em todo o país\n2º turno: Flávio Bolsonaro, do PL, e Lula, do PT, disputam votos dos outros partidos e buscam motivar quem não foi às urnas\nDebate no 2º turno\nNo dia 23 de outubro, a TV Globo realiza o último debate entre os dois candidatos que disputam a Presidência da República. Foram convidados Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). O encontro acontecerá nos Estúdios Globo, no Rio de Janeiro, logo após o 'Jornal Nacional'. \nMediado pelo jornalista César Tralli, o debate será transmitido ao vivo pela TV Globo, e também poderá ser acompanhado simultaneamente pelo g1 e pela GloboNews, que disponibilizará o conteúdo para o mundo todo. Pelo Globoplay, o público poderá assistir tudo pelo sinal da TV Globo. Após a exibição, a íntegra ficará disponível no g1.\nAs entrevistas e o debate realizados pela Globo integram a cobertura para o segundo turno das Eleições 2026 e têm como principal objetivo oferecer aos brasileiros a oportunidade de conhecer e avaliar as propostas dos candidatos para os desafios do país.",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia"
-      ],
-      "score": 82,
-      "publishedRaw": "Wed, 07 Oct 2026 19:12:27 -0000"
+      "score": 85,
+      "publishedRaw": "Thu, 08 Oct 2026 13:20:21 +0000"
     },
     {
       "id": "cc62cc241acd",
@@ -670,64 +534,169 @@
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Thu, 08 Oct 2026 01:55:18 -0000"
     },
     {
-      "id": "84dc7e267ddb",
+      "id": "d7500afee0e3",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula pode virar no segundo turno? As 5 batalhas do petista",
+      "link": "https://www.bbc.com/portuguese/articles/c6y0enryxv77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Analistas ouvidos pela BBC News Brasil apontam cinco obstáculos que Lula enfrentará para tentar reverter a situação, algo que nunca aconteceu desde a redemocratização.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 07 Oct 2026 20:38:25 GMT"
+    },
+    {
+      "id": "f2cf2bfb1bc0",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Relator no TSE rejeita desistência de Garotinho, mas mantém inelegibilidade",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-garotinho-rj-segundo-turno/",
+      "summary": "Caso está em análise no plenário da Corte Eleitoral; resultado definirá a realização ou não do segundo turno das eleições para o governo do Rio de Janeiro",
+      "tags": [
+        "TSE",
+        "inelegibilidade"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Thu, 08 Oct 2026 14:16:00 +0000"
+    },
+    {
+      "id": "95b498a25863",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "STF exclui crédito de ICMS da base de cálculo de impostos federais e União estima impacto de R$16,5 bilhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/07/stf-exclui-credito-de-icms-da-base-de-calculo-de-impostos-federais-e-uniao-deve-perder-r165-bilhoes.ghtml",
-      "summary": "O Supremo Tribunal Federal (STF) decidiu nesta quarta-feira (7) que incentivos concedidos por estados e o Distrito Federal via ICMS não devem entrar na base de cálculo das contribuições ao PIS (Programa de Integração Social) e a Contribuição para o Financiamento da Seguridade Social (Cofins). \n🔎O Imposto sobre Circulação de Mercadorias e Serviços (ICMS) é um tributo estadual. Os créditos presumidos são uma forma de incentivar empresas e setores da economia.\nO impacto, segundo os riscos fiscais inscritos na Lei de Diretrizes Orçamentárias de 2026, é de R$16,5 bilhões. A votação acabou 7 a 4 – ficaram vencidos os ministros Alexandre de Moraes, Gilmar Mendes, Nunes Marques e Luiz Fux.  \nOs ministros André Mendonça, Cristiano Zanin e Flávio Dino não votaram, já que seus antecessores – Marco Aurélio, Ricardo Lewandowski e Rosa Weber – já haviam votado.\nAgora no g1\nValores não podem compor base de cálculo\nO ministro Alexandre de Moraes, que saiu vencido do julgamento, entendeu que ao conceder o incentivo fiscal o estado não pode “dar mais do que tem”, ou seja, dar o benefício em relação ao ente federativo e à União.\n“A concessão de benefício fiscal pelo estado, o fato de conceder um benefício fiscal, não pode por via oblíqua impedir um tributo da União sobre a parte que lhe compete”\nÚltimo a votar, o presidente da Corte, Edson Fachin, considerou que valores que transitam na contabilidade ou que não representam riqueza própria não podem ser enquadrados como receita ou faturamento e, por isso, não devem compor a base de cálculo dos tributos federais.\nMaioria dos ministros entendeu que créditos presumidos do ICMS não podem entrar na base de cálculo do PIS e Cofins\nReprodução\n“Ainda que epidermicamente o debate seja tributário, na parte mais profunda está a se discutir o desenho do federalismo brasileiro à luz da Constituição de 1988. Por tanto, nessa ordem de ideia, à luz desse desenho que entendo presente na Constituição, reputo compatível com o texto constitucional a inclusão de créditos presumidos de icms na base da Cofins e na contribuição ao PIS”, afirmou o ministro.\nAo final do julgamento foi aprovada a tese segundo a qual “surge incompatível, com a Constituição Federal, a inclusão, na base de cálculo da Cofins e da contribuição ao PIS, de créditos presumidos do Imposto sobre Circulação de Mercadorias e Serviços – ICMS.”",
+      "title": "O que muda na eleição para governador do Rio se o TSE aprovar ou rejeitar a candidatura de Anthony Garotinho?",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/o-que-muda-na-eleicao-para-governador-do-rio-se-o-tse-aprovar-ou-rejeitar-a-candidatura-de-anthony-garotinho.ghtml",
+      "summary": "TRE mantém indeferimento de registro de candidatura de Anthony Garotinho\nO julgamento da candidatura de Anthony Garotinho (Republicanos) pelo Tribunal Superior Eleitoral (TSE) pode mudar os rumos da eleição para o governo do Rio de Janeiro. Os  274.411 ou 3,17% dos votos de Garotinho podem definir o novo governador do Rio sem que haja segundo turno. \nOs votos destinados a ele serão registrados como “anulados sub judice”. Isso significa que a validade desses votos depende da decisão judicial sobre o registro da candidatura.\nO TSE deve decidir isso nesta quinta-feira (8) ao analisar o pedido de Garotinho para desistir do recurso contra o indeferimento de sua candidatura. Sob relatoria do ministro Floriano de Azevedo Marques, a decisão pode definir se haverá segundo turno entre Douglas Ruas (PL) e Eduardo Paes (PSD).\n🔎 Os ministros devem analisar decisão do TRE-RJ, que em setembro considerou Garotinho inelegível e com suspensão de direitos políticos por 8 anos por ainda estar sob os efeitos da condenação por improbidade administrativa, dano ao erário e enriquecimento ilícito de terceiros (entenda).\nNa sexta-feira (2), o ministro Floriano de Azevedo Marques revogou a liminar que assegurava prerrogativas de candidato ao ex-governador. \nSe o tribunal aprovar a candidatura, os votos de Garotinho serão validados. Se confirmar o indeferimento em decisão colegiada, serão anulados em caráter definitivo para a totalização. As consequências dependerão da votação dos candidatos e do momento do julgamento.\nVeja os principais pontos:\nSe o TSE aprovar a candidatura, os votos de Garotinho passam a valer e podem influenciar a definição sobre segundo turno.\nPela regra geral, estar sub judice não impede a convocação para o segundo turno.\nSe Garotinho se classificar e tiver o indeferimento confirmado pelo TSE antes da segunda votação, a regra prevê a convocação da próxima chapa mais votada.\nSe ele obtiver votação para vencer, o reconhecimento da vitória dependerá da reversão do indeferimento, o que está sendo julgado pelo TSE. \nO que significa ter os votos “anulados sub judice”?\nSignifica que a candidatura foi rejeitada, mas ainda existe uma disputa judicial que pode mudar essa situação. Os votos são registrados, e sua validade fica condicionada ao resultado do recurso.\nMárcio Nogueira, presidente da OAB de Rondônia e especialista em Direito Eleitoral e Digital, explica que esses votos não podem ser tratados como definitivamente perdidos.\n“É importante observar que ‘anulado sub judice’ não é o mesmo que voto definitivamente nulo. Trata-se de um voto cuja validade está condicionada justamente ao resultado do recurso”, diz Nogueira.\nTambém há diferença entre um voto ser válido e participar dos percentuais divulgados na apuração. Pela regra geral do TSE, os votos anulados sub judice entram no cálculo dos percentuais apresentados na eleição majoritária, com indicação de sua situação judicial. Isso não equivale à aprovação da candidatura.\nSe o TSE aprovar a candidatura, pode haver segundo turno?\nSim, mas isso dependerá do resultado das urnas. \nSe os votos de Garotinho forem validados, passam a integrar o total de votos válidos usado para verificar essa maioria. Isso pode impedir uma vitória que só seria possível com a exclusão da votação dele.\nO advogado e professor de Direito Constitucional Diego de Paiva Vasconcelos explica que o efeito está na base de cálculo dos percentuais.\n“Garotinho não precisa tirar votos de ninguém para mudar o resultado, porque basta que seus votos entrem ou saiam do total sobre o qual se calcula a maioria”, diz Vasconcelos.\nA aprovação do registro, porém, não obriga a realização de segundo turno. Se outro candidato superar metade dos votos válidos mesmo com a votação de Garotinho incluída, poderá vencer na primeira etapa.\nGarotinho pode ir ao segundo turno com o recurso pendente?\nPela regra geral, sim. A resolução do TSE estabelece que a situação sub judice dos votos não impede a convocação da chapa para o segundo turno.\nIsso significa que, se Garotinho estiver entre os dois mais votados e não houver vencedor no primeiro turno, a pendência do recurso, por si só, não impede sua classificação. Essa é a regra geral, cuja aplicação ao caso depende também das determinações judiciais específicas.\nDisputar o segundo turno, no entanto, não equivale a ter o registro aprovado nem garante o reconhecimento de uma eventual vitória.\nE se ele se classificar, mas o TSE rejeitar a candidatura antes do segundo turno?\nSe o colegiado do TSE confirmar o indeferimento entre as duas votações, Garotinho fica impedido de disputar. A regra prevê a convocação da próxima chapa mais votada, normalmente a terceira colocada no primeiro turno.\nHá uma exceção: se a soma dos votos anulados definitivamente superar metade da votação considerada pela resolução, deverão ser convocadas novas eleições, em vez da substituição pela próxima chapa.\nE se outra pessoa for declarada eleita antes da decisão sobre Garotinho?\nA declaração de vitória não impede uma revisão. A resolução prevê nova totalização quando uma mudança na situação jurídica da candidatura alterar o resultado, inclusive com possibilidade de substituição de diplomas já expedidos.\nAs consequências dependem da etapa em que a eleição foi definida:\nSe outro candidato tiver sido declarado vencedor no primeiro turno: a validação dos votos de Garotinho pode retirar a maioria absoluta que sustentava essa vitória. Isso ocorre se, com a inclusão desses votos, o percentual do vencedor cair para 50% ou menos.\nSe outro candidato tiver vencido o segundo turno: será necessário verificar se a decisão sobre Garotinho mudaria a necessidade daquela etapa ou quem deveria tê-la disputado. Não é possível afirmar, de forma automática, que haverá nova votação ou substituição do eleito; a Justiça terá de definir a consequência no caso concreto.\nSe a decisão não alterar a definição da disputa: a mudança na situação dos votos de Garotinho, por si só, não implica trocar o vencedor.\nNogueira afirma que os efeitos do julgamento dependem dos números das urnas.\n“O efeito concreto dependerá do resultado das urnas. A validação pode não modificar quem vai ao segundo turno, pode alterar os candidatos classificados para ele ou, conforme a distribuição dos votos, repercutir sobre a própria necessidade de realização de segundo turno”, diz Nogueira.\nE se o TSE apenas mandar julgar o caso novamente?\nIsso não equivale a aprovar a candidatura. Segundo Vasconcelos, uma decisão que apenas anule o julgamento anterior e determine uma nova análise não valida, por si só, os votos.\n“Somente o deferimento do registro valida os votos. Se o tribunal apenas anular a decisão regional e mandar o caso de volta para novo julgamento, os votos continuam suspensos”, diz Vasconcelos.\nAnthony Garotinho é candidato ao governo do RJ pelo Republicanos\nDivulgação",
       "tags": [
-        "STF"
+        "candidatura",
+        "TSE"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia"
+        "Folha de São Paulo"
       ],
-      "score": 80,
-      "publishedRaw": "Wed, 07 Oct 2026 21:45:47 -0000"
+      "score": 78,
+      "publishedRaw": "Thu, 08 Oct 2026 11:23:19 -0000"
     },
     {
-      "id": "5b55de0f65ed",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Flávio diz que fala sobre mudar a Constituição 'para redemocratizar o país' se referia à reforma do STF e fim da reeleição",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/flavio-diz-que-proposta-de-mudanca-na-constituicao-inclui-reducao-da-maioridade-penal-e-medidas-contra-o-stf.ghtml",
-      "summary": "Flávio: 'Comigo vai ser sempre com a ponderação, com respeito à Constituição'\nO candidato à Presidência Flávio Bolsonaro (PL) afirmou, nesta quarta-feira (7), que a declaração sobre querer \"mudar a Constituição para redemocratizar o país\" se referia a propostas já anunciadas por ele caso seja eleito, como a redução da maioridade penal e mudanças no Supremo Tribunal Federal (STF).\n\"Vocês acham que o Brasil está numa democracia plena? Não. A gente tem que respeitar a política, tem várias PECs [propostas de mudanças na Constituição] que são possíveis\", disse. \n“Tem que haver, sim, uma reforma no Judiciário. Eu sou a favor da redução da maioridade penal há bastante tempo, tem que ser feito por PEC. Tem pontos da reforma tributária que têm que ser alterados por PEC. E o fim da reeleição\", prosseguiu.\n\"Comigo não vai ter isso, vai ter estabilidade, vai ter paz para todo mundo trabalhar, vai ter segurança jurídica, respeito à Constituição. Vai ser o normal. O Brasil tem que voltar ao normal\". \nDurante viagem a Goiânia nessa terça-feira (6), Flávio falou que, caso seja eleito, quer usar a maioria no Congresso conquistada nas urnas no último domingo (4) para \"mudar a Constituição\", mas não disse o que pretende alterar.\nEle deu a declaração em Goiânia, ao lado do candidato derrotado no primeiro turno Ronaldo Caiado (PSD), que anunciou apoio à candidatura dele.\nFlávio Bolsonaro (PL)\nFoto: Vittor Sales\nQuestionado pela imprensa nesta quarta (7) sobre o que quis dizer com a declaração, o candidato adotou um tom mais moderado em respeito à Constituição, e tentou afastar qualquer possibilidade de medidas autoritárias.\n\"Comigo vai ser sempre com ponderação, com respeito à política e honrando e respeitando cada seguimento da sociedade aqui representado nesses parlamentares, não só os deputados estaduais e federais que estão aqui, mas os governadores, as candidatas ao governo que estão concorrendo ainda, os senadores\", disse.\nEle também comentou críticas que a declaração vem sofrendo. \"Eu já vi gente começar a dizer: 'Ah, agora o Flávio com esse Congresso com ampla maioria ele vai fazer o que o pai dele não fez [no caso da trama golpista]. Vamos parar de mentir, vamos aterrizar no mundo real\". \nA reforma do Judiciário já aparece no programa de governo de Flávio Bolsonaro, que reúne propostas principalmente relacionadas ao Supremo Tribunal Federal (STF), entre elas mudanças em decisões monocráticas.\nA redução da maioridade penal também já havia sido defendida pelo candidato. Em agosto, Flávio Bolsonaro afirmou que apoiaria a redução de 18 para 16 anos. A proposta em discussão no Congresso altera o artigo 228 da Constituição e, portanto, precisa ser aprovada por meio de uma PEC.\nFim da reeleição\nFlávio também disse que não pretende concorrer à reeleição, caso conquiste um mandato como presidente. Afirmou que a decisão caberá ao Congresso. O partido dele, PL, elegeu 121 deputados e conquistou a maior bancada na Câmara desde a Constituição de 1988. \n\"Quando eu falo que eu sou a favor do fim da reeleição e é assim que eu vou fazer, eu vou usar o capital político de um presidente recém-eleito para aprovar essa PEC para redemocratizar o nosso país nesse sentido. É para dar o exemplo\", afirmou. \n“Para mostrar que eu não estou disputando o poder como esse atual governo. [...] Não estou disputando o poder. Eu estou disputando o futuro do meu país, futuro para as minhas filhas, para as filhas de vocês que estão aqui, para quem está assistindo. Então, fiz o compromisso de não concorrer à reeleição\". \nSegundo Flávio Bolsonaro, a definição de como funcionaria o fim da reeleição ficaria a cargo dos deputados e senadores.\n“É o Congresso que vai discutir os critérios, se vai ser mandato de quatro, de cinco anos, se vai valer só para presidente, se vai valer para governador. Aí é o processo legislativo que vai ser respeitado e a maioria vai decidir qual é o caminho que tem que ser feito, a reforma política.”",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 07 Oct 2026 13:15:37 -0000"
-    },
-    {
-      "id": "218acac0a44d",
+      "id": "7b665441ce0a",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PF arquiva pedido da AGU para investigar interferência dos EUA nas eleições",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-arquiva-pedido-da-agu-para-investigar-interferencia-dos-eua-nas-eleicoes/",
+      "title": "TSE julga o registro de candidatura de Deltan Dallagnol, eleito ao Senado pelo Paraná",
+      "link": "https://www.estadao.com.br/politica/eleicoes/tse-julga-nesta-quinta-feira-8-a-candidatura-de-deltan-dallagnol-ao-senado-pelo-parana/",
       "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Thu, 08 Oct 2026 12:30:26 +0000"
+    },
+    {
+      "id": "8070fcbbe202",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE julga candidatura de Garotinho nesta quinta e pode definir eleição ao governo do Rio",
+      "link": "https://www.estadao.com.br/politica/tse-julga-candidatura-de-garotinho-e-pode-definir-eleicao-ao-governo-do-rio-de-janeiro-npr/",
+      "summary": "",
+      "tags": [
+        "candidatura",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Thu, 08 Oct 2026 12:43:58 +0000"
+    },
+    {
+      "id": "2fdfed98dee0",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE tem 3 a 0 para anular votos de Garotinho na eleição para o governo do RJ",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/tse-julgamento-garotinho-deltan-dallagnol.ghtml",
+      "summary": "TSE tem 3 a 0 para anular votos de Garotinho na eleição para o governo do RJ Julgamento pode impactar o volume total de votos e a realização ou não do segundo turno no estado do Rio de Janeiro. Placar tem 3 a 0 para anular votos de Garotinho.  Ministros do TSE julgam a possível inelegibilidade de Garotinho, do Republicanos, que ficou em terceiro lugar na eleição para governo do RJ.. Se a candidatura de Garotinho for barrada — e os votos dele forem anulados —, o estado pode não ter mais segundo turno.. Douglas Ruas (PL) —que teve 49,27% dos votos, contra 42,75% de Eduardo Paes (PSD) —, pode ser anunciado governador eleito do Rio.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 08 Oct 2026 14:46:27 -0000"
+    },
+    {
+      "id": "eaf9d6453145",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE deve julgar nesta quinta desistência de recurso de Garotinho e definir eleição para o governo do RJ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/tse-deve-julgar-nesta-quinta-desistencia-de-recurso-de-garotinho-e-definir-eleicao-para-o-governo-do-rj.ghtml",
+      "summary": "Garotinho votou em colégio na Zona Sul do Rio\nGuilherme Vizane/ TV Globo\nO Tribunal Superior Eleitoral (TSE) deve julgar nesta quinta-feira (8) o pedido de Anthony Garotinho (Republicanos) para desistir de um recurso contra a decisão do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), que rejeitou seu registro de candidatura ao governo do RJ.\nCaso a maioria do TSE entenda que não cabe a desistência do recurso, os ministros devem analisar decisão do TRE-RJ, que em setembro considerou Garotinho inelegível por ainda estar sob os efeitos da condenação por improbidade administrativa, dano ao erário e enriquecimento ilícito de terceiros (veja abaixo).\nA decisão da Corte deve impactar a realização ou não de um 2º turno entre o presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), Douglas Ruas (PL) e o ex-prefeito do Rio, Eduardo Paes (PSD).\nNo domingo (4), Ruas teve 4.271.199 votos e apareceu com 49,27% dos votos válidos. Paes, segundo colocado, recebeu 3.706.984 votos, com 42,76%. Garotinho teve 274.411 votos, equivalentes a 3,17%.\nSem os votos de Garotinho na base de cálculo, o percentual dos candidatos subiria. Ruas passaria a ter 51% dos votos válidos, o que faria dele o governador eleito em primeiro turno. \nVeja MAPA com a apuração pelo Brasil no 1º turno\nGarotinho inelegível\nEm setembro, o TRE considerou Garotinho inelegível por ainda estar sob os efeitos da condenação por improbidade administrativa, dano ao erário e enriquecimento ilícito de terceiros.\n🔎 Improbidade administrativa é quando um agente público comete irregularidades no cargo, como causar prejuízo ao dinheiro público ou obter vantagem indevida. Dano ao erário é o prejuízo aos cofres públicos; já enriquecimento ilícito indica vantagem indevida obtida por meio da função.\nO caso chegou ao TSE. Primeiro, a Corte liberou Garotinho para fazer campanha e permitiu o acesso a recursos públicos para a campanha. Depois, decisões individuais tomaram rumos distintos. \nO relator do caso, Floriano de Azevedo Marques, determinou que os votos de Garotinho deveriam ser anulados. Com isso, não seriam considerados válidos. \nGarotinho desiste de recurso no TSE, e Ruas pode ser declarado eleito em 1º turno\nO presidente do TSE, Nunes Marques, fixou que os votos dele deveriam ser considerados no cálculo dos percentuais obtidos pelos candidatos ao governo do Rio até que o plenário da Corte decidisse sobre a manutenção da rejeição do registro de candidatura atestada pelo TRE-RJ. \nDepois do resultado nas urnas e diante da indicação de um segundo turno, a defesa de Garotinho acionou o TSE pedindo a desistência do recurso. A medida ajudaria Ruas e provocou críticas, especialmente na campanha de Paes. \nO TSE tem o entendimento de que a desistência de um recurso é inadmissível quando o ato puder alterar o resultado das eleições — e a vontade coletiva e popular.\nNos bastidores, ministros apontam que o caso pode provocar debates no plenário da Corte. \n\nA coligação de Eduardo Paes pediu que o TSE deixasse Garotinho fora da disputa, reconhecendo os mais de 274 mil votos no cálculo para o quórum, o que manteria o segundo turno.\nO Ministério Público Eleitoral (MPE), no entanto, entende que o caso de Garotinho é uma exceção e que, como ele está inelegível, seria possível acolher a desistência.\nO caso será julgado pelos ministros Nunes Marques, André Mendonça, Dias Toffoli, Ricardo Vilas Boas Cueva, Sebastião Reis Júnior, Floriano de Azevedo Marques e Estela Aranha.\nO processo é o quinto processo da pauta de julgamentos. \nDeltan Dallagnol \nEstá pautado para a mesma sessão um recurso do senador eleito pelo Paraná Deltan Dallagnol (Novo-PR). \nDallagnol teve o registro de candidatura aceito no Tribunal Regional Eleitoral do Paraná (TRE-PR) por 4 a 3. \nO deputado federal Deltan Dallagnol (Podemos-PR) em entrevista coletiva à imprensa, na Câmara dos Deputados, em Brasília, nesta quarta-feira (17).\nReprodução\nAdversários do ex-procurador da Lava Jato apresentaram recurso ao TSE pedindo o indeferimento do registro de candidatura. \nO ministro Floriano de Azevedo Marques havia derrubado a decisão do TRE-PR. O ministro também havia declarado nulos os votos atribuídos à chapa. \nNo domingo (4), o presidente TSE suspendeu a decisão de Floriano, determinou a validação dos votos recebidos por Dallagnol nas eleições e mandou o caso ao plenário. \nDallagnol foi o segundo mais votado, com mais de 2,9 milhões de votos (25,1% dos votos válidos). Com isso, foi eleito para assumir a segunda vaga do estado no Senado. \nO Ministério Público Eleitoral (MPE) já se manifestou pela aprovação do registro de candidatura. \n\nA discussão sobre a elegibilidade de Dallagnol começou nas eleições de 2022. Em 2023, o TSE cassou o registro da candidatura dele, o que levou à perda do mandato de deputado federal. \nNa época, o tribunal entendeu que Dallagnol cometeu fraude à Lei da Ficha Limpa ao deixar o Ministério Público Federal (MPF) enquanto respondia a procedimentos internos que poderiam levar à sua demissão.",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 08 Oct 2026 03:00:00 -0000"
+    },
+    {
+      "id": "acc11cdfa1bf",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Por que as eleições mexem tanto com dólar e bolsa? Entenda o que o mercado tenta antecipar",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/08/por-que-as-eleicoes-mexem-tanto-com-dolar-e-bolsa-entenda-o-que-o-mercado-tenta-antecipar.ghtml",
+      "summary": "B3, bolsa de valores brasileira.\nDivulgação/ B3\nAntes mesmo de os brasileiros irem às urnas no último domingo (4), as eleições já estavam no radar dos mercados. Desde o começo do ano, foram vários os momentos de altas e baixas no dólar, na bolsa e nas taxas de juros, associados a falas de candidatos e pesquisas eleitorais.\nAs movimentações refletem as apostas do mercado sobre os rumos da economia no próximo governo. Não à toa, o resultado do 1º turno já teve impacto no dólar e no Ibovespa.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nNa segunda-feira (5), um dia após a apuração das urnas mostrar Flávio Bolsonaro (PL) à frente, com 47,03% dos votos válidos, ante 45,16% de Lula (PT), o dólar caiu mais de 4% e terminou o dia cotado a R$ 5, o menor patamar desde maio.\nJá a bolsa brasileira disparou 7,70%, na maior alta diária desde março de 2020, e fechou no recorde de 206.912 pontos.\nAgora no g1\n“Os preços refletem expectativas sobre crescimento, inflação, juros e, no Brasil, sobretudo a trajetória fiscal. A eleição deixa essas variáveis em aberto, e cada pesquisa ou declaração muda as probabilidades de cada cenário”, explica o chefe de investimentos do ASA, Rogerio Freitas.\nPor que as eleições mexem com dólar, bolsa e juros?\nO mercado costuma sofrer grandes oscilações em momentos como esse porque tenta antecipar os efeitos que as propostas e as chances de vitória de cada candidato podem ter sobre a economia.\nDados históricos mostram que o Ibovespa, o dólar e os juros futuros costumam reagir com maior intensidade em períodos eleitorais e diante de notícias políticas, principalmente quando aumentam as incertezas sobre as contas públicas e os rumos da economia.\n🔎 Os efeitos aparecem de formas diferentes em cada mercado. A bolsa reage às expectativas dos investidores para a economia e para o desempenho das empresas. Já o dólar responde à percepção de risco e aos movimentos de entrada e saída de recursos do país.\nRecentemente, a notícia de reajuste do Bolsa Família, anunciado pelo governo Lula a 17 dias das eleições presidenciais, fez o real se desvalorizar em relação ao dólar e a bolsa brasileira cair aos 185 mil pontos, com as preocupações com o impacto do aumento do benefício sobre as contas públicas.\nDa mesma forma, pesquisas eleitorais divulgadas nos últimos meses, que mostraram um avanço de Flávio Bolsonaro (PL) na disputa, também tiveram repercussão nos mercados.\nEm 10 de setembro, uma pesquisa que mostrou Flávio numericamente à frente de Lula (PT) em uma eventual disputa de segundo turno coincidiu com queda de 0,18% do dólar, a R$ 5,1026, e alta de 1,42% do Ibovespa, aos 188.268 pontos.\nComo o g1 mostrou, uma eventual vitória de Flávio é vista pelo mercado financeiro como mais favorável ao equilíbrio das contas públicas. Essa expectativa tende a reduzir as taxas de juros projetadas para os próximos anos e a aumentar o interesse por investimentos no Brasil, o que beneficia a bolsa e o real.\n“A volatilidade tende a crescer perto das eleições, mas os primeiros atos do eleito pesam mais que o discurso de campanha. Mas cada eleição precisa ser lida no seu próprio contexto”, diz Freitas, do ASA.\nEssa maior volatilidade, no entanto, não se limita aos períodos eleitorais. O noticiário político também pode mexer com os mercados, especialmente quando envolve medidas capazes de afetar a inflação, os juros e a atividade econômica.\n“Há períodos em que, mesmo diante de escândalos políticos, outros fatores pesam mais, como o fluxo de capital estrangeiro para o país”, afirma Alvaro Maia, banker da StoneX. O analista lembra que o Mensalão, em 2006, teve forte repercussão política, mas influência limitada sobre os mercados.\n“Isso porque havia mais dinheiro circulando nos mercados internacionais, os bancos no exterior estavam mais dispostos a emprestar recursos, as commodities estavam em alta e as ações brasileiras eram negociadas a preços relativamente baixos em relação aos resultados das empresas. Então, a política acabou ficando um pouco em segundo plano”, explica Maia.\nAbaixo, o g1 mostra o histórico das cotações do dólar e do Ibovespa desde 1994, com destaque para alguns períodos de maior oscilação. Em seguida, confira dicas para investir em momentos de maior volatilidade.\nHistórico do dólar e do Ibovespa de 1994 a 2026.\nArte/g1\nComo investir em momentos de volatilidade?\nNa hora de investir, uma das recomendações é recorrer à renda fixa para atravessar períodos de maior volatilidade com mais segurança.\n“Em um momento em que temos juros em dois dígitos, a renda fixa está especialmente atrativa. São várias opções, com destaque para os títulos públicos prefixados ou para os fundos de renda fixa”, comenta Maia.\nPara quem planeja investir na bolsa de valores, a recomendação é evitar montar uma carteira de ações com base em pesquisas eleitorais ou em apostas sobre o resultado das urnas.\n“O melhor é manter a estratégia de longo prazo e fazer ajustes na carteira sem agir por impulso. Grande parte do resultado vem da forma como os investimentos são distribuídos”, diz Freitas.\n“Diversificar, inclusive no exterior, ajuda a reduzir riscos, enquanto uma reserva de fácil acesso evita que o investidor precise vender ativos em momentos de queda. O tempo é o maior aliado”, completa.\nOutro cuidado é adequar a carteira ao perfil de cada investidor e à sua tolerância ao risco. Quem tem um perfil mais conservador, por exemplo, tende a concentrar uma parcela maior dos recursos em investimentos menos sujeitos a oscilações. Já quem aceita correr mais riscos pode ter uma fatia maior em ativos como ações.",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
+        "G1 - Mundo",
+        "Poder360"
       ],
-      "score": 78,
-      "publishedRaw": "Wed, 07 Oct 2026 20:10:40 +0000"
+      "score": 77,
+      "publishedRaw": "Thu, 08 Oct 2026 08:00:00 -0000"
     },
     {
       "id": "492482df4bc2",
@@ -741,11 +710,67 @@
         "eleições"
       ],
       "crossOutlets": [
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 07 Oct 2026 21:08:53 -0000"
+    },
+    {
+      "id": "be4c02c49528",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleitores de Trump não estão animados para votar nas eleições de meio de mandato, aponta Reuters/Ipsos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/08/eleitores-de-trump-nao-estao-animados-para-votar-nas-eleicoes-de-meio-de-mandato-aponta-reuters-ipsos.ghtml",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, discursa na Assembleia Geral da ONU, em 22 de setembro de 2026\nMike Segar/Reuters\nOs eleitores que apoiaram a ex-vice-presidente democrata Kamala Harris em 2024 estão mais entusiasmados em votar no mês de novembro do que aqueles que apoiaram o presidente Donald Trump, segundo uma pesquisa Reuters/Ipsos. \n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nO resultado  pode ser um sinal de alerta para os republicanos às vésperas das eleições de meio de mandato. As midterms acontecem nos Estados Unidos a cada quatro anos, na metade do mandato presidencial. Nelas, os americanos renovam a Câmara dos Representantes e cerca de um terço do Senado, definindo o controle do Congresso.\nCerca de 48% dos eleitores que votaram em Kamala Harris em 2024 disseram estar “muito entusiasmados” com a votação nas eleições de meio de mandato de 3 de novembro, quando o controle de ambas as câmaras do Congresso estará em jogo. Em comparação, apenas 30% dos eleitores de Trump afirmaram o mesmo na pesquisa.\nA pesquisa, realizada ao longo de seis dias e concluída na segunda-feira, também revelou que os homens estavam mais entusiasmados com o voto e mais propensos a votar do que as mulheres, e que os eleitores do sexo masculino mostravam sinais de uma guinada em direção aos democratas. Isso poderia indicar uma erosão no apoio aos republicanos entre um grupo que foi um pilar da vitória de Trump em 2024.\nTrump faz publicação sobre eleições no Brasil\nOs resultados reforçam as evidências de uma diferença de entusiasmo a favor dos democratas e sugerem possíveis rachaduras na coalizão que impulsionou Trump em 2024, quando ele venceu no voto popular. Essa coalizão foi alimentada pelo forte apoio dos homens e pelos ganhos entre os eleitores hispânicos e outros grupos demográficos que se deslocaram para a direita na eleição de 2024.\nLEIA TAMBÉM: \nEm carta, deputados dos EUA acusam governo Trump de tentar influenciar a eleição no Brasil\nTrump volta a defender sua própria candidatura ao Nobel da Paz: 'Impedi a destruição total do mundo'\nA pesquisa também se soma a uma série de sinais encorajadores para os democratas, que são favoritos para conquistar o controle da Câmara dos Deputados e permanecem competitivos na disputa pelo Senado, à medida que os índices de aprovação de Trump caíram em meio às preocupações dos eleitores com o custo de vida e a guerra com o Irã.\nO estrategista republicano Charlie Gerow disse que os resultados da pesquisa aumentam a importância dos esforços de mobilização eleitoral de seu partido, embora ele espere que a diferença de entusiasmo diminua à medida que as preocupações com o que ele descreveu como democratas de extrema-esquerda ganhando poder motivem os eleitores republicanos.\n“É preciso estimular o entusiasmo entre os republicanos, pois a participação eleitoral é o que vai determinar o resultado dessas eleições de meio de mandato”, disse Gerow.\nA pesquisa, realizada em todo o país e que entrevistou 4.506 adultos online, mostrou que apenas 32% dos norte-americanos aprovavam a Presidência de Trump, mantendo-se no nível mais baixo já registrado, marcado pela primeira vez em uma pesquisa da Reuters/Ipsos realizada em setembro. A pesquisa tem uma margem de erro de 2 pontos percentuais.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 08 Oct 2026 14:21:15 -0000"
+    },
+    {
+      "id": "05e7b95024ff",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE tem 3 a 0 para anular votos de Garotinho no RJ e abre caminho para vitória de Ruas em 1º turno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-inicia-julgamento-para-definir-se-havera-segundo-turno-na-disputa-pelo-governo-do-rj.shtml",
+      "summary": "O TSE (Tribunal Superior Eleitoral) soma nesta quinta-feira (8) 3 votos a 0 pela anulação definitiva dos votos dados ao ex-governador Anthony Garotinho (Republicanos) na disputa pelo Governo do Rio de Janeiro.\nLeia mais (10/08/2026 - 10h35)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "G1 - Política"
       ],
       "score": 77,
-      "publishedRaw": "Wed, 07 Oct 2026 21:08:53 -0000"
+      "publishedRaw": "08 Oct 2026 10:35:00 -0300"
+    },
+    {
+      "id": "2fd3eeae6660",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nunes Marques amplia grupo que fiscaliza propaganda eleitoral no TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/nunes-marques-amplia-grupo-que-fiscaliza-propaganda-eleitoral-no-tse-nprp/",
+      "summary": "",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 08 Oct 2026 14:04:05 +0000"
     },
     {
       "id": "84dc7e267ddb",
@@ -758,10 +783,8 @@
       "tags": [
         "STF"
       ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
+      "crossOutlets": [],
+      "score": 71,
       "publishedRaw": "Wed, 07 Oct 2026 21:45:47 -0000"
     },
     {
@@ -780,40 +803,6 @@
       "publishedRaw": "Thu, 08 Oct 2026 02:08:33 +0000"
     },
     {
-      "id": "b8f7483743d4",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Especialista: Inação de Netanyahu no 7 de outubro será cobrada nas urnas",
-      "link": "https://www.cnnbrasil.com.br/internacional/especialista-inacao-de-netanyahu-no-7-de-outubro-sera-cobrada-nas-urnas/",
-      "summary": "Ao WW, Danny Zahreddine analisa que omissão do primeiro-ministro israelense diante de alertas prévios ao ataque do Hamas deve dominar debate eleitoral",
-      "tags": [
-        "urnas"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 69,
-      "publishedRaw": "Thu, 08 Oct 2026 05:36:27 +0000"
-    },
-    {
-      "id": "713bcc6f0e8d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Congresso amplia presença feminina, mas vê avanço antifeminista",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/congresso-amplia-presenca-feminina-mas-ve-avanco-antifeminista.shtml",
-      "summary": "Esta é a edição da newsletter Todas. Quer recebê-la toda semana no seu email? Inscreva-se abaixo:\nLeia mais (10/08/2026 - 04h00)",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 68,
-      "publishedRaw": "08 Oct 2026 04:00:00 -0300"
-    },
-    {
       "id": "9ebd56df4c29",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -827,36 +816,6 @@
       "crossOutlets": [],
       "score": 66,
       "publishedRaw": "Wed, 07 Oct 2026 21:30:14 +0000"
-    },
-    {
-      "id": "eaf9d6453145",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE deve julgar nesta quinta desistência de recurso de Garotinho e definir eleição para o governo do RJ",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/tse-deve-julgar-nesta-quinta-desistencia-de-recurso-de-garotinho-e-definir-eleicao-para-o-governo-do-rj.ghtml",
-      "summary": "Garotinho votou em colégio na Zona Sul do Rio\nGuilherme Vizane/ TV Globo\nO Tribunal Superior Eleitoral (TSE) deve julgar nesta quinta-feira (8) o pedido de Anthony Garotinho (Republicanos) para desistir de um recurso contra a decisão do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), que rejeitou seu registro de candidatura.\nCaso a maioria do TSE entenda que não cabe a desistência do recurso, os ministros devem analisar decisão do TRE-RJ, que em setembro considerou Garotinho inelegível por ainda estar sob os efeitos da condenação por improbidade administrativa, dano ao erário e enriquecimento ilícito de terceiros (veja abaixo).\nA decisão da Corte deve impactar a realização ou não de um segundo turno entre o presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), Douglas Ruas (PL) e o ex-prefeito do Rio, Eduardo Paes (PSD).  \nNo domingo (4), Ruas teve 4.271.199 votos e apareceu com 49,27% dos votos válidos. Paes, segundo colocado, recebeu 3.706.984 votos, com 42,76%. Garotinho teve 274.411 votos, equivalentes a 3,17%.\nSem os votos de Garotinho na base de cálculo, o percentual dos candidatos subiria. Ruas passaria a ter 51% dos votos válidos, o que faria dele o governador eleito em primeiro turno. \nGarotinho inelegível\nEm setembro, o TRE considerou Garotinho inelegível por ainda estar sob os efeitos da condenação por improbidade administrativa, dano ao erário e enriquecimento ilícito de terceiros.\nO caso chegou ao TSE. Primeiro, a Corte liberou Garotinho para fazer campanha e permitiu o acesso a recursos públicos para a campanha. Depois, decisões individuais tomaram rumos distintos. \nO relator do caso, Floriano de Azevedo Marques, determinou que os votos de Garotinho deveriam ser anulados. Com isso, não seriam considerados válidos. \nGarotinho desiste de recurso no TSE, e Ruas pode ser declarado eleito em 1º turno\nO presidente do TSE, Nunes Marques, fixou que os votos dele deveriam ser considerados no cálculo dos percentuais obtidos pelos candidatos ao governo do Rio até que o plenário da Corte decidisse sobre a manutenção da rejeição do registro de candidatura atestada pelo TRE-RJ. \nDepois do resultado nas urnas e diante da indicação de um segundo turno, a defesa de Garotinho acionou o TSE pedindo a desistência do recurso. A medida ajudaria Ruas e provocou críticas, especialmente na campanha de Paes. \nO TSE tem o entendimento de que a desistência de um recurso é inadmissível quando o ato puder alterar o resultado das eleições - e a vontade coletiva e popular.  \nNos bastidores, ministros apontam que o caso pode provocar debates no plenário da Corte. \n\nA coligação de Eduardo Paes pediu que o TSE deixasse Garotinho fora da disputa, reconhecendo os mais de 274 mil votos no cálculo para o quórum, o que manteria o segundo turno.\nO Ministério Público Eleitoral (MPE), no entanto, entende que o caso de Garotinho é uma exceção e que, como ele está inelegível, seria possível acolher a desistência.\nO caso será julgado pelos ministros Nunes Marques, André Mendonça, Dias Toffoli, Ricardo Vilas Boas Cueva, Sebastião Reis Júnior, Floriano de Azevedo Marques e Estela Aranha.\nO processo é o quinto processo da pauta de julgamentos. \nDeltan Dallagnol \nEstá pautado para a mesma sessão um recurso do senador eleito pelo Paraná Deltan Dallagnol (Novo-PR). \nDallagnol teve o registro de candidatura aceito no Tribunal Regional Eleitoral do Paraná (TRE-PR) por 4 a 3. \nO deputado federal Deltan Dallagnol (Podemos-PR) em entrevista coletiva à imprensa, na Câmara dos Deputados, em Brasília, nesta quarta-feira (17).\nReprodução\nAdversários do ex-procurador da Lava Jato apresentaram recurso ao TSE pedindo o indeferimento do registro de candidatura. \nO ministro Floriano de Azevedo Marques havia derrubado a decisão do TRE-PR. O ministro também havia declarado nulos os votos atribuídos à chapa. \nNo domingo (4), o presidente TSE suspendeu a decisão de Floriano, determinou a validação dos votos recebidos por Dallagnol nas eleições e mandou o caso ao plenário. \nDallagnol foi o segundo mais votado, com mais de 2,9 milhões de votos (25,1% dos votos válidos). Com isso, foi eleito para assumir a segunda vaga do estado no Senado. \nO Ministério Público Eleitoral (MPE) já se manifestou pela aprovação do registro de candidatura. \n\nA discussão sobre a elegibilidade de Dallagnol começou nas eleições de 2022. Em 2023, o TSE cassou o registro da candidatura dele, o que levou à perda do mandato de deputado federal. \nNa época, o tribunal entendeu que Dallagnol cometeu fraude à Lei da Ficha Limpa ao deixar o Ministério Público Federal (MPF) enquanto respondia a procedimentos internos que poderiam levar à sua demissão.",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Thu, 08 Oct 2026 03:00:00 -0000"
-    },
-    {
-      "id": "4d98be5a248d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Advogado convidou Vorcaro para casa da família de senador Otto Alencar em Trancoso: ‘Vai de bermuda’",
-      "link": "https://www.estadao.com.br/politica/advogado-convidou-vorcaro-para-casa-da-familia-de-senador-otto-alencar-em-trancoso-vai-de-bermuda/",
-      "summary": "",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Wed, 07 Oct 2026 21:45:05 +0000"
     },
     {
       "id": "e5e8951a3d76",
