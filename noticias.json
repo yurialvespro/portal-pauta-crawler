@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:57:14.500164+00:00",
+  "generated_at": "2026-10-10T17:46:16.908918+00:00",
   "items": [
     {
       "id": "59e07ebb4e0d",
@@ -21,7 +21,8 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 96,
       "publishedRaw": "Fri, 09 Oct 2026 13:33:27 GMT"
@@ -41,11 +42,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 09 Oct 2026 22:13:57 -0000"
     },
     {
@@ -63,21 +65,22 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 09 Oct 2026 21:53:30 -0000"
     },
     {
-      "id": "b71f81c4194b",
-      "source": "G1 - Política",
+      "id": "fe76adf6c37a",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Datafolha no DF, 2º turno: Flávio Bolsonaro, 49%; Lula, 43%",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml",
-      "summary": "Flávio Bolsonaro e Lula\nREUTERS/Diego Herculano e REUTERS/Adriano Machado\nPesquisa Datafolha divulgada nesta sexta-feira (9) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleições de outubro.\nEsta é a primeira rodada da pesquisa desde que o segundo turno entre Flávio Bolsonaro (PL) e Lula foi confirmado, no último domingo (4).\nO segundo turno será em 25 de outubro. Na data, eleitores do DF também decidem a eleição para governador, entre Celina Leão (PP) e Leandro Grass.\n📱Baixe o app do g1 para ver notícias do DF em tempo real e de graça\nVeja abaixo os números da pesquisa estimulada, em que o Datafolha mostra aos eleitores entrevistados os nomes dos candidatos:\nFlávio Bolsonaro (PL): 49%\nLula (PT): 43%\nEm branco/nulo/nenhum: 6%\nNão sabe: 2%\nDatafolha, 9 de outubro: intenção de voto para presidente no 2º turno no DF\nArte/g1\nA pesquisa foi contratada pela Globo e pelo jornal \"Folha de S.Paulo\". O Datafolha ouviu 910 pessoas entre os dias 6 e 8 de outubro. A margem de erro é de três pontos percentuais, para mais ou para menos. O nível de confiança é de 95%. O número de registro da pesquisa é BR-09856/2026.\nAvaliação e aprovação do governo\nA pesquisa divulgada nesta quinta (8) também mediu a avaliação e a aprovação do governo Lula.\nSegundo a pesquisa Datafolha, 32% dos eleitores consideram a gestão Lula \"ótima ou boa\" e 46% consideram \"ruim ou péssima\".\nVeja abaixo os números:\nAvaliação da gestão Lula\nÓtima ou boa: 32% (eram 27% no levantamento anterior, em 2 de outubro);\nRegular: 22% (eram 21%);\nRuim ou péssima: 46% (eram 51%);\nNão sabe: 1% (era 1%).\nDatafolha, 9 de outubro: avaliação do presidente Lula (PT) no DF\nArte/g1\nTrabalho de Lula como presidente\nO Datafolha também perguntou aos eleitores qual a avaliação sobre o trabalho de Lula como presidente. Veja os resultados:\nDesaprova: 52% (eram 57%);\nAprova: 45% (eram 38%);\nNão sabe: 4% (eram 4%).\nDatafolha, 9 de outubro: aprovação do governo Lula (PT) no DF\nArte/g1\nLeia mais notícias sobre a região no g1 DF.",
+      "title": "Campanha de Lula acusa dona do Instagram e Facebook de interferir em favor de Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-dona-do-instagram-e-facebook-de-interferir-em-favor-de-flavio-bolsonaro.shtml",
+      "summary": "A campanha de reeleição do presidente Lula (PT) acusou neste sábado (10) a Meta, empresa de tecnologia americana dona do Facebook e do Instagram, de interferir na disputa eleitoral em favor do adversário do petista, o senador Flávio Bolsonaro (PL-RJ). O grupo de Lula afirma ter decidido acionar o TSE (Tribunal Superior Eleitoral) e a ANPD (Agência Nacional de Proteção de Dados).\nLeia mais (10/10/2026 - 13h40)",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro",
@@ -85,12 +88,59 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "10 Oct 2026 13:40:00 -0300"
+    },
+    {
+      "id": "4819c96ce229",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro x Lula: quando saem as próximas pesquisas de segundo turno para presidente",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-x-lula-os-resultados-ate-aqui-e-quando-saem-as-proximas-pesquisas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Sat, 10 Oct 2026 14:51:56 +0000"
+    },
+    {
+      "id": "2b8ddccedb3e",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Conheça as propostas de Lula e Flávio Bolsonaro para a Cultura",
+      "link": "https://www.bbc.com/portuguese/articles/c3zxjrxjr0gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Os dois candidatos falam em reduzir a concentração regional dos recursos culturais e em aperfeiçoar mecanismos de incentivo. Mas partem de visões diferentes sobre o papel do Estado no setor.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
-      "publishedRaw": "Fri, 09 Oct 2026 21:23:01 -0000"
+      "score": 94,
+      "publishedRaw": "Sat, 10 Oct 2026 13:08:51 GMT"
     },
     {
       "id": "2e39346bcf19",
@@ -106,35 +156,37 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 93,
+      "score": 94,
       "publishedRaw": "Fri, 09 Oct 2026 11:25:54 GMT"
     },
     {
-      "id": "0f06886bc2b5",
+      "id": "d4a3031caed0",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Quais são as propostas de Flávio Bolsonaro e de Lula sobre a escala 6x1",
-      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lula defende no plano de governo o fim da escala 6x1 e redução para 40 horas semanais sem corte de salário; Flávio Bolsonaro apoia proposta que cria pagamento por hora e jornada flexível no Senado.",
+      "title": "Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno",
+      "link": "https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss",
+      "summary": "Em 2022, Jair Bolsonaro elevou seus votos em quase 14% entre os dois turnos, enquanto Lula cresceu só pouco mais de 5%: é o movimento que a campanha do petista almeja fazer agora.",
       "tags": [
         "Bolsonaro",
-        "Flávio Bolsonaro",
+        "Jair Bolsonaro",
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 93,
-      "publishedRaw": "Thu, 08 Oct 2026 10:07:50 GMT"
+      "publishedRaw": "Sat, 10 Oct 2026 10:35:44 GMT"
     },
     {
       "id": "15d02afdb6ce",
@@ -151,63 +203,62 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "Folha de São Paulo"
       ],
       "score": 92,
       "publishedRaw": "Fri, 09 Oct 2026 23:48:38 -0000"
     },
     {
-      "id": "d4a3031caed0",
-      "source": "BBC Brasil",
+      "id": "96f3a594cc9e",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno",
-      "link": "https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss",
-      "summary": "Em 2022, Jair Bolsonaro elevou seus votos em quase 14% entre os dois turnos, enquanto Lula cresceu só pouco mais de 5%: é o movimento que a campanha do petista almeja fazer agora.",
+      "category": "Política",
+      "title": "Campanha de Lula acusa Meta de tentar interferir nas eleições e diz que acionará TSE e ANPD",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/campanha-de-lula-acusa-meta-de-tentar-interferir-nas-eleicoes-e-diz-que-acionara-tse-e-anpd.ghtml",
+      "summary": "A campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) divulgou uma nota neste sábado (10) na qual acusa a Meta, empresa que controla o Instagram e o Facebook, de tentar interferir no processo eleitoral brasileiro em benefício da candidatura de Flávio Bolsonaro (PL). \nLula e Flávio disputam a eleição presidencial no Brasil, cujo segundo turno está marcado para 25 de outubro. \nNa nota divulgada neste sábado, a campanha de Lula anunciou que irá acionar o Tribunal Superior Eleitoral (TSE) e apresentar uma denúncia contra a Meta à Agência Nacional de Proteção de Dados (ANPD).\nNo comunicado, a campanha do petista cita uma série de episódios que, para a equipe do candidato, demonstra um padrão de prejuízo à visibilidade da campanha governista.\n\"A sucessão de problemas técnicos não explicados pela empresa levanta forte suspeita de que a ação da Meta se configure como uma tentativa de interferência no processo eleitoral brasileiro, em beneficio à candidatura de Flávio Bolsonaro. A completa ausência de transparência nos sistemas da empresa faz com que essas explicações sejam escassas e opacas\", diz o documento.\n🎤A TV Globo procurou a Meta e aguarda uma manifestação sobre as acusações feitas pela campanha de Lula.\nRetirada de conta e falha no impulsionamento\nLula grava vídeo sobre a escala 6x1\nReprodução/Instagram\nEntre esses episódios, segundo a campanha, está a retirada do ar da conta de anúncios do presidente Lula. A equipe do candidato também cita um relatório da Secretaria Nacional de Comunicação do PT, que aponta que a página do senador Flávio Bolsonaro nas redes registrou mais engajamento que a de Lula, mesmo tendo menos seguidores.\nAfirma ainda que publicações da conta oficial de Lula sofreram interrupções no registro de visualizações e alcance nesta semana. E alega que, entre a tarde do dia 9 e a manhã do dia 10 de outubro, o perfil do presidente foi impedido de impulsionar conteúdos no Instagram. \nA nota aponta que essas restrições digitais afetam a divulgação de bandeiras da campanha, como:\no fim das apostas online, as bets; \no debate sobre a escala 6x1;\ne a defesa de programas sociais, como o Pé-de-Meia.\nO presidente brasileiro Luiz Inácio Lula da Silva, candidato do Partido dos Trabalhadores (PT) à reeleição, participa da cerimônia de encerramento de uma reunião conjunta das bancadas do PT no Congresso, antes do segundo turno das eleições, em Brasília, Brasil, em 7 de outubro de 2026\nREUTERS/Adriano Machado",
       "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro",
+        "eleições",
+        "TSE",
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política"
+        "Poder360"
       ],
-      "score": 92,
-      "publishedRaw": "Sat, 10 Oct 2026 10:35:44 GMT"
+      "score": 91,
+      "publishedRaw": "Sat, 10 Oct 2026 16:10:19 -0000"
     },
     {
-      "id": "936d731c9b3a",
-      "source": "BBC Brasil",
+      "id": "6ba915631836",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
-      "link": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lula e Flávio Bolsonaro disputam eleição para presidente no segundo turno e apresentam propostas diferentes para o Bolsa Família.",
+      "category": "Política",
+      "title": "VÍDEO: Flávio diz que Jair Bolsonaro colocará a faixa presidencial nele no dia da posse e promete reduzir maioridade penal",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml",
+      "summary": "Flávio diz que Jair Bolsonaro colocará a faixa presidencial nele no dia da posse e promete reduzir maioridade penal\nO candidato à Presidência da República Flávio Bolsonaro (PL) prometeu que seu pai, Jair Bolsonaro, vai colocar a faixa presidencial nele no dia 6 de janeiro de 2027, caso seja eleito.\nFlávio Bolsonaro e Douglas Ruas em São Gonçalo\nReprodução/TV Globo\n\"Vocês verão, no dia 6 de janeiro de 2027, na data da posse, Flavio Nantes Bolsonaro fazendo uma oração e entregando o Brasil nas mãos de Deus, e vocês verão Jair Messias Bolsonaro colocando a faixa de presidência em mim\", disse Flavio Bolsonaro, em cima de um trio elétrico durante uma carreata em São Gonçalo, na Região Metropolitana do Rio\nEm 2025, Jair Bolsonaro foi condenado a 27 anos e 3 meses de prisão pela Primeira Turma do Supremo Tribunal Federal (STF) no julgamento da trama golpista. \nBolsonaro é condenado a 27 anos e 3 meses de prisão em regime fechado\nEm setembro, a defesa de Jair Bolsonaro pediu uma revisão criminal das acusações contra o ex-presidente. A expectativa é que o Ministro Kassio Nunes Marques, do STF, libere para depois do segundo turno o julgamento do caso. \nAntes disso, Nunes Marques ainda deve pedir que a Procuradoria-Geral da República (PGR) se manifeste sobre os novos argumentos da segunda revisão criminal apresentados pela defesa no fim de setembro.\nFlávio promete reduzir maioridade penal e critica Lula\nNo mesmo evento em São Gonçalo, Flávio ainda prometeu reduzir a maioridade penal para 16 anos e penas mais duras para quem roubar celulares. \n\"Menor de idade que comete crime de gente grande vai pagar como gente grande. Ladrão de celular vai ficar 8 anos preso e vai ter que trabalhar para pagar sua estadia\", disse o candidato do PL à presidência. \nFlávio ainda criticou o atual presidente Lula (PT), candidato à reeleição, durante o evento. \n\"É o fim da era Lula, essa era que só deixa recordes negativas, é recorde de mulheres assassinadas, é recorde de brasileiro endividado, é recorde de imposto, é recorde de empresas fechadas, é recorde de industrias quebras\", afirmou.\nAto com Flávio Bolsonaro e Douglas Ruas em São Gonçalo, na Região Metropolitana do Rio\nReprodução/TV Globo",
       "tags": [
         "Bolsonaro",
-        "família",
-        "Flávio Bolsonaro",
-        "Lula"
+        "Jair Bolsonaro"
       ],
       "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
-      "score": 92,
-      "publishedRaw": "Thu, 08 Oct 2026 08:52:25 GMT"
+      "score": 91,
+      "publishedRaw": "Sat, 10 Oct 2026 15:23:33 -0000"
     },
     {
       "id": "2592029d51c4",
-      "source": "G1 - Mundo",
+      "source": "G1 - Política",
       "tipo": "mainstream",
-      "category": "Internacional",
+      "category": "Política",
       "title": "A única capital da União Europeia onde Flávio Bolsonaro venceu o 1º turno",
       "link": "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml",
       "summary": "A única capital onde Flávio venceu na UE\nSó há uma capital da União Europeia onde os brasileiros deram vitória a Flávio Bolsonaro (PL). Em todas as outras, Lula (PT) venceu. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA exceção veio da Grécia. Foi justamente em Atenas, berço da democracia, que Flávio superou Lula no primeiro turno. Ele recebeu 46,6% dos votos válidos, e Lula ficou com quase 40%.\nMas o mais curioso é o seguinte: essa não foi uma vitória isolada. Em 2022, Jair Bolsonaro já havia ganhado o primeiro e o segundo turno por lá. Ou seja: há pelo menos duas eleições presidenciais, os brasileiros de Atenas votam diferente de boa parte da Europa. \nMas por quê?\n\"Todas as pesquisas que eu tenho feito sobre brasileiros no exterior evidenciam que o local onde eles residem importa de diferentes maneiras\", diz Teresa Schneider, pesquisadora da PUC-RS.\nA Grécia ainda sente os efeitos da crise econômica dos últimos anos. E tem um cenário político mais aberto a forças de centro-direita do que muitos outros países europeus. \n\"A Grécia tem um contexto político muito marcado pela crise econômica recente que o país passou. Forças políticas que se opõem a processos de integração regional podem ter mais força perante esse eleitorado\", afirma Schneider.\nVista de edifícios perto da antiga Acrópole em Atenas, Grécia.\nLouisa Gouliamaki / Reuters\nMas não é só isso. Tem o tamanho da comunidade brasileira na Grécia, que é relativamente pequena. São cerca de 4 mil brasileiros e pouco mais de 1.200 aptos a votar em Atenas. Por isso, o país tem menor presença de partidos e movimentos brasileiros do que locais como França, Portugal ou Alemanha. \nE especialistas apontam outro fator importante para o voto conservador: a presença de igrejas evangélicas brasileiras na Grécia. Uma presença relativamente alta considerando o tamanho da comunidade brasileira por lá.\n\"A gente tem a Igreja Universal do Reino de Deus, a Assembleia de Deus, a Congregação Cristã no Brasil, todas essas igrejas. Para o imigrante, a igreja tem um papel de sociabilidade muito importante. É ali onde se discute não apenas questões de valores morais, mas também questões políticas. Então, valores morais mais conservadores podem ter motivado esse eleitor a ir até a urna e destoar um pouco do que acontece no restante das capitais europeias\", diz a pesquisadora.\nPor isso tudo, especialistas avaliam que o caso de Atenas é único. Uma combinação de fatores políticos e sociais faz da capital grega uma rara exceção no mapa eleitoral dos brasileiros na União Europeia. \nAgora no g1",
@@ -217,21 +268,21 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "Folha de São Paulo"
       ],
       "score": 91,
       "publishedRaw": "Sat, 10 Oct 2026 09:00:00 -0000"
     },
     {
-      "id": "b9d9011b9375",
-      "source": "Folha de São Paulo",
+      "id": "3e8937ca38a2",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro promete novo alívio em dívidas de estados após pedido de governador eleito de MG",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-promete-novo-alivio-em-dividas-de-estados-apos-pedido-de-governador-eleito-de-mg.shtml",
-      "summary": "O senador e candidato à Presidência Flávio Bolsonaro (PL) prometeu, se eleito no segundo turno, um novo alívio nas dívidas dos estados após um pedido do governador eleito de Minas Gerais, o atual senador Cleitinho Azevedo (Republicanos).\nLeia mais (10/10/2026 - 04h00)",
+      "title": "Doria organiza encontro de Flávio Bolsonaro com mais de 300 empresários",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/doria-organiza-encontro-de-flavio-bolsonaro-com-mais-de-300-empresarios/",
+      "summary": "Ex-governador rompeu com a família Bolsonaro em meio à pandemia; almoço do LIDE está marcado para seis dias antes do segundo turno",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
@@ -239,11 +290,32 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Mundo",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 91,
-      "publishedRaw": "10 Oct 2026 04:00:00 -0300"
+      "publishedRaw": "Sat, 10 Oct 2026 16:29:48 +0000"
+    },
+    {
+      "id": "c199b401095b",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro faz apelo por novos votos e reafirma  vontade de receber faixa presidencial do pai",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-pede-mais-votos-em-motociata-no-rio-nao-vamos-baixar-a-guarda/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Sat, 10 Oct 2026 16:38:19 +0000"
     },
     {
       "id": "f43afe8df0f5",
@@ -259,34 +331,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 91,
       "publishedRaw": "Sat, 10 Oct 2026 00:01:46 +0000"
-    },
-    {
-      "id": "57534cd245f3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Renan Santos critica declaração de apoio de Augusto Cury a Flávio Bolsonaro: ‘Comédia’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/renan-santos-critica-declaracao-de-apoio-de-augusto-cury-a-flavio-bolsonaro-comedia-nprp/",
-      "summary": "Renan acusa o partido de Cury de está tentando negociar posições em um eventual governo; em outro vídeo, critica imposições para também declarar apoio",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Renan Santos"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 91,
-      "publishedRaw": "Fri, 09 Oct 2026 21:13:08 +0000"
     },
     {
       "id": "5500e5b12e60",
@@ -301,133 +351,13 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 91,
       "publishedRaw": "Sat, 10 Oct 2026 00:53:59 GMT"
-    },
-    {
-      "id": "c0a0e7fd30b6",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin deve receber relatórios da PF com menções a ministros do STF no caso Master",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/10/fachin-deve-receber-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml",
-      "summary": "Ministro Edson Fachin do STF\nRosinei Coutinho/STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, deve receber na próxima terça-feira (13) relatórios da Polícia Federal (PF) com menções a integrantes da Corte no caso Master. \nO material foi requisitado por Fachin ao diretor-geral da PF, Andrei Rodrigues, ao confirmar uma reunião, que foi pedida pelo delegado. Em um ofício, Fachin afirmou que nenhum fato nem ninguém deve ficar fora da apuração.\nDos 10 ministros do Supremo, há citações, em graus diferentes, de pelo menos seis ministros ou parentes — além de referências a ministros do Superior Tribunal de Justiça (STJ) e do Tribunal Superior do Trabalho (TST). \nAgora no g1\nA movimentação da PF tem potencial para aprofundar a crise instalada no Supremo desde setembro, pressionando Fachin a adotar providências em relação aos colegas. \nAté agora, o foco estava nos ministros Alexandre de Moraes e André Mendonça, que diante das costuras internas expuseram publicamente a divisão da Corte. \nA PF avalia que o encontro pode resolver eventuais divergências provocadas pelo caso Master com o Supremo e pavimentar a retomada das investigações. Nas últimas semanas, a PF trabalhou na individualização das citações. \nA ala do ministro Alexandre de Moraes defende que não haja avanços antes do fim das eleições. A avaliação desses ministros é que, com um cenário mais completo sobre o que de fato a PF entende ter reunido contra cada integrante da Corte, cabe ao Presidente do Supremo dar o mesmo tratamento a todos os citados. \nSessão plenária do STF\nRosinei Coutinho/STF\nNos bastidores, aliados de Moraes e do ministro André Mendonça afirmam reservadamente que o melhor caminho seria a Presidência enviar os elementos reunidos pela Polícia Federal para análise da Procuradoria-Geral da República, sem vincular a medida ao procurador-geral, Paulo Gonet, que também foi citado no caso e teve uma apuração rejeitada pelo Conselho Superior do Ministério Público.\nO encaminhamento dos casos para a PGR, além de dar respaldo ao Supremo para decidir diante de uma análise técnica, ainda daria tempo para novas investidas para uma composição interna — apontada ainda como de difícil solução. \nMinistros, no entanto, apontam que houve uma certa melhora no clima entre as duas alas após o primeiro turno, mas que Mendonça e Moraes ainda estão sem se falar, assim como Gilmar Mendes e Nunes Marques.\nCrise 'Master' no STF\nAs ligações de ministros do STF com o caso Master começaram em abril de 2025, quando a colunista Malu Gaspar, do jornal \"O Globo\", revelou a contratação do escritório da mulher do ministro Alexandre de Moraes pelo Banco Master para representação em algumas ações. \nEm dezembro, foi publicado que o contrato era de cerca de R$ 130 milhões e, neste ano, a PF apontou que o ministro foi interlocutor ao menos de 52 mensagens de Vorcaro, inclusive no dia em que foi preso. \nDepois, surgiram negócios que envolviam o ministro Dias Tóffoli com fundos do Banco Master na sociedade de um resort da família do ministro no Paraná, o que levou o ministro a deixar a relatoria do caso Master e a se declarar suspeito para analisar questões da investigação na Segunda Turma do Supremo. \nNo mês passado, surgiram mensagens que citavam envolvimento com Daniel Vorcaro, do ministro Nunes Marques, do filho dele, também envolvendo contratações, e do filho do ministro Luiz Fux, por susposto pedido de ajuda em um processo. \nEm relação ao ministro André Mendonça, foi divulgada uma foto com advogado de Vorcaro, um encontro com o banqueiro e um pedido de investigação de uma possível relação entre o Banco Master e o Instituto Iter — ligado ao ministro.  Também foi identificada a contratação de Chiquinho Feitosa, ex-cunhado do ministro Gilmar Mendes, por Vorcaro, além de uma reunião e tentativas de aproximação. \nTodos os ministros e familiares negam irregularidades ou envolvimentos com Daniel Vorcaro.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 10 Oct 2026 07:00:00 -0000"
-    },
-    {
-      "id": "55e86d984b86",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin aciona PF após STF identificar ameaças contra Flávio Dino nas redes sociais",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml",
-      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, acionou nesta sexta-feira (9) a Polícia Federal após relatos de ameaças ao ministro Flávio Dino.\n\"Foi encaminhada à Polícia Federal avaliação técnica de segurança relativa às ameaças identificadas contra o ministro, para conhecimento e adoção das medidas pertinentes, no âmbito de suas atribuições\".\n\"O STF permanece atento à segurança de seus ministros e em articulação com os órgãos competentes\".\nNesta sexta, o ministro Flávio Dino afirmou ter recebido trechos de um relatório da Segurança da Corte que, segundo ele, reúne milhares de mensagens com ameaças de assassinato e de outras agressões contra ele.\nAgora no g1\nEm uma publicação nas redes sociais, Dino afirmou que as ameaças não vão alterar sua atuação como ministro e disse que um juiz não pode deixar de tomar decisões por medo de sofrer perseguições pessoais.\n\"Mas fica uma reflexão essencial: se um juiz passar a ter medo de decidir um processo, à vista do suposto risco de sofrer perseguições pessoais, não existe mais Poder Judiciário. Nem Constituição\", afirmou.\nDino disse ainda que, em 37 anos como servidor público, nunca respondeu a processo criminal. Para o ministro, as ameaças são resultado da \"repetição de mentiras\".\n\"O ódio exposto nas mensagens deriva da repetição de mentiras, visando causar violência\", escreveu.\nO ministro também afirmou que quem discorda de uma decisão judicial deve contestá-la pelos mecanismos previstos no próprio Judiciário, recorrendo aos órgãos colegiados competentes.\n\"Se as pessoas não concordam com decisões judiciais, elas podem recorrer aos Colegiados competentes. Não precisa matar o juiz que tomou a decisão, nem fazer discursos raivosos incitando perseguições e agressões\", declarou.\nAo falar sobre sua própria atuação, Dino afirmou que não pretende mudar sua conduta em razão das ameaças.\n\"Em nada alterarei a minha atuação profissional, pois nunca minha perna ou minha mão tremeram, nem minha voz se alterou\", escreveu.\nA mensagem publicada por Dino traz uma foto com trechos das ameaças direcionadas não só a ele como a outros ministros da Corte.  \nMinistro Flávio Dino, ministro do STF\nRosinei Coutinho/STF",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 09 Oct 2026 23:19:21 -0000"
-    },
-    {
-      "id": "6860970e34ea",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "STF volta a discutir IPTU por área: levantamento do g1 mostra como capitais usam a metragem",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/09/iptu-por-area-levantamento-do-g1-mostra-como-capitais-usam-a-metragem.ghtml",
-      "summary": "Primeira parcela e cota única do IPTU  de São Luís vencem na próxima sexta-feira (10)\nDivulgação\nO Supremo Tribunal Federal (STF) retomou nesta semana a discussão sobre os limites do uso da área dos imóveis na cobrança do Imposto sobre a Propriedade Predial e Territorial Urbano (IPTU), em julgamento previsto para seguir até esta sexta-feira (9).\nA Corte analisa embargos de declaração apresentados por Chapecó (SC) contra uma decisão tomada em agosto (entenda abaixo), que considerou inconstitucional a aplicação de alíquota de IPTU definida com base na área do imóvel. O julgamento pode manter, modificar ou limitar os efeitos daquela decisão.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nAcontece que a discussão envolve uma das principais fontes de receita arrecadadas diretamente pelas prefeituras. \nSomente no ano passado, 5.393 municípios com dados disponíveis no Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi) declararam ter arrecadado, juntos, de R$ 81,8 bilhões com IPTU. Só as capitais responderam por R$ 38,5 bilhões desse valor.\nAgora no g1\n🔎 O valor inclui toda a receita do imposto e não permite identificar quanto foi arrecadado por regras ligadas à área dos imóveis.\nComo o entendimento da Corte pode ter impacto sobre outras formas de cobrança que também levam em conta a metragem dos imóveis, o g1 analisou as regras das 26 capitais e do Distrito Federal. VEJA AQUI.\nO objetivo foi verificar como outras cidades usam a área dos imóveis na cobrança do imposto e em que medida a decisão do STF pode afetar essas regras.\nA análise encontrou desde situações em que a área define diretamente a alíquota até casos em que a proporção entre o terreno e a construção pode mudar a classificação do imóvel ou separar uma parcela do lote para uma cobrança diferente. \nChapecó tenta reverter decisão\nEm agosto, o STF declarou inconstitucional a definição, por uma lei municipal posterior à Emenda Constitucional (EC) nº 29, de 2000, de uma alíquota de IPTU com base na área do imóvel.\nA Constituição permite que o imposto seja progressivo conforme o valor venal do imóvel — uma estimativa de seu valor para fins tributários. Para calcular esse valor, o município pode considerar características como a área do terreno e da construção, a localização, o uso do imóvel e outros fatores previstos na legislação da cidade.\nO texto constitucional também permite que o IPTU tenha alíquotas diferentes de acordo com a localização e o uso do imóvel. A área, porém, não aparece sozinha entre esses critérios.\n🤔 Ou seja, uma coisa é a metragem ser usada como um dos elementos para calcular o valor venal; outra é a própria área do imóvel ser usada como critério para definir a alíquota do imposto. Foi justamente essa segunda situação que levou o caso de Chapecó ao STF.\nA legislação municipal estabelecia alíquota de 1% para imóveis residenciais com área construída igual ou superior a 400 metros quadrados. Para as demais edificações, o percentual era de 0,5%. \nAgora, Chapecó tenta reverter esse resultado por meio de embargos de declaração.\n⚖️ ️ Esse tipo de recurso é usado para pedir que o tribunal esclareça ou corrija uma decisão. Neste caso, a prefeitura também pede ao STF que modifique o resultado.\nNos embargos, o município afirma que a área não funciona como critério isolado. A prefeitura argumenta que, antes da metragem, a lei considera o uso residencial do imóvel.\n➡️ Os 400 metros quadrados serviriam, segundo essa interpretação, para identificar uma subcategoria chamada “imóveis residenciais de grande porte”. Como imóveis comerciais e industriais com a mesma metragem permanecem sujeitos à alíquota de 0,5%, Chapecó argumenta que não seria a área, sozinha, que determinaria o percentual.\nPara João Henrique Gasparino, tributarista e diretor executivo da NimbusTax, porém, essa justificativa não aponta uma questão que tenha ficado sem resposta no julgamento, porque o STF já analisou a diferença entre área, uso e valor do imóvel. \nSegundo ele, os imóveis continuam pertencendo ao mesmo grupo de uso — o residencial — e o que efetivamente separa uma alíquota da outra é a metragem. \n“A ‘categoria’ é a faixa de área com outro nome”, afirma. \nO especialista faz a mesma avaliação sobre a tentativa de tratar a área como um indicador indireto do valor do imóvel. O acórdão, afirma, já teria diferenciado o uso da metragem como elemento para calcular o valor venal do uso da própria área para definir a alíquota.\nComo os embargos de declaração servem para corrigir omissão, contradição, obscuridade ou erro material, e não simplesmente para rediscutir o conteúdo da decisão, Gasparino considera que há pouco fundamento para alegar que esse ponto não foi analisado. \nAgora, se o STF não aceitar o argumento e mantiver a inconstitucionalidade, a prefeitura faz um pedido alternativo: que a decisão só passe a produzir efeitos quando o processo terminar definitivamente. \nChapecó estima em aproximadamente R$ 14 milhões o valor que teria de devolver aos contribuintes que pagaram o imposto pela alíquota de 1% nos anos de vigência da lei questionada. A prefeitura não detalha, nos embargos, a quais anos essa estimativa corresponde.  \nA estimativa, porém, foi contestada por um contribuinte que passou a fazer parte do processo. Em memorial apresentado na sexta-feira (2), sua defesa afirma que o município não demonstrou como chegou a esse montante. \n🔎 Para efeitos de comparação, esse valor corresponde a 22,2% dos R$ 63,1 milhões arrecadados por Chapecó com o tributo em 2025, segundo dados do Siconfi. \nSegundo o documento apresentado pelo contribuinte, 483 imóveis seriam atingidos pela decisão e cerca de 200 ações já propostas somariam aproximadamente R$ 1,5 milhão em devoluções de valores que ainda podem ser cobrados judicialmente. \nA defesa sustenta ainda que, mesmo se todos os contribuintes afetados pedissem ressarcimento, o total não passaria de R$ 2,5 milhões e que não foi demonstrado risco excepcional às contas públicas que justificasse a medida. \nComo a área do imóvel pode entrar no cálculo do IPTU\nArte/g1\nMunicípios tentam limitar os efeitos da decisão\nMas a discussão não ficou restrita a Chapecó: as possíveis consequências da tese também levaram outras cidades e entidades a se posicionarem em defesa de uma modulação dos efeitos — ou seja, de uma definição sobre quando a nova interpretação passa a valer.\nO receio é que a decisão tenha efeitos sobre municípios que adotam regras semelhantes, que poderiam enfrentar questionamentos de contribuintes e pedidos de restituição de valores pagos anteriormente.\nUm exemplo é Florianópolis, que apresentou uma manifestação em 25 de agosto, e pediu que eventual modulação preservasse cobranças e pagamentos feitos antes da data de corte, além de dar prazo para as cidades adaptarem suas legislações\nEm nota técnica apresentada ao Supremo, a prefeitura estimou em R$ 84,7 milhões o impacto sobre o IPTU predial de 2026 caso fosse aplicada a menor alíquota de cada categoria em substituição às faixas determinadas pela área. \nSe a mesma lógica alcançasse também a cobrança territorial, a estimativa chegaria a R$ 220,9 milhões.\n🔎 Os R$ 84,7 milhões equivalem a 15,9% dos cerca de R$ 531,6 milhões que Florianópolis arrecadou com o IPTU em 2025, segundo dados do Siconfi. No cenário que inclui também a cobrança territorial, os R$ 220,9 milhões equivaleriam a 41,6%. A comparação é feita com um ano já encerrado porque o total arrecadado em 2026 ainda não está fechado.\nA prefeitura também destacou que sua regra havia sido considerada constitucional pelo Tribunal de Justiça de Santa Catarina (TJ-SC) em julgamento anterior. Para o município, esse histórico reforça a necessidade de preservar a segurança jurídica caso o STF estabeleça uma data para a produção dos efeitos da nova interpretação.\nJá a Associação Brasileira das Secretarias de Finanças (ABRASF), que protocolou uma petição em 31 de agosto, defendeu, como pedido principal, que a nova interpretação passasse a valer a partir do exercício de 2027.\nO ministro Dias Toffoli, relator do caso, não admitiu Florianópolis nem a ABRASF como \"amici curiae\" — forma de participação de entidades ou instituições que apresentam argumentos em processos de interesse relevante. \nSegundo o relator, os pedidos foram apresentados fora do prazo. “São eles, portanto, intempestivos”, escreveu Toffoli.\nApesar disso, o ministro aceitou os documentos como memoriais, textos em que as partes apresentam seus argumentos ao tribunal. Com isso, os argumentos apresentados por Florianópolis e pela ABRASF podem ser considerados na análise dos embargos.\nFlorianópolis é o caso mais próximo entre as capitais\nEntre as capitais brasileiras, Florianópolis tem uma das regras que mais se aproximam da que está em discussão no caso de Chapecó. A legislação divide os imóveis por categorias de uso e, dentro de cada uma, aplica alíquotas crescentes conforme quatro faixas de área construída.\n🏘️ Para os imóveis residenciais, os percentuais vão de 0,5%, para aqueles com até 150 metros quadrados, a 1,2%, para os que superam 600 metros quadrados. A alíquota incide sobre o imóvel inteiro. A regra foi introduzida em 2006, portanto depois da EC nº 29.\nA diferença em relação a Chapecó está principalmente na quantidade de faixas: enquanto o município catarinense estabeleceu um corte a partir de 400 metros quadrados para os imóveis residenciais, Florianópolis utiliza quatro faixas de área dentro de cada grupo de uso.\nPara Gasparino, essa estrutura reforça o argumento apresentado por Chapecó nos embargos: o uso define o grupo de imóveis, mas é a área que determina qual alíquota será aplicada dentro dele. “É o argumento de Chapecó levado a uma tabela maior.”\nLara Hoeltz Sperb, sócia do Andrade Maia Advogados, entende que, diante da tese fixada pelo STF, a regra da capital catarinense precisa ser alterada. Ela ressalva, porém, que a decisão do Supremo não elimina automaticamente a lei municipal.\n“A lei continua formalmente vigente até ser revogada pela Câmara ou afastada em controle concentrado”, afirma.\nNa prática, segundo Sperb, a parte da regra que faz a alíquota variar apenas em razão da área construída não deve ser aplicada em desacordo com o entendimento do STF.\nGasparino faz uma ressalva: como a alíquota do IPTU precisa estar prevista em lei, a prefeitura não poderia simplesmente escolher outro percentual e ignorar a tabela em vigor. A saída regular, segundo ele, seria a Câmara aprovar uma mudança para retirar a área construída como critério de definição da alíquota.\nQuando a metragem muda a classificação do imóvel\nNo caso de Florianópolis, a metragem define diretamente a alíquota. Mas o levantamento do g1 encontrou situações mais complexas, em que a área não determina o percentual do imposto, porém ajuda a definir como o imóvel será enquadrado para fins tributários.\nEm Boa Vista, Fortaleza, Campo Grande e Belo Horizonte, a proporção entre a construção e o terreno pode fazer com que o imóvel inteiro seja tratado como não edificado. As regras também consideram, conforme a cidade, fatores como uso, habitabilidade, cadastro e infraestrutura.\nA distinção entre imóveis edificados e não edificados é aceita pelo STF. Por isso, a questão não é simplesmente saber se a lei utiliza alguma medida de área, mas o que essa medida está identificando.\nPara Sperb, a pergunta central é se o coeficiente mede a existência de uma edificação relevante ou o tamanho do imóvel. “O Tema 1.455 veda a área como critério de alíquota. O STF, porém, sempre admitiu a distinção entre imóveis edificados e não edificados”, afirma.\nGasparino segue uma linha semelhante. Ele observa que imóveis de tamanhos muito diferentes podem receber o mesmo tratamento quando apresentam a mesma proporção entre terreno e construção.\n🏡 Condições adicionais, como habitabilidade, infraestrutura, cadastro e uso, reforçam a interpretação de que a regra classifica a ocupação do terreno, em vez de criar uma alíquota progressiva segundo a metragem.\nEsses mecanismos, portanto, são diferentes da regra julgada no caso de Chapecó. Isso não significa, porém, que estejam automaticamente livres de questionamentos judiciais.\nQuando parte do terreno é tributada à parte\nOutro grupo observado no levantamento reúne cidades que mantêm o imóvel como edificado, mas separam uma parte do terreno quando ela ultrapassa determinado múltiplo da área construída.\nHá mecanismos desse tipo em Rio Branco, Natal, Recife, Aracaju, Salvador, Vitória, Rio de Janeiro, São Paulo e Porto Alegre.\nO fato de a cobrança atingir apenas parte do terreno, porém, não resolve sozinho a questão. O ponto decisivo é identificar por que aquela parcela recebe tratamento diferente.\nEm alguns municípios, a sobra recebe a mesma alíquota aplicada aos terrenos não edificados. Nesse caso, a justificativa é que a parcela não incorporada à construção funciona, para fins tributários, como terreno não edificado.\n🔎 Em São Paulo, por exemplo, a legislação separa, em determinadas situações, a parte do terreno que não é considerada incorporada à construção. Segundo Sperb, essa parcela passa a receber o tratamento tributário aplicado a terreno não edificado. Nesse caso, a metragem não serve para aumentar a alíquota sobre todo o imóvel, mas para definir qual parte será tratada separadamente.\nA situação muda quando a metragem não serve apenas para identificar a parcela do terreno que será tributada separadamente, mas passa a interferir também no percentual ou na cobrança aplicada sobre ela. \nSegundo os especialistas, esse desenho pode aproximar determinadas regras da discussão enfrentada pelo STF, embora os modelos sejam diferentes entre si e não tenham sido analisados no caso de Chapecó. \n🔎 Vitória: em terrenos com pelo menos 300 metros quadrados, a parte que ultrapassa cinco vezes a área construída recebe alíquota própria de 0,60%. Nos imóveis não residenciais, o percentual é de 0,30% quando a área excedente for comprovadamente necessária ao desenvolvimento da atividade exercida no local, desde que atendidos os requisitos legais.\nAo g1, a prefeitura afirmou que o modelo é diferente do analisado pelo STF em Chapecó porque a metragem não aumenta a alíquota sobre o imóvel inteiro. \n“No caso da área excedente, trata-se de uma parcela específica do terreno que ultrapassa a proporção definida pela legislação, e não de uma alteração da alíquota incidente sobre a totalidade do imóvel em razão de sua metragem”, disse em nota. \nSegundo o município, essa parcela recebe tratamento tributário próprio. A administração informou ainda que acompanha os desdobramentos do Tema 1.455 e está levantando quantos imóveis são atingidos pela regra e os valores lançados e efetivamente arrecadados em 2025.\nGasparino, porém, identifica dois pontos que aproximam a regra da discussão: o limite mínimo de 300 metros quadrados para a incidência e a existência de uma alíquota exclusiva para a parcela excedente. “Nesses casos, a área passa a definir a alíquota, e não só a parcela do terreno sujeita à alíquota de terreno.”\n🔎 João Pessoa: quando o terreno supera cinco vezes a área construída, o imóvel continua sujeito ao IPTU principal e a parcela excedente recebe uma cobrança complementar. Diferentemente dos casos em que a sobra é reclassificada como terreno, a área excedente continua submetida à tributação predial e recebe um adicional. \nPara Sperb, isso enfraquece a justificativa de que a cobrança seria apenas uma tributação de terreno não edificado e aproxima o mecanismo do que o Tema 1.455 proibiu. “Há um adicional sobreposto à tributação predial.” \nO g1 procurou a prefeitura para comentar, mas não obteve resposta até a última atualização desta reportagem. \n🔎 Porto Alegre: a chamada “sobra de área de prédio” pode ser cadastrada separadamente quando, além de uma área mínima de 400 metros quadrados vinculada à edificação existente, resta uma parcela de pelo menos 300 metros quadrados que possa receber outra construção. Questionada, a prefeitura informou que a separação não depende apenas da metragem: também são consideradas a possibilidade de uso construtivo e a utilização efetiva daquela área.\nA legislação prevê situações em que essa sobra continua integrada ao prédio, incluindo determinadas áreas residenciais ocupadas por jardins, piscinas, áreas arborizadas e construções ornamentais, além de áreas necessárias e permanentemente utilizadas por estabelecimentos comerciais, industriais ou de serviços. Quando a parcela é individualizada, recebe uma inscrição imobiliária própria.\nA prefeitura argumenta que, por isso, o mecanismo difere daquele analisado pelo STF. \n“Em Porto Alegre, os critérios de área são empregados para identificar a existência de uma parcela territorial autônoma passível de cadastramento individualizado”, afirmou em nota.\nDepois de constituída essa unidade, segundo o município, a tributação segue as alíquotas territoriais previstas na legislação local, “estruturadas segundo valor venal e localização, e não uma alíquota definida em razão de sua metragem”.\nEssa característica converge com um ponto destacado pelos especialistas ouvidos pelo g1. \nPara Gasparino, quanto mais a parcela excedente funciona como uma unidade própria, com inscrição separada e possibilidade de receber uma construção independente, mais a cobrança se aproxima da tributação de um terreno distinto. \nSperb segue a mesma linha. “Em Porto Alegre, o gatilho da lei é a autonomia do terreno, não a proporção”, afirma.\nAo g1, a prefeitura informou que havia 44 inscrições classificadas como “sobra de área” em 2025. Juntas, elas renderam R$ 954.935,59 naquele ano em IPTU e Taxa de Coleta de Lixo (TCL).\n⚖️  Os mecanismos dessas capitais não foram objeto do julgamento do Tema 1.455. Os exemplos mostram que a metragem pode desempenhar diferentes funções na cobrança do IPTU e que a decisão tomada no caso de Chapecó não oferece, sozinha, uma resposta automática para todos esses modelos. \nPor que o ano 2000 importa?\nA data em que cada regra foi criada acrescenta uma camada à análise. Isso porque a própria tese fixada pelo STF faz um recorte temporal: ela considera inconstitucional a definição da alíquota pela área quando prevista por lei municipal posterior à Emenda Constitucional nº 29, de 2000.\nMas encontrar uma regra originalmente criada antes desse marco não encerra a discussão. É preciso verificar se o mecanismo foi mantido intacto ou se voltou a ser alterado depois.\nO próprio caso de Chapecó mostra por quê: uma lei de 1995 já previa a diferenciação pela metragem, mas ela foi revogada por outra, de 2018, que manteve a sistemática. O STF analisou a norma de 2018 como uma lei posterior à mudança constitucional.\n“Conta, portanto, a data da lei que dá a redação em vigor, e não a data em que o mecanismo surgiu”, Gasparino resume.\nPara regras que tenham permanecido efetivamente anteriores a 2000, a análise muda, mas isso não significa que elas sejam automaticamente válidas. \nNesse caso, entra em cena a jurisprudência do STF aplicável àquele período, que rejeitava a progressividade do IPTU pela área, mas admitia a diferenciação entre imóveis edificados e não edificados e entre residenciais e não residenciais.\nPor isso, segundo Sperb, nas regras antigas de “sobra de terreno” não basta olhar a data: é necessário saber se o mecanismo funciona como uma progressividade pela área ou como uma diferenciação entre a parcela edificada e a não edificada.\nO que acontece com quem já pagou? \nNos casos em que o critério de área for considerado inconstitucional, isso não significa necessariamente cancelar todo o IPTU cobrado.\n“O contribuinte discute só a diferença”, afirma Gasparino. \nNo próprio caso de Chapecó, a sentença mantida pelo STF determinou o recálculo pela alíquota de 0,5% e a devolução do que havia sido pago a mais.\nSperb segue a mesma linha. Segundo ela, deve ser preservada a cobrança calculada pelos critérios válidos, retirando-se apenas a parcela produzida pela regra considerada inconstitucional. A forma desse recálculo, porém, depende da legislação municipal e da estrutura do lançamento.\n“Para quem já pagou, a restituição em regra observa o prazo de cinco anos contado de cada pagamento”, diz Sperb, ressalvando que esse alcance ainda pode ser afetado por uma eventual modulação do STF.\nPara quem ainda não pagou, há possibilidade de contestar o lançamento administrativamente ou recorrer à Justiça. Sperb também ressalta que a via usada depende da situação concreta do contribuinte.\nO g1 procurou as prefeituras de Chapecó e Florianópolis para comentar o caso, mas não recebeu resposta até a última atualização desta reportagem. Os posicionamentos dos dois municípios citados no texto têm como base as manifestações apresentadas no processo.\nComo a metragem afeta o IPTU nas capitais?\nArte/g1",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 09 Oct 2026 08:00:00 -0000"
-    },
-    {
-      "id": "62f6f807abf5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cotado por Flávio para STF era 'distribuidor' de livros de Ustra entre bolsonaristas",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/cotado-por-flavio-para-stf-era-distribuidor-de-livros-de-ustra-entre-bolsonaristas.shtml",
-      "summary": "Um dos nomes mais cotados a serem indicados como ministro do Supremo Tribunal Federal num eventual governo Flávio Bolsonaro (PL), o ministro do TCU Jorge Oliveira ajudou a difundir as ideias do coronel Carlos Alberto Brilhante Ustra entre os apoiadores do ex-presidente Jair Bolsonaro.\nLeia mais (10/10/2026 - 06h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "10 Oct 2026 06:00:00 -0300"
-    },
-    {
-      "id": "f91648e95e5c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bastidores: Reunião secreta de Moraes com a PF teve mais delegados e eleva desconfiança no STF",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-reuniao-secreta-de-moraes-com-a-pf-teve-mais-delegados-desconfianca-cresce-no-stf/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Fri, 09 Oct 2026 18:15:34 +0000"
-    },
-    {
-      "id": "17231655ad4d",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF mantém 10% de efetivos em cargos comissionados no MP do Amazonas",
-      "link": "https://www.poder360.com.br/poder-justica/stf-mantem-10-de-efetivos-em-cargos-comissionados-no-mp-do-amazonas/",
-      "summary": "Por maioria, Plenário definiu que legislação estadual deve estabelecer percentual para servidores de carreira",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 10 Oct 2026 12:00:10 +0000"
     },
     {
       "id": "658cf385f683",
@@ -442,92 +372,53 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "Folha de São Paulo"
       ],
       "score": 88,
       "publishedRaw": "Sat, 10 Oct 2026 01:01:10 -0000"
     },
     {
-      "id": "ab21a654eb21",
-      "source": "Estadão",
+      "id": "1493a3e82abd",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "O STF não resolveu. Agora, o Congresso terá a palavra",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-stf-nao-resolveu-agora-o-congresso-tera-a-palavra/",
-      "summary": "",
+      "title": "Petistas veem Lula forçado pelo Congresso a fazer governo mais ao centro em caso de reeleição",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/petistas-veem-lula-forcado-pelo-congresso-a-fazer-governo-mais-ao-centro-em-caso-de-reeleicao.shtml",
+      "summary": "Aliados do presidente Lula (PT) avaliam que, se reeleito, o chefe do governo será forçado a fazer uma gestão mais ao centro, sem condições políticas de bancar muitas propostas de esquerda por causa da nova configuração do Congresso Nacional.\nLeia mais (10/10/2026 - 13h00)",
       "tags": [
-        "STF",
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Fri, 09 Oct 2026 23:00:00 +0000"
-    },
-    {
-      "id": "f043d5b6ed1b",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "De PCO a Bolsonaro: saiba quem é alvo do inquérito das fake news que Fachin disse que vai arquivar",
-      "link": "https://www.estadao.com.br/politica/de-pco-a-bolsonaro-saiba-quem-e-alvo-do-inquerito-das-fake-news-que-fachin-disse-que-vai-arquivar/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "Fri, 09 Oct 2026 22:21:31 +0000"
-    },
-    {
-      "id": "2592029d51c4",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "A única capital da União Europeia onde Flávio Bolsonaro venceu o 1º turno",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml",
-      "summary": "A única capital onde Flávio venceu na UE\nSó há uma capital da União Europeia onde os brasileiros deram vitória a Flávio Bolsonaro (PL). Em todas as outras, Lula (PT) venceu. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA exceção veio da Grécia. Foi justamente em Atenas, berço da democracia, que Flávio superou Lula no primeiro turno. Ele recebeu 46,6% dos votos válidos, e Lula ficou com quase 40%.\nMas o mais curioso é o seguinte: essa não foi uma vitória isolada. Em 2022, Jair Bolsonaro já havia ganhado o primeiro e o segundo turno por lá. Ou seja: há pelo menos duas eleições presidenciais, os brasileiros de Atenas votam diferente de boa parte da Europa. \nMas por quê?\n\"Todas as pesquisas que eu tenho feito sobre brasileiros no exterior evidenciam que o local onde eles residem importa de diferentes maneiras\", diz Teresa Schneider, pesquisadora da PUC-RS.\nA Grécia ainda sente os efeitos da crise econômica dos últimos anos. E tem um cenário político mais aberto a forças de centro-direita do que muitos outros países europeus. \n\"A Grécia tem um contexto político muito marcado pela crise econômica recente que o país passou. Forças políticas que se opõem a processos de integração regional podem ter mais força perante esse eleitorado\", afirma Schneider.\nVista de edifícios perto da antiga Acrópole em Atenas, Grécia.\nLouisa Gouliamaki / Reuters\nMas não é só isso. Tem o tamanho da comunidade brasileira na Grécia, que é relativamente pequena. São cerca de 4 mil brasileiros e pouco mais de 1.200 aptos a votar em Atenas. Por isso, o país tem menor presença de partidos e movimentos brasileiros do que locais como França, Portugal ou Alemanha. \nE especialistas apontam outro fator importante para o voto conservador: a presença de igrejas evangélicas brasileiras na Grécia. Uma presença relativamente alta considerando o tamanho da comunidade brasileira por lá.\n\"A gente tem a Igreja Universal do Reino de Deus, a Assembleia de Deus, a Congregação Cristã no Brasil, todas essas igrejas. Para o imigrante, a igreja tem um papel de sociabilidade muito importante. É ali onde se discute não apenas questões de valores morais, mas também questões políticas. Então, valores morais mais conservadores podem ter motivado esse eleitor a ir até a urna e destoar um pouco do que acontece no restante das capitais europeias\", diz a pesquisadora.\nPor isso tudo, especialistas avaliam que o caso de Atenas é único. Uma combinação de fatores políticos e sociais faz da capital grega uma rara exceção no mapa eleitoral dos brasileiros na União Europeia. \nAgora no g1",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "Congresso",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 87,
-      "publishedRaw": "Sat, 10 Oct 2026 09:00:00 -0000"
+      "score": 86,
+      "publishedRaw": "10 Oct 2026 13:00:00 -0300"
     },
     {
-      "id": "233c24d270c2",
-      "source": "CNN Brasil",
+      "id": "52255ebeba83",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eleições 2026: Veja a divisão de votos no Brasil por localidades",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-a-divisao-de-votos-no-brasil-por-localidades/",
-      "summary": "Ferramenta interativa da CNN Brasil permite consultar a distribuição dos votos nas eleições de 2026 em diferentes regiões do país",
+      "title": "No RN, Lula diz que 'tesouraço' de Flávio será feito em cima de programas sociais e apela por mobilização de quem não votou no 1º turno",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml",
+      "summary": "O candidato do PT à reeleição, Luiz Inácio Lula da Silva (PT), afirmou neste sábado (10) que o \"tesouraço\" prometido por Flávio Bolsonaro (PL), adversário na disputa presidencial, será feito em cima de programas sociais, como o Bolsa Família, o Farmácia Popular, o Pé-de-Meia, o Minha Casa, Minha Vida.\nLula disse também que o presidenciável do PL fará cortes nas verbas de universidades e institutos federais. \nO petista deu as declarações durante passeata no bairro do Alecrim, na Zona Leste de Natal (RN), onde cumpre agenda de campanha neste sábado. A capital do Rio Grande do Norte foi a primeira cidade fora do Distrito Federal visitada por Lula no segundo turno das eleições.\n\"Ninguém que é contra o povo pobre, que quer fazer tesouraço para cortar dinheiro do Bolsa Família, do Minha Casa, Minha Vida, do Farmácia Popular, dos institutos federais, do Pé-de-Meia, pode voltar a governar o país\", disse Lula.\n🔎O Bolsa Família é uma política de transferência de renda para famílias mais pobres. O Farmácia Popular garante acesso gratuito a medicamentos para tratamento de doenças crônicas. O Pé-de-Meia combate a evasão escolar no ensino médio, com a criação de uma poupança para estudantes. O Minha Casa, Minha Vida, por sua vez, facilita o acesso à moradia própria para pessoas de baixa renda.\nEm entrevistas e declarações públicas, Flávio tem negado que fará cortes em programas sociais, e que o \"tesouraço\" será realizado com a aprovação de uma reforma administrativa, o enxugamento da máquina pública e a redução de cargos comissionados. \nO potencial de economia com essas medidas, no entanto, é questionado por especialistas.\n'Eles beijam a bandeira dos EUA', diz Lula\nAgora no g1\nDurante a passeata em Natal, Lula também pegou e beijou uma bandeira do Brasil. Na sequência, afirmou que, enquanto o seu lado beija o símbolo brasileiro, o \"outro lado\", da campanha de Flávio Bolsonaro, \"beija a bandeira dos Estados Unidos\". \nEm pronunciamentos, Lula tem dito que Flávio Bolsonaro, se eleito, vai entregar recursos minerais do Brasil ao governo Donald Trump, de quem o candidato do PL é aliado. \nEle também tem acusado a gestão norte-americana de tentar interferir nas eleições brasileiras. \nAinda em relação ao segundo turno do pleito, Lula fez um apelo a eleitores, pedindo a eles que convençam pessoas que não foram às urnas no último domingo (4) a irem votar no dia 25 de outubro.\nA abstenção no primeiro turno foi a maior desde 1998. Segundo o Tribunal Superior Eleitoral (TSE), no último domingo, 33 milhões de brasileiros deixaram de exercer o direito ao voto. \nLula participou de manifestação em carro aberto\nFernanda Zauli/g1",
       "tags": [
-        "eleições",
-        "eleições 2026"
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "G1 - Política"
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Sat, 10 Oct 2026 10:56:23 +0000"
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 14:55:26 -0000"
     },
     {
       "id": "8c57f0745e7b",
@@ -543,9 +434,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 09 Oct 2026 23:56:17 -0000"
     },
     {
@@ -562,37 +454,19 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 09 Oct 2026 22:45:43 -0000"
     },
     {
-      "id": "528df936302b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Raphinha compartilha vídeos associados a possível apoio a Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/raphinha-compartilha-videos-associados-a-possivel-apoio-a-lula.shtml",
-      "summary": "O atacante Raphinha, do Barcelona e da Seleção Brasileira, chamou a atenção nas redes sociais ao compartilhar duas publicações com mensagens sobre direitos sociais, condições de trabalho e democracia. Em meio à mobilização de artistas e atletas em torno do segundo turno das eleições presidenciais de 2026, os conteúdos passaram a ser interpretados como um sinal de apoio à candidatura do presidente Luiz Inácio Lula da Silva (PT).\nLeia mais (10/10/2026 - 06h33)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "10 Oct 2026 06:33:00 -0300"
-    },
-    {
-      "id": "8dc90b1ab747",
+      "id": "e16e83511c04",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Seja Flávio, Lula ou o papa eleito presidente, haverá um tesouraço no Brasil",
-      "link": "https://www.estadao.com.br/politica/fabiano-lana/seja-flavio-lula-ou-o-papa-eleito-presidente-havera-um-tesouraco-no-brasil/",
+      "title": "Sidônio Palmeira, ministro da Secom de Lula, tira férias para entrar de vez na campanha",
+      "link": "https://www.estadao.com.br/politica/eleicoes/sidonio-palmeira-ministro-da-secom-de-lula-tira-ferias-para-entrar-de-vez-na-campanha/",
       "summary": "",
       "tags": [
         "Lula"
@@ -600,29 +474,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
-      "publishedRaw": "Sat, 10 Oct 2026 12:28:20 +0000"
-    },
-    {
-      "id": "fb32ce11500e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio e Lula têm disposições diferentes para debates no 2º turno e estratégias de ataque e defesa",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-e-flavio-tem-disposicoes-diferentes-para-debates-no-2-turno-e-estrategias-de-ataque-e-defesa/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Sat, 10 Oct 2026 08:30:00 +0000"
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 17:01:33 +0000"
     },
     {
       "id": "a0f259787bc4",
@@ -638,10 +494,71 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "id": "fb32ce11500e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio e Lula têm disposições diferentes para debates no 2º turno e estratégias de ataque e defesa",
+      "link": "https://www.estadao.com.br/politica/eleicoes/lula-e-flavio-tem-disposicoes-diferentes-para-debates-no-2-turno-e-estrategias-de-ataque-e-defesa/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 08:30:00 +0000"
+    },
+    {
+      "id": "8dc90b1ab747",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Seja Flávio, Lula ou o papa eleito presidente, haverá um tesouraço no Brasil",
+      "link": "https://www.estadao.com.br/politica/fabiano-lana/seja-flavio-lula-ou-o-papa-eleito-presidente-havera-um-tesouraco-no-brasil/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 12:28:20 +0000"
+    },
+    {
+      "id": "ab21a654eb21",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O STF não resolveu. Agora, o Congresso terá a palavra",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-stf-nao-resolveu-agora-o-congresso-tera-a-palavra/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Sat, 10 Oct 2026 12:00:00 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 09 Oct 2026 23:00:00 +0000"
     },
     {
       "id": "d3f388d799af",
@@ -657,66 +574,180 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Fri, 09 Oct 2026 22:03:37 +0000"
     },
     {
-      "id": "f64b3fa3f933",
-      "source": "Estadão",
+      "id": "f2d0205f5792",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que mudou a estratégia de comunicação para o segundo turno: ‘Estou virando o rei da selfie’",
-      "link": "https://www.estadao.com.br/politica/eleicoes/lula-foca-defesa-do-fim-da-escala-6x1-na-primeira-agenda-de-rua-na-campanha-pelo-segundo-turno/",
-      "summary": "",
+      "title": "Lula diz que Elmano “deu uma surra em Ciro Gomes” no Ceará",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-elmano-deu-uma-surra-em-ciro-gomes-no-ceara/",
+      "summary": "Presidente destacou vitória do petista no 1º turno, quando ele teve 53,19% dos votos, contra 46,22% do ex-governador do Ceará",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Fri, 09 Oct 2026 15:52:07 +0000"
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 16:21:35 +0000"
     },
     {
-      "id": "66000652e84b",
-      "source": "Estadão",
+      "id": "18801a026532",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "‘Foco no digital’: Lula perde votos em capitais que concentraram quase metade da campanha de rua",
-      "link": "https://www.estadao.com.br/politica/eleicoes/foco-no-digital-lula-perde-votos-em-capitais-que-concentraram-quase-metade-da-campanha-de-rua-npr/",
-      "summary": "",
+      "title": "Campanha de Lula denuncia Meta por interferência a favor de Flávio",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-denuncia-meta-por-interferencia-a-favor-de-flavio/",
+      "summary": "Petistas relatam falhas no Instagram, questionam distribuição de publicações e anunciam medidas ao TSE a 15 dias do 2º turno",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
-      "publishedRaw": "Fri, 09 Oct 2026 21:26:01 +0000"
+      "score": 84,
+      "publishedRaw": "Sat, 10 Oct 2026 16:16:33 +0000"
     },
     {
-      "id": "133f4e4ce850",
-      "source": "G1 - Política",
+      "id": "37c530be9647",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "De desilusão com a política a viagens: abstenção nas eleições de 2026 é a maior desde 1998",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/10/de-desilusao-com-a-politica-a-viagens-abstencao-nas-eleicoes-de-2026-e-a-maior-desde-1998.ghtml",
-      "summary": "Abstenção nas eleições de 2026 é a segunda maior desde a redemocratização\nO primeiro turno das eleições terminou com 33 milhões de brasileiros deixando de exercer o direito ao voto. Em uma eleição acirrada como a presidencial, a abstenção impacta diretamente nos resultados: foram 21,08% dos brasileiros que deixaram de votar neste ano.\nO percentual dos eleitores que não votaram é o maior para o primeiro turno presidencial desde as eleições de 1998. Naquele ano, com a reeleição de Fernando Henrique Cardoso (FHC), 21,49% dos eleitores faltaram à eleição.\nDepois disso, houve uma recuperação, com mais brasileiros indo às urnas escolher não só seus presidentes, como governadores, senadores, deputados federais e estaduais. \nMas em 2018, o percentual de brasileiros que preferiram não exercer o direito ao voto ultrapassou 20% e tem crescido pouco a pouco nos últimos pleitos.\nO eleitor que não votar no primeiro turno pode sim votar no segundo, já que, para a Justiça Eleitoral, cada turno é um novo pleito e, portanto, faltar ao primeiro não impede que o eleitor vote no segundo.\n🔎No Brasil, o voto é obrigatório para cidadãos maiores de 18 anos e menores de 70 alfabetizados, segundo a Constituição Federal.\nOs motivos para um eleitor deixar de comparecer na chamada \"festa da democracia\" são variados. Mas uma marca que permeou essa eleição foi o desânimo da população.  \nPara Murilo Medeiros, cientista político da Universidade de Brasília (UnB), o desânimo tem como um dos motivos a polarização. Com os dois principais candidatos, Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), com altos índices de rejeição, há um \"ambiente de desalento\" com a política. \n\"A percepção de que o voto já não é capaz de produzir mudanças concretas favorece o afastamento do eleitor das urnas. A abstenção elevada é um sinal desse distanciamento entre a política e o eleitor\", diz Medeiros. \nEntre os 33 milhões deste ano, o g1 ouviu relatos de eleitores de diferentes idades, profissões e contextos. Veja abaixo:\nBurocracia e falta de acessibilidade afastam eleitores \nRoberto Gepp, estudante de economia, diz que gostaria de ter votado, mas acabou não transferindo o título de eleitor. Ele se mudou de Brasília para São Paulo e também não poderá votar no segundo turno. \nPara ele, foi uma “pena” não escolher seus representantes e afirma que o processo de transferência do título afasta e burocratiza o voto.\n🔎O prazo para transferir o local de votação terminou no dia 6 de maio. No entanto, até o dia 20 de agosto, eleitores que estivessem fora do domicílio eleitoral no dia das eleições poderiam solicitar a alteração temporária do local de votação para votar em trânsito.\nAo se deparar com muitas pessoas e uma zona eleitoral que considerou desorganizada, Henrique Eduardo Bahouth, 73 anos, desistiu de votar.\n“Eu nunca deixei de votar. Esse ano, realmente, eu ainda cheguei na minha zona eleitoral, mas estava cheia de muitas pessoas, achei muito desorganizado e eu, em função até do dia, eu não estava bem e acabei desistindo”, disse.\nJá Bianca Dantas não conseguiu votar por uma questão de acessibilidade na seção em que iria votar.  Ela conta que, após passar por uma cirurgia no joelho duas semanas antes do primeiro turno, não conseguiu chegar à seção eleitoral. \nAo chegar ao local e se deparar com dois lances de escada, precisou ir embora sem votar. Ela explica que não teve tempo de solicitar uma seção com acessibilidade.\n“Quantas pessoas deixaram de votar por essa mesma razão, né? Pessoas que sofreram acidentes, enfim, e isso foi muito frustrante para mim, assim, ter que virar, estar ali na porta e ter que virar as costas e ir embora sem poder votar”, questionou. \nCeará registra menor abstenção do país com 15,5% no 1º turno das eleições de 2026.\nFabiane de Paula/ SVM\nCrença na política\nAos 73 anos, Maria Luíza Teixeira tem o direito de deixar de votar, mas afirma que não compareceu às urnas no primeiro turno por discordar dos dois candidatos à Presidência, Lula e Flávio Bolsonaro.\nAo g1, Maria Luíza disse que também não pretende votar no segundo turno e que, se comparecesse às urnas, anularia o voto.\nDesanimada com a política, a servidora pública Nara Oliveira afirmou que para ela não valia a pena gastar tempo e dinheiro com o deslocamento até o local de votação.\nNara citou o caso do Banco Master para explicar por que acredita que os políticos pensam apenas nos próprios interesses. Na avaliação dela, a eleição resume o significado da expressão “tanto faz”.\n“Qualquer um que ganhar vai pensar só nos interesses próprios, e não vale a pena eu perder um segundo sequer da minha vida para votar em ninguém”, afirmou. \nJá a estudante Maria Júlia Costa viajou para uma cidade distante daquela onde vota durante o primeiro turno para um evento de família e disse que pretende participar da votação no segundo turno. \nA estudante afirmou ainda que acredita “na política, no poder do voto e na cidadania”.\nRaio-X da abstenção \nA abstenção de 21,08% deste ano seguiu o ritmo de crescimento da ausência no primeiro turno dos últimos anos. Em 2022, o segundo turno não teve um movimento para que mais pessoas fossem às urnas escolher um presidente, segundo dados do TSE. \nLEIA TAMBÉM: Abstenção chega a 21,08% no 1º turno e bate recorde; compare com as últimas quatro eleições\nAinda assim, levar esses eleitores a reconsiderarem e votarem é uma das estratégias de comunicação do presidente Lula, que saiu em desvantagem da primeira etapa de votação. Medeiros indica que esse será um dos maiores desafios a partir de agora. \n\"O segundo turno acende um alerta ainda maior para a abstenção. Com 21 governos estaduais definidos, a eleição presidencial será a única disputa em grande parte do país\", explica o cientista político. \n\"Isso esvazia a mobilização política nos estados, desestimula o engajamento das lideranças locais e enfraquece as estruturas de campanha responsáveis por levar o eleitor às urnas\", disse Medeiros.\nDados do TSE mostram que os maiores percentuais de eleitores que deixaram de votar são das regiões: 15 milhões de eleitores do Sudeste (22,7%) e 2,6 milhões do Centro-Oeste (21,7%). \n\"Aumentar o comparecimento, portanto, não significa aumentar os votos de Lula. Tudo depende do perfil político de quem ficou em casa\", afirmou Medeiros. \nJá no Nordeste, região que votou em sua maioria em Lula, 18,4% dos eleitores deixaram de comparecer às urnas. O contingente representa 8 milhões de eleitores.\nLevar esse eleitor às urnas, no entanto, representa um desafio para as campanhas que buscam ampliar o número de votos.\n\"Embora o voto seja obrigatório no Brasil, a multa pelo não comparecimento é irrisória. O custo e as dificuldades para chegar às urnas, especialmente para eleitores de renda mais baixa, superam o valor da própria penalidade\", explica.",
+      "title": "Autoridade Palestina marca eleições para setembro de 2027 após novo adiamento",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/autoridade-palestina-marca-eleicoes-para-setembro-de-2027-apos-novo-adiamento.shtml",
+      "summary": "O presidente da Autoridade Palestina, Mahmoud Abbas, anunciou neste sábado (10) que as eleições presidenciais e legislativas acontecerão em 11 de setembro de 2027, adiando em quase um ano o pleito legislativo.\nLeia mais (10/10/2026 - 13h13)",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil"
+        "G1 - Mundo",
+        "G1 - Política"
       ],
-      "score": 78,
-      "publishedRaw": "Sat, 10 Oct 2026 03:00:00 -0000"
+      "score": 82,
+      "publishedRaw": "10 Oct 2026 13:13:00 -0300"
+    },
+    {
+      "id": "2b2e1bb28453",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Wagner Moura e outros votantes brasileiros do Oscar pedem atenção às eleições em carta",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/wagner-moura-e-outros-votantes-brasileiros-do-oscar-pedem-atencao-as-eleicoes-em-carta.shtml",
+      "summary": "Em uma carta conjunta divulgada neste sábado (10) pela revista Variety, 58 membros brasileiros da Academia de Artes e Ciências Cinematográficas, responsável pelo Oscar, entre eles o ator Wagner Moura, os cineastas Kleber Mendonça Filho, Fernando Meirelles e o produtor Rodrigo Teixeira, se dizem preocupados com os possíveis desdobramentos do segundo turno das eleições presidenciais no Brasil.\nLeia mais (10/10/2026 - 12h32)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "10 Oct 2026 12:32:00 -0300"
+    },
+    {
+      "id": "79e01fc713de",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Presidente palestino adia eleições para setembro de 2027",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/10/presidente-palestino-adia-eleicao-para-setembro-de-2027.ghtml",
+      "summary": "Mahmoud Abbas, presidente da Palestina, em 23 de novembro de 2021\nEvgeny Biyatov/Reuters\nO presidente palestino, Mahmoud Abbas, adiou neste sábado (10) as eleições legislativas previstas para 28 de novembro de 2026. Segundo a agência palestina Wafa, um decreto presidencial marcou as eleições legislativas e presidenciais para 11 de setembro de 2027.\nA votação para o Conselho Legislativo estava programada para o próximo mês, enquanto a eleição presidencial era esperada para o início de 2027. Entretanto, o novo decreto atribui o adiamento a obstáculos impostos por medidas israelenses e à falta de condições políticas, de segurança e logísticas para garantir eleições livres, justas e inclusivas.\n\" A decisão de adiar as eleições legislativas e marcar uma nova data surge em meio a contínuos ataques militares israelenses, expansão dos assentamentos, violência colonial e repetidas incursões israelenses na Cisjordânia, incluindo Jerusalém Oriental ocupada”, diz o decreto, segundo a Wafa.\nO documento também menciona restrições à liberdade de movimento e a retenção de receitas palestinas por Israel, fatores que, segundo o texto, dificultam a preparação e a realização das eleições.\nLíderes de Israel e da Autoridade Palestina discursam na ONU\nA Reuters informou, com base em fontes palestinas, que lideranças do Fatah e do Hamas concordaram com o adiamento.\nSituação em Gaza também dificulta votação\nSegundo a Wafa, as condições de segurança e a crise humanitária na Faixa de Gaza também dificultam a organização das eleições. A falta de avanços na reconstrução do território e a ausência de forças internacionais de estabilização foram apontadas entre os fatores que pesaram na decisão.\nO ministro das Relações Exteriores de Israel, Gideon Saar, criticou a decisão. Segundo a Al Jazeera, ele acusou a Autoridade Palestina de enganar a comunidade internacional ao preparar o cancelamento do processo eleitoral. \nMenos de um mês antes do adiamento, Abbas havia reafirmado o calendário de novembro em um discurso à Assembleia Geral da ONU e assumido compromissos por escrito com os governos da França e da Arábia Saudita.\nPalestinos não elegem presidente desde 2005\nOs palestinos não realizam eleições gerais há cerca de duas décadas. A última eleição presidencial ocorreu em 2005, quando Abbas foi eleito. A votação legislativa mais recente foi realizada em 2006 e terminou com a vitória do Hamas.\nO resultado aprofundou a disputa entre o Hamas e o Fatah, movimento liderado por Abbas. Em 2007, após confrontos entre os grupos, o Hamas assumiu o controle da Faixa de Gaza, enquanto a Autoridade Palestina, dominada pelo Fatah, manteve sua administração em partes da Cisjordânia.\nDesde então, a divisão política entre os dois grupos e os sucessivos adiamentos eleitorais dificultaram a renovação das instituições palestinas.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Sat, 10 Oct 2026 15:26:04 -0000"
+    },
+    {
+      "id": "c0a0e7fd30b6",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin deve receber relatórios da PF com menções a ministros do STF no caso Master",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/10/fachin-deve-receber-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml",
+      "summary": "Ministro Edson Fachin do STF\nRosinei Coutinho/STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, deve receber na próxima terça-feira (13) relatórios da Polícia Federal (PF) com menções a integrantes da Corte no caso Master. \nO material foi requisitado por Fachin ao diretor-geral da PF, Andrei Rodrigues, ao confirmar uma reunião, que foi pedida pelo delegado. Em um ofício, Fachin afirmou que nenhum fato nem ninguém deve ficar fora da apuração.\nDos 10 ministros do Supremo, há citações, em graus diferentes, de pelo menos seis ministros ou parentes — além de referências a ministros do Superior Tribunal de Justiça (STJ) e do Tribunal Superior do Trabalho (TST). \nAgora no g1\nA movimentação da PF tem potencial para aprofundar a crise instalada no Supremo desde setembro, pressionando Fachin a adotar providências em relação aos colegas. \nAté agora, o foco estava nos ministros Alexandre de Moraes e André Mendonça, que diante das costuras internas expuseram publicamente a divisão da Corte. \nA PF avalia que o encontro pode resolver eventuais divergências provocadas pelo caso Master com o Supremo e pavimentar a retomada das investigações. Nas últimas semanas, a PF trabalhou na individualização das citações. \nA ala do ministro Alexandre de Moraes defende que não haja avanços antes do fim das eleições. A avaliação desses ministros é que, com um cenário mais completo sobre o que de fato a PF entende ter reunido contra cada integrante da Corte, cabe ao Presidente do Supremo dar o mesmo tratamento a todos os citados. \nSessão plenária do STF\nRosinei Coutinho/STF\nNos bastidores, aliados de Moraes e do ministro André Mendonça afirmam reservadamente que o melhor caminho seria a Presidência enviar os elementos reunidos pela Polícia Federal para análise da Procuradoria-Geral da República, sem vincular a medida ao procurador-geral, Paulo Gonet, que também foi citado no caso e teve uma apuração rejeitada pelo Conselho Superior do Ministério Público.\nO encaminhamento dos casos para a PGR, além de dar respaldo ao Supremo para decidir diante de uma análise técnica, ainda daria tempo para novas investidas para uma composição interna — apontada ainda como de difícil solução. \nMinistros, no entanto, apontam que houve uma certa melhora no clima entre as duas alas após o primeiro turno, mas que Mendonça e Moraes ainda estão sem se falar, assim como Gilmar Mendes e Nunes Marques.\nCrise 'Master' no STF\nAs ligações de ministros do STF com o caso Master começaram em abril de 2025, quando a colunista Malu Gaspar, do jornal \"O Globo\", revelou a contratação do escritório da mulher do ministro Alexandre de Moraes pelo Banco Master para representação em algumas ações. \nEm dezembro, foi publicado que o contrato era de cerca de R$ 130 milhões e, neste ano, a PF apontou que o ministro foi interlocutor ao menos de 52 mensagens de Vorcaro, inclusive no dia em que foi preso. \nDepois, surgiram negócios que envolviam o ministro Dias Tóffoli com fundos do Banco Master na sociedade de um resort da família do ministro no Paraná, o que levou o ministro a deixar a relatoria do caso Master e a se declarar suspeito para analisar questões da investigação na Segunda Turma do Supremo. \nNo mês passado, surgiram mensagens que citavam envolvimento com Daniel Vorcaro, do ministro Nunes Marques, do filho dele, também envolvendo contratações, e do filho do ministro Luiz Fux, por susposto pedido de ajuda em um processo. \nEm relação ao ministro André Mendonça, foi divulgada uma foto com advogado de Vorcaro, um encontro com o banqueiro e um pedido de investigação de uma possível relação entre o Banco Master e o Instituto Iter — ligado ao ministro.  Também foi identificada a contratação de Chiquinho Feitosa, ex-cunhado do ministro Gilmar Mendes, por Vorcaro, além de uma reunião e tentativas de aproximação. \nTodos os ministros e familiares negam irregularidades ou envolvimentos com Daniel Vorcaro.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 80,
+      "publishedRaw": "Sat, 10 Oct 2026 07:00:00 -0000"
+    },
+    {
+      "id": "55e86d984b86",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin aciona PF após STF identificar ameaças contra Flávio Dino nas redes sociais",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml",
+      "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, acionou nesta sexta-feira (9) a Polícia Federal após relatos de ameaças ao ministro Flávio Dino.\n\"Foi encaminhada à Polícia Federal avaliação técnica de segurança relativa às ameaças identificadas contra o ministro, para conhecimento e adoção das medidas pertinentes, no âmbito de suas atribuições\".\n\"O STF permanece atento à segurança de seus ministros e em articulação com os órgãos competentes\".\nNesta sexta, o ministro Flávio Dino afirmou ter recebido trechos de um relatório da Segurança da Corte que, segundo ele, reúne milhares de mensagens com ameaças de assassinato e de outras agressões contra ele.\nAgora no g1\nEm uma publicação nas redes sociais, Dino afirmou que as ameaças não vão alterar sua atuação como ministro e disse que um juiz não pode deixar de tomar decisões por medo de sofrer perseguições pessoais.\n\"Mas fica uma reflexão essencial: se um juiz passar a ter medo de decidir um processo, à vista do suposto risco de sofrer perseguições pessoais, não existe mais Poder Judiciário. Nem Constituição\", afirmou.\nDino disse ainda que, em 37 anos como servidor público, nunca respondeu a processo criminal. Para o ministro, as ameaças são resultado da \"repetição de mentiras\".\n\"O ódio exposto nas mensagens deriva da repetição de mentiras, visando causar violência\", escreveu.\nO ministro também afirmou que quem discorda de uma decisão judicial deve contestá-la pelos mecanismos previstos no próprio Judiciário, recorrendo aos órgãos colegiados competentes.\n\"Se as pessoas não concordam com decisões judiciais, elas podem recorrer aos Colegiados competentes. Não precisa matar o juiz que tomou a decisão, nem fazer discursos raivosos incitando perseguições e agressões\", declarou.\nAo falar sobre sua própria atuação, Dino afirmou que não pretende mudar sua conduta em razão das ameaças.\n\"Em nada alterarei a minha atuação profissional, pois nunca minha perna ou minha mão tremeram, nem minha voz se alterou\", escreveu.\nA mensagem publicada por Dino traz uma foto com trechos das ameaças direcionadas não só a ele como a outros ministros da Corte.  \nMinistro Flávio Dino, ministro do STF\nRosinei Coutinho/STF",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 09 Oct 2026 23:19:21 -0000"
+    },
+    {
+      "id": "6860970e34ea",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "STF volta a discutir IPTU por área: levantamento do g1 mostra como capitais usam a metragem",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/09/iptu-por-area-levantamento-do-g1-mostra-como-capitais-usam-a-metragem.ghtml",
+      "summary": "Primeira parcela e cota única do IPTU  de São Luís vencem na próxima sexta-feira (10)\nDivulgação\nO Supremo Tribunal Federal (STF) retomou nesta semana a discussão sobre os limites do uso da área dos imóveis na cobrança do Imposto sobre a Propriedade Predial e Territorial Urbano (IPTU), em julgamento previsto para seguir até esta sexta-feira (9).\nA Corte analisa embargos de declaração apresentados por Chapecó (SC) contra uma decisão tomada em agosto (entenda abaixo), que considerou inconstitucional a aplicação de alíquota de IPTU definida com base na área do imóvel. O julgamento pode manter, modificar ou limitar os efeitos daquela decisão.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nAcontece que a discussão envolve uma das principais fontes de receita arrecadadas diretamente pelas prefeituras. \nSomente no ano passado, 5.393 municípios com dados disponíveis no Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi) declararam ter arrecadado, juntos, de R$ 81,8 bilhões com IPTU. Só as capitais responderam por R$ 38,5 bilhões desse valor.\nAgora no g1\n🔎 O valor inclui toda a receita do imposto e não permite identificar quanto foi arrecadado por regras ligadas à área dos imóveis.\nComo o entendimento da Corte pode ter impacto sobre outras formas de cobrança que também levam em conta a metragem dos imóveis, o g1 analisou as regras das 26 capitais e do Distrito Federal. VEJA AQUI.\nO objetivo foi verificar como outras cidades usam a área dos imóveis na cobrança do imposto e em que medida a decisão do STF pode afetar essas regras.\nA análise encontrou desde situações em que a área define diretamente a alíquota até casos em que a proporção entre o terreno e a construção pode mudar a classificação do imóvel ou separar uma parcela do lote para uma cobrança diferente. \nChapecó tenta reverter decisão\nEm agosto, o STF declarou inconstitucional a definição, por uma lei municipal posterior à Emenda Constitucional (EC) nº 29, de 2000, de uma alíquota de IPTU com base na área do imóvel.\nA Constituição permite que o imposto seja progressivo conforme o valor venal do imóvel — uma estimativa de seu valor para fins tributários. Para calcular esse valor, o município pode considerar características como a área do terreno e da construção, a localização, o uso do imóvel e outros fatores previstos na legislação da cidade.\nO texto constitucional também permite que o IPTU tenha alíquotas diferentes de acordo com a localização e o uso do imóvel. A área, porém, não aparece sozinha entre esses critérios.\n🤔 Ou seja, uma coisa é a metragem ser usada como um dos elementos para calcular o valor venal; outra é a própria área do imóvel ser usada como critério para definir a alíquota do imposto. Foi justamente essa segunda situação que levou o caso de Chapecó ao STF.\nA legislação municipal estabelecia alíquota de 1% para imóveis residenciais com área construída igual ou superior a 400 metros quadrados. Para as demais edificações, o percentual era de 0,5%. \nAgora, Chapecó tenta reverter esse resultado por meio de embargos de declaração.\n⚖️ ️ Esse tipo de recurso é usado para pedir que o tribunal esclareça ou corrija uma decisão. Neste caso, a prefeitura também pede ao STF que modifique o resultado.\nNos embargos, o município afirma que a área não funciona como critério isolado. A prefeitura argumenta que, antes da metragem, a lei considera o uso residencial do imóvel.\n➡️ Os 400 metros quadrados serviriam, segundo essa interpretação, para identificar uma subcategoria chamada “imóveis residenciais de grande porte”. Como imóveis comerciais e industriais com a mesma metragem permanecem sujeitos à alíquota de 0,5%, Chapecó argumenta que não seria a área, sozinha, que determinaria o percentual.\nPara João Henrique Gasparino, tributarista e diretor executivo da NimbusTax, porém, essa justificativa não aponta uma questão que tenha ficado sem resposta no julgamento, porque o STF já analisou a diferença entre área, uso e valor do imóvel. \nSegundo ele, os imóveis continuam pertencendo ao mesmo grupo de uso — o residencial — e o que efetivamente separa uma alíquota da outra é a metragem. \n“A ‘categoria’ é a faixa de área com outro nome”, afirma. \nO especialista faz a mesma avaliação sobre a tentativa de tratar a área como um indicador indireto do valor do imóvel. O acórdão, afirma, já teria diferenciado o uso da metragem como elemento para calcular o valor venal do uso da própria área para definir a alíquota.\nComo os embargos de declaração servem para corrigir omissão, contradição, obscuridade ou erro material, e não simplesmente para rediscutir o conteúdo da decisão, Gasparino considera que há pouco fundamento para alegar que esse ponto não foi analisado. \nAgora, se o STF não aceitar o argumento e mantiver a inconstitucionalidade, a prefeitura faz um pedido alternativo: que a decisão só passe a produzir efeitos quando o processo terminar definitivamente. \nChapecó estima em aproximadamente R$ 14 milhões o valor que teria de devolver aos contribuintes que pagaram o imposto pela alíquota de 1% nos anos de vigência da lei questionada. A prefeitura não detalha, nos embargos, a quais anos essa estimativa corresponde.  \nA estimativa, porém, foi contestada por um contribuinte que passou a fazer parte do processo. Em memorial apresentado na sexta-feira (2), sua defesa afirma que o município não demonstrou como chegou a esse montante. \n🔎 Para efeitos de comparação, esse valor corresponde a 22,2% dos R$ 63,1 milhões arrecadados por Chapecó com o tributo em 2025, segundo dados do Siconfi. \nSegundo o documento apresentado pelo contribuinte, 483 imóveis seriam atingidos pela decisão e cerca de 200 ações já propostas somariam aproximadamente R$ 1,5 milhão em devoluções de valores que ainda podem ser cobrados judicialmente. \nA defesa sustenta ainda que, mesmo se todos os contribuintes afetados pedissem ressarcimento, o total não passaria de R$ 2,5 milhões e que não foi demonstrado risco excepcional às contas públicas que justificasse a medida. \nComo a área do imóvel pode entrar no cálculo do IPTU\nArte/g1\nMunicípios tentam limitar os efeitos da decisão\nMas a discussão não ficou restrita a Chapecó: as possíveis consequências da tese também levaram outras cidades e entidades a se posicionarem em defesa de uma modulação dos efeitos — ou seja, de uma definição sobre quando a nova interpretação passa a valer.\nO receio é que a decisão tenha efeitos sobre municípios que adotam regras semelhantes, que poderiam enfrentar questionamentos de contribuintes e pedidos de restituição de valores pagos anteriormente.\nUm exemplo é Florianópolis, que apresentou uma manifestação em 25 de agosto, e pediu que eventual modulação preservasse cobranças e pagamentos feitos antes da data de corte, além de dar prazo para as cidades adaptarem suas legislações\nEm nota técnica apresentada ao Supremo, a prefeitura estimou em R$ 84,7 milhões o impacto sobre o IPTU predial de 2026 caso fosse aplicada a menor alíquota de cada categoria em substituição às faixas determinadas pela área. \nSe a mesma lógica alcançasse também a cobrança territorial, a estimativa chegaria a R$ 220,9 milhões.\n🔎 Os R$ 84,7 milhões equivalem a 15,9% dos cerca de R$ 531,6 milhões que Florianópolis arrecadou com o IPTU em 2025, segundo dados do Siconfi. No cenário que inclui também a cobrança territorial, os R$ 220,9 milhões equivaleriam a 41,6%. A comparação é feita com um ano já encerrado porque o total arrecadado em 2026 ainda não está fechado.\nA prefeitura também destacou que sua regra havia sido considerada constitucional pelo Tribunal de Justiça de Santa Catarina (TJ-SC) em julgamento anterior. Para o município, esse histórico reforça a necessidade de preservar a segurança jurídica caso o STF estabeleça uma data para a produção dos efeitos da nova interpretação.\nJá a Associação Brasileira das Secretarias de Finanças (ABRASF), que protocolou uma petição em 31 de agosto, defendeu, como pedido principal, que a nova interpretação passasse a valer a partir do exercício de 2027.\nO ministro Dias Toffoli, relator do caso, não admitiu Florianópolis nem a ABRASF como \"amici curiae\" — forma de participação de entidades ou instituições que apresentam argumentos em processos de interesse relevante. \nSegundo o relator, os pedidos foram apresentados fora do prazo. “São eles, portanto, intempestivos”, escreveu Toffoli.\nApesar disso, o ministro aceitou os documentos como memoriais, textos em que as partes apresentam seus argumentos ao tribunal. Com isso, os argumentos apresentados por Florianópolis e pela ABRASF podem ser considerados na análise dos embargos.\nFlorianópolis é o caso mais próximo entre as capitais\nEntre as capitais brasileiras, Florianópolis tem uma das regras que mais se aproximam da que está em discussão no caso de Chapecó. A legislação divide os imóveis por categorias de uso e, dentro de cada uma, aplica alíquotas crescentes conforme quatro faixas de área construída.\n🏘️ Para os imóveis residenciais, os percentuais vão de 0,5%, para aqueles com até 150 metros quadrados, a 1,2%, para os que superam 600 metros quadrados. A alíquota incide sobre o imóvel inteiro. A regra foi introduzida em 2006, portanto depois da EC nº 29.\nA diferença em relação a Chapecó está principalmente na quantidade de faixas: enquanto o município catarinense estabeleceu um corte a partir de 400 metros quadrados para os imóveis residenciais, Florianópolis utiliza quatro faixas de área dentro de cada grupo de uso.\nPara Gasparino, essa estrutura reforça o argumento apresentado por Chapecó nos embargos: o uso define o grupo de imóveis, mas é a área que determina qual alíquota será aplicada dentro dele. “É o argumento de Chapecó levado a uma tabela maior.”\nLara Hoeltz Sperb, sócia do Andrade Maia Advogados, entende que, diante da tese fixada pelo STF, a regra da capital catarinense precisa ser alterada. Ela ressalva, porém, que a decisão do Supremo não elimina automaticamente a lei municipal.\n“A lei continua formalmente vigente até ser revogada pela Câmara ou afastada em controle concentrado”, afirma.\nNa prática, segundo Sperb, a parte da regra que faz a alíquota variar apenas em razão da área construída não deve ser aplicada em desacordo com o entendimento do STF.\nGasparino faz uma ressalva: como a alíquota do IPTU precisa estar prevista em lei, a prefeitura não poderia simplesmente escolher outro percentual e ignorar a tabela em vigor. A saída regular, segundo ele, seria a Câmara aprovar uma mudança para retirar a área construída como critério de definição da alíquota.\nQuando a metragem muda a classificação do imóvel\nNo caso de Florianópolis, a metragem define diretamente a alíquota. Mas o levantamento do g1 encontrou situações mais complexas, em que a área não determina o percentual do imposto, porém ajuda a definir como o imóvel será enquadrado para fins tributários.\nEm Boa Vista, Fortaleza, Campo Grande e Belo Horizonte, a proporção entre a construção e o terreno pode fazer com que o imóvel inteiro seja tratado como não edificado. As regras também consideram, conforme a cidade, fatores como uso, habitabilidade, cadastro e infraestrutura.\nA distinção entre imóveis edificados e não edificados é aceita pelo STF. Por isso, a questão não é simplesmente saber se a lei utiliza alguma medida de área, mas o que essa medida está identificando.\nPara Sperb, a pergunta central é se o coeficiente mede a existência de uma edificação relevante ou o tamanho do imóvel. “O Tema 1.455 veda a área como critério de alíquota. O STF, porém, sempre admitiu a distinção entre imóveis edificados e não edificados”, afirma.\nGasparino segue uma linha semelhante. Ele observa que imóveis de tamanhos muito diferentes podem receber o mesmo tratamento quando apresentam a mesma proporção entre terreno e construção.\n🏡 Condições adicionais, como habitabilidade, infraestrutura, cadastro e uso, reforçam a interpretação de que a regra classifica a ocupação do terreno, em vez de criar uma alíquota progressiva segundo a metragem.\nEsses mecanismos, portanto, são diferentes da regra julgada no caso de Chapecó. Isso não significa, porém, que estejam automaticamente livres de questionamentos judiciais.\nQuando parte do terreno é tributada à parte\nOutro grupo observado no levantamento reúne cidades que mantêm o imóvel como edificado, mas separam uma parte do terreno quando ela ultrapassa determinado múltiplo da área construída.\nHá mecanismos desse tipo em Rio Branco, Natal, Recife, Aracaju, Salvador, Vitória, Rio de Janeiro, São Paulo e Porto Alegre.\nO fato de a cobrança atingir apenas parte do terreno, porém, não resolve sozinho a questão. O ponto decisivo é identificar por que aquela parcela recebe tratamento diferente.\nEm alguns municípios, a sobra recebe a mesma alíquota aplicada aos terrenos não edificados. Nesse caso, a justificativa é que a parcela não incorporada à construção funciona, para fins tributários, como terreno não edificado.\n🔎 Em São Paulo, por exemplo, a legislação separa, em determinadas situações, a parte do terreno que não é considerada incorporada à construção. Segundo Sperb, essa parcela passa a receber o tratamento tributário aplicado a terreno não edificado. Nesse caso, a metragem não serve para aumentar a alíquota sobre todo o imóvel, mas para definir qual parte será tratada separadamente.\nA situação muda quando a metragem não serve apenas para identificar a parcela do terreno que será tributada separadamente, mas passa a interferir também no percentual ou na cobrança aplicada sobre ela. \nSegundo os especialistas, esse desenho pode aproximar determinadas regras da discussão enfrentada pelo STF, embora os modelos sejam diferentes entre si e não tenham sido analisados no caso de Chapecó. \n🔎 Vitória: em terrenos com pelo menos 300 metros quadrados, a parte que ultrapassa cinco vezes a área construída recebe alíquota própria de 0,60%. Nos imóveis não residenciais, o percentual é de 0,30% quando a área excedente for comprovadamente necessária ao desenvolvimento da atividade exercida no local, desde que atendidos os requisitos legais.\nAo g1, a prefeitura afirmou que o modelo é diferente do analisado pelo STF em Chapecó porque a metragem não aumenta a alíquota sobre o imóvel inteiro. \n“No caso da área excedente, trata-se de uma parcela específica do terreno que ultrapassa a proporção definida pela legislação, e não de uma alteração da alíquota incidente sobre a totalidade do imóvel em razão de sua metragem”, disse em nota. \nSegundo o município, essa parcela recebe tratamento tributário próprio. A administração informou ainda que acompanha os desdobramentos do Tema 1.455 e está levantando quantos imóveis são atingidos pela regra e os valores lançados e efetivamente arrecadados em 2025.\nGasparino, porém, identifica dois pontos que aproximam a regra da discussão: o limite mínimo de 300 metros quadrados para a incidência e a existência de uma alíquota exclusiva para a parcela excedente. “Nesses casos, a área passa a definir a alíquota, e não só a parcela do terreno sujeita à alíquota de terreno.”\n🔎 João Pessoa: quando o terreno supera cinco vezes a área construída, o imóvel continua sujeito ao IPTU principal e a parcela excedente recebe uma cobrança complementar. Diferentemente dos casos em que a sobra é reclassificada como terreno, a área excedente continua submetida à tributação predial e recebe um adicional. \nPara Sperb, isso enfraquece a justificativa de que a cobrança seria apenas uma tributação de terreno não edificado e aproxima o mecanismo do que o Tema 1.455 proibiu. “Há um adicional sobreposto à tributação predial.” \nO g1 procurou a prefeitura para comentar, mas não obteve resposta até a última atualização desta reportagem. \n🔎 Porto Alegre: a chamada “sobra de área de prédio” pode ser cadastrada separadamente quando, além de uma área mínima de 400 metros quadrados vinculada à edificação existente, resta uma parcela de pelo menos 300 metros quadrados que possa receber outra construção. Questionada, a prefeitura informou que a separação não depende apenas da metragem: também são consideradas a possibilidade de uso construtivo e a utilização efetiva daquela área.\nA legislação prevê situações em que essa sobra continua integrada ao prédio, incluindo determinadas áreas residenciais ocupadas por jardins, piscinas, áreas arborizadas e construções ornamentais, além de áreas necessárias e permanentemente utilizadas por estabelecimentos comerciais, industriais ou de serviços. Quando a parcela é individualizada, recebe uma inscrição imobiliária própria.\nA prefeitura argumenta que, por isso, o mecanismo difere daquele analisado pelo STF. \n“Em Porto Alegre, os critérios de área são empregados para identificar a existência de uma parcela territorial autônoma passível de cadastramento individualizado”, afirmou em nota.\nDepois de constituída essa unidade, segundo o município, a tributação segue as alíquotas territoriais previstas na legislação local, “estruturadas segundo valor venal e localização, e não uma alíquota definida em razão de sua metragem”.\nEssa característica converge com um ponto destacado pelos especialistas ouvidos pelo g1. \nPara Gasparino, quanto mais a parcela excedente funciona como uma unidade própria, com inscrição separada e possibilidade de receber uma construção independente, mais a cobrança se aproxima da tributação de um terreno distinto. \nSperb segue a mesma linha. “Em Porto Alegre, o gatilho da lei é a autonomia do terreno, não a proporção”, afirma.\nAo g1, a prefeitura informou que havia 44 inscrições classificadas como “sobra de área” em 2025. Juntas, elas renderam R$ 954.935,59 naquele ano em IPTU e Taxa de Coleta de Lixo (TCL).\n⚖️  Os mecanismos dessas capitais não foram objeto do julgamento do Tema 1.455. Os exemplos mostram que a metragem pode desempenhar diferentes funções na cobrança do IPTU e que a decisão tomada no caso de Chapecó não oferece, sozinha, uma resposta automática para todos esses modelos. \nPor que o ano 2000 importa?\nA data em que cada regra foi criada acrescenta uma camada à análise. Isso porque a própria tese fixada pelo STF faz um recorte temporal: ela considera inconstitucional a definição da alíquota pela área quando prevista por lei municipal posterior à Emenda Constitucional nº 29, de 2000.\nMas encontrar uma regra originalmente criada antes desse marco não encerra a discussão. É preciso verificar se o mecanismo foi mantido intacto ou se voltou a ser alterado depois.\nO próprio caso de Chapecó mostra por quê: uma lei de 1995 já previa a diferenciação pela metragem, mas ela foi revogada por outra, de 2018, que manteve a sistemática. O STF analisou a norma de 2018 como uma lei posterior à mudança constitucional.\n“Conta, portanto, a data da lei que dá a redação em vigor, e não a data em que o mecanismo surgiu”, Gasparino resume.\nPara regras que tenham permanecido efetivamente anteriores a 2000, a análise muda, mas isso não significa que elas sejam automaticamente válidas. \nNesse caso, entra em cena a jurisprudência do STF aplicável àquele período, que rejeitava a progressividade do IPTU pela área, mas admitia a diferenciação entre imóveis edificados e não edificados e entre residenciais e não residenciais.\nPor isso, segundo Sperb, nas regras antigas de “sobra de terreno” não basta olhar a data: é necessário saber se o mecanismo funciona como uma progressividade pela área ou como uma diferenciação entre a parcela edificada e a não edificada.\nO que acontece com quem já pagou? \nNos casos em que o critério de área for considerado inconstitucional, isso não significa necessariamente cancelar todo o IPTU cobrado.\n“O contribuinte discute só a diferença”, afirma Gasparino. \nNo próprio caso de Chapecó, a sentença mantida pelo STF determinou o recálculo pela alíquota de 0,5% e a devolução do que havia sido pago a mais.\nSperb segue a mesma linha. Segundo ela, deve ser preservada a cobrança calculada pelos critérios válidos, retirando-se apenas a parcela produzida pela regra considerada inconstitucional. A forma desse recálculo, porém, depende da legislação municipal e da estrutura do lançamento.\n“Para quem já pagou, a restituição em regra observa o prazo de cinco anos contado de cada pagamento”, diz Sperb, ressalvando que esse alcance ainda pode ser afetado por uma eventual modulação do STF.\nPara quem ainda não pagou, há possibilidade de contestar o lançamento administrativamente ou recorrer à Justiça. Sperb também ressalta que a via usada depende da situação concreta do contribuinte.\nO g1 procurou as prefeituras de Chapecó e Florianópolis para comentar o caso, mas não recebeu resposta até a última atualização desta reportagem. Os posicionamentos dos dois municípios citados no texto têm como base as manifestações apresentadas no processo.\nComo a metragem afeta o IPTU nas capitais?\nArte/g1",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 09 Oct 2026 08:00:00 -0000"
+    },
+    {
+      "id": "f91648e95e5c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bastidores: Reunião secreta de Moraes com a PF teve mais delegados e eleva desconfiança no STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-reuniao-secreta-de-moraes-com-a-pf-teve-mais-delegados-desconfianca-cresce-no-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 09 Oct 2026 18:15:34 +0000"
     },
     {
       "id": "8e91ce0b6a75",
@@ -730,25 +761,26 @@
         "Congresso"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 68,
+      "score": 73,
       "publishedRaw": "Sat, 10 Oct 2026 03:00:01 -0000"
     },
     {
-      "id": "a1fdae7ffd32",
+      "id": "c37510a206c3",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Quem é o prefeito de esquerda que protestou com os estudantes na França",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/quem-e-o-prefeito-de-esquerda-que-protestou-com-os-estudantes-na-franca.shtml",
-      "summary": "As imagens de Bally Bagayoko interpondo-se entre a polícia e manifestantes durante os protestos estudantis correram o mundo, confirmando a ascensão do prefeito de esquerda da principal cidade ao norte de Paris -uma região pobre- como uma figura de destaque na França.\nLeia mais (10/10/2026 - 06h00)",
+      "title": "O algoritmo das famílias",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-algoritmo-das-familias.shtml",
+      "summary": "Se há algo completamente fora de meu mundo, são as redes sociais. Não frequento nenhuma. Não tenho nem sequer celular. Mas minha alienação acerca deste admirável mundo novo digital não é tão grande a ponto de achar que, porque essas tecnologias não me afetam, não afetam o mundo. Há evidências, anedóticas e científicas, de que afetam.\nLeia mais (10/10/2026 - 14h30)",
       "tags": [
-        "esquerda"
+        "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "10 Oct 2026 06:00:00 -0300"
+      "publishedRaw": "10 Oct 2026 14:30:00 -0300"
     },
     {
       "id": "c823865ba531",
