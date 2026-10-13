@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:12:23.648031+00:00",
+  "generated_at": "2026-10-13T08:18:40.881633+00:00",
   "items": [
     {
       "id": "f45616ca08f7",
@@ -96,13 +96,13 @@
       "publishedRaw": "Mon, 12 Oct 2026 13:55:42 -0000"
     },
     {
-      "id": "2db78f14faa7",
-      "source": "Folha de São Paulo",
+      "id": "298d7af807c6",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Site da Ancine é invadido e exibe xingamentos a Lula e foto de Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/site-da-ancine-e-invadido-e-exibe-foto-de-flavio-bolsonaro-e-xingamentos-a-lula.shtml",
-      "summary": "O portal de um sistema da Ancine, a Agência Nacional de Cinema, sofreu uma invasão de hackers, nesta segunda (12), e exibiu, por cerca de uma hora, uma tela com xingamentos contra o presidente Lula (PT) e pessoas nordestinas. Como imagem de fundo, havia uma montagem com Flávio Bolsonaro (PL) fazendo sinal de arma com as mãos, a deputada federal Ju?lia Zanatta, também do Partido Liberal, com um chicote, e um mapa da região Nordeste em vermelho.\nLeia mais (10/12/2026 - 19h59)",
+      "title": "Mercado de capitais no agro: o que Flávio Bolsonaro e Lula propõem",
+      "link": "https://www.cnnbrasil.com.br/agro/mercado-de-capitais-no-agro-o-que-flavio-bolsonaro-e-lula-propoem/",
+      "summary": "Programa de Flávio Bolsonaro destaca securitização e reorganização de dívidas dos produtores, além de mecanismos privados para financiar infraestrutura; Lula prevê estimular títulos do agronegócio e diversificar fontes de crédito",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro",
@@ -110,13 +110,37 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "12 Oct 2026 19:59:00 -0300"
+      "publishedRaw": "Tue, 13 Oct 2026 07:30:05 +0000"
+    },
+    {
+      "id": "7a6bc6d0890c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que TSE mandou Flávio Bolsonaro apagar vídeo enganoso que associa uso de drogas a ato pró-Lula na Paulista",
+      "link": "https://www.bbc.com/portuguese/articles/c95yngxzd73no?at_medium=RSS&at_campaign=rss",
+      "summary": "Senador e candidato à Presidência compartilhou vídeo que mostra uma mulher supostamente usando drogas como se cena tivesse sido registrada em manifestação a favor de Lula; gravação foi feita em outro país e circulava na rede social antes do ato",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro",
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 94,
+      "publishedRaw": "Tue, 13 Oct 2026 01:52:49 GMT"
     },
     {
       "id": "59e07ebb4e0d",
@@ -165,17 +189,17 @@
       "publishedRaw": "Mon, 12 Oct 2026 08:16:33 GMT"
     },
     {
-      "id": "e15ccdee8bdf",
+      "id": "efbb6d1ad132",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda fórum de servidores apagar posts contra Flávio Bolsonaro",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-forum-de-servidores-apagar-posts-contra-flavio-bolsonaro/",
-      "summary": "Ministro vê no perfil do Fonasefe um canal de entidades sindicais, que não podem fazer propaganda eleitoral; decisão é liminar",
+      "title": "Flávio retoma visitas a Jair Bolsonaro e Lula faz anúncio para MEIs",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-retoma-visitas-a-jair-bolsonaro-e-lula-faz-anuncio-para-meis/",
+      "summary": "Previsão é de que Lula tenha compromissos presidenciais pela manhã; Flávio Bolsonaro deve encontrar o pai e cumprir agendas em São Paulo",
       "tags": [
         "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE"
+        "Jair Bolsonaro",
+        "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
@@ -185,7 +209,7 @@
         "Poder360"
       ],
       "score": 93,
-      "publishedRaw": "Mon, 12 Oct 2026 23:31:59 +0000"
+      "publishedRaw": "Tue, 13 Oct 2026 07:30:08 +0000"
     },
     {
       "id": "d4a3031caed0",
@@ -226,101 +250,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Wed, 07 Oct 2026 16:13:34 GMT"
-    },
-    {
-      "id": "3ea858565901",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Padilha entregará novas alas em hospital que era associado a Flávio Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/padilha-entregara-novas-alas-em-hospital-que-era-associado-a-flavio-bolsonaro.shtml",
-      "summary": "O governo Lula deve entregar nesta semana novas alas do Hospital Federal de Bonsucesso, no Rio de Janeiro.\nLeia mais (10/12/2026 - 21h00)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 92,
-      "publishedRaw": "12 Oct 2026 21:00:00 -0300"
-    },
-    {
-      "id": "b43bea4b736a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio comemora liberação para visitas a Jair Bolsonaro e diz que se encontrará com o pai nesta terça",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/flavio-nossa-senhora-aparecida.ghtml",
-      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, celebrou nesta segunda-feira (12) a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que libera visitas do senador ao pai, o ex-presidente Jair Bolsonaro. \nEle afirmou que, pelas regras definidas pela Justiça, não será possível visitar o pai nesta segunda por ser feriado, mas que nesta terça irá ao encontro do ex-presidente, que está preso em regime domiciliar por tentativa de golpe. \n\"Fiquei muito feliz que, no dia de Nossa Senhora Aparecida, é o dia que eu estou novamente autorizado a visitar o meu pai, vítima de uma injustiça. Hoje é só pra agradecer a Deus, agradecer a todo mundo que tá orando que tá rezando pelo nosso Brasil\", declarou Flávio. \nCondenado a 27 anos e 3 meses de prisão, Jair Bolsonaro cumpre a pena na sua casa, no Jardim Botânico, em Brasília. \n\"Estou ansioso, são mais de três meses sem poder vê-lo por uma decisão, obviamente, sem critério nenhum, nenhum amparo legal\", completou o candidato do PL, criticando a restrição que havia sido imposta pelo ministro do STF. \nMais cedo, nesta segunda, Moraes atendeu a um pedido da defesa do ex-presidente e autorizou a retomada de visitas de Flávio a Jair Bolsonaro, mas vetou a divulgação de manifestações do ex-presidente com finalidade político-eleitoral.\nMoraes autoriza visitas de Flávio a Jair, mas veta divulgação de manifestações políticas\nNossa Senhora no centro do debate político\nFlávio comentou a decisão de Moraes durante declaração à imprensa após participar de uma missa em homenagem à Nossa Senhora Aparecida, na Catedral de Brasília. \nEle estava acompanhado do candidato a vice, Alfredo Gaspar (PL); da esposa, Fernanda; da coordenadora da campanha na área econômica, Daniella Marques; e de parlamentares aliados, como o deputado eleito Izalci Lucas (PL-DF) e a senadora eleita Bia Kicis (PL-DF). \nNa última semana da campanha para o 1º turno das eleições de 2026, Nossa Senhora Aparecida foi alçada ao centro do debate político nacional.\nA circulação de publicações que atribuíram a Flávio Bolsonaro (PL) a intenção de retirar da Santa o título de Padroeira do Brasil – informação negada pelo candidato – provocou reações de adversários, da Conferência Nacional dos Bispos do Brasil (CNBB) e foi parar na Justiça.\n🔎A polêmica sobre a padroeira do Brasil começou após postagens associarem a Flávio Bolsonaro um projeto para tirar da Santa o título de Padroeira do Brasil.\n🔎Apoiadores de Lula (PT) passaram a explorar os posts politicamente e a disputa foi levada ao Tribunal Superior Eleitoral (TSE), que liberou publicações na web sobre o tema, desde que não associem o projeto ao candidato do PL.\nFlávio Bolsonaro após participar de missa em homenagem à Nossa Senhora Aparecida, na capital federal\nAfonso Ferreira/TV Globo",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Mon, 12 Oct 2026 15:28:24 -0000"
-    },
-    {
-      "id": "a1fa1b8b71d1",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/moraes-autoriza-retomada-de-visitas-de-flavio-ao-ex-presidente-jair-bolsonaro.ghtml",
-      "summary": "Moraes autoriza visitas de Flávio a Jair, mas veta divulgação de manifestações políticas\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (12) a retomada das visitas do candidato do PL à Presidência, Flávio Bolsonaro, ao pai, o ex-presidente Jair Bolsonaro. \nA decisão atende a um pedido da defesa de Jair Bolsonaro apresentado no dia 5 de outubro e ocorre após o fim do período de 90 dias de suspensão imposto em julho. Esse prazo de 90 dias se encerrou neste domingo (11). \nA proibição de visitas havia sido aplicada após Flávio utilizar uma visita para pegar uma carta do ex-presidente e divulgá-la nas redes sociais, descumprindo medidas cautelares impostas contra Jair Bolsonaro, que está preso em regime domiciliar por tentativa de golpe.\nA carta divulgada por Flávio, em julho, continha uma manifestação do ex-presidente em apoio a candidatura do filho. \nApesar de liberar o retorno das visitas, que devem seguir os mesmos horários e regras estabelecidos antes da suspensão, o ministro manteve a proibição de finalidade político-eleitoral e a divulgação de quaisquer manifestos ou declarações do ex-presidente, inclusive por terceiros.   \n\"Autorizo a retomada do regime de visitas de Flávio Nantes Bolsonaro, nos mesmos horários, condições e medidas de segurança anteriormente fixados, estando vedada a finalidade político-eleitoral e a divulgação de quaisquer manifestos ou declarações, inclusive por terceiros, independentemente do meio utilizado\", afirmou Moraes na decisão. \nFlávio Bolsonaro e Jair Bolsonaro \nAP Photo/Eraldo Peres\nNa decisão, Moraes determinou que o fim da proibição de visitas deve ser comunicado à Secretaria de Segurança Pública do Distrito Federal e ao diretor do Núcleo de Custódia da Polícia Militar do DF, que supervisionam a prisão do ex-presidente.\nPGR concordou com retomada de visitas\nEm parecer divulgado na semana passada, a Procuradoria-Geral da República não se opôs à retomada de visitas de Flávio. \n\"Considerando a ausência de fatos supervenientes indicativos de descumprimento das condições fixadas ou da necessidade de prorrogação da medida restritiva anteriormente determinada, a Procuradoria-Geral da República não opõe óbice ao deferimento do pleito formulado\", dizia trecho da manifestação da PGR.",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Mon, 12 Oct 2026 12:39:23 -0000"
-    },
-    {
-      "id": "d60b608c1112",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio comemora decisão de Moraes e diz que vai visitar Jair Bolsonaro nesta terça-feira",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-comemora-decisao-de-moraes-e-diz-que-vai-visitar-jair-bolsonaro-nesta-terca-feira/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Mon, 12 Oct 2026 17:20:28 +0000"
+      "publishedRaw": "Wed, 07 Oct 2026 16:13:34 GMT"
     },
     {
       "id": "6ebb6bddfa21",
@@ -346,50 +280,6 @@
       "publishedRaw": "Mon, 12 Oct 2026 19:08:47 GMT"
     },
     {
-      "id": "f5ca501c7412",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição",
-      "link": "https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prazo de suspensão, gerada após Jair Bolsonaro escrever carta de apoio à candidatura de Flávio à Presidência, expirou no domingo (11/10).",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Mon, 12 Oct 2026 14:02:47 GMT"
-    },
-    {
-      "id": "1c6a36eb03ba",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Milei e Eduardo Bolsonaro participam do mesmo evento nos EUA na 4ª",
-      "link": "https://www.poder360.com.br/poder-internacional/milei-e-eduardo-bolsonaro-participam-do-mesmo-evento-nos-eua-na-4a/",
-      "summary": "Presidente argentino e ex-deputado estarão na Hispanic Heritage Gala, que celebra as contribuições da comunidade hispânica nos Estados Unidos",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 91,
-      "publishedRaw": "Mon, 12 Oct 2026 22:08:21 +0000"
-    },
-    {
       "id": "65f93b67f684",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -412,6 +302,28 @@
       "publishedRaw": "Mon, 12 Oct 2026 17:00:00 +0000"
     },
     {
+      "id": "8bfef6a4bf39",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Tanto Lula quanto Flávio vão precisar do apoio de Gilmar Mendes no STF para governar, diz constitucionalista",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49my0vz49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Para Rubens Glezer, da FGV, é possível que Corte faça concessões ao futuro governo para evitar a cassação de ministros. Ele analisa as propostas de mudança no Supremo dos candidatos da direita e da esquerda.",
+      "tags": [
+        "STF",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Tue, 13 Oct 2026 07:44:10 GMT"
+    },
+    {
       "id": "7a6597707eb2",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -426,11 +338,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 88,
       "publishedRaw": "Mon, 12 Oct 2026 23:57:04 +0000"
     },
     {
@@ -448,11 +359,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
+      "score": 88,
       "publishedRaw": "Mon, 12 Oct 2026 23:59:26 +0000"
     },
     {
@@ -500,58 +410,13 @@
       "publishedRaw": "Mon, 12 Oct 2026 10:58:10 -0000"
     },
     {
-      "id": "4227dca48a39",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Com esse Congresso, quem traz mais risco: Flávio ou Lula?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/com-esse-congresso-quem-traz-mais-risco-flavio-ou-lula.shtml",
-      "summary": "O PT sempre acusou seus adversários de serem um risco à democracia e, não raro, fascistas. Serra, Alckmin, Marina; todos foram alvo. As acusações da militância petista carecem de credibilidade. Assim, o fato de acusarem Flávio não nos diz nada. Ao mesmo tempo, como o pai dele tentou um golpe de Estado, é relevante ao menos fazer a pergunta: Flávio traz um risco?\nLeia mais (10/12/2026 - 21h22)",
-      "tags": [
-        "Congresso",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "12 Oct 2026 21:22:00 -0300"
-    },
-    {
-      "id": "f9576ece24b0",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE manda Flávio e aliados removerem vídeo falso sobre uso de cocaína por menina em ato pró-Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml",
-      "summary": "O TSE (Tribunal Superior Eleitoral) determinou nesta segunda-feira (12) que o candidato à presidência Flávio Bolsonaro (PL) e aliados removam, em até 24 horas, publicações que utilizaram imagens descontextualizadas para associar participantes de uma manifestação em apoio ao presidente Lula (PT) ao consumo de drogas.\nLeia mais (10/12/2026 - 20h20)",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "12 Oct 2026 20:20:00 -0300"
-    },
-    {
-      "id": "6503bd2a9a9a",
+      "id": "e9b8c82be752",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda Flávio remover vídeo fake de consumo de drogas em ato pró-Lula",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-manda-flavio-remover-video-fake-de-consumo-de-drogas-em-ato-pro-lula/",
-      "summary": "Publicações de Flávio Bolsonaro, Nikolas Ferreira e Pablo Marçal associavam erroneamente uso de drogas a ato pró-Lula na Avenida Paulista e devem ser apagadas em 24 horas",
+      "title": "Kassio reúne campanhas de Flávio e Lula após decisões conflitantes no TSE",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/kassio-reune-campanhas-de-flavio-e-lula-apos-decisoes-conflitantes-no-tse/",
+      "summary": "Presidente da Corte deve explicar determinação sobre canal de Janones no WhatsApp, que o contrapôs ao corregedor e alimentou acusações de favorecimento a Flávio",
       "tags": [
         "TSE",
         "Lula"
@@ -564,7 +429,7 @@
         "Poder360"
       ],
       "score": 87,
-      "publishedRaw": "Mon, 12 Oct 2026 23:39:30 +0000"
+      "publishedRaw": "Tue, 13 Oct 2026 07:23:25 +0000"
     },
     {
       "id": "ae532b828bab",
@@ -677,6 +542,66 @@
       "publishedRaw": "Tue, 13 Oct 2026 00:07:01 +0000"
     },
     {
+      "id": "b43bea4b736a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio comemora liberação para visitas a Jair Bolsonaro e diz que se encontrará com o pai nesta terça",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/flavio-nossa-senhora-aparecida.ghtml",
+      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, celebrou nesta segunda-feira (12) a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que libera visitas do senador ao pai, o ex-presidente Jair Bolsonaro. \nEle afirmou que, pelas regras definidas pela Justiça, não será possível visitar o pai nesta segunda por ser feriado, mas que nesta terça irá ao encontro do ex-presidente, que está preso em regime domiciliar por tentativa de golpe. \n\"Fiquei muito feliz que, no dia de Nossa Senhora Aparecida, é o dia que eu estou novamente autorizado a visitar o meu pai, vítima de uma injustiça. Hoje é só pra agradecer a Deus, agradecer a todo mundo que tá orando que tá rezando pelo nosso Brasil\", declarou Flávio. \nCondenado a 27 anos e 3 meses de prisão, Jair Bolsonaro cumpre a pena na sua casa, no Jardim Botânico, em Brasília. \n\"Estou ansioso, são mais de três meses sem poder vê-lo por uma decisão, obviamente, sem critério nenhum, nenhum amparo legal\", completou o candidato do PL, criticando a restrição que havia sido imposta pelo ministro do STF. \nMais cedo, nesta segunda, Moraes atendeu a um pedido da defesa do ex-presidente e autorizou a retomada de visitas de Flávio a Jair Bolsonaro, mas vetou a divulgação de manifestações do ex-presidente com finalidade político-eleitoral.\nMoraes autoriza visitas de Flávio a Jair, mas veta divulgação de manifestações políticas\nNossa Senhora no centro do debate político\nFlávio comentou a decisão de Moraes durante declaração à imprensa após participar de uma missa em homenagem à Nossa Senhora Aparecida, na Catedral de Brasília. \nEle estava acompanhado do candidato a vice, Alfredo Gaspar (PL); da esposa, Fernanda; da coordenadora da campanha na área econômica, Daniella Marques; e de parlamentares aliados, como o deputado eleito Izalci Lucas (PL-DF) e a senadora eleita Bia Kicis (PL-DF). \nNa última semana da campanha para o 1º turno das eleições de 2026, Nossa Senhora Aparecida foi alçada ao centro do debate político nacional.\nA circulação de publicações que atribuíram a Flávio Bolsonaro (PL) a intenção de retirar da Santa o título de Padroeira do Brasil – informação negada pelo candidato – provocou reações de adversários, da Conferência Nacional dos Bispos do Brasil (CNBB) e foi parar na Justiça.\n🔎A polêmica sobre a padroeira do Brasil começou após postagens associarem a Flávio Bolsonaro um projeto para tirar da Santa o título de Padroeira do Brasil.\n🔎Apoiadores de Lula (PT) passaram a explorar os posts politicamente e a disputa foi levada ao Tribunal Superior Eleitoral (TSE), que liberou publicações na web sobre o tema, desde que não associem o projeto ao candidato do PL.\nFlávio Bolsonaro após participar de missa em homenagem à Nossa Senhora Aparecida, na capital federal\nAfonso Ferreira/TV Globo",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 86,
+      "publishedRaw": "Mon, 12 Oct 2026 15:28:24 -0000"
+    },
+    {
+      "id": "a1fa1b8b71d1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes autoriza retomada de visitas de Flávio ao ex-presidente Jair Bolsonaro",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/moraes-autoriza-retomada-de-visitas-de-flavio-ao-ex-presidente-jair-bolsonaro.ghtml",
+      "summary": "Moraes autoriza visitas de Flávio a Jair, mas veta divulgação de manifestações políticas\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (12) a retomada das visitas do candidato do PL à Presidência, Flávio Bolsonaro, ao pai, o ex-presidente Jair Bolsonaro. \nA decisão atende a um pedido da defesa de Jair Bolsonaro apresentado no dia 5 de outubro e ocorre após o fim do período de 90 dias de suspensão imposto em julho. Esse prazo de 90 dias se encerrou neste domingo (11). \nA proibição de visitas havia sido aplicada após Flávio utilizar uma visita para pegar uma carta do ex-presidente e divulgá-la nas redes sociais, descumprindo medidas cautelares impostas contra Jair Bolsonaro, que está preso em regime domiciliar por tentativa de golpe.\nA carta divulgada por Flávio, em julho, continha uma manifestação do ex-presidente em apoio a candidatura do filho. \nApesar de liberar o retorno das visitas, que devem seguir os mesmos horários e regras estabelecidos antes da suspensão, o ministro manteve a proibição de finalidade político-eleitoral e a divulgação de quaisquer manifestos ou declarações do ex-presidente, inclusive por terceiros.   \n\"Autorizo a retomada do regime de visitas de Flávio Nantes Bolsonaro, nos mesmos horários, condições e medidas de segurança anteriormente fixados, estando vedada a finalidade político-eleitoral e a divulgação de quaisquer manifestos ou declarações, inclusive por terceiros, independentemente do meio utilizado\", afirmou Moraes na decisão. \nFlávio Bolsonaro e Jair Bolsonaro \nAP Photo/Eraldo Peres\nNa decisão, Moraes determinou que o fim da proibição de visitas deve ser comunicado à Secretaria de Segurança Pública do Distrito Federal e ao diretor do Núcleo de Custódia da Polícia Militar do DF, que supervisionam a prisão do ex-presidente.\nPGR concordou com retomada de visitas\nEm parecer divulgado na semana passada, a Procuradoria-Geral da República não se opôs à retomada de visitas de Flávio. \n\"Considerando a ausência de fatos supervenientes indicativos de descumprimento das condições fixadas ou da necessidade de prorrogação da medida restritiva anteriormente determinada, a Procuradoria-Geral da República não opõe óbice ao deferimento do pleito formulado\", dizia trecho da manifestação da PGR.",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 86,
+      "publishedRaw": "Mon, 12 Oct 2026 12:39:23 -0000"
+    },
+    {
+      "id": "d60b608c1112",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio comemora decisão de Moraes e diz que vai visitar Jair Bolsonaro nesta terça-feira",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-comemora-decisao-de-moraes-e-diz-que-vai-visitar-jair-bolsonaro-nesta-terca-feira/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Mon, 12 Oct 2026 17:20:28 +0000"
+    },
+    {
       "id": "e7e9a11a8bfb",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -761,13 +686,13 @@
       "publishedRaw": "Mon, 12 Oct 2026 11:25:31 -0000"
     },
     {
-      "id": "ed466c3efaf7",
+      "id": "1aa621a2db74",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "'Imagens impressionam', diz leitora sorbre ato com a presença de Lula na avenida Paulista",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/imagens-impressionam-diz-leitora-sorbre-ato-com-a-presenca-de-lula-na-avenida-paulista.shtml",
-      "summary": "Eleições 2026\n\"Lula flerta com o fracasso porque nada aprendeu de 2022\" (Editorial, 10/10). Seu erro foi \"negar-se a compartilhar o poder e trancar-se em ignorâncias\", que o fizeram cego para a verdade democrática de que o poder é do povo e ao PT cabe obedecê-lo.\nPedro Portugal (Belo Horizonte, MG)\nLeia mais (10/12/2026 - 21h30)",
+      "title": "Lutador maranhense diz que vota em Lula para dar voz às minorias",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lutador-maranhense-diz-que-vota-em-lula-para-dar-voz-as-minorias.shtml",
+      "summary": "Homem, jovem, lutador de jiu-jítsu, motorista de aplicativo para complementar a renda, Daniel Silva tem características que à primeira vista poderiam identificá-lo como bolsonarista, seja por recortes de pesquisas ou por estereótipos. Mas esse professor de lutas nascido e criado em São Luís, no Maranhão, é esquerdista convicto.\nLeia mais (10/13/2026 - 04h00)",
       "tags": [
         "Lula"
       ],
@@ -779,37 +704,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "12 Oct 2026 21:30:00 -0300"
+      "publishedRaw": "13 Oct 2026 04:00:00 -0300"
     },
     {
-      "id": "bd0c8cd74347",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Kassio ajuda Flávio ou Lula?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/kassio-ajuda-flavio-ou-lula.shtml",
-      "summary": "Leia mais (10/12/2026 - 19h23)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "12 Oct 2026 19:23:00 -0300"
-    },
-    {
-      "id": "9c7c59b7039e",
+      "id": "17d20b61bb52",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Metrô: Ato pró-Lula deixou 8 vidros quebrados e 3 estações pichadas; fotos",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/metro-de-sp-divulga-novos-danos-em-estacoes-apos-manifestacao/",
-      "summary": "Três paradas da Linha 2-Verde pichadas e e oito placas de vidros foram danificadas durante ato político pró-Lula na Avenida Paulista, realizada no último domingo (11)",
+      "title": "Atos pró-Lula nas ruas são feito inédito do PT em anos, diz especialista",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/atos-pro-lula-nas-ruas-sao-feito-inedito-do-pt-em-anos-diz-especialista/",
+      "summary": "Alberto Carlos Almeida, sociólogo e cientista político avalia, ao WW, mobilizações na Avenida Paulista e em Copacabana e compara atos com as manifestações de 2013",
       "tags": [
         "Lula"
       ],
@@ -821,15 +725,15 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Mon, 12 Oct 2026 23:15:27 +0000"
+      "publishedRaw": "Tue, 13 Oct 2026 06:49:37 +0000"
     },
     {
-      "id": "674e8533f7a5",
+      "id": "0fc12e564fd1",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Apoiadores realizam ato pró-Lula em Copacabana sem a presença do presidente",
-      "link": "https://www.estadao.com.br/politica/eleicoes/apoiadores-realizam-ato-pro-lula-em-copacabana-sem-a-presenca-do-presidente/",
+      "title": "Site da Ancine sofre ataque hacker com mensagens contra Lula e ataques a nordestinos",
+      "link": "https://www.estadao.com.br/politica/eleicoes/site-da-ancine-sofre-ataque-hacker-com-mensagens-contra-lula-e-ataques-a-nordestinos/",
       "summary": "",
       "tags": [
         "Lula"
@@ -842,7 +746,7 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "Mon, 12 Oct 2026 22:49:34 +0000"
+      "publishedRaw": "Tue, 13 Oct 2026 01:37:24 +0000"
     },
     {
       "id": "9cda892ead38",
@@ -866,6 +770,27 @@
       "publishedRaw": "Mon, 12 Oct 2026 17:48:48 +0000"
     },
     {
+      "id": "674e8533f7a5",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Apoiadores realizam ato pró-Lula em Copacabana sem a presença do presidente",
+      "link": "https://www.estadao.com.br/politica/eleicoes/apoiadores-realizam-ato-pro-lula-em-copacabana-sem-a-presenca-do-presidente/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 12 Oct 2026 22:49:34 +0000"
+    },
+    {
       "id": "a17bf9da859f",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -887,6 +812,47 @@
       "publishedRaw": "Mon, 12 Oct 2026 17:33:45 +0000"
     },
     {
+      "id": "f5ca501c7412",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição",
+      "link": "https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prazo de suspensão, gerada após Jair Bolsonaro escrever carta de apoio à candidatura de Flávio à Presidência, expirou no domingo (11/10).",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Mon, 12 Oct 2026 14:02:47 GMT"
+    },
+    {
+      "id": "61ad8ded1a52",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Nunes Marques suspende jornal de sindicato favorável a Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/nunes-marques-suspende-jornal-de-sindicato-favoravel-a-lula/",
+      "summary": "Campanha de Flávio Bolsonaro alegou propaganda irregular; ordem atinge a versão digital e estabelece multa de R$ 10.000",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 13 Oct 2026 02:30:51 +0000"
+    },
+    {
       "id": "e62f017b43e4",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -900,7 +866,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -921,7 +886,6 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -929,64 +893,22 @@
       "publishedRaw": "Mon, 12 Oct 2026 21:00:00 +0000"
     },
     {
-      "id": "56c0f6d69c48",
+      "id": "be6d197bffa9",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda fórum sindical apagar posts contra Flávio",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-forum-sindical-apagar-posts-contra-flavio/",
-      "summary": "Bellizze vê propaganda eleitoral irregular em perfil institucional e dá 24 horas para retirada das publicações",
+      "title": "Deputados do PT pedem ao STF investigação de Nunes Marques",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques/",
+      "summary": "Rui Falcão e Rogério Correia citam mensagens e contratos ligados ao Master; ministro nega ter recebido dinheiro de Vorcaro",
       "tags": [
-        "TSE"
+        "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "Estadão"
       ],
-      "score": 82,
-      "publishedRaw": "Mon, 12 Oct 2026 23:43:43 +0000"
-    },
-    {
-      "id": "5d4e77ccbc0c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE diz que problema técnico deixou propaganda de Flávio sem som",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-diz-que-problema-tecnico-deixou-propaganda-de-flavio-sem-som/",
-      "summary": "Áudios das duas peças não foram carregados na finalização, mas falha foi corrigida antes da 2ª propaganda, de Lula, ir ao ar",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "Mon, 12 Oct 2026 22:36:48 +0000"
-    },
-    {
-      "id": "60cd563bd37b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ex-ministro espera julgamento de revisão criminal por tentativa de golpe após eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ex-ministro-espera-julgamento-de-revisao-criminal-por-tentativa-de-golpe-apos-eleicoes.shtml",
-      "summary": "A defesa do ex-ministro da Justiça Anderson Torres, preso por tentativa de golpe de Estado, espera que o ministro do STF (Supremo Tribunal Federal) Kassio Nunes Marques também coloque em julgamento o pedido dele de revisão criminal após as eleições.\n\nComo revelou a Folha, o ministro quer julgar a ação que pede a soltura de Jair Bolsonaro (PL) depois do segundo turno, independentemente do resultado. Nunes Marques também avalia conceder liberdade ao ex-presidente por meio de uma decisão liminar.\nLeia mais (10/12/2026 - 19h33)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 78,
-      "publishedRaw": "12 Oct 2026 19:33:00 -0300"
+      "score": 80,
+      "publishedRaw": "Tue, 13 Oct 2026 01:39:46 +0000"
     },
     {
       "id": "2e4a4135370a",
@@ -1000,10 +922,9 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Mundo"
       ],
-      "score": 78,
+      "score": 74,
       "publishedRaw": "Tue, 13 Oct 2026 00:22:32 +0000"
     },
     {
@@ -1018,46 +939,10 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 77,
+      "score": 72,
       "publishedRaw": "Mon, 12 Oct 2026 19:32:33 -0000"
-    },
-    {
-      "id": "2024ef5ed0e4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Morre Nelson Martins, pai do ministro do STF Cristiano Zanin",
-      "link": "https://www.poder360.com.br/poder-justica/morre-nelson-martins-pai-do-ministro-do-stf-cristiano-zanin/",
-      "summary": "Supremo divulgou nota em que expressa solidariedade ao magistrado; advogado tinha 90 anos",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Mon, 12 Oct 2026 23:35:42 +0000"
-    },
-    {
-      "id": "6789a2fc3f8c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Além do Planalto: como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/12/alem-do-planalto-como-a-eleicao-para-o-congresso-pode-afetar-impostos-empresas-e-dinheiro-publico.ghtml",
-      "summary": "Palácio do Congresso Nacional fica iluminado de amarelo, de 2 a 5 de agosto, em uma ação do Ministério da Saúde relacionada à Semana Mundial do Aleitamento Materno.\nCarlos Moura/Agência Senado\nNão é apenas a eleição presidencial que pode mexer na economia, no imposto pago pelas famílias, no custo das empresas para manter funcionários e no destino de bilhões de reais enviados a estados e municípios.\nOs deputados e senadores eleitos, que tomam posse em 1º de fevereiro de 2027, terão de lidar com decisões econômicas já previstas ou ainda pendentes. Em alguns casos, poderão mudar as regras. Em outros, a legislação atual produzirá efeitos mesmo sem uma nova votação.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nOs parlamentares chegarão ao Congresso no mesmo ano em que uma etapa importante da reforma tributária começará a funcionar. \nPoderão decidir também sobre o limite nacional do imposto sobre heranças, uma possível prorrogação da redução de impostos sobre a folha de salários e o destino das emendas parlamentares executadas em 2027.\nAgora no g1\nReforma começa mesmo se o Congresso não fizer nada\nQuem vencer a eleição presidencial terá influência sobre a forma como a reforma tributária será colocada em prática. \nO próximo governo poderá definir regras para o funcionamento do novo sistema tributário, propor mudanças ao Congresso e vetar projetos aprovados pelos parlamentares, explica o economista Haroldo da Silva, presidente do Conselho Regional de Economia do Estado de São Paulo (Corecon-SP). \nO chefe do Executivo, porém, não poderá suspender sozinho regras que já estão previstas na Constituição ou em leis complementares. É aí que entra o Legislativo.\n\"O Congresso de 2027 será particularmente importante porque herdará uma reforma já em funcionamento e passará a decidir quanto dela será preservado, corrigido ou recalibrado\", diz Silva.\nUma das possíveis mudanças já apareceu no debate eleitoral. Na quarta-feira (7), Daniella Marques, coordenadora do núcleo econômico e porta-voz da candidatura de Flávio Bolsonaro (PL), afirmou que um eventual governo do partido pretende acabar com o chamado \"split payment\".\n➡️ Previsto para se tornar obrigatório em 2028 nas operações entre empresas, o mecanismo separa automaticamente o valor dos impostos no momento do pagamento e o direciona ao poder público. Como foi instituído pela legislação da reforma tributária, seu fim não dependeria apenas de uma decisão do presidente: também exigiria a participação do Congresso.\nApesar das propostas de alteração, a reforma já tem um calendário de implementação definido pela Emenda Constitucional nº 132/2023 e detalhado pelas Leis Complementares nº 214/2025 e nº 227/2026. Na ausência de novas mudanças na legislação, as etapas previstas seguirão o cronograma atual.\n🗓️ Em 2027, começa a primeira substituição efetiva de impostos. A Contribuição sobre Bens e Serviços (CBS), cobrada pelo governo federal, substituirá o PIS e a Cofins. O Imposto sobre Bens e Serviços (IBS), administrado por estados e municípios, começará a ser cobrado com uma alíquota provisória de 0,1%.\n🗓️ A alíquota do Imposto sobre Produtos Industrializados (IPI) será zerada para a maior parte dos produtos, sem alteração das regras da Zona Franca de Manaus. A substituição do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) e do Imposto Sobre Serviços (ISS) pelo IBS começará em 2029 e avançará gradualmente até 2032. O novo sistema estará totalmente implantado em 2033.\nEsse calendário continuará avançando mesmo que os deputados e senadores eleitos não aprovem uma nova lei sobre a reforma em 2027. \nO Congresso, porém, ainda poderá decidir sobre pontos pendentes e participar das próximas etapas da mudança para o novo sistema. Tais decisões serão tomadas em um Parlamento em que setores econômicos organizados já contam com representantes e canais de negociação. \nFabio Andrade, cientista político, economista e professor de Relações Internacionais da ESPM, avalia que a eleição não deve alterar esse equilíbrio de forma brusca. Segundo ele, os grupos de parlamentares mais organizados tendem a conservar sua influência. \n“Mudanças políticas não acontecem de forma radical, elas sempre são mais lentas. Digo isso porque os principais grupos de interesse colocados devem permanecer”, afirma. \nDe acordo com o professor, os setores que participaram da discussão da reforma e já sabem defender seus interesses no Congresso chegarão à nova legislatura em melhor posição. Ele cita grupos de parlamentares ligados ao agronegócio e a segmentos tradicionais da indústria.\nEssa capacidade de negociação poderá pesar, por exemplo, se o novo Congresso tiver de analisar os vetos à Lei Complementar nº 227/2026, que reúne mudanças nos impostos cobrados de diferentes setores.\nImóveis, heranças, bebidas e futebol: o que pode mudar\nSancionada com 13 dispositivos vetados pelo presidente, a LC 227/2026 poderá voltar à pauta do Congresso em 2027, caso esses vetos não sejam analisados até o fim de 2026.\nNesse cenário, a decisão caberá aos deputados e senadores que tomarem posse em fevereiro. Os vetos não desaparecem com o fim da atual legislatura nem são aprovados ou rejeitados automaticamente com a passagem do tempo.\nJoão Henrique Gasparino, advogado especialista em impostos e diretor executivo da NimbusTax, explica que a derrubada de um veto exige pelo menos 257 votos na Câmara e 41 no Senado, contados separadamente. Se não houver votação, continuará valendo a lei sem os trechos rejeitados pelo presidente. \n“Mas dois pontos importam mais que a mecânica: veto não tem aprovação tácita, de modo que nunca ser pautado equivale materialmente a ser mantido; e vetos pendentes não decaem com o fim da legislatura, então o Congresso de 2027 herda os treze intactos.”\nUm desses trechos afeta quem compra um imóvel. \nO texto aprovado pelo Congresso permitia que municípios e o Distrito Federal oferecessem ao contribuinte a opção de pagar o Imposto sobre Transmissão de Bens Imóveis (ITBI) no momento da escritura, antes do registro da propriedade e, possivelmente, com uma alíquota menor. \nSe o veto for derrubado, o comprador poderá antecipar o pagamento do imposto.\nOutro trecho incluía determinados alimentos líquidos à base de vegetais entre os produtos que teriam redução de 60% nas alíquotas da CBS e do IBS. \n⚠️ A lei sancionada manteve o desconto para leite fermentado, bebidas e compostos lácteos, mas o veto retirou da redução os alimentos líquidos vegetais acrescentados pelo Congresso.\nTambém há vetos relacionados aos impostos cobrados das Sociedades Anônimas do Futebol (SAFs). Os trechos vetados poderiam ampliar os benefícios fiscais para o setor.\nEnquanto não houver votação, esses trechos permanecerão fora da lei. A questão continuará em aberto, porque a derrubada dos vetos poderá colocar em vigor o texto aprovado anteriormente pelo Congresso.\nAlém dos vetos, os senadores eleitos terão de tomar outra decisão com impacto sobre o patrimônio das famílias: definir o limite nacional do Imposto sobre Transmissão Causa Mortis e Doação (ITCMD), cobrado pelos estados sobre heranças e doações.\nA alíquota máxima permitida atualmente é de 8%. O Projeto de Resolução do Senado nº 57/2019, ainda em análise, propõe elevar esse limite para 16%. A decisão depende apenas do Senado, sem votação na Câmara nem sanção presidencial.\n💡  Isso não significa que o imposto pago por todas as famílias dobrará automaticamente. O Senado define apenas o limite máximo. Cada estado estabelece, por meio de lei própria, as alíquotas que cobrará e as faixas de patrimônio às quais elas serão aplicadas.\nGasparino acrescenta que, além do limite máximo, o valor final do imposto depende de outros três fatores: o valor atribuído ao patrimônio, a faixa em que a herança será enquadrada e as isenções concedidas por cada estado. \nPela regra de cobrança progressiva, as alíquotas devem aumentar de acordo com o valor da herança ou da doação. A definição das faixas, porém, continua dependendo de cada estado. \n🧮 Além do limite máximo, o valor final do imposto depende da base de cálculo, isto é, do valor do patrimônio usado na cobrança. A LC nº 227/2026 estabeleceu o valor de mercado como referência. Assim, o imposto pode aumentar nos estados que antes usavam um valor fiscal inferior ao preço de mercado, mesmo que a alíquota não mude.\n“Para quem herda um único imóvel de família, o teto é a variável menos relevante. Pesa muito mais a base de cálculo, que a LC 227 nacionalizou como valor de mercado — em Estados que praticavam valor venal de IPTU, isso dobra o imposto sem mexer em nenhuma alíquota”, afirma Gasparino. \nFolha de salários: Congresso terá de agir para impedir o aumento \nFora da reforma dos impostos sobre o consumo, outra decisão poderá afetar empresas, preços e trabalhadores: a possível prorrogação da desoneração da folha, que reduz os impostos cobrados sobre os salários pagos pelas empresas.\n🗓️ A Lei nº 14.973/2024 já determinou a retomada gradual da contribuição previdenciária paga pelas empresas de 17 setores que empregam muitos trabalhadores. Em 2027, essas empresas recolherão 15% sobre os salários e pagarão uma parcela reduzida da Contribuição Previdenciária sobre a Receita Bruta (CPRB), calculada sobre o faturamento. Em 2028, a CPRB será extinta e a contribuição sobre a folha voltará a 20%.\n“Não é preciso aprovar lei para acabar com a desoneração em 2028. É preciso aprovar lei se o Congresso quiser evitar o seu fim”, destaca Silva.\nDo ponto de vista legal, uma lei ordinária seria suficiente para mudar novamente o calendário. Na prática, porém, a prorrogação reduziria a arrecadação e exigiria o cálculo desse impacto, medidas para compensar a perda de receita e espaço no Orçamento de 2028.\nPor isso, embora a medida possa ser aprovada formalmente até o fim de 2027, a discussão teria de avançar durante a elaboração do Orçamento do ano seguinte. \nGasparino avalia que, na prática, a decisão precisaria ser tomada em outubro ou novembro, para que a perda de arrecadação fosse incluída na proposta orçamentária.\n“O impacto depende da relação entre faturamento e folha de salários de cada companhia. Encarecer o fator trabalho tende a ser mais problemático justamente nos setores intensivos em mão de obra, como têxtil e confecção, tecnologia, call centers, transportes e construção.\"\nAs empresas poderão absorver parte do aumento, repassar outra parte aos preços ou reduzir contratações. Não é possível, porém, calcular antecipadamente um número preciso de demissões.\nParlamentares eleitos decidirão o destino de bilhões em emendas\nO Congresso atual foi responsável por votar o Orçamento de 2027 e definir o valor reservado às emendas parlamentares. \nMas caberá aos deputados e senadores que assumirem em fevereiro indicar o destino das emendas individuais e participar das decisões tomadas pelos grupos de parlamentares de cada estado e pelas comissões.\nO Projeto de Lei Orçamentária Anual (PLOA) de 2027 reservou R$ 44,8 bilhões para emendas individuais e de bancada. O valor não inclui uma reserva específica para as emendas apresentadas pelas comissões do Congresso, que poderá ser acrescentada durante a análise do projeto.\nPlenário da Câmara dos Deputados\nKayo Magalhães / Câmara dos Deputados\n📌  A decisão pode parecer distante da rotina das famílias, mas define se o dinheiro será destinado, por exemplo, a hospitais, obras viárias, máquinas agrícolas, equipamentos públicos ou repasses a estados e municípios.\nO impacto econômico ocorre porque esse valor sai da parcela do Orçamento destinada às despesas que o governo pode escolher como executar. É desse mesmo espaço que saem recursos para investimentos, manutenção de universidades, infraestrutura, fiscalização, ciência e tecnologia.\n“Se o total da despesa está limitado pelas regras fiscais, cada R$ 1 bilhão adicional destinado a emendas reduz em R$ 1 bilhão o espaço disponível para outras despesas discricionárias”, diz Silva. “Não há mágica aritmética aqui.”\nIsso não significa que as emendas sejam necessariamente improdutivas. Elas podem financiar ações com retorno para a sociedade. A questão é comparar o destino escolhido pelo parlamentar com a política pública ou o investimento que perderá espaço no Orçamento.\nAndrade avalia que, desde a criação do mecanismo que ficou conhecido como orçamento secreto, o Congresso ganhou mais autonomia para indicar o destino dos recursos. \nCom isso, o governo federal perdeu parte significativa de sua capacidade de negociar apoio político por meio da distribuição de verbas do Orçamento.\nSegundo ele, muitas vezes resta ao governo negociar a ocupação de cargos considerados importantes e que oferecem acesso mais estratégico aos recursos. \n“Talvez a principal moeda do Congresso sejam as negociações no que tange à composição do núcleo que vai ser responsável pela gestão dos recursos com o IBS e a CBS. Essa pode ser uma moeda de troca até mais poderosa do que efetivamente a dotação orçamentária.\"\nNegociações com o Congresso começam antes da posse\nO resultado das eleições pode influenciar decisões antes mesmo da posse, já que o governo eleito pode negociar com os partidos que integram o atual Congresso.\nUm exemplo é a Medida Provisória (MP) nº 1.394/2026, editada pelo governo de Luiz Inácio Lula da Silva (PT), que proibiu as plataformas de apostas. A medida está em vigor desde 25 de setembro, mas precisa ser aprovada pela Câmara e pelo Senado para se tornar lei em caráter definitivo. \n🎰 A MP proibiu apostas esportivas e jogos on-line, determinou o fim das autorizações existentes e estabeleceu regras para a devolução do dinheiro dos apostadores mantido nas plataformas. Ao mesmo tempo, o governo enviou um projeto de lei para definir crimes e penas relacionados à operação, à publicidade e à movimentação financeira desse mercado. Isso porque medidas provisórias não podem estabelecer regras de natureza penal.\nSegundo o calendário divulgado pelo Congresso, a análise está prevista para ocorrer até 23 de novembro de 2026. Portanto, caberá à atual legislatura votar a medida. \nAinda assim, o próximo governo poderá participar das negociações. A aprovação, a alteração ou a rejeição da medida depende das lideranças partidárias, que também atuarão na formação da futura base governista ou da oposição.",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 73,
-      "publishedRaw": "Mon, 12 Oct 2026 08:00:00 -0000"
     },
     {
       "id": "6789a2fc3f8c",
@@ -1071,41 +956,40 @@
         "Congresso"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo"
+        "BBC Brasil"
       ],
-      "score": 68,
+      "score": 63,
       "publishedRaw": "Mon, 12 Oct 2026 08:00:00 -0000"
     },
     {
-      "id": "bd439cb24b22",
+      "id": "35811335ab3a",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Nunes Marques insiste em censura pró-Flávio",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/nunes-marques-insiste-em-censura-pro-flavio.shtml",
-      "summary": "O ministro Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral, investe novamente em censura, prejudicando ainda mais a credibilidade do Judiciário.\nLeia mais (10/12/2026 - 22h00)",
+      "title": "Atraso de cirurgia por 'falta de esterilização' no Hospital do Servidor de SP expõe idosa a sequela, diz família",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/atraso-de-cirurgia-por-falta-de-esterilizacao-no-hospital-do-servidor-de-sp-expoe-idosa-a-sequela-diz-familia.shtml",
+      "summary": "Familiares de uma idosa de 74 anos afirmam que ela teve de esperar uma semana para fazer uma cirurgia no Hospital do Servidor Público Estadual de São Paulo, na capital paulista, após sofrer uma queda que provocou um traumatismo cranioencefálico e uma lesão na medula, no dia 26 de setembro.\nLeia mais (10/13/2026 - 04h00)",
       "tags": [
-        "censura"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "12 Oct 2026 22:00:00 -0300"
-    },
-    {
-      "id": "c25cfb81149d",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Concentração de votos impede efetividade de 'puxadores de voto' do PSOL e coloca em xeque estratégia eleitoral da esquerda",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/12/concentracao-de-votos-impede-efetividade-de-puxadores-de-voto-do-psol-e-coloca-em-xeque-estrategia-eleitoral-da-esquerda.ghtml",
-      "summary": "A federação Psol/Rede ultrapassou o percentual nacional de votos necessário, mas atingiu o mínimo estadual em apenas oito estados.\nDivulgação / Câmara dos Deputados\nEstratégica para partidos, a eleição na Câmara dos Deputados terminou com uma frustração para o PSOL. Apesar de ter \"puxadores de voto\" importantes, a sigla de esquerda perdeu vagas na disputa para deputado federal e acabou sem acesso a dinheiro público para manter o partido. \nNomes como Erika Hilton (SP), Sâmia Bomfim (SP) e Jones Manoel (PE) angariaram uma votação significativa em seus estados. Mas, não conseguiram levar colegas do partido para a Câmara, já que os outros candidatos não tiveram votos suficientes para atingir o patamar mínimo e conseguir se eleger. \nCom isso, o PSOL é um dos partidos que não alcançou a cláusula de barreira.\n🔎A cláusula de barreira limita o acesso de partidos ao Fundo Partidário e à propaganda gratuita na TV e rádio se a sigla não conseguir eleger 13 deputados distribuídos por nove estados ou 2,5% dos votos para a Câmara em nove estados, com um mínimo de 1,5% em cada estado. \nSem chegar a esses critérios, o partido perde acesso ao fundo partidário — dinheiro público repassado aos partidos para mantê-los — e ao tempo de rádio e TV. Ou seja, limita a existência e o crescimento do partido. \nNikolas Ferreira e Lucas Pavanato batem recorde na disputa para deputado federal; confira\nA performance do PSOL contrasta com a do PL. Minas Gerais, por exemplo, a quantidade expressiva de votos de Nikolas Ferreira fez com que o partido conquistasse 21 vagas no estado, levando à Câmara até mesmo candidatos sem votação expressiva. \nIsso porque, ainda que com uma grande quantidade de votos concentrada em Nikolas, os outros candidatos ainda tiveram votações suficientes para atingir o mínimo necessário no estado. O mesmo não aconteceu no PSOL.\nUma das deputadas que concentrou os votos em São Paulo, Sâmia Bomfim (PSOL) afirma que é difícil traçar estratégias para atrair votos que são motivados por opinião mais do que por qualquer outro elemento. \n\"É muito difícil calcular quantos votos um candidato terá quando não é eleição por máquina, território ou aparato\", disse a deputada reeleita. \nEstratégias eleitorais \nPara o professor de ciência política da UnB Frederico Bertholini, o resultado da Câmara mostra uma melhor organização do Partido Liberal para as eleições proporcionais.  \nUm exemplo desses fenômenos foi o Distrito Federal, em que o deputado do PSOL Fábio Felix foi o candidato mais votado para a Câmara, mas ficou sem colegas de partido eleitos. \n“Para o político, é um resultado pessoal muito legal, mas é uma vitória parcial que indica uma necessidade de planejamento”, pontua.  \nEm um dos vídeos do deputado distrital, ele pergunta para apoiadores nas ruas quantos votos ele precisa para ser eleito. A resposta do então candidato é “mais de 150 mil”. Ele comenta ainda que algumas pessoas cravaram que ele estava com a vitória certa, mas que nada estava ganho. “Por isso eu não posso abrir mão de nenhum voto”, afirmou.     \nEsse número, no entanto, diz respeito ao número de votos que a legenda precisaria. É o chamado quociente eleitoral.    \nPara atingir o quociente eleitoral, a Federação PSOL/Rede, da qual o deputado faz parte, deveria alcançar 207.382 votos — o que equivale a todos os votos válidos divididos entre as oito vagas.    \nFábio Felix atingiu sozinho o que todo o partido precisaria atingir em conjunto, mas a falta de distribuição desses votos fez com que ele não conseguisse puxar ninguém. \nFederação com o PT \nUma das alternativas apontadas por especialistas seria a federação do PSOL com partidos aliados, como o PT. A alternativa foi rejeitada em março pelos psolistas com o argumento de manter a independência da sigla.\n➡️As federações partidárias unem duas ou mais siglas por, no mínimo, quatro anos. Pelas regras, as legendas passam a atuar como uma só — o que significa que, nos cálculos de distribuição de recursos, os desempenhos são somados – tanto em eleições como no Congresso Nacional.  \nCom menos votos que o PSOL, a Federação Brasil da Esperança (PT, PV e PCdoB) conseguiu emplacar duas candidaturas no Distrito Federal por conta da distribuição mais equilibrada do número de votos. \nLEIA TAMBÉM\nCom Lula, candidato ao governo do DF Leandro Grass faz ato em Ceilândia: 'Vamos virar essa eleição'\nNo DF, a federação não faria diferença no número de eleitos. Em São Paulo, por outro lado, ajudaria puxar mais duas candidaturas.  \nMesmo sem uma diferença expressiva, a federação ajudaria o PSOL a atingir a cláusula de barreira, que estabelece a eleição de deputados em pelo menos nove unidades da federação.  \nA pedido do g1, o professor Frederico Bertholini calculou o cenário das duas unidades da federação: \n➡️Cenário no DF: A federação ampliada somaria 476.592 votos. Dessa forma, o quociente partidário elegeria os mesmos dois deputados, Fábio Felix e Agnelo Queiroz. Na distribuição das sobras, ela ganharia uma vaga por média com Reginaldo Veras.  \n➡️Cenário em São Paulo: A união ajudaria os partidos a conquistarem mais duas cadeiras. O resultado, no entanto, iria desfavorecer uma das candidatas do PSOL. A projeção aponta que Paulo Teixeira e Reis, ambos do PT, entrariam no lugar de Maria Rosas (Republicanos) e Carlos Bezerra Jr. (PSD), respectivamente. Outra troca aconteceria entre candidatos da mesma federação. Rui Falcão (PT) entraria no lugar de Sônia Guajajara (PSOL), mantendo o número de vagas da federação.  \nJudicialização \nPara tentar retomar o acesso ao fundo partidário, o PSOL foi à Justiça. Uma aposta é conseguir que o Tribunal Superior Eleitoral (TSE) faça retotalização dos votos no Espírito Santo. Assim, o partido teria votos suficientes em nove estados para cumprir a cláusula de barreira. \nA federação ultrapassou o percentual nacional necessário, mas atingiu o mínimo estadual em apenas oito estados. No Espírito Santo, ficou a 185 votos do patamar calculado sobre o total de votos válidos apurados.\nO argumento sobre o Espírito Santo é de que houve candidaturas laranjas no estado. O g1 entrou em contato com o partido, mas não teve resposta sobre quais elementos o partido considera indicadores de candidatos que não estavam realmente concorrendo. O espaço segue aberto. \nAinda assim, o partido afirma que contesta que não tenha conseguido alcançar a cláusula de barreira. \"Vamos lutar para provar na Justiça que algumas dezenas de votos não são justificáveis para retirar os direitos de funcionamento de dois dos principais partidos da política brasileira\", diz o PSOL em nota. \nA nova composição da Câmara dos Deputados e do Senado\nEstratégias de campanha  \nAs estratégias de campanha, centradas em uma figura forte, e os repasses partidários para os candidatos explicam parte da dificuldade do PSOL – e de outros partidos da esquerda, como o PDT, que também não conseguiu ultrapassar a cláusula de barreira.   \nEm Brasília, Fábio Felix recebeu quase R$ 2,3 milhões para a candidatura, mais de 90% desse valor vindos das direções nacional e estadual do PSOL. Já Enfermeira Karine (PSOL), segunda mais votada da coligação, com apenas 4,3 mil votos, recebeu cerca de R$ 340 mil do partido.   \nO diretor de marketing Fabio Eloi destaca que esse não é um caso isolado do partido. \n“Os partidos concentraram os investimentos nesses supostos puxadores de votos, acreditando que os candidatos menos relevantes atingiriam quantidade de votos suficientes para superar o quociente, e isso não se concretizou”, explica.  \nJá em São Paulo, a recordista de votos do partido, Erika Hilton, criticou a falta de estratégia em entrevista à Globonews. A votação recorde de mais de 1,5 milhão de votos, seguida dos mais de 500 mil para Sâmia Bonfim, garantiria nove cadeiras para a legenda. O partido, no entanto, só conseguiu preencher seis, já que outros candidatos não atingiram a votação mínima.  \nA dificuldade, explica o especialista, aparece principalmente em legendas de esquerda. Segundo Eloi, há uma sensação de mais candidatos na direita com base de votos, ainda que não tão expressivos. \nSâmia Bomfim tem uma avaliação similar sobre nomes do PSOL. Para ela,  o partido tem novos quadros, mas ainda sem uma base de eleitores firme para participar de forma significativa da distribuição de votos.\n\"Novas lideranças que atuam no partido têm se destacado, inclusive mais que figuras históricas de partidos mais tradicionais. Outras surgirão e ganharão força aos poucos\", disse a deputada. \nA concentração de investimentos em candidaturas fortes ajuda a entender o menor número de cadeiras, mas não é o único fator que contribui para o quadro. Um ponto central, segundo Eloi, é o domínio das redes sociais. \n\"Quando a gente olha para os candidatos puxadores de voto, essas pessoas são muito presentes nas redes sociais, com público muito bem estabelecido e que dominam a linguagem\", explica. \"Não basta você ter presença nas redes sociais, é preciso estar lá na linguagem que o consumidor dessas plataformas compreende\".  \nPara o especialista, o PSOL sofre com a falta de investimentos em candidatos com menos expressão, enquanto o PT passa por uma dificuldade de se comunicar nas redes, parte disso devido ao envelhecimento dos partidários.  \nA regionalidade é outro fenômeno que garante a distribuição dos votos no PL: prefeitos e vereadores são cabos eleitorais que dão visibilidade para os candidatos em duas cidades e territórios. Em 2024, o PL conquistou 16 cidades entre as com mais habitantes no Brasil.",
-      "tags": [
-        "esquerda"
+        "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Mon, 12 Oct 2026 07:00:00 -0000"
+      "publishedRaw": "13 Oct 2026 04:00:00 -0300"
+    },
+    {
+      "id": "a931fe0a4595",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veja simulações que ajudam empresa do Simples a escolher regime para reforma tributária",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/veja-simulacoes-que-ajudam-empresa-do-simples-a-escolher-regime-para-reforma-tributaria.shtml",
+      "summary": "Para ajudar as micro e pequenas empresas do Simples Nacional a avaliar qual a melhor opção de regime diante da entrada em vigor da reforma tributária, em janeiro, a Folha coletou simulações feitas por especialistas no tema. O prazo para fazer a escolha termina no dia 30 de outubro.\nLeia mais (10/13/2026 - 04h00)",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "13 Oct 2026 04:00:00 -0300"
     }
   ]
 }
