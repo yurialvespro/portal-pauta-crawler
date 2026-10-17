@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:11:35.140421+00:00",
+  "generated_at": "2026-10-17T21:39:36.179202+00:00",
   "items": [
     {
       "id": "fdc413c80e62",
@@ -18,8 +18,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 96,
       "publishedRaw": "Sat, 17 Oct 2026 01:44:47 -0000"
@@ -94,30 +94,6 @@
       "publishedRaw": "Sat, 17 Oct 2026 07:00:00 -0000"
     },
     {
-      "id": "03fbff11c52b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro cobra Meta no TSE e também se diz prejudicado após restrições contra Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-cobra-meta-no-tse-e-tambem-se-diz-prejudicado-apos-restricoes-contra-lula.shtml",
-      "summary": "A campanha de Flávio Bolsonaro (PL), candidato à Presidência, ingressou com uma manifestação no TSE (Tribunal Superior Eleitoral) nesta sexta-feira (16), na qual acusa a Meta de ser negligente e de permitir a proliferação do impulsionamento de anúncios negativos contra ele, prática vedada pela Justiça Eleitoral.\nLeia mais (10/17/2026 - 14h56)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "17 Oct 2026 14:56:00 -0300"
-    },
-    {
       "id": "7284b8778b1e",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -164,29 +140,6 @@
       "publishedRaw": "Fri, 16 Oct 2026 21:16:12 +0000"
     },
     {
-      "id": "b276dc042630",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Sabatina de Flávio Bolsonaro na Globo tem panelaço pelo Brasil organizado por aliados de Lula; veja",
-      "link": "https://www.estadao.com.br/politica/eleicoes/sabatina-de-flavio-bolsonaro-na-globo-tem-panelaco-pelo-brasil-organizado-por-aliados-de-lula-veja/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 94,
-      "publishedRaw": "Sat, 17 Oct 2026 01:17:29 +0000"
-    },
-    {
       "id": "4b71b1aa26d8",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -208,29 +161,6 @@
       ],
       "score": 94,
       "publishedRaw": "Sat, 17 Oct 2026 15:33:57 GMT"
-    },
-    {
-      "id": "0df29a514c50",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministro do TSE rejeita pedido de Flávio Bolsonaro para restringir manifestações em universidades",
-      "link": "https://www.estadao.com.br/politica/eleicoes/ministro-do-tse-rejeita-pedido-de-flavio-bolsonaro-para-restringir-manifestacoes-em-universidades-nprp/",
-      "summary": "Na decisão, o ministro não vê fundamentação suficiente para imposição de intervenções",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "TSE"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Sat, 17 Oct 2026 01:20:53 +0000"
     },
     {
       "id": "ec3dd3d18cb0",
@@ -270,7 +200,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Sat, 17 Oct 2026 02:45:28 -0000"
@@ -290,7 +220,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Sat, 17 Oct 2026 02:03:36 -0000"
@@ -310,52 +240,93 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 87,
       "publishedRaw": "Sat, 17 Oct 2026 01:20:53 -0000"
     },
     {
-      "id": "2eb84f000562",
-      "source": "CNN Brasil",
+      "id": "08bb11131dc6",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE mantém vídeo de Lula que chama Flávio de “mentiroso Master”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-mantem-video-de-lula-que-chama-flavio-de-mentiroso-master/",
-      "summary": "Ministra Estela Aranha entendeu que peça se apoia em reportagens e em checagem da agência Aos Fatos e que não houve distorção das falas do candidato do PL",
+      "title": "Novo diz que campanha de Lula faz ‘showmícios’ e pede produção de provas ao TSE",
+      "link": "https://www.estadao.com.br/politica/eleicoes/novo-diz-que-campanha-de-lula-faz-showmicios-e-pede-producao-de-provas-ao-tse/",
+      "summary": "",
       "tags": [
         "TSE",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 87,
-      "publishedRaw": "Sat, 17 Oct 2026 17:43:22 +0000"
+      "publishedRaw": "Sat, 17 Oct 2026 19:13:44 +0000"
     },
     {
-      "id": "5955cc129b1c",
+      "id": "0df29a514c50",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Dark Horse: Delator relata fraude em pagamento a fundo ligado a Eduardo Bolsonaro nos EUA",
-      "link": "https://www.estadao.com.br/politica/dark-horse-delator-relata-fraude-em-pagamento-a-fundo-ligado-a-eduardo-bolsonaro-nos-eua/",
-      "summary": "",
+      "title": "Ministro do TSE rejeita pedido de Flávio Bolsonaro para restringir manifestações em universidades",
+      "link": "https://www.estadao.com.br/politica/eleicoes/ministro-do-tse-rejeita-pedido-de-flavio-bolsonaro-para-restringir-manifestacoes-em-universidades-nprp/",
+      "summary": "Na decisão, o ministro não vê fundamentação suficiente para imposição de intervenções",
       "tags": [
         "Bolsonaro",
-        "Eduardo Bolsonaro"
+        "Flávio Bolsonaro",
+        "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 17 Oct 2026 01:20:53 +0000"
+    },
+    {
+      "id": "8e48481c2d25",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Favela e prédios contrastam em panelaço contra Flávio Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/favela-e-predios-contrastam-em-panelaco-contra-flavio-bolsonaro/",
+      "summary": "Vídeo mostra diferença em protesto contra o candidato do PL entre edifícios e comunidade vizinha em Salvador (BA)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
+      "score": 87,
+      "publishedRaw": "Sat, 17 Oct 2026 19:34:10 +0000"
+    },
+    {
+      "id": "224286765d8c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml",
+      "summary": "Urna no Colégio Estadual Monsenhor em São José do Rio Preto (SP)\nHenrique Souza/g1\nAs eleições de 2026 definiram os governadores de 20 unidades da federação ainda no primeiro turno. \nNos demais estados e no Distrito Federal, a escolha do governador ficará para o segundo turno, que acontece neste domingo (25).\nQue estados terão segundo turno para governador?\nSeis estados e o Distrito Federal terão disuta em 2º turno. São eles:\nEspírito Santo: Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) vão disputar o 2º turno\nAmazonas: Omar Aziz (PSD) e Professora Maria Do Carmo (PL) vão disputar o 2º turno\nRio Grande do Norte: Allyson (União) e Cadu De Lula (PT) vão disputar o 2º turno\nAcre: Mailza Assis (Progressistas) e Alan Rick (Republicanos) vão disputar o 2º turno\nTocantins: Professora Dorinha (União) e Vicentinho Júnior (PSDB) vão disputar o 2º turno\nDistrito Federal: Celina Leão (Progressistas) e Leandro Grass (PT) vão disputar o 2º turno\nQue estados já elegeram governadores no primeiro turno e quem são?\nVinte estados já elegeram seus governadores no 1º turno. São eles:\nAmapá: Dr. Furlan (PSD) foi eleito com 62,75% dos votos válidos\nAlagoas: JHC (PSDB) foi eleito com 52,20% dos votos válidos\nBahia: Jerônimo Rodrigues (PT) foi reeleito com 55,19% dos votos válidos\nCeará: Elmano de Freitas (PT) foi reeleito com 53,19% dos votos válidos\nGoiás: Daniel Vilela (MDB) foi eleito com 59,17% dos votos válidos\nMinas Gerais: Cleitinho Azevedo (Republicanos) foi eleito com 55,34% dos votos válidos\nMaranhão: Eduardo Braide (PSD) foi eleito com 56,86% dos votos válidos\nMato Grosso do Sul: Eduardo Riedel (Progressistas) foi reeleito com 67,07% dos votos válidos\nMato Grosso: Otaviano Pivetta (Republicanos) foi eleito com 60,77% dos votos válidos\nParaná: Sergio Moro (PL) foi eleito com 50,10% dos votos válidos\nPernambuco: Raquel Lyra (PSD) foi reeleita com 53,27% dos votos válidos\nPará: Dr. Daniel (Podemos) foi eleito com 51,36% dos votos válidos\nParaíba: Lucas Ribeiro (Progressistas) foi eleito com 64,30% dos votos válidos\nPiauí: Rafael Fonteles (PT) foi reeleito com 70,90% dos votos válidos\nRoraima: Arthur Henrique (PL) foi eleito com 69,13% dos votos válidos\nRondônia: Marcos Rogério (PL) foi eleito com 56,86% dos votos válidos\nRio Grande do Sul: Zucco (PL) foi eleito com 58,05% dos votos válidos\nRio de Janeiro:  Rio de Janeiro  foi eleito com 50,88% dos votos válidos\nSergipe: Fábio Mitidieri (PSD) foi reeleito com 59,27% dos votos válidos\nSanta Catarina: Jorginho Mello (PL) foi reeleito com 68,98% dos votos válidos\nSão Paulo: Tarcísio de Freitas (Republicanos) foi reeleito com 62,65% dos votos válidos\nVeja a evolução do número de governadores eleitos no primeiro turno desde 1994:\n2026: 20 governadores\n2022: 15 governadores\n2018: 13 governadores\n2014: 14 governadores\n2010: 18 governadores\n2006: 17 governadores\n2002: 13 governadores\n1998: 14 governadores\n1994: 9 governadores\nO que mudou em relação a 2022\nA comparação com o último pleito mostra mudanças relevantes no comando dos estados.\nNas eleições de 2022, 15 unidades da federação definiram seus governadores ainda no primeiro turno. \nO cenário de 2026 foi mais favorável às vitórias em primeiro turno do que o observado quatro anos atrás. Entre os estados que já definiram seus governadores estão importantes colégios eleitorais, como São Paulo, Minas Gerais, Bahia, Paraná, Pernambuco, Rio Grande do Sul e Ceará.\nVeja os resultados completos das eleições\nO g1 reúne em uma página especial os resultados oficiais das eleições de 2026 em todo o país. Com dados do Tribunal Superior Eleitoral (TSE), os leitores podem consultar como ficou a votação para presidente da República, governadores, senadores, deputados federais e deputados estaduais e distritais em cada estado brasileiro.\nA ferramenta também permite verificar o desempenho dos candidatos por unidade federativa e acessar mapas e painéis com os números consolidados da votação em todo o país.\n➡️ Confira a página especial de resultados do g1.\nVEJA TAMBÉM\nGuia do Eleitor: Como justificar ausência nas eleições?",
+      "tags": [
+        "eleições",
+        "eleições 2026"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
       "score": 86,
-      "publishedRaw": "Fri, 16 Oct 2026 22:31:00 +0000"
+      "publishedRaw": "Sat, 17 Oct 2026 03:00:00 -0000"
     },
     {
       "id": "c23498b4b832",
@@ -421,13 +392,13 @@
       "publishedRaw": "Sat, 17 Oct 2026 03:00:00 -0000"
     },
     {
-      "id": "3aa57e7a6124",
+      "id": "5abc6a22f8e7",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula e Flávio vão em desespero rumo ao desempate",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/lula-e-flavio-vao-em-desespero-rumo-ao-desempate.shtml",
-      "summary": "A terceira semana de campanha do segundo turno vai começar com as pesquisas paradas no empate entre os dois finalistas, em cenário que não deixa de ser desafiante para o perdedor, mas é preocupante para o vencedor da etapa inicial.\nLeia mais (10/17/2026 - 15h35)",
+      "title": "Atos de rua por Lula misturam fã-clubes, nativos digitais e mobilização fora de partidos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atos-de-rua-por-lula-misturam-fa-clubes-nativos-digitais-e-mobilizacao-fora-de-partidos.shtml",
+      "summary": "A mobilização da esquerda nas ruas no segundo turno da eleição presidencial mexeu com o cenário da disputa entre Lula (PT) e Flávio Bolsonaro (PL) e surpreendeu o meio político após uma campanha que parecia apagada ao longo do primeiro turno.\nLeia mais (10/17/2026 - 17h57)",
       "tags": [
         "Lula"
       ],
@@ -439,16 +410,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Oct 2026 15:35:00 -0300"
+      "publishedRaw": "17 Oct 2026 17:57:00 -0300"
     },
     {
-      "id": "bc9c337c8f9b",
+      "id": "679629c8415b",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/presidente-do-pt-defende-endurecer-pena-para-crime-hediondo-e-diz-que-lula-criara-ministerio-da-seguranca-apos-pec.shtml",
-      "summary": "O presidente do PT, Edinho Silva, defendeu neste sábado (17) endurecer penas para quem comete crimes hediondos, em referência à recente mudança de posição do presidente Lula (PT) sobre a redução da maioridade penal. Segundo Edinho, o governo vai criar um Ministério da Segurança Pública depois de a PEC (Proposta de Emenda à Constituição) sobre o tema ser aprovada o Senado.\nLeia mais (10/17/2026 - 14h39)",
+      "title": "Ex-ministros, filha de FHC e ambientalistas assinam carta pró-Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-ministros-filha-de-fhc-e-ambientalistas-assinam-carta-pro-lula.shtml",
+      "summary": "Nomes ligados ao ex-presidente Fernando Henrique Cardoso, ex-ministros, advogados, ambientalistas, especialistas em políticas públicas e intelectuais assinaram neste sábado (17), em evento em São Paulo, uma carta em apoio à reeleição do presidente Lula (PT).\nLeia mais (10/17/2026 - 16h56)",
       "tags": [
         "Lula"
       ],
@@ -460,16 +431,16 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Oct 2026 14:39:00 -0300"
+      "publishedRaw": "17 Oct 2026 16:56:00 -0300"
     },
     {
-      "id": "a4495842c498",
+      "id": "0006c279902e",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Artistas apoiam campanha pró-Lula e vestem verde e amarelo em fotos nas redes",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/artistas-apoiam-campanha-pro-lula-e-vestem-verde-e-amarelo-em-fotos-nas-redes.shtml",
-      "summary": "Artistas apoiadores do presidente Lula (PT) usaram as redes sociais na manhã deste sábado (17) para publicar fotos vestindo roupas verdes, amarelas e azuis, em referência à bandeira do Brasil. Alguns também faziam o sinal de \"L\" com as mãos.\nLeia mais (10/17/2026 - 14h21)",
+      "title": "Ato pró-Lula em Berlim reúne centenas no Portão de Brandemburgo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-pro-lula-em-berlim-reune-centenas-no-portao-de-brandemburgo.shtml",
+      "summary": "Um ato de apoio à reeleição de Lula (PT) reuniu centenas de pessoas em frente ao Portão de Brandemburgo, neste sábado (17), em Berlim. Uma chuva fina e termômetros a 10°C não inibiram o público, animado por charanga, bateria, roda de capoeira e muitos cartazes contra a família Bolsonaro.\nLeia mais (10/17/2026 - 16h13)",
       "tags": [
         "Lula"
       ],
@@ -481,28 +452,49 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Oct 2026 14:21:00 -0300"
+      "publishedRaw": "17 Oct 2026 16:13:00 -0300"
     },
     {
-      "id": "4678850d894d",
-      "source": "Folha de São Paulo",
+      "id": "1e2d416142ec",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Aliados avaliam que Lula se comportou como presidente em vez de candidato em sabatina na Globo",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-avaliam-que-lula-se-comportou-como-presidente-em-vez-de-candidato-em-sabatina-na-globo.shtml",
-      "summary": "Aliados do presidente Lula (PT) avaliam que ele perdeu uma oportunidade na entrevista que concedeu à TV Globo, na última quinta-feira (15), ao se portar como presidente e não como candidato à reeleição.\nLeia mais (10/17/2026 - 14h15)",
+      "title": "Edinho reafirma que Lula apoia redução da maioridade para crimes hediondos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/edinho-reafirma-que-lula-apoia-reducao-da-maioridade-para-crimes-hediondos/",
+      "summary": "Presidente do Partido dos Trabalhadores afirmou que Lula defende endurecimento das penas nesses casos para a mesma idade permitida para votar, de 16 anos; segundo o líder partidário, questão da maioridade está sendo um debate dentro do PT",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "17 Oct 2026 14:15:00 -0300"
+      "publishedRaw": "Sat, 17 Oct 2026 21:11:41 +0000"
+    },
+    {
+      "id": "f6765adf7a76",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Datafolha: eleitores de Flávio votam por mudança; de Lula, proteção social",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-eleitores-de-flavio-votam-por-mudanca-de-lula-protecao-social/",
+      "summary": "Pesquisa ouviu 2.520 eleitores entre os dias 13 e 14 de outubro; margem de erro é de 2 pontos percentuais, com um nível de confiança de 95%",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 17 Oct 2026 20:12:02 +0000"
     },
     {
       "id": "20f0064defcf",
@@ -568,13 +560,13 @@
       "publishedRaw": "Sat, 17 Oct 2026 01:23:59 +0000"
     },
     {
-      "id": "fef767f37173",
+      "id": "5a9c7892f50b",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula está animado para “confronto” com Flávio, diz Edinho Silva",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-esta-animado-para-confronto-com-flavio-diz-edinho-silva/",
-      "summary": "Presidente se encontrará pela 1ª vez durante a campanha com o senador Flávio Bolsonaro (PL-RJ) em debate na “Band”",
+      "title": "Ex-ministros de FHC e intelectuais fazem carta em apoio a Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ex-ministros-de-fhc-e-intelectuais-fazem-carta-em-apoio-a-lula/",
+      "summary": "Manifesto reúne 15 signatários e critica Flávio; lista inclui Aloysio Nunes e Floriano Pesaro, funcionários da ApexBrasil, vinculada ao governo federal",
       "tags": [
         "Lula"
       ],
@@ -586,49 +578,7 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Sat, 17 Oct 2026 18:07:29 +0000"
-    },
-    {
-      "id": "c4342a4a1ea4",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "2ª semana pós-1º turno tem reação de Lula e Flávio em alerta",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/2a-semana-pos-1o-turno-tem-reacao-de-lula-e-flavio-em-alerta/",
-      "summary": "Reação de petista dá sinais de ter chegado no teto; debate e próximos dias serão decisivos para o resultado das eleições",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 17 Oct 2026 17:00:21 +0000"
-    },
-    {
-      "id": "8e088437bd8e",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Exército do Lula: canal de Janones chega a 5 milhões de seguidores",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/exercito-do-lula-canal-de-janones-chega-a-5-milhoes-de-seguidores/",
-      "summary": "Espaço no WhatsApp mobiliza apoiadores do presidente no 2º turno; TSE aprovou novas regras para canais eleitorais",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 17 Oct 2026 16:23:41 +0000"
+      "publishedRaw": "Sat, 17 Oct 2026 19:25:49 +0000"
     },
     {
       "id": "1b1d84e29c56",
@@ -644,10 +594,29 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Poder360"
       ],
       "score": 83,
       "publishedRaw": "Sat, 17 Oct 2026 03:00:01 -0000"
+    },
+    {
+      "id": "1854859edb6f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio percorre orla de Salvador entre gritos de ‘volta Bolsonaro’ e provocações de petistas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-percorre-orla-de-salvador-entre-gritos-de-volta-bolsonaro-e-provocacoes-de-petistas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 17 Oct 2026 21:14:36 +0000"
     },
     {
       "id": "9f87346d91c8",
@@ -662,30 +631,11 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 83,
       "publishedRaw": "Fri, 16 Oct 2026 23:17:08 +0000"
-    },
-    {
-      "id": "224286765d8c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml",
-      "summary": "Urna no Colégio Estadual Monsenhor em São José do Rio Preto (SP)\nHenrique Souza/g1\nAs eleições de 2026 definiram os governadores de 20 unidades da federação ainda no primeiro turno. \nNos demais estados e no Distrito Federal, a escolha do governador ficará para o segundo turno, que acontece neste domingo (25).\nQue estados terão segundo turno para governador?\nSeis estados e o Distrito Federal terão disuta em 2º turno. São eles:\nEspírito Santo: Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) vão disputar o 2º turno\nAmazonas: Omar Aziz (PSD) e Professora Maria Do Carmo (PL) vão disputar o 2º turno\nRio Grande do Norte: Allyson (União) e Cadu De Lula (PT) vão disputar o 2º turno\nAcre: Mailza Assis (Progressistas) e Alan Rick (Republicanos) vão disputar o 2º turno\nTocantins: Professora Dorinha (União) e Vicentinho Júnior (PSDB) vão disputar o 2º turno\nDistrito Federal: Celina Leão (Progressistas) e Leandro Grass (PT) vão disputar o 2º turno\nQue estados já elegeram governadores no primeiro turno e quem são?\nVinte estados já elegeram seus governadores no 1º turno. São eles:\nAmapá: Dr. Furlan (PSD) foi eleito com 62,75% dos votos válidos\nAlagoas: JHC (PSDB) foi eleito com 52,20% dos votos válidos\nBahia: Jerônimo Rodrigues (PT) foi reeleito com 55,19% dos votos válidos\nCeará: Elmano de Freitas (PT) foi reeleito com 53,19% dos votos válidos\nGoiás: Daniel Vilela (MDB) foi eleito com 59,17% dos votos válidos\nMinas Gerais: Cleitinho Azevedo (Republicanos) foi eleito com 55,34% dos votos válidos\nMaranhão: Eduardo Braide (PSD) foi eleito com 56,86% dos votos válidos\nMato Grosso do Sul: Eduardo Riedel (Progressistas) foi reeleito com 67,07% dos votos válidos\nMato Grosso: Otaviano Pivetta (Republicanos) foi eleito com 60,77% dos votos válidos\nParaná: Sergio Moro (PL) foi eleito com 50,10% dos votos válidos\nPernambuco: Raquel Lyra (PSD) foi reeleita com 53,27% dos votos válidos\nPará: Dr. Daniel (Podemos) foi eleito com 51,36% dos votos válidos\nParaíba: Lucas Ribeiro (Progressistas) foi eleito com 64,30% dos votos válidos\nPiauí: Rafael Fonteles (PT) foi reeleito com 70,90% dos votos válidos\nRoraima: Arthur Henrique (PL) foi eleito com 69,13% dos votos válidos\nRondônia: Marcos Rogério (PL) foi eleito com 56,86% dos votos válidos\nRio Grande do Sul: Zucco (PL) foi eleito com 58,05% dos votos válidos\nRio de Janeiro:  Rio de Janeiro  foi eleito com 50,88% dos votos válidos\nSergipe: Fábio Mitidieri (PSD) foi reeleito com 59,27% dos votos válidos\nSanta Catarina: Jorginho Mello (PL) foi reeleito com 68,98% dos votos válidos\nSão Paulo: Tarcísio de Freitas (Republicanos) foi reeleito com 62,65% dos votos válidos\nVeja a evolução do número de governadores eleitos no primeiro turno desde 1994:\n2026: 20 governadores\n2022: 15 governadores\n2018: 13 governadores\n2014: 14 governadores\n2010: 18 governadores\n2006: 17 governadores\n2002: 13 governadores\n1998: 14 governadores\n1994: 9 governadores\nO que mudou em relação a 2022\nA comparação com o último pleito mostra mudanças relevantes no comando dos estados.\nNas eleições de 2022, 15 unidades da federação definiram seus governadores ainda no primeiro turno. \nO cenário de 2026 foi mais favorável às vitórias em primeiro turno do que o observado quatro anos atrás. Entre os estados que já definiram seus governadores estão importantes colégios eleitorais, como São Paulo, Minas Gerais, Bahia, Paraná, Pernambuco, Rio Grande do Sul e Ceará.\nVeja os resultados completos das eleições\nO g1 reúne em uma página especial os resultados oficiais das eleições de 2026 em todo o país. Com dados do Tribunal Superior Eleitoral (TSE), os leitores podem consultar como ficou a votação para presidente da República, governadores, senadores, deputados federais e deputados estaduais e distritais em cada estado brasileiro.\nA ferramenta também permite verificar o desempenho dos candidatos por unidade federativa e acessar mapas e painéis com os números consolidados da votação em todo o país.\n➡️ Confira a página especial de resultados do g1.\nVEJA TAMBÉM\nGuia do Eleitor: Como justificar ausência nas eleições?",
-      "tags": [
-        "eleições",
-        "eleições 2026"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Sat, 17 Oct 2026 03:00:00 -0000"
     },
     {
       "id": "59e07ebb4e0d",
@@ -709,60 +659,43 @@
       "publishedRaw": "Sat, 17 Oct 2026 09:54:20 GMT"
     },
     {
-      "id": "6ec8a2114d0b",
+      "id": "687c1510980c",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Eleições nos EUA: democratas superam republicanos na arrecadação de fundos",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/16/midterms-nos-eua-democratas-superam-republicanos-na-arrecadacao-de-fundos.ghtml",
-      "summary": "Musk gastou US$ 276 mi desde julho para ajudar partido de Trump nas eleições de meio de mandato nos EUA\nOs candidatos democratas arrecadaram muito mais dinheiro do que seus rivais republicanos, por amplas margens, em disputas-chave para o Congresso dos Estados Unidos.\nApesar de uma injeção de US$ 276 milhões - equivalente a R$ 1,39 bilhão - do magnata da tecnologia Elon Musk no Partido Republicano, os números apresentados pelos candidatos à Comissão Federal Eleitoral (FEC, na sigla em inglês), nesta quinta-feira (15), mostram uma clara vantagem para o partido de oposição. \nOs Estados Unidos renovam sua Câmara de Representantes e um terço do Senado nas midterms - chamadas em português de eleições de meio de mandato -, no dia 3 de novembro. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEleitores de Trump não estão animados para votar nas eleições de meio de mandato, aponta Reuters/Ipsos\nEm seis estados considerados decisivos para o controle do Senado - Texas, Alasca, Ohio, Maine, Michigan e Iowa - os democratas arrecadaram entre três e seis vezes mais do que seus oponentes republicanos no trimestre de julho a setembro, segundo uma análise do Punchbowl News. \nO democrata James Talarico, candidato no Texas, arrecadou, por exemplo, o recorde de US$ 64 milhões (R$ 323 bilhões), contra apenas US$ 10,2 milhões  (R$ 51,5 milhões) da campanha do republicano Ken Paxton, que ainda obteve uma contribuição adicional de US$ 8,5 milhões de comitês conjuntos com outros candidatos. \nOs democratas também superaram os republicanos em disputas cruciais pela Câmara de Representantes, com pelo menos 47 republicanos em exercício arrecadando menos do que seus rivais democratas ou independentes, contra apenas cerca de seis titulares democratas superados em arrecadação por republicanos. \nMidterms - Eleitora preenche cédula de votação em Harrisburg, na Pensilvânia (EUA)\nREUTERS/Mike Segar\nO dinheiro arrecadado é usado para propagandas nos meios de comunicação tradicionais (emissoras de TV, rádios) e nas plataformas sociais durante essas últimas semanas decisivas da campanha eleitoral. \nO presidente Donald Trump lançou-se em uma intensa maratona de comícios diários em todo o país para apoiar os candidatos em dificuldade. \nOs democratas fizeram da arrecadação junto a pequenos doadores seu lema oficial de campanha, em especial os candidatos socialistas que concorrem em distritos-chave, como Michigan ou Nova York. Mas os números demonstram que eles também receberam generosas contribuições de grandes doadores, como ocorreu em disputas eleitorais anteriores. \nA candidata democrata à Presidência em 2024, Kamala Harris, gastou US$ 1,17 bilhão (R$ 5,93 bilhão) em sua campanha de pouco mais de 100 dias, após a desistência da candidatura do então presidente Joe Biden. \nTrump, que gastou US$ 255 milhões (R$ 1,28 bilhão), porém, saiu vitorioso. O cenário foi semelhante ao que ocorreu em 2016, frente à então candidata democrata Hillary Clinton, que também contou com aportes de grandes doadores.",
+      "title": "Protestos contra Trump pedem voto antecipado nos EUA antes das eleições de meio de mandato",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/17/protestos-trump-voto-antecipado-eua.ghtml",
+      "summary": "Manifestantes se reúnem em protesto contra Trump em Nova York. Movimento No Kings pede que eleitores antecipem o voto nas eleições de meio de mandato\nMadison Swart/AP\nManifestações organizadas pelo grupo No Kings foram realizadas neste sábado (17) em cidades de todos os Estados Unidos, com o objetivo de levar eleitores às urnas antes do dia 3 de novembro.\nAs centenas de atos previstos foram apresentados como apartidários, embora deem sequência a quase dois anos de marchas e manifestações do movimento, formado por pessoas insatisfeitas com o governo de Donald Trump.\nAinda neste sábado, o presidente discursou em um comício no Kentucky para mobilizar o eleitorado republicano e exaltou o próprio poder. “Posso fazer coisas que são inacreditáveis”, afirmou, segundo a agência Associated Press.\nLEIA MAIS\nO que são as eleições de meio de mandato nos EUA\nEm Washington, uma banda se apresentou para algumas centenas de pessoas no Lincoln Memorial. Apesar do frio, parte do público dançou. Entre os cartazes, apareciam as palavras de ordem “vote cedo” e “tirem as mãos do meu voto”.\nEm Atlanta, o vereador Michael Julian Bond pediu que os participantes convencessem outras pessoas a votar antes do dia da eleição.\n“A Constituição dá a vocês um poder, certo? É o poder do voto. Vocês vão usar esse poder?”, disse Bond. Ele comparou o direito ao voto aos poderes de super-heróis e pediu que a plateia fosse às urnas.\nAgora no g1\nPromessas e ataques aos democratas\nNo palco, Trump afirmou que a guerra com o Irã terminaria em breve, declaração que já repetiu diversas vezes ao longo dos quase oito meses de conflito, e disse que o preço da gasolina vai cair.\nEle também repetiu a promessa de que, se os republicanos vencerem a Câmara e o Senado, todo adulto americano receberá US$ 5 mil. Segundo a AP, a medida custaria mais de US$ 1 trilhão, precisaria de aprovação do Congresso e agravaria o déficit orçamentário anual do país, de quase US$ 1,8 trilhão.\nTrump acrescentou uma promessa específica para o Kentucky: disse que, em caso de vitória republicana, o Departamento de Defesa investiria na revitalização de uma fábrica de medicamentos no estado.\nO presidente também afirmou que o país teria uma depressão econômica se os democratas vencerem e que o programa do Partido Democrata inclui a extinção do Senado e da Suprema Corte. Segundo a AP, essas propostas não constam do programa do partido. Trump tenta associar os democratas ao grupo Socialistas Democráticos da América, que elegeu alguns candidatos nas primárias deste ano.\nTrump chamou ao palco Ed Gallrein, que venceu o deputado Thomas Massie na primária republicana do distrito.\nMassie havia desagradado o presidente ao defender a divulgação dos arquivos de Jeffrey Epstein e ao se opor à guerra com o Irã. Trump reagiu apoiando Gallrein na disputa interna.\nO deputado, no entanto, mantém apoio entre eleitores pela defesa de princípios conservadores, mesmo quando isso significou votar contra o próprio partido. Quando Trump atacou Massie, chamando-o de “idiota” e “perdedor”, e apresentou Gallrein como um substituto mais leal, a reação do público foi morna: cerca de metade do ginásio aplaudiu, e a outra metade ficou em silêncio.\nGoverno processa a Califórnia por votos pelo correio\nTrump questiona há anos o voto pelo correio e afirma, sem apresentar provas, que fraude eleitoral custou a ele a eleição presidencial de 2020.\nNa quinta-feira (15), o governo processou autoridades eleitorais da Califórnia. A ação pede que um juiz impeça o estado de contabilizar, nas eleições de meio de mandato, votos pelo correio de pessoas que o governo federal identificou como “provavelmente” não cidadãs, até que a situação imigratória delas seja confirmada.\nNa sexta-feira (16), o Departamento de Justiça alertou que funcionários locais que processam e apuram votos enviados por supostos não cidadãos correm risco de investigação criminal e de serem processados.\nManifestantes do movimento No Kings se reúnem em Washington contra Trump\nJose Luis Magana/AP\nSenadores cobram garantia sobre as urnas\nNo mesmo dia, os senadores democratas Alex Padilla, da Califórnia, Sheldon Whitehouse, de Rhode Island, e Dick Durbin, de Illinois, escreveram ao procurador-geral, Todd Blanche.\nEles cobram do Departamento de Justiça o compromisso de não apreender cédulas ou outros materiais eleitorais antes da certificação do resultado das eleições.\nProtestos do movimento No Kings pedem que eleitores votem em antecipado nas eleições de meio de mandato nos EUA\nJose Luis Magana/AP\nO que são as eleições de meio de mandato\nNos Estados Unidos, há eleições nacionais a cada dois anos. As presidenciais acontecem a cada quatro, e no intervalo entre elas ocorrem as chamadas midterms, as eleições de meio de mandato.\nElas não escolhem o presidente. O que está em disputa é o Congresso: todas as 435 cadeiras da Câmara dos Representantes (o equivalente à Câmara dos Deputados no Brasil), cujos mandatos duram dois anos, e 35 cadeiras do Senado, onde os mandatos são de seis anos.\nDas 35 vagas do Senado, 33 são da renovação regular e duas são eleições especiais, na Flórida e em Ohio. Elas foram abertas quando Marco Rubio deixou a cadeira da Flórida para assumir a Secretaria de Estado e JD Vance deixou a de Ohio para ser vice-presidente. Quem vencer cumpre os dois anos restantes desses mandatos.\nDas cadeiras em disputa, 22 são hoje ocupadas por republicanos e 13 por democratas. O partido de Trump tem maioria nas duas casas: o Senado está dividido entre 53 republicanos, 45 democratas e 2 independentes, e são necessárias 51 cadeiras para a maioria.\nTambém são eleitos governadores em parte dos estados, além de deputados estaduais, prefeitos e vereadores. O calendário estadual não é unificado, e cada estado tem regras próprias.\nO resultado define o tamanho do apoio que o presidente terá no Congresso na segunda metade do mandato. Se o partido do presidente perde a maioria em uma das casas, o governo passa a ter mais dificuldade para aprovar o orçamento e políticas públicas, e a oposição ganha poder para abrir investigações.\nHistoricamente, o partido que ocupa a Casa Branca costuma perder cadeiras nessas eleições, que funcionam na prática como um teste de popularidade do governo.",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Fri, 16 Oct 2026 15:06:41 -0000"
-    },
-    {
-      "id": "a6748ab74ea6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "TSE estabelece novas regras para vincular canais de WhatsApp a campanhas eleitorais",
-      "link": "https://www.estadao.com.br/politica/eleicoes/tse-estabelece-novas-regras-para-vincular-canais-de-whatsapp-a-campanhas-eleitorais-nprp/",
-      "summary": "Resolução estabelece critérios relacionados à recomendação, à colaboração ou ao controle por parte das campanhas sobre os canais",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo",
+        "G1 - Política",
         "Poder360"
       ],
-      "score": 77,
-      "publishedRaw": "Fri, 16 Oct 2026 22:14:21 +0000"
+      "score": 81,
+      "publishedRaw": "Sat, 17 Oct 2026 20:28:40 -0000"
     },
     {
-      "id": "dd565ba6bc77",
+      "id": "17f7121692b4",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "TSE manda Meta garantir isonomia a campanhas depois de falha em IA",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-meta-garantir-isonomia-a-campanhas-depois-de-falha-em-ia/",
-      "summary": "Meta deve evitar restrições desiguais entre Lula e Flávio Bolsonaro, sob pena de multa diária de R$ 500 mil",
+      "title": "Eleições de 2026 marcam a transformação digital da esquerda, diz Bites",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-de-2026-marcam-a-transformacao-digital-da-esquerda-diz-bites/",
+      "summary": "Agência especializada em dados afirma que Lula registrou 3 vezes mais interações nas redes que Flávio após o 1º turno",
       "tags": [
-        "TSE"
+        "eleições",
+        "esquerda"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "G1 - Mundo",
+        "G1 - Política"
       ],
-      "score": 77,
-      "publishedRaw": "Sat, 17 Oct 2026 17:25:59 +0000"
+      "score": 80,
+      "publishedRaw": "Sat, 17 Oct 2026 19:43:55 +0000"
     },
     {
       "id": "7e4483216bc3",
