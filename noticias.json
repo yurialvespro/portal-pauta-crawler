@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:28:05.590016+00:00",
+  "generated_at": "2026-10-18T16:48:28.250331+00:00",
   "items": [
     {
       "id": "2906b1f7d804",
@@ -161,28 +161,7 @@
         "Poder360"
       ],
       "score": 94,
-      "publishedRaw": "Sat, 17 Oct 2026 15:33:57 GMT"
-    },
-    {
-      "id": "ec3dd3d18cb0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Meta admite falhas que afetaram campanha de Lula, mas nega interferência política nas eleições",
-      "link": "https://www.estadao.com.br/politica/meta-admite-falhas-que-afetaram-campanha-de-lula-mas-nega-interferencia-politica-nas-eleicoes/",
-      "summary": "",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 89,
-      "publishedRaw": "Sat, 17 Oct 2026 14:42:31 +0000"
+      "publishedRaw": "Sun, 18 Oct 2026 15:43:01 GMT"
     },
     {
       "id": "75c0b8fd9829",
@@ -199,19 +178,20 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "Poder360"
       ],
-      "score": 87,
+      "score": 91,
       "publishedRaw": "Sun, 18 Oct 2026 01:06:03 -0000"
     },
     {
-      "id": "0180564c1f0f",
+      "id": "c1d8a456d0df",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-bolsonaro-comemorou-exoneracao-de-garotinho-como-secretario-de-seguranca-do-rio.shtml",
-      "summary": "Hoje próximo da família Garotinho, o senador e candidato à Presidência Flávio Bolsonaro (PL) comemorou a exoneração de Anthony Garotinho (Republicanos) como secretário de Segurança Pública do Rio de Janeiro em 2004.\nLeia mais (10/18/2026 - 06h00)",
+      "title": "Flávio Bolsonaro reúne apoiadores na Paulista para manifestação",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-se-reunem-na-paulista-para-manifestacao.shtml",
+      "summary": "Apoiadores do presidenciável Flávio Bolsonaro (PL) se reúnem na avenida Paulista na manhã deste domingo (18) para um comício do candidato.\nLeia mais (10/18/2026 - 11h24)",
       "tags": [
         "Bolsonaro",
         "Flávio Bolsonaro"
@@ -219,31 +199,53 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "18 Oct 2026 06:00:00 -0300"
-    },
-    {
-      "id": "08bb11131dc6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Novo diz que campanha de Lula faz ‘showmícios’ e pede produção de provas ao TSE, mas relator nega",
-      "link": "https://www.estadao.com.br/politica/eleicoes/novo-diz-que-campanha-de-lula-faz-showmicios-e-pede-producao-de-provas-ao-tse/",
-      "summary": "",
-      "tags": [
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
-      "publishedRaw": "Sat, 17 Oct 2026 19:13:44 +0000"
+      "score": 91,
+      "publishedRaw": "18 Oct 2026 11:24:00 -0300"
+    },
+    {
+      "id": "5dfcff751187",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com funk e axé, Flávio Bolsonaro transforma ato político em bloco de carnaval na Av. Paulista",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-bolsonaro-avpaulista-manifestacao-npr/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 91,
+      "publishedRaw": "Sun, 18 Oct 2026 15:06:21 +0000"
+    },
+    {
+      "id": "991f47e6eb2b",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Veja imagens do ato de Flávio Bolsonaro na av. Paulista",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-de-flavio-bolsonaro-na-av-paulista/",
+      "summary": "Candidato do PL à Presidência reúne apoiadores na capital paulista a uma semana do 2º turno",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Sun, 18 Oct 2026 15:13:01 +0000"
     },
     {
       "id": "e6adac694bec",
@@ -260,10 +262,115 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 17 Oct 2026 23:00:00 +0000"
+    },
+    {
+      "id": "ec3dd3d18cb0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Meta admite falhas que afetaram campanha de Lula, mas nega interferência política nas eleições",
+      "link": "https://www.estadao.com.br/politica/meta-admite-falhas-que-afetaram-campanha-de-lula-mas-nega-interferencia-politica-nas-eleicoes/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 89,
+      "publishedRaw": "Sat, 17 Oct 2026 14:42:31 +0000"
+    },
+    {
+      "id": "1b1d84e29c56",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/17/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro.ghtml",
+      "summary": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro\nA Polícia Federal (PF) apontou a existência de \"divergência contábil severa\" nos documentos nos apresentados pela produtora de Dark Horse, cinebiografia sobre o ex-presidente Jair Bolsonaro, sobre os valores enviados para fora do Brasil através do fundo Havengate e que retornaram ao país.\nSegundo a Polícia Federal, saíram do país mais de US$ 12 milhões e foi registrada a entrada no Brasil de US$ 2,8 milhões.\nDe acordo com as investigações, o dinheiro saiu de uma empresa ligada ao ex-dono do Banco Master Daniel Vorcaro, a Entre Investimentos, e foi para um fundo nos Estados Unidos: o Havengate, administrado por Paulo Calixto, advogado do ex-deputado Eduardo Bolsonaro.\n\"Torna-se, portanto, indispensável submeter todo o acervo documental e bancário a um rigoroso exame pericial forense para confrontar os aportes internacionais, a contabilidade da produtora brasileira e o lastro das despesas declaradas\".\nAgora no g1\nUmas das linhas de investigação questionam se os valores enviados pela Entre Investimentos ao fundo Havengate foram de fato usados para financiar o filme ou se o filme \"serviu como narrativa de cobertura para a ocultação, simulação e desvio de recursos\".\nNesta sexta-feira (16), a Polícia Federal pediu ao ministro do Supremo Tribunal Federal (STF) que prorrogue por 90 dias a investigação sobre o financiamento do filme \"Dark Horse\". A PF investiga os pagamentos feitos pelo ex-dono do Banco Master Daniel Vorcaro e o papel do candidado do PL à Presidência, Flávio Bolsonaro, no financiamento do filme.\nJunto com o pedido, a Polícia Federal também entregou documentos para justificar a prorrogação da investigação, entre eles, o que apontam diferenças nos valores que saíram e retornaram ao país para a produção do filme.\nEm junho deste ano, a produtora Go UP Entertainment, responsável pelo filme \"Dark Horse\", declarou que o longa-metragem custou ao menos R$ 75,1 milhões, segundo documento anexado ao inquérito da Polícia Civil que investiga a empresária Karina Ferreira da Gama, dona da empresa.\nSegundo o documento anexado ao inquérito, R$ 54 milhões desse montante declarado foram gastos no exterior e R$ 20,9 milhões, no Brasil.\nEm nota, a defesa da produtora GoUP afirmou que  \"a perícia irá revelar a lisura e legalidade de todas as captações do financiamento desta obra extraordinária em apoio a esta iniciativa histórica de minha cliente GO UP\".\nJim Caviezel no pôster de 'Dark Horse'\nReprodução/Instagram/therealjimcaviezel\nPF investiga destino do dinheiro\nOs investigadores analisam três frentes relacionadas a \"Dark Horse\":\nos repasses feitos por Vorcaro a pedido de Flávio Bolsonaro;\na possibilidade de parte dos recursos ter sido usada para custear Eduardo Bolsonaro nos Estados Unidos; e\na destinação de emendas parlamentares a entidades relacionadas à produtora do longa.\nEduardo Bolsonaro negou ter recebido recursos de fundo ligado a Vorcaro. Disse que seu status migratório nos Estados Unidos não permitiria esse tipo de repasse e afirmou ter informado às autoridades americanas a origem de seus recursos.\nNa mesma época, veio a público um contrato em que Eduardo Bolsonaro aparecia como produtor-executivo de \"Dark Horse\".\nO ex-deputado afirmou que investiu US$ 50 mil no projeto e posteriormente recebeu o valor de volta, mas negou que o reembolso tivesse passado pelo fundo que recebeu os recursos ligados a Vorcaro.\nOutra investigação apura emendas ligadas à produtora\nOutra investigação sob responsabilidade do ministro Flávio Dino analisa o envio de recursos públicos a organizações ligadas à proprietária da produtora de \"Dark Horse\".\nEssa frente começou após a deputada Tabata Amaral (PSB-SP) pedir ao STF a apuração do caso. O foco são R$ 2 milhões em emendas parlamentares indicadas pelo deputado Mario Frias para entidades relacionadas a Karina Ferreira da Gama.\nEntre as entidades estão o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC), presididos por Karina Ferreira da Gama. A Go Up Entertainment não foi alvo dos mandados de busca.\nMario Frias, que atua como roteirista e produtor-executivo de \"Dark Horse\", afirmou ao STF em maio que as emendas destinadas às organizações não foram enviadas para financiar a produção cinematográfica.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Sat, 17 Oct 2026 03:00:01 -0000"
+    },
+    {
+      "id": "1854859edb6f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio percorre orla de Salvador entre gritos de ‘volta Bolsonaro’ e provocações de petistas",
+      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-percorre-orla-de-salvador-entre-gritos-de-volta-bolsonaro-e-provocacoes-de-petistas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 88,
+      "publishedRaw": "Sat, 17 Oct 2026 21:14:36 +0000"
+    },
+    {
+      "id": "108644fc3c14",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fernanda Bolsonaro grava vídeo no mercado: “Preços estão um terror”",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/fernanda-bolsonaro-grava-video-no-mercado-precos-estao-um-terror/",
+      "summary": "Mulher de Flávio Bolsonaro diz que os preços estão nas alturas e destaca que a picanha custa R$ 106,55 o kg",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Sat, 17 Oct 2026 23:00:00 +0000"
+      "score": 88,
+      "publishedRaw": "Sun, 18 Oct 2026 16:35:21 +0000"
+    },
+    {
+      "id": "08bb11131dc6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Novo diz que campanha de Lula faz ‘showmícios’ e pede produção de provas ao TSE, mas relator nega",
+      "link": "https://www.estadao.com.br/politica/eleicoes/novo-diz-que-campanha-de-lula-faz-showmicios-e-pede-producao-de-provas-ao-tse/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 17 Oct 2026 19:13:44 +0000"
     },
     {
       "id": "9528f37dad62",
@@ -280,9 +387,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 18 Oct 2026 03:00:00 -0000"
     },
     {
@@ -300,9 +408,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 18 Oct 2026 01:06:08 -0000"
     },
     {
@@ -320,9 +429,10 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 17 Oct 2026 17:26:21 -0000"
     },
     {
@@ -340,50 +450,95 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 17 Oct 2026 16:38:18 -0000"
     },
     {
-      "id": "e9f54a838d14",
-      "source": "CNN Brasil",
+      "id": "3303b5b15fbe",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Aliados fazem atos pelo país, e Flávio e Lula se enfrentam em debate na TV",
-      "link": "https://www.cnnbrasil.com.br/politica/aliados-fazem-atos-pelo-pais-e-flavio-e-lula-se-enfrentam-em-debate-na-tv/",
-      "summary": "Confronto será o primeiro entre os candidatos à Presidência, uma semana antes do pleito que definirá o governo dos próximos quatro anos",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 18 Oct 2026 10:00:31 +0000"
-    },
-    {
-      "id": "3fcbda4f9763",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/flavio-e-lula-enfrentam-teste-de-nervos-em-debate-focado-nos-cortes-para-as-redes/",
-      "summary": "",
+      "title": "Motorista é preso após atropelar idoso durante ato pró-Lula em Belo Horizonte",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/motorista-e-preso-apos-atropelar-idoso-durante-ato-pro-lula-em-belo-horizonte.shtml",
+      "summary": "Um motorista foi preso após atropelar um idoso que participava de um ato pró-Lula no centro de Belo Horizonte na tarde deste sábado (17).\nLeia mais (10/18/2026 - 13h31)",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Sun, 18 Oct 2026 08:30:00 +0000"
+      "score": 85,
+      "publishedRaw": "18 Oct 2026 13:31:00 -0300"
+    },
+    {
+      "id": "9d341a7165c0",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Capitais têm atos pró-Lula uma semana antes do segundo turno",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/capitais-tem-atos-pro-lula-uma-semana-antes-do-segundo-turno.shtml",
+      "summary": "Apoiadores da reeleição do presidente Lula (PT) promovem atos a favor do candidato em cidades brasileiras e, neste domingo (18), dezenas de mobilizações estão previstas no país.\nLeia mais (10/18/2026 - 13h09)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "18 Oct 2026 13:09:00 -0300"
+    },
+    {
+      "id": "88d7d7aa47ac",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Análise: Lula e Flávio vão a debate na TV de olho em redes sociais",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-lula-e-flavio-vao-a-debate-na-tv-de-olho-em-redes-sociais/",
+      "summary": "Análise da âncora da CNN Débora Bergamasco aponta que candidatos buscam produzir \"recortes\" para viralizar nas plataformas digitais na reta final das eleições",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 16:01:26 +0000"
+    },
+    {
+      "id": "52ac13cbc4e5",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Manifestantes se reúnem em atos pró-Lula neste domingo (18)",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/manifestantes-se-reunem-em-atos-pro-lula-neste-domingo-18/",
+      "summary": "Aliados do atual presidente se organizam para atos de apoio em cidades de diferentes regiões do país ao longo do dia; em São Paulo, por exemplo, manifestantes se reúnem no Largo da Batata, pela manhã, e, ao final do dia, no Largo da Banana",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 15:51:00 +0000"
     },
     {
       "id": "e77f0c7e2d04",
@@ -399,11 +554,54 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 18 Oct 2026 00:57:01 +0000"
+    },
+    {
+      "id": "14f17c4dfd08",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula arrecadou R$ 1,1 milhão, e Flávio, R$ 400 mil em financiamento coletivo",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-arrecadou-r-11-milhao-e-flavio-r-400-mil-em-financiamento-coletivo/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "id": "3fcbda4f9763",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/flavio-e-lula-enfrentam-teste-de-nervos-em-debate-focado-nos-cortes-para-as-redes/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 08:30:00 +0000"
     },
     {
       "id": "1f2ee001a5a1",
@@ -419,10 +617,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 18 Oct 2026 01:00:00 +0000"
     },
     {
@@ -439,20 +638,21 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 17 Oct 2026 23:15:41 +0000"
     },
     {
-      "id": "a8fa14698df3",
+      "id": "fdae4d978802",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "“Flávio é retrocesso”, diz mãe de Paulo Gustavo em apoio a Lula",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-retrocesso-diz-mae-de-paulo-gustavo-em-apoio-a-lula/",
-      "summary": "Déa Lúcia Amaral relembra morte do filho por covid-19 e critica Jair Bolsonaro pela demora na vacinação contra a doença",
+      "title": "Ato de Flávio ocupa 6 quarteirões da Paulista, 1 a menos que Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-ocupa-6-quarteiroes-da-paulista-1-a-menos-que-lula/",
+      "summary": "Manifestação foi convocada por candidato do PL à Presidência, Tarcísio de Freitas e Ricardo Nunes",
       "tags": [
         "Lula"
       ],
@@ -460,68 +660,53 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 18 Oct 2026 12:54:52 +0000"
-    },
-    {
-      "id": "1b1d84e29c56",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/17/dark-horse-pf-aponta-divergencia-severa-entre-recursos-enviados-ao-exterior-e-os-que-retornaram-ao-brasil-para-filme-sobre-bolsonaro.ghtml",
-      "summary": "‘Dark Horse’: PF aponta divergência ‘severa’ entre recursos enviados ao exterior e os que retornaram ao Brasil para filme sobre Bolsonaro\nA Polícia Federal (PF) apontou a existência de \"divergência contábil severa\" nos documentos nos apresentados pela produtora de Dark Horse, cinebiografia sobre o ex-presidente Jair Bolsonaro, sobre os valores enviados para fora do Brasil através do fundo Havengate e que retornaram ao país.\nSegundo a Polícia Federal, saíram do país mais de US$ 12 milhões e foi registrada a entrada no Brasil de US$ 2,8 milhões.\nDe acordo com as investigações, o dinheiro saiu de uma empresa ligada ao ex-dono do Banco Master Daniel Vorcaro, a Entre Investimentos, e foi para um fundo nos Estados Unidos: o Havengate, administrado por Paulo Calixto, advogado do ex-deputado Eduardo Bolsonaro.\n\"Torna-se, portanto, indispensável submeter todo o acervo documental e bancário a um rigoroso exame pericial forense para confrontar os aportes internacionais, a contabilidade da produtora brasileira e o lastro das despesas declaradas\".\nAgora no g1\nUmas das linhas de investigação questionam se os valores enviados pela Entre Investimentos ao fundo Havengate foram de fato usados para financiar o filme ou se o filme \"serviu como narrativa de cobertura para a ocultação, simulação e desvio de recursos\".\nNesta sexta-feira (16), a Polícia Federal pediu ao ministro do Supremo Tribunal Federal (STF) que prorrogue por 90 dias a investigação sobre o financiamento do filme \"Dark Horse\". A PF investiga os pagamentos feitos pelo ex-dono do Banco Master Daniel Vorcaro e o papel do candidado do PL à Presidência, Flávio Bolsonaro, no financiamento do filme.\nJunto com o pedido, a Polícia Federal também entregou documentos para justificar a prorrogação da investigação, entre eles, o que apontam diferenças nos valores que saíram e retornaram ao país para a produção do filme.\nEm junho deste ano, a produtora Go UP Entertainment, responsável pelo filme \"Dark Horse\", declarou que o longa-metragem custou ao menos R$ 75,1 milhões, segundo documento anexado ao inquérito da Polícia Civil que investiga a empresária Karina Ferreira da Gama, dona da empresa.\nSegundo o documento anexado ao inquérito, R$ 54 milhões desse montante declarado foram gastos no exterior e R$ 20,9 milhões, no Brasil.\nEm nota, a defesa da produtora GoUP afirmou que  \"a perícia irá revelar a lisura e legalidade de todas as captações do financiamento desta obra extraordinária em apoio a esta iniciativa histórica de minha cliente GO UP\".\nJim Caviezel no pôster de 'Dark Horse'\nReprodução/Instagram/therealjimcaviezel\nPF investiga destino do dinheiro\nOs investigadores analisam três frentes relacionadas a \"Dark Horse\":\nos repasses feitos por Vorcaro a pedido de Flávio Bolsonaro;\na possibilidade de parte dos recursos ter sido usada para custear Eduardo Bolsonaro nos Estados Unidos; e\na destinação de emendas parlamentares a entidades relacionadas à produtora do longa.\nEduardo Bolsonaro negou ter recebido recursos de fundo ligado a Vorcaro. Disse que seu status migratório nos Estados Unidos não permitiria esse tipo de repasse e afirmou ter informado às autoridades americanas a origem de seus recursos.\nNa mesma época, veio a público um contrato em que Eduardo Bolsonaro aparecia como produtor-executivo de \"Dark Horse\".\nO ex-deputado afirmou que investiu US$ 50 mil no projeto e posteriormente recebeu o valor de volta, mas negou que o reembolso tivesse passado pelo fundo que recebeu os recursos ligados a Vorcaro.\nOutra investigação apura emendas ligadas à produtora\nOutra investigação sob responsabilidade do ministro Flávio Dino analisa o envio de recursos públicos a organizações ligadas à proprietária da produtora de \"Dark Horse\".\nEssa frente começou após a deputada Tabata Amaral (PSB-SP) pedir ao STF a apuração do caso. O foco são R$ 2 milhões em emendas parlamentares indicadas pelo deputado Mario Frias para entidades relacionadas a Karina Ferreira da Gama.\nEntre as entidades estão o Instituto Conhecer Brasil (ICB) e a Academia Nacional de Cultura (ANC), presididos por Karina Ferreira da Gama. A Go Up Entertainment não foi alvo dos mandados de busca.\nMario Frias, que atua como roteirista e produtor-executivo de \"Dark Horse\", afirmou ao STF em maio que as emendas destinadas às organizações não foram enviadas para financiar a produção cinematográfica.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo"
-      ],
-      "score": 83,
-      "publishedRaw": "Sat, 17 Oct 2026 03:00:01 -0000"
-    },
-    {
-      "id": "1854859edb6f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio percorre orla de Salvador entre gritos de ‘volta Bolsonaro’ e provocações de petistas",
-      "link": "https://www.estadao.com.br/politica/eleicoes/flavio-percorre-orla-de-salvador-entre-gritos-de-volta-bolsonaro-e-provocacoes-de-petistas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 83,
-      "publishedRaw": "Sat, 17 Oct 2026 21:14:36 +0000"
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 16:42:31 +0000"
     },
     {
-      "id": "59e07ebb4e0d",
-      "source": "BBC Brasil",
+      "id": "12b3a084601f",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Acompanhe as intenções de voto para Lula e Flávio Bolsonaro no segundo turno da eleição presidencial de 2026, de acordo com o Agregador de Pesquisas da BBC News Brasil.",
+      "category": "Política",
+      "title": "Filho de Temer aparece em vídeo com adesivo de apoio a Lula",
+      "link": "https://www.poder360.com.br/poder-gente/filho-de-temer-aparece-em-video-com-um-adesivo-de-apoio-a-lula/",
+      "summary": "Ação de Michelzinho contrasta com a decisão anunciada pelo pai, que declarou voto em Flávio Bolsonaro no 2º turno",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
-      "score": 81,
-      "publishedRaw": "Sat, 17 Oct 2026 09:54:20 GMT"
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 15:23:29 +0000"
+    },
+    {
+      "id": "55e2fbcef06a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula ultrapassa Flávio em popularidade digital após 1º turno",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ultrapassa-flavio-em-popularidade-digital-apos-1o-turno/",
+      "summary": "Presidente subiu de 70,7 para 82,6 pontos, enquanto senador caiu para 76,4, segundo índice da Quaest",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 18 Oct 2026 14:21:47 +0000"
     },
     {
       "id": "224286765d8c",
@@ -536,25 +721,83 @@
         "eleições 2026"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão"
       ],
-      "score": 77,
+      "score": 82,
       "publishedRaw": "Sat, 17 Oct 2026 03:00:00 -0000"
     },
     {
-      "id": "4b90171d796b",
+      "id": "59e07ebb4e0d",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Acompanhe as intenções de voto para Lula e Flávio Bolsonaro no segundo turno da eleição presidencial de 2026, de acordo com o Agregador de Pesquisas da BBC News Brasil.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Sun, 18 Oct 2026 15:02:01 GMT"
+    },
+    {
+      "id": "5e60229384df",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Trump declara apoio “total e irrestrito” a Netanyahu nas eleições de Israel",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-declara-apoio-total-e-irrestrito-a-netanyahu-nas-eleicoes-de-israel/",
+      "summary": "Entre altos e baixos na relação e divergências sobre a guerra, efeito do endosso do presidente americano sobre o eleitorado israelense ainda é incerto",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 18 Oct 2026 15:12:06 +0000"
+    },
+    {
+      "id": "89a9d91756d0",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE altera local de votação de 590 mil eleitores para o 2° turno, e PT pede mais divulgação",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-altera-local-de-votacao-de-590-mil-eleitores-para-o-2-turno-e-pt-pede-mais-divulgacao.shtml",
+      "summary": "O TSE (Tribunal Superior Eleitoral) alterou o endereço de 2.033 seções eleitorais no país para o segundo turno das eleições deste ano, em 25 de outubro, de acordo com dados atualizados neste domingo (18). O número representa 0,39% do total, afetando 592 mil eleitores.\nLeia mais (10/18/2026 - 12h27)",
+      "tags": [
+        "TSE"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 73,
+      "publishedRaw": "18 Oct 2026 12:27:00 -0300"
+    },
+    {
+      "id": "31d3d5cc6dfe",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Congressistas acionam STF para pedir proteção a Roberta Luchsinger",
-      "link": "https://www.poder360.com.br/poder-justica/congressistas-acionam-stf-para-pedir-protecao-a-roberta-luchsinger/",
-      "summary": "Ofício enviado ao ministro André Mendonça também pede proteção às filhas da empresária e medidas protetivas contra Lula",
+      "title": "Veja imagens do ato da esquerda em Brasília neste domingo",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-da-esquerda-em-brasilia-neste-domingo/",
+      "summary": "Manifestantes se reuniram em frente ao Museu da República, na Esplanada dos Ministérios, em apoio ao presidente Lula (PT)",
       "tags": [
-        "STF"
+        "esquerda"
       ],
       "crossOutlets": [],
-      "score": 71,
-      "publishedRaw": "Sun, 18 Oct 2026 12:05:25 +0000"
+      "score": 58,
+      "publishedRaw": "Sun, 18 Oct 2026 16:11:12 +0000"
     }
   ]
 }
