@@ -1,49 +1,29 @@
 {
-  "generated_at": "2026-11-03T23:06:12.511563+00:00",
+  "generated_at": "2026-11-04T03:08:17.320455+00:00",
   "items": [
     {
-      "id": "28e073c0d3a7",
-      "source": "Poder360",
+      "id": "f71d1b418312",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Saiba o que disseram ministros de Lula em audiência sobre bets no STF",
-      "link": "https://www.poder360.com.br/poder-governo/saiba-o-que-disseram-ministros-de-lula-em-audiencia-sobre-bets-no-stf/",
-      "summary": "Jorge Messias, Wellington Lima e Silva e Alexandre Padilha participaram da sessão e defenderam medida que proibiu apostas no Brasil",
+      "category": "Internacional",
+      "title": "Como eleições nos EUA devem selar relação com o Brasil em 4º mandato de Lula",
+      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
       "tags": [
-        "STF",
+        "eleições",
         "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Tue, 03 Nov 2026 22:37:15 +0000"
-    },
-    {
-      "id": "3dfb9725ec0d",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Bolsonaro da Shopee’ e ‘Plínio Trump’: Sósias são derrotados nas urnas",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bolsonaro-da-shopee-e-plinio-trump-sosias-sao-derrotados-nas-urnas/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "urnas"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 88,
-      "publishedRaw": "Tue, 03 Nov 2026 19:19:58 +0000"
+      "publishedRaw": "Mon, 02 Nov 2026 10:36:42 GMT"
     },
     {
       "id": "edee9a80ad64",
@@ -70,30 +50,6 @@
       "publishedRaw": "Tue, 03 Nov 2026 21:09:23 GMT"
     },
     {
-      "id": "f71d1b418312",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como eleições nos EUA devem selar relação com o Brasil em 4º mandato de Lula",
-      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nas eleições de meio de mandato desta terça, oposição democrata pode conquistar controle do Congresso americano e promover maior escrutínio sobre a agenda de Trump para a América Latina.",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Mon, 02 Nov 2026 10:36:42 GMT"
-    },
-    {
       "id": "f6e5cda88e31",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -108,8 +64,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -117,46 +73,406 @@
       "publishedRaw": "Tue, 03 Nov 2026 15:20:10 -0000"
     },
     {
+      "id": "7b61d8015a62",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alunos de medicina em Curitiba relatam ofensas de colegas ligadas ao resultado das eleições",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/alunos-de-medicina-em-curitiba-relatam-ofensas-de-colegas-ligadas-ao-resultado-das-eleicoes.shtml",
+      "summary": "Estudantes do curso de medicina da Universidade Positivo em Curitiba que se posicionaram a favor da reeleição do presidente Lula (PT) relatam ter sofrido ofensas e bullying virtual de colegas.\nLeia mais (11/03/2026 - 23h00)",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 87,
+      "publishedRaw": "03 Nov 2026 23:00:00 -0300"
+    },
+    {
+      "id": "41f8537e3915",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Projeto fixa prazo para TSE julgar registros de candidatos antes das eleições",
+      "link": "https://www.estadao.com.br/politica/projeto-fixa-prazo-para-tse-julgar-registros-de-candidatos-antes-das-eleicoes-nprp/",
+      "summary": "",
+      "tags": [
+        "eleições",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 04 Nov 2026 01:38:01 +0000"
+    },
+    {
+      "id": "be3ab8cc331d",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar encerrou esta terça-feira (3) em alta de 0,79%, cotado a R$ 5,4871. Durante o pregão, a moeda americana chegou a R$ 5,5151 na máxima do dia. Já o Ibovespa, principal índice da bolsa brasileira, recuou 1,42%, aos 165.545 pontos.\nNa última sexta-feira (30), a moeda americana subiu a R$ 5,44 e acumulou alta de mais de 9% na semana. Já o Ibovespa caiu pelo quinto dia seguido e acumulou desvalorização de 18,12% no período, na quinta maior perda semanal desde o início do Plano Real, em julho de 1994. Saiba mais.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nO principal destaque da sessão ficou com as eleições de meio de mandato nos Estados Unidos, conhecidas como midterms.  Novos dados do mercado de trabalho americano e a espera pela nova taxa de juros brasileira, que deve ser decidida amanhã também, podem mexer com os negócios. \n▶️ As midterms foram o principal destaque da sessão. A votação vai renovar quase todo o Congresso americano e é crucial para o presidente Donald Trump, já que pode determinar o espaço que o governo terá para aprovar medidas sobre gastos públicos, impostos e regulação. \nEssas decisões também influenciam as expectativas dos investidores e podem afetar os juros e o dólar no mercado internacional. (entenda mais abaixo)\n▶️ Com as eleições americanas na mira, investidores também acompanharam novos dados do mercado de trabalho dos EUA. As vagas de emprego em aberto aumentaram em 333 mil em setembro, chegando a 7,523 milhões. O resultado ficou acima da expectativa de economistas, que previam 7,1 milhões de vagas, e pode dar pistas sobre a força da economia americana e os próximos passos do Federal Reserve (Fed, o banco central dos EUA) na definição dos juros.\n▶️ Por aqui, investidores aguardam a próxima reunião do Banco Central, marcada para amanhã. Em meio à pressão fiscal e eleitoral, a expectativa do mercado é que o Comitê de Política Monetária (Copom) mantenha a Selic inalterada em 13,75% ao ano.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,79%;\nAcumulado do mês: +0,79%;\nAcumulado do ano: -0,03%.\n📈Ibovespa\n\nAcumulado da semana: --18,12%\nAcumulado da semana: -1,42%\nAcumulado do mês: --1,42%;\nAcumulado do ano: +2,74%.\nEleições de meio de mandato nos EUA\nMilhares de eleitores irão às urnas nesta terça-feira (3) para as eleições de meio de mandato nos Estados Unidos, conhecidas como midterms. A votação vai renovar quase todo o Congresso americano e é crucial para o presidente Donald Trump.\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores, de seis.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nSendo assim, em novembro, estarão em disputa todas as 435 cadeiras da Câmara e 35 das 100 do Senado.\nNas eleições de 2024, o Partido Republicano garantiu maioria nas duas Casas do Congresso, mas por uma margem pequena.\nO resultado deu base para Trump avançar com a agenda no Congresso, já que também é do Partido Republicano. Por outro lado, a maioria apertada limitou essa força e expôs divisões dentro do próprio partido em temas mais sensíveis.\nDiante desse cenário, Trump tem investido pesado e feito promessas para tentar manter o controle da Câmara e do Senado.\nLEIA MAIS\nEntenda por que as midterms podem mexer com dólar e juros no Brasil\nO que são as midterms, quando será a votação e o que está em jogo em 2026\nSIGA AO VIVO: urnas das midterms abrem em 12 estados da Costa Leste nos EUA\nBolsa tem queda histórica\nO Ibovespa acumulou desvalorização de 18,12% na semana encerrada em 30 de outubro de 2026, após o segundo turno das eleições presidenciais. \nSegundo levantamento da Elos Ayta, com dados da B3, foi a quinta maior queda semanal desde o início do Plano Real, em julho de 1994.\nO recuo igualou, com duas casas decimais, a perda registrada na semana dos atentados de 11 de setembro de 2001, quando o índice também caiu 18,12%. \nAs maiores baixas do período ocorreram durante a crise financeira asiática, em 1997 (-22,17%); a crise financeira global, em 2008 (-20,01%); e o início da pandemia de Covid-19, em 2020 (-18,88%).\nDiferentemente desses episódios, a queda de outubro de 2026 teve como principal catalisador um acontecimento político doméstico: a reeleição do presidente Luiz Inácio Lula da Silva (PT). \nSegundo a análise da Elos Ayta, o resultado contrariou as expectativas de parte dos investidores sobre uma possível mudança na condução da política econômica e provocou uma reavaliação dos preços dos ativos brasileiros.\nBolsas globais\nEm Wall Street, os três principais índices acionários americanos fecharam mistos nesta terça-feira, conforme investidores seguiram atentos às midterms.\nO Dow Jones teve queda de 0,24%, enquanto o S&amp;P 500 subiu 0,59% e o Nasdaq Composite ganhou 1,06%.\nNa Europa, a maioria dos índices fechou em queda nesta terça-feira, em meio a dúvidas sobre um possível acordo de paz no Oriente Médio e as eleições nos EUA. O índice pan-europeu STOXX 600 caiu 0,58%, aos 645,66 pontos.\nEntre os demais índices da região, o DAX, da Alemanha, caiu 0,31%, enquanto o CAC-40, da França, recuou 0,22% e o FTSE 100, do Reino Unido, teve perdas de 1,03%.\nNa Ásia, as bolsas fecharam em queda nesta terça-feira, conforme investidores avaliavam as medidas para incentivar a entrada de dinheiro no mercado como insuficientes.\nO SSEC, Índice de Xangai, perdeu 0,82%, enquanto o CSI300, que reúne grandes empresas chinesas, caiu 0,20%. Na Coreia do Sul, o Kospi desvalorizou 3,59% e o Hang Seng, de Hong Kong, teve ganhos de 0,57%. No Japão, o Nikkei permaneceu fechado.\n* Com informações da agência de notícias Reuters.\nNotas de dólar.\nLuisa Gonzalez/ Reuters",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 12:00:19 -0000"
+    },
+    {
       "id": "475e10fce754",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Eleições nos EUA: primeiras urnas fecham em dois estados; ACOMPANHE",
+      "title": "Eleições nos EUA tem 16 senadores eleitos, incluindo uma virada; ACOMPANHE",
       "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-      "summary": "Eleições nos EUA: primeiras urnas fecham em dois estados; ACOMPANHE Votação nas midterms ocorre nesta terça-feira (3), e pleito vai renovar a Câmara e um terço do Senado. Eleição é decisiva para Donald Trump, que tenta manter a maioria republicana no Congresso. Cerca de 250 milhões de norte-americanos estão aptos a votar neste ano. Os americanos foram às urnas nesta terça-feira (3) para renovar boa parte do Congresso e eleger governadores de 26 estados.. Chamadas de midterms, as eleições de meio de mandato de 2026 são cruciais para Trump e vão definir quanto poder ele terá no seus próximos 2 anos de mandato.. Projeções indicam que o Partido Democrata, que faz oposição a Donald Trump, pode conquistar o controle da Câmara e do Senado. Veja aqui as projeções para as disputas na Câmara e no Senado.. Tudo sobre as midterms: saiba o que são, o que está em jogo e como está a disputa. MAPAS vão mostrar a apuração em tempo real",
+      "summary": "Eleições nos EUA tem 16 senadores eleitos, incluindo uma virada; ACOMPANHE Votação nas midterms ocorre nesta terça-feira (3), e pleito vai renovar a Câmara e um terço do Senado. Eleição é decisiva para Donald Trump, que tenta manter a maioria republicana no Congresso. Cerca de 250 milhões de norte-americanos estão aptos a votar neste ano. Os americanos foram às urnas nesta terça-feira (3) para renovar boa parte do Congresso e eleger governadores de 26 estados.. Chamadas de midterms, as eleições de meio de mandato de 2026 são cruciais para Trump e vão definir quanto poder ele terá no seus próximos 2 anos de mandato.. Projeções indicam que o Partido Democrata, que faz oposição a Donald Trump, pode conquistar o controle da Câmara e do Senado.. Tudo sobre as midterms: saiba o que são, o que está em jogo e como está a disputa. MAPAS vão mostrar a apuração em tempo real",
       "tags": [
-        "eleições",
-        "urnas"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia"
       ],
-      "score": 87,
-      "publishedRaw": "Tue, 03 Nov 2026 22:59:17 -0000"
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 02:54:44 -0000"
+    },
+    {
+      "id": "70a422792b13",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: democrata vence disputa para o Senado pela Carolina do Norte",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-democrata-vence-disputa-para-o-senado-pela-carolina-do-norte.ghtml",
+      "summary": "Roy Cooper e Michael Whatley disputam vaga na Carolina do Norte\nJonathan Drake/Reuters; Anadolu via Reuters Connect\nEx-governador da Carolina do Norte, o democrata Roy Cooper venceu nesta terça-feira (3) o republicado Michael Whatley na disputa pelo Senado no estado.\nEstado tradicionalmente republicano, a Carolina do Norte era apontada como uma das principais oportunidades de virada democrata no Senado.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS mostram resultados das eleições nos EUA em tempo real\nCooper foi procurador-geral por quatro mandatos e governou a Carolina do Norte entre 2017 e 2025. De perfil moderado, conseguiu vencer duas eleições para governador mesmo com Donald Trump também conquistando o estado.\nSeu adversário Michael Whatley, por sua vez, é ex-presidente do Comitê Nacional Republicano. Ele é aliado de Trump e construiu sua carreira dentro do Partido Republicano sem nunca ter ocupado um cargo eletivo.\nA disputa chamou atenção porque, apesar de a Carolina do Norte ter votado em republicanos nas últimas quatro eleições presidenciais, Cooper demonstrou capacidade de conquistar eleitores além da base democrata.\nMidterms: o que está em jogo nas eleições dos Estados Unidos?",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 01:26:06 -0000"
+    },
+    {
+      "id": "f6b8e21ce1b3",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: político em ascensão entre os democratas, Jon Ossoff é reeleito para o Senado pela Geórgia",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-politico-em-ascensao-entre-os-democratas-jon-ossoff-e-reeleito-ao-senado-pela-georgia.ghtml",
+      "summary": "Jon Ossoff, candidato democrata ao Senado dos EUA pela Geórgia, durante ato de campanha nesta segunda-feira (4)\nMike Segar/Reuters\nO democrata Jon Ossoff foi reeleito nesta terça-feira (3) para uma vaga no Senado pelo estado da Geórgia. Ossoff disputou com o republicano Mike Collins e era o único senador democrata em exercício que buscava a reeleição em um estado onde Trump venceu em 2024.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS mostram resultados em tempo real\nCom a carreira política em ascensão, o senador é cotado como um dos possíveis candidatos do partido para as eleições presidenciais de 2028, segundo escreveu a colunista do g1, Sandra Cohen.\nAos 39 anos, ele é frequentemente comparado com Obama em estilo e carisma. Num comício na quarta-feira passada, o ex-presidente derramou-se em elogios ao candidato:\n“Não é só porque ele é tão bem-apessoado. Não é porque ele se parece com um Kennedy, todo charmoso nos vídeos. É porque ele aprendeu com seu mentor e meu mentor – um dos grandes: John Lewis\", afirmou, referindo-se ao líder dos direitos civis.\nOssoff vive um momento de grande popularidade. Foi dele o comentário que expôs o suposto vínculo entre o presidente Trump e sua assistente Natalie Harp e viralizou nas redes sociais. Por enquanto, ele diz não ter interesse nas eleições para a Casa Branca, mas uma pesquisa recente apontou que ele venceria o vice-presidente JD Vance e o secretário Marco Rubio, num eventual confronto em dois anos.\nSua campanha para o Senado centrou-se em ataques a Trump pela maneira como o presidente conduziu a guerra contra o Irã e lidou com os arquivos de Jeffrey Epstein.\n“Enquanto o presidente corrupto e sua família corrupta arrecadam bilhões do mundo todo, você paga mais por tudo. Eles dobraram seus prêmios de seguro e cortaram o Medicaid para reduzir os impostos para os ricos, nos levaram à guerra com mentiras e passaram a maior parte do ano passado acobertando o pedófilo mais famoso do mundo”, resumiu o candidato, num de seus comícios.\nPrimeiro senador judeu da Geórgia e o mais jovem da Casa, ele criticou Israel e votou contra a venda de armas ao país durante a guerra em Gaza, levantando a desconfiança de parte da comunidade judaica. \nEle atacou o rival Mike Collins por vínculos com a extrema direita: o deputado foi alvo de uma investigação do Comitê de Ética da Câmara e de denúncias de postagens antissemitas e supremacistas feitas por seu genro.\nEconomia, inflação e imigração: o que pode decidir as midterms nos EUA?",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 00:56:13 -0000"
+    },
+    {
+      "id": "adf13ebc744c",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: Democratas lideram disputa pelo Senado; acompanhe",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-acompanhe-os-resultados-para-o-senado.ghtml",
+      "summary": "Economia, inflação e imigração: o que pode decidir as midterms nos EUA?\nAs urnas das eleições de meio de mandato dos Estados Unidos já fecharam em partes do país, na noite desta terça-feira (3). A votação continua na maior parte do território americano. Ainda assim, os primeiros resultados já foram divulgados e apontam vantagem democrata.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados em tempo real\n📊 Até a última atualização desta reportagem, os resultados para o Senado estavam da seguinte forma:\n🔵 Democratas: 45\n🔴 Republicanos: 36\nAguardando resultado: 19\nHá 35 cadeiras em disputa no Senado. As demais 65 cadeiras só serão renovadas nas eleições de 2028. Para obter maioria na Casa, um partido precisa eleger 51 senadores.\nPesquisas de opinião e agregadores de projeções apontam que o Partido Democrata é favorito na disputa pela Senado. No entanto, a corrida é considerada acirrada.\nCaso as projeções se confirmem, o Partido Republicano, do presidente Donald Trump, perderá o controle da Casa. Nas eleições de 2024, os republicanos conquistaram 53 cadeiras.\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores têm mandatos de seis anos.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nNeste ano, além das 435 cadeiras da Câmara, estão em disputa 35 das 100 cadeiras do Senado.\nVista da cúpula do Capitólio dos Estados Unidos.\nKent Nishimura / Reuters\nVÍDEOS: agora no g1\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 00:04:17 -0000"
+    },
+    {
+      "id": "4c397723e8c1",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: veja os resultados da disputa para governador",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-veja-os-resultados-da-disputa-para-governador.ghtml",
+      "summary": "Eleitores votam durante as eleições de meio de mandato nos EUA, em uma seção eleitoral em Hillsboro, Virgínia, EUA\nREUTERS/Tierney L. Cross\n \nOs Estados Unidos foram às urnas neste terça-feira (3) para eleger 36 governadores.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS mostram resultados das eleições nos EUA em tempo real\n📊 Até a última atualização desta reportagem, os resultados estavam da seguinte forma:\n🔵Democratas: 5 estados - Illinois, Maryland, Massachusetts, Pensilvânia, Rhode Island, Geórgia (virada)\n🔴Republicanos: 2 estados - Wyoming e Flórida\nAguardando resultado: 25 estados - Alabama, Alasca, Arizona, Arkansas, Califórnia, Carolina do Sul, Colorado, Connecticut, Dakota do Sul, Havaí, Idaho, Iowa, Kansas, Maine, Michigan, Minnesota, Nebraska, Nevada, New Hampshire, Nova York, Novo México, Ohio, Oklahoma, Oregon, Tennessee, Texas, Vermont, Wisconsin.\n👉 A disputa envolve 18 governos atualmente controlados por democratas e 18 por republicanos. De todos os estados, 17 não tiveram um titular concorrendo à reeleição, tanto pelo limite de mandato - que varia de lugar para lugar - quanto por aposentadoria.\nConfira as disputas em cada estado:\nAlabama\nA governadora republicana Kay Ivey não pode disputar um terceiro mandato consecutivo. O republicano Tommy Tuberville, senador pelo estado, enfrenta o democrata Doug Jones, ex-senador e ex-procurador-geral do Alabama.\nAlasca\nO republicano Mike Dunleavy está impedido de concorrer novamente pelo limite de dois mandatos consecutivos. O democrata Jonathan Kreiss-Tomkins, ex-deputado estadual, enfrenta os republicanos Dave Bronson, ex-prefeito de Anchorage, e Treg Taylor, ex-procurador-geral do estado, além de Bernadette Wilson.\nArizona\nA democrata Katie Hobbs tenta conquistar um segundo mandato. Ela enfrenta o republicano Andy Biggs, deputado federal e aliado do presidente Donald Trump.\nArkansas\nA republicana Sarah Huckabee Sanders busca a reeleição. Ela enfrenta o atual senador estadual democrata Fred Love.\nCalifórnia\nO democrata Gavin Newsom não pode se candidatar novamente já que a legislação americana só permite uma reeleição. Então, o partido indicou Xavier Becerra, ex-secretário de Saúde e Serviços Humanos no governo Joe Biden e ex-procurador-geral da Califórnia. Ele vai disputar como o republicano Steve Hilton, empresário e ex-comentarista da rede de TV americana Fox News.\nColorado\nO democrata Jared Polis não pode concorrer a um terceiro mandato consecutivo. O partido escolheu Phil Weiser, procurador-geral do estado, para disputar o governo contra o republicano Victor Marx, líder de uma organização religiosa.\nConnecticut\nO democrata Ned Lamont busca a reeleição para um terceiro mandato. Ele enfrenta o republicano Ryan Fazio, senador estadual.\n🔴 Flórida - vitória republicana\nO republicano Ron DeSantis não pôde disputar um terceiro mandato consecutivo. O deputado federal republicano Byron Donalds venceu a disputa contra o ex-deputado federal democrata David Jolly.\n⚠️🔵Geórgia - vitória democrata (virada)\nA democrata Keisha Lance Bottoms, ex-prefeita de Atlanta, venceu o republicano Rick Jackson, empresário. Bottoms será a 1ª mulher a governar o estado. Além disso, será a primeira mulher negra a ocupar o cargo de governadora na história dos Estados Unidos. A vitória representa uma virada no estado, que era governador pelo Partido Republicano.\nHavaí\nO democrata Josh Green busca a reeleição. Ele enfrenta o republicano Gary Cordery, empresário.\nIdaho\nO republicano Brad Little tenta conquistar um terceiro mandato consecutivo. Ele enfrenta a democrata Terri Pickens Manweiler, ex-integrante da administração estadual.\n🔵 Illinois - vitória democrata\nO democrata J.B. Pritzker conquistou um terceiro mandato consecutivo. Ele enfrentou o republicano Darren Bailey, ex-senador estadual e candidato ao governo em 2022.\nIowa\nA governadora republicana Kim Reynolds não vai disputar a reeleição. Em seu lugar, a sigla indicou o empresário e agricultor Zach Lahn enfrenta o democrata Rob Sand, auditor do estado desde 2019.\nKansas\nA governadora democrata Laura Kelly não pode concorrer a mais um mandato. Em seu lugar, a democrata Cindy Holscher, senadora estadual, enfrenta o republicano Ty Masterson, presidente do Senado estadual.\nMaine\nA democrata Janet Mills não pode disputar um terceiro mandato consecutivo. O partido escolheu Hannah Pingree, ex-presidente da Câmara estadual, para concorrer contra o republicano Robert Charles, ex-funcionário do Departamento de Estado americano. O senador estadual independente Rick Bennett também participa da disputa.\n🔵 Maryland - vitória democrata\nO democrata Wes Moore conquistou a reeleição. Ele enfrentou o republicano Dan Cox, ex-deputado estadual e candidato ao governo em 2022.\n🔵 Massachusetts - vitória democrata\nA democrata Maura Healey conquistou um segundo mandato. Ela enfrentou o republicano Mike Minogue, empresário e executivo do setor de biotecnologia.\nMichigan\nA democrata Gretchen Whitmer não pode concorrer a um terceiro mandato consecutivo. O partido democrata apoia a secretária de Estado Jocelyn Benson, que enfrenta o deputado federal republicano John James.\nMinnesota \nO governador democrata Tim Walz decidiu não concorrer à reeleição. A disputa ao governo coloca de frente a senadora democrata Amy Klobuchar e a presidente da Câmara estadual, a republicana Lisa Demuth.\nNebraska\nO republicano Jim Pillen busca a reeleição. Ele enfrenta a democrata Lynne Walz, ex-deputada estadual.\nNevada\nO republicano Joe Lombardo busca um segundo mandato contra o procurador-geral democrata Aaron Ford, em um dos estados mais rachados do país.\nNew Hampshire\nA republicana Kelly Ayotte tenta conquistar um segundo mandato. Ela enfrenta a democrata Cinde Warmington, integrante do Conselho Executivo do estado.\nNovo México\nA democrata Michelle Lujan Grisham não pode concorrer a um terceiro mandato consecutivo. O partido escolheu Deb Haaland, ex-secretária do Interior no governo Joe Biden, para enfrentar o republicano Gregg Hull, prefeito de Rio Rancho.\nNova York\nA democrata Kathy Hochul busca a reeleição. Ela enfrenta o republicano Bruce Blakeman, executivo do condado de Nassau.\nOhio\nO republicano Mike DeWine não pode concorrer a um terceiro mandato consecutivo. O partido escolheu Vivek Ramaswamy, empresário e ex-candidato às primárias presidenciais republicanas de 2024, para enfrentar a democrata Amy Acton, ex-diretora do Departamento de Saúde do estado.\nOklahoma\nO republicano Kevin Stitt não pode disputar um terceiro mandato consecutivo. O republicano Mike Mazzei, ex-senador estadual, enfrenta a democrata Cindy Munson, líder da minoria democrata na Câmara estadual.\nOregon\nA democrata Tina Kotek busca a reeleição. Ela enfrenta a republicana Christine Drazan, líder da minoria republicana na Câmara estadual e candidata ao governo em 2022.\n🔵Pensilvânia  - vitória democrata\nO democrata Josh Shapiro conquistou um segundo mandato. Ele enfrentou a republicana Stacy Garrity, tesoureira estadual.\n🔵 Rhode Island - vitória democrata\nA democrata Helena Foulkes, ex-executiva da rede farmacêutica CVS, venceu o republicano Aaron Guckian, que terminou a disputa em 3º lugar. Ele foi ultrapassado pelo candidato independente Kenneth Block, que ficou em 2º.\nCarolina do Sul\nO republicano Henry McMaster não pode concorrer a um terceiro mandato consecutivo. O republicano Alan Wilson, procurador-geral do estado, enfrenta o democrata Jermaine Johnson, deputado estadual.\nDakota do Sul\nO republicano Larry Rhoden busca a reeleição. Ele enfrenta o democrata Dan Ahlers, ex-deputado estadual.\nTennessee\nO republicano Bill Lee não pode concorrer a um terceiro mandato consecutivo. A republicana Marsha Blackburn, senadora federal pelo estado, enfrenta a democrata Jerri Green.\nTexas\nO republicano Greg Abbott busca um quarto mandato consecutivo. Ele enfrenta a democrata Gina Hinojosa, deputada estadual.\nVermont\nO republicano Phil Scott tenta conquistar um quinto mandato consecutivo. Ele enfrenta a democrata Amanda Janoo.\nWisconsin\nO atual governador democrata Tony Evers decidiu não disputar um terceiro mandato. Os democratas lançaram a candidatura do executivo David Crowley contra o deputado republicano Tom Tiffany.\n🔴 Wyoming - vitória republicana\nO republicano Eric Barlow, senador estadual, venceu o democrata Ken Casner.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 00:00:00 -0000"
+    },
+    {
+      "id": "b6c6c9b6d30a",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: quem é James Talarico, que pode derrotar Trump na disputa para o Senado pelo Texas",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-quem-e-james-talarico-que-pode-derrotar-trump-na-disputa-para-o-senado-pelo-texas.ghtml",
+      "summary": "O candidato democrata ao Senado pelo Texas, James Talarico, durante ato de campanha em 30 de outubro de 2026, no Texas.\nSam Craft/ AP\nEm uma eleição em que o Partido Republicano colocou a fé cristã como elemento central de campanha, é justamente um seminarista presbiteriano que ameaça tomar da sigla de Donald Trump um de seus redutos mais tradicionais.\nNo estado do Texas, o democrata James Talarico, de 37 anos, lidera a corrida por uma vaga no Senado, segundo as principais pesquisas de intenção de voto. O atual deputado estadual se tornou um dos grandes nomes das midterms, como são chamadas a eleições em que norte-americanos vão às urnas para renovar parte da Câmara dos Deputados e do Senado.\n➡️ Projeções indicam que os democratas, partido de oposição a Trump, devem retomar o controle da Câmara e podem conquistar maioria no Senado — atualmente, o Partido Republicano, do presidente dos EUA, detém o controle nas duas Casas. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados das eleições nos EUA em tempo real\nEvangélico, Talarico usou a fé cristã como um dos pilares de sua campanha, mas investiu em um discurso contrário ao do nacionalismo cristão que o governo de Donald Trump adota. O candidato democrata, deputado estadual desde 2018, defende a diversidade de religiões, os direitos de pessoas transgênero e da população LGBTQIA+ em geral e já disse que “Deus é não binário”. \nÉ um forte crítico da política anti-imigrantes de Trump e diz usar sua fé cristã para defender políticas sociais. \nNascido nos arredores de Austin, uma das cidades mais democratas do Texas, Talarico já foi seminarista presbiteriano e professor do ensino fundamental e é mestre em estudos teológicos. Mas migrou cedo para a política. \nApós se formar em ciência política com especialização em governabilidade, cursou também um mestrado em políticas educacionais por Harvard e, na sequência, se candidatou para deputado estadual e venceu quatro mandatos. \nNesse período, construiu uma sólida base de apoio entre eleitores democratas mas também cristãos e que usa agora para tentar quebrar mais de três décadas de hegemonia republicana no estado. \nDisputa acirrada\nO candidato democrata ao Senado pelo Texas, nos Estados Unidos, James Talarico, durante campanha na cidade de Dallas, em 29 de outubro de 2026.\nMike Segar/ Reuters\nNas urnas, Talarico enfrenta o procurador-geral Ken Paxton, envolvido em escândolos de corrupção mas que ganhou respaldo de Donald Trump nas primárias republicanas e US$ 150 milhões doados por Elon Musk para sua campanha.\nPesquisas mostram Talarico ligeiramente à frente, em uma disputa que promete ser acirrada. \nUma vitória de Talarico em um estado republicano poderia sinalizar uma reconfiguração do mapa político nacional. “Vamos chocar o mundo quando recuperarmos o Texas”, disse Talarico em um comício a uma multidão há duas semanas. \nNo mesmo dia, seu rival alertou a apoiadores: “Se perdermos o Texas, perderemos a América”.\nPor que as eleições dos EUA são sempre na terça-feira?",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 23:20:56 -0000"
+    },
+    {
+      "id": "71d235b48b3c",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: democratas conquistam 101 cadeiras, contra 53 dos republicanos; acompanhe",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-acompanhe-os-resultados-para-a-camara.ghtml",
+      "summary": "Economia, inflação e imigração: o que pode decidir as midterms nos EUA?\nOs americanos foram às urnas nas eleições de meio de mandato dos Estados Unidos para renovar todas as cadeiras das Câmaras dos Representantes, equivalente à Câmara dos Deputados no Brasil.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados em tempo real\n📊 Até a última atualização desta reportagem, os resultados estavam da seguinte forma:\n🔵Democratas: 101\n🔴Republicanos: 53\nAguardando resultado: 280\nHá 435 cadeiras em disputa na Câmara dos Representantes. Para obter maioria na Casa, um partido precisa eleger 218 deputados.\nPesquisas de opinião e agregadores de projeções apontam que o Partido Democrata é favorito na disputa pela Câmara. As projeções indicam que a legenda deve conquistar mais de 230 cadeiras.\nCaso as projeções se confirmem, o Partido Republicano, do presidente Donald Trump, perderá o controle da Casa. Nas eleições de 2024, os republicanos conquistaram 220 cadeiras.\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores têm mandatos de seis anos.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nNeste ano, além das 435 cadeiras da Câmara, estão em disputa 35 das 100 cadeiras do Senado.\nCâmara dos Deputados dos EUA em foto de 20 de outubro de 2023\nJonathan Ernst/REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 23:00:01 -0000"
+    },
+    {
+      "id": "c9ce6d862e4c",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: astronautas da Nasa votam do espaço",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-astronautas-da-nasa-votam-do-espaco.ghtml",
+      "summary": "Astronauta Anil Menon fala sobre como deu seu voto nas eleições dos EUA no espaço\nReprodução/X\nOs astronautas Anil Menon, Jessica Watkins e Luke Delaney votaram nas midterms dos Estados Unidos, eleição de meio de mandato que vai renovar a Câmara e um terço do Senado no país. Todos deram seus votos do espaço, onde estão em uma missão espacial pela Nasa.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados das eleições nos EUA em tempo real\nEm vídeo publicado nas redes sociais nesta terça-feira (3), Anil Menon relatou que sua cabine-leito serviu como sua cabine de voto. \"Hoje temos o privilégio de votar aqui, assim como você que está no chão\", disse.\nO astronauta explicou que os votos foram dados no seu computador através de uma cédula de votação eletrônica, que foi enviada para funcionários eleitorais. Menon disse que a cédula foi enviada para o Condado de Harris, no Texas. O Condado abriga o centro de treinamento espacial da Nasa, chamado Johnson Space Center and Mission Control.\nInitial plugin text\nDe acordo com a Nasa, astronautas em missão espacial votam em eleições dos Estados Unidos desde 1997. Naquele ano, o Congresso do Texas aprovou um projeto que permitia o envio de cédulas a partir do espaço. O primeiro astronauta a votar foi David Wolf.\nOs tripulantes espaciais podem votar por meio do voto antecipado ou declarando 'voto ausente', que permite o envio de uma cédula oficial sem precisar ir a uma seção eleitoral. \nO envio é eletrônico. Do espaço, a comunicação acontece pelo sistema de comunicação e navegação da Nasa. A agência espacial afirma que essa rede conecta missões a até 1,2 milhão de milhas (cerca de 1,9 milhão de quilômetros) da Terra com serviços de comunicação e navegação.\nUma vez que o tripulante preenche sua cédula de votação, o documento passa para uma antena terrestre no Complexo de Testes de White Sands da agência em Las Cruces, Novo México; \nEm seguida, a Nasa transfere a cédula para o Centro de Controle de Missão no Centro Espacial Johnson; \nDepois, a cédula é transferida para o funcionário público municipal responsável por computar o voto;\nPara preservar a integridade do voto, a cédula é criptografada e fica acessível apenas para o astronauta e para o funcionário público.\nMenon, Watkins e Delaney fazem parte da equipe que viajou para a Estação Espacial Internacional. Menon foi em julho deste ano em uma missão de longo prazo ao lado de dois cosmonautas russos: Pyots Dubrov e Anna Kikina. \nEm outubro, Watkins e Delaney se juntaram à equipe ao lado do canadense Joshua Kutryk e do russo Sergey Teteryatnikov. Eles são responsáveis pela condução e manutenção de experimentos na Estação.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 20:32:52 -0000"
+    },
+    {
+      "id": "a188b9ed4c7e",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/3-cenarios-possiveis-resultados-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
+      "summary": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA\nGetty Images via BBC\nApós meses de campanha e bilhões de dólares gastos com as eleições de meio de mandato nos Estados Unidos (midterms, em inglês), o dia da eleição finalmente chegou.\nAs últimas pesquisas eleitorais indicam que os democratas aparentemente detêm a vantagem. Mas as pesquisas nem sempre são confiáveis, e este ano pode trazer resultados surpreendentes.\nDe forma geral, existem três resultados possíveis que podem surgir após a contagem dos votos. Detalhamos aqui quais são eles, os primeiros sinais que podem surgir durante a apuração e o que cada uma destas possibilidades representa para os Estados Unidos.\n1. Uma grande onda democrata\nSe o histórico servir de alguma coisa, as midterms costumam favorecer o partido que está na oposição.\nAcrescente-se que as pesquisas indicam um presidente historicamente impopular, uma guerra contra o Irã que aumentou o custo de vida no país e algumas políticas polêmicas, como o combate agressivo à imigração e o apoio para a construção de data centers no país. \nEstes fatores formam as condições necessárias para a chamada onda eleitoral.\nNeste primeiro cenário, o que acontece é exatamente uma onda enorme. Os democratas poderão não só assumir o controle da Câmara dos Representantes, mas ultrapassar em muito as 218 cadeiras necessárias para a obtenção da maioria.\nEles podem conquistar não só as cerca de 12 vagas que os analistas consideram indefinidas, mas também inverter algumas cadeiras consideradas mais sólidas em poder dos conservadores.\nNo Senado, este cenário também exigiria que os democratas conquistassem todas ou a maioria das cadeiras atualmente indefinidas, incluindo algumas em Estados tradicionalmente conservadores.\nNesta hipótese, haveria pelo menos uma vitória surpreendente em um Estado que não elegeu um democrata em toda uma geração (o Texas), ou em quase um século (Kansas).\nSe isso acontecesse, os democratas não só assumiriam o controle do Senado. Eles teriam uma ou duas cadeiras de vantagem.\nEste resultado poderia evitar dificuldades, como um possível questionamento legal dos republicanos no Alasca, onde um juiz recusou uma ação judicial do governo Trump em relação à disputa envolvendo dois candidatos com o mesmo nome (Dan Sullivan).\nOs democratas poderão atingir este objetivo incentivando o comparecimento dos seus eleitores e conquistando os independentes por margens consideráveis.\nEste resultado reverteria as incursões de Trump entre os eleitores hispânicos e homens jovens em 2024. E alguns eleitores republicanos ainda poderiam apoiar os democratas ou simplesmente se abster de votar.\nEste tipo de resultado representaria um castigo doloroso para Trump e seu Partido Republicano, estabelecendo as bases para dois anos de conflito entre um Partido Democrata recém-revigorado, com suas mãos firmes no leme do Legislativo, e um presidente que raramente recusa uma briga.\nCompetitividade das disputas eleitorais nos EUA\nBBC\nPrimeiros sinais durante a apuração dos votos:\nSe os democratas mantiverem suas cadeiras na Câmara na Flórida e conquistarem alguns distritos republicanos na Carolina do Norte, Michigan, Nova York, Virgínia e Kentucky. Se eles conquistarem a vaga republicana no Senado na Carolina do Sul, esta será uma boa noite para os democratas.\n2. Um avanço democrata modesto\nTalvez as pesquisas não estejam totalmente erradas, mas também não completamente certas. Neste cenário, pode ocorrer que os democratas colham frutos nas eleições para a Câmara e conquistem a maioria, mas não de forma expressiva.\nIsso significaria que os líderes democratas na Câmara precisariam disputar regularmente com seus membros mais à esquerda e do centro para garantir votos suficientes para a aprovação de novas leis.\nNo lado do Senado, neste cenário hipotético, os democratas reverteriam apenas uma ou duas cadeiras (a Carolina do Norte, por exemplo, que parece garantida), mas as disputas nos bastiões conservadores acabariam ficando inatingíveis.\nTalvez eles não consigam conquistar a vaga da resiliente senadora republicana Susan Collins, do Maine. Ou o candidato de esquerda Abdul El-Sayed pode não conquistar a vaga de Michigan para os democratas.\nTalvez a controvérsia sendo travada em torno dos Dan Sullivans seja um fator para afundar a candidata democrata Mary Peltola, no Alasca.\nPara que prevaleça este cenário de \"vitória modesta\", o grande comparecimento dos eleitores democratas que observamos na votação antecipada precisará ser igualado por uma onda de republicanos no dia da eleição.\nOs esforços de Trump, convocando sua base nos Estados republicanos, poderão ajudar seu partido a evitar o pior cenário. As cadeiras dentro ou próximas da margem de erro das pesquisas podem ser divididas entre os dois partidos.\nO resultado seria um Congresso dividido, o que é a receita perfeita para um impasse político.\nPrimeiros sinais durante a apuração dos votos:\nSe, de forma geral, a Flórida se mantiver confortavelmente republicana. Se os democratas conquistarem algumas cadeiras na Câmara em Estados como a Virgínia e a Pensilvânia, mas os atuais congressistas republicanos, em locais mais seguros do campo político pelo país, conseguirem evitar uma derrota em massa.\nDonald Trump\nREUTERS\n3. Uma boa noite para os republicanos\nEste cenário significa a manutenção dos congressistas republicanos nas duas câmaras do Congresso.\nPara que isso aconteça, as pesquisas (que já subestimaram anteriormente o apoio a Donald Trump) precisam estar erradas e as disputas indefinidas, em sua maioria, seriam definidas em favor dos republicanos.\nNesta hipótese, os eleitores republicanos precisariam comparecer às urnas em números inesperadamente significativos. E, além disso, os eleitores hispânicos e independentes, aparentemente descontentes com as políticas de Trump, também precisariam ficar a favor do presidente.\nNeste cenário, o controle da Câmara, longe de ser garantido para os democratas, poderia ser definido pela Califórnia, com seu longo processo de contagem de votos pelo correio, que dura vários dias.\nCom isso, os republicanos poderão conseguir uma maioria apertada, graças, em parte, aos esforços para traçar linhas distritais mais favoráveis para o Congresso, em Estados como o Texas, a Flórida e a Carolina do Norte.\nPode também ocorrer que os republicanos conquistem todas as cadeiras do Senado nos Estados conservadores e ainda vençam a eleição em Michigan, uma vaga mantida pelos democratas que está em disputa.\nMesmo se os republicanos não mantiverem a Carolina do Norte, nem vencerem nos Estados democratas de Minnesota ou New Hampshire (disputas apenas periféricas para a competição nas eleições deste ano), eles podem pelo menos deixar os candidatos democratas preocupados.\nSe isso acontecer, Trump poderá reivindicar um mandato eleitoral renovado na manhã desta quarta-feira (4/11) e levar adiante sua agenda política doméstica e externa, contando com o apoio contínuo de um Congresso republicano.\nPrimeiros sinais durante a apuração dos votos:\nSe os senadores Ashley Moody, da Flórida, e Jon Husted, de Ohio, forem reeleitos. Se os republicanos mantiverem seus deputados nas disputas da Pensilvânia e da Virgínia para a Câmara e conquistarem cadeiras atualmente nas mãos dos democratas na Carolina do Norte, em Ohio e na Flórida.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 20:09:34 -0000"
     },
     {
       "id": "0172d0e95d9c",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Eleições nos EUA: primeiras urnas fecham enquanto boca de urna mostra americanos descontentes com a economia; veja os resultados",
+      "title": "Eleições nos EUA: democratas se animam com primeiros resultados anunciados; veja projeções",
       "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
-      "summary": "Votação começa a ser encerrada nos Estados americanos, enquanto pesquisas mostram maiores preocupações do eleitorado ao votar. Midterms definem composição do Congresso no restante do mandato de Donald Trump.",
+      "summary": "Votação já foi encerrada em mais de 20 Estados americanos, enquanto pesquisas mostram maiores preocupações do eleitorado ao votar. Midterms definem composição do Congresso no restante do mandato de Donald Trump.",
       "tags": [
-        "eleições",
-        "urnas"
+        "eleições"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo"
       ],
-      "score": 87,
+      "score": 86,
       "publishedRaw": ""
+    },
+    {
+      "id": "2b8aa9c29c35",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
+      "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
+      "summary": "Após o fechamento das urnas, é possível que os resultados demorem horas, dias ou até mesmo semanas. Entenda como funciona a apuração.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 20:11:24 GMT"
+    },
+    {
+      "id": "0907b6abae8c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 16:20:58 GMT"
+    },
+    {
+      "id": "4bfcadbfcf48",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Haverá uma onda democrata ou testemunharemos uma resiliência republicana apesar da impopularidade de Trump neste momento?",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 19:57:46 GMT"
+    },
+    {
+      "id": "25285ae429f5",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
+      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 09:35:49 GMT"
+    },
+    {
+      "id": "c0724d7be9cf",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A disputa de mais de US$ 500 milhões por uma vaga no Senado do Texas está entre as mais acompanhadas das eleições de meio de mandato dos EUA — e seu impacto vai além do controle do Congresso.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 10:04:52 GMT"
+    },
+    {
+      "id": "a7eb4247a433",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Do espaço, astronauta da Nasa vota nas eleições dos EUA",
+      "link": "https://www.bbc.com/portuguese/watch/c6lyl575z49yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Anil Menon fez vídeo mostrando como enviou seu voto e participou das eleições americanas que vai renovar o Congresso.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo"
+      ],
+      "score": 86,
+      "publishedRaw": "Tue, 03 Nov 2026 22:38:23 GMT"
+    },
+    {
+      "id": "6c027b85c97e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/com-mercado-dividido-apos-reeleicao-de-lula-bc-decide-nesta-quarta-entre-novo-corte-ou-manutencao-da-taxa-de-juros.ghtml",
+      "summary": "O Comitê de Política Monetária (Copom) do Banco Central se reúne nesta quarta-feira (16) para definir o patamar da taxa básica de juros da economia brasileira, atualmente em 13,75% após cinco cortes seguidos.\n🕝A decisão do BC sobre a taxa de juros será anunciada após as 18h.\nNa primeira reunião do Copom após a reeleição do presidente Luiz Inácio Lula da Silva (PT) para mais um mandato, os economistas dos bancos estão divididos: a maioria ainda aposta em um novo corte, para 13,50% ao ano, mas parcela considerável prevê manutenção da Selic no atual patamar. \nCom a Selic em 13,75% ao ano, o Brasil lidera um ranking de 40 países elaborado pelos sites MoneYou e Lev Intelligence. Considerando os juros reais, que descontam a inflação estimada para os próximos 12 meses, a taxa brasileira é de 8,45% ao ano, seguida pela da Rússia, de 6,79% ao ano.\n🔎A taxa básica de juros da economia é o principal instrumento do BC para tentar conter as pressões inflacionárias, que tem efeitos, principalmente, sobre a população mais pobre. \nPiora de cenário\nAgora no g1\nDepois de confirmada a vitória de Lula, o mercado financeiro elevou consideravelmente suas projeções de inflação, reduziu as expectativas de crescimento da economia e passou a prever uma taxa de juros mais elevada do que antes. As estimativas para o dólar também subiram bastante.\nPara definir os juros, o BC atua com base no sistema de metas. Se as projeções de inflação estão em linha com as metas, é possível baixar os juros. Se estão acima, o Copom tende a manter ou subir a Selic. \nDesde o início de 2025, o objetivo foi fixado em 3% e será considerado cumprido se a inflação oscilar entre 1,5% e 4,5%.\nAo decidir a taxa básica de juros, o Copom considera principalmente a inflação esperada para os próximos anos, e não apenas a variação de preços observada nos últimos meses. \nIsso ocorre porque mudanças na Selic levam tempo para produzir efeitos sobre a economia. Neste momento, por exemplo, a autoridade monetária já está mirando o segundo trimestre de 2028, período considerado o \"horizonte relevante\" para suas projeções.\nEmbora leve em conta as estimativas do mercado para os próximos anos, que recentemente passaram a indicar câmbio mais depreciado e inflação mais alta, o BC também trabalha com suas próprias projeções para os indicadores econômicos. \nDeste modo, uma piora das expectativas do mercado não é automaticamente incorporada ao cenário utilizado pela autoridade monetária para definir a taxa de juros.\nOpinião dos analistas\nNa última reunião, Banco Central reduziu a taxa de juros pela quinta vez seguida, e Selic foi a 13,75% ao ano\nDe acordo com comunicado do C6 Bank, assinado pelo economista-chefe Felipe Salles, o Copom deve manter a taxa Selic em 13,75% ao ano nesta quarta-feira, interrompendo o ciclo de cortes de juros que vinha sendo implementado.\n\"Na nossa visão, a piora do cenário prospectivo para a inflação [antes mesmo da forte deterioração desta semana] reduz o espaço para novos cortes. Também projetamos manutenção da Selic em 13,75% na reunião de dezembro, com a taxa permanecendo nesse patamar ao final de 2026 e de 2027\", diz a nota do C6 Bank.\nJá a economista-chefe do banco Inter, Rafaela Vitória, manteve expectativa que o BC promova um corte de 0,25 ponto percentual na taxa de juros, para 13,50% ao ano, e que, depois, comunique uma pausa no ciclo de redução na próxima reunião. \n\"Apesar da maior incerteza e aumento do prêmio de risco na curva de juros futuros, a taxa Selic em 13,50% permanece restritiva o suficiente para amortecer os choques inflacionários esperados para o começo de 2027, considerando o horizonte da política monetária o 2º trimestre de 2028, mas não vemos espaço para a continuidade dos cortes nesse momento [após a decisão desta quarta]\", diz a analista do banco Inter. \nA decisão do BC sobre a taxa de juros será anunciada após as 18h nesta quarta-feira (4)\nJornal Nacional/ Reprodução",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Wed, 04 Nov 2026 03:00:01 -0000"
     },
     {
       "id": "242c4b5b9d82",
@@ -171,8 +487,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -192,8 +508,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -213,8 +529,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -222,13 +538,13 @@
       "publishedRaw": "Tue, 03 Nov 2026 13:07:50 -0000"
     },
     {
-      "id": "c02d26beb924",
-      "source": "Folha de São Paulo",
+      "id": "bc9cf0743f43",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Defesa de Vorcaro pede a Fachin perícia oficial em celular apreendido",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/defesa-de-vorcaro-pede-a-fachin-pericia-oficial-em-celular-apreendido.shtml",
-      "summary": "A defesa de Daniel Vorcaro pediu ao presidente do STF (Supremo Tribunal Federal), Edson Fachin, uma perícia oficial sobre o celular do ex-dono do Banco Master. O advogado Sérgio Leonardo foi recebido nesta terça-feira (3) por integrantes do gabinete do ministro, que relata o caso temporariamente, para tratar dos pedidos ainda sem decisão.\nLeia mais (11/03/2026 - 18h55)",
+      "title": "Exames de Lula estão “dentro da normalidade”, diz hospital",
+      "link": "https://www.cnnbrasil.com.br/politica/exames-de-lula-estao-dentro-da-normalidade-diz-hospital/",
+      "summary": "Presidente passa por avaliação de rotina em =São Paulo",
       "tags": [
         "Lula"
       ],
@@ -240,7 +556,28 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "03 Nov 2026 18:55:00 -0300"
+      "publishedRaw": "Wed, 04 Nov 2026 02:29:56 +0000"
+    },
+    {
+      "id": "7628afef48ed",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O que Lula tem de fazer para não virar ‘professor de Deus’",
+      "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-que-lula-tem-de-fazer-para-nao-virar-professor-de-deus/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 03 Nov 2026 23:00:00 +0000"
     },
     {
       "id": "abacece1a5bc",
@@ -255,7 +592,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -276,7 +613,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -285,139 +622,47 @@
       "publishedRaw": "Tue, 03 Nov 2026 16:51:52 +0000"
     },
     {
-      "id": "240e267e2b95",
+      "id": "b9cbcf8b5da2",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Marinho diz que governo Lula não tem coragem de votar maioridade",
-      "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-lula-nao-tem-coragem-de-votar-maioridade/",
-      "summary": "Senador criticou a tentativa da base governista de retirar o tema da votação da PEC da Segurança Pública no Senado",
+      "title": "Com aprovação da PEC da Segurança, Lula diz que criará ministério",
+      "link": "https://www.poder360.com.br/poder-governo/com-aprovacao-da-pec-da-seguranca-lula-diz-que-criara-ministerio/",
+      "summary": "Texto foi apresentado pelo ex-ministro da Justiça Ricardo Lewandowski e aprovado nesta 3ª feira (3.nov) pelo Senado",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Tue, 03 Nov 2026 21:42:45 +0000"
+      "publishedRaw": "Wed, 04 Nov 2026 00:38:55 +0000"
     },
     {
-      "id": "317a56b1d4bf",
+      "id": "dcafde27b9e5",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Caso Master: pai de Vorcaro apresenta ao presidente do STF novo pedido de liberdade",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/03/pai-de-vorcaro-faz-novo-pedido-de-liberdade-ao-supremo-tribunal-federal.ghtml",
-      "summary": "A defesa de Henrique Vorcaro, pai do ex-banqueiro Daniel Vorcaro, apresentou nesta terça-feira (3) um novo pedido de liberdade ao Supremo Tribunal Federal (STF). Caberá ao presidente da Corte, Luiz Edson Fachin, analisar o caso.\nOs advogados solicitam a revogação da prisão preventiva ou a concessão de prisão domiciliar em razão do estado de saúde.\nHenrique Vorcaro foi preso em 14 de maio de 2026, sob suspeita de integrar o suposto núcleo de coerção e intimidação ligado às investigações do caso Master. Ele está detido há mais de 170 dias.\nNo pedido encaminhado à Corte, a defesa anexou um relatório médico emitido em 28 de outubro de 2026. O laudo aponta episódios recorrentes de diverticulite aguda, com registro de internações hospitalares e crises.\nSTF mantém prisão de Henrique Vorcaro\nO documento também diz que Henrique Vorcaro possui indicação para a realização de cirurgia no cólon.\nDiante desse cenário, os advogados afirmam que o quadro clínico se encaixa nas hipóteses previstas em lei de conversão da prisão preventiva em domiciliar. \nAlém da questão médica, os defensores afirmam que não está sendo observada a obrigação legal de revisão da necessidade da prisão preventiva a cada 90 dias.\nIntimidação e invasão a sistemas\nA prisão de Henrique Vorcaro ocorreu durante desdobramentos de investigações que apuram supostos crimes de intimidação, obtenção de informações sigilosas e invasões a sistemas informáticos. \nEssas ações teriam sido realizadas pelo grupo \"A Turma\", investigado na Operação Compliance Zero. Henrique Vorcaro teria ficado responsável pelo financiamento do grupo após a prisão do filho.\nEm setembro, a defesa já havia acionado a presidência do STF argumentando demora e questionando a competência da Corte para conduzir os atos referentes ao pai do empresário, sustentando que ele não possui foro por prerrogativa de função.\nO presidente do STF, Luiz Edson Fachin, reuniu no seu gabinete os inquéritos sobre o caso. \nHenrique Vorcaro, pai de Daniel Vorcaro\nReprodução",
+      "title": "Lula comemora aprovação da PEC da Segurança Pública e reforça criação de ministério",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/03/lula-comemora-aprovacao-da-pec-da-seguranca-publica.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) comemorou nesta terça-feira (3) a aprovação da Proposta de Emenda à Constituição (PEC) da Segurança Pública.\nA proposta, que agora segue para promulgação, dá mais poder ao governo federal para agir contra as organizações criminosas, amplia a cooperação entre União, estados e municípios e prevê punições mais severas para os chefes de facções criminosas, que deverão cumprir pena obrigatoriamente em prisão de segurança máxima (veja mais detalhes abaixo).\nEm uma rede social, Lula reforçou que, a partir da aprovação da PEC, vai criar o Ministério da Segurança Pública. Na postagem, o presidente não anunciou quem vai assumir a pasta.\n\"Vamos somar a esse avanço a criação do Ministério da Segurança Pública, com foco em inteligência, planejamento e cooperação com estados e municípios para enfrentar as facções e as milícias\", escreveu Lula.\nSenado aprova PEC da Segurança Pública; texto vai a promulgação\n\"O povo brasileiro tem o direito de trabalhar, voltar para casa e viver com tranquilidade. Garantir esse direito é um compromisso do Governo do Brasil.\"\nO vice-presidente Geraldo Alckmin também comemorou a aprovação da PEC e disse que a partir de agora será \"combate sem trégua ao crime organizado e proteção ao cidadão\".\n\"Agora nós vamos poder atuar com firmeza no combate ao crime, junto com estados e municípios. A União vai assumir um papel maior protegendo o cidadão e colocando criminosos na cadeia. Na prática, integração entre as polícias, compartilhamento de informações, mais recursos para a segurança. Combate sem trégua ao crime organizado e proteção ao cidadão.\"\nLuiz Inácio Lula da Silva (PT)\nRicardo Stuckert\nPEC da Segurança Pública\nA proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP), cujo objetivo é integrar o combate ao crime organizado entre os entes.\nDe acordo com o texto, União, Estados e Distrito Federal poderão criar leis na área de segurança pública, incluindo forças-tarefa intergovernamentais, organização das polícias e guardas municipais e do sistema socioeducativo.\nOutro ponto central da PEC da Segurança Pública é sobre o combate a crimes violentos e facções criminosas.\nEntre as medidas estão a obrigatoriedade de prisão em estabelecimento penal de segurança máxima ou de natureza especial.\nTambém fica proibida ou restringida a progressão de regime, a concessão de liberdade provisória, com ou sem fiança, e de saída temporária.\nA PEC também permite a expropriação de todo e qualquer bem, direito ou valor econômico envolvido com as atividades criminosas. As regras valem para organizações criminosas, paramilitares e de milícia privada.\nA proposta permite ainda:\ncriação de polícias municipais para o policiamento ostensivo e comunitário;\nampliação da atuação da Polícia Rodoviária Federal (PRF) para o policiamento de hidrovias e ferrovias, além de apoiar outras forças de segurança, quando requisitada pelo governador;\nmanter a Polícia Federal e PRF sob competência privativa da União, assim como as normas para atividades de inteligência.\nMinistério da Segurança Pública\nUm dos nomes fortes para assumir a chefia do novo ministério é do promotor de Justiça do Grupo de Atuação Especial de Repressão ao Crime Organizado (Gaeco) de Presidente Prudente (SP), Lincoln Gakiya, conhecido pela atuação no combate ao Primeiro Comando da Capital (PCC). \nDias antes do segundo turno, Gakyia participou de um jantar na casa do advogado Marco Aurélio de Carvalho, coordenador da campanha de Lula no estado de São Paulo. Durante o encontro, o promotor foi consultado sobre os principais desafios da segurança pública e compartilhou experiências no combate ao crime organizado. Mas não houve convite para que o promotor assumisse o cargo. \nSegundo interlocutores do presidente Lula, o ponto a favor de Gakyia é sua biografia, por representar o combate ao crime organizado no país. \nNo entanto, o promotor não tem uma relação estabelecida com o presidente e teria que criar essa relação de confiança com Lula para ser uma opção real para comandar o Ministério da Segurança, o que ainda não aconteceu. \nUma outra questão é que o presidente Lula ainda não definiu nomes para ministérios do quarto mandato, o que, na avaliação desses interlocutores, pode fazer total diferença na hora do petista fazer sua escolha para a Segurança. \nOs eventuais papeis de Fernando Haddad, Camilo Santana e André Fonteles no quarto mandato ainda não foram definidos.",
       "tags": [
-        "STF"
+        "segurança pública",
+        "Lula"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "G1 - Economia",
         "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 15:58:18 -0000"
-    },
-    {
-      "id": "7c102a77799f",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fux cita críticas nas redes e diz que STF já discutiu consequências nocivas das bets",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/03/fux-cita-criticas-nas-redes-e-diz-que-stf-ja-discutiu-consequencias-nocivas-das-bets.ghtml",
-      "summary": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta terça-feira (3), na abertura de uma audiência pública sobre as bets, que a Corte já discutiu as consequências nocivas das apostas em audiências anteriores. \nO ministro disse que decidiu fazer o esclarecimento diante de “algumas manifestações das redes”.\nA declaração ocorre no mesmo dia em que o presidente Luiz Inácio Lula da Silva (PT) pediu, em vídeo publicado nas redes sociais, que a sociedade civil acompanhe a audiência e participe do debate “para que haja justiça na decisão”.\n“Eu gostaria inicialmente de fazer alguns esclarecimentos que talvez não sejam do conhecimento do público em geral. Aliás, mostrou-se não ser mesmo do conhecimento do público em geral, tendo em vista algumas manifestações das redes”, afirmou Fux.\nBets pedem ao STF suspensão da MP de Lula que proíbe apostas online\nO ministro relembrou audiências realizadas em novembro de 2024 sobre a legislação que autorizou e regulamentou o mercado de apostas.\nSegundo Fux, naquelas audiências foram “amplamente discutidas as consequências nocivas” das bets.\nNa sequência, Fux afirmou que os debates anteriores abordaram consequências psíquicas e sociais das apostas.\nO ministro mencionou ainda entidades ouvidas à época e afirmou que foram apresentados dados sobre o transtorno do jogo.\nFux afirmou que, após ouvir esses diferentes setores, se convenceu de que a ludopatia é “um problema de saúde pública” e “um problema econômico”.\n🔎A ludopatia, também chamada de transtorno do jogo, é uma condição médica caracterizada pelo desejo incontrolável de continuar jogando ou apostando. Ela é reconhecida como doença pela Organização Mundial da Saúde (OMS).\nAo falar de forma geral sobre as bets, o ministro disse que sua “percepção” é de que elas “devem ser banidas”. \nFux ressaltou, porém, que essa avaliação não encerra a análise das ações sobre a medida provisória, que envolve outros argumentos e depende do colegiado do STF.\nFux rebateu ainda críticas à composição da audiência. “Não procede alegação de que eu só convoquei empresas e times de futebol”, afirmou. Ele citou, entre os convidados, a Associação Brasileira de Supermercados e o ministro da Justiça.\nFux afirmou que a edição da medida provisória trouxe novas questões que precisarão ser examinadas pelo STF. Entre elas, citou segurança jurídica, aplicação da lei a atos anteriores, proteção da confiança de empresas autorizadas a operar e se estavam presentes as condições de relevância e urgência exigidas para a edição de uma medida provisória.\n“Eu vou reiterar, evidentemente, os meus argumentos que eu utilizei com relação aos jogos de azar em geral e também vou levar os novos argumentos que surgiram em razão da medida provisória”, afirmou.\nMinistro Luiz Fux durante julgamento no Supremo\nLuiz Silveira/STF\nLula pediu mobilização\nAntes da audiência desta terça, Lula publicou um vídeo nas redes sociais no qual pediu participação da sociedade civil na discussão.\n“É importante que a sociedade civil participe para que haja justiça na decisão”, afirmou o presidente.\nLula também voltou a associar as apostas ao sofrimento das famílias pobres e defendeu que as bets continuem proibidas.\nA posição repete argumentos apresentados pelo presidente ao anunciar a proibição, em 25 de setembro. Na ocasião, Lula afirmou ter decidido tomar uma medida “dura e drástica” para acabar com as bets.\nO que está em discussão no STF\nFux é relator dos pedidos apresentados pela Associação Nacional de Jogos e Loterias (ANJL) e pelo Instituto Brasileiro de Jogo Responsável (IBJR) contra a medida provisória que proibiu as bets.\nAs duas entidades pediram ao Supremo a suspensão dos efeitos da MP e a manutenção do funcionamento das empresas que estavam autorizadas a operar.\nEntre os argumentos, afirmam que a interrupção das atividades viola a segurança jurídica e pode provocar a migração de apostadores para o mercado clandestino.\nO governo defende a manutenção da proibição. A Advocacia-Geral da União (AGU) afirmou ao STF que há razões econômicas, sociais e de saúde para a medida. O órgão também sugeriu a Fux que avaliasse a realização de uma nova audiência pública.\nNa audiência desta terça, dois ministros do governo defenderam a medida. O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, afirmou que o governo buscou ouvir os setores envolvidos e evitar uma proibição que produzisse efeitos indesejáveis, mas concluiu que era necessário agir diante dos impactos das apostas sobre indivíduos e famílias.\nWellington César Lima e Silva disse defender uma atividade econômica “pujante”, mas afirmou que ela não pode se desenvolver com a “vitimização” de pessoas que, segundo ele, estão em desvantagem diante dos mecanismos tecnológicos utilizados pelas plataformas.\nJá o advogado-geral da União, Jorge Messias, concentrou a exposição nos argumentos jurídicos. Ele afirmou que a União considera a MP constitucional e defende que ela seja integralmente preservada. \nSegundo Jorge Messias, o governo entende que o Estado pode e deve intervir em uma atividade econômica quando os mecanismos de proteção se mostram insuficientes para preservar direitos fundamentais.\nO advogado-geral afirmou ainda que, para a União, a urgência da MP decorre da continuidade dos danos provocados pelas apostas e da necessidade de impedir que eles se ampliem.\nJorge Messias reconheceu a importância da segurança jurídica, mas disse que questões patrimoniais das empresas não garantem o direito à manutenção do regime de exploração das apostas.\nClubes defendem segurança jurídica\nRepresentantes de time de futebol como o Flamengo, Fluminense e Botafogo criticaram a proibição imediata das bets e afirmaram que a medida compromete receitas e contratos que haviam sido planejados com base na regulamentação anterior. \nOs clubes defenderam um período maior de transição e regras mais rígidas para o setor como alternativa à proibição total.\nPelo Flamengo, o representante afirmou que o clube assumiu compromissos financeiros com atletas e empregados contando com as receitas dos contratos de patrocínio e defendeu que eles sejam protegidos. \n“O Flamengo se organizou financeiramente para os próximos quatro, cinco anos com base no contrato assinado, de acordo com a legislação vigente”, disse.\nO Fluminense destacou que os efeitos não se restringem aos grandes clubes. Segundo o representante, equipes menores e times da Série B já enfrentam redução nas propostas por direitos de transmissão. \nEle criticou especialmente o prazo de transição previsto para a publicidade das bets e comparou o Brasil com outros países: “Bélgica, 56 meses de período de transição; Reino Unido, 36 meses; Espanha, 12 meses; Itália, 10 meses; Brasil, 10 dias”.\nO representante do Fluminense também contrapôs o argumento do governo sobre os efeitos sociais das apostas ao impacto econômico da proibição sobre o futebol: “O drama de uma família endividada não pode ser maior do que o drama de uma família que vai ter que sofrer os efeitos do desemprego”.\nJá o Botafogo afirmou que perdeu, com a proibição, o maior patrocínio da história do clube e disse que os recursos também financiavam as categorias de base e o futebol feminino. O representante afirmou ainda que o plano de recuperação judicial do clube contava com o fluxo de caixa do contrato com a empresa de apostas.\nO Botafogo também criticou o prazo para adaptação. Segundo o representante, os dez dias previstos não foram “adequados ou minimamente suficientes” e a receita perdida desde a entrada em vigor da proibição não será recuperada mesmo que os efeitos da MP venham a ser suspensos.\nRepresentantes de Cruzeiro e São Paulo também criticaram a proibição. Pelo Cruzeiro, José Francisco Cimino Manssur afirmou considerar a medida ineficaz e argumentou que a proibição da publicidade de casas de apostas pode criar um desequilíbrio entre clubes brasileiros e equipes estrangeiras que disputam partidas no país exibindo marcas do setor.\n“Eu acredito que a proibição seja ineficaz”, afirmou José Francisco Cimino Manssur.\nPelo São Paulo, Danielle Maiolini Mendes afirmou que a proibição não impede que plataformas ilegais continuem usando jogos, clubes e atletas brasileiros como objeto de apostas e argumentou que empresas do mercado regulado auxiliavam no compartilhamento de informações para combater a manipulação de competições. \nEla afirmou ainda que o clube tem contrato de patrocínio com vigência até 2030 e que essa receita faz parte do planejamento do futebol profissional, das categorias de base e do futebol feminino.\nO Corinthians também defendeu um período de transição. O representante do clube afirmou que a suspensão abrupta das receitas pode aumentar a diferença financeira em relação a equipes de países vizinhos que continuam autorizadas a receber patrocínio de empresas de apostas.\n“Tem que ocorrer a modulação, tem que ocorrer um período de transição, tem que ocorrer uma adequação. O que não pode é, de um momento para o outro, isso ser cerceado do clube de futebol”, afirmou o representante do Corinthians.\nRepresentantes dos atletas profissionais também pediram que o STF considere os efeitos da proibição sobre o emprego no futebol. \nSegundo Murilo Aragão, grandes clubes têm maior capacidade de substituir receitas por causa da força de suas marcas, mas equipes menores podem ter mais dificuldade para absorver a perda dos recursos das bets.\n“Os nossos pleitos, como amigo da Corte, são que o efeito da medida provisória em questão considere o efeito no emprego dos atletas no país”, afirmou Aragão.\nEm 2025, as bets pagaram R$ 1,143 bilhão em patrocínios aos 20 clubes brasileiros de maior receita, o equivalente a cerca de 36% das receitas de marketing desses times.\nA proibição foi determinada por uma medida provisória publicada em 25 de setembro. A norma proibiu a exploração, a oferta, a intermediação e a publicidade das apostas de quota fixa no Brasil.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 13:33:30 -0000"
-    },
-    {
-      "id": "d5ee8e7bb604",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF pede explicações sobre denúncias de violência contra povos indígenas",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-pede-explicacoes-sobre-denuncias-de-violencia-contra-povos-indigenas/",
-      "summary": "Gilmar Mendes aciona comitiva interministerial para apurar denúncias de ameaça e violência contra comunidades indígenas no Mato Grosso do Sul",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 21:53:32 +0000"
-    },
-    {
-      "id": "dd8700e16a64",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Janja entrega a Fux relatório sobre bets em audiência no STF: ‘Mulheres sentem peso do vício’",
-      "link": "https://www.estadao.com.br/politica/janja-entrega-a-fux-relatorio-sobre-bets-em-audiencia-no-stf-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 19:09:06 +0000"
-    },
-    {
-      "id": "76f326a7a6a0",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fux barra ação que tentava anular rejeição de Jorge Messias ao STF pelo Senado",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fux-barra-acao-que-tentava-anular-rejeicao-de-jorge-messias-ao-stf-pelo-senado/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 18:37:50 +0000"
-    },
-    {
-      "id": "b83ece77ad18",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Grêmio pede “tempo” ao STF para clubes se adaptarem à proibição das bets",
-      "link": "https://www.poder360.com.br/poder-justica/gremio-pede-tempo-ao-stf-para-clubes-se-adaptarem-a-proibicao-das-bets/",
-      "summary": "Representante do time gaúcho disse que “o futebol brasileiro não pede para ficar acima da saúde pública\"; defendeu transição para contratos de patrocínio em vigor",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Tue, 03 Nov 2026 22:21:56 +0000"
+      "score": 83,
+      "publishedRaw": "Tue, 03 Nov 2026 23:39:00 -0000"
     },
     {
       "id": "b467be8de218",
@@ -432,8 +677,8 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -453,70 +698,13 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Tue, 03 Nov 2026 11:31:14 -0000"
-    },
-    {
-      "id": "f23ad2c4b154",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml",
-      "summary": "O dono do Banco Master, Daniel Vorcaro, enviou mensagem de visualização única ao senador Flávio Bolsonaro (PL-RJ) um dia antes de ser preso, afirma reportagem do portal UOL.\nLeia mais (11/03/2026 - 19h22)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "03 Nov 2026 19:22:00 -0300"
-    },
-    {
-      "id": "daf6968ef909",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Flávio Bolsonaro registra presença e vota em sessão do Senado após fugir para os EUA",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-registra-presenca-e-vota-em-sessao-do-senado-apos-fugir-para-os-eua.shtml",
-      "summary": "Vivendo nos EUA desde que fugiu do Brasil, o senador Flávio Bolsonaro (PL-RJ) registrou presença na sessão do Senado Federal nesta terça-feira (3), enquanto a Casa vota a PEC (proposta de emenda à Constituição) da Segurança Pública.\nLeia mais (11/03/2026 - 19h03)",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 82,
-      "publishedRaw": "03 Nov 2026 19:03:00 -0300"
-    },
-    {
-      "id": "bfb9b7122766",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O que está em jogo nas Midterms? Professor avalia as eleições",
-      "link": "https://www.cnnbrasil.com.br/internacional/o-que-esta-em-jogo-nas-midterms-professor-avalia-as-eleicoes/",
-      "summary": "No CNN 360°, professor Lucas de Souza Martins analisa os possíveis cenários das eleições de meio de mandato americanas e seus reflexos na política externa",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 82,
-      "publishedRaw": "Tue, 03 Nov 2026 22:04:36 +0000"
     },
     {
       "id": "4876d6d9c323",
@@ -530,8 +718,8 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -551,8 +739,8 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
@@ -574,295 +762,96 @@
         "Flávio Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 81,
+      "score": 76,
       "publishedRaw": "Tue, 03 Nov 2026 21:00:36 -0000"
     },
     {
-      "id": "9142b547eacb",
+      "id": "317a56b1d4bf",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Bolsonaro articula eleição do Senado de olho na anistia, e setores do PL falam em esvaziar Rogério Marinho",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/03/bolsonaro-articula-eleicao-do-senado-de-olho-na-anistia-e-setores-do-pl-falam-em-esvaziar-rogerio-marinho.ghtml",
-      "summary": "O ex-presidente Jair Bolsonaro(PL) acompanha de perto e tenta influenciar as articulações da direita para a eleição da presidência do Senado. \nO objetivo principal é garantir uma anistia que o livre de cumprir a pena de 27 anos de prisão à qual foi condenado por tentar um golpe de Estado.\nSegundo setores do PL, nessa conta pode entrar até um eventual apoio à reeleição de Davi Alcolumbre (União-AP), mesmo que isso signifique sacrificar apoio à candidatura do aliado Rogério Marinho (PL-RN). \nA avaliação é que, para Bolsonaro, a anistia se sobrepõe aos interesses eleitorais do próprio partido.\nAgora no g1\nHá setores do bolsonarismo em conversas com a esquerda para que haja algum acordo nesse sentido. \nMesmo que seja jogo combinado de discurso para dizer que não topam a anistia, mas não fazerem força para vetar o acordo. \nAssim, garantiriam Alcolumbre na presidência do Senado — que é o desejo do Palácio do Planalto.\n📱 Acesse o Canal da Sadi no WhatsApp\nPlenário do Senado Federal\nJonas Pereira/Agência Senado",
+      "title": "Caso Master: pai de Vorcaro apresenta ao presidente do STF novo pedido de liberdade",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/03/pai-de-vorcaro-faz-novo-pedido-de-liberdade-ao-supremo-tribunal-federal.ghtml",
+      "summary": "A defesa de Henrique Vorcaro, pai do ex-banqueiro Daniel Vorcaro, apresentou nesta terça-feira (3) um novo pedido de liberdade ao Supremo Tribunal Federal (STF). Caberá ao presidente da Corte, Luiz Edson Fachin, analisar o caso.\nOs advogados solicitam a revogação da prisão preventiva ou a concessão de prisão domiciliar em razão do estado de saúde.\nHenrique Vorcaro foi preso em 14 de maio de 2026, sob suspeita de integrar o suposto núcleo de coerção e intimidação ligado às investigações do caso Master. Ele está detido há mais de 170 dias.\nNo pedido encaminhado à Corte, a defesa anexou um relatório médico emitido em 28 de outubro de 2026. O laudo aponta episódios recorrentes de diverticulite aguda, com registro de internações hospitalares e crises.\nSTF mantém prisão de Henrique Vorcaro\nO documento também diz que Henrique Vorcaro possui indicação para a realização de cirurgia no cólon.\nDiante desse cenário, os advogados afirmam que o quadro clínico se encaixa nas hipóteses previstas em lei de conversão da prisão preventiva em domiciliar. \nAlém da questão médica, os defensores afirmam que não está sendo observada a obrigação legal de revisão da necessidade da prisão preventiva a cada 90 dias.\nIntimidação e invasão a sistemas\nA prisão de Henrique Vorcaro ocorreu durante desdobramentos de investigações que apuram supostos crimes de intimidação, obtenção de informações sigilosas e invasões a sistemas informáticos. \nEssas ações teriam sido realizadas pelo grupo \"A Turma\", investigado na Operação Compliance Zero. Henrique Vorcaro teria ficado responsável pelo financiamento do grupo após a prisão do filho.\nEm setembro, a defesa já havia acionado a presidência do STF argumentando demora e questionando a competência da Corte para conduzir os atos referentes ao pai do empresário, sustentando que ele não possui foro por prerrogativa de função.\nO presidente do STF, Luiz Edson Fachin, reuniu no seu gabinete os inquéritos sobre o caso. \nHenrique Vorcaro, pai de Daniel Vorcaro\nReprodução",
       "tags": [
-        "Bolsonaro",
-        "anistia"
+        "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 12:08:09 -0000"
+      "score": 75,
+      "publishedRaw": "Tue, 03 Nov 2026 15:58:18 -0000"
     },
     {
-      "id": "be3ab8cc331d",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar encerrou esta terça-feira (3) em alta de 0,79%, cotado a R$ 5,4871. Durante o pregão, a moeda americana chegou a R$ 5,5151 na máxima do dia. Já o Ibovespa, principal índice da bolsa brasileira, recuou 1,42%, aos 165.545 pontos.\nNa última sexta-feira (30), a moeda americana subiu a R$ 5,44 e acumulou alta de mais de 9% na semana. Já o Ibovespa caiu pelo quinto dia seguido e acumulou desvalorização de 18,12% no período, na quinta maior perda semanal desde o início do Plano Real, em julho de 1994. Saiba mais.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nO principal destaque da sessão ficou com as eleições de meio de mandato nos Estados Unidos, conhecidas como midterms.  Novos dados do mercado de trabalho americano e a espera pela nova taxa de juros brasileira, que deve ser decidida amanhã também, podem mexer com os negócios. \n▶️ As midterms foram o principal destaque da sessão. A votação vai renovar quase todo o Congresso americano e é crucial para o presidente Donald Trump, já que pode determinar o espaço que o governo terá para aprovar medidas sobre gastos públicos, impostos e regulação. \nEssas decisões também influenciam as expectativas dos investidores e podem afetar os juros e o dólar no mercado internacional. (entenda mais abaixo)\n▶️ Com as eleições americanas na mira, investidores também acompanharam novos dados do mercado de trabalho dos EUA. As vagas de emprego em aberto aumentaram em 333 mil em setembro, chegando a 7,523 milhões. O resultado ficou acima da expectativa de economistas, que previam 7,1 milhões de vagas, e pode dar pistas sobre a força da economia americana e os próximos passos do Federal Reserve (Fed, o banco central dos EUA) na definição dos juros.\n▶️ Por aqui, investidores aguardam a próxima reunião do Banco Central, marcada para amanhã. Em meio à pressão fiscal e eleitoral, a expectativa do mercado é que o Comitê de Política Monetária (Copom) mantenha a Selic inalterada em 13,75% ao ano.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,79%;\nAcumulado do mês: +0,79%;\nAcumulado do ano: -0,03%.\n📈Ibovespa\n\nAcumulado da semana: --18,12%\nAcumulado da semana: -1,42%\nAcumulado do mês: --1,42%;\nAcumulado do ano: +2,74%.\nEleições de meio de mandato nos EUA\nMilhares de eleitores irão às urnas nesta terça-feira (3) para as eleições de meio de mandato nos Estados Unidos, conhecidas como midterms. A votação vai renovar quase todo o Congresso americano e é crucial para o presidente Donald Trump.\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores, de seis.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nSendo assim, em novembro, estarão em disputa todas as 435 cadeiras da Câmara e 35 das 100 do Senado.\nNas eleições de 2024, o Partido Republicano garantiu maioria nas duas Casas do Congresso, mas por uma margem pequena.\nO resultado deu base para Trump avançar com a agenda no Congresso, já que também é do Partido Republicano. Por outro lado, a maioria apertada limitou essa força e expôs divisões dentro do próprio partido em temas mais sensíveis.\nDiante desse cenário, Trump tem investido pesado e feito promessas para tentar manter o controle da Câmara e do Senado.\nLEIA MAIS\nEntenda por que as midterms podem mexer com dólar e juros no Brasil\nO que são as midterms, quando será a votação e o que está em jogo em 2026\nSIGA AO VIVO: urnas das midterms abrem em 12 estados da Costa Leste nos EUA\nBolsa tem queda histórica\nO Ibovespa acumulou desvalorização de 18,12% na semana encerrada em 30 de outubro de 2026, após o segundo turno das eleições presidenciais. \nSegundo levantamento da Elos Ayta, com dados da B3, foi a quinta maior queda semanal desde o início do Plano Real, em julho de 1994.\nO recuo igualou, com duas casas decimais, a perda registrada na semana dos atentados de 11 de setembro de 2001, quando o índice também caiu 18,12%. \nAs maiores baixas do período ocorreram durante a crise financeira asiática, em 1997 (-22,17%); a crise financeira global, em 2008 (-20,01%); e o início da pandemia de Covid-19, em 2020 (-18,88%).\nDiferentemente desses episódios, a queda de outubro de 2026 teve como principal catalisador um acontecimento político doméstico: a reeleição do presidente Luiz Inácio Lula da Silva (PT). \nSegundo a análise da Elos Ayta, o resultado contrariou as expectativas de parte dos investidores sobre uma possível mudança na condução da política econômica e provocou uma reavaliação dos preços dos ativos brasileiros.\nBolsas globais\nEm Wall Street, os três principais índices acionários americanos fecharam mistos nesta terça-feira, conforme investidores seguiram atentos às midterms.\nO Dow Jones teve queda de 0,24%, enquanto o S&amp;P 500 subiu 0,59% e o Nasdaq Composite ganhou 1,06%.\nNa Europa, a maioria dos índices fechou em queda nesta terça-feira, em meio a dúvidas sobre um possível acordo de paz no Oriente Médio e as eleições nos EUA. O índice pan-europeu STOXX 600 caiu 0,58%, aos 645,66 pontos.\nEntre os demais índices da região, o DAX, da Alemanha, caiu 0,31%, enquanto o CAC-40, da França, recuou 0,22% e o FTSE 100, do Reino Unido, teve perdas de 1,03%.\nNa Ásia, as bolsas fecharam em queda nesta terça-feira, conforme investidores avaliavam as medidas para incentivar a entrada de dinheiro no mercado como insuficientes.\nO SSEC, Índice de Xangai, perdeu 0,82%, enquanto o CSI300, que reúne grandes empresas chinesas, caiu 0,20%. Na Coreia do Sul, o Kospi desvalorizou 3,59% e o Hang Seng, de Hong Kong, teve ganhos de 0,57%. No Japão, o Nikkei permaneceu fechado.\n* Com informações da agência de notícias Reuters.\nNotas de dólar.\nLuisa Gonzalez/ Reuters",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 12:00:19 -0000"
-    },
-    {
-      "id": "71d235b48b3c",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: acompanhe os resultados para a Câmara",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-acompanhe-os-resultados-para-a-camara.ghtml",
-      "summary": "Economia, inflação e imigração: o que pode decidir as midterms nos EUA?\nAs urnas das eleições de meio de mandato dos Estados Unidos já fecharam em partes dos estados de Indiana e Kentucky, na noite desta terça-feira (3). A votação continua na maior parte do país. Ainda assim, os primeiros resultados para a Câmara devem ser divulgados em breve.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados em tempo real\n📊 Até a última atualização desta reportagem, os resultados estavam da seguinte forma:\nDemocratas: 0\nRepublicanos: 0\nAguardando resultado: 435\nMapa com a apuração para a Câmara dos Representantes\nAP\nHá 435 cadeiras em disputa na Câmara dos Representantes. Para obter maioria na Casa, um partido precisa eleger 218 deputados.\nPesquisas de opinião e agregadores de projeções apontam que o Partido Democrata é favorito na disputa pela Câmara. As projeções indicam que a legenda deve conquistar mais de 230 cadeiras.\nCaso as projeções se confirmem, o Partido Republicano, do presidente Donald Trump, perderá o controle da Casa. Nas eleições de 2024, os republicanos conquistaram 220 cadeiras.\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores têm mandatos de seis anos.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nNeste ano, além das 435 cadeiras da Câmara, estão em disputa 35 das 100 cadeiras do Senado.\nCâmara dos Deputados dos EUA em foto de 20 de outubro de 2023\nJonathan Ernst/REUTERS\nVÍDEOS: agora no g1\nAgora no g1",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 23:00:01 -0000"
-    },
-    {
-      "id": "c9ce6d862e4c",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: astronautas da Nasa votam do espaço",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-astronautas-da-nasa-votam-do-espaco.ghtml",
-      "summary": "Astronauta Anil Menon fala sobre como deu seu voto nas eleições dos EUA no espaço\nReprodução/X\nOs astronautas Anil Menon, Jessica Watkins e Luke Delaney votaram nas midterms dos Estados Unidos, eleição de meio de mandato que vai renovar a Câmara e um terço do Senado no país. Todos deram seus votos do espaço, onde estão em uma missão espacial pela Nasa.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS vão mostrar resultados das eleições nos EUA em tempo real\nEm vídeo publicado nas redes sociais nesta terça-feira (3), Alil Menon relatou que sua cabine-leito serviu como sua cabine de voto. \"Hoje temos o privilégio de votar aqui, assim como você que está no chão\", disse.\nO astronauta explicou que os votos foram dados no seu computador através de uma cédula de votação eletrônica, que foi enviada para funcionários eleitorais. Menon disse que a cédula foi enviada para o Condado de Harris, no Texas. O Condado abriga o centro de treinamento espacial da Nasa, chamado Johnson Space Center and Mission Control.\nInitial plugin text\nDe acordo com a Nasa, astronautas em missão espacial votam em eleições dos Estados Unidos desde 1997. Naquele ano, o Congresso do Texas aprovou um projeto que permitia o envio de cédulas a partir do espaço. O primeiro astronauta a votar foi David Wolf.\nOs tripulantes espaciais podem votar por meio do voto antecipado ou declarando 'voto ausente', que permite o envio de uma cédula oficial sem precisar ir a uma seção eleitoral. \nO envio é eletrônico. Do espaço, a comunicação acontece pelo sistema de comunicação e navegação da Nasa. A agência espacial afirma que essa rede conecta missões a até 1,2 milhão de milhas (cerca de 1,9 milhão de quilômetros) da Terra com serviços de comunicação e navegação.\nUma vez que o tripulante preenche sua cédula de votação, o documento passa para uma antena terrestre no Complexo de Testes de White Sands da agência em Las Cruces, Novo México; \nEm seguida, a Nasa transfere a cédula para o Centro de Controle de Missão no Centro Espacial Johnson; \nDepois, a cédula é transferida para o funcionário público municipal responsável por computar o voto;\nPara preservar a integridade do voto, a cédula é criptografada e fica acessível apenas para o astronauta e para o funcionário público.\nMenon, Watkins e Delaney fazem parte da equipe que viajou para a Estação Espacial Internacional. Menon foi em julho deste ano em uma missão de longo prazo ao lado de dois cosmonautas russos: Pyots Dubrov e Anna Kikina. \nEm outubro, Watkins e Delaney se juntaram à equipe ao lado do canadense Joshua Kutryk e do russo Sergey Teteryatnikov. Eles são responsáveis pela condução e manutenção de experimentos na Estação.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 20:32:52 -0000"
-    },
-    {
-      "id": "a188b9ed4c7e",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/3-cenarios-possiveis-resultados-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
-      "summary": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA\nGetty Images via BBC\nApós meses de campanha e bilhões de dólares gastos com as eleições de meio de mandato nos Estados Unidos (midterms, em inglês), o dia da eleição finalmente chegou.\nAs últimas pesquisas eleitorais indicam que os democratas aparentemente detêm a vantagem. Mas as pesquisas nem sempre são confiáveis, e este ano pode trazer resultados surpreendentes.\nDe forma geral, existem três resultados possíveis que podem surgir após a contagem dos votos. Detalhamos aqui quais são eles, os primeiros sinais que podem surgir durante a apuração e o que cada uma destas possibilidades representa para os Estados Unidos.\n1. Uma grande onda democrata\nSe o histórico servir de alguma coisa, as midterms costumam favorecer o partido que está na oposição.\nAcrescente-se que as pesquisas indicam um presidente historicamente impopular, uma guerra contra o Irã que aumentou o custo de vida no país e algumas políticas polêmicas, como o combate agressivo à imigração e o apoio para a construção de data centers no país. \nEstes fatores formam as condições necessárias para a chamada onda eleitoral.\nNeste primeiro cenário, o que acontece é exatamente uma onda enorme. Os democratas poderão não só assumir o controle da Câmara dos Representantes, mas ultrapassar em muito as 218 cadeiras necessárias para a obtenção da maioria.\nEles podem conquistar não só as cerca de 12 vagas que os analistas consideram indefinidas, mas também inverter algumas cadeiras consideradas mais sólidas em poder dos conservadores.\nNo Senado, este cenário também exigiria que os democratas conquistassem todas ou a maioria das cadeiras atualmente indefinidas, incluindo algumas em Estados tradicionalmente conservadores.\nNesta hipótese, haveria pelo menos uma vitória surpreendente em um Estado que não elegeu um democrata em toda uma geração (o Texas), ou em quase um século (Kansas).\nSe isso acontecesse, os democratas não só assumiriam o controle do Senado. Eles teriam uma ou duas cadeiras de vantagem.\nEste resultado poderia evitar dificuldades, como um possível questionamento legal dos republicanos no Alasca, onde um juiz recusou uma ação judicial do governo Trump em relação à disputa envolvendo dois candidatos com o mesmo nome (Dan Sullivan).\nOs democratas poderão atingir este objetivo incentivando o comparecimento dos seus eleitores e conquistando os independentes por margens consideráveis.\nEste resultado reverteria as incursões de Trump entre os eleitores hispânicos e homens jovens em 2024. E alguns eleitores republicanos ainda poderiam apoiar os democratas ou simplesmente se abster de votar.\nEste tipo de resultado representaria um castigo doloroso para Trump e seu Partido Republicano, estabelecendo as bases para dois anos de conflito entre um Partido Democrata recém-revigorado, com suas mãos firmes no leme do Legislativo, e um presidente que raramente recusa uma briga.\nCompetitividade das disputas eleitorais nos EUA\nBBC\nPrimeiros sinais durante a apuração dos votos:\nSe os democratas mantiverem suas cadeiras na Câmara na Flórida e conquistarem alguns distritos republicanos na Carolina do Norte, Michigan, Nova York, Virgínia e Kentucky. Se eles conquistarem a vaga republicana no Senado na Carolina do Sul, esta será uma boa noite para os democratas.\n2. Um avanço democrata modesto\nTalvez as pesquisas não estejam totalmente erradas, mas também não completamente certas. Neste cenário, pode ocorrer que os democratas colham frutos nas eleições para a Câmara e conquistem a maioria, mas não de forma expressiva.\nIsso significaria que os líderes democratas na Câmara precisariam disputar regularmente com seus membros mais à esquerda e do centro para garantir votos suficientes para a aprovação de novas leis.\nNo lado do Senado, neste cenário hipotético, os democratas reverteriam apenas uma ou duas cadeiras (a Carolina do Norte, por exemplo, que parece garantida), mas as disputas nos bastiões conservadores acabariam ficando inatingíveis.\nTalvez eles não consigam conquistar a vaga da resiliente senadora republicana Susan Collins, do Maine. Ou o candidato de esquerda Abdul El-Sayed pode não conquistar a vaga de Michigan para os democratas.\nTalvez a controvérsia sendo travada em torno dos Dan Sullivans seja um fator para afundar a candidata democrata Mary Peltola, no Alasca.\nPara que prevaleça este cenário de \"vitória modesta\", o grande comparecimento dos eleitores democratas que observamos na votação antecipada precisará ser igualado por uma onda de republicanos no dia da eleição.\nOs esforços de Trump, convocando sua base nos Estados republicanos, poderão ajudar seu partido a evitar o pior cenário. As cadeiras dentro ou próximas da margem de erro das pesquisas podem ser divididas entre os dois partidos.\nO resultado seria um Congresso dividido, o que é a receita perfeita para um impasse político.\nPrimeiros sinais durante a apuração dos votos:\nSe, de forma geral, a Flórida se mantiver confortavelmente republicana. Se os democratas conquistarem algumas cadeiras na Câmara em Estados como a Virgínia e a Pensilvânia, mas os atuais congressistas republicanos, em locais mais seguros do campo político pelo país, conseguirem evitar uma derrota em massa.\nDonald Trump\nREUTERS\n3. Uma boa noite para os republicanos\nEste cenário significa a manutenção dos congressistas republicanos nas duas câmaras do Congresso.\nPara que isso aconteça, as pesquisas (que já subestimaram anteriormente o apoio a Donald Trump) precisam estar erradas e as disputas indefinidas, em sua maioria, seriam definidas em favor dos republicanos.\nNesta hipótese, os eleitores republicanos precisariam comparecer às urnas em números inesperadamente significativos. E, além disso, os eleitores hispânicos e independentes, aparentemente descontentes com as políticas de Trump, também precisariam ficar a favor do presidente.\nNeste cenário, o controle da Câmara, longe de ser garantido para os democratas, poderia ser definido pela Califórnia, com seu longo processo de contagem de votos pelo correio, que dura vários dias.\nCom isso, os republicanos poderão conseguir uma maioria apertada, graças, em parte, aos esforços para traçar linhas distritais mais favoráveis para o Congresso, em Estados como o Texas, a Flórida e a Carolina do Norte.\nPode também ocorrer que os republicanos conquistem todas as cadeiras do Senado nos Estados conservadores e ainda vençam a eleição em Michigan, uma vaga mantida pelos democratas que está em disputa.\nMesmo se os republicanos não mantiverem a Carolina do Norte, nem vencerem nos Estados democratas de Minnesota ou New Hampshire (disputas apenas periféricas para a competição nas eleições deste ano), eles podem pelo menos deixar os candidatos democratas preocupados.\nSe isso acontecer, Trump poderá reivindicar um mandato eleitoral renovado na manhã desta quarta-feira (4/11) e levar adiante sua agenda política doméstica e externa, contando com o apoio contínuo de um Congresso republicano.\nPrimeiros sinais durante a apuração dos votos:\nSe os senadores Ashley Moody, da Flórida, e Jon Husted, de Ohio, forem reeleitos. Se os republicanos mantiverem seus deputados nas disputas da Pensilvânia e da Virgínia para a Câmara e conquistarem cadeiras atualmente nas mãos dos democratas na Carolina do Norte, em Ohio e na Flórida.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 20:09:34 -0000"
-    },
-    {
-      "id": "eb7bcc60cea6",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: entenda a disputa nos 3 estados com mais brasileiros",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-eua-estados-brasileiros.ghtml",
-      "summary": "Nesta terça-feira (3), milhões de norte-americanos vão às urnas para decidir se o presidente dos EUA, Donald Trump seguirá com o controle do Congresso do país.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nNas chamadas \"midterms\" ou eleições de meio de mandato, estão em jogo todas as 435 cadeiras na Câmara dos Representantes, 35 vagas no Senado (1/3 da composição total) e 36 governos estaduais. \n➡️ Atualmente, as duas casas do Congresso dos EUA possuem maioria republicana. De acordo com pesquisas recentes, a tendência é que haja uma virada democrata na Câmara e uma disputa acirrada no Senado.\nNa Câmara, um dos partidos precisa alcançar o total de 218 cadeiras. \nJá no Senado, o Partido Democrata precisa de 51 cadeiras para formar maioria, enquanto os republicanos precisam de 50 assentos. Isso porque, em caso de empate, o vice-presidente dos EUA, JD Vance, tem o voto de desempate.\nO partido de Donald Trump entra nas midterms com a maioria de 53 senadores no Senado. A oposição ocupa 47 vagas.\nPara Trump, que hoje tem um dos piores índices de aprovação desde o início do mandato, uma possível virada do Partido Democrata significa que suas políticas poderão sofrer maior escrutínio e freios por parte dos parlamentares. \nO tema desta eleição é o custo de vida, impactado pelas políticas tarifárias do governo Trump e pela escalada das tensões no Irã, que elevaram os custos dos combustíveis e alimentos. \nEleições nos EUA: MAPA mostra se partido de Trump vai conseguir manter a maioria no Congresso\nEntre os que sofrem com a alta dos preços, também estão os 2.067.225 milhões de brasileiros que vivem nos EUA, segundo um levantamento do Itamaraty de 2025.\nEssa população está predominantemente sob a jurisdição de três consulados-gerais principais: \nNova York, que atende cerca de 500 mil brasileiros.\nBoston, em Massachusetts, que atende 440 mil. \nE Miami, na Flórida, com 400 mil — no caso, juntando com os 220 mil atendimentos do consulado de Orlando, há um total de 620 mil brasileiros no estado.\nVeja abaixo o cenário para cada um dos três estados com o maior número de brasileiros nos EUA.\nAgora no g1\nNova York\nO Consulado-Geral do Brasil em Nova York atende a maior jurisdição consular nos EUA, com cerca de 500 mil brasileiros mapeados na região.\nNo estado, estão em disputa 26 vagas para a Câmara de Representantes, uma para cada distrito eleitoral, e o governo local.\nTradicionalmente um reduto democrata, a expectativa é que a oposição ao governo Trump leve a maioria das cadeiras para a Câmara e também o governo do estado de Nova York.\nA atual governadora democrata Kathy Hochul, a primeira mulher a governar o estado, busca a reeleição contra o republicano Bruce Blakeman.\nNa eleição presidencial de 2024, Kamala Harris venceu em Nova York com uma margem de 12,6 pontos — 55,9% contra 43,3% de Donald Trump.\nBruce Blakeman, republicano, e Kathy Hochul, democrata incumbente, disputam o governo do estado de Nova York.\nReuters\nMassachusetts\nO Consulado-Geral do Brasil em Boston, Massachusetts, tem a segunda maior comunidade brasileira no país, cobrindo o atendimento a 440 mil brasileiros.\nNo estado, estão em disputa uma vaga para o Senado, 9 para a Câmara e o governo estadual.\nTambém de tradição democrata, o incumbente Ed Markey é o favorito para vencer o republicano John Deaton no Senado.\nO mesmo cenário acontece no governo estadual, com a democrata Maura Healey buscando a reeleição contra o republicano Michael Minogue.\nNas eleições presidenciais de 2024, o estado deu vitória a Kamala Harris por uma margem de 25,2 pontos — 61,2% contra 36,0% de Donald Trump.\nNo Senado de Massachussetts, o democrata incumbente Ed Markey é o favorito para vencer o republicano John Deaton.\nSenado dos EUA / Reprodução\nFlórida\nNo único estado republicano da lista, a jurisdição do Consulado-Geral em Miami abrange 400 mil brasileiros, somada à cobertura do Consulado-Geral em Orlando, responsável por outros 220 mil brasileiros.\nEstão em disputa no estado uma vaga para o Senado e 28 cadeiras na Câmara, além do governo do estado.\nEm todos os cenários, a tradição conservadora se impõe: no Senado, a republicana Ashley Moody enfrenta a democrata Angie Nixon.\nMoody, apesar de incumbente, foi indicada para a vaga em 2025 pelo Partido Republicano após o senador eleito Marco Rubio ser nomeado secretário de Estado por Donald Trump, renunciando ao Congresso para integrar o governo federal.\nNo governo do estado, o republicano Byron Donalds defende o legado conservador contra o democrata David Jolly. O atual governador republicano, Ron DeSantis, está no fim do segundo mandato e não pode mais se reeleger.\nEm 2024, Donald Trump venceu no estado por 13,1 pontos de margem — 56,1% a 43,0% de Kamala Harris.\nNo Senado, Ashley Moody enfrenta a democrata Angie Nixon para a vaga da Flórida.\nReuters e governo da Flórida\nNa Casa Branca, Lula e Donald Trump discutem terras raras, crime organizado e comércio\nJornal Nacional/ Reprodução",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 17:37:14 -0000"
-    },
-    {
-      "id": "f7fa14515664",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: com orações e cultos na Casa Branca, Trump coloca cristianismo no centro de campanha",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/oracoes-e-cultos-na-casa-branca-cristianismo-vira-peca-chave-para-governo-trump-nas-midterms.ghtml",
-      "summary": "O presidente dos EUA, Donald Trump, durante culto realizado na Casa Branca, em 9 de setembro de 2025.\nDivulgação/ Casa Branca\nOrações diárias, cultos em pleno Pentágono, um escritório da fé dentro da Casa Branca, candidatos e influenciadores defendendo valores cristãos conservadores. E um presidente proclamando que seu país virou uma \"nação de Deus\".\nDesde o início de seu mandato, o governo de Donald Trump vem se aproximando de organizações, símbolos, práticas e personalidades religiosas e levando o cristianismo para dentro da Casa Branca. A fé também virou peça-chave na campanha para as eleições de meio de mandato nos EUA — as chamadas midterms, que renovarão parte do Congresso norte-americano nesta terça-feira (3). \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp \nELEIÇÕES NOS EUA: Acompanhe as últimas notícias sobre as midterms\nPara tentar manter o controle do Congresso — e contrariar as pesquisas, que apontam vitória democrata —, o Partido Republicano sabe que depende do eleitorado cristão. Pesquisas de aprovação e intenção de voto nos EUA apontaram que cristãos evangélicos brancos — principalmente os protestantes, segundo o instituto Pew Research — são o eleitorado mais fiel de um presidente em baixa história de popularidade.\nEntre todos os outros grupos, inclusive outros evangélicos e católicos, há mais eleitores que desaprovam que aprovam o atual presidente dos EUA.\n👉 Ao voltar à Presidência dos EUA, em 2025, Trump afirmou que seu governo iria \"trazer a religião de volta ao nosso país\". Desde então, a Casa Branca vem investindo em um \"projeto de nação cristã\", incorporando práticas religiosas dentro do próprio governo, afirma o antropólogo da Universidade Federal do Rio de Janeiro (UFRJ) Rodrigo Toniol, que pesquisa religião e política.\nEntre elas essas práticas, estão:\nA abertura do Escritório da Fé e de Assuntos Religiosos, que funciona dentro da Ala Oeste da Casa Branca e se dedica a apoiar organizações religiosas e garantir que elas tenham acesso a licitações públicas; \nA realização de cultos mensais no Pentágono, normalmente liderados pelo secretário de Guerra, Pete Hegseth, com sermão e leitura da Bíblia; \nRezas esporádicas dentro da Casa Branca, a sede do governo dos EUA;\nApoio ao America Prays, canal no YouTube em que pastores conduzem rezas on-line diariamente.\nEleições nos EUA: entenda o que são as eleições de meio de mandato\nDentro do governo, dois nomes lideram o movimento: o vice-presidente, JD Vance, e o secretário de Guerra, Pete Hegseth.\n👉 Hegseth, que costuma adotar a retórica religiosa ao falar guerra contra o Irã, tem comandando cultos no Pentágono. Também enxugou a lista de religiões oficialmente reconhecidas pelos EUA. Segundo um memorando do Departamento de Guerra que o site de notícias Military teve acesso, de 211 crenças reconhecidas pelos EUA, a relação passou para apenas 31, 22 delas religiões cristãs.\n👉 Já a linha de JD Vance se dedica a mobilizar e organizar influenciadores e movimentos fora da Casa Branca que associem o governo Trump à fé cristã e divulguem estilos de vida associados a um cristianismo mais conservador e \"antimoderno\" — caso da onda contrária ao voto feminino —, que Washington vem tentando resgatar, na avaliação de Rodrigo Toniol.\n\"A religião sempre esteve presente na política norte-americana. Mas Trump quer um cristianismo muito específico, um tipo de cristianismo antimoderno\", disse o antropólogo ao g1. \"Isso permite a Trump deter o controle narrativo sobre o próprio cristianismo\".\nO objetivo do presidente norte-americano, para Toniol, é usar a fé cristã — cuja adesão tem crescido entre republicanos, segundo o Instituto de Pesquisa de Religiões Públicas dos EUA (PRRI, na sigla em inglês) -- para tentar unir o país em torno de seu governo.\n\"Nesse momento de guerra e tensões, o cristianismo é trazido à tona como grande elemento de união da nação\", afirmou. \"Trump reivindica para si o nacionalismo cristão e se coloca como o guia de um projeto cristão maior\".\nDurante a corrida para as midterms, o presidente norte-americano reforçou a retórica. Na campanha, Trump afirmou que, \"se trouxermos a religião de volta com mais força, vocês verão tudo melhorar cada vez mais. Vamos nos rededicar a uma nação sob Deus\".\nFé nas urnas\nO presidente dos EUA, Donald Trump, diante de telão exibindo comício de Abdul El-Sayed, candidato a senador pelo estado do Michigan, em 25 de outubro de 2026.\nJulia Demaree Nikhinson/ AP\nSegundo a CEO do Instituto de Pesquisa de Religiões Públicas dos EUA, Melissa Deckman, as \"midterms\" são o pleito mais propenso a que o Partido Republicano ganhe votos a partir do projeto de cristianismo que o governo Trump propaga.\n“Há uma forte relação entre a disseminação da ideologia nacionalista cristã e a representação republicana nas legislaturas estaduais, indicando quais estados estão propensos a aprovar políticas defendidas por importantes líderes nacionalistas cristãos”, disse. \nA atenção do governo à questão religiosa na corrida para as midterms foi tanta que fez as campanhas de dois dos candidatos mais populares entre os democratas — partido com menos eleitores propensos a votar de acordo com a fé — girarem em torno do tema.\nJames Talarico discursa em im comício em junho de 2026, no Texas, nos EUA. \n(Brenda Bazán/ AP)\nNo Texas, James Talarico, ex-seminarista presbiteriano e candidato democrata ao Senado, tem usado o cristianismo para criticar o governo Trump e defender a taxação dos mais ricos, apostando em uma visão do cristianismo oposta à do governo Trump.\n\"O presidente dos Estados Unidos diz que eu insulto Jesus. Sabe o que é um insulto para Jesus? Cortar o seguro de saúde de pessoas doentes enquanto se baixa os impostos para bilionários. Deportar um estrangeiro e separar bebês de suas mães. Bombardear crianças inocentes no Irã e enviar nossos homens e mulheres para morrer em outra guerra sem fim\", disse Talarico durante comício no Texas.\nJá no Michigan, o candidato ao Senado Abdul El-Sayed, muçulmano, foi alvo de questionamentos e ataques por parte de republicanos por conta de sua fé.\nNas urnas, eleitores também já expressavam a tendência. Em Iowa, a pecuarista Elizabeth Marlett, de 61 anos, se disse \"inquieta\" com o que chamou de uma guinada da sociedade em direção à esquerda e o enfraquecimento da fé cristã. \n“Os valores familiares estão sendo deixados de lado, e é preciso resgatá-los”, disse a eleitora republicana ao votar à agência de notícias norte-americana Associated Press. “A religião foi pisoteada\".\nO pastor evangéligo Erik Estep faz sermão durante serviço religioso na Village Church, na Carolina do Sul, nos EUA, em 14 de outubro de 2026.\nSam Wolfe/ Reuters",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 16:12:11 -0000"
-    },
-    {
-      "id": "9f6d88382830",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: quando sai o resultado?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-quando-sai-o-resultado.ghtml",
-      "summary": "Trump diz que vai respeitar resultado das eleições nos EUA 'se votação for honesta'\nMilhares de eleitores vão às urnas nos Estados Unidos, nesta terça-feira (3), para as eleições de meio de mandato, que vai mostrar qual partido irá controlar a Câmara e o Senado pelos próximos dois anos.  A votação é crucial para o presidente Donald Trump.\n✅ AO VIVO: acompanhe a cobertura das eleições nos EUA\n✅ MAPAS mostram a apuração em tempo real\nOs Estados Unidos não têm um órgão nacional como o Tribunal Superior Eleitoral (TSE), responsável por coordenar as eleições em todo o país e totalizar os votos. Com isso, cada estado tem suas próprias regras.\nQuando sai o resultado?\nEm geral, a apuração começa assim que os locais de votação fecham. O horário varia de estado para estado. Na Flórida, por exemplo, a votação termina às 19h. Em Nova York, os eleitores têm até as 21h. No Tennessee, o horário varia de acordo com o condado.\nEleições de meio de mandato nos EUA: o que são as midterms, quando será a votação e o que está em jogo em 2026\nEm boa parte dos estados, a votação é feita em cédulas de papel. A contagem é feita por trabalhadores eleitorais, muitas vezes funcionários públicos. Tudo é fiscalizado pelos membros dos partidos políticos.\nEm caso de diferenças de votos muito pequenas entre dois candidatos, os partidos ou a própria Justiça solicita que uma recontagem seja feita para certificar o vencedor.\nOs primeiros resultados devem ser divulgados ainda na noite de terça-feira. No entanto, pode levar dias até que seja possível saber qual partido terá o controle da Câmara e do Senado. \nNas midterms de 2022, por exemplo, a disputa pelo controle da Câmara só foi definida mais de uma semana após a eleição. A demora ocorreu, entre outros fatores, porque alguns estados levam mais tempo para contar os votos enviados pelo correio.\nComo não há um órgão que centraliza a apuração de todo o país, esse trabalho costuma ser feito pela imprensa. Há quase 200 anos, a Associated Press é a principal fonte para agregar os dados das votações.\nA agência espalha centenas de repórteres em locais de contagem de votos e vai coletando resultados oficiais. \nCom base em dados estatísticos, a AP também costuma projetar quem venceu as eleições mesmo antes do fim da contagem dos votos.\nNas últimas eleições de meio de mandato, em 2022, a AP declarou qual partido teria o controle do Senado quatro dias depois do dia da eleição. No caso da Câmara, a definição ocorreu oito dias depois.\nNo ciclo presidencial de 2024, a diferença entre as duas definições foi ainda maior. O controle do Senado foi declarado no dia seguinte à eleição, enquanto a definição da Câmara ocorreu oito dias depois.\n Contexto\nDiferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms, ou eleições de meio de mandato.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores, de seis.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nSendo assim, desta vez, estarão em disputa todas as 435 cadeiras da Câmara e 35 das 100.\nVotação das midterms no Maine, EUA\nANGELA WEISS/AFP",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 14:59:54 -0000"
-    },
-    {
-      "id": "51cb19099ab3",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: MAPAS mostram apuração em tempo real",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-mapas-mostram-apuracao-em-tempo-real.ghtml",
-      "summary": "MAPA mostra se partido de Trump vai conseguir manter a maioria no Congresso\nReprodução/g1\nOs americanos vão às urnas nesta terça-feira (3) para as eleições de meio de mandato, as midterms. O g1 preparou uma página especial para que o leitor possa acompanhar a cobertura da disputa e a apuração dos votos em tempo real.\nACESSE AQUI O MAPA DE APURAÇÃO NOS EUA\n▶️ Contexto: Diferentemente do Brasil, o Congresso dos Estados Unidos é renovado parcialmente a cada dois anos. Quando ocorrem na metade do mandato presidencial, essas eleições são chamadas de midterms.\nOs deputados norte-americanos têm mandatos de dois anos, enquanto os senadores, de seis.\nCom isso, a cada dois anos, o país renova toda a Câmara dos Representantes e cerca de um terço do Senado.\nSendo assim, em novembro, estarão em disputa todas as 435 cadeiras da Câmara e 35 das 100 do Senado.\nNo g1, uma página especial terá mapas que vão mostrar como está a apuração em todo o país para a Câmara, Senado e governo estadual. Também será possível detalhar como está a disputa em cada estado.\nMapa de página especial do g1 mostra a apuração das midterms nos EUA\nReprodução\nPara saber, por exemplo, quem são os candidatos que disputam as eleições no Texas, basta clicar no estado. A ferramenta vai mostrar o desempenho de cada concorrente e o avanço da contagem dos votos por condado.\nMapa mostra exemplo da apuração para o Senado no Texas\nReprodução\nA ferramenta também vai mostrar quantas cadeiras cada partido ainda precisa conquistar para alcançar a maioria na Câmara ou no Senado. À medida que os resultados forem sendo divulgados, uma barra vai mostrar como está o placar de cada partido.\nUm partido precisa eleger mais de 50 senadores para ter maioria no Senado.\nA legenda que eleger 218 deputados ou mais terá o controle da Câmara.\nPor que as eleições dos EUA são sempre na terça-feira?\nComo é a apuração nos EUA?\nTrabalhadores eleitorais participam do processo de contagem de votos para a eleição presidencial dos EUA de 2024 no dia da eleição\nPatrick T. Fallon / AFP\nOs Estados Unidos não têm um órgão que centralize a apuração, como o Tribunal Superior Eleitoral (TSE) no Brasil. Cada estado tem autonomia para organizar as eleições, e os procedimentos de votação e contagem dos votos podem variar pelo país.\nEm alguns estados e condados, a votação é feita em cédulas de papel, enquanto outros utilizam urnas eletrônicas. Também é possível votar pelo correio.\nDiante dessa complexidade, a apuração dos votos nos Estados Unidos pode levar dias, já que cada estado faz a própria contagem. Ou seja, o público pode ter que esperar até depois de 3 de novembro para saber qual partido terá maioria na Câmara e no Senado.\nNesse cenário, o papel da imprensa é fundamental. A projeção de vencedores antes da contagem oficial é feita por veículos de imprensa — o g1 e a Globo, como a maioria das redes internacionais, adotam os dados da Associated Press (AP).\nHá 180 anos, a AP atua na cobertura e na apuração dos resultados das eleições americanas. A agência conta com cerca de 4.000 repórteres espalhados pelos distritos eleitorais e escritórios eleitorais dos condados do país para checar dados.\nAs informações são coletadas de forma padronizada e analisadas com base em uma série de fatores, o que permite que a agência anuncie vencedores com segurança.\nA AP não faz diretamente a contagem manual dos votos depositados nas urnas. Esse trabalho é realizado pelas autoridades eleitorais locais responsáveis pela administração das eleições em cada estado americano.\nAlém disso, a Associated Press pode declarar um vencedor em determinado estado antes mesmo de 100% dos votos serem contados.\nPara isso, uma equipe de análise avalia os dados para determinar se o candidato que está na frente já tem uma vantagem que não pode ser revertida. Entre os fatores considerados estão:\nandamento da apuração;\ncombinação do histórico de votos;\ndados demográficos;\ndados de pesquisas da AP.\nTrump faz campanha no Texas\nKevin Lamarque/Reuters",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 13:40:29 -0000"
-    },
-    {
-      "id": "2b8aa9c29c35",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
-      "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
-      "summary": "Após o fechamento das urnas, é possível que os resultados demorem horas, dias ou até mesmo semanas. Entenda como funciona a apuração.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 20:11:24 GMT"
-    },
-    {
-      "id": "4bfcadbfcf48",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Haverá uma onda democrata ou testemunharemos uma resiliência republicana apesar da impopularidade de Trump neste momento?",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 19:57:46 GMT"
-    },
-    {
-      "id": "0907b6abae8c",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Os eleitores dos EUA irão às urnas na terça-feira em uma votação que poderá ter grande impacto na presidência de Donald Trump.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 16:20:58 GMT"
-    },
-    {
-      "id": "25285ae429f5",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
-      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 09:35:49 GMT"
-    },
-    {
-      "id": "c0724d7be9cf",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A disputa de mais de US$ 500 milhões por uma vaga no Senado do Texas está entre as mais acompanhadas das eleições de meio de mandato dos EUA — e seu impacto vai além do controle do Congresso.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo"
-      ],
-      "score": 81,
-      "publishedRaw": "Tue, 03 Nov 2026 10:04:52 GMT"
-    },
-    {
-      "id": "0445803a230b",
-      "source": "Folha de São Paulo",
+      "id": "7c102a77799f",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Coitada de Fernanda Bolsonaro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joanna-moura/2026/11/coitada-de-fernanda-bolsonaro.shtml",
-      "summary": "Há uma crença popular de que a palavra \"coitado\" viria do substantivo \"coito\", sinônimo de relação sexual. O \"coitado\" seria, portanto, alguém que \"sofreu o coito\". Trata-se de uma dessas explicações que fazem tanto sentido que acabam soando mais verdadeiras do que a própria verdade. Afinal, como explicar a equivalência semântica e o óbvio parentesco etimológico de um \"coitado\" e um \"fodido\"?\nLeia mais (11/03/2026 - 19h21)",
+      "title": "Fux cita críticas nas redes e diz que STF já discutiu consequências nocivas das bets",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/03/fux-cita-criticas-nas-redes-e-diz-que-stf-ja-discutiu-consequencias-nocivas-das-bets.ghtml",
+      "summary": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta terça-feira (3), na abertura de uma audiência pública sobre as bets, que a Corte já discutiu as consequências nocivas das apostas em audiências anteriores. \nO ministro disse que decidiu fazer o esclarecimento diante de “algumas manifestações das redes”.\nA declaração ocorre no mesmo dia em que o presidente Luiz Inácio Lula da Silva (PT) pediu, em vídeo publicado nas redes sociais, que a sociedade civil acompanhe a audiência e participe do debate “para que haja justiça na decisão”.\n“Eu gostaria inicialmente de fazer alguns esclarecimentos que talvez não sejam do conhecimento do público em geral. Aliás, mostrou-se não ser mesmo do conhecimento do público em geral, tendo em vista algumas manifestações das redes”, afirmou Fux.\nBets pedem ao STF suspensão da MP de Lula que proíbe apostas online\nO ministro relembrou audiências realizadas em novembro de 2024 sobre a legislação que autorizou e regulamentou o mercado de apostas.\nSegundo Fux, naquelas audiências foram “amplamente discutidas as consequências nocivas” das bets.\nNa sequência, Fux afirmou que os debates anteriores abordaram consequências psíquicas e sociais das apostas.\nO ministro mencionou ainda entidades ouvidas à época e afirmou que foram apresentados dados sobre o transtorno do jogo.\nFux afirmou que, após ouvir esses diferentes setores, se convenceu de que a ludopatia é “um problema de saúde pública” e “um problema econômico”.\n🔎A ludopatia, também chamada de transtorno do jogo, é uma condição médica caracterizada pelo desejo incontrolável de continuar jogando ou apostando. Ela é reconhecida como doença pela Organização Mundial da Saúde (OMS).\nAo falar de forma geral sobre as bets, o ministro disse que sua “percepção” é de que elas “devem ser banidas”. \nFux ressaltou, porém, que essa avaliação não encerra a análise das ações sobre a medida provisória, que envolve outros argumentos e depende do colegiado do STF.\nFux rebateu ainda críticas à composição da audiência. “Não procede alegação de que eu só convoquei empresas e times de futebol”, afirmou. Ele citou, entre os convidados, a Associação Brasileira de Supermercados e o ministro da Justiça.\nFux afirmou que a edição da medida provisória trouxe novas questões que precisarão ser examinadas pelo STF. Entre elas, citou segurança jurídica, aplicação da lei a atos anteriores, proteção da confiança de empresas autorizadas a operar e se estavam presentes as condições de relevância e urgência exigidas para a edição de uma medida provisória.\n“Eu vou reiterar, evidentemente, os meus argumentos que eu utilizei com relação aos jogos de azar em geral e também vou levar os novos argumentos que surgiram em razão da medida provisória”, afirmou.\nMinistro Luiz Fux durante julgamento no Supremo\nLuiz Silveira/STF\nLula pediu mobilização\nAntes da audiência desta terça, Lula publicou um vídeo nas redes sociais no qual pediu participação da sociedade civil na discussão.\n“É importante que a sociedade civil participe para que haja justiça na decisão”, afirmou o presidente.\nLula também voltou a associar as apostas ao sofrimento das famílias pobres e defendeu que as bets continuem proibidas.\nA posição repete argumentos apresentados pelo presidente ao anunciar a proibição, em 25 de setembro. Na ocasião, Lula afirmou ter decidido tomar uma medida “dura e drástica” para acabar com as bets.\nO que está em discussão no STF\nFux é relator dos pedidos apresentados pela Associação Nacional de Jogos e Loterias (ANJL) e pelo Instituto Brasileiro de Jogo Responsável (IBJR) contra a medida provisória que proibiu as bets.\nAs duas entidades pediram ao Supremo a suspensão dos efeitos da MP e a manutenção do funcionamento das empresas que estavam autorizadas a operar.\nEntre os argumentos, afirmam que a interrupção das atividades viola a segurança jurídica e pode provocar a migração de apostadores para o mercado clandestino.\nO governo defende a manutenção da proibição. A Advocacia-Geral da União (AGU) afirmou ao STF que há razões econômicas, sociais e de saúde para a medida. O órgão também sugeriu a Fux que avaliasse a realização de uma nova audiência pública.\nNa audiência desta terça, dois ministros do governo defenderam a medida. O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, afirmou que o governo buscou ouvir os setores envolvidos e evitar uma proibição que produzisse efeitos indesejáveis, mas concluiu que era necessário agir diante dos impactos das apostas sobre indivíduos e famílias.\nWellington César Lima e Silva disse defender uma atividade econômica “pujante”, mas afirmou que ela não pode se desenvolver com a “vitimização” de pessoas que, segundo ele, estão em desvantagem diante dos mecanismos tecnológicos utilizados pelas plataformas.\nJá o advogado-geral da União, Jorge Messias, concentrou a exposição nos argumentos jurídicos. Ele afirmou que a União considera a MP constitucional e defende que ela seja integralmente preservada. \nSegundo Jorge Messias, o governo entende que o Estado pode e deve intervir em uma atividade econômica quando os mecanismos de proteção se mostram insuficientes para preservar direitos fundamentais.\nO advogado-geral afirmou ainda que, para a União, a urgência da MP decorre da continuidade dos danos provocados pelas apostas e da necessidade de impedir que eles se ampliem.\nJorge Messias reconheceu a importância da segurança jurídica, mas disse que questões patrimoniais das empresas não garantem o direito à manutenção do regime de exploração das apostas.\nClubes defendem segurança jurídica\nRepresentantes de time de futebol como o Flamengo, Fluminense e Botafogo criticaram a proibição imediata das bets e afirmaram que a medida compromete receitas e contratos que haviam sido planejados com base na regulamentação anterior. \nOs clubes defenderam um período maior de transição e regras mais rígidas para o setor como alternativa à proibição total.\nPelo Flamengo, o representante afirmou que o clube assumiu compromissos financeiros com atletas e empregados contando com as receitas dos contratos de patrocínio e defendeu que eles sejam protegidos. \n“O Flamengo se organizou financeiramente para os próximos quatro, cinco anos com base no contrato assinado, de acordo com a legislação vigente”, disse.\nO Fluminense destacou que os efeitos não se restringem aos grandes clubes. Segundo o representante, equipes menores e times da Série B já enfrentam redução nas propostas por direitos de transmissão. \nEle criticou especialmente o prazo de transição previsto para a publicidade das bets e comparou o Brasil com outros países: “Bélgica, 56 meses de período de transição; Reino Unido, 36 meses; Espanha, 12 meses; Itália, 10 meses; Brasil, 10 dias”.\nO representante do Fluminense também contrapôs o argumento do governo sobre os efeitos sociais das apostas ao impacto econômico da proibição sobre o futebol: “O drama de uma família endividada não pode ser maior do que o drama de uma família que vai ter que sofrer os efeitos do desemprego”.\nJá o Botafogo afirmou que perdeu, com a proibição, o maior patrocínio da história do clube e disse que os recursos também financiavam as categorias de base e o futebol feminino. O representante afirmou ainda que o plano de recuperação judicial do clube contava com o fluxo de caixa do contrato com a empresa de apostas.\nO Botafogo também criticou o prazo para adaptação. Segundo o representante, os dez dias previstos não foram “adequados ou minimamente suficientes” e a receita perdida desde a entrada em vigor da proibição não será recuperada mesmo que os efeitos da MP venham a ser suspensos.\nRepresentantes de Cruzeiro e São Paulo também criticaram a proibição. Pelo Cruzeiro, José Francisco Cimino Manssur afirmou considerar a medida ineficaz e argumentou que a proibição da publicidade de casas de apostas pode criar um desequilíbrio entre clubes brasileiros e equipes estrangeiras que disputam partidas no país exibindo marcas do setor.\n“Eu acredito que a proibição seja ineficaz”, afirmou José Francisco Cimino Manssur.\nPelo São Paulo, Danielle Maiolini Mendes afirmou que a proibição não impede que plataformas ilegais continuem usando jogos, clubes e atletas brasileiros como objeto de apostas e argumentou que empresas do mercado regulado auxiliavam no compartilhamento de informações para combater a manipulação de competições. \nEla afirmou ainda que o clube tem contrato de patrocínio com vigência até 2030 e que essa receita faz parte do planejamento do futebol profissional, das categorias de base e do futebol feminino.\nO Corinthians também defendeu um período de transição. O representante do clube afirmou que a suspensão abrupta das receitas pode aumentar a diferença financeira em relação a equipes de países vizinhos que continuam autorizadas a receber patrocínio de empresas de apostas.\n“Tem que ocorrer a modulação, tem que ocorrer um período de transição, tem que ocorrer uma adequação. O que não pode é, de um momento para o outro, isso ser cerceado do clube de futebol”, afirmou o representante do Corinthians.\nRepresentantes dos atletas profissionais também pediram que o STF considere os efeitos da proibição sobre o emprego no futebol. \nSegundo Murilo Aragão, grandes clubes têm maior capacidade de substituir receitas por causa da força de suas marcas, mas equipes menores podem ter mais dificuldade para absorver a perda dos recursos das bets.\n“Os nossos pleitos, como amigo da Corte, são que o efeito da medida provisória em questão considere o efeito no emprego dos atletas no país”, afirmou Aragão.\nEm 2025, as bets pagaram R$ 1,143 bilhão em patrocínios aos 20 clubes brasileiros de maior receita, o equivalente a cerca de 36% das receitas de marketing desses times.\nA proibição foi determinada por uma medida provisória publicada em 25 de setembro. A norma proibiu a exploração, a oferta, a intermediação e a publicidade das apostas de quota fixa no Brasil.",
       "tags": [
-        "Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
-        "Estadão",
+        "Estadão"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 03 Nov 2026 13:33:30 -0000"
+    },
+    {
+      "id": "3dfb9725ec0d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Bolsonaro da Shopee’ e ‘Plínio Trump’: Sósias são derrotados nas urnas",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/bolsonaro-da-shopee-e-plinio-trump-sosias-sao-derrotados-nas-urnas/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "urnas"
+      ],
+      "crossOutlets": [
         "G1 - Política"
       ],
-      "score": 79,
-      "publishedRaw": "03 Nov 2026 19:21:00 -0300"
+      "score": 75,
+      "publishedRaw": "Tue, 03 Nov 2026 19:19:58 +0000"
+    },
+    {
+      "id": "dd8700e16a64",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Janja entrega a Fux relatório sobre bets em audiência no STF: ‘Mulheres sentem peso do vício’",
+      "link": "https://www.estadao.com.br/politica/janja-entrega-a-fux-relatorio-sobre-bets-em-audiencia-no-stf-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 03 Nov 2026 19:09:06 +0000"
+    },
+    {
+      "id": "76f326a7a6a0",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fux barra ação que tentava anular rejeição de Jorge Messias ao STF pelo Senado",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fux-barra-acao-que-tentava-anular-rejeicao-de-jorge-messias-ao-stf-pelo-senado/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "G1 - Política"
+      ],
+      "score": 75,
+      "publishedRaw": "Tue, 03 Nov 2026 18:37:50 +0000"
     },
     {
       "id": "fd6736d61693",
@@ -876,10 +865,9 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 79,
+      "score": 74,
       "publishedRaw": "Tue, 03 Nov 2026 21:45:12 +0000"
     },
     {
@@ -917,23 +905,6 @@
     },
     {
       "id": "51bdced14f59",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ministro diz que proposta para 'imposto do pecado' deve ser enviada nesta terça ao Congresso; objetivo é manter carga em 2027",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/ministro-da-fazenda-diz-que-proposta-para-o-imposto-do-pecado-pode-ser-enviada-hoje-ao-congresso-objetivo-e-manter-carga-atual-em-2027.ghtml",
-      "summary": "Durigan diz que proposta para 'imposto do pecado' deve ser enviada nesta terça ao Congresso\nO ministro da Fazenda, Dario Durigan, informou nesta terça-feira (3) que tem reunião agendada hoje com o presidente Luiz Inácio Lula da Silva (PT) para discutir a medida provisória (MP) do Imposto Seletivo, também conhecido como \"imposto do pecado\". \nSegundo ele, a proposta, que pode ser enviada ainda nesta terça ao Congresso Nacional, prevê a manutenção da atual carga tributária sobre os produtos que causam danos à saúde no próximo ano, período de transição. Posteriormente, a partir de 2028, a ideia é que a taxação aumente.\n\"A MP já saiu aqui do Ministério da Fazenda, eu devo despachar como presidente hoje, tá? Então a expectativa é que seja hoje, sim [o envio ao Congresso Nacional] (...). Ela tem que ser aprovada até o fim do ano\", declarou o ministro a jornalistas. Segundo ele, a MP está atualmente na Casa Civil.\nDurigan confirmou que fez um acordo com os setores impactados pelo imposto do pecado de manter a atual carga tributária incidente sobre os produtos. \nComo o Imposto eletivo tem noventena, ou seja, demora 90 dias para entrar em vigor depois de ser aprovado pelo Legislativo, o ministro informou que também combinou com os setores que, nesse meio tempo, provavelmente até fevereiro de 2027, o Imposto Sobre Produtos Industrializados (IPI) continuará sendo cobrado sobre esses produtos — como forma de evitar perda de arrecadação.\nAgora no g1\n🔎 Criado pela reforma tributária sobre o consumo, o imposto do pecado começará a ser cobrado em 2027 e tem o objetivo de encarecer produtos ou atividades que causam danos à saúde ou ao meio ambiente.\nA lista inclui bebidas alcoólicas, refrigerantes e cigarros. O novo imposto também incidirá sobre alguns veículos, conforme o nível de poluição, sobre a extração de bens minerais e sobre loterias, apostas e jogos de fantasy sports. (leia mais abaixo).\nNo futuro, porém, o objetivo do governo é aumentar a tributação sobre produtos ou atividades que causam danos à saúde ou ao meio ambiente, para desestimular seu consumo.\nPara 2027, a equipe econômica estima arrecadar R$ 41,9 bilhões com esse tributo, segundo a proposta de Orçamento enviada ao Congresso.\nCom a cobrança do Imposto Seletivo e da Contribuição sobre Bens e Serviços (CBS), outro tributo criado pela reforma e que começará a ser cobrado em 2027, o governo busca manter a arrecadação estável em relação ao Produto Interno Bruto (PIB).\nDario Durigan, ministro da Fazenda\nWashington Costa/MF\nVeja alguns dos principais produtos afetados\n➡️ Um levantamento da Fiocruz, citado pelo Ministério da Saúde, aponta que o consumo de álcool gerou custos de R$ 18,8 bilhões em 2019. Desse total, R$ 1,1 bilhão correspondeu a gastos federais diretos com internações e atendimentos ambulatoriais no Sistema Único de Saúde (SUS). Outros R$ 17,7 bilhões foram associados à perda de produtividade causada por mortes prematuras, afastamentos do trabalho, aposentadorias precoces e licenças médicas relacionadas a doenças provocadas pelo consumo de álcool.\n➡️ No Brasil, segundo o Ministério da Saúde, as doenças relacionadas ao tabagismo geram custos indiretos de R$ 86,3 bilhões por ano. Considerando também os custos diretos, o impacto econômico anual chega a R$ 153,5 bilhões, o equivalente a 1,6% do PIB. \"Em contrapartida, a arrecadação de tributos federais na venda de cigarros é de apenas R$ 8 bilhões por ano, o que evidencia desequilíbrio entre os gastos com a saúde e a arrecadação gerada pela comercialização do produto\", diz.\n➡️ Em um estudo para embasar a cobrança do Imposto Seletivo, o governo estimou que o tratamento de doenças associadas ao consumo de bebidas ultraprocessadas, como refrigerantes, isotônicos e refrescos, custa quase R$ 3 bilhões por ano ao Sistema Único de Saúde (SUS).\n➡️ Produtores nacionais afirmam que as bebidas alcoólicas já são muito tributadas no Brasil, com impostos que representam de 40% a mais de 80% do preço dos produtos. Segundo o setor, um eventual aumento da tributação pode reduzir as margens de lucro, elevar os preços ao consumidor, provocar demissões e estimular o mercado ilegal.",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 68,
-      "publishedRaw": "Tue, 03 Nov 2026 12:15:24 -0000"
-    },
-    {
-      "id": "51bdced14f59",
       "source": "G1 - Economia",
       "tipo": "mainstream",
       "category": "Economia",
@@ -951,19 +922,21 @@
       "publishedRaw": "Tue, 03 Nov 2026 12:15:24 -0000"
     },
     {
-      "id": "5931328c760f",
-      "source": "Poder360",
+      "id": "a78dc838be73",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Aos 30 anos, Nikolas Ferreira anuncia que será pai pela 3ª vez",
-      "link": "https://www.poder360.com.br/poder-gente/aos-30-anos-nikolas-ferreira-anuncia-que-sera-pai-pela-3a-vez/",
-      "summary": "Deputado tem outras duas filhas com a mulher: Aurora e Serena",
+      "title": "Decisões do TSE e mudança na lei travam redução de partidos políticos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/decisoes-do-tse-e-mudanca-na-lei-travam-reducao-de-partidos-politicos.shtml",
+      "summary": "Aprovada em 2017 para reduzir a quantidade de partidos políticos no Brasil, a cláusula de barreira levou à extinção de seis legendas nos primeiros cinco anos e contribuiu para diminuir as siglas com representação no Congresso Nacional. A criação de federações partidárias em 2021 e recentes decisões judiciais, no entanto, travaram esse movimento, e nenhuma legenda deve desaparecer após a última eleição.\nLeia mais (11/03/2026 - 23h00)",
       "tags": [
-        "Nikolas Ferreira"
+        "TSE"
       ],
-      "crossOutlets": [],
-      "score": 66,
-      "publishedRaw": "Tue, 03 Nov 2026 21:55:08 +0000"
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 68,
+      "publishedRaw": "03 Nov 2026 23:00:00 -0300"
     },
     {
       "id": "53f625f94daa",
@@ -981,19 +954,19 @@
       "publishedRaw": "Tue, 03 Nov 2026 19:37:21 +0000"
     },
     {
-      "id": "4546a24c1a42",
-      "source": "CNN Brasil",
+      "id": "fc6bbece415c",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "No Brasil, Antonelli visita família Senna e posa em carro do brasileiro",
-      "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/no-brasil-antonelli-visita-familia-senna-e-posa-em-carro-do-brasileiro/",
-      "summary": "Piloto italiano conheceu acervo com objetos pessoais do tricampeão mundial e tirou foto em carro da Lotus utilizado pelo ídolo brasileiro",
+      "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
+      "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
+      "summary": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação Por 75 votos a 0, PEC é aprovada. Governistas aprovaram que as emendas sobre a redução da maioridade penal tramitem de forma separada. O Senado aprova PEC da Segurança Pública. O texto prevê o \"SUS da Segurança\" e o fim da \"saidinha\" de presos. Veja detalhes da proposta. A PEC seria analisada antes do 2º turno da eleição, mas um impasse sobre redução da maioridade penal adiou votação. . O Senado aprovou que as emendas sobre a redução da maioridade penal tramitem de forma separada da PEC da Segurança Pública.. A oposição defende a redução para até 14 anos, dependendo da gravidade do crime, enquanto uma proposta governista prevê 16 anos para crimes hediondos.. Para a PEC ser aprovada, a proposta precisa do apoio de pelo menos 49 senadores, em dois turnos.",
       "tags": [
-        "família"
+        "segurança pública"
       ],
       "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Tue, 03 Nov 2026 21:53:47 +0000"
+      "score": 57,
+      "publishedRaw": "Wed, 04 Nov 2026 00:09:27 -0000"
     },
     {
       "id": "e1c830f87704",
@@ -1009,21 +982,6 @@
       "crossOutlets": [],
       "score": 57,
       "publishedRaw": "Tue, 03 Nov 2026 22:48:07 -0000"
-    },
-    {
-      "id": "fc6bbece415c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
-      "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-      "summary": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação Senado decide votar PEC sem discutir redução da maioridade penal. Governistas aprovaram queas emendas apresentadas tramitem de forma separada. O Senado aprova PEC da Segurança Pública. O texto prevê o \"SUS da Segurança\" e o fim da \"saidinha\" de presos. Veja detalhes da proposta. A PEC seria analisada antes do 2º turno da eleição, mas um impasse sobre redução da maioridade penal adiou votação. . O Senado aprovou que as emendas sobre a redução da maioridade penal tramitem de forma separada da PEC da Segurança Pública.. A oposição defende a redução para até 14 anos, dependendo da gravidade do crime, enquanto uma proposta governista prevê 16 anos para crimes hediondos.. Para a PEC ser aprovada, a proposta precisa do apoio de pelo menos 49 senadores, em dois turnos.",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "Tue, 03 Nov 2026 22:33:08 -0000"
     },
     {
       "id": "4e474ea739d4",
@@ -1047,88 +1005,13 @@
       "category": "Política",
       "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto vai a promulgação",
       "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-aprova-pec-da-seguranca-publica.ghtml",
-      "summary": "Senado aprova PEC da Segurança Pública; texto vai a promulgação\nO Senado aprovou em dois turnos a proposta de emenda à Constituição (PEC) da Segurança Pública nesta terça-feira (3). O texto segue para promulgação.\nA proposta foi aprovada por 73 votos favoráveis no primeiro turno e por 75 votos e nenhum contra no segundo.\n🔎 Para ser aprovada, uma PEC precisa ter ao menos três quintos dos votos favoráveis nas duas votações. Ou seja, precisa contar com o apoio de 49 senadores.\nMais cedo, o plenário decidiu que iria votar a proposta sem apreciar os destaques, do PL e do PT, que tratam da redução da maioridade penal.\n➡️A proposta do PL era para a maioridade penal diminua para 16 anos em casos de crimes de menor gravidade, e para 14 anos nos hediondos;\n➡️A proposta do PT reduziria a maioridade para 16 anos apenas para crimes hediondos, mantendo para os demais.\nNa prática, o Senado Federal aprovou dois requerimentos que encaminha as duas emendas apresentadas tramitem de forma separada da PEC da Segurança Pública no Senado.\nAntes do segundo turno das eleições, a Comissão de Constituição e Justiça (CCJ) aprovou a PEC e o plenário chegou a pautar o tema para votação. No entanto, a análise foi adiada por causa de um impasse entre governo e oposição sobre a diminuição da maioridade penal.\nO governo indicou que é a favor de discutir a redução da maioridade para 16 anos em caso de crimes hediondos. Mas quer que essa discussão seja feita em uma PEC própria que já está em análise na Câmara. \nEsse é o primeiro teste do governo depois da vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições. A estratégia é aprovar o texto ainda neste ano e evitar a análise com uma maioria de senadores do PL a partir de 2027.\nA PEC da Segurança Pública é considerada prioritária para o governo de Lula, que pretende, após a aprovação, criar o Ministério da Segurança Pública.\nO plenário do Senado aprovou em outubro um calendário especial para quebrar o interstício – período previsto no regimento interno do Senado que prevê cinco sessões de debate antes da votação da proposta em primeiro turno, mais cinco dias úteis e três outras sessões de debate para a votação do segundo turno.\nSistema Único de Segurança Pública\nA proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP), cujo objetivo é integrar o combate ao crime organizado entre os entes.\nDe acordo com o texto, União, Estados e Distrito Federal poderão criar leis na área de segurança pública, incluindo forças-tarefa intergovernamentais, organização das polícias e guardas municipais e do sistema socioeducativo.\nOutro ponto central da PEC da Segurança Pública é sobre o combate a crimes violentos e facções criminosas.\nEntre as medidas estão a obrigatoriedade de prisão em estabelecimento penal de segurança máxima ou de natureza especial.\nTambém fica proibida ou restringida a progressão de regime, a concessão de liberdade provisória, com ou sem fiança, e de saída temporária.\nA PEC também permite a expropriação de todo e qualquer bem, direito ou valor econômico envolvido com as atividades criminosas. As regras valem para organizações criminosas, paramilitares e de milícia privada.\nA proposta permite ainda:\ncriação de polícias municipais para o policiamento ostensivo e comunitário;\nampliação da atuação da Polícia Rodoviária Federal (PRF) para o policiamento de hidrovias e ferrovias, além de apoiar outras forças de segurança, quando requisitada pelo governador;\nmanter a Polícia Federal e PRF sob competência privativa da União, assim como as normas para atividades de inteligência.\nLula pediu aprovação\nGerson Camarotti comenta expectativa do governo para aprovação da PEC da Segurança Pública\nO tema é considerado prioritário para o governo do presidente Lula que pretende, após a aprovação, recriar o Ministério da Segurança Pública.\nA ideia é que a pasta seja permanente, dando mais garantia à população de que uma política nacional de segurança pública se manterá.\nPlenário do Senado Federal\nJonas Pereira/Agência Senado",
+      "summary": "Senado aprova PEC da Segurança Pública; texto vai a promulgação\nO Senado aprovou em dois turnos a proposta de emenda à Constituição (PEC) da Segurança Pública nesta terça-feira (3). O texto segue para promulgação.\nVeja como ficou texto aprovado.\nA proposta dá mais poder ao governo federal para agir contra as organizações criminosas, amplia a cooperação entre União, estados e municípios e prevê punições mais severas para os chefes de facções criminosas, que deverão cumprir pena obrigatoriamente em prisão de segurança máxima (veja mais detalhes abaixo).\nA PEC foi aprovada por 73 votos favoráveis no primeiro turno e por 75 votos no segundo. Nenhum voto contrário foi registrado.\n🔎 Para ser aprovada, uma PEC precisa ter ao menos três quintos dos votos favoráveis nas duas votações. Ou seja, precisa contar com o apoio de 49 senadores.\nMais cedo, o plenário decidiu que iria votar a proposta sem apreciar os destaques, do PL e do PT, que tratam da redução da maioridade penal.\n➡️A proposta do PL era para a maioridade penal diminua para 16 anos em casos de crimes de menor gravidade, e para 14 anos nos hediondos;\n➡️A proposta do PT reduziria a maioridade para 16 anos apenas para crimes hediondos, mantendo para os demais.\nNa prática, o Senado Federal aprovou dois requerimentos que encaminham as duas emendas apresentadas tramitem de forma separada da PEC da Segurança Pública no Senado.\nAntes do segundo turno das eleições, a Comissão de Constituição e Justiça (CCJ) aprovou a PEC e o plenário chegou a pautar o tema para votação. No entanto, a análise foi adiada por causa de um impasse entre governo e oposição sobre a diminuição da maioridade penal.\nO governo indicou que é a favor de discutir a redução da maioridade para 16 anos em caso de crimes hediondos. Mas quer que essa discussão seja feita em uma PEC própria que já está em análise na Câmara. \nEsse é o primeiro teste do governo depois da vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições. A estratégia é aprovar o texto ainda neste ano e evitar a análise com uma maioria de senadores do PL a partir de 2027.\nA PEC da Segurança Pública é considerada prioritária para o governo de Lula, que pretende, após a aprovação, criar o Ministério da Segurança Pública.\nO plenário do Senado aprovou em outubro um calendário especial para quebrar o interstício – período previsto no regimento interno do Senado que prevê cinco sessões de debate antes da votação da proposta em primeiro turno, mais cinco dias úteis e três outras sessões de debate para a votação do segundo turno.\nSistema Único de Segurança Pública\nA proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP), cujo objetivo é integrar o combate ao crime organizado entre os entes.\nDe acordo com o texto, União, Estados e Distrito Federal poderão criar leis na área de segurança pública, incluindo forças-tarefa intergovernamentais, organização das polícias e guardas municipais e do sistema socioeducativo.\nOutro ponto central da PEC da Segurança Pública é sobre o combate a crimes violentos e facções criminosas.\nEntre as medidas estão a obrigatoriedade de prisão em estabelecimento penal de segurança máxima ou de natureza especial.\nTambém fica proibida ou restringida a progressão de regime, a concessão de liberdade provisória, com ou sem fiança, e de saída temporária.\nA PEC também permite a expropriação de todo e qualquer bem, direito ou valor econômico envolvido com as atividades criminosas. As regras valem para organizações criminosas, paramilitares e de milícia privada.\nA proposta permite ainda:\ncriação de polícias municipais para o policiamento ostensivo e comunitário;\nampliação da atuação da Polícia Rodoviária Federal (PRF) para o policiamento de hidrovias e ferrovias, além de apoiar outras forças de segurança, quando requisitada pelo governador;\nmanter a Polícia Federal e PRF sob competência privativa da União, assim como as normas para atividades de inteligência.\nLula pediu aprovação\nGerson Camarotti comenta expectativa do governo para aprovação da PEC da Segurança Pública\nO tema é considerado prioritário para o governo do presidente Lula que pretende, após a aprovação, recriar o Ministério da Segurança Pública.\nA ideia é que a pasta seja permanente, dando mais garantia à população de que uma política nacional de segurança pública se manterá.\nPlenário do Senado Federal\nJonas Pereira/Agência Senado",
       "tags": [
         "segurança pública"
       ],
       "crossOutlets": [],
       "score": 57,
       "publishedRaw": "Tue, 03 Nov 2026 22:06:13 -0000"
-    },
-    {
-      "id": "b1d7cdd9e7e5",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Entenda ponto a ponto da PEC da Segurança Pública aprovada pelo Senado",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/entenda-a-pec-da-seguranca-publica-aprovada-em-primeiro-turno-pelo-senado.shtml",
-      "summary": "O Senado aprovou em dois turnos, nesta terça-feira (3), a PEC (Proposta de Emenda à Constituição) da Segurança Pública, que amplia o papel do governo federal na área. Agora, o texto segue para promulgação em sessão no Congresso Nacional.\nLeia mais (11/03/2026 - 19h30)",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "03 Nov 2026 19:30:00 -0300"
-    },
-    {
-      "id": "007bd065bfea",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Senado aprova PEC da Segurança Pública sem discutir redução da maioridade",
-      "link": "https://www.cnnbrasil.com.br/politica/senado-aprova-pec-da-seguranca-publica/",
-      "summary": "Proposta foi aprovada em dois turnos e segue agora para promulgação",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "Tue, 03 Nov 2026 22:06:43 +0000"
-    },
-    {
-      "id": "73285b69fd61",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Senado aprova PEC da Segurança Pública e texto vai a promulgação",
-      "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-pec-da-seguranca-publica-e-texto-vai-a-promulgacao/",
-      "summary": "Proposta que reformula o sistema nacional de segurança pública é uma das bandeiras do presidente Lula; redução da maioridade ficou de fora",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "Tue, 03 Nov 2026 22:31:06 +0000"
-    },
-    {
-      "id": "5cb88cd70bb3",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relator retira maioridade penal da PEC da Segurança Pública",
-      "link": "https://www.poder360.com.br/poder-congresso/relator-retira-maioridade-penal-da-pec-da-seguranca-publica/",
-      "summary": "Mudança preserva texto aprovado pela Câmara; Senado analisará 2 requerimentos antes de votar proposta principal",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "Tue, 03 Nov 2026 21:32:46 +0000"
-    },
-    {
-      "id": "6eb76dc0599c",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Como 'método Janones' está inspirando a esquerda fora do Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62yj7vzv48o?at_medium=RSS&at_campaign=rss",
-      "summary": "Depois da reeleição de Luiz Inácio Lula da Silva, mobilização digital organizada por deputado passou a ser observada por setores da esquerda que procuram enfrentar adversários nas redes.",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 50,
-      "publishedRaw": "Sat, 31 Oct 2026 10:26:01 GMT"
     }
   ]
 }
