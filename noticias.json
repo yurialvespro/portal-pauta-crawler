@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T18:48:52.525464+00:00",
+  "generated_at": "2026-11-05T00:16:05.156622+00:00",
   "items": [
     {
       "id": "a6627d0bbbd3",
@@ -15,7 +15,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "CNN Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -24,89 +24,320 @@
       "publishedRaw": "Wed, 04 Nov 2026 13:32:33 -0000"
     },
     {
-      "id": "41f8537e3915",
-      "source": "Estadão",
+      "id": "edee9a80ad64",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Projeto fixa prazo para TSE julgar registros de candidatos antes das eleições",
-      "link": "https://www.estadao.com.br/politica/projeto-fixa-prazo-para-tse-julgar-registros-de-candidatos-antes-das-eleicoes-nprp/",
-      "summary": "",
+      "category": "Internacional",
+      "title": "Governo Lula impõe sigilo a documentos do 'pacote de bondades' lançado nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/cmz654z66gplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Casa Civil alegou sigilo 'advogado-cliente' para negar acesso da BBC News Brasil a estudos que embasaram Desenrola 3.0 e proibição das bets. Especialistas contestam justificativa e dizem que decisão dá margem a 'sigilo eterno' sobre material que embasou medidas.",
       "tags": [
         "eleições",
-        "TSE"
+        "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
+        "CNN Brasil",
+        "Estadão",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 88,
-      "publishedRaw": "Wed, 04 Nov 2026 01:38:01 +0000"
+      "publishedRaw": "Tue, 03 Nov 2026 21:09:23 GMT"
     },
     {
-      "id": "c3f83f0eb6b1",
+      "id": "d8ddb7a2ff0d",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidente do PT discute formação de Lula 4 com partidos e mapeia convergências com o governo",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/04/presidente-do-pt-discute-formacao-de-lula-4-com-partidos-e-mapeia-convergencias-com-o-governo.ghtml",
+      "summary": "O presidente do PT, Edinho Silva, foi escalado pelo presidente Luiz Inácio Lula da Silva (PT) para se reunir com dirigentes de partidos e discutir a formação da base do quarto mandato do petista.\nEdinho Silva se reúne desde a semana passada com presidentes de legendas e deve concluir essa primeira rodada de conversas até o final desta semana.\nEstão no cronograma partidos como Podemos, PSD, MDB, Republicanos e União Brasil.\nAgora no g1\nSegundo auxiliares do presidente, o dirigente do PT conversa com diversos partidos de centro e recebeu de Lula a missão de mapear a agenda das legendas e identificar pontos de convergência e divergência com o governo.\nDe acordo com um interlocutor do PT, as conversas não estão tratando de cargos neste momento.\nNesta quarta-feira (4), Edinho iniciou as tratativas formais com os presidentes do MDB, Baleia Rossi, e do PSD, Gilberto Kassab, para desenhar o tamanho da participação das duas legendas no novo governo. \nA regra imposta pelo PT é de que os partidos que optarem por compor a base deverão entregar, na prática, mais votos em pautas de interesse do governo no Congresso Nacional. O Planalto busca garantir uma adesão real, porque sabe que precisará de reforço para conseguir superar a barreira da oposição, que saiu fortalecida das urnas nas eleições de outubro.\nTanto Baleia quanto Kassab avisaram a Edinho que vão levar as condições para debate com as lideranças e as bancadas de suas respectivas legendas na Câmara e no Senado.\nDe acordo com relatos, a conversa entre Edinho Silva e Baleia Rossi não tratou de cargos, mas o presidente do MDB teria se colocado à disposição para \"garantir a estabilidade para o país\" e aprovar agendas de consenso, em especial na área econômica.\n\"Guardadas diferenças entre nossos partidos, podemos encontrar caminhos comuns para os temas nacionais, como o crescimento econômico e a geração de mais oportunidades. O MDB é o partido do diálogo. O Brasil precisa de pacificação\", disse Baleia Rossi em uma publicação nas redes sociais.\nLula quer saber quanto as legendas vão entregar e em que pontos a agenda dos partidos converge com as propostas para o quarto mandato.\nO presidente não quer repetir o modelo de negociação adotado a partir de 2023, em que a bancada de um partido na Câmara dos Deputados indicava um ministro e a do Senado, outro.\nNa semana passada, Edinho Silva afirmou à GloboNews que as conversas sobre a nova composição do governo Lula devem se acelerar após o retorno do presidente da COP, na Turquia.  O evento está previsto para acontecer entre os dias 9 e 20 de novembro. Os chefes de Estado, como Lula, são esperados entre os dias 11 e 12.\nO presidente do PT também afirmou que será necessário organizar uma transição, mesmo com a continuidade de Lula na Presidência.\nSegundo ele, os novos ministros precisarão dialogar com os atuais titulares. Mesmo nos ministérios em que os comandantes permanecerem, poderá haver uma reorganização das estruturas, inclusive nos estados.\nO presidente nacional do PT, Edinho Silva.\nDivulgação",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 19:41:45 -0000"
+    },
+    {
+      "id": "78e57d7461a0",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador a prisão; para o bandido, a proteção'; áudio foi editado",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/04/e-fake-video-de-lula-dizendo-para-o-povo-trabalhador-a-prisao-para-o-bandido-a-protecao-audio-foi-editado.ghtml",
+      "summary": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador, a prisão; para o bandido, a proteção'\nReprodução\nCircula nas redes sociais um vídeo que supostamente mostra o presidente Lula (PT) dizendo \"para o povo trabalhador, a prisão; para o bandido, a proteção\". É #FAKE. \n✅ Siga o canal de Fato ou Fake no WhatsApp\nSelo Fake (Horizontal)\ng1\n🔴 Como é o vídeo?\nPublicado no X e no Facebook nesta segunda-feira (2), o conteúdo exibe caixas de texto sobrepostas às imagens que dizem: \"Grave! Lula promete prisão para trabalhadores! Para o povo trabalhador, a prisão; e, para o bandido, a proteção, diz Lula! Macabro isso, viu Lula!\".\nO vídeo mostra o presidente afirmando, em um pronunciamento: \"E, na hora em que a gente definir a aprovação da PEC, nós vamos aprovar o Ministério de Segurança Pública para que a gente possa fazer funcionar o Sistema Único de Segurança Pública (Susp). O nosso lema é o seguinte: 'Para o povo trabalhador, a prisão; para o bandido, a proteção'. É esse o nosso lema daqui para frente, gente\". Mas o conteúdo foi editado digitalmente — leia mais abaixo.\n⚠️ Por que é #FAKE? \nO áudio do pronunciamento foi editado digitalmente. Na verdade, a versão original diz justamente o contrário: \"Para o povo trabalhador, a proteção; para o bandido, a prisão\". \nLula deu essa declaração em 7 de outubro, três dias após o primeiro turno das eleições 2026, durante um encontro com parlamentares do PT (assista ao vídeo abaixo).\nNa ocasião, o então candidato à reeleição defendeu a aprovação da Proposta de Emenda à Constituição (PEC) do governo sobre Segurança Pública. \nA proposta, aprovada nesta terça-feira (3) pelo Senado, dá mais poder ao governo federal para agir contra as organizações criminosas, amplia a cooperação entre União, estados e municípios e prevê punições mais severas para os chefes de facções criminosas.\nAntes da votação, o plenário decidiu que iria votar a medida sem discutir os destaques, do PT e do PL, que tratam da redução da maioridade penal. Depois, líderes do Senado fecharam um acordo para que a votação sobre o tema seja acelerada.\n➡️A proposta do PL era diminuir a maioridade penal para 16 anos em casos de crimes de menor gravidade, e para 14 anos nos hediondos;\n➡️A proposta do PT reduziria a maioridade para 16 anos apenas para crimes hediondos, mantendo para os demais.\nLula: 'Para o povo trabalhador, proteção; para o bandido, prisão'\nÉ #FAKE vídeo de Lula dizendo 'para o povo trabalhador, a prisão; para o bandido, a proteção'\nReprodução\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: vídeo que mostra homem tomando banho em fonte natural em meio a chamas é real\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\n \nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 17:27:06 -0000"
+    },
+    {
+      "id": "8d2a582bf65c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula deve fazer pronunciamento no domingo, garantir que não haverá estelionato eleitoral e que fará ajuste fiscal",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/lula-deve-fazer-pronunciamento-no-domingo-garantir-que-nao-havera-estelionato-eleitoral-e-que-fara-ajuste-fiscal.ghtml",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) deve fazer um pronunciamento à nação no próximo domingo (8), no qual pretende prometer trabalhar pela pacificação do país, garantir que não haverá estelionato eleitoral e anunciar que fará um ajuste fiscal para cumprir as metas fiscais durante seu quarto mandato.\nSegundo assessores presidenciais, Lula vai dizer que adotará medidas para garantir o cumprimento das metas de resultado primário ao longo do próximo mandato, preservando os programas sociais e cumprindo as promessas feitas durante a campanha eleitoral.\n\"Não haverá estelionato eleitoral. O presidente vai deixar isso claro, mas também vai dizer que seu governo terá responsabilidade fiscal durante todo o quarto mandato\", disse reservadamente ao blog um assessor direto de Lula.\nOutro auxiliar afirmou que a intenção é garantir a geração de superávits primários ao longo de todo o quarto mandato.\n🔎Estelionato eleitoral é uma expressão usada para definir casos em que um candidato, depois de eleito, adota medidas contrárias ao que prometeu durante a campanha. Apesar do nome, não é um crime previsto na legislação brasileira.\nRumos da política econômica são desafio para o governo Lula\nLula já discute com os ministros Dario Durigan, da Fazenda, e Bruno Moretti, do Planejamento, medidas fiscais que o governo pretende aprovar ainda neste ano.\nDurigan já entrou em contato com o presidente do Senado, Davi Alcolumbre (União-AP), e com o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), para agendar reuniões e negociar a aprovação das medidas.\nO ministro tem dito que o objetivo é garantir o cumprimento do centro da meta fiscal. Para 2027, a previsão citada pelo governo é de superávit primário equivalente a 0,5% do Produto Interno Bruto (PIB).\nEm seu pronunciamento, Lula também vai agradecer aos brasileiros pela reeleição, com destaque para mulheres, jovens e idosos, e dirá que vai trabalhar pela pacificação do país.\nInterlocutores do presidente avaliam que Lula tem uma oportunidade para isolar politicamente a extrema direita, representada pelo bolsonarismo. \nNo terceiro mandato, ele já havia prometido enfrentar o avanço desse grupo político, mas, na avaliação desses interlocutores, não conseguiu cumprir esse objetivo.\nPresidente da República, Luiz Inácio Lula da Silva, durante Cerimônia de Entregas Simultâneas do Governo Federal para Moradia, Saúde e Educação, no Palácio do Planalto, Brasília-DF\nRicardo Stuckert /",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 14:54:05 -0000"
+    },
+    {
+      "id": "eafae55bea8a",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cadu de Lula diz que PEC da Segurança vai facilitar integração entre forças federais, estaduais e municipais",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/04/cadu-de-lula-governador-rn-seguranca-economia-governo.ghtml",
+      "summary": "Governador eleito do Rio Grande do Norte, Cadu de Lula (PT), em entrevista ao jornal Em Ponto, da GloboNews\nReprodução\nO governador eleito do Rio Grande do Norte, Cadu de Lula (PT), afirmou nesta quarta-feira (4) que a PEC da Segurança Pública vai facilitar a integração entre as forças federais, estaduais e municipais no combate ao crime organizado. A proposta foi aprovada pelo Senado em dois turnos na terça-feira (3) e segue para promulgação pelo Congresso Nacional.\n“Ontem foi uma excelente notícia a aprovação da PEC da Segurança Pública, que vai ter impacto lá no Rio Grande do Norte”, afirmou, em entrevista ao jornal Em Ponto, da GloboNews.\nQuestionado sobre a ausência de manifestações de Lula a respeito de como enfrentar a dívida, os juros e o endividamento público e privado no próximo mandato, Cadu disse que o presidente pode estar usando esse tempo para consolidar ideias.\n“E esse silêncio dele, talvez seja o tempo necessário, analisando como funciona a cabeça do presidente Lula, para quando ele se manifestar, ele já se manifestar em cima de ideias que vão estar consolidadas na cabeça dele para o rumo que ele vai dar para o país nos próximos anos.”\nAgora no g1\nAo defender a PEC da Segurança, Cadu afirmou que o avanço das organizações criminosas também atinge o Nordeste e defendeu o combate ao crime “com firmeza, com polícia na rua, com ocupação de territórios”.\nRenovação do PT\nCadu também foi questionado sobre as diferenças entre a nova geração de dirigentes do PT e os quadros mais antigos do partido na condução da agenda econômica. Ele rejeitou a ideia de conflito e afirmou que as lideranças tradicionais contribuíram para a chegada dos novos nomes.\n“Então, a gente não tem essa briga de gerações, vamos dizer assim\", explicou. “É natural que agora, no quarto mandato do presidente Lula, algumas dessas lideranças ocupem espaços no governo do presidente Lula.”\nAo falar sobre a relação com a governadora Fátima Bezerra (PT), Cadu ressaltou sua lealdade à antecessora, mas afirmou que terá uma gestão com características próprias.\n“Eu disse ao longo da campanha que eu tenho muita lealdade a Fátima, mas eu tenho um DNA próprio.”\nEx-secretário da Fazenda, ele disse ter uma trajetória mais voltada ao desenvolvimento e à geração de emprego e renda, enquanto destacou a atuação de Fátima no movimento sindical. “Então, o meu governo vai ser um governo diferente do dela. Eu acho que é isso, as ideias se complementam.”",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 11:15:12 -0000"
+    },
+    {
+      "id": "24610a2bde88",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/derrota-de-trump-e-vitoria-de-lula-enfraquecem-direita-nas-americas-e-vira-oportunidade-para-presidente-brasileiro-pacificar-o-pais.ghtml",
+      "summary": "A derrota política sofrida pelo presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato e a reeleição do presidente Luiz Inácio Lula da Silva (PT) no Brasil enfraquecem a direita nas Américas e abrem uma oportunidade para o brasileiro buscar a pacificação do país.\nA avaliação é de assessores e interlocutores de Lula. Para eles, os dois movimentos colocam um freio na ofensiva da ala mais ideológica do governo Trump, que buscava ampliar a influência da direita nas Américas.\nOs democratas conquistaram o controle da Câmara dos Representantes e do Senado dos Estados Unidos nas eleições realizadas nesta terça (3), retirando dos republicanos o domínio das duas Casas do Congresso. \nOs democratas alcançado 54 das 100 cadeiras do Senado e 228 das 435 cadeiras da Câmara.\nTrump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula'\nNo Brasil, Lula foi reeleito no segundo turno, realizado em 25 de outubro, ao derrotar o senador Flávio Bolsonaro (PL). \nCom 100% das urnas apuradas, Lula recebeu 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro.\nNa avaliação dos auxiliares do presidente brasileiro, os resultados nos dois países dificultam uma tentativa de tornar a direita hegemônica na região.\nEles lembram ainda que governos de direita eleitos recentemente na América do Sul já enfrentam dificuldades internas, o que, na visão desses interlocutores, pode limitar a capacidade de articulação regional desse campo político.\nNa Argentina, o presidente Javier Milei representa a direita. No Chile, José Antonio Kast, também de direita, assumiu a Presidência neste ano. Antes da eleição brasileira, o avanço conservador havia levado a direita a governar metade dos países da América do Sul.\nAgora, segundo os assessores de Lula, o novo cenário cria uma oportunidade para que o presidente, em seu quarto mandato, busque reduzir a polarização política no Brasil e ampliar o isolamento dos setores mais radicais da direita.\nNa avaliação desses interlocutores, Lula terá no próximo mandato a oportunidade de avançar numa agenda de pacificação que não conseguiu implementar plenamente durante o terceiro mandato e, com isso, tentar reduzir a força política do bolsonarismo.\nComo eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula\nPablo PORCIUNCULA e Andrew CABALLERO-REYNOLDS / AFP via Getty Images",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 11:15:11 -0000"
+    },
+    {
+      "id": "f0732812cfd6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Presidente do Chile defende ‘manutenção da democracia’ e diz que virá ao Brasil para posse de Lula",
+      "link": "https://www.estadao.com.br/politica/eleicoes/presidente-do-chile-defende-manutencao-da-democracia-e-diz-que-vira-ao-brasil-para-posse-de-lula/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 14:43:37 +0000"
+    },
+    {
+      "id": "ee38c5cd42fb",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "JD Vance culpa guerra no Irã por derrota dos republicanos nas eleições",
-      "link": "https://www.poder360.com.br/poder-internacional/jd-vance-culpa-guerra-no-ira-por-derrota-dos-republicanos-nas-eleicoes/",
-      "summary": "Vice-presidente dos EUA cita ainda inflação, custo de vida e relação com Israel entre os motivos da derrota eleitoral",
+      "title": "Lula falou sobre maioridade penal para evitar uso eleitoral, diz Wagner",
+      "link": "https://www.poder360.com.br/poder-congresso/lula-falou-sobre-maioridade-penal-para-evitar-uso-eleitoral-diz-wagner/",
+      "summary": "Senador defendeu separar o tema da PEC da Segurança Pública, que classificou como mais urgente",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Wed, 04 Nov 2026 22:26:22 +0000"
+    },
+    {
+      "id": "dc8489e09cab",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda as principais viradas das eleições dos EUA em uma tela",
+      "link": "https://www.cnnbrasil.com.br/internacional/entenda-as-principais-viradas-das-eleicoes-dos-eua-em-uma-tela/",
+      "summary": "Partido Democrata vira em Ohio, Carolina do Norte, Iowa, Carolina do Sul, Texas e Kansas, onde não vencia desde 1932; a editora de Internacional da CNN Jéssica Petrovna explica o tema ao Hora H",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 04 Nov 2026 23:51:26 +0000"
+    },
+    {
+      "id": "649b26a4ae12",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições nos EUA: como surgiu o Partido Republicano e qual é sua história?",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/eleicoes-nos-eua-como-surgiu-o-partido-republicano-e-qual-e-sua-historia/",
+      "summary": "Fundada em 1854, legenda surgiu em meio às disputas sobre a expansão da escravidão e passou por transformações que acompanharam a história política dos Estados Unidos",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 04 Nov 2026 23:20:57 +0000"
+    },
+    {
+      "id": "78db45c6a18f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Eleições nos EUA: como surgiu o Partido Democrata e qual é sua história?",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/eleicoes-nos-eua-como-surgiu-o-partido-democrata-e-qual-e-sua-historia/",
+      "summary": "De um movimento ligado à defesa da escravidão à atual identificação com pautas progressistas, a legenda atravessou divisões internas e transformações que marcaram os Estados Unidos",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Wed, 04 Nov 2026 23:20:17 +0000"
+    },
+    {
+      "id": "86de57b38c2f",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Congresso vê vitória democrata como pressão sobre tarifaço de Trump",
+      "link": "https://www.poder360.com.br/poder-congresso/congresso-ve-vitoria-democrata-como-pressao-sobre-tarifaco-de-trump/",
+      "summary": "Vitória da oposição pode favorecer investigações e questionamentos à política tarifária do republicano, inclusive contra o Brasil",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 88,
-      "publishedRaw": "Wed, 04 Nov 2026 18:28:11 +0000"
+      "score": 82,
+      "publishedRaw": "Wed, 04 Nov 2026 22:26:48 +0000"
     },
     {
-      "id": "36c7b3ac3fb9",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Midterms: apostas para as eleições já movimentam mais de R$ 8 bilhões nos EUA; dá para confiar nas previsões?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/midterms-mercados-de-previsao.ghtml",
-      "summary": "Por que Trump está preocupado com as midterms?\nAs eleições de meio de mandato dos Estados Unidos (midterms) serão um grande teste para os mercados de previsão. Kalshi e Polymarket, que já somam mais de US$ 1,48 bilhão (R$ 8,13 bilhões) em apostas eleitorais, precisam mostrar que suas previsões são confiáveis, em meio à crescente pressão sobre o setor.\nAs plataformas ganharam destaque em 2024, quando contrariaram as pesquisas de opinião tradicionais ao apontar a vitória de Donald Trump na eleição presidencial dos EUA. Desde então, ganharam espaço entre veículos de comunicação e investidores em todo o mundo.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nNesta terça-feira (3), os números reunidos pela empresa de análise BetInt pouco haviam mudado em relação à tarde de segunda. Os mercados apontavam 94% de chance de os democratas conquistarem a maioria na Câmara dos Deputados e 75% de ficarem com o Senado.\nApesar do histórico de acertos, as plataformas também colecionam erros de grande repercussão. Isso ocorreu nas primárias dos EUA e, mais recentemente, na eleição presidencial do Brasil.\nSe o resultado das midterms ficar muito distante do que apontam as plataformas, a reputação do setor poderá sair abalada, segundo analistas. O risco é ainda maior diante do volume recorde de dinheiro em jogo.\nA pressão não vem apenas dos resultados. Kalshi e Polymarket, as maiores plataformas do setor, também enfrentam questionamentos sobre possíveis manipulações e condutas indevidas. Candidatos chegaram a apostar nas próprias disputas, enquanto um levantamento da Anti-Corruption Data Collective (ACDC), organização sem fins lucrativos de Washington, mostrou que apostas relativamente pequenas podem influenciar esses mercados.\n“A terça-feira representa, de fato, um verdadeiro teste para a nova onda de mercados de previsão”, disse Yesha Yadav, reitora associada da Faculdade de Direito da Universidade de Vanderbilt. Segundo ela, as disputas pelo Congresso neste ano ajudarão a medir o desempenho geral do setor.\nPolymarket e Kalshi afirmam ter reforçado os controles para evitar irregularidades. A Kalshi, por exemplo, proíbe políticos e integrantes de campanhas de fazer apostas eleitorais. As empresas também dizem que os mercados se ajustam rapidamente quando apostas de grande valor alteram as probabilidades.\nSean Patrick Maloney, presidente-executivo da Coalizão para Mercados de Previsão, reconhece que esses mercados não são perfeitos. Segundo ele, porém, em “um mundo cheio de caos e fontes de notícias tendenciosas”, eles oferecem uma maneira imparcial de prever eventos.\nMidterms - Eleitora preenche cédula de votação em Harrisburg, na Pensilvânia (EUA)\nREUTERS/Mike Segar\nBilhões em jogo: o que dizem os estudos sobre as previsões?\nA Kalshi informou na segunda-feira que já havia movimentado US$ 1,33 bilhão em apostas nas eleições de meio de mandato. Na Polymarket, o valor chegava a cerca de US$ 145 milhões, segundo a ACDC.\nMais de 28 mil mercados de apostas foram abertos para as midterms. Apesar do número elevado, boa parte do dinheiro está concentrada em poucas disputas, como as eleições para o Senado no Texas, Michigan, Maine e Carolina do Sul, de acordo com a organização.\nNo Texas, por exemplo, os mercados apontavam nesta terça-feira 71% de chance de vitória do democrata James Talarico sobre o republicano Ken Paxton na disputa por uma vaga no Senado, segundo a BetInt. A ACDC aponta que só essa disputa já movimentou mais de US$ 60 milhões em apostas.\nEm Michigan, mais de US$ 20 milhões foram apostados na corrida pelo Senado. Os mercados apontavam 78% de chance de vitória do democrata Abdul El-Sayed sobre o republicano Mike Rogers, segundo a BetInt.\nMas, afinal, essas previsões são confiáveis? Estudos acadêmicos indicam que, no geral, sim. Uma pesquisa da Universidade de Vanderbilt publicada em 2025 analisou quase 2.500 mercados ligados às eleições de 2024 e concluiu que as probabilidades apresentadas eram, em geral, bem calibradas.\nIsso não significa simplesmente acertar quem vai vencer. A calibração mede se as probabilidades apresentadas correspondem ao que acontece na prática. Já a precisão considera se o mercado acertou ou não o vencedor.\nHá, porém, outra ressalva. Como a maioria das eleições não é apertada, o bom desempenho geral não mostra necessariamente se esses mercados funcionam tão bem em disputas acirradas, segundo Joshua Clinton, professor de ciência política da Vanderbilt que liderou o estudo.\nOutra característica ajuda a explicar como essas previsões funcionam. Um pequeno grupo de apostadores mais experientes — em busca de lucro — concentra boa parte do dinheiro nesses mercados, segundo Harry Crane, professor de estatística da Universidade Rutgers. Eles usam pesquisas de opinião e outros dados para orientar as apostas e, com isso, ajudam a corrigir preços.\nAinda assim, mesmo os operadores mais experientes podem errar, acrescenta Clinton.\nKalshi e Polymarket chegaram a apontar apenas 20% de chance de vitória de Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro (PL) na eleição presidencial brasileira — resultado que se confirmou em 25 de outubro. \nSegundo Clinton, os apostadores podem ter superestimado as chances de Flávio Bolsonaro ao tentar compensar um problema observado em outras eleições: pesquisas que subestimaram a força de candidatos de direita.\nAs empresas de previsões ressaltam, porém, que uma chance de 20% não significa que determinado resultado seja impossível. Eventos com essa probabilidade acontecem o tempo todo, afirmaram porta-vozes, e reviravoltas políticas não são diferentes.\n“Mas não devem ser confundidos com certeza.”",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 06:00:01 -0000"
-    },
-    {
-      "id": "e11a3639108e",
+      "id": "25a8a39fe162",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Trump sobre eleições: 'Provavelmente me darei bem com os democratas, a menos que queiram ser destrutivos '",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/trump-sobre-onda-azul-nas-eleicoes-provavelmente-me-darei-bem-com-os-democratas.ghtml",
-      "summary": "Trump: Derrota é, em parte por causa da Guerra\nO presidente dos Estados Unidos, Donald Trump, afirmou que \"provavelmente se dará bem\" com os democratas, mas lembrou que possui poder de veto ao falar com jornalistas nesta quarta-feira (4).\n\"Provavelmente vou me dar bem com os democratas, a menos que queiram ser destrutivos, mas nós temos poder de veto. Então, se não gostarmos do que estão fazendo...\", declarou Trump. \"Eles já ligaram e querem conversar sobre as coisas, e tudo bem\". \nCom a apuração dos resultados das midterms, eleições de meio de mandato, os democratas conquistaram maioria na Câmara e no Senado. \nApós os primeiros resultados negativos para seu partido, Trump publicou a foto de um boné vermelho com a palavra “veto”. Dias antes, o presidente antecipou como agiria caso os democratas vencessem as eleições.\n\"Acho que vou me tornar o Sr. Veto\", disse o presidente ao podcast \"Pod Force One\", do \"New York Post\". \"Eles vão enviar algumas coisas. Você veta. E, eventualmente, depois de um ou dois meses sendo vetados, eles só estão perdendo tempo, vêm até nós e fazemos um acordo.\"\nNas redes sociais, Trump posta foto de um foto com a palavra 'veto'.\nReprodução/Redes Sociais\nNa conversa com jornalistas, Trump voltou a insistir que, se seu nome estivesse nas cédulas, ele teria ganhado. \"Vocês viram as pessoas, lotando os comícios, milhares e milhares de pessoas em todos os comícios.\"\nEle também concordou com seu vice, J.D. Vance, sobre a culpa da guerra do Irã no resultado das eleições. \"Bem, acho que isso é em grande parte verdade, porque fez a gasolina subir um pouco no curto prazo, e provavelmente é verdade. Mas, ao mesmo tempo, se eu tivesse que fazer de novo, eu teria que fazer de novo, porque, a longo prazo, é a única resposta. Não se pode deixar o Irã ter uma arma nuclear\".\nO presidente dos EUA, Donald Trump, discursa no dia em que a última viga de aço é instalada no salão de baile da Casa Branca, em Washington\nREUTERS/Evan Vucci\nQuestionado se o ataque ao Irã valeu a pena, respondeu que sim. \"Bem, não há escolha... Tem que ser feito. Não se pode deixar o Irã ter uma arma nuclear, ou tudo o que vocês veem aqui pode, um dia, deixar de existir.”\nEssa foi a primeira aparição pública de Trump depois dos resultados das midterms. Segundo a Reuters, o presidente convocou a imprensa ao canterior de obras da Casa Branca para falar sobre o salão de baile que encomendou. \n“Será o salão de baile mais bonito, eu acho, de qualquer lugar do mundo”, disse Trump de pé diante da última viga de aço do projeto, que havia sido assinada pelos operários da obra. Depois de falar, Trump também assinou a viga.",
+      "title": "Eleições nos EUA: mineira reeleita deputada chegou ao país ainda criança e advoga pelos imigrantes",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-mineira-reeleita-deputada-chegou-ao-pais-ainda-crianca-e-advoga-pelos-imigrantes.ghtml",
+      "summary": "Rita Mendes, uma das brasileiras reeleitas na Câmara dos EUA\nSete brasileiros saíram vencedores das eleições de meio de mandato dos Estados Unidos e irão atuar como deputados estaduais em quatro estados do país. Rita Mendes, reeleita para Câmara de Massachusets, chegou nos EUA aos 12 anos.\nNatural de Conselheiro Pena, em Minas Gerais, Rita se mudou para os EUA ainda criança. Por lá, iniciou sua carreira política como vereadora da cidade de Brockton, onde vive uma população formada principalmente por imigrantes de Cabo Verde e do Haiti.\n\"Eu vim para os Estados Unidos muito nova, com 12 anos, fiz toda a minha escolaridade aqui e primeiro eu fui vereadora da cidade de Brockton\", contou em entrevista à GloboNews.\nDepois de ser eleita para a Câmara Municipal, surgiu a oportunidade de disputar uma vaga na Câmara estadual. \"Fui eleita e aí abriu depois o assento para ser deputada estadual. Eu concorri para esse assento e hoje estou aqui\", afirmou.\nAlém da atuação política, Rita é advogada especializada em imigração e diz acompanhar de perto as dificuldades enfrentadas por brasileiros e outros imigrantes nos EUA.\nDurante a entrevista, ela falou da importância de sua atuação na defesa dessa população e citou a participação na elaboração do Protect Act, lei de Massachusetts que limita a atuação de agentes federais de imigração em determinados locais, como escolas e hospitais.\nRita Mendes em sua posse como deputada estadual de Massachusetts em 2023\nArquivo Pessoal\nMAPAS mostram resultados das eleições nos EUA em tempo real\nAo todo, sete brasileiros foram eleitos nos EUA, todos são democratas.\nA maior parte deles foi eleito em Massachusetts, estado com a segunda maior concentração de brasileiros do país. São quatro: Priscila Sousa, Rita Mendes, Lorena Betts e Danillo Sena. Três conseguiram a reeleição para seguirem em seus cargos.\nSete brasileiros foram eleitos deputados estaduais nas eleições de meio de mandato dos EUA: Felipe Sousa-Lazaballet, Priscila Sousa, Rita Mendes, Lorena Betts, Farley Santos, Danillo Sena e Elaine Marzola\nRedes sociais / Reprodução\nFarley Santos, de Danbury, 109º distrito de Connecticut, também foi reeleito, assim como Elaine Marzola, do 21º distrito de Nevada.\nFelipe Sousa-Lazaballet disputou pela primeira vez e conquistou uma vitória difícil na Flórida, um estado predominantemente republicano.\nVeja a lista de eleitos:\nFelipe Sousa-Lazaballet, de 40 anos, natural de Duque de Caxias (RJ). Eleito na Flórida.\nPriscila Sousa, de 38 anos, natural de Ipatinga (MG). Eleita em Massachusetts.\nRita Mendes, de 42 anos, natural de Conselheiro Pena (MG). Eleita em Massachusetts.\nDanillo Sena, natural de Timbaúba (PE). Eleito em Massachusetts.\nLorena Betts, natural de Mato Grosso. Eleita em Massachusetts.\nFarley Santos, eleito em Connecticut.\nElaine Marzola, natural do Rio de Janeiro. Eleita em Nevada.\nSaiba mais sobre eles:\nFelipe Sousa-Lazaballet\nFelipe Sousa-Lazaballet após obter sua cidadania americana em 2021\nArquivo Pessoal\nNatural de Duque de Caxias, na Baixada Fluminense do Rio de Janeiro, e filho de mãe solo, uma empregada doméstica natural do Ceará, o brasileiro chegou aos Estados Unidos. Aos 26 anos, por meio do DACA, recebeu permissão para trabalhar.\n👉 DACA foi um programa federal criado durante o governo de Barack Obama para oferecer proteção temporária contra a deportação para imigrantes de até 31 anos que haviam entrado nos EUA antes dos 16. Os beneficiários também recebiam autorização para trabalhar legalmente no país.\nNo entanto, apenas em 2021, um ano após obter seu green card, Lazaballet conquistou definitivamente a cidadania americana.\nQuem é o primeiro brasileiro eleito deputado estadual na Flórida\nAtivista em organizações de defesa dos direitos dos imigrantes e da comunidade LGBTQIAPN+, ele teve a primeira experiência na administração pública no governo de Buddy Dyer, prefeito de Orlando, onde trabalhou por 5 anos.\nLazaballet tem 40 anos e é casado com Luis Sousa-Lazaballet desde 2020.\n\"Cheguei nos EUA com 14 anos, literalmente com uma mala, um coração cheio de sonhos e nada mais. Foi justamente por causa desse processo tão difícil, de ser uma pessoa imigrante nesse país, que eu me envolvi com a política. Para ajudar as pessoas e buscar mudanças sociais. Minha história de superação indica que eu sei o que é sofrer e ter que lutar pelo sonho americano\", contou ele ao g1.\nPriscila Sousa\nPriscila Sousa é deputada estadual de Framingham desde 2023 e foi reeleita\nArquivo Pessoal\nNascida em Ipatinga, Minas Gerais, Priscila mudou-se para os Estados Unidos aos 7 anos e foi criada em Framingham, cidade que abriga uma das maiores e mais tradicionais comunidades brasileiras dos EUA. São cerca de 8 mil brasileiros em uma população de 72 mil habitantes.\nPriscila obteve o green card no ano de 2004, aos 16 anos. Anos depois, formalizou sua situação e virou cidadã americana.\nEm 2009, obteve seu diploma em Ciência Política, Relações Internacionais e Inglês pela Simmons University.\nEste ano, Priscila, que tem 38 anos, concorreu à sua segunda reeleição. Ela é a representante do 6º distrito de Middlesex desde janeiro de 2023 - os mandatos duram dois anos.\nQuestionada pelo g1 se já sofreu preconceito por ser imigrante, Priscila diz que sempre foi bem acolhida na Câmara de Vereadores e de Deputados do estado, mas que a situação mudou após a volta de Donald Trump à Presidência:\n\"Quanto à discriminação dos eleitores ou da comunidade em geral, nós vimos, infelizmente, acontecer mais depois da eleição do presidente Donald Trump. Certas ideologistas, mentalidades, certo desprezo ao estrangeiro imigrante... Mas continuamos lutando\".\nLorena Betts\nLorena Betts, brasileira eleita deputada estadual em Massachusetts\nInstagram / Reprodução\nNatural de Mato Grosso, Lorena venceu a disputa para ocupar uma cadeira pelo 16º Distrito de Middlesex na Câmara de Massachusetts.\nCasada e mãe de três filhos, um menino e duas meninas, ela mora nos Estados Unidos há 15 anos. Chegou ao país trabalhando como babá e, antes de emigrar, trabalhava na área de enfermagem no Brasil.\nJá em território americano, estudou Ciências Políticas e passou a se dedicar a atividades comunitárias, especialmente relacionadas às dificuldades enfrentadas por imigrantes.\nEm um post no Instagram após a vitória, Lorena escreveu:\n\"Estou profundamente honrada e incrivelmente grata por ter conquistado sua confiança e seu voto. Esta campanha foi sobre o poder das pessoas, a importância de cada voz e o que podemos realizar quando nos unimos. Nossa maior força reside na nossa disposição de apoiar uns aos outros. Trabalharei diariamente para continuar a merecer a confiança depositada em mim, ouvir as suas vozes e representar a nossa comunidade.\"\nDanillo Sena\nBrasileiro Danillo Sena é deputado estadual nos EUA e representa Acton, em Massachusetts\nArquivo Pessoal\nNascido em Timbaúba, cidade que fica na Zona da Mata Norte de Pernambuco, Sena ocupa uma cadeira na Câmara dos Representantes de Massachusetts desde junho de 2020.\nEle emigrou para os Estados Unidos em 2001, aos 14 anos, indo morar com a mãe em Acton, cidade que faz parte do 37º distrito de Middlesex, onde ele atua. \nAssim como Felipe, Danillo foi beneficiário do DACA, mas só obteve o green card e se tornou cidadão americano em 2018, aos 31 anos. \nFarley Santos\nFarley Santos, reeleito deputado estadual por Connecticut, nos EUA, com a mulher e a filha\nInstagram / Reprodução\nFarley Santos foi reeleito para a Câmara dos Representantes de Connecticut, pelo 109º Distrito Estadual, na cidade de Danbury, que concentra uma expressiva comunidade brasileira. Está no cargo desde 2023.\nFarley chegou aos Estados Unidos aos 7 anos de idade e viveu inicialmente como imigrante indocumentado. Ele é casado e tem uma filha.\nApós a vitória, ele postou no Instagram e afirmou nunca ter esquecido de sua origem:\n\"Como um jovem imigrante que cresceu nesta cidade, jamais imaginei que um dia teria o privilégio de representar a própria comunidade que deu a mim e à minha família a chance de alcançar o sonho americano. Nunca me esqueci de onde vim, onde fui criado, por quem luto ou por que sirvo. A eleição pode ter terminado, mas o trabalho continua. E eu também. Continuarei presente, lutando com todas as minhas forças e entregando resultados para Danbury.\"\nElaine Marzola\nElaine Marzola, brasileira reeleita deputada estadual de Nevada\nRedes sociais / Reprodução\nNascida no Rio de Janeiro, Elaine chegou a Las Vegas com os pais, ainda criança, em 1984, e hoje ocupa um dos cargos de liderança da Assembleia de Nevada.\nRepresentante do 21º distrito do estado americano desde 2021, Elaine conquistou sua terceira reeleição.\nEla obteve um bacharelado em Estudos Femininos pela Universidade de Nevada em 2006 e, quatro anos depois, se formou em Direito pela Faculdade Thomas M. Cooley, na Universidade de Michigan.",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 20:33:19 -0000"
+    },
+    {
+      "id": "475e10fce754",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: democratas conquistam maioria no Senado e na Câmara; SIGA",
+      "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
+      "summary": "Eleições nos EUA: democratas conquistam maioria no Senado e na Câmara; SIGA Votação renovou Legistativo e consolidou vitória do Partido Democrata, de oposição a Donald Trump.  Os americanos foram às urnas para renovar parte do Congresso e eleger governadores em 26 estados, nas chamadas midterms. . O Partido Democrata conquistou maioria na Câmara dos Deputados e no Senado, em um revés para Donald Trump. . O resultado, surpreendente, limita poderes nos seus próximos 2 anos de mandato.. MAPAS vão mostrar a apuração em tempo real. A apuração dos votos continuava nesta quarta-feira (4). Veja no MAPA os resultados em tempo real.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 20:10:05 -0000"
+    },
+    {
+      "id": "f64e6e386e47",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Eleições nos EUA: brasileira eleita deputada começou no país como babá",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-brasileira-eleita-deputada-comecou-no-pais-como-baba.ghtml",
+      "summary": "Brasileira é eleita deputada estadual nos EUA\nSete brasileiros saíram vencedores das eleições de meio de mandato dos Estados Unidos e irão atuar como deputados estaduais em quatro estados do país. Lorena Betts, eleita para Câmara de Massachusets, foi para os EUA para trabalhar como babá.\nNatural de Mato Grosso, Lorena morava em Holambra, no interior de São Paulo, onde trabalhava na área de enfermagem. Ela decidiu ir para os EUA por meio de um programa de intercâmbio chamado Au Pair, que permite trabalhar como babá enquanto estuda.\n\"Eu fiz o programa de intercâmbio de Au Pair, que foi um meio que encontrei de vir legalmente para os Estados Unidos para aprender inglês e me tornar fluente, pois tinha muito interesse em ser bilíngue\", contou.\nO plano inicial era voltar ao Brasil depois de aprender o idioma e buscar crescimento profissional na enfermagem. Mas os planos mudaram quando ela conheceu o atual marido. \"Acabei não voltando\", disse.\nComo o curso de enfermagem que havia feito no Brasil não era válido por lá, Lorena decidiu mudar de carreira. \"Decidi mudar de carreira, e foi onde busquei me tornar intérprete e tradutora jurídica, trabalhando na área de imigração aqui\", afirmou.\nJá em território americano, estudou Ciências Políticas e passou a se dedicar a atividades comunitárias, especialmente relacionadas às dificuldades enfrentadas por imigrantes.\nEm um post no Instagram após a vitória, Lorena escreveu:\n\"Estou profundamente honrada e incrivelmente grata por ter conquistado sua confiança e seu voto. Esta campanha foi sobre o poder das pessoas, a importância de cada voz e o que podemos realizar quando nos unimos. Nossa maior força reside na nossa disposição de apoiar uns aos outros. Trabalharei diariamente para continuar a merecer a confiança depositada em mim, ouvir as suas vozes e representar a nossa comunidade.\"\nLorena Betts, brasileira eleita deputada estadual em Massachusetts\nInstagram / Reprodução\nMAPAS mostram resultados das eleições nos EUA em tempo real\nAo todo, sete brasileiros foram eleitos nos EUA, todos são democratas.\nA maior parte deles foi eleito em Massachusetts, estado com a segunda maior concentração de brasileiros do país. São quatro: Priscila Sousa, Rita Mendes, Lorena Betts e Danillo Sena. Três conseguiram a reeleição para seguirem em seus cargos.\nSete brasileiros foram eleitos deputados estaduais nas eleições de meio de mandato dos EUA: Felipe Sousa-Lazaballet, Priscila Sousa, Rita Mendes, Lorena Betts, Farley Santos, Danillo Sena e Elaine Marzola\nRedes sociais / Reprodução\nFarley Santos, de Danbury, 109º distrito de Connecticut, também foi reeleito, assim como Elaine Marzola, do 21º distrito de Nevada.\nFelipe Sousa-Lazaballet disputou pela primeira vez e conquistou uma vitória difícil na Flórida, um estado predominantemente republicano.\nVeja a lista de eleitos:\nFelipe Sousa-Lazaballet, de 40 anos, natural de Duque de Caxias (RJ). Eleito na Flórida.\nPriscila Sousa, de 38 anos, natural de Ipatinga (MG). Eleita em Massachusetts.\nRita Mendes, de 42 anos, natural de Conselheiro Pena (MG). Eleita em Massachusetts.\nDanillo Sena, natural de Timbaúba (PE). Eleito em Massachusetts.\nLorena Betts, natural de Mato Grosso. Eleita em Massachusetts.\nFarley Santos, eleito em Connecticut.\nElaine Marzola, natural do Rio de Janeiro. Eleita em Nevada.\nSaiba mais sobre eles:\nFelipe Sousa-Lazaballet\nFelipe Sousa-Lazaballet após obter sua cidadania americana em 2021\nArquivo Pessoal\nNatural de Duque de Caxias, na Baixada Fluminense do Rio de Janeiro, e filho de mãe solo, uma empregada doméstica natural do Ceará, o brasileiro chegou aos Estados Unidos. Aos 26 anos, por meio do DACA, recebeu permissão para trabalhar.\n👉 DACA foi um programa federal criado durante o governo de Barack Obama para oferecer proteção temporária contra a deportação para imigrantes de até 31 anos que haviam entrado nos EUA antes dos 16. Os beneficiários também recebiam autorização para trabalhar legalmente no país.\nNo entanto, apenas em 2021, um ano após obter seu green card, Lazaballet conquistou definitivamente a cidadania americana.\nQuem é o primeiro brasileiro eleito deputado estadual na Flórida\nAtivista em organizações de defesa dos direitos dos imigrantes e da comunidade LGBTQIAPN+, ele teve a primeira experiência na administração pública no governo de Buddy Dyer, prefeito de Orlando, onde trabalhou por 5 anos.\nLazaballet tem 40 anos e é casado com Luis Sousa-Lazaballet desde 2020.\n\"Cheguei nos EUA com 14 anos, literalmente com uma mala, um coração cheio de sonhos e nada mais. Foi justamente por causa desse processo tão difícil, de ser uma pessoa imigrante nesse país, que eu me envolvi com a política. Para ajudar as pessoas e buscar mudanças sociais. Minha história de superação indica que eu sei o que é sofrer e ter que lutar pelo sonho americano\", contou ele ao g1.\nPriscila Sousa\nPriscila Sousa é deputada estadual de Framingham desde 2023 e foi reeleita\nArquivo Pessoal\nNascida em Ipatinga, Minas Gerais, Priscila mudou-se para os Estados Unidos aos 7 anos e foi criada em Framingham, cidade que abriga uma das maiores e mais tradicionais comunidades brasileiras dos EUA. São cerca de 8 mil brasileiros em uma população de 72 mil habitantes.\nPriscila obteve o green card no ano de 2004, aos 16 anos. Anos depois, formalizou sua situação e virou cidadã americana.\nEm 2009, obteve seu diploma em Ciência Política, Relações Internacionais e Inglês pela Simmons University.\nEste ano, Priscila, que tem 38 anos, concorreu à sua segunda reeleição. Ela é a representante do 6º distrito de Middlesex desde janeiro de 2023 - os mandatos duram dois anos.\nQuestionada pelo g1 se já sofreu preconceito por ser imigrante, Priscila diz que sempre foi bem acolhida na Câmara de Vereadores e de Deputados do estado, mas que a situação mudou após a volta de Donald Trump à Presidência:\n\"Quanto à discriminação dos eleitores ou da comunidade em geral, nós vimos, infelizmente, acontecer mais depois da eleição do presidente Donald Trump. Certas ideologistas, mentalidades, certo desprezo ao estrangeiro imigrante... Mas continuamos lutando\".\nRita Mendes\nRita Mendes em sua posse como deputada estadual de Massachusetts em 2023\nArquivo Pessoal\nAssim como Priscila, Rita é deputada estadual desde janeiro de 2023 em Massachusetts. \nNascida em Conselheiro Pena, cidade de Minas Gerais, ela se mudou para os EUA junto com os pais em 2002 e chegou ao país sem falar uma palavra em inglês.\nBrockton, onde ela atua como representante atualmente, foi a cidade escolhida pela família para se estabelecer. Antes de chegar à Câmara estadual, em 2019, a brasileira foi eleita para integrar o Conselho Municipal.\nRita, que está com 42 anos, tem formação em Direito e atua como advogada e corretora de imóveis.\nDanillo Sena\nBrasileiro Danillo Sena é deputado estadual nos EUA e representa Acton, em Massachusetts\nArquivo Pessoal\nNascido em Timbaúba, cidade que fica na Zona da Mata Norte de Pernambuco, Sena ocupa uma cadeira na Câmara dos Representantes de Massachusetts desde junho de 2020.\nEle emigrou para os Estados Unidos em 2001, aos 14 anos, indo morar com a mãe em Acton, cidade que faz parte do 37º distrito de Middlesex, onde ele atua. \nAssim como Felipe, Danillo foi beneficiário do DACA, mas só obteve o green card e se tornou cidadão americano em 2018, aos 31 anos. \nFarley Santos\nFarley Santos, reeleito deputado estadual por Connecticut, nos EUA, com a mulher e a filha\nInstagram / Reprodução\nFarley Santos foi reeleito para a Câmara dos Representantes de Connecticut, pelo 109º Distrito Estadual, na cidade de Danbury, que concentra uma expressiva comunidade brasileira. Está no cargo desde 2023.\nFarley chegou aos Estados Unidos aos 7 anos de idade e viveu inicialmente como imigrante indocumentado. Ele é casado e tem uma filha.\nApós a vitória, ele postou no Instagram e afirmou nunca ter esquecido de sua origem:\n\"Como um jovem imigrante que cresceu nesta cidade, jamais imaginei que um dia teria o privilégio de representar a própria comunidade que deu a mim e à minha família a chance de alcançar o sonho americano. Nunca me esqueci de onde vim, onde fui criado, por quem luto ou por que sirvo. A eleição pode ter terminado, mas o trabalho continua. E eu também. Continuarei presente, lutando com todas as minhas forças e entregando resultados para Danbury.\"\nElaine Marzola\nElaine Marzola, brasileira reeleita deputada estadual de Nevada\nRedes sociais / Reprodução\nNascida no Rio de Janeiro, Elaine chegou a Las Vegas com os pais, ainda criança, em 1984, e hoje ocupa um dos cargos de liderança da Assembleia de Nevada.\nRepresentante do 21º distrito do estado americano desde 2021, Elaine conquistou sua terceira reeleição.\nEla obteve um bacharelado em Estudos Femininos pela Universidade de Nevada em 2006 e, quatro anos depois, se formou em Direito pela Faculdade Thomas M. Cooley, na Universidade de Michigan.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Política"
+      ],
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 19:33:42 -0000"
+    },
+    {
+      "id": "9a1793919621",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Com avanço democrata, Trump terá dificuldade em seguir com política externa atual, avaliam integrantes do governo Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml",
+      "summary": "Governo Lula: eleição deu recado aos americanos\nApós a vitória expressiva dos democratas nas eleições legislativas nos Estados Unidos, integrantes do governo brasileiro veem dificuldades no futuro de Donald Trump.\nA expectativa é que o presidente americano tenha dificuldade em seguir com a política de imposição de tarifas e também com a implementação da chamada “Doutrina Donroe”, linha da política externa da Casa Branca que compreende o hemisfério ocidental, incluindo a América Latina, como zona de interesse norte-americano.\n🔎O Partido Democrata, de oposição ao governo republicano de Donald Trump, conquistou na madrugada desta quarta-feira (4) a maioria das cadeiras no Senado e na Câmara dos Deputados americanos. A vitória democrata incluiu a tomada de cadeiras historicamente ocupadas pelos republicanos e altera o equilíbrio de poder para a segunda metade do mandato de Trump à frente do país.\n'Vitória da democracia mundial', diz Miriam Leitão sobre eleições nos EUA\n'7 a 1'\nO Brasil não irá se manifestar oficialmente sobre o resultado das eleições de meio de mandato. Não é praxe da diplomacia brasileira publicar notas sobre eleições em outros países. Além disso, Brasil e Estados Unidos vivem uma crise diplomática há mais de um ano, e a linha do governo brasileiro é adotar o pragmatismo para não agravar as tensões.\nNos bastidores, no entanto, o resultado das eleições legislativas nos EUA foi recebido com entusiasmo por integrantes do governo Lula, que fazem um paralelo com a disputa presidencial brasileira.\n“Foi um 7 a 1. Os piores cenários para Trump se confirmaram. Tanto lá como cá são sociedades que prezam suas democracias, e demonstraram no voto. Retificaram o rumo do delírio autoritário”, afirmou um diplomata brasileiro.\nComemoração de democratas após vitória nas eleições legislativas americanas\nREUTERS\nDe forma reservada, a leitura de integrantes do governo que atuam no Itamaraty e na área internacional é que os democratas terão força para abrir no Congresso diversas frentes de investigação sobre ações de Trump nos dois primeiros anos de governo.\nO entendimento é de que isso tende a forçar a Casa Branca a seguir com uma linha mais cautelosa nas políticas externa e tarifária daqui em diante.\nUm integrante do governo que acompanha as negociações com o USTR (Escritório Comercial dos EUA) sobre as tarifas impostas ao Brasil afirmou que técnicos do escritório já vêm oferecendo resistência nos últimos meses a dar aval a tarifas “intempestivas e autoritárias” determinadas por Trump. Diante do risco maior de investigações, a burocracia estatal deverá resistir ainda mais a dar sustentação a essa agenda.\nInterlocutores do governo lembram que muitos senadores e deputados democratas foram eleitos defendendo que haja investigação sobre as operações na América Latina, como, por exemplo, as ações na Venezuela que incluíram a captura de Nicolás Maduro e ataques a Caracas.\nApós captura pelo governo americano, Nicolás Maduro responde a acusações de narcotráfico em Nova York, que ele nega e que podem levá-lo à prisão perpétua\nGetty Images\nAções unilaterais que possam ferir a soberania dos países latino-americanos também tenderiam a perder espaço na segunda metade da administração Trump.\n'Big techs' e política interna\nOutro tema que pode ser impactado é a regulamentação das 'big techs', grandes empresas multinacionais de tecnologia. O perfil dos eleitos indica que haverá uma coalizão em defesa da regulação dessas plataformas.\nA medida tem apoio não só do Partido Democrata, mas também entre uma parcela dos parlamentares republicanos.\nA pauta interessa ao governo Lula, que, nos últimos anos, tentou avançar com a regulamentação das plataformas, mas encontrou resistência no Congresso. A leitura no Palácio do Planalto é que a falta de regulação do setor favorece a direita mais ligada ao ex-presidente Jair Bolsonaro (PL).\nAuxiliares de Lula também preveem que Trump faça uma segunda metade do governo mais voltada para questões internas, e não para a política externa, uma vez que a Guerra do Irã é apontada como a grande causa da derrota republicana nas eleições legislativas americanas. \nO presidente dos EUA, Donald Trump, discursa no canteiro de obras do salão de baile da Casa Branca.\nEvan Vucci/Reuters\nSendo assim, a tendência, segundo estes interlocutores, é que Trump faça uma disputa política com os democratas em torno de temas relacionados a minorias – intensificando o discurso contra grupos como imigrantes, muçulmanos e a população LGBTQIA+ – e reduzindo a atenção sobre adversários externos, como Irã e Cuba.\nO governo brasileiro vai observar, nos próximos dias, como a administração Trump vai absorver a derrota e reorientar sua atuação daqui para frente.\nA partir disso, a diplomacia brasileira também irá calibrar suas estratégias na relação bilateral. Além do tarifaço, há diversos pontos de atrito entre os países, como a suspeita de que o governo americano tenha ajudado Flávio Bolsonaro a fugir do país e a suspensão do visto diplomático da embaixadora brasileira em Washington, Maria Luiza Viotti.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 18:13:41 -0000"
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 19:05:00 -0000"
     },
     {
       "id": "76187835889d",
@@ -121,12 +352,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
-      "score": 86,
+      "score": 81,
       "publishedRaw": "Wed, 04 Nov 2026 17:04:05 -0000"
     },
     {
@@ -142,12 +371,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
-      "score": 86,
+      "score": 81,
       "publishedRaw": "Wed, 04 Nov 2026 16:50:22 -0000"
     },
     {
@@ -163,118 +390,30 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
-      "score": 86,
+      "score": 81,
       "publishedRaw": "Wed, 04 Nov 2026 16:24:14 -0000"
     },
     {
-      "id": "f5692b777c3f",
-      "source": "G1 - Mundo",
+      "id": "3eff80734dfd",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Eleições nos EUA: tsunami democrata derrota domínio republicano e apoio milionário de Musk em estados conservadores",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eua-midterms-vencedores-perdedores-elon-musk-talarico.ghtml",
-      "summary": "James Talarico, democrata eleito ao Senado pelo Texas, venceu o republicano Ken Paxton, que recebeu US$ 150 milhões de Elon Musk. O bilionário investiu quase US$ 500 milhões em candidaturas republicanas.\nREUTERS/Gonzalo Fuentes\nAs eleições de meio de mandato de 2026 nos Estados Unidos, cujos resultados começaram a surgir nesta quarta-feira (4), alteraram o mapa político de Washington e impuseram uma severa derrota ao governo do presidente Donald Trump. \nImpulsionados pela insatisfação dos eleitores com o custo de vida, que foi impactado por políticas como as tarifas e a guerra no Irã, os democratas garantiram o controle das duas Casas do Congresso. \nSem a maioria republicana no Capitólio, a gestão Trump agora precisará negociar com os democratas para seguir com as políticas do governo federal.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEleições nos EUA: MAPA mostra se partido de Trump vai conseguir manter a maioria no Congresso\nConfira as principais vitórias e derrotas nas eleições de 2026 nos EUA:\nAs principais vitórias: a \"onda azul\" democrata no Congresso, com o controle da Câmara e do Senado, onde teve ainda uma virada histórica; a conquista pelos democratas do governo do Texas; e o fim das longas hegemonias conservadoras no Kansas e no Maine.\nE as principais derrotas: para os republicanos, a perda da maioria no Congresso e o revés ao governo Donald Trump. Para os democratas, o fracasso em conquistar o governo da Flórida e a vaga no Senado pelo Arkansas. E para Elon Musk, que investiu milhões em campanhas republicanas, especialmente no Texas.\nAgora no g1\nAs principais vitórias da eleição\nA 'onda azul' democrata e o controle total do Congresso americano\nO Partido Democrata conquistou a maioria na Câmara dos Deputados ao atingir pelo menos 228 cadeiras e assumiu o controle do Senado ao somar 54 assentos, revertendo 7 vagas que pertenciam aos republicanos no Texas, na Carolina do Norte, na Carolina do Sul, em Ohio, no Iowa, no Kansas e no Maine.\nPara tomar o controle do Congresso, eles precisavam atingir 218 cadeiras na Câmara e 51 no Senado. A vitória acachapante, para além das expectativas, garantiu aos democratas poder para barrar projetos e nomeações da Casa Branca, além de abrir investigações sobre a gestão federal.\nEsta é a primeira vez desde 2006 que ambas as casas do Congresso mudaram de partido durante a mesma eleição de meio de mandato.\n➡️ Nos Estados Unidos, os senadores têm mandatos de seis anos, com a renovação de um terço das cadeiras do Senado a cada dois anos. Já os integrantes da Câmara cumprem mandatos de dois anos, o que significa que todas as cadeiras da Casa são renovadas a cada eleição.\nEm resposta à vitória democrata, o presidente Donald Trump disse que aceitou o resultado, mas publicou uma imagem com a palavra \"veto\".\nO sol nasce atrás do Capitólio dos EUA após as eleições de meio de mandato em Washington, DC, EUA, 4 de novembro de 2026\nEric Lee/Reuters\nVirada histórica no Senado e no governo do estado do Texas\nOs democratas quebraram décadas de domínio republicano no estado tradicionalmente conservador do Texas, o segundo maior dos EUA. \nNa disputa pelo governo, Gina Hinojosa superou o atual governador Greg Abbott por 57,1% contra 41,6%. Um dos principais quadros do Partido Republicano, Abbott defendia a quarta reeleição no estado e era apoiado por Donald Trump.\nHinojosa tornou-se a primeira mulher latina a ocupar o cargo no Texas. Ela é deputada estadual desde 2016 e quebrou um jejum de 36 anos sem democratas no governo estadual texano.\nJá no Senado, James Talarico venceu Ken Paxton com 55,1% dos votos, conquistando a primeira vaga democrata pelo estado na Casa desde 1988. Paxton recebeu mais de US$ 150 milhões de Elon Musk para a campanha.\nEvangélico e ex-seminarista, Talarico usou a fé cristã na campanha para se contrapor ao nacionalismo cristão de Donald Trump. O democrata também fez campanha questionando os altos custos de vida e criticando bilionários e a política de imigração de Trump.\nSAIBA MAIS: Talarico e Gina Hinojosa garantem vitória histórica dos democratas no Texas; entenda\nFim de hegemonias conservadoras no Kansas e no Maine\nNo Kansas, o democrata Adam Hamilton venceu o senador republicano Roger Marshall com 50,9% dos votos, elegendo o primeiro senador democrata pelo estado desde 1932. Hamilton é pastor metodista da maior igreja do estado.\nDemocrata Adam Hamilton venceu o republicano Roger Marshall e quebrou o jejum de 94 anos de democratas eleitos para o Senado no Kansas\nNathan Howard/Reuters; AP/Charlie Riedel, Pool\nNo Maine, Troy Jackson derrotou a senadora republicana veterana Susan Collins com 53,8% dos votos. Collins estava no cargo desde 1997 e tentava manter uma postura moderada e independente a Donald Trump.\nCom críticas ao custo de vida e à gestão federal, a republicana ainda carregou o desgaste de ter apoiado Trump na maioria dos projetos propostos no Congresso.\nTroy Jackson venceu Susan Collins na eleição para o Senado pelo Maine.\nTaylor Coester/Reuters; Robert F. Bukaty/AP\nOs perdedores das midterms\nPerda da maioria republicana no Congresso e revés para Trump\nA principal derrota do pleito foi sofrida pelo Partido Republicano, que perdeu a liderança legislativa na Câmara e no Senado. \nO resultado encerra um período em que o Congresso atuava de forma alinhada às propostas do presidente Donald Trump. \nOs próximos dois anos da gestão federal, com a maioria democrata nas duas Casas, prometem um maior escrutínio das políticas de Trump por parte dos democratas, que agora conquistaram o poder de barrar projetos, nomeações e investigar membros do Executivo.\nO presidente dos Estados Unidos, Donald Trump, discursa durante um comício de campanha para as eleições de meio de mandato, no Ocean Center, em Daytona Beach, na Flórida, em 30 de outubro de 2026.\nBrendan SMIALOWSKI / AFP\nPerda multimilionária de Elon Musk\nElon Musk, que atualmente reside no Texas, sofreu uma severa derrota política e financeira nas eleições de meio de mandato. \nO bilionário investiu quase US$ 500 milhões para apoiar campanhas republicanas, tornando-se o maior doador individual em um ciclo eleitoral federal desde 2010. Destes, Musk direcionou US$ 158 milhões especificamente para apoiar o republicano Ken Paxton na disputa pelo Senado texano. \nContudo, a vitória do democrata James Talarico, somada à queda do governador republicano Greg Abbott, enfraqueceu a articulação política do bilionário no Texas.\nEm entrevista ao jornal The New York Times, o democrata chegou a dizer que concorria contra o \"homem mais rico do mundo\" e o \"mais poderoso do mundo\", em referência a Musk e Trump, respectivamente.\nO investimento de Musk em candidatos locais estava fortemente atrelado ao seu interesse na expansão de infraestrutura de tecnologia e na construção de data centers de inteligência artificial no estado. \nUm levantamento do jornal local Texas Tribune havia apontado o planejamento de pelo menos 248 data centers no estado idealizados por diversas empresas, não apenas as de Musk.\nEleita a primeira mulher latina no governo do Texas, a democrata Gina Hinojosa já prometeu frear a construção dos centros até que as empresas se responsabilizem pelos custos de energia.\nAlém das perdas milionárias na campanha, Musk, que atuou como conselheiro do presidente Donald Trump, passa a figurar entre os alvos prioritários de possíveis investigações parlamentares da nova maioria democrata no Congresso.\nPelas redes sociais, Musk ironizou os resultados das urnas. Em uma postagem, declarou que os data centers no espaço pareciam \"bastante atraentes no momento\". Depois, disse, em outra publicação, que  os \"lasers espaciais para interferir nas eleições não funcionaram desta vez\".\nInitial plugin text\nInitial plugin text\nElon Musk recebe uma chave de ouro do presidente dos EUA, Donald Trump, no Salão Oval da Casa Branca\nREUTERS/Nathan Howard\nFracasso democrata em retomar a Flórida e o Arkansas\nApesar do avanço democrata em âmbito nacional, o partido sofreu derrotas relevantes em redutos conservadores — e que apostavam numa possível virada.\nNa Flórida, o republicano Byron Donalds garantiu o governo estadual com 50,0% contra 48,7% de David Jolly. No Arkansas, o senador republicano Tom Cotton assegurou a reeleição com 54,3% dos votos.\nEstado com a maioria hispânica e forte influência latina, democratas apostavam que a controversa política imigratória do governo Trump pudesse alterar o voto latino, que lhe deu a vitória em 2024, mas se viu impactado pelas apreensões do Serviço de Imigração e Alfândega dos EUA, o ICE.\nEleições nos EUA: alvos do ICE e pressionados pela inflação, latinos se viram contra Trump e são trunfo dos democratas\nAmbientalistas e manifestantes protestam contra construção da prisão 'Alcatraz dos Jacarés' em frente ao Aeroporto de Treinamento e Transição Dade-Collier, na Flórida, em 28 de junho de 2025.\nMike Stocker /South Florida Sun-Sentinel via AP",
+      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Mundo",
+        "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 14:37:12 -0000"
-    },
-    {
-      "id": "4892fd66f040",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Obama comemora resultado das eleições de meio de mandato nos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/obama-comemora-resultado-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
-      "summary": "O ex-presidente dos Estados Unidos Barack Obama afirmou que os resultados das eleições de meio de mandato nos EUA, as chamadas \"midterms\", realizadas na terça-feira (3), mostram que os americanos desejam uma política voltada a soluções concretas para os problemas do país.\nPelas redes sociais, Obama afirmou que o eleitorado enviou uma mensagem clara nas urnas. \n“Os americanos querem uma política que aproxime as pessoas, em vez de dividi-las, e líderes que ofereçam soluções concretas para os desafios que enfrentam”, escreveu.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEleições nos EUA: MAPA mostra resultados da disputa pelo Congresso, em eleição crucial para Trump\nO Partido Democrata conquistou a maioria na Câmara e no Senado dos EUA, além de governos estaduais de regiões tradicionalmente republicanas, como o Texas.\nSAIBA MAIS: Eleições nos EUA: democratas conquistam maioria da Câmara e do Senado, impõem derrota a Trump e assumem controle do Congresso \nO resultado representa um revés para o presidente Donald Trump, que passa a enfrentar uma oposição com maioria no Legislativo nos dois últimos anos de seu mandato. A mudança pode dificultar a aprovação de projetos de interesse do governo e ampliar a fiscalização das ações da administração republicana.\nObama atribuiu os resultados ao desempenho de candidatos que disputaram eleições em diferentes regiões do país, inclusive em áreas nas quais as chances de vitória deles eram consideradas pequenas.\nO ex-presidente agradeceu aos milhares de funcionários eleitorais e voluntários dos dois partidos que trabalharam durante as eleições. \nAgora no g1\nObama pede reação da oposição até o fim do mandato de Trump\nAo comentar os resultados, Obama afirmou que os democratas devem aproveitar o avanço eleitoral para promover mudanças e preparar o terreno para o futuro.\n“Embora esta administração ainda tenha mais dois anos no cargo, nosso trabalho agora é arregaçar as mangas, fazer mudanças onde tivermos poder para isso, evitar mais danos e preparar o terreno para o futuro”, declarou.\nInitial plugin text\nO ex-presidente americano Barack Obama discursou nesta terça (20) durante a convenção do Partido Democrata, em Chicago\nAlyssa Pointer/Reuters",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 14:25:07 -0000"
-    },
-    {
-      "id": "17cc3b6e7b88",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: sete brasileiros são eleitos deputados estaduais",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-seis-brasileiros-sao-eleitos-deputados-estaduais.ghtml",
-      "summary": "Brasileiros concorrem nas eleições dos EUA\nSete brasileiros saíram vencedores das eleições de meio de mandato dos Estados Unidos e irão atuar como deputados estaduais em quatro estados do país. Todos são democratas.\nAO VIVO: Acompanhe as últimas notícias sobre as midterms\nMAPAS mostram resultados das eleições nos EUA em tempo real\nA maior parte deles foi eleita em Massachusetts, estado com a segunda maior concentração de brasileiros do país. São quatro: Priscila Sousa, Rita Mendes, Lorena Betts e Danillo Sena. Três conseguiram a reeleição para seguirem em seus cargos.\nSete brasileiros foram eleitos deputados estaduais nas eleições de meio de mandato dos EUA: Felipe Sousa-Lazaballet, Priscila Sousa, Rita Mendes, Lorena Betts, Farley Santos, Danillo Sena e Elaine Marzola\nRedes sociais / Reprodução\nFarley Santos, de Danbury, 109º distrito de Connecticut, também foi reeleito, assim como Elaine Marzola, do 21º distrito de Nevada.\nFelipe Sousa-Lazaballet disputou pela primeira vez e conquistou uma vitória difícil na Flórida, um estado predominantemente republicano.\nVeja a lista de eleitos:\nFelipe Sousa-Lazaballet, de 40 anos, natural de Duque de Caxias (RJ). Eleito na Flórida.\nPriscila Sousa, de 38 anos, natural de Ipatinga (MG). Eleita em Massachusetts.\nRita Mendes, de 42 anos, natural de Conselheiro Pena (MG). Eleita em Massachusetts.\nDanillo Sena, natural de Timbaúba (PE). Eleito em Massachusetts.\nLorena Betts, natural de Mato Grosso. Eleita em Massachusetts.\nFarley Santos, eleito em Connecticut.\nElaine Marzola, natural do Rio de Janeiro. Eleita em Nevada.\nSaiba mais sobre eles:\nFelipe Sousa-Lazaballet\nFelipe Sousa-Lazaballet após obter sua cidadania americana em 2021\nArquivo Pessoal\nNatural de Duque de Caxias, na Baixada Fluminense do Rio de Janeiro, e filho de mãe solo, uma empregada doméstica natural do Ceará, o brasileiro chegou aos Estados Unidos. Aos 26 anos, por meio do DACA, recebeu permissão para trabalhar.\n👉 DACA foi um programa federal criado durante o governo de Barack Obama para oferecer proteção temporária contra a deportação para imigrantes de até 31 anos que haviam entrado nos EUA antes dos 16. Os beneficiários também recebiam autorização para trabalhar legalmente no país.\nNo entanto, apenas em 2021, um ano após obter seu green card, Lazaballet conquistou definitivamente a cidadania americana.\nQuem é o primeiro brasileiro eleito deputado estadual na Flórida\nAtivista em organizações de defesa dos direitos dos imigrantes e da comunidade LGBTQIAPN+, ele teve a primeira experiência na administração pública no governo de Buddy Dyer, prefeito de Orlando, onde trabalhou por 5 anos.\nLazaballet tem 40 anos e é casado com Luis Sousa-Lazaballet desde 2020.\n\"Cheguei nos EUA com 14 anos, literalmente com uma mala, um coração cheio de sonhos e nada mais. Foi justamente por causa desse processo tão difícil, de ser uma pessoa imigrante nesse país, que eu me envolvi com a política. Para ajudar as pessoas e buscar mudanças sociais. Minha história de superação indica que eu sei o que é sofrer e ter que lutar pelo sonho americano\", contou ele ao g1.\nPriscila Sousa\nPriscila Sousa é deputada estadual de Framingham desde 2023 e foi reeleita\nArquivo Pessoal\nNascida em Ipatinga, Minas Gerais, Priscila mudou-se para os Estados Unidos aos 7 anos e foi criada em Framingham, cidade que abriga uma das maiores e mais tradicionais comunidades brasileiras dos EUA. São cerca de 8 mil brasileiros em uma população de 72 mil habitantes.\nPriscila obteve o green card no ano de 2004, aos 16 anos. Anos depois, formalizou sua situação e virou cidadã americana.\nEm 2009, obteve seu diploma em Ciência Política, Relações Internacionais e Inglês pela Simmons University.\nEste ano, Priscila, que tem 38 anos, concorreu à sua segunda reeleição. Ela é a representante do 6º distrito de Middlesex desde janeiro de 2023 - os mandatos duram dois anos.\nQuestionada pelo g1 se já sofreu preconceito por ser imigrante, Priscila diz que sempre foi bem acolhida na Câmara de Vereadores e de Deputados do estado, mas que a situação mudou após a volta de Donald Trump à Presidência:\n\"Quanto à discriminação dos eleitores ou da comunidade em geral, nós vimos, infelizmente, acontecer mais depois da eleição do presidente Donald Trump. Certas ideologistas, mentalidades, certo desprezo ao estrangeiro imigrante... Mas continuamos lutando\".\nRita Mendes\nRita Mendes em sua posse como deputada estadual de Massachusetts em 2023\nArquivo Pessoal\nAssim como Priscila, Rita é deputada estadual desde janeiro de 2023 em Massachusetts. \nNascida em Conselheiro Pena, cidade de Minas Gerais, ela se mudou para os EUA junto com os pais em 2002 e chegou ao país sem falar uma palavra em inglês.\nBrockton, onde ela atua como representante atualmente, foi a cidade escolhida pela família para se estabelecer. Antes de chegar à Câmara estadual, em 2019, a brasileira foi eleita para integrar o Conselho Municipal.\nRita, que está com 42 anos, tem formação em Direito e atua como advogada e corretora de imóveis.\nDanillo Sena\nBrasileiro Danillo Sena é deputado estadual nos EUA e representa Acton, em Massachusetts\nArquivo Pessoal\nNascido em Timbaúba, cidade que fica na Zona da Mata Norte de Pernambuco, Sena ocupa uma cadeira na Câmara dos Representantes de Massachusetts desde junho de 2020.\nEle emigrou para os Estados Unidos em 2001, aos 14 anos, indo morar com a mãe em Acton, cidade que faz parte do 37º distrito de Middlesex, onde ele atua. \nAssim como Felipe, Danillo foi beneficiário do DACA, mas só obteve o green card e se tornou cidadão americano em 2018, aos 31 anos. \nLorena Betts\nLorena Betts, brasileira eleita deputada estadual em Massachusetts\nInstagram / Reprodução\nNatural de Mato Grosso, Lorena venceu a disputa para ocupar uma cadeira pelo 16º Distrito de Middlesex na Câmara de Massachusetts.\nCasada e mãe de três filhos, um menino e duas meninas, ela mora nos Estados Unidos há 15 anos. Chegou ao país trabalhando como babá e, antes de emigrar, trabalhava na área de enfermagem no Brasil. \nJá em território americano, estudou Ciências Políticas e passou a se dedicar a atividades comunitárias, especialmente relacionadas às dificuldades enfrentadas por imigrantes.\nEm um post no Instagram após a vitória, Lorena escreveu:\n\"Estou profundamente honrada e incrivelmente grata por ter conquistado sua confiança e seu voto. Esta campanha foi sobre o poder das pessoas, a importância de cada voz e o que podemos realizar quando nos unimos. Nossa maior força reside na nossa disposição de apoiar uns aos outros. Trabalharei diariamente para continuar a merecer a confiança depositada em mim, ouvir as suas vozes e representar a nossa comunidade.\"\nFarley Santos\nFarley Santos, reeleito deputado estadual por Connecticut, nos EUA, com a mulher e a filha\nInstagram / Reprodução\nFarley Santos foi reeleito para a Câmara dos Representantes de Connecticut, pelo 109º Distrito Estadual, na cidade de Danbury, que concentra uma expressiva comunidade brasileira. Está no cargo desde 2023.\nFarley chegou aos Estados Unidos aos 7 anos de idade e viveu inicialmente como imigrante indocumentado. Ele é casado e tem uma filha.\nApós a vitória, ele postou no Instagram e afirmou nunca ter esquecido de sua origem:\n\"Como um jovem imigrante que cresceu nesta cidade, jamais imaginei que um dia teria o privilégio de representar a própria comunidade que deu a mim e à minha família a chance de alcançar o sonho americano. Nunca me esqueci de onde vim, onde fui criado, por quem luto ou por que sirvo. A eleição pode ter terminado, mas o trabalho continua. E eu também. Continuarei presente, lutando com todas as minhas forças e entregando resultados para Danbury.\"\nElaine Marzola\nElaine Marzola, brasileira reeleita deputada estadual de Nevada\nRedes sociais / Reprodução\nNascida no Rio de Janeiro, Elaine chegou a Las Vegas com os pais, ainda criança, em 1984, e hoje ocupa um dos cargos de liderança da Assembleia de Nevada.\nRepresentante do 21º distrito do estado americano desde 2021, Elaine conquistou sua terceira reeleição.\nEla obteve um bacharelado em Estudos Femininos pela Universidade de Nevada em 2006 e, quatro anos depois, se formou em Direito pela Faculdade Thomas M. Cooley, na Universidade de Michigan.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 13:48:01 -0000"
-    },
-    {
-      "id": "cb95dcb59d2d",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA 2026: acompanhe os resultados para governador",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-nos-eua-resultados-para-governador.ghtml",
-      "summary": "Eleitores votam durante as eleições de meio de mandato nos EUA, em uma seção eleitoral em Hillsboro, Virgínia, EUA\nREUTERS/Tierney L. Cross\n \nOs eleitores dos Estados Unidos foram às urnas nesta terça-feira (3) para escolher os governadores de 36 dos 50 estados americanos, nas eleições de meio de mandato. Com os resultados definidos até às 10h05 desta quarta-feira (4), os democratas tinham assegurado o comando de 28 estados, e os republicanos, de 20. Alasca e Kansas ainda aguardavam a definição dos vencedores.\nOs democratas conquistaram cinco governos que estavam sob controle republicano: Geórgia, Iowa, Nevada, Ohio e Texas.\nAO VIVO: acompanhe as últimas notícias sobre as midterms\nMAPAS mostram resultados das eleições nos EUA em tempo real\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n📊 Até a última atualização desta reportagem, os resultados estavam da seguinte forma:\n🔵Democratas: 28 estados -  Arizona, Califórnia, Carolina do Norte*, Colorado, Connecticut, Delaware*, Geórgia (virada), Havaí, Illinois, Kentucky*, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nova Jersey*, Nova York, Novo México, Iowa (virada), Ohio (virada), Oregon, Pensilvânia, Rhode Island, Texas (virada), Nevada (virada), Virgínia*, Washington* e Wisconsin.\n🔴Republicanos: 20 estados - Alabama, Arkansas, Carolina do Sul, Dakota do Norte*, Dakota do Sul, Flórida, Idaho, Indiana*, Louisiana*, Mississippi*, Missouri*, Montana*, Nebraska, New Hampshire, Oklahoma, Tennessee, Utah*, Vermont, Virgínia Ocidental* e Wyoming.\nAguardando resultado: 2 estados - Alasca e Kansas.\n🔎 *Estados que não tiveram eleição para governador em 2026. Já a indicação de “virada” identifica os governos que passarão do controle republicano para o democrata.\n👉 A disputa envolve 18 governos atualmente controlados por democratas e 18 por republicanos. De todos os estados, 17 não tiveram um titular concorrendo à reeleição, tanto pelo limite de mandato - que varia de lugar para lugar - quanto por aposentadoria. \nConfira as disputas em cada um dos 36 estados:\nAgora no g1\n🔴 Alabama — vitória republicana\nO republicano Tommy Tuberville, senador pelo estado, venceu o democrata Doug Jones, ex-senador. Ele sucederá a governadora republicana Kay Ivey, que não pôde disputar um terceiro mandato consecutivo.\nAlasca — aguardando resultado\nO democrata Jonathan Kreiss-Tomkins, ex-deputado estadual, disputou o governo com os republicanos Dave Bronson, ex-prefeito de Anchorage, Treg Taylor, ex-procurador-geral do estado, e Bernadette Wilson. O governador republicano Mike Dunleavy não pôde concorrer novamente pelo limite de dois mandatos consecutivos. A disputa ainda não tinha vencedor definido.\n🔵 Arizona — vitória democrata\nA democrata Katie Hobbs conquistou um segundo mandato. Ela derrotou o republicano Andy Biggs, deputado federal e aliado do presidente Donald Trump.\n🔴 Arkansas — vitória republicana\nA republicana Sarah Huckabee Sanders conquistou a reeleição. Ela enfrentou o senador estadual democrata Fred Love.\n🔵 Califórnia — vitória democrata\nO democrata Xavier Becerra, ex-secretário de Saúde e Serviços Humanos no governo Joe Biden, venceu o republicano Steve Hilton, empresário e ex-comentarista da Fox News. Becerra sucederá o democrata Gavin Newsom, que não pôde disputar mais um mandato por causa do limite de reeleição no estado.\n🔵 Colorado — vitória democrata\nO democrata Phil Weiser, procurador-geral do estado, venceu o republicano Victor Marx, líder de uma organização religiosa. Weiser sucederá o democrata Jared Polis, que não pôde concorrer a um terceiro mandato consecutivo.\n🔵 Connecticut — vitória democrata\nO democrata Ned Lamont conquistou a reeleição para um terceiro mandato. Ele enfrentou o republicano Ryan Fazio, senador estadual.\n🔴 Flórida — vitória republicana\nO deputado federal republicano Byron Donalds venceu o ex-deputado federal democrata David Jolly. Donalds sucederá o republicano Ron DeSantis, que não pôde disputar um terceiro mandato consecutivo.\n🔵 Geórgia — vitória democrata (virada)\nA democrata Keisha Lance Bottoms, ex-prefeita de Atlanta, venceu o empresário republicano Rick Jackson. Bottoms será a primeira mulher negra a governar um estado americano. O resultado tira dos republicanos o controle do governo da Geórgia.\n🔵 Havaí — vitória democrata\nO democrata Josh Green conquistou a reeleição. Ele enfrentou o empresário republicano Gary Cordery.\n🔴 Idaho — vitória republicana\nO republicano Brad Little conquistou um terceiro mandato consecutivo. Ele enfrentou a democrata Terri Pickens Manweiler.\n🔵 Illinois — vitória democrata\nO democrata J.B. Pritzker conquistou um terceiro mandato consecutivo. Ele enfrentou o republicano Darren Bailey, ex-senador estadual e candidato ao governo em 2022.\n🔵 Iowa — vitória democrata (virada)\nO democrata Rob Sand, auditor do estado desde 2019, venceu o empresário e agricultor republicano Zach Lahn. O resultado tira dos republicanos o controle do governo estadual.\nKansas — aguardando resultado\nA democrata Cindy Holscher, senadora estadual, e o republicano Ty Masterson, presidente do Senado estadual, disputaram a sucessão da governadora democrata Laura Kelly, que não pôde concorrer a mais um mandato consecutivo. A disputa ainda não tinha vencedor definido.\n🔵 Maine — vitória democrata\nA democrata Hannah Pingree, ex-presidente da Câmara estadual, venceu a disputa contra o republicano Robert Charles, ex-funcionário do Departamento de Estado americano.\n🔵 Maryland — vitória democrata\nO democrata Wes Moore conquistou a reeleição. Ele enfrentou o republicano Dan Cox, ex-deputado estadual e candidato ao governo em 2022.\n🔵 Massachusetts — vitória democrata\nA democrata Maura Healey conquistou um segundo mandato. Ela enfrentou o republicano Mike Minogue, empresário e executivo do setor de biotecnologia.\n🔵 Michigan — vitória democrata\nA democrata Jocelyn Benson, secretária de Estado de Michigan, venceu o deputado federal republicano John James. Ela sucederá a democrata Gretchen Whitmer, que não pôde concorrer a um terceiro mandato consecutivo.\n🔵 Minnesota — vitória democrata\nA senadora democrata Amy Klobuchar venceu a republicana Lisa Demuth e manteve o governo estadual sob controle do partido.\n🔴 Nebraska — vitória republicana\nO republicano Jim Pillen conquistou a reeleição. Ele enfrentou a democrata Lynne Walz, ex-deputada estadual.\n🔵 Nevada — vitória democrata (virada)\nO democrata Aaron Ford, procurador-geral do estado, derrotou o governador republicano Joe Lombardo, que buscava um segundo mandato. Ford será o primeiro governador negro de Nevada.\n🔴 New Hampshire — vitória republicana\nA republicana Kelly Ayotte conquistou um segundo mandato. Ela enfrentou a democrata Cinde Warmington, integrante do Conselho Executivo do estado.\n🔵 Novo México — vitória democrata\nA democrata Deb Haaland, ex-secretária do Interior no governo Joe Biden, venceu o republicano Gregg Hull, prefeito de Rio Rancho. Ela sucederá a democrata Michelle Lujan Grisham, que não pôde concorrer a um terceiro mandato consecutivo.\n🔵 Nova York — vitória democrata\nA democrata Kathy Hochul conquistou a reeleição. Ela enfrentou o republicano Bruce Blakeman, executivo do condado de Nassau.\n🔵 Ohio — vitória democrata (virada)\nA democrata Amy Acton, ex-diretora do Departamento de Saúde do estado, venceu o republicano Vivek Ramaswamy, empresário e ex-candidato às primárias presidenciais de 2024. O resultado tira dos republicanos o controle do governo estadual.\n🔴 Oklahoma — vitória republicana\nO republicano Mike Mazzei, ex-senador estadual, derrotou a democrata Cyndi Munson, líder da minoria democrata na Câmara estadual.\n🔵 Oregon — vitória democrata\nA democrata Tina Kotek conquistou a reeleição. Ela enfrentou a republicana Christine Drazan, que também disputou o governo em 2022.\n🔵 Pensilvânia — vitória democrata\nO democrata Josh Shapiro conquistou um segundo mandato. Ele enfrentou a republicana Stacy Garrity, tesoureira estadual.\n🔵 Rhode Island — vitória democrata\nA democrata Helena Foulkes, ex-executiva da rede farmacêutica CVS, venceu a disputa. O independente Kenneth Block ficou em segundo lugar, à frente do republicano Aaron Guckian.\n🔴 Carolina do Sul — vitória republicana\nO republicano Alan Wilson, procurador-geral do estado, venceu o democrata Jermaine Johnson, deputado estadual. Wilson sucederá o republicano Henry McMaster, que não pôde concorrer a um terceiro mandato consecutivo.\n🔴 Dakota do Sul — vitória republicana\nO republicano Larry Rhoden venceu a disputa pelo governo. Ele enfrentou o democrata Dan Ahlers, ex-deputado estadual.\n🔴 Tennessee — vitória republicana\nA senadora republicana Marsha Blackburn venceu a democrata Jerri Green. Ela sucederá o republicano Bill Lee, que não pôde concorrer a um terceiro mandato consecutivo.\n🔵 Texas — vitória democrata (virada)\nA democrata Gina Hinojosa, deputada estadual, derrotou o governador republicano Greg Abbott, que buscava um quarto mandato consecutivo. A vitória transfere o controle do governo estadual para os democratas.\n🔴 Vermont — vitória republicana\nO republicano Phil Scott conquistou a reeleição. Ele enfrentou a democrata Amanda Janoo.\n🔵 Wisconsin — vitória democrata\nO democrata David Crowley, executivo do condado de Milwaukee, venceu o deputado federal republicano Tom Tiffany. Crowley sucederá o democrata Tony Evers, que decidiu não disputar um terceiro mandato.\n🔴 Wyoming — vitória republicana\nO republicano Eric Barlow venceu o democrata Ken Casner na disputa pelo governo estadual.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 13:36:08 -0000"
-    },
-    {
-      "id": "a6627d0bbbd3",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições nos EUA: políticos brasileiros repercutem resultado que deu aos democratas maioria no Congresso",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/04/eleicoes-nos-eua-politicos-brasileiros-repercutem-resultado-que-deu-aos-democratas-maioria-no-congresso.ghtml",
-      "summary": "Políticos brasileiros, em especial lideranças ligadas ao governo de Luiz Inácio Lula da Silva (PT), se manifestaram nesta quarta-feira (4) sobre o desfecho das eleições de meio de mandato, as \"midterms\", nos Estados Unidos. \nRealizada na terça-feira (3), a votação garantiu ao Partido Democrata o controle das duas Casas do Congresso americano — a Câmara dos Representantes e o Senado. O resultado configura uma derrota política para o presidente Donald Trump, do Partido Republicano.\nCom o novo cenário, os democratas assumem o controle da pauta legislativa em Washington pelos próximos dois anos, impondo desafios e freios à gestão republicana.\nO Palácio do Planalto não divulgou pronunciamento oficial sobre os resultados. Nem o presidente Lula nem o vice-presidente Geraldo Alckmin comentaram a vitória democrata até a última atualização desta reportagem.\nRepercussão entre aliados do governo\nDemocratas conquistam maioria na Câmara e no Senado dos Estados Unidos\nIntegrantes da base governista e ministros comemoraram a virada legislativa em Washington e traçaram paralelos com a política nacional.\nO ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, disse que as eleições americanas apontam para uma \"mudança de rumo\" no mundo. \n\"Um verdadeiro tsunami americano varreu os EUA. Mudança de rumo no mundo que começou com a onda vermelha aqui no Brasil. Derrota de Trump é uma vitória do mundo democrático. Viva a Democracia\", escreveu o ministro em sua conta no X.\nO deputado André Janones (Rede-MG), coordenador do canal \"Exército do Lula\" na campanha da reeleição do presidente, disse ver influência do cenário brasileiro no pelito dos EUA.\n\"A realidade é que a vitória do presidente Lula está inspirando o mundo inteiro. A gente tá mostrando pro mundo que, sim, nós podemos vencê-los de uma vez por todas\", publicou o parlamentar.\nJá o líder do governo no Congresso, senador Randolfe Rodrigues (PT-AP), ironizou ao parafrasear um bordão comumente adotado por setores conservadores. \"Acontece no Brasil, acontece nos EUA. No final, quem interferiu fomos nós\", postou Randolfe.\nO deputado Lindbergh Farias (PT-RJ) usou a hashtag \"TheBolsonarosEffect\", que, em português, significa \"o efeito Bolsonaro\", e afirmou que as urnas mandaram um recado contra o avanço de grupos radicais.\n\"Derrota acachapante de Trump mostra que os EUA e o mundo estão dispostos a impedir que a extrema-direita destrua o nosso futuro\", declarou o petista.\nPaulo Teixeira, deputado do PT eleito por São Paulo, afirmou que, na sua avaliação, \"os escândalos do governo Trump agora serão investigados\".\nDiversidade\nO presidente nacional do PSB, João Campos, disse que a votação é uma resposta aos excessos e à radicalização do governo republicano.\n\"O recado das urnas ultrapassou o Congresso e chegou a redutos históricos republicanos: Gina Hinojosa, primeira governadora latina do Texas; Keisha Lance Bottoms, primeira mulher negra eleita governadora dos EUA, na Geórgia; e Rob Sand, vencedor em Iowa\", citou Campos. \n\"Mais do que uma derrota de Trump, o resultado revela a formação de uma maioria diversa, que rejeita a política do confronto permanente e reafirma a força da democracia. Uma mensagem que ultrapassa as fronteiras americanas\", completou o ex-prefeito do Recife (PE).\nA deputada Duda Salabert (PDT-MG) também destacou os marcos de representatividade nas urnas americanas e a contenção de alas de extrema-direita.\n\"Trump perdeu o controle do Congresso nos EUA, e as eleições de meio de mandato foram marcadas por conquistas históricas: primeira mulher indígena eleita para o Senado; primeira governadora negra da história dos EUA, na Geórgia; primeiro senador muçulmano eleito; primeira governadora indígena, no Novo México; primeiro senador abertamente gay\", elencou Duda Salabert. \n\"Os resultados representam uma mudança na correlação de forças políticas nos EUA e uma reação eleitoral ao facismo de Trump. Estamos presenciando o fim da era do retrocesso\", complementou a parlamentar.\nDireitista também critica Trump\nO ex-candidato a presidente e líder do Partido Missão, Renan Santos, criticou tanto a condução dos EUA pelo governo Trump quanto a aproximação dos republicanos com o grupo do ex-presidente Jair Bolsonaro.\n\"Essa desgraça de direita retardada dos republicanos, que tem, nos Bolsonaro, sua filial, tomaram uma taca. Que acabem logo. Trump toca um governo essencialmente corrupto que traiu seus eleitores. Que surja algo novo no lugar\", afirmou Renan em uma rede social.\nO presidente dos Estados Unidos, Donald Trump, discursa durante um comício de campanha para as eleições de meio de mandato, no Ocean Center, em Daytona Beach, na Flórida, em 30 de outubro de 2026.\nBrendan SMIALOWSKI / AFP",
-      "tags": [
-        "eleições",
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "Poder360"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 13:32:33 -0000"
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 23:24:52 GMT"
     },
     {
       "id": "2a2ed0a1d08f",
@@ -288,56 +427,186 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
+        "CNN Brasil",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 86,
+      "score": 81,
       "publishedRaw": "Wed, 04 Nov 2026 16:48:14 GMT"
     },
     {
-      "id": "b7ce75a85332",
+      "id": "ecb7c88bf344",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
-      "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ampla pesquisa perguntou a dezenas de milhares de eleitores americanos suas opiniões e motivações, fornecendo uma análise por idade, sexo, escolaridade e outros dados demográficos.",
+      "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
+      "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
       "tags": [
         "eleições"
       ],
       "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
+        "CNN Brasil",
         "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 12:21:07 GMT"
+      "score": 81,
+      "publishedRaw": "Wed, 04 Nov 2026 20:52:50 GMT"
     },
     {
-      "id": "3eff80734dfd",
+      "id": "4876d6d9c323",
       "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Quem são os grandes vencedores das eleições americanas",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Conheça alguns dos principais nomes da chamada onda azul democrata, que conquistou uma vitória esmagadora nesta terça-feira, em um duro revés para as políticas de Donald Trump.",
+      "title": "A vitória de Lula explicada matematicamente",
+      "link": "https://www.bbc.com/portuguese/articles/cxvgdjneg9g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saldo das urnas indica que presidente conseguiu atrair maioria dos eleitores que votaram em outros candidatos no primeiro turno ou que não havia optado por qualquer um (brancos, nulos e abstenções) mas decidiu votar no segundo",
       "tags": [
-        "eleições"
+        "Lula"
       ],
       "crossOutlets": [
         "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Tue, 03 Nov 2026 22:04:35 GMT"
+    },
+    {
+      "id": "0eabc0472510",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "'Bolsonarismo não está derrotado, está disseminado. Basta ver os patrões demitindo funcionários que votaram no Lula', diz filósofo Renato Lessa",
+      "link": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Para Renato Lessa, da PUC-Rio, carta de Flávio Bolsonaro após derrota para Lula foi tiro no pé, porque o desqualificou como líder mesmo após votação notável.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 81,
+      "publishedRaw": "Sat, 31 Oct 2026 17:03:32 GMT"
+    },
+    {
+      "id": "9a1793919621",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com avanço democrata, Trump terá dificuldade em seguir com política externa atual, avaliam integrantes do governo Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml",
+      "summary": "Governo Lula: eleição deu recado aos americanos\nApós a vitória expressiva dos democratas nas eleições legislativas nos Estados Unidos, integrantes do governo brasileiro veem dificuldades no futuro de Donald Trump.\nA expectativa é que o presidente americano tenha dificuldade em seguir com a política de imposição de tarifas e também com a implementação da chamada “Doutrina Donroe”, linha da política externa da Casa Branca que compreende o hemisfério ocidental, incluindo a América Latina, como zona de interesse norte-americano.\n🔎O Partido Democrata, de oposição ao governo republicano de Donald Trump, conquistou na madrugada desta quarta-feira (4) a maioria das cadeiras no Senado e na Câmara dos Deputados americanos. A vitória democrata incluiu a tomada de cadeiras historicamente ocupadas pelos republicanos e altera o equilíbrio de poder para a segunda metade do mandato de Trump à frente do país.\n'Vitória da democracia mundial', diz Miriam Leitão sobre eleições nos EUA\n'7 a 1'\nO Brasil não irá se manifestar oficialmente sobre o resultado das eleições de meio de mandato. Não é praxe da diplomacia brasileira publicar notas sobre eleições em outros países. Além disso, Brasil e Estados Unidos vivem uma crise diplomática há mais de um ano, e a linha do governo brasileiro é adotar o pragmatismo para não agravar as tensões.\nNos bastidores, no entanto, o resultado das eleições legislativas nos EUA foi recebido com entusiasmo por integrantes do governo Lula, que fazem um paralelo com a disputa presidencial brasileira.\n“Foi um 7 a 1. Os piores cenários para Trump se confirmaram. Tanto lá como cá são sociedades que prezam suas democracias, e demonstraram no voto. Retificaram o rumo do delírio autoritário”, afirmou um diplomata brasileiro.\nComemoração de democratas após vitória nas eleições legislativas americanas\nREUTERS\nDe forma reservada, a leitura de integrantes do governo que atuam no Itamaraty e na área internacional é que os democratas terão força para abrir no Congresso diversas frentes de investigação sobre ações de Trump nos dois primeiros anos de governo.\nO entendimento é de que isso tende a forçar a Casa Branca a seguir com uma linha mais cautelosa nas políticas externa e tarifária daqui em diante.\nUm integrante do governo que acompanha as negociações com o USTR (Escritório Comercial dos EUA) sobre as tarifas impostas ao Brasil afirmou que técnicos do escritório já vêm oferecendo resistência nos últimos meses a dar aval a tarifas “intempestivas e autoritárias” determinadas por Trump. Diante do risco maior de investigações, a burocracia estatal deverá resistir ainda mais a dar sustentação a essa agenda.\nInterlocutores do governo lembram que muitos senadores e deputados democratas foram eleitos defendendo que haja investigação sobre as operações na América Latina, como, por exemplo, as ações na Venezuela que incluíram a captura de Nicolás Maduro e ataques a Caracas.\nApós captura pelo governo americano, Nicolás Maduro responde a acusações de narcotráfico em Nova York, que ele nega e que podem levá-lo à prisão perpétua\nGetty Images\nAções unilaterais que possam ferir a soberania dos países latino-americanos também tenderiam a perder espaço na segunda metade da administração Trump.\n'Big techs' e política interna\nOutro tema que pode ser impactado é a regulamentação das 'big techs', grandes empresas multinacionais de tecnologia. O perfil dos eleitos indica que haverá uma coalizão em defesa da regulação dessas plataformas.\nA medida tem apoio não só do Partido Democrata, mas também entre uma parcela dos parlamentares republicanos.\nA pauta interessa ao governo Lula, que, nos últimos anos, tentou avançar com a regulamentação das plataformas, mas encontrou resistência no Congresso. A leitura no Palácio do Planalto é que a falta de regulação do setor favorece a direita mais ligada ao ex-presidente Jair Bolsonaro (PL).\nAuxiliares de Lula também preveem que Trump faça uma segunda metade do governo mais voltada para questões internas, e não para a política externa, uma vez que a Guerra do Irã é apontada como a grande causa da derrota republicana nas eleições legislativas americanas. \nO presidente dos EUA, Donald Trump, discursa no canteiro de obras do salão de baile da Casa Branca.\nEvan Vucci/Reuters\nSendo assim, a tendência, segundo estes interlocutores, é que Trump faça uma disputa política com os democratas em torno de temas relacionados a minorias – intensificando o discurso contra grupos como imigrantes, muçulmanos e a população LGBTQIA+ – e reduzindo a atenção sobre adversários externos, como Irã e Cuba.\nO governo brasileiro vai observar, nos próximos dias, como a administração Trump vai absorver a derrota e reorientar sua atuação daqui para frente.\nA partir disso, a diplomacia brasileira também irá calibrar suas estratégias na relação bilateral. Além do tarifaço, há diversos pontos de atrito entre os países, como a suspeita de que o governo americano tenha ajudado Flávio Bolsonaro a fugir do país e a suspensão do visto diplomático da embaixadora brasileira em Washington, Maria Luiza Viotti.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 04 Nov 2026 19:05:00 -0000"
+    },
+    {
+      "id": "d3c97eeee600",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "Dólar cai e fecha a R$ 5,45 após vitória democrata no Congresso dos EUA; Ibovespa sobe",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar fechou em queda de 0,64% nesta quarta-feira (4), cotado a R$ 5,4518. Já o Ibovespa, principal índice da bolsa brasileira, teve alta de 1,23%, aos 167.563 pontos.\nO mercado reagiu à vitória democrata no Congresso dos Estados Unidos e acompanhou os sinais sobre o envio da medida provisória do Imposto Seletivo no Brasil. Investidores também aguardavam a decisão do Comitê de Política Monetária (Copom), prevista para depois do fechamento dos mercados.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ A vitória democrata nas midterms dos EUA ficou no centro das atenções. Para os investidores, o avanço da oposição pode dificultar a aprovação de medidas do governo de Donald Trump sobre gastos públicos, impostos e regulação.\n▶️ No Brasil, investidores aguardavam a decisão de juros do Banco Central, prevista para o fim da tarde. A expectativa é que o Copom mantenha a Selic em 13,75% ao ano e adote um discurso mais duro diante da piora do cenário de inflação e da maior pressão fiscal.\n▶️ A reforma tributária também entrou no radar. O governo sinalizou que pretende prorrogar, em janeiro de 2027, a cobrança do IPI para setores que passarão a ser tributados pelo Imposto Seletivo, o chamado “imposto do pecado”.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,14%;\nAcumulado do mês: +0,14%;\nAcumulado do ano: -0,67%.\n📈Ibovespa\n\nAcumulado da semana: --18,12%\nAcumulado da semana: -0,21%\nAcumulado do mês: --0,21%;\nAcumulado do ano: +4%.\nEleições de meio de mandato nos EUA\nO Partido Democrata conquistou na madrugada desta quarta-feira (4) a maioria das duas casas do Congresso dos Estados Unidos. \nO resultado configura uma derrota histórica para o presidente republicano Donald Trump em meio às eleições legislativas de meio de mandato, conhecidas como midterms, realizadas na terça-feira (3).\nA legenda manteve suas cadeiras no Senado e avançou sobre vagas historicamente ocupadas por Republicanos. Os democratas elegeram 20 senadores, sendo sete de virada, e chegaram a 54 das 100 cadeiras da Casa até a última atualização desta reportagem. Eram necessárias 51 cadeiras para alcançar a maioria.\nApós a confirmação do controle democrata sobre as duas Casas, o presidente Donald Trump afirmou, em entrevista ao jornal americano \"The New York Times\", estar disposto a governar com os democratas.\n\"Estou absolutamente disposto a aceitar esses resultados\", afirmou.\nSegundo o americano, sua gestão deve buscar acordos com integrantes do partido adversário.\n\"Vamos trabalhar com os democratas e esperamos colaborar com eles. Provavelmente chegaremos a algum entendimento\", declarou.\nDias antes, o republicano levantou dúvidas sobre a sua reação a uma eventual derrota ao afirmar que só reconheceria os resultados se as eleições \"fossem limpas\".\nLEIA MAIS\nEntenda por que as midterms podem mexer com dólar e juros no Brasil\nO que são as midterms\nBolsas globais\nNos Estados Unidos, os três principais índices de Wall Street fecharam em alta nesta quarta-feira, conforme investidores avaliavam os resultados das midterms no país.\nO Dow Jones teve alta de 3,03%, enquanto o S&amp;P 500 subiu 1,59% e o Nasdaq Composite avançou 1,48%.\nEntre os destaques negativos da sessão estavam os papéis da SpaceX e da Tesla, empresas do bilionário Elon Musk — que gastou quase meio bilhão de dólares para apoiar candidatos republicanos no Texas, estado que abriga as duas companhias. \nA queda dos papéis derrubou a fortuna de Musk em cerca de US$ 41,8 bilhões (R$ 229 bilhões) em um dia.\n\"No geral, os resultados [das eleições] tiveram um impacto moderado nos mercados até o momento. Os investidores deixarão de negociar a incerteza dos resultados eleitorais e passarão a negociar a realidade do que eles significam para as políticas públicas\", disse Kathleen Brooks, diretora de pesquisa da XTB, à Reuters.\nSegundo Brooks, os resultados acabam sendo uma notícia negativa para a Tesla e a SpaceX, já que pode colocar em dúvida uma possível fusão entre as duas companhias.\n\"Embora o Congresso não possa impedir uma fusão, ele poderia retardá-la por meio de uma análise mais rigorosa\", disse.\n\"Musk investiu centenas de milhões no Partido Republicano antes dessas eleições, e podemos ver as ações ligadas a Musk em dificuldades agora que seus inimigos políticos recuperaram o controle do Congresso\", completou.\nNa Europa, as bolsas da região tiveram alta generalizada na sessão. O índice pan-europeu STOXX 600 subiu 1,84%, atingindo a máxima em dois meses.\nEntre os demais índices locais, o DAX, da Alemanha, subiu 2,22%, enquanto o CAC-40, da França, avançou 1,96% e o FTSE 100, do Reino Unido, ganhou 1,79%.\nNa Ásia, as ações chinesas tiveram a maior alta em sete meses, conforme o resultado das eleições de meio de mandato dos Estados Unidos deu aos investidores um pretexto para comprar papéis. \nO SSEC, Índice de Xangai, teve alta de 2,16%, enquanto o CSI300, que reúne grandes empresas chinesas, subiu 2,31%. Na Coreia do Sul, o Kospi valorizou 0,62% e o Hang Seng, de Hong Kong, teve ganhos de 1,67%. No Japão, o Nikkei recuou 1,42%.\n* Com informações da agência de notícias Reuters.\nDólar\nKarolina Grabowska/Pexels",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 04 Nov 2026 12:01:09 -0000"
+    },
+    {
+      "id": "18a17fdf3811",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Vitória dos democratas no Congresso dos EUA vai colocar fim à Doutrina Donroe?",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/vitoria-dos-democratas-no-congresso-dos-eua-pora-fim-a-doutrina-donroe.ghtml",
+      "summary": "Vista da cúpula do Capitólio dos Estados Unidos.\nKent Nishimura / Reuters\nCom uma ampla maioria no Congresso dos Estados Unidos, os democratas vão tentar frear a ambiciosa agenda de segurança de Washington na América Latina e no Caribe, que o presidente Donald Trump renomeou como Doutrina Donroe.\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS mostram resultados das  em tempo real\nE para isso poderiam contar com a ajuda de representantes republicanos em alguns assuntos, como o controle dos ambiciosos planos petroleiros de Trump na Venezuela ou a política migratória.\nMeses depois de voltar à Casa Branca, o governo Trump resumiu seus objetivos na região em uma nova doutrina de segurança nacional: a luta sem trégua contra o crime organizado, contra a imigração irregular e contra a presença de \"países alheios\" à região, um eufemismo para se referir basicamente à China.\nEra o renascimento da Doutrina Monroe, de ingerência \"benigna\" do século XIX, quando Washington decidiu enfrentar as potências europeias que intervinham como queriam em países que acabavam de nascer.\nTrump se apropriou do novo nome: Doutrina Donroe.\nEssa doutrina, no entanto, depende da disponibilidade de dotações orçamentárias e de funcionários nomeados para ser posta em prática. E isso, em parte, passa pelo Congresso.\n\"Ter as duas Câmaras do Congresso, poder para convocar [testemunhas] e supervisão orçamentária porá fim ao menos às partes mais extremas da Doutrina Donroe\", explicou à AFP Douglas Farah, presidente da consultoria de segurança IBI.\nNa terça-feira, o representante Robert Garcia, que chefiará o Comitê de Supervisão da Câmara, fez uma advertência contundente aos republicanos e à família Trump: \"Procurem um advogado\".\n\"Não acho que tenha acabado\" a Doutrina Donroe, explica Rebecca Bill Chávez, presidente do Diálogo Interamericano.\n\"Trump não vai mudar suas prioridades só porque os democratas ganharam o Congresso. Mas enfrentará um escrutínio muito maior\", acrescenta.\nProjetos e demandas \nNo caso da Venezuela, os democratas têm no mínimo dois projetos de lei para limitar os investimentos americanos com dinheiro público, e inclusive para impedir que o governo americano possa intervir nos assuntos do país caribenho.\nO presidente Trump anunciou, em agosto, um acordo petroleiro \"histórico\" com Caracas, que permitiria a operadores americanos explorar petróleo cru em jazidas venezuelanas, mediante um complexo esquema que implica uma empresa privada, a North American Blue Energy Partners (Nabep).\nO Pentágono participaria indiretamente desta exploração petroleira, mediante o controle de 35% da Nabep.\nO senador democrata Jack Reed enviou rapidamente uma carta pedindo explicações ao governo, e previsivelmente serão abertas audiências de fiscalização nos comitês de Relações Exteriores e Defesa em ambas as câmaras.\nA democrata Debbie Wasserman Schultz e a republicana María Elvira Salazar, reeleita por uma apertada margem na Flórida, também lideraram iniciativas para prorrogar de alguma forma o estatuto migratório temporário dos venezuelanos que o governo cancelou.\nA Suprema Corte ratificou, em termos gerais, o direito do governo Trump de cancelar programas migratórios que são temporários.\nA situação de cerca de 350 mil migrantes haitianos é ainda mais crítica, e os legisladores querem reverter a política migratória de Trump.\nO caso de Cuba\nEm relação a Cuba, as diferenças entre a agora minoria republicana e os democratas são muito mais profundas. \nA ala mais esquerdista dos democratas, com congressistas como Gregory Meeks ou Joaquín Castro, apresentaram em maio uma \"resolução de poderes de guerra contra Cuba\", que proibiria qualquer iniciativa militar.\nTrump já invocou a segurança nacional para atacar o Irã sem passar pelo Congresso.\nO presidente repetiu em público que seus planos são \"dar uma passada\" pela costa cubana quando a guerra no Irã terminar.\nQuando o governo Trump lançou os primeiros ataques com mísseis contra supostas narcolanchas no Caribe e no Pacífico, em setembro de 2025, rapidamente cinco congressistas democratas escreveram para pedir explicações ao chefe do Pentágono, Pete Hegseth.\nO Pentágono entregou informação reservada e longas justificativas legais para estes ataques.\nOs orçamentos do Estado federal são prerrogativa da Câmara de Representantes. Os democratas poderiam dificultar as demandas de financiamento do Pentágono, como já tentaram fazer com a guerra no Irã.\nAo mesmo tempo, países aliados, como a Colômbia, se esforçam para recuperar totalmente o financiamento da luta contra o narcotráfico, e outros, como El Salvador, assinaram acordos de acolhida de imigrantes irregulares, que agora com toda certeza serão minuciosamente examinados pelos democratas.",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 04 Nov 2026 22:00:43 -0000"
+    },
+    {
+      "id": "c49c3a615bfc",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Vice de Trump culpa guerra no Irã por derrota republicana no Congresso: 'O próprio presidente disse isso'",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/o-motivo-pelo-qual-perdemos-foi-a-guerra-diz-vice-de-trump.ghtml",
+      "summary": "Trump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula'\nO vice-presidente dos EUA, J.D. Vance, afirmou nesta quarta-feira (4) que os republicanos perderam o controle do Congresso para os democratas por causa da guerra no Irã. Em um texto postado em suas redes sociais, Vance argumenta que o conflito está por trás da derrota nas urnas nas eleições de meio de mandato.\n\"O motivo pelo qual perdemos foi a guerra. O próprio presidente disse isso ontem à noite\".\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS mostram resultados das  em tempo real\nJ.D. Vance e Donald Trump\nThe White House/Reuters\nÀ imprensa americana, Trump reconheceu na madrugada de quarta (4) que a guerra no Irã teve um papel nas derrotas dos republicanos. “Acho que o Irã teve parte nisso”, disse em entrevista à Fox News. O presidente foi na mesma linha em declaração ao jornal “The Wall Street Journal\": \"O Irã foi um dos fatores”.\nDurante a tarde, Trump pariticipou de seu primeiro evento público desde a derrota republicana nas urnas. Questionado sobre as falas de Vance sobra a guerra, o presidente concordou: \n\"Bem, acho que isso é em grande parte verdade, porque [a guerra no Irã] fez a gasolina subir um pouco no curto prazo, e provavelmente é verdade. Mas, ao mesmo tempo, se eu tivesse que fazer de novo, eu teria que fazer de novo, porque, a longo prazo, é a única resposta. Não se pode deixar o Irã ter uma arma nuclear\", afirmou.\nEleitores republicanos migraram para democratas\nEm seu post, J.D Vance afirma também que, embora os eleitores republicanos tenham comparecido às urnas em níveis relativamente altos, muitos que haviam votado em Trump em 2024 migraram para os democratas nas midterms deste ano.\n\"O principal problema não foi o comparecimento. O principal problema foi que muitas pessoas que votaram em Trump/Vance em 2024 votaram nos democratas em 2026\", escreveu.\nSegundo ele, pesquisas internas indicavam que esses eleitores estavam insatisfeitos principalmente com a guerra, o custo de vida e a inflação, a prioridade dada à política de \"America First\" (América Primeiro) e a relação dos EUA com Israel. \nVance conclui, portanto, que o principal motivo da derrota republicana não foi a baixa participação dos eleitores republicanos, mas a mudança de voto, tendo a guerra como causa central.\n\"Se você quiser argumentar que valeu a pena, que perder o Senado pelos próximos seis anos valeu a pena, então faça esse argumento. Diga que foi um preço que valia a pena pagar. Concorde-se ou não, isso pelo menos é honesto. Mas todo mundo sabe por que perdemos\", escreveu Vance.\nGuerra no Irã aumentou custo de vida\nA guerra contra o Irã, iniciada por EUA e Israel em 28 de fevereiro, provocou uma disparada nos preços dos combustíveis, nas passagens aéreas e na inflação geral. Estimativas apontam que a guerra custou o equivalente a até US$ 100 bilhões (cerca de R$ 508 bilhões) aos cofres americanos, segundo fontes do Pentágono.\nUma pesquisa da Reuters/Ipsos na véspera das midterms mostrou que cerca de 48% dos eleitores americanos apontaram o custo de vida como a principal questão na hora de votar nas eleições de meio de mandato.\nAlém disso, apenas 25% dos eleitores consideram que a ação militar valeu o custo, enquanto 55% dizem que não valeu. Outros 18% não tinham certeza.\nTrump argumentou que a guerra era necessária para impedir que o Irã desenvolvesse armas nucleares e, após os ataques, chegou a afirmar que o conflito acabaria rapidamente. Após meses de declarações contraditórias e de um acordo de cessar-fogo fracassado, a guerra continua, mas em menor intensidade.\nO ataque mais recente dos Estados Unidos teria sido na última segunda-feira (2) contra a ilha iraniana de Qeshm, segundo informou o jornal The Wall Street Journal, citando autoridades americanas.",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 04 Nov 2026 16:16:13 -0000"
+    },
+    {
+      "id": "0172d0e95d9c",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Democratas assumem controle do Congresso dos EUA e impõem derrota a Trump; veja cobertura da eleição minuto a minuto",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
+      "summary": "Vitórias em Estados como Texas e Kansas confirmam 'onda azul' que dá comando do Congresso aos democratas durante o tempo restante do mandato do presidente.",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 15:41:22 GMT"
+      "score": 77,
+      "publishedRaw": ""
+    },
+    {
+      "id": "02734b7c3b1d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alcolumbre diz que analisará situação de Flávio Bolsonaro, que registrou presença e voto dos EUA",
+      "link": "https://www.estadao.com.br/politica/alcolumbre-diz-que-analisara-situacao-de-flavio-bolsonaro-que-registrou-presenca-e-voto-dos-eua/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [],
+      "score": 73,
+      "publishedRaw": "Wed, 04 Nov 2026 23:08:39 +0000"
     },
     {
       "id": "74edcb92c569",
@@ -351,226 +620,9 @@
         "Bolsonaro",
         "Flávio Bolsonaro"
       ],
-      "crossOutlets": [
-        "Poder360"
-      ],
-      "score": 78,
+      "crossOutlets": [],
+      "score": 73,
       "publishedRaw": "Wed, 04 Nov 2026 15:56:33 +0000"
-    },
-    {
-      "id": "b848aba474b0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Rogério Marinho justifica fuga de Flávio Bolsonaro do Brasil",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-justifica-fuga-de-flavio-bolsonaro-do-brasil/",
-      "summary": "Líder do PL afirmou que senador tomou \"decisão difícil\" depois de analisar a prisão do pai e ver o irmão \"exilado\"",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 78,
-      "publishedRaw": "Wed, 04 Nov 2026 17:54:31 +0000"
-    },
-    {
-      "id": "78e57d7461a0",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador a prisão, para o bandido a proteção'; áudio foi editado",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/04/e-fake-video-de-lula-dizendo-para-o-povo-trabalhador-a-prisao-para-o-bandido-a-protecao-audio-foi-editado.ghtml",
-      "summary": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador, a prisão; para o bandido, a proteção'\nReprodução\nCircula nas redes sociais um vídeo que supostamente mostra o presidente Lula (PT) dizendo \"para o povo trabalhador, a prisão; para o bandido, a proteção\". É #FAKE. \n✅ Siga o canal de Fato ou Fake no WhatsApp\nSelo Fake (Horizontal)\ng1\n🔴 Como é o vídeo?\nPublicado no X e no Facebook nesta segunda-feira (2), o conteúdo exibe caixas de texto sobrepostas às imagens que dizem: \"Grave! Lula promete prisão para trabalhadores! Para o povo trabalhador, a prisão; e, para o bandido, a proteção, diz Lula! Macabro isso, viu Lula!\".\nO vídeo mostra o presidente afirmando, em um pronunciamento: \"E, na hora em que a gente definir a aprovação da PEC, nós vamos aprovar o Ministério de Segurança Pública para que a gente possa fazer funcionar o Sistema Único de Segurança Pública (Susp). O nosso lema é o seguinte: 'Para o povo trabalhador, a prisão; para o bandido, a proteção'. É esse o nosso lema daqui para frente, gente\". Mas o conteúdo foi editado digitalmente — leia mais abaixo.\n⚠️ Por que é #FAKE? \nO áudio do pronunciamento foi editado digitalmente. Na verdade, a versão original diz justamente o contrário: \"Para o povo trabalhador, a proteção; para o bandido, a prisão\". \nLula deu essa declaração em 7 de outubro, três dias após o primeiro turno das eleições 2026, durante um encontro com parlamentares do PT (assista ao vídeo abaixo).\nNa ocasião, o então candidato à reeleição defendeu a aprovação da Proposta de Emenda à Constituição (PEC) do governo sobre Segurança Pública \nA proposta, aprovada nesta terça-feira (3) pelo Senado, dá mais poder ao governo federal para agir contra as organizações criminosas, amplia a cooperação entre União, estados e municípios e prevê punições mais severas para os chefes de facções criminosas.\nAntes da votação, o plenário decidiu que iria votar a medida sem discutir os destaques, do PT e do PL, que tratam da redução da maioridade penal. Depois, líderes do Senado fecharam um acordo para que a votação sobre o tema seja acelerada.\n➡️A proposta do PL era para a maioridade penal diminua para 16 anos em casos de crimes de menor gravidade, e para 14 anos nos hediondos;\n➡️A proposta do PT reduziria a maioridade para 16 anos apenas para crimes hediondos, mantendo para os demais.\nLula: 'Para o povo trabalhador, proteção; para o bandido, prisão'\nÉ #FAKE vídeo de Lula dizendo 'para o povo trabalhador, a prisão; para o bandido, a proteção'\nReprodução\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: vídeo que mostra homem tomando banho em fonte natural em meio a chamas é real\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\n \nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 17:27:06 -0000"
-    },
-    {
-      "id": "8d2a582bf65c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula deve fazer pronunciamento no domingo, garantir que não haverá estelionato eleitoral e que fará ajuste fiscal",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/lula-deve-fazer-pronunciamento-no-domingo-garantir-que-nao-havera-estelionato-eleitoral-e-que-fara-ajuste-fiscal.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) deve fazer um pronunciamento à nação no próximo domingo (8), no qual pretende prometer trabalhar pela pacificação do país, garantir que não haverá estelionato eleitoral e anunciar que fará um ajuste fiscal para cumprir as metas fiscais durante seu quarto mandato.\nSegundo assessores presidenciais, Lula vai dizer que adotará medidas para garantir o cumprimento das metas de resultado primário ao longo do próximo mandato, preservando os programas sociais e cumprindo as promessas feitas durante a campanha eleitoral.\n\"Não haverá estelionato eleitoral. O presidente vai deixar isso claro, mas também vai dizer que seu governo terá responsabilidade fiscal durante todo o quarto mandato\", disse reservadamente ao blog um assessor direto de Lula.\nOutro auxiliar afirmou que a intenção é garantir a geração de superávits primários ao longo de todo o quarto mandato.\n🔎Estelionato eleitoral é uma expressão usada para definir casos em que um candidato, depois de eleito, adota medidas contrárias ao que prometeu durante a campanha. Apesar do nome, não é um crime previsto na legislação brasileira.\nRumos da política econômica são desafio para o governo Lula\nLula já discute com os ministros Dario Durigan, da Fazenda, e Bruno Moretti, do Planejamento, medidas fiscais que o governo pretende aprovar ainda neste ano.\nDurigan já entrou em contato com o presidente do Senado, Davi Alcolumbre (União-AP), e com o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), para agendar reuniões e negociar a aprovação das medidas.\nO ministro tem dito que o objetivo é garantir o cumprimento do centro da meta fiscal. Para 2027, a previsão citada pelo governo é de superávit primário equivalente a 0,5% do Produto Interno Bruto (PIB).\nEm seu pronunciamento, Lula também vai agradecer aos brasileiros pela reeleição, com destaque para mulheres, jovens e idosos, e dirá que vai trabalhar pela pacificação do país.\nInterlocutores do presidente avaliam que Lula tem uma oportunidade para isolar politicamente a extrema direita, representada pelo bolsonarismo. \nNo terceiro mandato, ele já havia prometido enfrentar o avanço desse grupo político, mas, na avaliação desses interlocutores, não conseguiu cumprir esse objetivo.\nPresidente da República, Luiz Inácio Lula da Silva, durante Cerimônia de Entregas Simultâneas do Governo Federal para Moradia, Saúde e Educação, no Palácio do Planalto, Brasília-DF\nRicardo Stuckert /",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 14:54:05 -0000"
-    },
-    {
-      "id": "eafae55bea8a",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Cadu de Lula diz que PEC da Segurança vai facilitar integração entre forças federais, estaduais e municipais",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/04/cadu-de-lula-governador-rn-seguranca-economia-governo.ghtml",
-      "summary": "Governador eleito do Rio Grande do Norte, Cadu de Lula (PT), em entrevista ao jornal Em Ponto, da GloboNews\nReprodução\nO governador eleito do Rio Grande do Norte, Cadu de Lula (PT), afirmou nesta quarta-feira (4) que a PEC da Segurança Pública vai facilitar a integração entre as forças federais, estaduais e municipais no combate ao crime organizado. A proposta foi aprovada pelo Senado em dois turnos na terça-feira (3) e segue para promulgação pelo Congresso Nacional.\n“Ontem foi uma excelente notícia a aprovação da PEC da Segurança Pública, que vai ter impacto lá no Rio Grande do Norte”, afirmou, em entrevista ao jornal Em Ponto, da GloboNews.\nQuestionado sobre a ausência de manifestações de Lula a respeito de como enfrentar a dívida, os juros e o endividamento público e privado no próximo mandato, Cadu disse que o presidente pode estar usando esse tempo para consolidar ideias.\n“E esse silêncio dele, talvez seja o tempo necessário, analisando como funciona a cabeça do presidente Lula, para quando ele se manifestar, ele já se manifestar em cima de ideias que vão estar consolidadas na cabeça dele para o rumo que ele vai dar para o país nos próximos anos.”\nAgora no g1\nAo defender a PEC da Segurança, Cadu afirmou que o avanço das organizações criminosas também atinge o Nordeste e defendeu o combate ao crime “com firmeza, com polícia na rua, com ocupação de territórios”.\nRenovação do PT\nCadu também foi questionado sobre as diferenças entre a nova geração de dirigentes do PT e os quadros mais antigos do partido na condução da agenda econômica. Ele rejeitou a ideia de conflito e afirmou que as lideranças tradicionais contribuíram para a chegada dos novos nomes.\n“Então, a gente não tem essa briga de gerações, vamos dizer assim\", explicou. “É natural que agora, no quarto mandato do presidente Lula, algumas dessas lideranças ocupem espaços no governo do presidente Lula.”\nAo falar sobre a relação com a governadora Fátima Bezerra (PT), Cadu ressaltou sua lealdade à antecessora, mas afirmou que terá uma gestão com características próprias.\n“Eu disse ao longo da campanha que eu tenho muita lealdade a Fátima, mas eu tenho um DNA próprio.”\nEx-secretário da Fazenda, ele disse ter uma trajetória mais voltada ao desenvolvimento e à geração de emprego e renda, enquanto destacou a atuação de Fátima no movimento sindical. “Então, o meu governo vai ser um governo diferente do dela. Eu acho que é isso, as ideias se complementam.”",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 11:15:12 -0000"
-    },
-    {
-      "id": "24610a2bde88",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Derrota de Trump e vitória de Lula enfraquecem direita nas Américas e vira oportunidade para presidente brasileiro pacificar país",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/derrota-de-trump-e-vitoria-de-lula-enfraquecem-direita-nas-americas-e-vira-oportunidade-para-presidente-brasileiro-pacificar-o-pais.ghtml",
-      "summary": "A derrota política sofrida pelo presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato e a reeleição do presidente Luiz Inácio Lula da Silva (PT) no Brasil enfraquecem a direita nas Américas e abrem uma oportunidade para o brasileiro buscar a pacificação do país.\nA avaliação é de assessores e interlocutores de Lula. Para eles, os dois movimentos colocam um freio na ofensiva da ala mais ideológica do governo Trump, que buscava ampliar a influência da direita nas Américas.\nOs democratas conquistaram o controle da Câmara dos Representantes e do Senado dos Estados Unidos nas eleições realizadas nesta terça (3), retirando dos republicanos o domínio das duas Casas do Congresso. \nOs democratas alcançado 54 das 100 cadeiras do Senado e 228 das 435 cadeiras da Câmara.\nTrump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula'\nNo Brasil, Lula foi reeleito no segundo turno, realizado em 25 de outubro, ao derrotar o senador Flávio Bolsonaro (PL). \nCom 100% das urnas apuradas, Lula recebeu 51,79% dos votos válidos, contra 48,21% de Flávio Bolsonaro.\nNa avaliação dos auxiliares do presidente brasileiro, os resultados nos dois países dificultam uma tentativa de tornar a direita hegemônica na região.\nEles lembram ainda que governos de direita eleitos recentemente na América do Sul já enfrentam dificuldades internas, o que, na visão desses interlocutores, pode limitar a capacidade de articulação regional desse campo político.\nNa Argentina, o presidente Javier Milei representa a direita. No Chile, José Antonio Kast, também de direita, assumiu a Presidência neste ano. Antes da eleição brasileira, o avanço conservador havia levado a direita a governar metade dos países da América do Sul.\nAgora, segundo os assessores de Lula, o novo cenário cria uma oportunidade para que o presidente, em seu quarto mandato, busque reduzir a polarização política no Brasil e ampliar o isolamento dos setores mais radicais da direita.\nNa avaliação desses interlocutores, Lula terá no próximo mandato a oportunidade de avançar numa agenda de pacificação que não conseguiu implementar plenamente durante o terceiro mandato e, com isso, tentar reduzir a força política do bolsonarismo.\nComo eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula\nPablo PORCIUNCULA e Andrew CABALLERO-REYNOLDS / AFP via Getty Images",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 11:15:11 -0000"
-    },
-    {
-      "id": "6c027b85c97e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/com-mercado-dividido-apos-reeleicao-de-lula-bc-decide-nesta-quarta-entre-novo-corte-ou-manutencao-da-taxa-de-juros.ghtml",
-      "summary": "O Comitê de Política Monetária (Copom) do Banco Central se reúne nesta quarta-feira (16) para definir o patamar da taxa básica de juros da economia brasileira, atualmente em 13,75% após cinco cortes seguidos.\n🕝A decisão do BC sobre a taxa de juros será anunciada após as 18h.\nNa primeira reunião do Copom após a reeleição do presidente Luiz Inácio Lula da Silva (PT) para mais um mandato, os economistas dos bancos estão divididos: a maioria ainda aposta em um novo corte, para 13,50% ao ano, mas parcela considerável prevê manutenção da Selic no atual patamar. \nCom a Selic em 13,75% ao ano, o Brasil lidera um ranking de 40 países elaborado pelos sites MoneYou e Lev Intelligence. Considerando os juros reais, que descontam a inflação estimada para os próximos 12 meses, a taxa brasileira é de 8,45% ao ano, seguida pela da Rússia, de 6,79% ao ano.\n🔎A taxa básica de juros da economia é o principal instrumento do BC para tentar conter as pressões inflacionárias, que tem efeitos, principalmente, sobre a população mais pobre. \nPiora de cenário\nAgora no g1\nDepois de confirmada a vitória de Lula, o mercado financeiro elevou consideravelmente suas projeções de inflação, reduziu as expectativas de crescimento da economia e passou a prever uma taxa de juros mais elevada do que antes. As estimativas para o dólar também subiram bastante.\nPara definir os juros, o BC atua com base no sistema de metas. Se as projeções de inflação estão em linha com as metas, é possível baixar os juros. Se estão acima, o Copom tende a manter ou subir a Selic. \nDesde o início de 2025, o objetivo foi fixado em 3% e será considerado cumprido se a inflação oscilar entre 1,5% e 4,5%.\nAo decidir a taxa básica de juros, o Copom considera principalmente a inflação esperada para os próximos anos, e não apenas a variação de preços observada nos últimos meses. \nIsso ocorre porque mudanças na Selic levam tempo para produzir efeitos sobre a economia. Neste momento, por exemplo, a autoridade monetária já está mirando o segundo trimestre de 2028, período considerado o \"horizonte relevante\" para suas projeções.\nEmbora leve em conta as estimativas do mercado para os próximos anos, que recentemente passaram a indicar câmbio mais depreciado e inflação mais alta, o BC também trabalha com suas próprias projeções para os indicadores econômicos. \nDeste modo, uma piora das expectativas do mercado não é automaticamente incorporada ao cenário utilizado pela autoridade monetária para definir a taxa de juros.\nOpinião dos analistas\nNa última reunião, Banco Central reduziu a taxa de juros pela quinta vez seguida, e Selic foi a 13,75% ao ano\nDe acordo com comunicado do C6 Bank, assinado pelo economista-chefe Felipe Salles, o Copom deve manter a taxa Selic em 13,75% ao ano nesta quarta-feira, interrompendo o ciclo de cortes de juros que vinha sendo implementado.\n\"Na nossa visão, a piora do cenário prospectivo para a inflação [antes mesmo da forte deterioração desta semana] reduz o espaço para novos cortes. Também projetamos manutenção da Selic em 13,75% na reunião de dezembro, com a taxa permanecendo nesse patamar ao final de 2026 e de 2027\", diz a nota do C6 Bank.\nJá a economista-chefe do banco Inter, Rafaela Vitória, manteve expectativa que o BC promova um corte de 0,25 ponto percentual na taxa de juros, para 13,50% ao ano, e que, depois, comunique uma pausa no ciclo de redução na próxima reunião. \n\"Apesar da maior incerteza e aumento do prêmio de risco na curva de juros futuros, a taxa Selic em 13,50% permanece restritiva o suficiente para amortecer os choques inflacionários esperados para o começo de 2027, considerando o horizonte da política monetária o 2º trimestre de 2028, mas não vemos espaço para a continuidade dos cortes nesse momento [após a decisão desta quarta]\", diz a analista do banco Inter. \nA decisão do BC sobre a taxa de juros será anunciada após as 18h nesta quarta-feira (4)\nJornal Nacional/ Reprodução",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 03:00:01 -0000"
-    },
-    {
-      "id": "43cab2e99d6b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Escândalo em banco do Paraguai tem oito presos, protestos e pedido de impeachment do presidente",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/escandalo-em-banco-do-paraguai-tem-oito-presos-protestos-e-pedido-de-impeachment-do-presidente.shtml",
-      "summary": "As denúncias de fraude envolvendo o Ueno Bank, no Paraguai, levaram à prisão de oito pessoas ligadas à instituição financeira, protestos em frente às agências bancárias e o anúncio de fechamento do banco e do início do processo de recuperação judicial.\nLeia mais (11/04/2026 - 14h15)",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "BBC Brasil"
-      ],
-      "score": 75,
-      "publishedRaw": "04 Nov 2026 14:15:00 -0300"
-    },
-    {
-      "id": "87c48d448e15",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo Lula põe sigilo em dados do Desenrola 3.0 e de proibição a bets",
-      "link": "https://www.cnnbrasil.com.br/politica/governo-lula-poe-sigilo-em-dados-do-desenrola-3-0-e-de-proibicao-a-bets/",
-      "summary": "Administração federal negou pedido de jornal, via LAI, para acessar estudos e documentos que resultaram na criação das medidas antes do pleito presidencial",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 17:50:26 +0000"
-    },
-    {
-      "id": "f0732812cfd6",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Presidente do Chile defende ‘manutenção da democracia’ e diz que virá ao Brasil para posse de Lula",
-      "link": "https://www.estadao.com.br/politica/eleicoes/presidente-do-chile-defende-manutencao-da-democracia-e-diz-que-vira-ao-brasil-para-posse-de-lula/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 14:43:37 +0000"
-    },
-    {
-      "id": "677954cf226a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Exames de Lula ‘estão dentro da normalidade’, diz Hospital Sírio-Libanês",
-      "link": "https://www.estadao.com.br/politica/exames-de-lula-estao-dentro-da-normalidade-diz-hospital-sirio-libanes/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 10:33:28 +0000"
-    },
-    {
-      "id": "99dda8e27bdd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula terá até 53 indicações pela frente em Senado mais à direita após prazo de aprovação triplicar",
-      "link": "https://www.estadao.com.br/politica/lula-tera-ate-53-indicacoes-pela-frente-em-senado-mais-a-direita-apos-prazo-de-aprovacao-triplicar/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Wed, 04 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "7628afef48ed",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "O que Lula tem de fazer para não virar ‘professor de Deus’",
-      "link": "https://www.estadao.com.br/politica/marcelo-godoy/o-que-lula-tem-de-fazer-para-nao-virar-professor-de-deus/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Tue, 03 Nov 2026 23:00:00 +0000"
     },
     {
       "id": "a8115f52e8b0",
@@ -583,106 +635,24 @@
       "tags": [
         "impeachment"
       ],
-      "crossOutlets": [
-        "Folha de São Paulo"
-      ],
-      "score": 75,
+      "crossOutlets": [],
+      "score": 71,
       "publishedRaw": "Wed, 04 Nov 2026 10:54:38 GMT"
     },
     {
-      "id": "dcafde27b9e5",
-      "source": "G1 - Política",
+      "id": "8194a6e1e281",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula comemora aprovação da PEC da Segurança Pública e reforça criação de ministério",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/03/lula-comemora-aprovacao-da-pec-da-seguranca-publica.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) comemorou nesta terça-feira (3) a aprovação da Proposta de Emenda à Constituição (PEC) da Segurança Pública.\nA proposta, que agora segue para promulgação, dá mais poder ao governo federal para agir contra as organizações criminosas, amplia a cooperação entre União, estados e municípios e prevê punições mais severas para os chefes de facções criminosas, que deverão cumprir pena obrigatoriamente em prisão de segurança máxima (veja mais detalhes abaixo).\nEm uma rede social, Lula reforçou que, a partir da aprovação da PEC, vai criar o Ministério da Segurança Pública. Na postagem, o presidente não anunciou quem vai assumir a pasta.\n\"Vamos somar a esse avanço a criação do Ministério da Segurança Pública, com foco em inteligência, planejamento e cooperação com estados e municípios para enfrentar as facções e as milícias\", escreveu Lula.\nSenado aprova PEC da Segurança Pública; texto vai a promulgação\n\"O povo brasileiro tem o direito de trabalhar, voltar para casa e viver com tranquilidade. Garantir esse direito é um compromisso do Governo do Brasil.\"\nO vice-presidente Geraldo Alckmin também comemorou a aprovação da PEC e disse que a partir de agora será \"combate sem trégua ao crime organizado e proteção ao cidadão\".\n\"Agora nós vamos poder atuar com firmeza no combate ao crime, junto com estados e municípios. A União vai assumir um papel maior protegendo o cidadão e colocando criminosos na cadeia. Na prática, integração entre as polícias, compartilhamento de informações, mais recursos para a segurança. Combate sem trégua ao crime organizado e proteção ao cidadão.\"\nLuiz Inácio Lula da Silva (PT)\nRicardo Stuckert\nPEC da Segurança Pública\nA proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP), cujo objetivo é integrar o combate ao crime organizado entre os entes.\nDe acordo com o texto, União, Estados e Distrito Federal poderão criar leis na área de segurança pública, incluindo forças-tarefa intergovernamentais, organização das polícias e guardas municipais e do sistema socioeducativo.\nOutro ponto central da PEC da Segurança Pública é sobre o combate a crimes violentos e facções criminosas.\nEntre as medidas estão a obrigatoriedade de prisão em estabelecimento penal de segurança máxima ou de natureza especial.\nTambém fica proibida ou restringida a progressão de regime, a concessão de liberdade provisória, com ou sem fiança, e de saída temporária.\nA PEC também permite a expropriação de todo e qualquer bem, direito ou valor econômico envolvido com as atividades criminosas. As regras valem para organizações criminosas, paramilitares e de milícia privada.\nA proposta permite ainda:\ncriação de polícias municipais para o policiamento ostensivo e comunitário;\nampliação da atuação da Polícia Rodoviária Federal (PRF) para o policiamento de hidrovias e ferrovias, além de apoiar outras forças de segurança, quando requisitada pelo governador;\nmanter a Polícia Federal e PRF sob competência privativa da União, assim como as normas para atividades de inteligência.\nMinistério da Segurança Pública\nUm dos nomes fortes para assumir a chefia do novo ministério é do promotor de Justiça do Grupo de Atuação Especial de Repressão ao Crime Organizado (Gaeco) de Presidente Prudente (SP), Lincoln Gakiya, conhecido pela atuação no combate ao Primeiro Comando da Capital (PCC). \nDias antes do segundo turno, Gakyia participou de um jantar na casa do advogado Marco Aurélio de Carvalho, coordenador da campanha de Lula no estado de São Paulo. Durante o encontro, o promotor foi consultado sobre os principais desafios da segurança pública e compartilhou experiências no combate ao crime organizado. Mas não houve convite para que o promotor assumisse o cargo. \nSegundo interlocutores do presidente Lula, o ponto a favor de Gakyia é sua biografia, por representar o combate ao crime organizado no país. \nNo entanto, o promotor não tem uma relação estabelecida com o presidente e teria que criar essa relação de confiança com Lula para ser uma opção real para comandar o Ministério da Segurança, o que ainda não aconteceu. \nUma outra questão é que o presidente Lula ainda não definiu nomes para ministérios do quarto mandato, o que, na avaliação desses interlocutores, pode fazer total diferença na hora do petista fazer sua escolha para a Segurança. \nOs eventuais papeis de Fernando Haddad, Camilo Santana e André Fonteles no quarto mandato ainda não foram definidos.",
+      "title": "As dúvidas que as urnas deixaram",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/as-duvidas-que-as-urnas-deixaram.shtml",
+      "summary": "O Brasil saiu das eleições presidenciais tão dividido quanto nelas entrou. Assim continuará? Depende muito do que acontecer com a extrema-direita e do que o governo e as forças democráticas fizerem para garantir a normalidade política.\nLeia mais (11/04/2026 - 20h10)",
       "tags": [
-        "segurança pública",
-        "Lula"
+        "urnas"
       ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Estadão"
-      ],
-      "score": 73,
-      "publishedRaw": "Tue, 03 Nov 2026 23:39:00 -0000"
-    },
-    {
-      "id": "d3c97eeee600",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Dólar opera em queda, de olho em vitória democrata no Congresso americano; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar opera em queda nesta quarta-feira (4), com um recuo de 0,34% perto das 14h45, cotado a R$ 5,4686. Já o Ibovespa, principal índice da bolsa brasileira, tinha alta de 1,38% no mesmo horário, aos 167.821 pontos.\nAs atenções ficam voltadas para o resultado das eleições de meio de mandato nos Estados Unidos, com a vitória democrata no Congresso americano. Investidores também avaliam os sinais de que o governo deve enviar a medida provisória do imposto seletivo da reforma tributária e a decisão de juros do Comitê de Política Monetária (Copom), que deve ser divulgada após o fechamento dos mercados.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ A vitória democrata nas midterms dos EUA fica no centro das atenções. O resultado foi lido por investidores como um recado contrário ao atual governo de Donald Trump, e indica que o presidente americano pode ter mais dificuldade para aprovar medidas sobre gastos públicos, impostos e regulação. \n▶️ No Brasil, o foco fica com a decisão de juros do Banco Central, prevista para o final da tarde. A expectativa é que o Copom mantenha a Selic inalterada em 13,75% ao ano e adote um discurso mais duro como resposta à deterioração do cenário de inflação e à maior pressão fiscal.\n▶️ O andamento da reforma tributária também fica no radar, em meio à sinalização de que o governo pretende prorrogar a cobrança do Imposto sobre Produtos Industrializados (IPI) em janeiro de 2027 para setores que passarão a ser tributados pelo imposto seletivo, também conhecido como imposto do pecado.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +0,79%;\nAcumulado do mês: +0,79%;\nAcumulado do ano: -0,03%.\n📈Ibovespa\n\nAcumulado da semana: --18,12%\nAcumulado da semana: -1,42%\nAcumulado do mês: --1,42%;\nAcumulado do ano: +2,74%.\nEleições de meio de mandato nos EUA\nO Partido Democrata conquistou na madrugada desta quarta-feira (4) a maioria das duas casas do Congresso dos Estados Unidos. \nO resultado configura uma derrota histórica para o presidente republicano Donald Trump em meio às eleições legislativas de meio de mandato, conhecidas como midterms, realizadas na terça-feira (3).\nA legenda manteve suas cadeiras no Senado e avançou sobre vagas historicamente ocupadas por Republicanos. Os democratas elegeram 20 senadores, sendo sete de virada, e chegaram a 54 das 100 cadeiras da Casa até a última atualização desta reportagem. Eram necessárias 51 cadeiras para alcançar a maioria.\nApós a confirmação do controle democrata sobre as duas Casas, o presidente Donald Trump afirmou, em entrevista ao jornal americano \"The New York Times\", estar disposto a governar com os democratas.\n\"Estou absolutamente disposto a aceitar esses resultados\", afirmou.\nSegundo o americano, sua gestão deve buscar acordos com integrantes do partido adversário.\n\"Vamos trabalhar com os democratas e esperamos colaborar com eles. Provavelmente chegaremos a algum entendimento\", declarou.\nDias antes, o republicano levantou dúvidas sobre a sua reação a uma eventual derrota ao afirmar que só reconheceria os resultados se as eleições \"fossem limpas\".\nLEIA MAIS\nEntenda por que as midterms podem mexer com dólar e juros no Brasil\nO que são as midterms\nBolsas globais\nNos Estados Unidos, os três principais índices de Wall Street operavam mistos nesta quarta-feira, conforme investidores avaliavam os resultados das midterms no país.\nPerto das 14h45, o Dow Jones tinha alta de 2,88%, enquanto o S&amp;P 500 subia 1,82% e o Nasdaq Composite tinha ganhos de 1,99%.\nEntre os destaques negativos da sessão estavam os papéis da SpaceX e da Tesla, empresas do bilionário Elon Musk — que gastou quase meio bilhão de dólares para apoiar candidatos republicanos no Texas, estado que abriga as duas companhias. \nNo mesmo horário, as ações da SpaceX caíam 2,71%, enquanto as da Tesla tinha queda de 2,09%.\n\"No geral, os resultados [das eleições] tiveram um impacto moderado nos mercados até o momento. Os investidores deixarão de negociar a incerteza dos resultados eleitorais e passarão a negociar a realidade do que eles significam para as políticas públicas\", disse Kathleen Brooks, diretora de pesquisa da XTB, à Reuters.\nSegundo Brooks, os resultados acabam sendo uma notícia negativa para a Tesla e a SpaceX, já que pode colocar em dúvida uma possível fusão entre as duas companhias.\n\"Embora o Congresso não possa impedir uma fusão, ele poderia retardá-la por meio de uma análise mais rigorosa\", disse.\n\"Musk investiu centenas de milhões no Partido Republicano antes dessas eleições, e podemos ver as ações ligadas a Musk em dificuldades agora que seus inimigos políticos recuperaram o controle do Congresso\", completou.\nNa Europa, as bolsas da região tiveram alta generalizada na sessão. O índice pan-europeu STOXX 600 subiu 1,84%, atingindo a máxima em dois meses.\nEntre os demais índices locais, o DAX, da Alemanha, subiu 2,22%, enquanto o CAC-40, da França, avançou 1,96% e o FTSE 100, do Reino Unido, ganhou 1,79%.\nNa Ásia, as ações chinesas tiveram a maior alta em sete meses, conforme o resultado das eleições de meio de mandato dos Estados Unidos deu aos investidores um pretexto para comprar papéis. \nO SSEC, Índice de Xangai, teve alta de 2,16%, enquanto o CSI300, que reúne grandes empresas chinesas, subiu 2,31%. Na Coreia do Sul, o Kospi valorizou 0,62% e o Hang Seng, de Hong Kong, teve ganhos de 1,67%. No Japão, o Nikkei recuou 1,42%.\n* Com informações da agência de notícias Reuters.\nDólar\nKarolina Grabowska/Pexels",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Wed, 04 Nov 2026 12:01:09 -0000"
-    },
-    {
-      "id": "c49c3a615bfc",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Vice de Trump culpa guerra no Irã por derrota republicana no Congresso: 'O próprio presidente disse isso'",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/o-motivo-pelo-qual-perdemos-foi-a-guerra-diz-vice-de-trump.ghtml",
-      "summary": "J.D. Vance e Donald Trump\nThe White House/Reuters\nO vice-presidente dos EUA, J.D. Vance, afirmou nesta quarta-feira (4) que os republicanos perderam o controle do Congresso para os democratas por causa da guerra no Irã. Em um texto postado em suas redes sociais, Vance argumenta que o conflito está por trás da derrota nas urnas nas eleições de meio de mandato.\n\"O motivo pelo qual perdemos foi a guerra. O próprio presidente disse isso ontem à noite\".\nACOMPANHE: as últimas notícias sobre as midterms\nMAPAS mostram resultados das  em tempo real\n👉 À imprensa americana, Trump reconheceu na madrugada de quarta (4) que a guerra no Irã teve um papel nas derrotas dos republicanos. “Acho que o Irã teve parte nisso”, disse em entrevista à Fox News. O presidente foi na mesma linha em declaração ao jornal “The Wall Street Journal\": \"O Irã foi um dos fatores”.\nVance afirma que, embora os eleitores republicanos tenham comparecido às urnas em níveis relativamente altos, muitos que haviam votado em Trump em 2024 migraram para os democratas nas midterms deste ano.\n\"O principal problema não foi o comparecimento. O principal problema foi que muitas pessoas que votaram em Trump/Vance em 2024 votaram nos democratas em 2026\", escreveu.\nSegundo ele, pesquisas internas indicavam que esses eleitores estavam insatisfeitos principalmente com a guerra, o custo de vida e a inflação, a prioridade dada à política de \"America First\" (América Primeiro) e a relação dos EUA com Israel. \nVance conclui, portanto, que o principal motivo da derrota republicana não foi a baixa participação dos eleitores republicanos, mas a mudança de voto, tendo a guerra como causa central.\n\"Se você quiser argumentar que valeu a pena, que perder o Senado pelos próximos seis anos valeu a pena, então faça esse argumento. Diga que foi um preço que valia a pena pagar. Concorde-se ou não, isso pelo menos é honesto. Mas todo mundo sabe por que perdemos\", escreveu Vance.\nTrump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula'",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Wed, 04 Nov 2026 16:16:13 -0000"
-    },
-    {
-      "id": "044b74aa7e9f",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Capa da revista 'Time' ilustra Trump com boca tapada por adesivo de eleitores após derrota histórica no Congresso",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/capa-da-revista-time-mostra-trump-com-boca-tapada-apos-derrota-historica-no-congresso.ghtml",
-      "summary": "Capa da revista 'Time' após derrota do partido de Trump na eleição para o Congresso dos EUA de 2026\nReprodução\nA \"Time\", uma das revistas de notícias mais tradicionais dos Estados Unidos, publicou uma capa com Trump de boca tapada por um adesivo após a derrota histórica do partido do presidente na eleição de meio de mandato dos EUA. \nO adesivo, com a frase “I voted” (Eu votei), é distribuído aos eleitores americanos depois que eles votam. Na capa, ele sugere que o resultado das urnas na terça-feira (3) calou o presidente.\nFoi a vitória legislativa mais expressiva de um partido nos EUA desde 1974, ano em que o escândalo de Watergate levou à renúncia do republicano Richard Nixon.\nLeia mais: Eleições nos EUA: democratas conquistam maioria da Câmara e do Senado, impõem derrota a Trump e assumem controle do Congresso\nA reportagem da revista apresenta entrevistas com líderes democratas, estrategistas e membros do Congresso sobre como o partido planeja usar seu poder contra Trump e os republicanos após a vitória nas urnas. \nTrump, que já venceu as eleições de 2016 e 2024, está em seu segundo mandato e, portanto, não pode disputar um terceiro mandato nos termos da regra constitucional.\nTrump minimiza resultados das eleições nos EUA: 'Eu não estava na cédula'\nDerrota nas midterms\nO Partido Democrata conquistou na madrugada desta quarta-feira (4) a maioria das duas casas do Congresso dos Estados Unidos. O resultado configura uma derrota histórica para o presidente Trump.\n👉  Toda a Câmara dos Deputados americana é renovada a cada dois anos. Como existem 435 cadeiras na Casa, um partido precisa conquistar pelo menos 218 assentos para obter a maioria absoluta. No Senado, onde os democratas também obtiveram maioria, havia 35 cadeiras em disputa das 100 no total.\nAs eleições devem alterar drasticamente o equilíbrio de poder em Washington, já que o partido de Donald Trump perdeu o controle que tinha nas duas Casas.\nRevista 'Time' mostra Trump de boca tapada após derrota em eleição de meio de mandato\nReprodução",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": "Wed, 04 Nov 2026 13:52:50 -0000"
-    },
-    {
-      "id": "0172d0e95d9c",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Republicanos culpam Trump pela derrota no Congresso; veja os resultados",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
-      "summary": "Vitórias em Estados como Texas e Kansas confirmam 'onda azul' que dá comando do Congresso aos democratas durante o tempo restante do mandato do presidente.",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 72,
-      "publishedRaw": ""
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "04 Nov 2026 20:10:00 -0300"
     },
     {
       "id": "cb3b0117b9ae",
@@ -715,49 +685,34 @@
       "publishedRaw": "Wed, 04 Nov 2026 16:36:01 +0000"
     },
     {
-      "id": "b7e36d04183b",
-      "source": "Poder360",
+      "id": "8df076c00344",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Rogério Marinho lança candidatura à presidência do Senado",
-      "link": "https://www.poder360.com.br/poder-partidos-politicos/rogerio-marinho-lanca-candidatura-a-presidencia-do-senado-2/",
-      "summary": "Coordenador da campanha de Flávio Bolsonaro (PL) ao Planalto afirmou ter apoio de 33 senadores para disputar o cargo; ele concorrerá com o presidente da Casa, Davi Alcolumbre",
-      "tags": [
-        "candidatura"
-      ],
-      "crossOutlets": [],
-      "score": 60,
-      "publishedRaw": "Wed, 04 Nov 2026 18:40:05 +0000"
-    },
-    {
-      "id": "fc6bbece415c",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
-      "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-      "summary": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação Por 75 votos a 0, PEC é aprovada. Governistas aprovaram que as emendas sobre a redução da maioridade penal tramitem de forma separada. O Senado aprova PEC da Segurança Pública. O texto prevê o \"SUS da Segurança\" e o fim da \"saidinha\" de presos. Veja detalhes da proposta. A PEC seria analisada antes do 2º turno da eleição, mas um impasse sobre redução da maioridade penal adiou votação. . O Senado aprovou que as emendas sobre a redução da maioridade penal tramitem de forma separada da PEC da Segurança Pública.. A oposição defende a redução para até 14 anos, dependendo da gravidade do crime, enquanto uma proposta governista prevê 16 anos para crimes hediondos.. Para a PEC ser aprovada, a proposta precisa do apoio de pelo menos 49 senadores, em dois turnos.",
-      "tags": [
-        "segurança pública"
-      ],
-      "crossOutlets": [],
-      "score": 57,
-      "publishedRaw": "Wed, 04 Nov 2026 00:09:27 -0000"
-    },
-    {
-      "id": "03b64aad87dd",
-      "source": "G1 - Economia",
-      "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Calendário de novembro 2026: veja datas de pagamento do INSS, Bolsa Família, pé-de-meia e mais",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/calendario-de-novembro-2026.ghtml",
-      "summary": "Calendário de novembro 2026\nGoverno Federal\nO mês de novembro de 2026 já começou, e com ele chegam os pagamentos de programas e benefícios como INSS, Pé-de-Meia e Bolsa Família, entre outros. Alguns dos depósitos começam já nos primeiros dias do mês, enquanto outros ficam para a segunda quinzena.\nConfira, abaixo, o calendário de pagamentos dos seguintes benefícios:\nINSS\nBolsa Família\nPé-de-meia\nBPC/Loas\nSaque-aniversário do FGTS\nINSS\nO pagamento do INSS de novembro de 2026 começa no dia 24 de novembro para os beneficiários que recebem até um salário mínimo. Os depósitos seguem até 7 de dezembro, conforme o número final do benefício.\nCONFIRA MAIS INFORMAÇÕES: Pagamento do INSS de novembro: veja calendário e datas\nPara quem recebe acima do salário mínimo, os pagamentos da competência de novembro começam em 1º de dezembro e terminam em 7 de dezembro. As datas fazem parte do calendário anual divulgado pelo Instituto Nacional do Seguro Social (INSS).\nVeja abaixo as datas de pagamento para quem ganha até um salário mínimo:\nFinal 1: 24/11\nFinal 2: 25/11\nFinal 3: 26/11\nFinal 4: 27/11\nFinal 5: 30/11\nFinal 6: 1º/12\nFinal 7: 2/12\nFinal 8: 3/12\nFinal 9: 4/12\nFinal 0: 7/12\nCalendário de quem recebe acima de um salário mínimo\nFinais 1 e 6: 1º/12\nFinais 2 e 7: 02/12\nFinais 3 e 8: 03/12\nFinais 4 e 9: 04/12\nFinais 5 e 0: 07/12\nAgora no g1\nBolsa Família\nA Caixa Econômica Federal inicia os pagamentos de novembro do Bolsa Família no dia 16. Os primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1.\nCONFIRA MAIS INFORMAÇÕES: Bolsa Família 2026: veja calendário de pagamentos em novembro\nO dinheiro é disponibilizado nos últimos 10 dias úteis de cada mês, de forma escalonada. A exceção é o mês de dezembro, quando os pagamentos são antecipados.\nConfira o calendário do Bolsa Família para novembro de 2026: \n16/11: pagamentos para NIS com final 1;\n17/11: pagamentos para NIS com final 2;\n18/11: pagamentos para NIS com finais 3, 4, 5, 6, 7, 8, 9 e 0.\nAo longo do ano, a previsão de pagamentos é:\nDezembro: de 10/12 a 23/12.\nPé-de-meia\nO mês de novembro começou e milhares de beneficiários já querem saber quando será realizado o pagamento do programa Pé-de-Meia. Nesta nova rodada, o benefício será destinado aos estudantes da rede pública que cumpriram a exigência mínima de frequência escolar, conforme os critérios do programa.\nCONFIRA MAIS INFORMAÇÕES: Calendário Pé-de-Meia de novembro: veja quem recebe a próxima parcela e as datas de pagamento\nConfira o calendário do Pé-de-Meia de novembro:\nJaneiro e fevereiro: 23 de novembro\nMarço e abril: 24 de novembro\nMaio e junho: 25 de novembro\nJulho e agosto: 26 de novembro\nSetembro e outubro: 27 de novembro\nNovembro e dezembro: 30 de novembro\nCalendário de benefícios de novembro 2026\nRafa Neddermeyer/Agência Brasil\nBPC/Loas\nO calendário de pagamento do BPC/Loas de novembro de 2026 já está disponível. Os beneficiários que recebem até um salário mínimo terão os valores liberados entre 24 de novembro e 7 de dezembro, de acordo com o número final do benefício.\nCONFIRA MAIS INFORMAÇÕES: Calendário BPC/Loas novembro 2026: veja datas de pagamento\nO Benefício de Prestação Continuada (BPC) segue o calendário de pagamentos do Instituto Nacional do Seguro Social (INSS). Em setembro, os depósitos começam pelos benefícios com final 1 e avançam até o final 0.\nConfira abaixo o calendário de pagamento do BPC/Loas de novembro:\nFinal 1: 24/11\nFinal 2: 25/11\nFinal 3: 26/11\nFinal 4: 27/11\nFinal 5: 30/11\nFinal 6: 1/12\nFinal 7: 2/12\nFinal 8: 3/12\nFinal 9: 4/12\nFinal 0: 7/12\nSaque-aniversário do FGTS\nO saque-aniversário do FGTS de novembro de 2026 já está disponível para os trabalhadores que nasceram neste mês e aderiram à modalidade. O dinheiro pode ser retirado entre 1º de novembro e 30 de dezembro de 2026.\nCONFIRA MAIS INFORMAÇÕES: Saque-aniversário FGTS novembro: veja calendário e quem pode sacar\nO saque-aniversário permite que o trabalhador retire, uma vez por ano, uma parte do saldo disponível nas contas do FGTS no mês de seu aniversário. A adesão à modalidade é opcional. Quem não fez a opção permanece no modelo tradicional, chamado de saque-rescisão.\nConfira o calendário do saque-aniversário do FGTS:\nJaneiro: de 2 de janeiro a 31 de março de 2026\nFevereiro: de 2 de fevereiro a 30 de abril de 2026\nMarço: de 3 de março a 29 de maio de 2026\nAbril: de 1º de abril a 30 de junho de 2026\nMaio: de 4 de maio a 31 de julho de 2026\nJunho: de 1º de junho a 31 de agosto de 2026\nJulho: de 1º de julho a 30 de setembro de 2026\nAgosto: de 3 de agosto a 30 de outubro de 2026\nSetembro: de 1º de setembro a 30 de novembro de 2026\nOutubro: de 1º de outubro a 30 de dezembro de 2026\nNovembro: de 2 de novembro de 2026 a 29 de janeiro de 2027\nDezembro: de 1º de dezembro de 2026 a 26 de fevereiro de 2027",
+      "title": "Corpo de Bombeiros socorre mais de 400 famílias em Chapecó após tornado",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/corpo-de-bombeiros-socorre-mais-de-400-familias-em-chapeco-apos-tornado/",
+      "summary": "Temporal provocou estragos nesta quarta-feira (4) após passagem de fenômeno climático; até o momento não há registro de vítima fatal na cidade",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
-      "score": 51,
-      "publishedRaw": "Wed, 04 Nov 2026 03:00:02 -0000"
+      "score": 58,
+      "publishedRaw": "Wed, 04 Nov 2026 23:49:50 +0000"
+    },
+    {
+      "id": "6d67b4ccdd66",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "De casa sem janela em Duque de Caxias à Assembleia da Flórida: a trajetória do carioca eleito deputado nos EUA",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/04/duque-de-caxias-assembleia-da-florida-trajetoria-do-carioca-eleito-deputado-nos-eua.ghtml",
+      "summary": "Felipe Sousa-Lazaballet é o primeiro brasileiro eleito para a Assembleia Legislativa da Flórida\nA casa onde Felipe Sousa-Lazaballet passou a infância, em Santa Cruz da Serra, em Duque de Caxias, na Baixada Fluminense, não tinha sequer janelas. Quando chovia, a família colocava plástico para impedir a entrada da água. Quase três décadas depois, o carioca de 40 anos foi eleito deputado estadual na Flórida, nos Estados Unidos, pelo Partido Democrata.\nFelipe será o primeiro brasileiro a ocupar uma cadeira na Assembleia Legislativa do estado. Ele venceu a republicana Bonnie Jackson em uma região considerada reduto de apoiadores do presidente Donald Trump.\n✅Clique aqui para seguir o canal do g1 RJ no WhatsApp\nFelipe Sousa-Lazaballet, de 40 anos, é o primeiro brasileiro eleito para a Assembleia Legislativa da Flórida\nAcervo pessoal\nNascido no Rio de Janeiro, em 1986, Felipe cresceu em uma família humilde. Filho de uma cearense, ele conta que a mãe trabalhava em até três empregos para sustentar os filhos.\n“Eu cresci numa família muito humilde. A minha mãe era empregada doméstica. Trabalhava três empregos, de 5h da manhã até meia-noite, quase todos os dias. Ela se sacrificou muito, né? A gente não tinha o suficiente pra ter uma vida boa. Inclusive, a casa que eu morava na época não tinha nem janela. A gente colocava plástico pra água não entrar quando chovia”, relembrou.\nFelipe Sousa-Lazaballet\nDivulgação\nMudança para os EUA aos 14 anos\nFelipe tinha 14 anos quando deixou o Brasil em busca de uma vida melhor nos Estados Unidos. A irmã, que se tornou uma segunda mãe, o aguardava no país. A adaptação, segundo ele, foi desafiadora\nPara pagar a universidade, ele trabalhava à noite. A experiência como imigrante e os desafios enfrentados ao longo da juventude também foram decisivos para aproximá-lo da política.\n“Eu trabalhava à noite pra poder pagar a universidade. Então foi uma trajetória difícil, mas foi dessa maneira que eu também me engajei na política, porque eu me senti injustiçado, marginalizado por ser imigrante documentado, por ser parte da comunidade LGBT+. E aí foi quando eu entendi que eu poderia fazer parte de um movimento social que criava mudanças sociais também”, contou.\nAos 24 anos, Felipe percorreu mais de 2 mil quilômetros a pé, de Miami até Washington, em uma caminhada para chamar atenção para as dificuldades enfrentadas por jovens imigrantes.\nFelipe Sousa-Lazaballet nos Estados Unidos\nAcervo pessoal\nDois anos depois, recebeu uma permissão temporária de permanência nos Estados Unidos por meio de um programa federal, o DECA.\n👉 DACA foi um programa federal criado durante o governo de Barack Obama para oferecer proteção temporária contra a deportação para imigrantes de até 31 anos que haviam entrado nos EUA antes dos 16. Os beneficiários também recebiam autorização para trabalhar legalmente no país.\nEm 2020, casou-se com Luis Sousa-Lazaballet.\nFelipe é diretor-executivo de uma organização não governamental que ajuda cerca de 35 mil imigrantes. Nos últimos meses, também se dedicou à campanha eleitoral.\nA mobilização incluiu visitas a dezenas de milhares de residências e contatos por telefone para incentivar os eleitores a votar.\n“Chegamos a tocar em 42 mil portas, ou seja, porta a porta. Ligamos para 20 mil pessoas no último fim de semana para incentivá-las a sair e a votar, contar pra elas da importância do voto”, afirmou.\nNa campanha, o democrata defendeu propostas para ampliar a oferta de moradias acessíveis, combater o aumento do custo de vida e melhorar o acesso à saúde.\nFelipe Sousa-Lazaballet após obter sua cidadania americana em 2021\nArquivo Pessoal\nSete brasileiros eleitos deputados estaduais\nAlém de Felipe, outros seis brasileiros foram eleitos deputados estaduais nos Estados Unidos nestas eleições. Entre eles está Elaine Marzola, também do Rio de Janeiro.\nOs demais são Farley Santos, Priscila Sousa e Rita Mendes, de Minas Gerais; Danillo Sena, de Pernambuco; e Lorena Betts, de Mato Grosso.\nAs eleições de meio de mandato, conhecidas como midterms, ocorrem nos Estados Unidos a cada quatro anos, entre as eleições presidenciais. Nelas, os americanos elegem ou renovam parte dos representantes no Congresso e escolhem governadores e deputados estaduais, dependendo do estado.\nPara Felipe, a vitória é resultado da mobilização coletiva e da participação de pessoas comuns na busca por mudanças.\n“Eu acho que o que eu aprendi desde sempre foi que, quando pessoas comuns decidem criar mudanças sociais e se juntam, se organizam e estão realmente enraizadas no amor e na justiça, tudo é possível”, afirmou.",
+      "tags": [
+        "MBL"
+      ],
+      "crossOutlets": [],
+      "score": 50,
+      "publishedRaw": "Wed, 04 Nov 2026 22:15:37 -0000"
     }
   ]
 }
