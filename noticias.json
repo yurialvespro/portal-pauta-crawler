@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:35:05.527339+00:00",
+  "generated_at": "2026-11-08T13:05:52.137278+00:00",
   "items": [
     {
       "id": "56edbd67438c",
@@ -18,52 +18,33 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 91,
+      "score": 92,
       "publishedRaw": "Sat, 07 Nov 2026 08:30:00 +0000"
     },
     {
-      "id": "8cdc86e06d4a",
-      "source": "BBC Brasil",
+      "id": "11b866a75adf",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
-      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
+      "category": "Política",
+      "title": "Quaest: 81% acham que Brasil sai mais dividido das Eleições 2026",
+      "link": "https://www.cnnbrasil.com.br/politica/quaest-81-acham-que-brasil-sai-mais-dividido-das-eleicoes-2026/",
+      "summary": "Pesquisa \"O Brasil depois das urnas\" ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "eleições",
+        "eleições 2026"
       ],
       "crossOutlets": [
+        "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
       ],
       "score": 91,
-      "publishedRaw": "Thu, 05 Nov 2026 09:21:03 GMT"
-    },
-    {
-      "id": "1b52bdf70339",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Em primeira entrevista desde que deixou o Brasil, senador nega ter recebido ajuda de governos; autoridades americanas, no entanto, afirmam que viagem teve participação da Casa Branca.",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 91,
-      "publishedRaw": "Thu, 05 Nov 2026 21:35:09 GMT"
+      "publishedRaw": "Sun, 08 Nov 2026 12:19:43 +0000"
     },
     {
       "id": "23195103ba6a",
@@ -88,27 +69,6 @@
       "publishedRaw": "Sat, 07 Nov 2026 03:00:00 -0000"
     },
     {
-      "id": "c274d07ac9b1",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Ueno Bank patrocinou evento com Eduardo Bolsonaro nos EUA",
-      "link": "https://www.poder360.com.br/poder-internacional/ueno-bank-patrocinou-evento-com-eduardo-bolsonaro-nos-eua/",
-      "summary": "Banco foi um dos financiadores do Hispanic Prosperity Gala, realizado em fevereiro, em resort de Donald Trump na Flórida",
-      "tags": [
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 90,
-      "publishedRaw": "Sat, 07 Nov 2026 23:48:13 +0000"
-    },
-    {
       "id": "8e6f074bc66e",
       "source": "G1 - Política",
       "tipo": "mainstream",
@@ -122,10 +82,12 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo"
+        "G1 - Mundo",
+        "Poder360"
       ],
       "score": 89,
       "publishedRaw": "Fri, 06 Nov 2026 22:44:14 -0000"
@@ -153,64 +115,70 @@
       "publishedRaw": "Sat, 07 Nov 2026 03:00:00 -0000"
     },
     {
-      "id": "4b2e64a8d1d4",
-      "source": "G1 - Política",
+      "id": "bdfcb3900d02",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Justiça do DF rejeita ação contra Bolsonaro e Wal do Açaí por funcionária fantasma",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/justica-do-df-rejeita-acao-contra-bolsonaro-e-wal-do-acai-por-funcionaria-fantasma.ghtml",
-      "summary": "MP entra com ação contra Bolsonaro e Wal do Açaí por improbidade administrativa\nA Justiça Federal do Distrito Federal rejeitou, nesta quinta-feira (5), uma ação de improbidade administrativa contra o ex-presidente Jair Bolsonaro e Walderice Santos da Conceição, conhecida como Wal do Açaí, por atuação dela como funcionária fantasma na Câmara dos Deputados.\nO juiz Rodrigo de Godoy Mendes, da 6ª Vara Federal Cível do DF, afirmou que a extinção da ação proposta pelo Ministério Público Federal (MPF) é medida que se impõe, uma vez que ficou demonstrado que Wal do Açaí atuava como interlocutora entre moradores da Vila Histórica de Mambucaba, em Angra dos Reis (RJ), e o gabinete de Bolsonaro na Câmara.\nSegundo o magistrado, “a exploração do pequeno comércio de açaí (‘Wal Açaí’), instalado na parte frontal de terreno familiar, não se mostra incompatível com as atribuições de assessoria parlamentar descentralizada, que não impunham exclusividade plena, funcionando, ao revés, como espaço aberto de circulação de pessoas da pequena comunidade litorânea”.\nMendes disse ainda que “eventuais deficiências na comprovação formal de rotina de 40 horas semanais em formulários de frequência atestam desorganização administrativa ou inabilidade no acompanhamento do trabalho externo, mas não autorizam a ilação de que a nomeação foi fraudulenta”.\nO juiz ressaltou que as regras da Câmara permitem que secretários parlamentares exerçam atividades nos estados de representação dos deputados, sem a necessidade de permanecer fisicamente em Brasília.\n✅ Clique aqui para seguir o canal do g1 no WhatsApp.\nA ação \nO MPF pode recorrer da decisão. A ação de improbidade foi proposta pelo Ministério Público Federal em março de 2022. Para os procuradores, entre fevereiro de 2012 e agosto de 2018, Walderice e seu companheiro, Edenilson Nogueira Garcia, prestavam serviços de natureza particular para Bolsonaro, especialmente nos cuidados com a casa e com os cachorros do ex-presidente na Vila Histórica de Mambucaba (RJ).\nEla teria recebido salários da Câmara dos Deputados sem exercer efetivamente as funções do cargo. Por isso, o MPF pediu o ressarcimento de R$ 280.273,44, valor correspondente ao prejuízo causado aos cofres públicos.\nO MPF aponta que o então deputado federal tinha pleno conhecimento de que Walderice não prestava os serviços correspondentes ao cargo e, mesmo assim, atestava falsamente a frequência dela ao trabalho em seu gabinete para comprovar o cumprimento da jornada laboral exigida pela Câmara dos Deputados, de 40 horas semanais, e, assim, possibilitar o pagamento dos salários.\nSegundo a ação, a análise das contas bancárias de Walderice revelou uma movimentação atípica: 83,77% da remuneração recebida no período foi sacada em espécie. Em alguns anos, esse percentual superou 95% dos rendimentos recebidos.\nSaques\nWal do Açaí em foto com o presidente e o filho dele, o vereador Carlos Bolsonaro\nArquivo pessoal\nNa decisão, o juiz afirmou que os saques em espécie não comprovaram desvio de recursos ou enriquecimento ilícito. Segundo ele, também é preciso considerar que a Vila Histórica de Mambucaba apresentava limitações de acesso a serviços bancários.\n“Não há nos autos demonstração de repasse de valores da servidora ao corréu [Bolsonaro], apropriação indevida ou qualquer partilha ilícita de remuneração. O que se observa é o mero saque em espécie da remuneração percebida para atendimento de necessidades rotineiras de subsistência em comunidade desprovida de estrutura bancária presencial”, escreveu.\nNa avaliação do juiz, com base nos depoimentos e nas provas juntados ao processo, ficou comprovado que Wal do Açaí “exercia atividades de auxílio e intermediação política no município de sua residência, amparada pelas normas infralegais da Câmara dos Deputados”. Portanto, “a improcedência do pedido de condenação por atos de improbidade administrativa é medida que se impõe”.\n“Inexistindo prova cabal de nomeação fictícia, de desvio de função para afazeres domésticos, de locupletamento ilícito e de lesão efetiva aos cofres públicos, e restando ausente a demonstração de dolo específico qualificado e desonestidade, a improcedência integral dos pedidos formulados na inicial é medida que se impõe”, concluiu Mendes.\nLeia mais notícias sobre a região no g1 DF.",
+      "title": "Quaest: 61% dizem que eleições foram limpas e justas; 30%, fraudadas",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quaest-61-dizem-que-eleicoes-foram-limpas-e-justas-30-fraudadas.shtml",
+      "summary": "Pesquisa Quaest divulgada neste domingo (8) mostra que 61% dos brasileiros acreditam que as eleições deste ano foram limpas e justas, ante 30% que consideram que houve fraude. Não sabem ou não opinam 9%.\nLeia mais (11/08/2026 - 09h00)",
       "tags": [
-        "Bolsonaro"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Mundo",
+        "G1 - Política"
       ],
       "score": 88,
-      "publishedRaw": "Fri, 06 Nov 2026 10:46:31 -0000"
+      "publishedRaw": "08 Nov 2026 09:00:00 -0300"
     },
     {
-      "id": "176d680dd421",
+      "id": "229f2922b8a9",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Com ‘Dark Horse’, Bolsonaro tem ‘universo cinematográfico’ que mistura dinheiro público e privado",
-      "link": "https://www.estadao.com.br/politica/dark-horse-bolsonaro-universo-cinematografico-mistura-dinheiro-publico-privado/",
+      "title": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
+      "link": "https://www.estadao.com.br/politica/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest/",
       "summary": "",
       "tags": [
-        "Bolsonaro"
+        "eleições"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "2fdceee75d7a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
+      "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
+      "summary": "O atual presidente conseguiu ampliar a vantagem que tinha sobre o eleitorado feminino em relação a 2022, especialmente entre as mulheres jovens, indica análise das urnas.",
+      "tags": [
+        "eleições",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
       "score": 88,
-      "publishedRaw": "Sat, 07 Nov 2026 17:28:05 +0000"
-    },
-    {
-      "id": "31a07a85ef0c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Juiz rejeita ação de improbidade administrativa movida contra Bolsonaro e ‘Wal do Açaí’",
-      "link": "https://www.estadao.com.br/politica/juiz-nega-acao-de-improbidade-administrativa-movida-contra-bolsonaro-e-wal-do-acai-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 88,
-      "publishedRaw": "Fri, 06 Nov 2026 20:15:59 +0000"
+      "publishedRaw": "Sun, 08 Nov 2026 09:22:52 GMT"
     },
     {
       "id": "edee9a80ad64",
@@ -225,14 +193,56 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 88,
       "publishedRaw": "Tue, 03 Nov 2026 21:09:23 GMT"
+    },
+    {
+      "id": "d86b8ccfa99f",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: 62% reprovam ida de Flávio Bolsonaro para os EUA, e 56% acham que ele está fugindo da Justiça",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-56percent-acham-que-flavio-bolsonaro-deixou-o-brasil-apos-as-eleicoes-para-fugir-da-justica.ghtml",
+      "summary": "Flávio Bolsonaro desembarca em um aeroporto próximo de Miami em 28 de outubro de 2026.\nREUTERS/Eva Marie Uzcategui\nPesquisa Quaest divulgada neste domingo (8) aponta que 56% dos brasileiros acreditam que o senador Flávio Bolsonaro deixou o país após as eleições com o objetivo de fugir da Justiça. Outros 35% avaliam que ele foi para os Estados Unidos para evitar uma perseguição política.\n🗒️Tem alguma sugestão de reportagem? Envie para o g1 \nPor que flávio fugiu do país?\nReproduçã/Quaest\nA viagem teve ampla repercussão: 89% dos entrevistados afirmaram ter tomado conhecimento da ida de Flávio aos EUA. \nSegundo o diretor da Quaest, Felipe Nunes, este foi o maior índice de conhecimento registrado em pesquisas recentes, superando episódios como o escândalo do Banco Master, o caso envolvendo Alexandre de Moraes e Daniel Vorcaro e a reunião de Jair Bolsonaro com embaixadores em 2022.\nConhecimento da ida de Flávio para os EUA.\nReprodução/Quaest\nEntre os entrevistados que souberam da viagem, 62% consideram que Flávio agiu de maneira errada ao deixar o Brasil. Para 29%, a decisão foi correta, enquanto 9% não souberam ou preferiram não responder.\n➡️A Quaest ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro. A pesquisa tem nível de confiança de 95% e margem de erro de dois pontos percentuais.\nAgora no g1\nLEIA TAMBÉM:\nQuaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição\nVeja quais são as investigações contra Flávio Bolsonaro\nDivisão entre eleitores da direita\nOs resultados também indicam uma divisão entre os eleitores de direita. Metade desse grupo, incluindo parte dos eleitores que votaram em Flávio Bolsonaro no segundo turno, considera que ele errou ao sair do país.\nIda de Flávio para os EUA: certa ou errada?\nReprodução\nPara 56% dos brasileiros, Flávio deixou o país para fugir da Justiça. Outros 35% acreditam que a viagem aos Estados Unidos teve como objetivo evitar uma perseguição política.\nA percepção de perseguição é mais forte entre os eleitores bolsonaristas. Ainda assim, a direita se divide sobre as motivações do senador, inclusive entre os que votaram nele no segundo turno. Entre os independentes, apenas cerca de um terço acredita que Flávio deixou o país para evitar uma perseguição política.\nPor que Flávio saiu do país.\nReprodução/Quaest\nA pesquisa também avaliou a tentativa de Flávio de se autoproclamar presidente após as eleições. Segundo o levantamento, 70% dos brasileiros tomaram conhecimento do episódio.\nA reação foi majoritariamente negativa: 60% consideram que ele agiu mal diante do resultado eleitoral. O percentual é superior ao registrado pela Quaest em dezembro de 2022, quando o instituto avaliou a postura de Jair Bolsonaro após a derrota nas urnas.\nFlávio também levantou dúvidas sobre o resultado da eleição, atitude desaprovada por 59% dos entrevistados. \nFlávio questionou o resultado das urnas. Você aprova ou desaprova?\nReprodução/Quaest\nSegundo Felipe Nunes, essa rejeição reflete a percepção majoritária de que as eleições foram limpas e justas. Apenas um terço dos brasileiros acredita que houve fraude no resultado, proporção semelhante à registrada em 2022.\nResultado das eleições.\nReprodução/Quaest\nInvestigações no STF\nFlávio Bolsonaro deixou o Brasil após o ministro Alexandre de Moraes determinar que ele entregasse seus passaportes. Ele descumpriu a ordem e entrou por terra na Argentina, de onde embarcou em um avião particular para os Estados Unidos.\nO senador é investigado no Supremo Tribunal Federal (STF) por suspeitas de irregularidades no financiamento de um filme sobre o ex-presidente Jair Bolsonaro, chamado \"Dark Horse\", e de lavagem de dinheiro em negócios relacionados a casas de apostas cujo dono é Willer Tomaz, advogado e amigo de Flávio.\nUma das investigações apura se o senador teria usado uma casa de apostas para lavar dinheiro. Outra investiga repasses de Daniel Vorcaro, ex-dono do Banco Master, para a produção de “Dark Horse”.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 08 Nov 2026 10:42:31 -0000"
+    },
+    {
+      "id": "29670d99ce9d",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Flávio Bolsonaro segura há 500 dias projeto que pune milícias e facções por controle do território",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/flavio-bolsonaro-segura-ha-500-dias-projeto-que-pune-milicias-e-faccoes-por-controle-do-territorio/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Sun, 08 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "3ba7daa50fc5",
@@ -250,10 +260,177 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 87,
+      "publishedRaw": "Sat, 07 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "id": "8cdc86e06d4a",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
+      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "O democrata Felipe Sousa-Lazaballet, nascido na Baixada Fluminense, será o primeiro brasileiro a integrar o legislativo da Flórida.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 05 Nov 2026 09:21:03 GMT"
+    },
+    {
+      "id": "1b52bdf70339",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Em primeira entrevista desde que deixou o Brasil, senador nega ter recebido ajuda de governos; autoridades americanas, no entanto, afirmam que viagem teve participação da Casa Branca.",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Thu, 05 Nov 2026 21:35:09 GMT"
+    },
+    {
+      "id": "e1df6ece1296",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/07/o-que-derrota-de-trump-nas-eleicoes-legislativas-significa-para-a-disputa-da-presidencia-dos-eua-em-2028.ghtml",
+      "summary": "O senador democrata Jon Ossoff e o vice-presidente republicano JD Vance são possíveis nomes a concorrer à presidência em 2028\nREUTERS\nVotos da eleição de meio de mandato nos Estados Unidos ainda estão sendo contados, mas o cenário político já se volta para a corrida presidencial de 2028.\nImpulsionados por vitórias significativas no Congresso, os democratas ganharam força enquanto se preparam para a disputa pela sucessão do presidente Donald Trump.\nMas um bom desempenho nas eleições de meio de mandato, as midterms, não garante a conquista da Casa Branca dois anos depois. O democrata Barack Obama foi reeleito em 2012, apesar de grandes vitórias republicanas em 2010.\nNão há oficialmente candidatos para suceder Trump, mas nomes em potencial estão se preparando nos bastidores. \nDeclarações do vice-presidente J.D. Vance com reflexões sobre as derrotas dos republicanos nas midterms foram interpretadas como uma preparação para uma candidatura em 2028.\nOs resultados da eleição da última terça-feira e a magnitude histórica dos ganhos democratas podem moldar a corrida pela Casa Branca de diversas maneiras. Aqui estão quatro pontos observados nas midterms que dão pistas sobre como poderá ser a próxima corrida presidencial americana.\n1. Os grandes vencedores das midterms agora têm um impulso\nVários candidatos em potencial para a presidência concorreram nas midterms, e alguns deles se destacaram.\nO senador democrata da Geórgia Jon Ossoff venceu com uma margem considerável no Estado, onde Trump ganhou em 2024.\nEmbora já tenha afirmado que não pretende se candidatar à presidência, sua campanha bem-sucedida, com diversas viralizações na internet, projetou Ossoff nacionalmente.\nOutro potencial candidato democrata, o governador da Pensilvânia Josh Shapiro, derrotou com folga seu adversário republicano. \nShapiro não se comprometeu com uma candidatura em 2028, mas analistas apontam para sua ampla popularidade na Pensilvânia, um dos Estados-chave nas eleições, como um sinal de que ele poderia ser competitivo nacionalmente.\nO governador de Illinois, JB Pritzker, também venceu após uma campanha que analistas de seu Estado descreveram como um \"aquecimento\" para uma candidatura presidencial.\nO governador da Califórnia, Gavin Newsom, não pôde concorrer à reeleição nas eleições de meio de mandato, mas está interessado no resultado de uma iniciativa popular para taxar bilionários — contra a qual ele fez campanha por considerar que a mudança poderia afugentar os ricos e levar a perdas de arrecadação no Estado.\nPelo lado republicano, houve dois nomes com potencial para concorrer em 2028 no Arkansas.\nO senador republicano Tom Cotton e a governadora Sarah Huckabee Sanders — ex-secretária de imprensa do governo Trump — conseguiram se manter no cargo por uma margem menor do que antes, ambos conquistando pouco mais da metade dos votos no Estado conservador.\n2. JD Vance e aliados de Trump sob pressão\nEleições nos EUA: quais são os resultados históricos da votação\nAs pesquisas de boca de urna sugerem que a maré negativa para os republicanos se deveu em parte à raiva sentida pelos eleitores em relação às ações do governo Trump.\nIsso pode representar um desafio para seus potenciais sucessores que fazem parte do gabinete presidencial, incluindo o vice-presidente, JD Vance, e o secretário de Estado, Marco Rubio.\n\"A única pessoa que foi gravemente prejudicada por esta campanha eleitoral foi Vance\", analisa Karen Beckwith, professora de ciência política na Case Western Reserve University, em Ohio.\nVance já procurou se distanciar da derrota — e de uma aventura de política externa no Irã que foi politicamente desastrosa para o seu partido.\n\"O motivo da nossa derrota foi a guerra\", escreveu ele na rede social X.\nRubio negou os rumores de que estaria considerando deixar o cargo para concorrer à presidência em 2028.\nMas outros possíveis candidatos republicanos podem se beneficiar por não fazerem parte do governo. Alguns já vêm se posicionando sobre o que deu errado e quais são os próximos passos.\nNuma longa publicação no X, o senador Ted Cruz, que não concorreu à reeleição este ano, afirmou que muitos políticos republicanos parecem \"não se importar\" com os problemas econômicos enfrentados pelos eleitores.\n\"Está escuro agora, mas sempre é mais escuro antes do amanhecer, e a manhã está chegando\", escreveu ele. \"Essa é a minha oração fervorosa e esse é o meu compromisso com vocês.\"\nO governador da Flórida, Ron DeSantis, que abandonou sua candidatura presidencial em 2024 dias antes das primárias republicanas em que enfrentaria Trump, também se mostrou crítico. Ele destacou as vitórias de seu partido na Flórida como um sinal do que pode ser alcançado.\n3. Democratas de esquerda e de centro de olho no futuro\nTanto a ala centrista quanto a ala de esquerda do Partido Democrata reivindicaram a vitória com os resultados das midterms, enquanto cada lado analisa seus possíveis candidatos para 2028.\nDezenas de pessoas já estão se mobilizando para 2028, disse Jim Messina, ex-conselheiro de Obama, à BBC.\nA vitória de El-Sayed em Michigan foi um momento decisivo para os democratas de esquerda, pois ele triunfou em um Estado-pêndulo.\nSeus apoiadores agora afirmam que sua vitória pode impulsionar candidatos de esquerda nas eleições de 2028.\n\"As antigas noções de elegibilidade ficaram para trás, e economistas populistas ousados, de fora do sistema, provaram que podem vencer em Estados decisivos\", disse Adam Green, cofundador do Comitê de Campanha para Mudanças Progressistas.\nGreen acrescenta que \"o cenário está favorável\" para candidatos como a representante democrata de Nova York Alexandria Ocasio-Cortez concorrerem nas primárias.\nDemocratas moderados também reivindicaram vitórias em todo o país. O \"Blue Dog Caucus\", grupo de democratas moderados e conservadores, conquistaram pelo menos 14 cadeiras no Congresso, quase dobrando seu tamanho atual.\nIsso levou muitos dentro desse segmento do partido a defender que candidatos de centro que se apresentam como pragmáticos e dispostos a trabalhar com conservadores poderiam atrair eleitores republicanos.\nDado o sucesso dos candidatos democratas que focaram em questões relacionadas ao custo de vida, é provável que uma abordagem que priorize a economia volte a ser um foco daqui a dois anos.\nAmirah Siquierah, diretora de assuntos federais do Partido das Famílias Trabalhadoras, afirmou que os candidatos vitoriosos em 2028 combinarão o populismo econômico com novas preocupações, como com os data centers (grandes centros de processamento de dados que permitem o funcionamento da internet e de serviços digitais).\nO Texas tem uma nova governadora democrata, Gina Hinojosa\nGetty Images via BBC\n4. O eleitorado não pertence a ninguém\nAmbos os partidos terão de lidar com um cenário político em transformação e uma coligação de apoio instável para 2028.\nRegiões do país antes consideradas \"seguras\" para os republicanos não podem mais ser vistas como redutos conservadores. \nO Texas agora conta com apenas um candidato republicano em nível estadual, o que significa que seus 40 votos no colégio eleitoral podem estar em disputa em 2028.\nChristina Pascucci, analista política e ex-candidata ao Senado pela Califórnia, afirmou que as eleições de meio de mandato \"desafiaram pressupostos políticos antigos\" e mostraram que \"nenhum dos partidos pode se dar ao luxo de considerar seus redutos tradicionais como garantidos\".\nIsso vale tanto para democratas quanto para republicanos, que precisarão conquistar os eleitores indecisos, acrescenta Pascucci, diretora-executiva da consultoria Atlas Global.\n\"Nenhum dos partidos é dono desses eleitores\", resume.\nOs eleitores latinos e da classe trabalhadora que apoiaram Trump deram um passo atrás, revertendo muitos dos ganhos que ele havia obtido com esses eleitorados em sua bem-sucedida campanha de 2024.\nDriena Sixto, ex-porta-voz da organização Turning Point USA e comentarista política conservadora, diz à BBC acreditar que os republicanos terão que mudar sua mensagem para os eleitores latinos antes de 2028.\n\"Da última vez, a mensagem da campanha foi sobre comunidades seguras e o combate ao tráfico de pessoas\", disse ela.\n\"Depois que o presidente tomou posse, acho que muitas das mensagens da Casa Branca deram muita ênfase às deportações. Essa foi a causa da divisão.\"",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 86,
-      "publishedRaw": "Sat, 07 Nov 2026 15:00:00 +0000"
+      "publishedRaw": "Sat, 07 Nov 2026 18:37:53 -0000"
+    },
+    {
+      "id": "4d346e5d8c98",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
+      "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
+      "summary": "A expectativa em torno da eleição presidencial já começou — e aqui estão algumas pistas que as 'midterms' deram do que pode acontecer.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Sat, 07 Nov 2026 17:33:43 GMT"
+    },
+    {
+      "id": "3eff80734dfd",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 04 Nov 2026 23:24:52 GMT"
+    },
+    {
+      "id": "643cfa8ed55b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reeleição, dois anos atrás.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 86,
+      "publishedRaw": "Thu, 05 Nov 2026 20:28:04 GMT"
+    },
+    {
+      "id": "616ab89f8a5e",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
+      "summary": "Aprovação do governo Lula\nReprodução/Quaest\nPesquisa Quaest divulgada neste domingo (8) mostra que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, enquanto 44% desaprovam a atual gestão. Este é o primeiro levantamento sobre a avaliação do governo realizado após as eleições.\n🗒️Tem alguma sugestão de reportagem? Envie para o g1 \nA pesquisa também indica que 94% dos entrevistados torcem para que Lula faça um bom governo. O percentual é o mesmo registrado em dezembro de 2022, depois da eleição presidencial daquele ano.\n➡️ A Quaest ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro. A pesquisa tem nível de confiança de 95% e margem de erro de dois pontos percentuais.\nLEIA TAMBÉM:\nQuaest: 62% reprovam ida de Flávio Bolsonaro para os EUA, e 56% acham que ele está fugindo da Justiça\nAgora no g1\nFim da escala 6x1 está entre as prioridades\nOs entrevistados também apontaram quais medidas consideram mais importantes para o próximo período. Entre as principais prioridades estão o fim da escala 6x1, a isenção de impostos sobre os produtos da cesta básica, a valorização do salário mínimo e a criação de um pacto de enfrentamento aos feminicídios.\nQuais devem ser as prioridades do governo Lula?\nReprodução\nO levantamento mostra ainda que 48% dos brasileiros estão preocupados com o futuro do país, enquanto 44% se dizem otimistas. Na comparação com dezembro de 2022, o nível de preocupação diminuiu e o otimismo aumentou.\nExpectativas em relação ao futuro do Brasil.\nReprodução/Quaest\nEntre os otimistas, as principais razões mencionadas são a defesa da democracia e o combate ao bolsonarismo, o fortalecimento dos programas sociais e a redução da desigualdade, além da regulação das casas de apostas, conhecidas como bets, e das redes sociais.\nO que mais traz otimismo?\nReprodução\nJá entre os entrevistados preocupados com o futuro do país, os motivos mais citados são a situação da economia, a dívida pública e os juros; a violência e a atuação do crime organizado; e a corrupção.\nO que mais preocupa?\nReprodução\nPresidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 12:38:32 -0000"
+    },
+    {
+      "id": "1ac2f6e609c9",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
+      "summary": "Por que professor de Cambridge defende ajuste fiscal 'suave'\nREUTERS via BBC\nNão há \"atalhos\" para equilibrar as contas públicas e cortar os juros no Brasil, defende o economista Tiago Cavalcanti, brasileiro professor titular da Universidade de Cambridge, no Reino Unido.\nNa sua visão, o presidente Luiz Inácio Lula da Silva (PT) precisa anunciar rapidamente medidas críveis para um ajuste fiscal gradual ao longo dos próximos anos.\n📱 Favorite o g1 no Google e acompanhe as principais notícias do dia\nA primeira delas seria anunciar sua nova equipe econômica, com nomes comprometidos com o equilíbrio das contas públicas, e garantir apoio político ao grupo.\n\"Você pode fazer o compromisso de longo prazo. Então, não precisa cortar [de uma vez], vamos suavizar isso ao longo dos anos\", propõe, em entrevista à BBC News Brasil.\nAgora no g1\nPara Cavalcanti, o controle dos gastos não é incompatível com a promessa de Lula de não cortar programas sociais. Por outro lado, ele considera que é necessário mudar a regra que garante reajuste de salário mínimo acima da inflação sempre que há crescimento da economia — algo que Lula prometeu manter.\nNa sua visão, enquanto as contas públicas não estiverem equilibradas, o governo deveria garantir apenas a reposição da inflação. O reajuste do salário mínimo tem impacto importante nas despesas porque é o piso para as aposentadorias e pensões do INSS e de benefícios como o BPC — essas despesas representam mais de 40% dos gastos primários da União.\n\"Eu acho que recuperar o poder de compra [reajustando o salário mínimo pela inflação] é possível. Agora, quando você promete, além de recuperar o poder de compra, dar aumentos acima da inflação, e isso vai ter repercussões em todos os salários, aposentadorias, etc, já acho que começa a não ser mais compatível [com o ajuste fiscal]\", disse.\nPara Cavalcanti, o equilíbrio das contas públicas não é incompatível com a promessa de Lula de não cortar gastos sociais\nDIVULGAÇÃO via BBC\nCom sólida formação acadêmica, Cavalcanti tem doutorado e mestrado em Economia pela University of Illinois, nos Estados Unidos. Além de atuar em Cambridge, é professor da Fundação Getúlio Vargas. No início do ano, foi cotado para assumir uma das duas diretorias que estão vagas no Banco Central desde janeiro. Passada a eleição, há expectativa de que Lula anuncie seus indicados.\nÀ BBC News Brasil, Cavalcanti critica a proposta de rápida redução da taxa básica de juros (Selic) apresentada por André Lara Resende, economista conhecido como um dos pais do Plano Real, que acabou com a hiperinflação nos anos 90.\nResende diz que os juros altos são o principal problema da economia brasileira, já que boa parte da dívida pública brasileira é atrelada à Selic e, por isso, sobe aceleradamente quando o Banco Central eleva a taxa. Ele propõe um novo Conselho Fiscal e Monetário Nacional que definiria metas fiscais e monetárias para um período de quatro a cinco anos à frente. O objetivo seria levar à Selic para 7,5% ao ano em 12 meses.\nAndré Lara Resende defende queda rápida da taxa Selic\nGERALDO MAGELA/AGÊNCIA SENADO via BBC\nA proposta tem dividido economistas no país, entre críticas e apoios. O ministro da Fazenda, Dario Durigan, porém, descartou a proposta e negou que Lula fosse receber Lara Resende para uma reunião.\n\"Houve países que experimentaram isso, por exemplo a Turquia, onde teve muita pressão do [presidente] Erdogan, a taxa de juros caiu bastante em um período bem curto e o país foi para um nível de hiperinflação em pouquíssimo tempo\", afirma Cavalcanti.\n\"É difícil você pensar em evidência empírica [que sustente essa proposta]\", reforçou.\nEm entrevista à BBC News Brasil, Resende rebateu as críticas. \n\"É um voluntarismo político absurdo [comparar] um ditador que impôs a queda dos juros como se ele tivesse alguma coisa [semelhante] ao que eu estou propondo intelectualmente para que seja debatido e analisado\", disse, sobre a comparação com o que fez Erdogan.\nConfira abaixo trechos da entrevista do economista Tiago Cavalcanti à BBC News Brasil \nBBC News Brasil – Lula se reuniu nesta quinta-feira com economistas alinhados ao PT e há a expectativa de futuras conversas com economistas de outras vertentes. Como vê essa movimentação?\nTiago Cavalcanti - Do ponto de vista político, eu acho que faz sentido. Houve todo um apoio [durante as eleições] dessas pessoas que já estão historicamente perto de Lula. Não vejo como um problema fundamental ainda. Outra questão é sobre o que vai ser feito.\nBBC News Brasil – O governo precisa agir mais rápido? Seria necessária alguma resposta ao desafio fiscal?\nTiago Cavalcanti – Sim. Meu medo é o seguinte: em economia, expectativas são essenciais para várias coisas. Algumas coisas parecem distantes, que não nos afetam, mas elas afetam diretamente.\nUma delas é o câmbio. O câmbio afeta diretamente a inflação e tudo o que desencadeia sobre os custos, principalmente no curto prazo. Então ancorar as expectativas é bem importante.\nTivemos uma experiência lá em 2003, quando as expectativas foram ancoradas bem antes de o próprio governo começar, quando Lula assumiu compromissos antes de ser eleito. Ele se comprometeu com várias metas macroeconômicas do ponto de vista fiscal, monetário, de cumprimento de contratos, que foram importantes pra ancorar as expectativas e dúvidas que existiam sobre o presidente.\nMeu medo é que, se essas coisas [expectativas sobre a economia] desancorarem tão fortemente, o governo acabará adotando uma estratégia não de longo prazo. Ele tentará achar alguns atalhos para brigar contra essas expectativas ou contra o mercado. Então, para isso, é fundamental tentar ancorar essas expectativas o mais rápido possível.\nIsso vai evitar que  os investidores comecem a apostar contra o país, tirando o dinheiro do Brasil e depreciando o câmbio, com efeitos na inflação e nos juros de longo prazo, o que afeta investimentos.\nBBC News Brasil – E que tipo de sinais seriam necessários? Eu imagino que não bastaria um discurso. Precisaria haver medidas e sinalizações convincentes.\nTiago Cavalcanti – É preciso haver coisas práticas agora, não tem como fugir. Uma estratégia é você primeiro anunciar o Ministério da Fazenda, juntamente com economistas que vão fazer parte desse ministério. Eu não sei exatamente quem poderia ser, se o [governador do Piauí] Rafael Fonteles, que estão falando, ou o [vice-presidente] Geraldo Alckmin, ou um economista. Seria importante escutar o mercado, mas sem ser refém dele.\nO presidente tem vários nomes e está tentando conversar com outras pessoas, com o mercado, para montar uma equipe que as pessoas acreditem que poderá dar a solidez macroeconômica que o Brasil precisa para fazer política social. É preciso tentar anunciar algo o mais rápido possível, inclusive com diretores do Banco Central, que está com duas diretorias vagas.\nE o segundo momento é fazer escolhas mais de política. E aí eu acho que existem dois cenários. Um seria fazer um ajuste fiscal imediato com metas ambiciosas, mas isso seria muito custoso. A outra forma, que eu acho é a melhor, é uma coisa mais suave, de longo prazo, mas com metas críveis, que trouxesse a dívida pública do Brasil para uma trajetória sustentável.\nBBC News Brasil – O governo argumenta que há muitos indicadores positivos na economia. Essa queda tão forte do mercado após a eleição se justifica?\nTiago Cavalcanti – Talvez na cabeça do presidente e dos economistas mais próximos, eles pensem assim: \"poxa, o mercado disse que a gente iria ter uma crise e a gente teve quatro anos de crescimento bem razoável, de 3%, inflação nunca ficou muito acima [da meta], o desemprego bateu recorde de baixa. A gente teve vários sinais de que foi bem melhor do que o mercado dizia. Então, por que a gente vai escutar dessa vez, né?\".\nMas eu acho que [a reação do mercado] é justificada pelo fato de que a inflação está acima da meta, a inadimplência está elevada, existe uma questão sobre a recuperação judicial [de empresas] em todo o país e a taxa de juros está muito elevada no Brasil.\nEssa taxa de juros é impossível. Com essa taxa de juros de 13,75% e taxa de juros real de 9% mais ou menos, é muito difícil ter investimento na economia, em que você possa ter um retorno sem risco de curto prazo. \nE você tem a questão do endividamento das famílias, das empresas, porque isso também vai afetar os juros na ponta, que é uma outra questão no Brasil. Os juros bancários são elevadíssimos.\nE outra questão é a dívida. Você fica numa dívida com uma trajetória totalmente insustentável quando tem uma taxa de juros real de 9%. A economia teria que crescer duas ou três vezes mais do que ela está crescendo agora para a dívida pública parar de crescer em relação à renda.\nÉ preciso a gente abaixar essa taxa de juros de forma sustentada para a economia crescer e levar a dívida para uma trajetória sustentável. Isso é fundamental.\nBolsa de valores teve forte queda após reeleição de Lula\nEPA/SHUTTERSTOCK via BBC\nBBC News Brasil –  O ajuste fiscal é compatível com as promessas de campanha do Lula ou um ajuste implicaria em algum estelionato eleitoral?\nTiago Cavalcanti – Eu não olhei os números com muito cuidado, então, qualquer afirmação que eu faça agora vai ser meio imprecisa. Mas, o que o Brasil gasta em proporção ao PIB, considerando todos os gastos, é muito mais do que vários países. Não gastamos muito mais em relação à educação e à saúde, mas gastamos em outras coisas. Eu acredito que dá para cortar em subsídios tributários e ajustar os loopholes [brechas] no Imposto de Renda.\nEm todas essas questões, eu acho que é possível fazer ajustes, e talvez minimizar os cortes nos gastos com o social, com a educação, com a saúde que é o compromisso do governo.\nMas uma questão que precisa ser pensada é a regra do salário mínimo no Brasil.\nBBC News Brasil –  Lula prometeu manter o reajuste do salário mínimo acima da inflação durante a campanha. Isso é compatível com o ajuste fiscal?\nTiago Cavalcanti – Eu acho que recuperar o poder de compra [reajustando pela inflação] é possível. Agora, quando você promete, além de recuperar o poder de compra, que vai dar aumentos acima da inflação, eu já acho que começa a não ser mais compatível.\nIsso poderia ser repensado: \"A gente precisa fazer algum sacrifício. Vamos tirar dos mais pobres? Não, mas vamos ao menos manter um aumento que dê a inflação e mantenha o poder de compra\". Isso é totalmente compatível com a filosofia do governo.\nMas você dar aumentos além da inflação eu acho que deveria ser em situações em que o governo pudesse fazer isso. E o governo vem aumentando o salário mínimo acima da inflação nos últimos anos.\nBBC News Brasil –  Após a reeleição de Dilma Rousseff em 2014, havia um cenário de desequilíbrio fiscal que foi seguido de forte crise econômica. O cenário atual lembra 2014, ou é diferente?\nTiago Cavalcanti – Eu quero acreditar que lembre mais 2003 [quando Lula assumiu a Presidência pela primeira vez]. Você pode fazer o compromisso de longo prazo. Então, não precisa cortar [de uma vez]. Vamos suavizar isso ao longo dos anos. Por exemplo, no caso do salário mínimo, vamos primeiro recuperar o poder de compra [reajustando apenas pela inflação]. Daqui a pouco, se a gente tiver um superávit maior, faz um ajuste acima da inflação.\nÉ assim que se faz, por exemplo, no Reino Unido. Anualmente, faz um orçamento. Você não tem uma regra de indexação dessa forma, uma regra dura. Tem uma regra em que você olha a situação econômica do país, vê onde vai cortar e qual vai ser o orçamento do próximo ano dentro das possibilidades.\nO que eu até acho engraçado no Brasil é que tem toda essa briga de heterodoxos e ortodoxos, dos desenvolvimentistas com os neoclássicos liberais. Eu acho que políticas sociais são fundamentais para uma sociedade muito desigual como a do Brasil. Mas, quando você vai conversar em economia, aqui [no Reino Unido] existe muito mais homogeneidade de quais são os passos que devem ser seguidos do que no Brasil, onde há quase duas visões completamente dicotômicas.\nAqui, a gente ensina a economia de uma forma em que os preços são endógenos, respondem a mecanismos de demanda e oferta. As taxas de juros vão responder a mecanismos de expectativas de retorno e risco, às demandas e ofertas por títulos, etc., em um mundo globalizado, em que o capital pode sair de um lado para o outro.\nEssa briga no Brasil acho que atrapalha um pouquinho.\nHouve países que experimentaram isso, por exemplo a Turquia. Teve muita pressão do [presidente] Erdogan, a taxa de juros caiu bastante em um período bem curto, e o país foi para um nível de hiperinflação em pouquíssimo tempo.\nNão estou dizendo que isso vai acontecer no Brasil, porque acho que o Banco Central tem mecanismos muito mais sólidos de proteção do que na Turquia, mas são experiências que a gente pode trazer para o Brasil.\nA gente teve o exemplo aqui da Liz Truss, que ficou pouquíssimo tempo como primeira ministra do Reino Unido. Ela anunciou um pacote em que você tinha a dívida pública crescente, déficit crescente, e ela anunciou cortes nos impostos, com a perspectiva de que a economia iria crescer e isso ia aumentar a arrecadação, conseguindo gerar receita para pagar as dívidas no futuro.\nHouve uma reação negativa muito forte do mercado. Ela tentou voltar atrás, mas já era tarde demais e teve que renunciar.\nBBC News Brasil – Quando você falou sobre a taxa de juros de 7% estava se referindo a proposta do André Lara Resende para redução da Selic?\nTiago Cavalcanti – Sim. É difícil você pensar em evidência empírica [que sustente essa proposta]. Vamos dizer que existe um modelo econômico em que a taxa de juros, quando cai, possa diminuir a inflação por um fator de prêmio de risco, porque a dívida fica menos pressionada. Vamos olhar a evidência empírica.\nMe mostre evidências empíricas em que isso realmente aconteceu, de forma sólida, com economistas que publicam nos periódicos que têm pareceres anônimos, que acreditam que a metodologia é válida e os dados são válidos.\nExistem experiências bem sucedidas nesses casos? É difícil para mim pegar algum exemplo de que isso tenha acontecido de forma sólida.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 08:00:00 -0000"
     },
     {
       "id": "092e3194b389",
@@ -262,7 +439,7 @@
       "category": "Política",
       "title": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
       "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
-      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nDesde o resultado das urnas, que garantiu ao presidente Luiz Inácio da Silva (PT) o seu quarto mandato, ele tem sido pressionado a anunciar o nome que comandará o Ministério da Fazenda. \nO mercado financeiro reagiu ao resultado da eleição com queda na bolsa de valores e alta do dólar. \nCom base nas propostas apresentadas e nas declarações de Lula durante a campanha, analistas avaliaram que o petista não priorizaria o ajuste das contas públicas nos próximos quatro anos de governo. \nExpectativas do mercado \nAs projeções de inflação aumentaram e as expectativas de crescimento da economia caíram. Economistas também passaram a estimar um patamar mais elevado para o dólar. \nEm entrevista à TV Globo, Lula afirmou que o crescimento da dívida pública é uma preocupação, mas defendeu que a solução para o problema fiscal brasileiro passa pelo estímulo ao crescimento da economia, e não necessariamente por cortes de despesas, especialmente se afetarem a população mais pobre.\nInterlocutores da equipe econômica do presidente têm dito que o governo fará um ajuste fiscal consistente e gradual para garantir a redução da taxa de juros e a manutenção, no longo prazo, de todas as políticas sociais do governo Lula.\nNa quarta-feira (4), o Comitê de Política Monetária do Banco Central interrompeu uma sequência de cortes da Selic e manteve da taxa, ampliando a distância do Brasil para o segundo colocado com o maior juro real do mundo.\nNa quinta-feira (5), o presidente recebeu ministros, ex-ministros e economistas ligados ao governo ou ao PT para ouvi-los sobre eventuais medidas para a economia.   \nMercado aguarda sinal de Lula sobre ajuste fiscal\nSem 'cavalo de pau'\nSem cadeira confirmada no quarto mandato de Lula, o atual ministro da Fazenda, Dario Durigan, foi destacado pela equipe da campanha para falar e sinalizou que não haverá um \"cavalo de pau\" na economia.\nEle tem repetido que o governo eleito quer promover um ajuste da ordem de dois pontos do Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos pelo país, no quarto mandato do presidente Lula. \nCom uma alteração de rumo nessa magnitude entre 2027 e 2030, o resultado das contas públicas sairia de um déficit primário de cerca de 0,4% do PIB, em 2026, para um superávit de 1,6% do PIB em 2030.\n➖Déficit: quando o governo gasta mais do que arrecada.\n➕Superávit: quando há sobra de dinheiro no caixa, após o governo pagar todas as despesas.\n🟰Resultado primário: é a diferença entre as receitas e despesas do governo. Essa conta não considera o que o governo gasta com o pagamento dos juros da dívida.  \nDe acordo com o relatório de Acompanhamento Fiscal de junho da Instituição Fiscal Independente (IFI), órgão ligado ao Senado, seria necessário um superávit de 2,1% do PIB somente para estabilizar a dívida pública, ou seja, para que ela pare de crescer.\nO governo Lula terá, no entanto, um desafio já no primeiro ano do quarto mandato devido às medidas anunciadas na campanha que elevaram as despesas e precisarão ser acomodadas. \nO que está na mesa\nEmbora a equipe econômica ainda não tenha detalhado o pacote em elaboração para melhorar as contas públicas, integrantes do governo já vêm indicando algumas das medidas em estudo. \n\n\nEntre elas estão um compromisso mais explícito com o cumprimento da meta fiscal, a revisão de benefícios tributários e novas iniciativas para reforçar o arcabouço fiscal, com novas travas para conter o ritmo de crescimento das despesas.\nO arcabouço fiscal foi a regra criada pelo governo Lula, no início do terceiro mandato, em substituição ao teto de gastos, que vigorou durante os governos dos presidentes Michel Temer e Jair Bolsonaro. O primeiro ano de vigência foi 2024. \nUma das diferenças entre as duas normas está na forma como as despesas podem crescer. No teto de gastos, as despesas avançam conforme a inflação. No arcabouço fiscal, o avanço dos gastos está condicionado ao crescimento da arrecadação. \nO arcabouço também criou um intervalo de tolerância para a meta fiscal, que é o quanto o governo se compromete a obter de resultado final das contas. Com isso, o governo consegue cumprir a meta mesmo quando o desempenho fiscal fica aquém do esperado.   \nNo fim do mês passado, o ministro da Fazenda anunciou que o governo enviará ao Congresso Nacional um projeto de lei para estabelecer expressamente o compromisso de atingir o centro da meta fiscal em 2027. \nAo mirar o centro da meta, em tese, o governo pode precisar bloquear mais recursos ao longo de 2027, limitando os gastos dos ministérios.\nA meta central proposta pelo governo para 2027 prevê um superávit primário de R$ 73,2 bilhões, equivalente a 0,5% do PIB, com uma margem de tolerância de 0,25 ponto percentual para cima ou para baixo. O governo pode, assim, cumprir formalmente a meta mesmo com um superávit menor que o valor central, desde que alcance pelo menos R$ 36,6 bilhões.\nAlém disso, R$ 64,7 bilhões em despesas com precatórios — dívidas que o governo é obrigado a pagar por decisão judicial — e projetos nas áreas de defesa, saúde e educação podem ficar fora dos limites fiscais. Essas exceções foram aprovadas pelos parlamentares nos últimos anos.\nAlém da redução de despesas, por meio de cortes maiores no orçamento dos ministérios, a área econômica também tem dito que buscará reduzir benefícios fiscais no quarto mandato de Lula. \nDurigan tem lembrado que uma medida aprovada no fim de 2026 instituiu uma redução de 10% ao ano nos benefícios fiscais que não estão previstos na Constituição Federal. \nNo vocabulário da atual equipe econômica, porém, benefícios fiscais não equivalem, propriamente, a medidas listadas pela Receita Federal na proposta de orçamento. Aumentos de impostos para offshores, fundos exclusivos e alta na tributação de juros sobre capital próprio, por exemplo, já foram classificados pelo Ministério da Fazenda, por exemplo, como redução de benefícios fiscais.\nO ministro também tem citado, em suas falas, a necessidade de continuar com medidas de reforço ao chamado arcabouço fiscal. Com esse objetivo, o governo já limitou, no passado, o formato de reajuste aumento do salário mínimo e incluiu um gatilho na regra que reduz repasses à Educação. \nFora do radar\nAo mesmo tempo, algumas propostas citadas por economistas para cortar gastos e diminuir a pressão sobre os juros e a dívida não aparecem entre as medidas sinalizadas pelo governo. \nÉ o caso do fim do aumento real do salário mínimo, da desvinculação de benefícios previdenciários do piso nacional, e da formulação de metas para os juros, com uma redução gradual da taxa e da dívida hoje atrelada à Selic. \nO governo também descarta cortar programas e benefícios sociais.\nDurante a campanha, o ministro da Fazenda, Dario Durigan, confirmou que a atual fórmula que prevê aumento acima da inflação para o salário mínimo (limitada a 2,5% de alta real) seria mantida em um eventual novo mandato de Lula.\nO presidente e o ministro da Fazenda têm dito que não haverá desvinculação de benefícios previdenciários e assistenciais do salário mínimo. Com isso, as aposentadorias continuarão atreladas ao valor do salário mínimo, ou seja, não poderão ser menores do que esse valor.\n\"Será dada continuidade ao processo de ajuste fiscal iniciado em 2023, que reduziu o déficit em, aproximadamente, 2% do PIB, preservando a fórmula de reajuste do salário mínimo, com ganho real, conforme proposta apresentada e aprovada, bem como as vinculações aplicáveis aos benefícios previdenciários\", informou o ministro Durigan, durante a campanha presidencial deste ano.\nMais recentemente, Durigan negou que esteja em avaliação para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT) propostas como a de estabelecer metas para os juros para reduzi-los gradualmente, diminuindo assim o tamanho da dívida pública, hoje atrelada à Selic. \nUm dos riscos apontados da proposta é a desvalorização do real. Isso ocorreria porque uma redução da Selic tornaria aplicações em reais menos atraentes, o que, por sua vez, poderia provocar uma saída de recursos do país. \nNesse caso, segundo a sugestão, as reservas cambiais do Brasil, estimadas em US$ 350 bilhões, poderiam ser utilizadas para conter mudanças bruscas no câmbio.   \nA manifestação do ministro ocorreu após interlocutores de Lula comentarem a possibilidade de o presidente se reunir com o economista André Lara Resende, um dos criadores do Plano Real e defensor da proposta.\nPor fim, tanto o presidente Lula quanto o ministro da Fazenda têm negado publicamente, reiteradamente, a possibilidade de cortar programas sociais para promover o ajuste das contas públicas. \n\"Sempre muito atento aos compromissos e ao que foi o resultado da eleição, a gente nunca vai propor medidas que prejudiquem as pessoas mais pobres. Ao contrário, Quando a gente vai fazendo ajustes graduais, vai implementando medidas, olhando para corte de privilégio, retomada de uma série de revisões de benefícios, revisões de gasto primário, a gente dá as condições para que o orçamento seja superavitário e passemos a discutir quais as condições necessárias outras para que a taxa de juros diminua\", disse Durigan.",
+      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nDesde o resultado das urnas, que garantiu ao presidente Luiz Inácio da Silva (PT) o seu quarto mandato, ele tem sido pressionado a anunciar o nome que comandará o Ministério da Fazenda. \nO mercado financeiro reagiu ao resultado da eleição com queda na bolsa de valores e alta do dólar. \nCom base nas propostas apresentadas e nas declarações de Lula durante a campanha, analistas avaliaram que o petista não priorizaria o ajuste das contas públicas nos próximos quatro anos de governo. \nExpectativas do mercado \nAs projeções de inflação aumentaram e as expectativas de crescimento da economia caíram. Economistas também passaram a estimar um patamar mais elevado para o dólar. \nEm entrevista à TV Globo, Lula afirmou que o crescimento da dívida pública é uma preocupação, mas defendeu que a solução para o problema fiscal brasileiro passa pelo estímulo ao crescimento da economia, e não necessariamente por cortes de despesas, especialmente se afetarem a população mais pobre.\nInterlocutores da equipe econômica do presidente têm dito que o governo fará um ajuste fiscal consistente e gradual para garantir a redução da taxa de juros e a manutenção, no longo prazo, de todas as políticas sociais do governo Lula.\nNa quarta-feira (4), o Comitê de Política Monetária do Banco Central interrompeu uma sequência de cortes da Selic e manteve da taxa, ampliando a distância do Brasil para o segundo colocado com o maior juro real do mundo.\nNa quinta-feira (5), o presidente recebeu ministros, ex-ministros e economistas ligados ao governo ou ao PT para ouvi-los sobre eventuais medidas para a economia.   \nMercado aguarda sinal de Lula sobre ajuste fiscal\nSem 'cavalo de pau'\nSem cadeira confirmada no quarto mandato de Lula, o atual ministro da Fazenda, Dario Durigan, foi destacado pela equipe da campanha para falar e sinalizou que não haverá um \"cavalo de pau\" na economia.\nEle tem repetido que o governo eleito quer promover um ajuste da ordem de dois pontos do Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos pelo país, no quarto mandato do presidente Lula. \nCom uma alteração de rumo nessa magnitude entre 2027 e 2030, o resultado das contas públicas sairia de um déficit primário de cerca de 0,4% do PIB, em 2026, para um superávit de 1,6% do PIB em 2030.\n➖Déficit: quando o governo gasta mais do que arrecada.\n➕Superávit: quando há sobra de dinheiro no caixa, após o governo pagar todas as despesas.\n🟰Resultado primário: é a diferença entre as receitas e despesas do governo. Essa conta não considera o que o governo gasta com o pagamento dos juros da dívida.  \nDe acordo com o relatório de Acompanhamento Fiscal de junho da Instituição Fiscal Independente (IFI), órgão ligado ao Senado, seria necessário um superávit de 2,1% do PIB somente para estabilizar a dívida pública, ou seja, para que ela pare de crescer.\nO governo Lula terá, no entanto, um desafio já no primeiro ano do quarto mandato devido às medidas anunciadas na campanha que elevaram as despesas e precisarão ser acomodadas. \nO que está na mesa\nEmbora a equipe econômica ainda não tenha detalhado o pacote em elaboração para melhorar as contas públicas, integrantes do governo já vêm indicando algumas das medidas em estudo. \n\n\nEntre elas estão um compromisso mais explícito com o cumprimento da meta fiscal, a revisão de benefícios tributários e novas iniciativas para reforçar o arcabouço fiscal, com novas travas para conter o ritmo de crescimento das despesas.\nO arcabouço fiscal foi a regra criada pelo governo Lula, no início do terceiro mandato, em substituição ao teto de gastos, que vigorou durante os governos dos presidentes Michel Temer e Jair Bolsonaro. O primeiro ano de vigência foi 2024. \nUma das diferenças entre as duas normas está na forma como as despesas podem crescer. No teto de gastos, as despesas avançam conforme a inflação. No arcabouço fiscal, o avanço dos gastos está condicionado ao crescimento da arrecadação. \nO arcabouço também criou um intervalo de tolerância para a meta fiscal, que é o quanto o governo se compromete a obter de resultado final das contas. Com isso, o governo consegue cumprir a meta mesmo quando o desempenho fiscal fica aquém do esperado.   \nNo fim do mês passado, o ministro da Fazenda anunciou que o governo enviará ao Congresso Nacional um projeto de lei para estabelecer expressamente o compromisso de atingir o centro da meta fiscal em 2027. \nAo mirar o centro da meta, em tese, o governo pode precisar bloquear mais recursos ao longo de 2027, limitando os gastos dos ministérios.\nA meta central proposta pelo governo para 2027 prevê um superávit primário de R$ 73,2 bilhões, equivalente a 0,5% do PIB, com uma margem de tolerância de 0,25 ponto percentual para cima ou para baixo. O governo pode, assim, cumprir formalmente a meta mesmo com um superávit menor que o valor central, desde que alcance pelo menos R$ 36,6 bilhões.\nAlém disso, R$ 64,7 bilhões em despesas com precatórios — dívidas que o governo é obrigado a pagar por decisão judicial — e projetos nas áreas de defesa, saúde e educação podem ficar fora dos limites fiscais. Essas exceções foram aprovadas pelos parlamentares nos últimos anos.\nAlém da redução de despesas, por meio de cortes maiores no orçamento dos ministérios, a área econômica também tem dito que buscará reduzir benefícios fiscais no quarto mandato de Lula. \nDurigan tem lembrado que uma medida aprovada no fim de 2025 instituiu uma redução de 10% ao ano nos benefícios fiscais que não estão previstos na Constituição Federal. \nNo vocabulário da atual equipe econômica, porém, benefícios fiscais não equivalem, propriamente, a medidas listadas pela Receita Federal na proposta de orçamento. Aumentos de impostos para offshores, fundos exclusivos e alta na tributação de juros sobre capital próprio, por exemplo, já foram classificados pelo Ministério da Fazenda, por exemplo, como redução de benefícios fiscais.\nO ministro também tem citado, em suas falas, a necessidade de continuar com medidas de reforço ao chamado arcabouço fiscal. Com esse objetivo, o governo já limitou, no passado, o formato de reajuste aumento do salário mínimo e incluiu um gatilho na regra que reduz repasses à Educação. \nFora do radar\nAo mesmo tempo, algumas propostas citadas por economistas para cortar gastos e diminuir a pressão sobre os juros e a dívida não aparecem entre as medidas sinalizadas pelo governo. \nÉ o caso do fim do aumento real do salário mínimo, da desvinculação de benefícios previdenciários do piso nacional, e da formulação de metas para os juros, com uma redução gradual da taxa e da dívida hoje atrelada à Selic. \nO governo também descarta cortar programas e benefícios sociais.\nDurante a campanha, o ministro da Fazenda, Dario Durigan, confirmou que a atual fórmula que prevê aumento acima da inflação para o salário mínimo (limitada a 2,5% de alta real) seria mantida em um eventual novo mandato de Lula.\nO presidente e o ministro da Fazenda têm dito que não haverá desvinculação de benefícios previdenciários e assistenciais do salário mínimo. Com isso, as aposentadorias continuarão atreladas ao valor do salário mínimo, ou seja, não poderão ser menores do que esse valor.\n\"Será dada continuidade ao processo de ajuste fiscal iniciado em 2023, que reduziu o déficit em, aproximadamente, 2% do PIB, preservando a fórmula de reajuste do salário mínimo, com ganho real, conforme proposta apresentada e aprovada, bem como as vinculações aplicáveis aos benefícios previdenciários\", informou o ministro Durigan, durante a campanha presidencial deste ano.\nMais recentemente, Durigan negou que esteja em avaliação para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT) propostas como a de estabelecer metas para os juros para reduzi-los gradualmente, diminuindo assim o tamanho da dívida pública, hoje atrelada à Selic. \nUm dos riscos apontados da proposta é a desvalorização do real. Isso ocorreria porque uma redução da Selic tornaria aplicações em reais menos atraentes, o que, por sua vez, poderia provocar uma saída de recursos do país. \nNesse caso, segundo a sugestão, as reservas cambiais do Brasil, estimadas em US$ 350 bilhões, poderiam ser utilizadas para conter mudanças bruscas no câmbio.   \nA manifestação do ministro ocorreu após interlocutores de Lula comentarem a possibilidade de o presidente se reunir com o economista André Lara Resende, um dos criadores do Plano Real e defensor da proposta.\nPor fim, tanto o presidente Lula quanto o ministro da Fazenda têm negado publicamente, reiteradamente, a possibilidade de cortar programas sociais para promover o ajuste das contas públicas. \n\"Sempre muito atento aos compromissos e ao que foi o resultado da eleição, a gente nunca vai propor medidas que prejudiquem as pessoas mais pobres. Ao contrário, Quando a gente vai fazendo ajustes graduais, vai implementando medidas, olhando para corte de privilégio, retomada de uma série de revisões de benefícios, revisões de gasto primário, a gente dá as condições para que o orçamento seja superavitário e passemos a discutir quais as condições necessárias outras para que a taxa de juros diminua\", disse Durigan.",
       "tags": [
         "Lula"
       ],
@@ -270,9 +447,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sun, 08 Nov 2026 03:00:00 -0000"
     },
     {
@@ -290,9 +468,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 20:19:28 -0000"
     },
     {
@@ -310,9 +489,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 19:52:17 -0000"
     },
     {
@@ -330,9 +510,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 16:12:59 -0000"
     },
     {
@@ -350,9 +531,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 16:05:07 -0000"
     },
     {
@@ -370,19 +552,20 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Economia"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 13:19:14 -0000"
     },
     {
-      "id": "74910fd5cab0",
+      "id": "882be58f174a",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula planeja reformular gabinete pessoal, e Janja pode ganhar força em novo desenho",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/lula-planeja-reformular-gabinete-pessoal-e-janja-pode-ganhar-forca-em-novo-desenho.shtml",
-      "summary": "O presidente Lula (PT) planeja reestruturar seu Gabinete Pessoal para o quarto mandato, com o acréscimo de atribuições e a nomeação de uma figura para tratar exclusivamente da agenda privada do petista.\nLeia mais (11/07/2026 - 23h23)",
+      "title": "Quaest: Fim da 6x1 e isenção da cesta básica lideram prioridades de eleitores para Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quaest-fim-da-6x1-e-isencao-da-cesta-basica-lideram-prioridades-de-eleitores-para-lula-4.shtml",
+      "summary": "O fim da escala de trabalho 6x1 e o imposto zero sobre a cesta básica são as promessas de campanha que os brasileiros consideram prioritárias no quarto mandato de Luiz Inácio Lula da Silva (PT), segundo pesquisa Quaest divulgada neste domingo (8).\nLeia mais (11/08/2026 - 09h00)",
       "tags": [
         "Lula"
       ],
@@ -390,19 +573,20 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "07 Nov 2026 23:23:00 -0300"
+      "score": 85,
+      "publishedRaw": "08 Nov 2026 09:00:00 -0300"
     },
     {
-      "id": "97a246714a90",
+      "id": "f687d5331eea",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula e seu carcereiro",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/lula-e-seu-carcereiro.shtml",
-      "summary": "Está nas livrarias \"Banho de Sol: Os 580 dias de Lula na Prisão\", de Jorge Chastalo Filho, o agente da Polícia Federal que guardava o prisioneiro em 2018/19 em Curitiba. É um documento de raro valor, uma espécie de memória do cárcere pelo olhar do carcereiro.\nLeia mais (11/07/2026 - 23h00)",
+      "title": "Eleitores citam expectativa de piora na economia após reeleição de Lula, diz Quaest",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/eleitores-citam-expectativa-de-piora-na-economia-apos-reeleicao-de-lula-diz-quaest.shtml",
+      "summary": "A expectativa dos brasileiros sobre a situação econômica piorou após a reeleição do presidente Lula (PT), aponta pesquisa Quaest encomendada pelo jornal O Globo e divulgada neste domingo (8).\nLeia mais (11/08/2026 - 09h00)",
       "tags": [
         "Lula"
       ],
@@ -410,19 +594,20 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "07 Nov 2026 23:00:00 -0300"
+      "score": 85,
+      "publishedRaw": "08 Nov 2026 09:00:00 -0300"
     },
     {
-      "id": "5b787d861dfb",
+      "id": "76e2f0df5c21",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "A economia de Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/a-economia-de-lula-4.shtml",
-      "summary": "Lula ganhou a eleição com um programa de preservação de programas sociais. Mas quase perdeu pela combinação de juros altos e inflação alta que, como vimos nas últimas eleições americanas, está destruindo a popularidade de governos ao redor do mundo no período pós-pandemia.\nLeia mais (11/07/2026 - 23h00)",
+      "title": "Volta de Marina à Esplanada testa coerência ambiental de Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/volta-de-marina-a-esplanada-testa-coerencia-ambiental-de-lula.shtml",
+      "summary": "Começa nesta segunda-feira (9) em Antália a COP31, enésima reunião de cúpula que nada resolverá para deter a crise do clima. O recém-reeleito presidente Lula chegará na terça à cidade turca, onde desfilará como tetracampeão democrático, título inconteste, e como craque ambiental, algo mais duvidoso.\nLeia mais (11/08/2026 - 08h30)",
       "tags": [
         "Lula"
       ],
@@ -430,10 +615,53 @@
         "BBC Brasil",
         "Estadão",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "07 Nov 2026 23:00:00 -0300"
+      "score": 85,
+      "publishedRaw": "08 Nov 2026 08:30:00 -0300"
+    },
+    {
+      "id": "a04b91a934cc",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação",
+      "link": "https://www.estadao.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "f64af1f90dba",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula vai pregar união e responsabilidade fiscal em pronunciamento na TV, mas sem anunciar medidas",
+      "link": "https://www.estadao.com.br/politica/lula-vai-pregar-uniao-e-responsabilidade-fiscal-em-pronunciamento-na-tv-mas-sem-anunciar-medidas/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "b38626228522",
@@ -450,9 +678,10 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 07 Nov 2026 20:04:12 +0000"
     },
     {
@@ -470,9 +699,10 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 07 Nov 2026 20:46:36 +0000"
     },
     {
@@ -490,9 +720,10 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Fri, 06 Nov 2026 23:05:48 +0000"
     },
     {
@@ -510,30 +741,114 @@
         "BBC Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Sat, 07 Nov 2026 08:30:00 +0000"
     },
     {
-      "id": "e86e61485b53",
-      "source": "Estadão",
+      "id": "d03d0a8ec876",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Celular de Vorcaro registra 316 interações com Moraes antes de prisão do banqueiro, diz site",
-      "link": "https://www.estadao.com.br/politica/celular-de-vorcaro-registra-316-interacoes-com-moraes-antes-de-prisao-do-banqueiro-diz-site/",
-      "summary": "",
+      "title": "Selic fica no patamar inicial de Lula 3 e dívida sobe",
+      "link": "https://www.poder360.com.br/poder-economia/selic-fica-no-patamar-inicial-de-lula-3-e-divida-sobe/",
+      "summary": "A 2 meses do fim do mandato, taxa básica de juros está em 13,75%; economistas esperam manutenção",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 84,
-      "publishedRaw": "Fri, 06 Nov 2026 18:43:20 +0000"
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 13:00:07 +0000"
+    },
+    {
+      "id": "1e666c2342ec",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula acompanha 1º dia do Enem na sala de monitoramento do Inep",
+      "link": "https://www.poder360.com.br/poder-educacao/lula-acompanha-1o-dia-do-enem-na-sala-de-monitoramento-do-inep/",
+      "summary": "Presidente e ministro da Educação visitam órgão que monitora logística da prova em todo o país",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 12:07:29 +0000"
+    },
+    {
+      "id": "e607cb4de0c8",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PT abre “vaquinha” de Pix para quitar dívida da campanha de Lula",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-abre-vaquinha-de-pix-para-quitar-divida-da-campanha-de-lula/",
+      "summary": "Partido pede que apoiadores contribuam com R$ 13; objetivo é arrecadar R$ 7 milhões para quitar todas as despesas eleitorais",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Sun, 08 Nov 2026 11:53:35 +0000"
+    },
+    {
+      "id": "176d680dd421",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Com ‘Dark Horse’, Bolsonaro tem ‘universo cinematográfico’ que mistura dinheiro público e privado",
+      "link": "https://www.estadao.com.br/politica/dark-horse-bolsonaro-universo-cinematografico-mistura-dinheiro-publico-privado/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 07 Nov 2026 17:28:05 +0000"
+    },
+    {
+      "id": "1ac2f6e609c9",
+      "source": "G1 - Economia",
+      "tipo": "mainstream",
+      "category": "Economia",
+      "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor em Cambridge defende ajuste fiscal 'suave'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/08/meu-medo-e-o-governo-lula-buscar-atalhos-e-brigar-com-o-mercado-por-que-professor-em-cambridge-defende-ajuste-fiscal-suave.ghtml",
+      "summary": "Por que professor de Cambridge defende ajuste fiscal 'suave'\nREUTERS via BBC\nNão há \"atalhos\" para equilibrar as contas públicas e cortar os juros no Brasil, defende o economista Tiago Cavalcanti, brasileiro professor titular da Universidade de Cambridge, no Reino Unido.\nNa sua visão, o presidente Luiz Inácio Lula da Silva (PT) precisa anunciar rapidamente medidas críveis para um ajuste fiscal gradual ao longo dos próximos anos.\n📱 Favorite o g1 no Google e acompanhe as principais notícias do dia\nA primeira delas seria anunciar sua nova equipe econômica, com nomes comprometidos com o equilíbrio das contas públicas, e garantir apoio político ao grupo.\n\"Você pode fazer o compromisso de longo prazo. Então, não precisa cortar [de uma vez], vamos suavizar isso ao longo dos anos\", propõe, em entrevista à BBC News Brasil.\nAgora no g1\nPara Cavalcanti, o controle dos gastos não é incompatível com a promessa de Lula de não cortar programas sociais. Por outro lado, ele considera que é necessário mudar a regra que garante reajuste de salário mínimo acima da inflação sempre que há crescimento da economia — algo que Lula prometeu manter.\nNa sua visão, enquanto as contas públicas não estiverem equilibradas, o governo deveria garantir apenas a reposição da inflação. O reajuste do salário mínimo tem impacto importante nas despesas porque é o piso para as aposentadorias e pensões do INSS e de benefícios como o BPC — essas despesas representam mais de 40% dos gastos primários da União.\n\"Eu acho que recuperar o poder de compra [reajustando o salário mínimo pela inflação] é possível. Agora, quando você promete, além de recuperar o poder de compra, dar aumentos acima da inflação, e isso vai ter repercussões em todos os salários, aposentadorias, etc, já acho que começa a não ser mais compatível [com o ajuste fiscal]\", disse.\nPara Cavalcanti, o equilíbrio das contas públicas não é incompatível com a promessa de Lula de não cortar gastos sociais\nDIVULGAÇÃO via BBC\nCom sólida formação acadêmica, Cavalcanti tem doutorado e mestrado em Economia pela University of Illinois, nos Estados Unidos. Além de atuar em Cambridge, é professor da Fundação Getúlio Vargas. No início do ano, foi cotado para assumir uma das duas diretorias que estão vagas no Banco Central desde janeiro. Passada a eleição, há expectativa de que Lula anuncie seus indicados.\nÀ BBC News Brasil, Cavalcanti critica a proposta de rápida redução da taxa básica de juros (Selic) apresentada por André Lara Resende, economista conhecido como um dos pais do Plano Real, que acabou com a hiperinflação nos anos 90.\nResende diz que os juros altos são o principal problema da economia brasileira, já que boa parte da dívida pública brasileira é atrelada à Selic e, por isso, sobe aceleradamente quando o Banco Central eleva a taxa. Ele propõe um novo Conselho Fiscal e Monetário Nacional que definiria metas fiscais e monetárias para um período de quatro a cinco anos à frente. O objetivo seria levar à Selic para 7,5% ao ano em 12 meses.\nAndré Lara Resende defende queda rápida da taxa Selic\nGERALDO MAGELA/AGÊNCIA SENADO via BBC\nA proposta tem dividido economistas no país, entre críticas e apoios. O ministro da Fazenda, Dario Durigan, porém, descartou a proposta e negou que Lula fosse receber Lara Resende para uma reunião.\n\"Houve países que experimentaram isso, por exemplo a Turquia, onde teve muita pressão do [presidente] Erdogan, a taxa de juros caiu bastante em um período bem curto e o país foi para um nível de hiperinflação em pouquíssimo tempo\", afirma Cavalcanti.\n\"É difícil você pensar em evidência empírica [que sustente essa proposta]\", reforçou.\nEm entrevista à BBC News Brasil, Resende rebateu as críticas. \n\"É um voluntarismo político absurdo [comparar] um ditador que impôs a queda dos juros como se ele tivesse alguma coisa [semelhante] ao que eu estou propondo intelectualmente para que seja debatido e analisado\", disse, sobre a comparação com o que fez Erdogan.\nConfira abaixo trechos da entrevista do economista Tiago Cavalcanti à BBC News Brasil \nBBC News Brasil – Lula se reuniu nesta quinta-feira com economistas alinhados ao PT e há a expectativa de futuras conversas com economistas de outras vertentes. Como vê essa movimentação?\nTiago Cavalcanti - Do ponto de vista político, eu acho que faz sentido. Houve todo um apoio [durante as eleições] dessas pessoas que já estão historicamente perto de Lula. Não vejo como um problema fundamental ainda. Outra questão é sobre o que vai ser feito.\nBBC News Brasil – O governo precisa agir mais rápido? Seria necessária alguma resposta ao desafio fiscal?\nTiago Cavalcanti – Sim. Meu medo é o seguinte: em economia, expectativas são essenciais para várias coisas. Algumas coisas parecem distantes, que não nos afetam, mas elas afetam diretamente.\nUma delas é o câmbio. O câmbio afeta diretamente a inflação e tudo o que desencadeia sobre os custos, principalmente no curto prazo. Então ancorar as expectativas é bem importante.\nTivemos uma experiência lá em 2003, quando as expectativas foram ancoradas bem antes de o próprio governo começar, quando Lula assumiu compromissos antes de ser eleito. Ele se comprometeu com várias metas macroeconômicas do ponto de vista fiscal, monetário, de cumprimento de contratos, que foram importantes pra ancorar as expectativas e dúvidas que existiam sobre o presidente.\nMeu medo é que, se essas coisas [expectativas sobre a economia] desancorarem tão fortemente, o governo acabará adotando uma estratégia não de longo prazo. Ele tentará achar alguns atalhos para brigar contra essas expectativas ou contra o mercado. Então, para isso, é fundamental tentar ancorar essas expectativas o mais rápido possível.\nIsso vai evitar que  os investidores comecem a apostar contra o país, tirando o dinheiro do Brasil e depreciando o câmbio, com efeitos na inflação e nos juros de longo prazo, o que afeta investimentos.\nBBC News Brasil – E que tipo de sinais seriam necessários? Eu imagino que não bastaria um discurso. Precisaria haver medidas e sinalizações convincentes.\nTiago Cavalcanti – É preciso haver coisas práticas agora, não tem como fugir. Uma estratégia é você primeiro anunciar o Ministério da Fazenda, juntamente com economistas que vão fazer parte desse ministério. Eu não sei exatamente quem poderia ser, se o [governador do Piauí] Rafael Fonteles, que estão falando, ou o [vice-presidente] Geraldo Alckmin, ou um economista. Seria importante escutar o mercado, mas sem ser refém dele.\nO presidente tem vários nomes e está tentando conversar com outras pessoas, com o mercado, para montar uma equipe que as pessoas acreditem que poderá dar a solidez macroeconômica que o Brasil precisa para fazer política social. É preciso tentar anunciar algo o mais rápido possível, inclusive com diretores do Banco Central, que está com duas diretorias vagas.\nE o segundo momento é fazer escolhas mais de política. E aí eu acho que existem dois cenários. Um seria fazer um ajuste fiscal imediato com metas ambiciosas, mas isso seria muito custoso. A outra forma, que eu acho é a melhor, é uma coisa mais suave, de longo prazo, mas com metas críveis, que trouxesse a dívida pública do Brasil para uma trajetória sustentável.\nBBC News Brasil – O governo argumenta que há muitos indicadores positivos na economia. Essa queda tão forte do mercado após a eleição se justifica?\nTiago Cavalcanti – Talvez na cabeça do presidente e dos economistas mais próximos, eles pensem assim: \"poxa, o mercado disse que a gente iria ter uma crise e a gente teve quatro anos de crescimento bem razoável, de 3%, inflação nunca ficou muito acima [da meta], o desemprego bateu recorde de baixa. A gente teve vários sinais de que foi bem melhor do que o mercado dizia. Então, por que a gente vai escutar dessa vez, né?\".\nMas eu acho que [a reação do mercado] é justificada pelo fato de que a inflação está acima da meta, a inadimplência está elevada, existe uma questão sobre a recuperação judicial [de empresas] em todo o país e a taxa de juros está muito elevada no Brasil.\nEssa taxa de juros é impossível. Com essa taxa de juros de 13,75% e taxa de juros real de 9% mais ou menos, é muito difícil ter investimento na economia, em que você possa ter um retorno sem risco de curto prazo. \nE você tem a questão do endividamento das famílias, das empresas, porque isso também vai afetar os juros na ponta, que é uma outra questão no Brasil. Os juros bancários são elevadíssimos.\nE outra questão é a dívida. Você fica numa dívida com uma trajetória totalmente insustentável quando tem uma taxa de juros real de 9%. A economia teria que crescer duas ou três vezes mais do que ela está crescendo agora para a dívida pública parar de crescer em relação à renda.\nÉ preciso a gente abaixar essa taxa de juros de forma sustentada para a economia crescer e levar a dívida para uma trajetória sustentável. Isso é fundamental.\nBolsa de valores teve forte queda após reeleição de Lula\nEPA/SHUTTERSTOCK via BBC\nBBC News Brasil –  O ajuste fiscal é compatível com as promessas de campanha do Lula ou um ajuste implicaria em algum estelionato eleitoral?\nTiago Cavalcanti – Eu não olhei os números com muito cuidado, então, qualquer afirmação que eu faça agora vai ser meio imprecisa. Mas, o que o Brasil gasta em proporção ao PIB, considerando todos os gastos, é muito mais do que vários países. Não gastamos muito mais em relação à educação e à saúde, mas gastamos em outras coisas. Eu acredito que dá para cortar em subsídios tributários e ajustar os loopholes [brechas] no Imposto de Renda.\nEm todas essas questões, eu acho que é possível fazer ajustes, e talvez minimizar os cortes nos gastos com o social, com a educação, com a saúde que é o compromisso do governo.\nMas uma questão que precisa ser pensada é a regra do salário mínimo no Brasil.\nBBC News Brasil –  Lula prometeu manter o reajuste do salário mínimo acima da inflação durante a campanha. Isso é compatível com o ajuste fiscal?\nTiago Cavalcanti – Eu acho que recuperar o poder de compra [reajustando pela inflação] é possível. Agora, quando você promete, além de recuperar o poder de compra, que vai dar aumentos acima da inflação, eu já acho que começa a não ser mais compatível.\nIsso poderia ser repensado: \"A gente precisa fazer algum sacrifício. Vamos tirar dos mais pobres? Não, mas vamos ao menos manter um aumento que dê a inflação e mantenha o poder de compra\". Isso é totalmente compatível com a filosofia do governo.\nMas você dar aumentos além da inflação eu acho que deveria ser em situações em que o governo pudesse fazer isso. E o governo vem aumentando o salário mínimo acima da inflação nos últimos anos.\nBBC News Brasil –  Após a reeleição de Dilma Rousseff em 2014, havia um cenário de desequilíbrio fiscal que foi seguido de forte crise econômica. O cenário atual lembra 2014, ou é diferente?\nTiago Cavalcanti – Eu quero acreditar que lembre mais 2003 [quando Lula assumiu a Presidência pela primeira vez]. Você pode fazer o compromisso de longo prazo. Então, não precisa cortar [de uma vez]. Vamos suavizar isso ao longo dos anos. Por exemplo, no caso do salário mínimo, vamos primeiro recuperar o poder de compra [reajustando apenas pela inflação]. Daqui a pouco, se a gente tiver um superávit maior, faz um ajuste acima da inflação.\nÉ assim que se faz, por exemplo, no Reino Unido. Anualmente, faz um orçamento. Você não tem uma regra de indexação dessa forma, uma regra dura. Tem uma regra em que você olha a situação econômica do país, vê onde vai cortar e qual vai ser o orçamento do próximo ano dentro das possibilidades.\nO que eu até acho engraçado no Brasil é que tem toda essa briga de heterodoxos e ortodoxos, dos desenvolvimentistas com os neoclássicos liberais. Eu acho que políticas sociais são fundamentais para uma sociedade muito desigual como a do Brasil. Mas, quando você vai conversar em economia, aqui [no Reino Unido] existe muito mais homogeneidade de quais são os passos que devem ser seguidos do que no Brasil, onde há quase duas visões completamente dicotômicas.\nAqui, a gente ensina a economia de uma forma em que os preços são endógenos, respondem a mecanismos de demanda e oferta. As taxas de juros vão responder a mecanismos de expectativas de retorno e risco, às demandas e ofertas por títulos, etc., em um mundo globalizado, em que o capital pode sair de um lado para o outro.\nEssa briga no Brasil acho que atrapalha um pouquinho.\nHouve países que experimentaram isso, por exemplo a Turquia. Teve muita pressão do [presidente] Erdogan, a taxa de juros caiu bastante em um período bem curto, e o país foi para um nível de hiperinflação em pouquíssimo tempo.\nNão estou dizendo que isso vai acontecer no Brasil, porque acho que o Banco Central tem mecanismos muito mais sólidos de proteção do que na Turquia, mas são experiências que a gente pode trazer para o Brasil.\nA gente teve o exemplo aqui da Liz Truss, que ficou pouquíssimo tempo como primeira ministra do Reino Unido. Ela anunciou um pacote em que você tinha a dívida pública crescente, déficit crescente, e ela anunciou cortes nos impostos, com a perspectiva de que a economia iria crescer e isso ia aumentar a arrecadação, conseguindo gerar receita para pagar as dívidas no futuro.\nHouve uma reação negativa muito forte do mercado. Ela tentou voltar atrás, mas já era tarde demais e teve que renunciar.\nBBC News Brasil – Quando você falou sobre a taxa de juros de 7% estava se referindo a proposta do André Lara Resende para redução da Selic?\nTiago Cavalcanti – Sim. É difícil você pensar em evidência empírica [que sustente essa proposta]. Vamos dizer que existe um modelo econômico em que a taxa de juros, quando cai, possa diminuir a inflação por um fator de prêmio de risco, porque a dívida fica menos pressionada. Vamos olhar a evidência empírica.\nMe mostre evidências empíricas em que isso realmente aconteceu, de forma sólida, com economistas que publicam nos periódicos que têm pareceres anônimos, que acreditam que a metodologia é válida e os dados são válidos.\nExistem experiências bem sucedidas nesses casos? É difícil para mim pegar algum exemplo de que isso tenha acontecido de forma sólida.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 82,
+      "publishedRaw": "Sun, 08 Nov 2026 08:00:00 -0000"
     },
     {
       "id": "092e3194b389",
@@ -542,7 +857,7 @@
       "category": "Economia",
       "title": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
       "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
-      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nDesde o resultado das urnas, que garantiu ao presidente Luiz Inácio da Silva (PT) o seu quarto mandato, ele tem sido pressionado a anunciar o nome que comandará o Ministério da Fazenda. \nO mercado financeiro reagiu ao resultado da eleição com queda na bolsa de valores e alta do dólar. \nCom base nas propostas apresentadas e nas declarações de Lula durante a campanha, analistas avaliaram que o petista não priorizaria o ajuste das contas públicas nos próximos quatro anos de governo. \nExpectativas do mercado \nAs projeções de inflação aumentaram e as expectativas de crescimento da economia caíram. Economistas também passaram a estimar um patamar mais elevado para o dólar. \nEm entrevista à TV Globo, Lula afirmou que o crescimento da dívida pública é uma preocupação, mas defendeu que a solução para o problema fiscal brasileiro passa pelo estímulo ao crescimento da economia, e não necessariamente por cortes de despesas, especialmente se afetarem a população mais pobre.\nInterlocutores da equipe econômica do presidente têm dito que o governo fará um ajuste fiscal consistente e gradual para garantir a redução da taxa de juros e a manutenção, no longo prazo, de todas as políticas sociais do governo Lula.\nNa quarta-feira (4), o Comitê de Política Monetária do Banco Central interrompeu uma sequência de cortes da Selic e manteve da taxa, ampliando a distância do Brasil para o segundo colocado com o maior juro real do mundo.\nNa quinta-feira (5), o presidente recebeu ministros, ex-ministros e economistas ligados ao governo ou ao PT para ouvi-los sobre eventuais medidas para a economia.   \nMercado aguarda sinal de Lula sobre ajuste fiscal\nSem 'cavalo de pau'\nSem cadeira confirmada no quarto mandato de Lula, o atual ministro da Fazenda, Dario Durigan, foi destacado pela equipe da campanha para falar e sinalizou que não haverá um \"cavalo de pau\" na economia.\nEle tem repetido que o governo eleito quer promover um ajuste da ordem de dois pontos do Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos pelo país, no quarto mandato do presidente Lula. \nCom uma alteração de rumo nessa magnitude entre 2027 e 2030, o resultado das contas públicas sairia de um déficit primário de cerca de 0,4% do PIB, em 2026, para um superávit de 1,6% do PIB em 2030.\n➖Déficit: quando o governo gasta mais do que arrecada.\n➕Superávit: quando há sobra de dinheiro no caixa, após o governo pagar todas as despesas.\n🟰Resultado primário: é a diferença entre as receitas e despesas do governo. Essa conta não considera o que o governo gasta com o pagamento dos juros da dívida.  \nDe acordo com o relatório de Acompanhamento Fiscal de junho da Instituição Fiscal Independente (IFI), órgão ligado ao Senado, seria necessário um superávit de 2,1% do PIB somente para estabilizar a dívida pública, ou seja, para que ela pare de crescer.\nO governo Lula terá, no entanto, um desafio já no primeiro ano do quarto mandato devido às medidas anunciadas na campanha que elevaram as despesas e precisarão ser acomodadas. \nO que está na mesa\nEmbora a equipe econômica ainda não tenha detalhado o pacote em elaboração para melhorar as contas públicas, integrantes do governo já vêm indicando algumas das medidas em estudo. \n\n\nEntre elas estão um compromisso mais explícito com o cumprimento da meta fiscal, a revisão de benefícios tributários e novas iniciativas para reforçar o arcabouço fiscal, com novas travas para conter o ritmo de crescimento das despesas.\nO arcabouço fiscal foi a regra criada pelo governo Lula, no início do terceiro mandato, em substituição ao teto de gastos, que vigorou durante os governos dos presidentes Michel Temer e Jair Bolsonaro. O primeiro ano de vigência foi 2024. \nUma das diferenças entre as duas normas está na forma como as despesas podem crescer. No teto de gastos, as despesas avançam conforme a inflação. No arcabouço fiscal, o avanço dos gastos está condicionado ao crescimento da arrecadação. \nO arcabouço também criou um intervalo de tolerância para a meta fiscal, que é o quanto o governo se compromete a obter de resultado final das contas. Com isso, o governo consegue cumprir a meta mesmo quando o desempenho fiscal fica aquém do esperado.   \nNo fim do mês passado, o ministro da Fazenda anunciou que o governo enviará ao Congresso Nacional um projeto de lei para estabelecer expressamente o compromisso de atingir o centro da meta fiscal em 2027. \nAo mirar o centro da meta, em tese, o governo pode precisar bloquear mais recursos ao longo de 2027, limitando os gastos dos ministérios.\nA meta central proposta pelo governo para 2027 prevê um superávit primário de R$ 73,2 bilhões, equivalente a 0,5% do PIB, com uma margem de tolerância de 0,25 ponto percentual para cima ou para baixo. O governo pode, assim, cumprir formalmente a meta mesmo com um superávit menor que o valor central, desde que alcance pelo menos R$ 36,6 bilhões.\nAlém disso, R$ 64,7 bilhões em despesas com precatórios — dívidas que o governo é obrigado a pagar por decisão judicial — e projetos nas áreas de defesa, saúde e educação podem ficar fora dos limites fiscais. Essas exceções foram aprovadas pelos parlamentares nos últimos anos.\nAlém da redução de despesas, por meio de cortes maiores no orçamento dos ministérios, a área econômica também tem dito que buscará reduzir benefícios fiscais no quarto mandato de Lula. \nDurigan tem lembrado que uma medida aprovada no fim de 2026 instituiu uma redução de 10% ao ano nos benefícios fiscais que não estão previstos na Constituição Federal. \nNo vocabulário da atual equipe econômica, porém, benefícios fiscais não equivalem, propriamente, a medidas listadas pela Receita Federal na proposta de orçamento. Aumentos de impostos para offshores, fundos exclusivos e alta na tributação de juros sobre capital próprio, por exemplo, já foram classificados pelo Ministério da Fazenda, por exemplo, como redução de benefícios fiscais.\nO ministro também tem citado, em suas falas, a necessidade de continuar com medidas de reforço ao chamado arcabouço fiscal. Com esse objetivo, o governo já limitou, no passado, o formato de reajuste aumento do salário mínimo e incluiu um gatilho na regra que reduz repasses à Educação. \nFora do radar\nAo mesmo tempo, algumas propostas citadas por economistas para cortar gastos e diminuir a pressão sobre os juros e a dívida não aparecem entre as medidas sinalizadas pelo governo. \nÉ o caso do fim do aumento real do salário mínimo, da desvinculação de benefícios previdenciários do piso nacional, e da formulação de metas para os juros, com uma redução gradual da taxa e da dívida hoje atrelada à Selic. \nO governo também descarta cortar programas e benefícios sociais.\nDurante a campanha, o ministro da Fazenda, Dario Durigan, confirmou que a atual fórmula que prevê aumento acima da inflação para o salário mínimo (limitada a 2,5% de alta real) seria mantida em um eventual novo mandato de Lula.\nO presidente e o ministro da Fazenda têm dito que não haverá desvinculação de benefícios previdenciários e assistenciais do salário mínimo. Com isso, as aposentadorias continuarão atreladas ao valor do salário mínimo, ou seja, não poderão ser menores do que esse valor.\n\"Será dada continuidade ao processo de ajuste fiscal iniciado em 2023, que reduziu o déficit em, aproximadamente, 2% do PIB, preservando a fórmula de reajuste do salário mínimo, com ganho real, conforme proposta apresentada e aprovada, bem como as vinculações aplicáveis aos benefícios previdenciários\", informou o ministro Durigan, durante a campanha presidencial deste ano.\nMais recentemente, Durigan negou que esteja em avaliação para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT) propostas como a de estabelecer metas para os juros para reduzi-los gradualmente, diminuindo assim o tamanho da dívida pública, hoje atrelada à Selic. \nUm dos riscos apontados da proposta é a desvalorização do real. Isso ocorreria porque uma redução da Selic tornaria aplicações em reais menos atraentes, o que, por sua vez, poderia provocar uma saída de recursos do país. \nNesse caso, segundo a sugestão, as reservas cambiais do Brasil, estimadas em US$ 350 bilhões, poderiam ser utilizadas para conter mudanças bruscas no câmbio.   \nA manifestação do ministro ocorreu após interlocutores de Lula comentarem a possibilidade de o presidente se reunir com o economista André Lara Resende, um dos criadores do Plano Real e defensor da proposta.\nPor fim, tanto o presidente Lula quanto o ministro da Fazenda têm negado publicamente, reiteradamente, a possibilidade de cortar programas sociais para promover o ajuste das contas públicas. \n\"Sempre muito atento aos compromissos e ao que foi o resultado da eleição, a gente nunca vai propor medidas que prejudiquem as pessoas mais pobres. Ao contrário, Quando a gente vai fazendo ajustes graduais, vai implementando medidas, olhando para corte de privilégio, retomada de uma série de revisões de benefícios, revisões de gasto primário, a gente dá as condições para que o orçamento seja superavitário e passemos a discutir quais as condições necessárias outras para que a taxa de juros diminua\", disse Durigan.",
+      "summary": "Presidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert\nDesde o resultado das urnas, que garantiu ao presidente Luiz Inácio da Silva (PT) o seu quarto mandato, ele tem sido pressionado a anunciar o nome que comandará o Ministério da Fazenda. \nO mercado financeiro reagiu ao resultado da eleição com queda na bolsa de valores e alta do dólar. \nCom base nas propostas apresentadas e nas declarações de Lula durante a campanha, analistas avaliaram que o petista não priorizaria o ajuste das contas públicas nos próximos quatro anos de governo. \nExpectativas do mercado \nAs projeções de inflação aumentaram e as expectativas de crescimento da economia caíram. Economistas também passaram a estimar um patamar mais elevado para o dólar. \nEm entrevista à TV Globo, Lula afirmou que o crescimento da dívida pública é uma preocupação, mas defendeu que a solução para o problema fiscal brasileiro passa pelo estímulo ao crescimento da economia, e não necessariamente por cortes de despesas, especialmente se afetarem a população mais pobre.\nInterlocutores da equipe econômica do presidente têm dito que o governo fará um ajuste fiscal consistente e gradual para garantir a redução da taxa de juros e a manutenção, no longo prazo, de todas as políticas sociais do governo Lula.\nNa quarta-feira (4), o Comitê de Política Monetária do Banco Central interrompeu uma sequência de cortes da Selic e manteve da taxa, ampliando a distância do Brasil para o segundo colocado com o maior juro real do mundo.\nNa quinta-feira (5), o presidente recebeu ministros, ex-ministros e economistas ligados ao governo ou ao PT para ouvi-los sobre eventuais medidas para a economia.   \nMercado aguarda sinal de Lula sobre ajuste fiscal\nSem 'cavalo de pau'\nSem cadeira confirmada no quarto mandato de Lula, o atual ministro da Fazenda, Dario Durigan, foi destacado pela equipe da campanha para falar e sinalizou que não haverá um \"cavalo de pau\" na economia.\nEle tem repetido que o governo eleito quer promover um ajuste da ordem de dois pontos do Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos pelo país, no quarto mandato do presidente Lula. \nCom uma alteração de rumo nessa magnitude entre 2027 e 2030, o resultado das contas públicas sairia de um déficit primário de cerca de 0,4% do PIB, em 2026, para um superávit de 1,6% do PIB em 2030.\n➖Déficit: quando o governo gasta mais do que arrecada.\n➕Superávit: quando há sobra de dinheiro no caixa, após o governo pagar todas as despesas.\n🟰Resultado primário: é a diferença entre as receitas e despesas do governo. Essa conta não considera o que o governo gasta com o pagamento dos juros da dívida.  \nDe acordo com o relatório de Acompanhamento Fiscal de junho da Instituição Fiscal Independente (IFI), órgão ligado ao Senado, seria necessário um superávit de 2,1% do PIB somente para estabilizar a dívida pública, ou seja, para que ela pare de crescer.\nO governo Lula terá, no entanto, um desafio já no primeiro ano do quarto mandato devido às medidas anunciadas na campanha que elevaram as despesas e precisarão ser acomodadas. \nO que está na mesa\nEmbora a equipe econômica ainda não tenha detalhado o pacote em elaboração para melhorar as contas públicas, integrantes do governo já vêm indicando algumas das medidas em estudo. \n\n\nEntre elas estão um compromisso mais explícito com o cumprimento da meta fiscal, a revisão de benefícios tributários e novas iniciativas para reforçar o arcabouço fiscal, com novas travas para conter o ritmo de crescimento das despesas.\nO arcabouço fiscal foi a regra criada pelo governo Lula, no início do terceiro mandato, em substituição ao teto de gastos, que vigorou durante os governos dos presidentes Michel Temer e Jair Bolsonaro. O primeiro ano de vigência foi 2024. \nUma das diferenças entre as duas normas está na forma como as despesas podem crescer. No teto de gastos, as despesas avançam conforme a inflação. No arcabouço fiscal, o avanço dos gastos está condicionado ao crescimento da arrecadação. \nO arcabouço também criou um intervalo de tolerância para a meta fiscal, que é o quanto o governo se compromete a obter de resultado final das contas. Com isso, o governo consegue cumprir a meta mesmo quando o desempenho fiscal fica aquém do esperado.   \nNo fim do mês passado, o ministro da Fazenda anunciou que o governo enviará ao Congresso Nacional um projeto de lei para estabelecer expressamente o compromisso de atingir o centro da meta fiscal em 2027. \nAo mirar o centro da meta, em tese, o governo pode precisar bloquear mais recursos ao longo de 2027, limitando os gastos dos ministérios.\nA meta central proposta pelo governo para 2027 prevê um superávit primário de R$ 73,2 bilhões, equivalente a 0,5% do PIB, com uma margem de tolerância de 0,25 ponto percentual para cima ou para baixo. O governo pode, assim, cumprir formalmente a meta mesmo com um superávit menor que o valor central, desde que alcance pelo menos R$ 36,6 bilhões.\nAlém disso, R$ 64,7 bilhões em despesas com precatórios — dívidas que o governo é obrigado a pagar por decisão judicial — e projetos nas áreas de defesa, saúde e educação podem ficar fora dos limites fiscais. Essas exceções foram aprovadas pelos parlamentares nos últimos anos.\nAlém da redução de despesas, por meio de cortes maiores no orçamento dos ministérios, a área econômica também tem dito que buscará reduzir benefícios fiscais no quarto mandato de Lula. \nDurigan tem lembrado que uma medida aprovada no fim de 2025 instituiu uma redução de 10% ao ano nos benefícios fiscais que não estão previstos na Constituição Federal. \nNo vocabulário da atual equipe econômica, porém, benefícios fiscais não equivalem, propriamente, a medidas listadas pela Receita Federal na proposta de orçamento. Aumentos de impostos para offshores, fundos exclusivos e alta na tributação de juros sobre capital próprio, por exemplo, já foram classificados pelo Ministério da Fazenda, por exemplo, como redução de benefícios fiscais.\nO ministro também tem citado, em suas falas, a necessidade de continuar com medidas de reforço ao chamado arcabouço fiscal. Com esse objetivo, o governo já limitou, no passado, o formato de reajuste aumento do salário mínimo e incluiu um gatilho na regra que reduz repasses à Educação. \nFora do radar\nAo mesmo tempo, algumas propostas citadas por economistas para cortar gastos e diminuir a pressão sobre os juros e a dívida não aparecem entre as medidas sinalizadas pelo governo. \nÉ o caso do fim do aumento real do salário mínimo, da desvinculação de benefícios previdenciários do piso nacional, e da formulação de metas para os juros, com uma redução gradual da taxa e da dívida hoje atrelada à Selic. \nO governo também descarta cortar programas e benefícios sociais.\nDurante a campanha, o ministro da Fazenda, Dario Durigan, confirmou que a atual fórmula que prevê aumento acima da inflação para o salário mínimo (limitada a 2,5% de alta real) seria mantida em um eventual novo mandato de Lula.\nO presidente e o ministro da Fazenda têm dito que não haverá desvinculação de benefícios previdenciários e assistenciais do salário mínimo. Com isso, as aposentadorias continuarão atreladas ao valor do salário mínimo, ou seja, não poderão ser menores do que esse valor.\n\"Será dada continuidade ao processo de ajuste fiscal iniciado em 2023, que reduziu o déficit em, aproximadamente, 2% do PIB, preservando a fórmula de reajuste do salário mínimo, com ganho real, conforme proposta apresentada e aprovada, bem como as vinculações aplicáveis aos benefícios previdenciários\", informou o ministro Durigan, durante a campanha presidencial deste ano.\nMais recentemente, Durigan negou que esteja em avaliação para o quarto mandato do presidente Luiz Inácio Lula da Silva (PT) propostas como a de estabelecer metas para os juros para reduzi-los gradualmente, diminuindo assim o tamanho da dívida pública, hoje atrelada à Selic. \nUm dos riscos apontados da proposta é a desvalorização do real. Isso ocorreria porque uma redução da Selic tornaria aplicações em reais menos atraentes, o que, por sua vez, poderia provocar uma saída de recursos do país. \nNesse caso, segundo a sugestão, as reservas cambiais do Brasil, estimadas em US$ 350 bilhões, poderiam ser utilizadas para conter mudanças bruscas no câmbio.   \nA manifestação do ministro ocorreu após interlocutores de Lula comentarem a possibilidade de o presidente se reunir com o economista André Lara Resende, um dos criadores do Plano Real e defensor da proposta.\nPor fim, tanto o presidente Lula quanto o ministro da Fazenda têm negado publicamente, reiteradamente, a possibilidade de cortar programas sociais para promover o ajuste das contas públicas. \n\"Sempre muito atento aos compromissos e ao que foi o resultado da eleição, a gente nunca vai propor medidas que prejudiquem as pessoas mais pobres. Ao contrário, Quando a gente vai fazendo ajustes graduais, vai implementando medidas, olhando para corte de privilégio, retomada de uma série de revisões de benefícios, revisões de gasto primário, a gente dá as condições para que o orçamento seja superavitário e passemos a discutir quais as condições necessárias outras para que a taxa de juros diminua\", disse Durigan.",
       "tags": [
         "Lula"
       ],
@@ -550,9 +865,10 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Sun, 08 Nov 2026 03:00:00 -0000"
     },
     {
@@ -570,9 +886,10 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Sat, 07 Nov 2026 09:29:22 GMT"
     },
     {
@@ -590,9 +907,10 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Thu, 05 Nov 2026 08:33:48 GMT"
     },
     {
@@ -610,9 +928,10 @@
         "Estadão",
         "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 81,
+      "score": 82,
       "publishedRaw": "Tue, 03 Nov 2026 22:04:35 GMT"
     },
     {
@@ -627,119 +946,40 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Sat, 07 Nov 2026 12:20:24 -0000"
     },
     {
-      "id": "1027dfbfe602",
+      "id": "41d6725890d1",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Quaest: para 60%, Flávio se comportou mal ao questionar resultado das urnas",
+      "link": "https://www.cnnbrasil.com.br/politica/quaest-para-60-flavio-se-comportou-mal-ao-questionar-resultado-das-urnas/",
+      "summary": "Pesquisa \"O Brasil depois das urnas\" ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
+      "tags": [
+        "urnas"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Sun, 08 Nov 2026 12:42:36 +0000"
+    },
+    {
+      "id": "175aea5c5c9f",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Ministros veem alívio com derrota de Flávio, mas dizem que só eleição do Senado vai definir futuro do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministros-veem-alivio-com-derrota-de-flavio-mas-dizem-que-so-eleicao-do-senado-vai-definir-futuro-do-stf.shtml",
-      "summary": "Uma ala de ministros do STF (Supremo Tribunal Federal) avalia que a reeleição de Lula (PT) e a derrota de Flávio Bolsonaro (PL) dão um respiro à corte, mas ressalta que o resultado da corrida presidencial apenas adiou a pressão política sobre os magistrados.\nLeia mais (11/07/2026 - 23h00)",
+      "title": "'Nintendo Switch Sports Resort' repete fórmula exitosa para divertir família",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/nintendo-switch-sports-resort-repete-formula-exitosa-para-divertir-familia.shtml",
+      "summary": "Os anos 2000 para os videogames foram marcados por uma brusca mudança nos jogos de esporte com a ascensão dos controles e sensores de movimento. Foram lançados vários games com apelo familiar, deixando em segundo plano o investimento em gráficos e buscando a dinâmica com muitos jogadores.\nLeia mais (11/08/2026 - 07h00)",
       "tags": [
-        "STF"
+        "família"
       ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "07 Nov 2026 23:00:00 -0300"
-    },
-    {
-      "id": "e1df6ece1296",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/07/o-que-derrota-de-trump-nas-eleicoes-legislativas-significa-para-a-disputa-da-presidencia-dos-eua-em-2028.ghtml",
-      "summary": "O senador democrata Jon Ossoff e o vice-presidente republicano JD Vance são possíveis nomes a concorrer à presidência em 2028\nREUTERS\nVotos da eleição de meio de mandato nos Estados Unidos ainda estão sendo contados, mas o cenário político já se volta para a corrida presidencial de 2028.\nImpulsionados por vitórias significativas no Congresso, os democratas ganharam força enquanto se preparam para a disputa pela sucessão do presidente Donald Trump.\nMas um bom desempenho nas eleições de meio de mandato, as midterms, não garante a conquista da Casa Branca dois anos depois. O democrata Barack Obama foi reeleito em 2012, apesar de grandes vitórias republicanas em 2010.\nNão há oficialmente candidatos para suceder Trump, mas nomes em potencial estão se preparando nos bastidores. \nDeclarações do vice-presidente J.D. Vance com reflexões sobre as derrotas dos republicanos nas midterms foram interpretadas como uma preparação para uma candidatura em 2028.\nOs resultados da eleição da última terça-feira e a magnitude histórica dos ganhos democratas podem moldar a corrida pela Casa Branca de diversas maneiras. Aqui estão quatro pontos observados nas midterms que dão pistas sobre como poderá ser a próxima corrida presidencial americana.\n1. Os grandes vencedores das midterms agora têm um impulso\nVários candidatos em potencial para a presidência concorreram nas midterms, e alguns deles se destacaram.\nO senador democrata da Geórgia Jon Ossoff venceu com uma margem considerável no Estado, onde Trump ganhou em 2024.\nEmbora já tenha afirmado que não pretende se candidatar à presidência, sua campanha bem-sucedida, com diversas viralizações na internet, projetou Ossoff nacionalmente.\nOutro potencial candidato democrata, o governador da Pensilvânia Josh Shapiro, derrotou com folga seu adversário republicano. \nShapiro não se comprometeu com uma candidatura em 2028, mas analistas apontam para sua ampla popularidade na Pensilvânia, um dos Estados-chave nas eleições, como um sinal de que ele poderia ser competitivo nacionalmente.\nO governador de Illinois, JB Pritzker, também venceu após uma campanha que analistas de seu Estado descreveram como um \"aquecimento\" para uma candidatura presidencial.\nO governador da Califórnia, Gavin Newsom, não pôde concorrer à reeleição nas eleições de meio de mandato, mas está interessado no resultado de uma iniciativa popular para taxar bilionários — contra a qual ele fez campanha por considerar que a mudança poderia afugentar os ricos e levar a perdas de arrecadação no Estado.\nPelo lado republicano, houve dois nomes com potencial para concorrer em 2028 no Arkansas.\nO senador republicano Tom Cotton e a governadora Sarah Huckabee Sanders — ex-secretária de imprensa do governo Trump — conseguiram se manter no cargo por uma margem menor do que antes, ambos conquistando pouco mais da metade dos votos no Estado conservador.\n2. JD Vance e aliados de Trump sob pressão\nEleições nos EUA: quais são os resultados históricos da votação\nAs pesquisas de boca de urna sugerem que a maré negativa para os republicanos se deveu em parte à raiva sentida pelos eleitores em relação às ações do governo Trump.\nIsso pode representar um desafio para seus potenciais sucessores que fazem parte do gabinete presidencial, incluindo o vice-presidente, JD Vance, e o secretário de Estado, Marco Rubio.\n\"A única pessoa que foi gravemente prejudicada por esta campanha eleitoral foi Vance\", analisa Karen Beckwith, professora de ciência política na Case Western Reserve University, em Ohio.\nVance já procurou se distanciar da derrota — e de uma aventura de política externa no Irã que foi politicamente desastrosa para o seu partido.\n\"O motivo da nossa derrota foi a guerra\", escreveu ele na rede social X.\nRubio negou os rumores de que estaria considerando deixar o cargo para concorrer à presidência em 2028.\nMas outros possíveis candidatos republicanos podem se beneficiar por não fazerem parte do governo. Alguns já vêm se posicionando sobre o que deu errado e quais são os próximos passos.\nNuma longa publicação no X, o senador Ted Cruz, que não concorreu à reeleição este ano, afirmou que muitos políticos republicanos parecem \"não se importar\" com os problemas econômicos enfrentados pelos eleitores.\n\"Está escuro agora, mas sempre é mais escuro antes do amanhecer, e a manhã está chegando\", escreveu ele. \"Essa é a minha oração fervorosa e esse é o meu compromisso com vocês.\"\nO governador da Flórida, Ron DeSantis, que abandonou sua candidatura presidencial em 2024 dias antes das primárias republicanas em que enfrentaria Trump, também se mostrou crítico. Ele destacou as vitórias de seu partido na Flórida como um sinal do que pode ser alcançado.\n3. Democratas de esquerda e de centro de olho no futuro\nTanto a ala centrista quanto a ala de esquerda do Partido Democrata reivindicaram a vitória com os resultados das midterms, enquanto cada lado analisa seus possíveis candidatos para 2028.\nDezenas de pessoas já estão se mobilizando para 2028, disse Jim Messina, ex-conselheiro de Obama, à BBC.\nA vitória de El-Sayed em Michigan foi um momento decisivo para os democratas de esquerda, pois ele triunfou em um Estado-pêndulo.\nSeus apoiadores agora afirmam que sua vitória pode impulsionar candidatos de esquerda nas eleições de 2028.\n\"As antigas noções de elegibilidade ficaram para trás, e economistas populistas ousados, de fora do sistema, provaram que podem vencer em Estados decisivos\", disse Adam Green, cofundador do Comitê de Campanha para Mudanças Progressistas.\nGreen acrescenta que \"o cenário está favorável\" para candidatos como a representante democrata de Nova York Alexandria Ocasio-Cortez concorrerem nas primárias.\nDemocratas moderados também reivindicaram vitórias em todo o país. O \"Blue Dog Caucus\", grupo de democratas moderados e conservadores, conquistaram pelo menos 14 cadeiras no Congresso, quase dobrando seu tamanho atual.\nIsso levou muitos dentro desse segmento do partido a defender que candidatos de centro que se apresentam como pragmáticos e dispostos a trabalhar com conservadores poderiam atrair eleitores republicanos.\nDado o sucesso dos candidatos democratas que focaram em questões relacionadas ao custo de vida, é provável que uma abordagem que priorize a economia volte a ser um foco daqui a dois anos.\nAmirah Siquierah, diretora de assuntos federais do Partido das Famílias Trabalhadoras, afirmou que os candidatos vitoriosos em 2028 combinarão o populismo econômico com novas preocupações, como com os data centers (grandes centros de processamento de dados que permitem o funcionamento da internet e de serviços digitais).\nO Texas tem uma nova governadora democrata, Gina Hinojosa\nGetty Images via BBC\n4. O eleitorado não pertence a ninguém\nAmbos os partidos terão de lidar com um cenário político em transformação e uma coligação de apoio instável para 2028.\nRegiões do país antes consideradas \"seguras\" para os republicanos não podem mais ser vistas como redutos conservadores. \nO Texas agora conta com apenas um candidato republicano em nível estadual, o que significa que seus 40 votos no colégio eleitoral podem estar em disputa em 2028.\nChristina Pascucci, analista política e ex-candidata ao Senado pela Califórnia, afirmou que as eleições de meio de mandato \"desafiaram pressupostos políticos antigos\" e mostraram que \"nenhum dos partidos pode se dar ao luxo de considerar seus redutos tradicionais como garantidos\".\nIsso vale tanto para democratas quanto para republicanos, que precisarão conquistar os eleitores indecisos, acrescenta Pascucci, diretora-executiva da consultoria Atlas Global.\n\"Nenhum dos partidos é dono desses eleitores\", resume.\nOs eleitores latinos e da classe trabalhadora que apoiaram Trump deram um passo atrás, revertendo muitos dos ganhos que ele havia obtido com esses eleitorados em sua bem-sucedida campanha de 2024.\nDriena Sixto, ex-porta-voz da organização Turning Point USA e comentarista política conservadora, diz à BBC acreditar que os republicanos terão que mudar sua mensagem para os eleitores latinos antes de 2028.\n\"Da última vez, a mensagem da campanha foi sobre comunidades seguras e o combate ao tráfico de pessoas\", disse ela.\n\"Depois que o presidente tomou posse, acho que muitas das mensagens da Casa Branca deram muita ênfase às deportações. Essa foi a causa da divisão.\"",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Sat, 07 Nov 2026 18:37:53 -0000"
-    },
-    {
-      "id": "65f4fd4403ed",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Eleições na Nova Zelândia terminam com principais partidos praticamente empatados",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/07/eleicoes-na-nova-zelandia-terminam-com-principais-partidos-praticamente-empatados.ghtml",
-      "summary": "Sessão eleitoral na Nova Zelândia\nREUTERS/Hollie Adams\nO Partido Nacional, de centro-direita, que governa a Nova Zelândia, e o principal partido da oposição, o Partido Trabalhista, estão praticamente empatados após a contagem inicial das eleições gerais em todo o país, neste sábado (7).\nCom mais de 95% dos votos apurados, ambos os partidos estão com pouco menos de 30% dos votos, com apenas alguns milhares de votos separando os dois.\nUma projeção da Comissão Eleitoral da Nova Zelândia mostrou que a atual coligação governante de três partidos, liderada pelo Partido Nacional, teria uma maioria de duas cadeiras, após uma eleição dominada por uma economia em dificuldades e pela desilusão dos eleitores com os dois principais concorrentes.\nChristopher Luxon, líder do Partido Nacional, acena enquanto está no palco com sua esposa Amanda, sua filha Olivia e seu filho William em uma festa eleitoral em Auckland, Nova Zelândia\nREUTERS/David Rowland\nApós a divulgação dos resultados parciais, ambos os partidos se pronunciaram. O atual primeiro-ministro, Christopher Luxon, chamou os números de animadores ao falar a seus apoiadores em Auckland:\n\"É animador ver que, pelos números obtidos até agora, o Partido Nacional é mais uma vez o maior partido no parlamento, e temos um caminho para formar o próximo governo. Mas preciso dizer que, mesmo agora, está muito difícil prever o resultado\".\nO líder trabalhista Chris Hipkins transmitiu uma mensagem semelhante em Upper Hutt, uma cidade a nordeste da capital Wellington. Disse que \"pode levar um pouco mais de tempo\" para entender o que acontecerá daqui pra frente no governo.\nO líder do Partido Trabalhista, Chris Hipkins, participa de uma festa para acompanhar a apuração dos votos na noite da eleição, em Upper Hutt, Nova Zelândia\nREUTERS/Hollie Adams\nOs votos especiais, que ainda não foram contabilizados, incluem os de eleitores no exterior ou de pessoas fora de seu distrito eleitoral. Eles só serão divulgados no dia 27 de novembro.\nEsses votos geralmente favorecem a esquerda, o que pode ser crucial em distritos eleitorais onde a disputa entre os candidatos do Partido Trabalhista e do Partido Nacional permanece acirrada.\nEntenda a formação de governo na Nova Zelândia\nEm 1996, a Nova Zelândia adotou um sistema proporcional misto, o que significa que as pessoas votam tanto no partido quanto em um candidato da circunscrição local.\nExistem 71 assentos eleitorais e pelo menos 49 assentos partidários, sendo que um partido ou coligação precisa de maioria para formar governo.\nAgora no g1\nO sistema eleitoral da Nova Zelândia faz das coligações a norma, e a disputa acirrada deste ano significa que um ou mais dos partidos menores do país quase certamente participarão de uma coligação governamental.\nNessa eleição, o objetivo dos partidos de esquerda, incluindo o Trabalhista, é fazer da coligação liderada pelo Partido Nacional o primeiro governo de um único mandato em pouco mais de 50 anos.\nCaso a coligação liderada pelo Partido Nacional perca a maioria na contagem oficial, ela ou uma coligação de esquerda precisarão do apoio do Partido da Oportunidade, de centro, que provavelmente entrará no parlamento pela primeira vez.\nA líder do partido Opportunity, Qiulae Wong, disse que procuraria negociar com o partido que obtivesse o maior número de cadeiras após a divulgação dos resultados oficiais:\n\"Tomamos essa decisão com base no fato de que precisamos da maioria das cadeiras no parlamento para formar um governo. Portanto, é nisso que vamos nos manter\".",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Sat, 07 Nov 2026 11:45:51 -0000"
-    },
-    {
-      "id": "4d346e5d8c98",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
-      "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
-      "summary": "A expectativa em torno da eleição presidencial já começou — e aqui estão algumas pistas que as 'midterms' deram do que pode acontecer.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Sat, 07 Nov 2026 17:33:43 GMT"
-    },
-    {
-      "id": "3eff80734dfd",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Wed, 04 Nov 2026 23:24:52 GMT"
-    },
-    {
-      "id": "643cfa8ed55b",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reeleição, dois anos atrás.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Thu, 05 Nov 2026 20:28:04 GMT"
+      "crossOutlets": [],
+      "score": 58,
+      "publishedRaw": "08 Nov 2026 07:00:00 -0300"
     },
     {
       "id": "40967ffedf2f",
