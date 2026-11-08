@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:26:49.135589+00:00",
+  "generated_at": "2026-11-08T22:24:05.439765+00:00",
   "items": [
     {
       "id": "d4c43451ec24",
@@ -19,36 +19,11 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
       "score": 94,
       "publishedRaw": "Sun, 08 Nov 2026 15:01:01 -0000"
-    },
-    {
-      "id": "56edbd67438c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Exército do Lula’: Janones e governo tentam manter militância ativa para pressionar Congresso e STF",
-      "link": "https://www.estadao.com.br/politica/exercito-do-lula-janones-e-governo-tentam-manter-militancia-ativa-para-pressionar-congresso-e-stf/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Congresso",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 92,
-      "publishedRaw": "Sat, 07 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "d86b8ccfa99f",
@@ -91,6 +66,28 @@
       ],
       "score": 91,
       "publishedRaw": "Sun, 08 Nov 2026 08:30:00 +0000"
+    },
+    {
+      "id": "56edbd67438c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Exército do Lula’: Janones e governo tentam manter militância ativa para pressionar Congresso e STF",
+      "link": "https://www.estadao.com.br/politica/exercito-do-lula-janones-e-governo-tentam-manter-militancia-ativa-para-pressionar-congresso-e-stf/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Congresso",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 91,
+      "publishedRaw": "Sat, 07 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "8cdc86e06d4a",
@@ -150,7 +147,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -173,10 +169,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
+        "G1 - Economia"
       ],
       "score": 89,
       "publishedRaw": "Fri, 06 Nov 2026 22:44:14 -0000"
@@ -197,7 +190,6 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Política",
         "Poder360"
       ],
@@ -225,6 +217,46 @@
       "publishedRaw": "Sat, 07 Nov 2026 17:28:05 +0000"
     },
     {
+      "id": "b9560472e586",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Heloisa Bolsonaro faz relato de movimentação “estranha” em casa",
+      "link": "https://www.poder360.com.br/poder-gente/heloisa-bolsonaro-faz-relato-de-movimentacao-estranha-em-casa/",
+      "summary": "Mulher de Eduardo Bolsonaro diz que vizinhos acionaram a polícia após movimento ser flagrado por câmeras de segurança",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Sun, 08 Nov 2026 20:27:05 +0000"
+    },
+    {
+      "id": "f620ee22315d",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Carlos Bolsonaro volta a contestar condenação do pai pelo 8 de Janeiro",
+      "link": "https://www.poder360.com.br/poder-congresso/carlos-bolsonaro-volta-a-contestar-condenacao-do-pai-pelo-8-de-janeiro/",
+      "summary": "Senador eleito por SC diz que Jair não poderia responder por depredações por estar nos EUA; condenação se baseou em articulações golpistas, não na presença física nos ataques",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Sun, 08 Nov 2026 20:25:05 +0000"
+    },
+    {
       "id": "2fdceee75d7a",
       "source": "BBC Brasil",
       "tipo": "mainstream",
@@ -239,13 +271,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Sun, 08 Nov 2026 09:22:52 GMT"
     },
     {
@@ -263,117 +292,11 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 88,
+      "score": 87,
       "publishedRaw": "Tue, 03 Nov 2026 21:09:23 GMT"
-    },
-    {
-      "id": "20421c2b4af0",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Carlos Bolsonaro diz que Flávio é “boicotado” diariamente",
-      "link": "https://www.poder360.com.br/poder-congresso/carlos-bolsonaro-diz-que-flavio-e-boicotado-diariamente/",
-      "summary": "Senador eleito afirma que seu irmão é ignorado por setores da direita desde que foi indicado pelo pai para disputar a Presidência",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 88,
-      "publishedRaw": "Sun, 08 Nov 2026 16:50:46 +0000"
-    },
-    {
-      "id": "559c1c9955cc",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump afirma que resultados das eleições de meio de mandato são 'gigantesco retrocesso' para EUA",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/trump-afirma-que-resultados-das-eleicoes-de-meio-de-mandato-sao-gigantesco-retrocesso-para-eua.shtml",
-      "summary": "O presidente americano, Donald Trump, disse neste domingo (8) que as eleições de meio de mandato, nas quais seu Partido Republicano perdeu o controle do Congresso, representaram \"um gigantesco retrocesso\" dos Estados Unidos.\nLeia mais (11/08/2026 - 14h23)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "08 Nov 2026 14:23:00 -0300"
-    },
-    {
-      "id": "aceb49c2e058",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Eisenkot convida partido de Netanyahu a formar coalizão após eleições em Israel",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-a-formar-coalizao-apos-eleicoes-em-israel.shtml",
-      "summary": "Gadi Eisenkot, designadopara formar um novo governo em Israel, disse estar aberto à possibilidade de o primeiro-ministro em fim de mandato, Binyamin Netanyahu, e alguns de seus aliados de extrema direita integrarem uma coalizão governamental, desde que sob o seu comando .\nLeia mais (11/08/2026 - 13h09)",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "08 Nov 2026 13:09:00 -0300"
-    },
-    {
-      "id": "8bf2fdc1a833",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Quaest: 70% acham que governo Lula terá mais conflitos com o Congresso",
-      "link": "https://www.cnnbrasil.com.br/politica/quaest-70-acham-que-governo-lula-tera-mais-conflitos-com-o-congresso/",
-      "summary": "Pesquisa \"O Brasil depois das urnas\" ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro; margem de erro é de dois pontos percentuais, para mais ou para menos, com intervalo de confiança de 95%",
-      "tags": [
-        "Congresso",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 87,
-      "publishedRaw": "Sun, 08 Nov 2026 17:15:02 +0000"
-    },
-    {
-      "id": "229f2922b8a9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
-      "link": "https://www.estadao.com.br/politica/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest/",
-      "summary": "",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Sun, 08 Nov 2026 12:00:00 +0000"
     },
     {
       "id": "3ba7daa50fc5",
@@ -390,73 +313,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 87,
+      "score": 86,
       "publishedRaw": "Sat, 07 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "id": "e1df6ece1296",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/07/o-que-derrota-de-trump-nas-eleicoes-legislativas-significa-para-a-disputa-da-presidencia-dos-eua-em-2028.ghtml",
-      "summary": "O senador democrata Jon Ossoff e o vice-presidente republicano JD Vance são possíveis nomes a concorrer à presidência em 2028\nREUTERS\nVotos da eleição de meio de mandato nos Estados Unidos ainda estão sendo contados, mas o cenário político já se volta para a corrida presidencial de 2028.\nImpulsionados por vitórias significativas no Congresso, os democratas ganharam força enquanto se preparam para a disputa pela sucessão do presidente Donald Trump.\nMas um bom desempenho nas eleições de meio de mandato, as midterms, não garante a conquista da Casa Branca dois anos depois. O democrata Barack Obama foi reeleito em 2012, apesar de grandes vitórias republicanas em 2010.\nNão há oficialmente candidatos para suceder Trump, mas nomes em potencial estão se preparando nos bastidores. \nDeclarações do vice-presidente J.D. Vance com reflexões sobre as derrotas dos republicanos nas midterms foram interpretadas como uma preparação para uma candidatura em 2028.\nOs resultados da eleição da última terça-feira e a magnitude histórica dos ganhos democratas podem moldar a corrida pela Casa Branca de diversas maneiras. Aqui estão quatro pontos observados nas midterms que dão pistas sobre como poderá ser a próxima corrida presidencial americana.\n1. Os grandes vencedores das midterms agora têm um impulso\nVários candidatos em potencial para a presidência concorreram nas midterms, e alguns deles se destacaram.\nO senador democrata da Geórgia Jon Ossoff venceu com uma margem considerável no Estado, onde Trump ganhou em 2024.\nEmbora já tenha afirmado que não pretende se candidatar à presidência, sua campanha bem-sucedida, com diversas viralizações na internet, projetou Ossoff nacionalmente.\nOutro potencial candidato democrata, o governador da Pensilvânia Josh Shapiro, derrotou com folga seu adversário republicano. \nShapiro não se comprometeu com uma candidatura em 2028, mas analistas apontam para sua ampla popularidade na Pensilvânia, um dos Estados-chave nas eleições, como um sinal de que ele poderia ser competitivo nacionalmente.\nO governador de Illinois, JB Pritzker, também venceu após uma campanha que analistas de seu Estado descreveram como um \"aquecimento\" para uma candidatura presidencial.\nO governador da Califórnia, Gavin Newsom, não pôde concorrer à reeleição nas eleições de meio de mandato, mas está interessado no resultado de uma iniciativa popular para taxar bilionários — contra a qual ele fez campanha por considerar que a mudança poderia afugentar os ricos e levar a perdas de arrecadação no Estado.\nPelo lado republicano, houve dois nomes com potencial para concorrer em 2028 no Arkansas.\nO senador republicano Tom Cotton e a governadora Sarah Huckabee Sanders — ex-secretária de imprensa do governo Trump — conseguiram se manter no cargo por uma margem menor do que antes, ambos conquistando pouco mais da metade dos votos no Estado conservador.\n2. JD Vance e aliados de Trump sob pressão\nEleições nos EUA: quais são os resultados históricos da votação\nAs pesquisas de boca de urna sugerem que a maré negativa para os republicanos se deveu em parte à raiva sentida pelos eleitores em relação às ações do governo Trump.\nIsso pode representar um desafio para seus potenciais sucessores que fazem parte do gabinete presidencial, incluindo o vice-presidente, JD Vance, e o secretário de Estado, Marco Rubio.\n\"A única pessoa que foi gravemente prejudicada por esta campanha eleitoral foi Vance\", analisa Karen Beckwith, professora de ciência política na Case Western Reserve University, em Ohio.\nVance já procurou se distanciar da derrota — e de uma aventura de política externa no Irã que foi politicamente desastrosa para o seu partido.\n\"O motivo da nossa derrota foi a guerra\", escreveu ele na rede social X.\nRubio negou os rumores de que estaria considerando deixar o cargo para concorrer à presidência em 2028.\nMas outros possíveis candidatos republicanos podem se beneficiar por não fazerem parte do governo. Alguns já vêm se posicionando sobre o que deu errado e quais são os próximos passos.\nNuma longa publicação no X, o senador Ted Cruz, que não concorreu à reeleição este ano, afirmou que muitos políticos republicanos parecem \"não se importar\" com os problemas econômicos enfrentados pelos eleitores.\n\"Está escuro agora, mas sempre é mais escuro antes do amanhecer, e a manhã está chegando\", escreveu ele. \"Essa é a minha oração fervorosa e esse é o meu compromisso com vocês.\"\nO governador da Flórida, Ron DeSantis, que abandonou sua candidatura presidencial em 2024 dias antes das primárias republicanas em que enfrentaria Trump, também se mostrou crítico. Ele destacou as vitórias de seu partido na Flórida como um sinal do que pode ser alcançado.\n3. Democratas de esquerda e de centro de olho no futuro\nTanto a ala centrista quanto a ala de esquerda do Partido Democrata reivindicaram a vitória com os resultados das midterms, enquanto cada lado analisa seus possíveis candidatos para 2028.\nDezenas de pessoas já estão se mobilizando para 2028, disse Jim Messina, ex-conselheiro de Obama, à BBC.\nA vitória de El-Sayed em Michigan foi um momento decisivo para os democratas de esquerda, pois ele triunfou em um Estado-pêndulo.\nSeus apoiadores agora afirmam que sua vitória pode impulsionar candidatos de esquerda nas eleições de 2028.\n\"As antigas noções de elegibilidade ficaram para trás, e economistas populistas ousados, de fora do sistema, provaram que podem vencer em Estados decisivos\", disse Adam Green, cofundador do Comitê de Campanha para Mudanças Progressistas.\nGreen acrescenta que \"o cenário está favorável\" para candidatos como a representante democrata de Nova York Alexandria Ocasio-Cortez concorrerem nas primárias.\nDemocratas moderados também reivindicaram vitórias em todo o país. O \"Blue Dog Caucus\", grupo de democratas moderados e conservadores, conquistaram pelo menos 14 cadeiras no Congresso, quase dobrando seu tamanho atual.\nIsso levou muitos dentro desse segmento do partido a defender que candidatos de centro que se apresentam como pragmáticos e dispostos a trabalhar com conservadores poderiam atrair eleitores republicanos.\nDado o sucesso dos candidatos democratas que focaram em questões relacionadas ao custo de vida, é provável que uma abordagem que priorize a economia volte a ser um foco daqui a dois anos.\nAmirah Siquierah, diretora de assuntos federais do Partido das Famílias Trabalhadoras, afirmou que os candidatos vitoriosos em 2028 combinarão o populismo econômico com novas preocupações, como com os data centers (grandes centros de processamento de dados que permitem o funcionamento da internet e de serviços digitais).\nO Texas tem uma nova governadora democrata, Gina Hinojosa\nGetty Images via BBC\n4. O eleitorado não pertence a ninguém\nAmbos os partidos terão de lidar com um cenário político em transformação e uma coligação de apoio instável para 2028.\nRegiões do país antes consideradas \"seguras\" para os republicanos não podem mais ser vistas como redutos conservadores. \nO Texas agora conta com apenas um candidato republicano em nível estadual, o que significa que seus 40 votos no colégio eleitoral podem estar em disputa em 2028.\nChristina Pascucci, analista política e ex-candidata ao Senado pela Califórnia, afirmou que as eleições de meio de mandato \"desafiaram pressupostos políticos antigos\" e mostraram que \"nenhum dos partidos pode se dar ao luxo de considerar seus redutos tradicionais como garantidos\".\nIsso vale tanto para democratas quanto para republicanos, que precisarão conquistar os eleitores indecisos, acrescenta Pascucci, diretora-executiva da consultoria Atlas Global.\n\"Nenhum dos partidos é dono desses eleitores\", resume.\nOs eleitores latinos e da classe trabalhadora que apoiaram Trump deram um passo atrás, revertendo muitos dos ganhos que ele havia obtido com esses eleitorados em sua bem-sucedida campanha de 2024.\nDriena Sixto, ex-porta-voz da organização Turning Point USA e comentarista política conservadora, diz à BBC acreditar que os republicanos terão que mudar sua mensagem para os eleitores latinos antes de 2028.\n\"Da última vez, a mensagem da campanha foi sobre comunidades seguras e o combate ao tráfico de pessoas\", disse ela.\n\"Depois que o presidente tomou posse, acho que muitas das mensagens da Casa Branca deram muita ênfase às deportações. Essa foi a causa da divisão.\"",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Sat, 07 Nov 2026 18:37:53 -0000"
-    },
-    {
-      "id": "3eff80734dfd",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Wed, 04 Nov 2026 23:24:52 GMT"
-    },
-    {
-      "id": "643cfa8ed55b",
-      "source": "BBC Brasil",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
-      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reeleição, dois anos atrás.",
-      "tags": [
-        "eleições"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 86,
-      "publishedRaw": "Thu, 05 Nov 2026 20:28:04 GMT"
     },
     {
       "id": "602a21cd881d",
@@ -473,11 +334,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 15:01:43 -0000"
     },
     {
@@ -495,11 +354,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 12:38:32 -0000"
     },
     {
@@ -517,11 +374,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 08:00:00 -0000"
     },
     {
@@ -539,11 +394,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 03:00:00 -0000"
     },
     {
@@ -561,11 +414,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 06 Nov 2026 20:19:28 -0000"
     },
     {
@@ -583,11 +434,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 06 Nov 2026 19:52:17 -0000"
     },
     {
@@ -605,11 +454,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 06 Nov 2026 16:12:59 -0000"
     },
     {
@@ -627,34 +474,50 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "Poder360"
+        "G1 - Economia"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Fri, 06 Nov 2026 16:05:07 -0000"
     },
     {
-      "id": "35e922983635",
-      "source": "Folha de São Paulo",
+      "id": "9cec53bd2b27",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Cinco obras bilionárias acumulam atrasos e pressionam governo Lula 4",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/cinco-obras-bilionarias-acumulam-atrasos-e-pressionam-governo-lula-4.shtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) começará seu quarto mandato com o desafio de destravar projetos emblemáticos de infraestrutura, ao mesmo tempo em que contará com menos dinheiro em caixa para investimento, principalmente no setor de transportes.\nLeia mais (11/08/2026 - 13h20)",
+      "title": "PT abre vaquinha virtual para quitar despesas da campanha de Lula",
+      "link": "https://www.cnnbrasil.com.br/politica/pt-abre-vaquinha-virtual-para-quitar-despesas-da-campanha-de-lula/",
+      "summary": "Meta do partido é arrecadar R$ 7 milhões por meio de doações via Pix até o dia 11 de novembro; segundo dados do TSE, equipe do petista acumulou R$ 93,9 milhões em despesas",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "Sun, 08 Nov 2026 19:56:37 +0000"
+    },
+    {
+      "id": "1bbc898deca4",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Sistemas eleitorais distintos produzirão condições opostas de governabilidade de Trump e Lula",
+      "link": "https://www.estadao.com.br/politica/carlos-pereira/sistemas-eleitorais-distintos-produzirao-condicoes-opostas-de-governabilidade-de-trump-e-lula/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Estadão",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "08 Nov 2026 13:20:00 -0300"
+      "score": 84,
+      "publishedRaw": "Sun, 08 Nov 2026 21:00:00 +0000"
     },
     {
       "id": "a04b91a934cc",
@@ -670,12 +533,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 12:00:00 +0000"
     },
     {
@@ -692,12 +553,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sun, 08 Nov 2026 08:30:00 +0000"
     },
     {
@@ -714,12 +573,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 07 Nov 2026 20:04:12 +0000"
     },
     {
@@ -736,12 +593,10 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 85,
+      "score": 84,
       "publishedRaw": "Sat, 07 Nov 2026 20:46:36 +0000"
     },
     {
@@ -758,57 +613,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 06 Nov 2026 23:05:48 +0000"
-    },
-    {
-      "id": "d9853685b89a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados de Lula temem ‘efeito Waldir Pires’ se Fonteles assumir Fazenda; entenda",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-de-lula-temem-efeito-waldir-pires-se-fonteles-assumir-fazenda-entenda/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 07 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "8acdc29dc067",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Estamos fazendo uma “guerra pela educação”, diz Lula sobre Enem",
-      "link": "https://www.poder360.com.br/poder-educacao/estamos-fazendo-uma-guerra-pela-educacao-diz-lula-sobre-enem/",
-      "summary": "Presidente visitou na manhã deste domingo (8.nov) a sala de monitoramento do Inep para acompanhar a logística de aplicação do exame",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Sun, 08 Nov 2026 15:24:20 +0000"
+      "score": 84,
+      "publishedRaw": "Fri, 06 Nov 2026 23:05:48 +0000"
     },
     {
       "id": "1ac2f6e609c9",
@@ -825,11 +634,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Sun, 08 Nov 2026 08:00:00 -0000"
     },
     {
@@ -847,11 +654,9 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Sun, 08 Nov 2026 03:00:00 -0000"
     },
     {
@@ -868,12 +673,10 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Thu, 05 Nov 2026 08:33:48 GMT"
     },
     {
@@ -890,13 +693,65 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
+      "score": 81,
       "publishedRaw": "Tue, 03 Nov 2026 22:04:35 GMT"
+    },
+    {
+      "id": "229f2922b8a9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Maioria reprova ida de Flávio aos EUA, crê que ele fugiu e vê eleições limpas no Brasil, diz Quaest",
+      "link": "https://www.estadao.com.br/politica/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-no-brasil-diz-quaest/",
+      "summary": "",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 78,
+      "publishedRaw": "Sun, 08 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "id": "3eff80734dfd",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Democratas conquistaram o controle das duas Casas do Congresso e venceram disputas importantes nos Estados, enquanto Donald Trump, republicanos e aliados enfrentaram derrotas em diferentes partes do país.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Wed, 04 Nov 2026 23:24:52 GMT"
+    },
+    {
+      "id": "643cfa8ed55b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
+      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pesquisas de boca de urna realizadas pelo consórcio que reúne a agência AP e outros grandes órgãos de imprensa indicam que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, eliminando os avanços que beneficiaram Trump na sua reeleição, dois anos atrás.",
+      "tags": [
+        "eleições"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 77,
+      "publishedRaw": "Thu, 05 Nov 2026 20:28:04 GMT"
     },
     {
       "id": "fefd90ffdf8f",
@@ -927,26 +782,10 @@
         "Congresso"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão"
       ],
-      "score": 68,
+      "score": 63,
       "publishedRaw": "Sun, 08 Nov 2026 17:29:21 GMT"
-    },
-    {
-      "id": "bed563369440",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Família transforma briga por pasta de amendoim em exportação e quer ser 'Nestlé dos saudáveis'",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/familia-transforma-briga-por-pasta-de-amendoim-em-exportacao-e-quer-ser-nestle-dos-saudaveis.shtml",
-      "summary": "Irritada pelos problemas financeiros e cansada de ver os filhos brigando por um pote de pasta de amendoim de qualidade sofrível, Juliana Maena fez uma receita caseira do produto com os R$ 10 que tinha no bolso.\nLeia mais (11/08/2026 - 15h00)",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "08 Nov 2026 15:00:00 -0300"
     },
     {
       "id": "40967ffedf2f",
