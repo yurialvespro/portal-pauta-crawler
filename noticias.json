@@ -1,51 +1,6 @@
 {
-  "generated_at": "2026-11-11T00:30:21.362196+00:00",
+  "generated_at": "2026-11-11T07:38:31.581182+00:00",
   "items": [
-    {
-      "id": "c710671233de",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula estava preso e Bolsonaro governava quando STF abriu inquérito das fake news, há 2,8 mil dias",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-estava-preso-e-bolsonaro-governava-quando-stf-abriu-inquerito-das-fake-news-ha-28-mil-dias/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 93,
-      "publishedRaw": "Tue, 10 Nov 2026 17:55:42 +0000"
-    },
-    {
-      "id": "7a920f76c63d",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relator no TSE vota para condenar Meta a multa de R$ 7,5 mi por tratamento desigual entre Lula e Flávio nas eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/relator-no-tse-vota-para-condenar-meta-a-multa-de-r-75-mi-por-tratamento-desigual-entre-lula-e-flavio-nas-eleicoes.shtml",
-      "summary": "O ministro Marco Aurélio Bellizze, relator de ação envolvendo a Meta no TSE (Tribunal Superior Eleitoral), votou nesta terça-feira (10) para condenar a empresa de tecnologia a uma multa de R$ 7,5 milhões por dar um tratamento desigual, durante a campanha eleitoral, entre o presidente Lula (PT) e o senador Flávio Bolsonaro (PL) nas redes.\nLeia mais (11/10/2026 - 21h26)",
-      "tags": [
-        "eleições",
-        "TSE",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 91,
-      "publishedRaw": "10 Nov 2026 21:26:00 -0300"
-    },
     {
       "id": "da56e0e72214",
       "source": "G1 - Política",
@@ -60,32 +15,151 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "Folha de São Paulo"
       ],
       "score": 88,
       "publishedRaw": "Tue, 10 Nov 2026 18:59:25 -0000"
+    },
+    {
+      "id": "c710671233de",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula estava preso e Bolsonaro governava quando STF abriu inquérito das fake news, há 2,8 mil dias",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-estava-preso-e-bolsonaro-governava-quando-stf-abriu-inquerito-das-fake-news-ha-28-mil-dias/",
+      "summary": "",
+      "tags": [
+        "STF",
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 88,
+      "publishedRaw": "Tue, 10 Nov 2026 17:55:42 +0000"
+    },
+    {
+      "id": "2ecf5228da35",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "“Não vamos nos omitir”, diz Marinho sobre impeachment de ministros do STF",
+      "link": "https://www.cnnbrasil.com.br/politica/nao-vamos-nos-omitir-diz-marinho-sobre-impeachment-de-ministros-do-stf/",
+      "summary": "À CNN, senador e líder da oposição disse que pretende \"cumprir a Constituição\" e analisar pedidos parados no Senado",
+      "tags": [
+        "STF",
+        "impeachment"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Mundo",
+        "G1 - Política"
+      ],
+      "score": 87,
+      "publishedRaw": "Wed, 11 Nov 2026 02:06:48 +0000"
+    },
+    {
+      "id": "3294bfcdc274",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE multa Meta em R$ 7,5 milhões por descumprir decisões de isonomia entre Lula e Flávio",
+      "link": "https://www.estadao.com.br/politica/tse-multa-meta-descumprir-decisoes-de-isonomia-entre-lula-e-flavio/",
+      "summary": "",
+      "tags": [
+        "TSE",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Wed, 11 Nov 2026 01:00:26 +0000"
     },
     {
       "id": "334ba4d218d6",
       "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Relator do TSE vota para multar Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
+      "title": "TSE decide multar Meta em R$ 7,5 milhões por descumprir decisão durante as eleições",
       "link": "https://g1.globo.com/politica/noticia/2026/11/10/tse-meta-descumprir-decisao-sobre-eleicoes.ghtml",
-      "summary": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), votou nesta terça-feira (10) para multar a empresa Meta em R$ 7,5 milhões por descumprimento de decisão da Corte durante as eleições. \nSegundo o ministro, a Meta (dona do Facebook, WhatsApp e Instagram) deixou de cumprir prazos fixados pelo TSE para adotar medidas que garantissem tratamento igualitário entre os presidenciáveis na disputa eleitoral.\nAlém disso, afirma que a empresa apresentou informações de forma fracionada ao tribunal, em linguagem estrangeira e técnica, o que dificultou a verificação de dificuldades técnicas apontadas para justificar falhas.\nAgora no g1\nBellizze afirmou que nesta ação não é possível apontar que a Meta atuou de forma deliberada para desequilibrar o pleito, que isso depende de produção de prova robusta, o que não é possível no processo que está em análise.\nOs ministros analisam uma ação da campanha do presidente Luiz Inácio Lula da Silva (PT), que foi reeleito, e aponta que houve um tratamento desigual na distribuição de conteúdos políticos e na veiculação de anúncios eleitorais durante o segundo turno das eleições.\nA campanha petista acusou a plataforma de restringir seletivamente a distribuição de publicações ligadas ao seu campo político e de descumprir obrigações previstas na legislação eleitoral. \nAlém disso, também questiona limitações no impulsionamento de anúncios de campanha e possíveis diferenças no tratamento dado às candidaturas.\nA advogada Patrícia Martins afirmou que todas as ordens da Corte foram devidamente cumpridas, que no processo não foi apontado nenhum direcionamento político e que ocorreram apenas falhas técnicas corrigidas de forma breve e devidamente explicadas.\n\"São falsas alegações de que a Meta interferiu ou favoreceu em nome de qualquer candidato ou grupo político. A Meta continuará cumprindo a legislação brasileira, corrigindo erros quando existirem e garantindo igualitária de todos os espectros políticos\", disse.\nO advogado da campanha do presidente, Angelo Ferraro, disse que o julgamento não trata de anúncios, mas envolve a soberania nacional e a liberdade do voto.\n\"Nessa eleição a Meta deixou de ser plataforma e passou a ser agente político e aparentemente escolheu um lado. O Brasil não é colônia de ninguém e seu presidente não será escolhido pelo Vale do Silício ou Washington. Nenhuma nação soberana admite isso, muito menos que uma empresa internacional influencie o voto\", afirmou.\nBellizze chegou a determinar que a Meta garantisse tratamento igualitário entre as campanhas de Lula e do candidato derrotado Flávio Bolsonaro (PL). A decisão foi mantida por unanimidade pelo TSE. \nMesmo depois da determinação do tribunal, a Procuradoria-Geral Eleitoral (PGE) avaliou que a empresa Meta deixou de cumprir parte das determinações da Corte para o tratamento de conteúdo das campanhas presidenciais no segundo turno e que havia indicativo de nova violação de isonomia no uso da ferramenta de inteligência artificial. \nNa avaliação do MPE, a empresa descumpriu determinações “por reconhecimento expresso ou implícito da própria representada”.\nSegundo a Procuradoria, não foram adotados:\nprocessamento isonômico das denúncias e relatório dos canais;\ninforme individualizado dos anúncios reavaliados e suspensos;\ninforme das providências concretamente adotadas;\nreapresentação do relatório sigiloso em língua portuguesa.\nJustiça de São Paulo proíbe Meta de usar conteúdo jornalístico sem autorização\nJornal Nacional/ Reprodução",
+      "summary": "O Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (10), por unanimidade, multar em R$ 7,5 milhões a empresa Meta (dona do Facebook, WhatsApp e Instagram) por descumprimento de decisões da Corte durante as eleições.\nOs ministros seguiram o voto do relator, ministro Marco Aurélio Bellizze, para aplicar a punição à empresa Meta por deixar de cumprir integralmente determinações da Corte para garantir isonomia na disputal presidencial, substituindo prazos judiciais fixados pelo TSE por prazos próprios, além de falta de transparência. \nAlém disso, afirma que a empresa apresentou informações de forma fracionada ao tribunal, em linguagem estrangeira e técnica, o que dificultou a verificação de dificuldades técnicas apontadas para justificar falhas.\nAgora no g1\nOs ministros analisaram uma ação da campanha do presidente Luiz Inácio Lula da Silva (PT), que foi reeleito, e aponta que houve um tratamento desigual na distribuição de conteúdos políticos e na veiculação de anúncios eleitorais durante o segundo turno das eleições.\nSegundo Bellizze, \"as plataformas digitais exercem poder informacional que condiciona, por sistemas algorítmicos pouco transparentes, a circulação da informação política e a formação da vontade do eleitor\". \n\"A proteção do pluralismo político, da igualdade de oportunidades entre candidaturas e da autonomia do eleitor exige mecanismos efetivos de governança algorítmica, de auditoria e de fiscalização que permitam verificar o cumprimento dos deveres de transparência e de cuidado\", disse.\nO ministro afirmou que as regras do TSE impõem aos provedores deveres voltados à proteção da integridade do processo eleitoral, que decorrem de sua função social e de seu dever de cuidado. Com isso, considera que a imposição de multa e de outras medidas necessárias é indispensável para assegurar o cumprimento das decisões desta Justiça especializada.\nPara o ministro, o caso da Meta \"revelou a dificuldade de tornar efetivas as providências impostas, cumpridas, em grande parte, após os prazos, de forma incompleta ou mediante declarações cuja verificação depende de dados que somente a representada detém\".\nBellizze afirmou ainda que nesta ação não é possível apontar que a Meta atuou de forma deliberada para desequilibrar o pleito, que isso depende de produção de prova robusta, o que não é possível no processo que está em análise.\nVice-presidente do TSE, o ministro André Mendonça afirmou que, durante as eleições, sentiu resistência da Meta em cumprir as determinações da Corte. \n\"A importância do cumprimento das decisões judiciais é o eixo central. Eu confesso que durante as eleições eu tive a percepção de que não era tao simples o cumprimento das decisões, não pelo conteúdo em si, mas uma certa resistência por parte da empresa\".\nA campanha petista acusou a plataforma de restringir seletivamente a distribuição de publicações ligadas ao seu campo político e de descumprir obrigações previstas na legislação eleitoral. Além disso, questiona limitações no impulsionamento de anúncios de campanha e possíveis diferenças no tratamento dado às candidaturas.\nA advogada Patrícia Martins afirmou que todas as ordens da Corte foram devidamente cumpridas pela empresa, que no processo não foi apontado nenhum direcionamento político e que ocorreram apenas falhas técnicas corrigidas de forma breve e devidamente explicadas.\n\"São falsas alegações de que a Meta interferiu ou favoreceu em nome de qualquer candidato ou grupo político. A Meta continuará cumprindo a legislação brasileira, corrigindo erros quando existirem e garantindo igualitária de todos os espectros políticos\", disse.\nO advogado da campanha do presidente, Angelo Ferraro, disse que o julgamento não trata de anúncios, mas envolve a soberania nacional e a liberdade do voto.\n\"Nessa eleição a Meta deixou de ser plataforma e passou a ser agente político e aparentemente escolheu um lado. O Brasil não é colônia de ninguém e seu presidente não será escolhido pelo Vale do Silício ou Washington. Nenhuma nação soberana admite isso, muito menos que uma empresa internacional influencie o voto\", afirmou.\nDurante a campanha eleitoral, Bellizze chegou a determinar que a Meta garantisse tratamento igualitário entre as campanhas de Lula e do candidato derrotado Flávio Bolsonaro (PL). A decisão foi mantida por unanimidade pelo TSE. \nMesmo depois da determinação do tribunal, a Procuradoria-Geral Eleitoral (PGE) avaliou que a empresa Meta deixou de cumprir parte das determinações da Corte para o tratamento de conteúdo das campanhas presidenciais no segundo turno e que havia indicativo de nova violação de isonomia no uso da ferramenta de inteligência artificial. \nNa avaliação do MPE, a empresa descumpriu determinações “por reconhecimento expresso ou implícito da própria representada”.\nSegundo a Procuradoria, não foram adotados:\nprocessamento isonômico das denúncias e relatório dos canais;\ninforme individualizado dos anúncios reavaliados e suspensos;\ninforme das providências concretamente adotadas;\nreapresentação do relatório sigiloso em língua portuguesa.\nJustiça de São Paulo proíbe Meta de usar conteúdo jornalístico sem autorização\nJornal Nacional/ Reprodução",
       "tags": [
         "eleições",
         "TSE"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
-        "Folha de São Paulo"
+        "Estadão",
+        "Poder360"
       ],
       "score": 83,
       "publishedRaw": "Wed, 11 Nov 2026 00:01:13 -0000"
+    },
+    {
+      "id": "214ce591c378",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "TSE multa Meta em R$ 7,5 mi por descumprir decisão nas eleições",
+      "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-multa-meta-em-r-75-mi-por-descumprir-decisao-nas-eleicoes/",
+      "summary": "Corte entendeu que foram prestadas informações incompletas",
+      "tags": [
+        "eleições",
+        "TSE"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Wed, 11 Nov 2026 06:50:13 +0000"
+    },
+    {
+      "id": "568dee7a394f",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "O fim do inquérito das fake news e o STF ainda sob tensão - O Assunto #1843",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/11/o-fim-do-inquerito-das-fake-news-e-o-stf-ainda-sob-tensao-o-assunto-1843.ghtml",
+      "summary": "Em março de 2019, o ministro Dias Toffoli, então presidente do Supremo Tribunal Federal, decidiu abrir por iniciativa própria – uma prática incomum na Corte – um inquérito para investigar ataques ao STF e a seus integrantes. Toffoli designou como relator o ministro Alexandre de Moraes, fora do sistema de sorteio da Corte – outra prática inusual. Desde então Moraes coleciona controvérsias na condução do inquérito; a maior delas é a crítica sobre o objeto pouco delimitado da investigação. Durante a crise aberta que assolou o Supremo na esteira do escândalo do Banco Master, o presidente da Corte, Edson Fachin, retirou de Moraes a relatoria, assumiu o caso e o mandou para análise da Procuradoria-Geral da República. Nesta segunda-feira (9), a PGR recomendou o arquivamento do inquérito, e Fachin aceitou. \nNeste episódio, Victor Boyadjian conversa com o jornalista Valdo Cruz sobre os eventos mais importantes relacionados ao inquérito que durou 7 anos. Valdo analisa as principais medidas tomadas por Moraes neste período e explica seus impactos políticos – inclusive as repercussões da decisão de Fachin no STF e no mundo político. \nConvidado: Valdo Cruz, comentarista de política e economia da GloboNews e colunista do g1. \nO podcast O Assunto é produzido por: Luiz Felipe Silva, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nFachin diz que vai divulgar procedimentos que estavam sob sigilo\nO que você precisa saber:\nFim do inquérito das fake news contraria ala próxima a Moraes\nDe 'duração incompatível' a 'objeto esgotado': entenda o que levou Fachin a determinar o fim do inquérito das fake news\nFachin tenta amenizar crise no STF com fim de inquérito das fake news, mas caso Master mantém desafio à Corte\nQueda de sigilo de inquérito das fake news deve gerar onda de ações contra decisões do STF, avaliam ministros\nValdo: Fim do inquérito das fake news fecha um foco de crise no STF, mas caso Master ainda mantém tribunal sob tensão\nBela Megale: O próximo passo de Fachin após receber os relatórios da relação de Vorcaro com ministros do STF\nO Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio.\nAlexandre de Moraes em sessão plenária do STF\nAntonio Augusto/STF\nLula\nReprodução",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 11 Nov 2026 03:30:00 -0000"
+    },
+    {
+      "id": "14adbc0c6307",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula 4: Casa Civil pede a ministérios relatórios com prioridades e projetos em andamento",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/11/lula-4-casa-civil-pede-a-ministerios-relatorios-com-prioridades-e-projetos-em-andamento.ghtml",
+      "summary": "A Casa Civil da Presidência da República pediu aos 38 ministérios do governo do presidente Luiz Inácio Lula da Silva (PT) relatórios com informações sobre as principais políticas públicas, programas, projetos em andamento e prioridades de cada pasta.\nSegundo o órgão, \"trata-se de um procedimento habitual de organização e planejamento governamental, realizado ao final de cada gestão\". \nA solicitação aos ministérios foi feita na semana seguinte ao segundo turno das Eleições 2026, quando se confirmou a reeleição de Lula para o quarto mandato presidencial. Com isso, o petista ficará no Palácio do Planalto até janeiro de 2031.\nAgora no g1\nO governo começa a se preparar para uma transição informal do Lula 3 para o Lula 4. De acordo com a Casa Civil, como o presidente foi reeleito, não haverá uma equipe formal de transição.\nA lei que regula a transição presidencial no Brasil proíbe a criação de equipe extraordinária com cargos remunerados quando o presidente em exercício é reeleito.\nNo entanto, é possível que o presidente reeleito aproveite a própria estrutura para reorganizar o seu próximo mandato sem custos extras.\nCom as informações dos relatórios das pastas, a Casa Civil vai organizar e consolidar os dados junto aos ministérios para disponibilizá-los aos titulares que serão definidos pelo presidente Lula para o próximo mandato a partir de 5 de janeiro de 2027.\nLEIA TAMBÉM: Quando é a posse presidencial de 2027? Data passou por mudança; entenda\nLula deve definir os primeiros nomes de sua futura equipe na volta da viagem que está realizando para a Turquia e depois para as Filipinas.\nO presidente embarcou na segunda-feira (9) para participar da 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antália. Depois, ele vai para a cúpula da Associação de Nações do Sudeste Asiático (Asean) nas Filipinas.\nAntes de viajar, Lula se reuniu com ministros e aliados no Palácio da Alvorada para avaliar políticas de governo para o quarto mandato. Entre elas, discussões sobre medidas fiscais e as funções do novo ministério que será criado, da Segurança Pública, após aprovação da PEC da Segurança no Senado.\nLula tem se reunido com frequência com o governador reeleito do Piauí, Rafael Fonteles, e os ex-ministros Camilo Santana e Rui Costa. O presidente também tem se reunido com ministros como Dario Durigan (Fazenda), Bruno Moretti (Planejamento) e Miriam Belchior (Casa Civil).\nTambém há a expectativa de que o presidente crie mais ministérios no próximo mandato. Lula já anunciou que o Ministério da Justiça será desmembrado e será criado o Ministério da Segurança Pública.\nAlém disso, Lula já externou sua vontade de criar um Ministério dos Idosos. O presidente também já citou em entrevistas que quer investir mais em Comunicação Digital no próximo governo, mas não anunciou o formato, se seria por uma pasta específica ou por uma secretaria.\nVista aérea da Esplanada dos Ministérios em Brasília (DF) em novembro de 2015\nAna Volpe/Agência Senado",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Wed, 11 Nov 2026 03:00:00 -0000"
     },
     {
       "id": "059b54ec75a4",
@@ -99,8 +173,8 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 80,
       "publishedRaw": "Tue, 10 Nov 2026 23:02:15 -0000"
@@ -117,9 +191,9 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "Folha de São Paulo"
       ],
       "score": 80,
       "publishedRaw": "Tue, 10 Nov 2026 20:33:29 -0000"
@@ -136,9 +210,9 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "Folha de São Paulo"
       ],
       "score": 80,
       "publishedRaw": "Tue, 10 Nov 2026 18:39:07 -0000"
@@ -155,175 +229,68 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 80,
       "publishedRaw": "Tue, 10 Nov 2026 15:38:17 -0000"
     },
     {
-      "id": "30c5128c6246",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fim do inquérito das fake news fecha um foco de crise no STF, mas caso Master ainda mantém tribunal sob tensão",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/10/fim-do-inquerito-das-fake-news-fecha-um-foco-de-crise-no-stf-mas-caso-master-ainda-mantem-tribunal-sob-tensao.ghtml",
-      "summary": "Valdo: Fim do inquérito das fake news não fecha crise no STF\nO fim do inquérito das fake news demorou. Veio mais de sete anos depois de sua abertura, mas fecha um foco de crise dentro do Supremo Tribunal Federal (STF). \nResponsável pela decisão, o presidente do STF, Edson Fachin, tem pela frente outro ponto de tensão: o caso Master.\nFachin tomou a decisão correta ao tirar o inquérito das fake news das mãos de Alexandre de Moraes e, agora, encerrá-lo. \nMas ainda tem outro desafio para debelar as crises que enfrenta em sua presidência: levar ao plenário a discussão sobre se ministros do tribunal serão investigados pelo envolvimento com o ex-banqueiro Daniel Vorcaro.\nDe novo, Moraes aparece na lista das turbulências. Desta vez, não só ele, mas também Dias Toffoli e Nunes Marques. \nSobre os três recaem as maiores suspeitas de uma relação além do recomendável entre magistrados do Supremo e um ex-banqueiro hoje preso.\nA Polícia Federal (PF) vai entregar ainda neste mês o relatório solicitado por Fachin sobre como cada ministro do STF aparece nas mensagens do celular de Daniel Vorcaro. \nAlém de Moraes, Nunes Marques e Toffoli, também foram citados André Mendonça, Luiz Fux e Gilmar Mendes. Esses, porém, sem conteúdo comprometedor.\nCaberá ao plenário do STF analisar o relatório e decidir o que fazer em cada caso. Há uma cobrança para que os casos mais complicados e suspeitos sejam submetidos a uma investigação da própria PF. Uma ala do Supremo trabalha para arquivar tudo e, com isso, tentar debelar a crise interna.\nNo caso do inquérito das fake news, Fachin arquivou o inquérito-mãe, o 4.781, mas ainda será preciso analisar se 95 procedimentos derivados dele também serão arquivados. \nO encerramento do inquérito-mãe acaba com o poder que ele conferia a Alexandre de Moraes de abrir novos procedimentos derivados da investigação principal. O que já virou ação penal segue com Moraes até o julgamento.\nPresidente do Supremo arquiva definitivamente o inquérito das fake news\nJornal Nacional/ Reprodução",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 10:53:48 -0000"
-    },
-    {
-      "id": "e1055c721f19",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Após encerrar inquérito das fake news, STF avalia destino de mais de 100 procedimentos; relembre decisões",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/10/apos-encerrar-inquerito-das-fake-news-stf-avalia-destino-de-mais-de-100-procedimentos-relembre-decisoes.ghtml",
-      "summary": "A Presidência do Supremo Tribunal Federal (STF) ainda analisa qual será o destino de denúncias e relatórios da Polícia Federal ligados ao inquérito das fake news, encerrado nesta segunda-feira (9).\nFachin determina arquivamento do inquérito das fake news\nUm juiz auxiliar foi destacado pelo presidente do Supremo, Edson Fachin, para analisar quais providências serão adotadas em mais de 100 procedimentos que estão vinculados ao chamado \"inquérito-mãe\".\n🔎O Inquérito das Fake News é uma investigação aberta pelo STF em 2019 para apurar a existência de notícias fraudulentas, falsas comunicações de crimes, denúncias caluniosas, ameaças e outros ataques contra o STF, seus ministros e familiares.\nEdson Fachin, presidente do STF, arquiva inquérito das fake news.\nEntre esses casos estão quatro denúncias apresentadas pela Procuradoria-Geral da República (PGR).\nTrês envolvem acusações de associação criminosa e tentativa de abolição violenta do Estado Democrático de Direito no contexto das manifestações ocorridas no fim de 2022, com bloqueios de rodovias, queima de pneus e impedimento à livre circulação de veículos.\nA quarta denúncia envolve acusações de injúria e ameaça contra o ministro Gilmar Mendes.\nOutra linha de investigação que permanece em aberto apura a obtenção de dados, a confecção de dossiês e a realização de ataques virtuais contra o general Santos Cruz, o então governador de São Paulo João Doria e a ex-deputada Carla Zambelli.\nSobre as denúncias, o STF precisa ainda decidir se os casos vão ser julgados pela Corte ou se vão ser encaminhados para outra instância.\nUm caso que a PGR defendeu a continuidade é sobre uma investigação envolvendo o jornalista Luís Pablo, que mantém um blog no Maranhão e publicou reportagens sobre o suposto uso de um veículo oficial ligado ao Tribunal de Justiça do Maranhão pelo ministro Flávio Dino e familiares.\nLuís Pablo foi alvo de uma operação de busca e apreensão autorizada por Alexandre de Moraes no âmbito do inquérito. A investigação aponta suspeitas de perseguição (\"stalking\") e monitoramento ilegal de Dino.\nNa decisão que encerrou a investigação central, Fachin destacou que o arquivamento não impede o avanço de seus desdobramentos.\n\"Do mesmo modo, procedimentos investigatórios derivados poderão prosseguir quando apresentarem objeto certo, justa causa própria e autoridade competente definida. Para tanto, deverão ser formalmente individualizados, instruídos com os elementos pertinentes e encaminhados, conforme o caso, à Procuradoria-Geral da República, à Polícia Federal, ao órgão jurisdicional competente ou a outra autoridade com atribuição legal\". \nSegundo o ministro, \"o encerramento ora determinado não constitui impedimento à apuração de fatos concretos cuja investigação permaneça juridicamente possível. O que se faz cessar é a continuidade do Inquérito nº 4.781 como procedimento originário, abrangente e indefinidamente aberto, atraindo a distribuição, por prevenção, da apuração de fatos novos supervenientes\".\nSete anos de investigação\nAo longo de sete anos de tramitação, o inquérito das fake news acumulou decisões que ampliaram o alcance da investigação e provocaram controvérsias dentro e fora do STF.\nEm abril de 2019, Moraes determinou a retirada do ar da reportagem \"O amigo do amigo do meu pai\", publicada pela revista Crusoé e reproduzida pelo site O Antagonista.\nInquérito das fake news: relembre decisões que marcaram a investigação que passa de Moraes para Fachin\nA decisão gerou forte reação de entidades de imprensa e juristas, que a classificaram como censura prévia. Dias depois, a determinação foi revogada. O episódio tornou-se um dos mais controversos do inquérito.\nAo longo da investigação, foram determinados bloqueios de contas em redes sociais, buscas e apreensões e quebras de sigilo de influenciadores e ativistas políticos.\nEntre os casos mais conhecidos estão investigações contra Allan dos Santos, Oswaldo Eustáquio e outros influenciadores ligados ao ex-presidente Jair Bolsonaro (PL).\nEm 2021, o então deputado federal Daniel Silveira foi preso após divulgar um vídeo com ameaças a ministros do STF e defesa de medidas autoritárias contra a Corte.\nEmbora o processo que resultou na condenação de Silveira tenha seguido um caminho próprio, a investigação teve origem no contexto das apurações relacionadas ao inquérito das fake news e seus desdobramentos.\nRelembre as principais medidas adotadas ao longo dos sete anos:\n2019 \nEm 2019, foram adotadas, entre outras, as seguintes medidas:\npedido de informações à Secretaria da Receita Federal sobre o vazamento de dados envolvendo um ministro do STF, com determinação de afastamento temporário das atividades funcionais e oitiva de auditores fiscais;\nbusca e apreensão motivada por publicações consideradas ofensivas nas redes sociais e que incitavam a violência contra ministros do Supremo;\ndeterminação para a retirada de reportagem publicada em site e revista que citava o então ministro Dias Toffoli;\nnova busca e apreensão após postagens reiteradas nas redes sociais com graves ofensas ao STF e seus integrantes e, segundo a investigação, conteúdo de ódio e de subversão da ordem;\ntomada de depoimentos de testemunhas para apurar possíveis questionamentos indevidos sobre condutas de ministros do STF em colaboração premiada;\npedido de apuração a Tribunais Regionais Federais a partir de relatórios técnicos produzidos após busca e apreensão;\nquebra de sigilos bancário e fiscal para verificar a existência de esquemas de financiamento e divulgação em massa nas redes sociais com o objetivo, segundo a investigação, de atingir a independência do Poder Judiciário e o Estado de Direito;\nabertura de inquéritos pela Polícia Federal no Ceará, Distrito Federal, Maranhão, Minas Gerais, Mato Grosso do Sul, Paraná, São Paulo, Rio de Janeiro, Rio Grande do Norte e Rio Grande do Sul;\npedido de informações a empresas de tecnologia sobre o envio de mensagens em massa por redes sociais e aplicativos;\nbusca e apreensão e tomada de depoimento em razão de postagens nas redes sociais consideradas ofensivas ao Supremo;\nbusca e apreensão após publicação em rede social que defendia o estupro e a morte das filhas de ministros do STF;\nnovos depoimentos e envio de dados à PGR para abertura de inquéritos; e\ninclusão de relatórios técnicos e de inteligência elaborados pelo Departamento de Inteligência da Polícia do Estado de São Paulo, pela Polícia Federal e pela Secretaria de Segurança do Supremo.\nSupremo Tribunal Federal (STF)\nAntonio Augusto/STF\n2020\nEm 2020, houve quebra dos sigilos bancário e fiscal de pessoas e empresas supostamente envolvidas no financiamento e na divulgação em massa de conteúdo ofensivo ao STF e a seus ministros.\nTambém foram produzidos relatórios técnicos sobre a identificação de perfis no Facebook, Twitter e WhatsApp, obtenção de endereços de IP, solicitações a provedores e identificação de perfis automatizados.\nOs autos receberam ainda relatórios de pesquisa sobre publicações em redes sociais com conteúdos contra o Supremo.\nAlém disso, foram realizadas novas operações de busca e apreensão, além do bloqueio de contas em redes sociais e da quebra de sigilos bancário e fiscal.\n2022\nEm 2022, foi determinado que a Polícia Federal identificasse responsáveis e verificasse uma eventual relação com investigados nos inquéritos das fake news e da milícia digital.\nTambém houve tomada de depoimentos e análise de publicações do site \"Movimento Direita Sul\". O responsável foi identificado e dezenas de publicações consideradas ofensivas ao STF e a seus ministros foram catalogadas.\nUma manifestação apontou a existência de uma suposta organização criminosa com um núcleo financeiro e a finalidade de atentar contra a democracia e o Estado de Direito. O documento mencionava elementos de cinco inquéritos do STF e analisava o chamado \"núcleo de financiamento\".\nTambém houve decisão proibindo a publicação, promoção, replicação e compartilhamento de ataques e notícias fraudulentas.\n2023\nEm 2023, foi determinada a remoção integral de anúncios, textos e informações veiculados e impulsionados a partir do blog oficial do Google com ataques ao projeto de lei conhecido como PL das Fake News.\nTambém foi determinada a remoção das mensagens enviadas pelo Telegram sobre a proposta, com fixação de multa por hora em caso de descumprimento e oitiva dos representantes legais da empresa.\nNaquele ano, a PGR também cobrou um relatório sobre as investigações em andamento.\n2024\nEm 2024, Moraes prestou esclarecimentos sobre as diligências realizadas e os diferentes eixos de investigação.\n2025\nEm 2025, foi determinado o desbloqueio de diversos canais, perfis e contas em redes sociais.\n2026\nEm 2026, o relator pediu que empresas complementassem dados sobre \"campanhas pagas, publicadas entre janeiro a 01/01/2026 até 28/5/2026, em suas plataformas digitais (Facebook, Instagram e WhatsApp) que tenham como objeto o Supremo Tribunal Federal e seus Ministros\".\nMoraes também pediu à Polícia Federal dados sobre registros de entradas e saídas do território nacional.\nFoi dentro do inquérito das fakes news que o ministro Alexandre de Moraes começou a apurar acessos e vazamentos de dados fiscais sigilosos de ministros do STF e de seus familiares.\nA PF chegou a cumprir mandados de busca e apreensão contra servidores em três estados.\nMoraes também decretou a quebra de sigilo bancário dos investigados com o objetivo de descobrir se as informações eram vendidas.\nSTF diz que investigação aponta 'múltiplos acessos ilegais' a dados de ministros e parentes",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 03:00:00 -0000"
-    },
-    {
-      "id": "bb8e2c2e19d2",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Câmara dos EUA barra pedido de impeachment de secretário de Guerra de Trump",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/10/em-manobra-republicana-camara-envia-impeachment-de-secretario-de-guerra-de-trump-a-comissao-e-adia-votacao.ghtml",
-      "summary": "Secretário de Guerra, Pete Hegseth, durante coletiva à imprensa no Pentágono\nEvelyn Hockstein/Reuters\nA Câmara dos Deputados dos Estados Unidos aprovou nesta terça-feira (10) uma manobra republicana para barrar a votação do pedido de impeachment contra Pete Hegseth, secretário de Guerra do governo Trump e chefe do Pentágono.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA proposta foi aprovada por 211 votos a 204. Com a decisão, os artigos de impeachment apresentados pelo deputado republicano Thomas Massie serão enviados à Comissão de Assuntos Judiciários da Câmara, controlada pelos republicanos.\nNa prática, a decisão impede que as acusações sejam submetidas à votação do plenário neste momento. \nComo os republicanos têm maioria na comissão, o partido passa a controlar a análise do pedido e pode impedir que ele avance para uma votação pelos demais deputados. \nA proposta também pode ficar parada no colegiado até o fim da atual legislatura, em janeiro de 2027.\nO pedido foi apresentado na segunda-feira (9) por Massie, que pertence ao mesmo partido de Donald Trump. A iniciativa prevê oito artigos de impeachment contra Hegseth.\nMais cedo nesta terça, Hegseth se defendeu das acusações em entrevista a jornalistas no Pentágono. O secretário chamou o pedido de impeachment contra ele de \"farsa\" e um \"espetáculo político\" que fracassará. Hegseth também atacou o autor da proposta, Thomas Massie.\n\"É um espetáculo político, um manifesto pessoal movido por ego e ressentimento, planejado para os últimos dias de um homem no Congresso, com o objetivo de prejudicar este presidente, este país e, o que é mais irresponsável, os guerreiros que o defendem. É uma farsa e uma manobra política, e todos sabem disso\", afirmou.\nLogo após o resultado, o Departamento de Guerra publicou em uma rede social uma imagem gerada por inteligência artificial que mostra Massie chorando.\n\"A tentativa do ex-deputado, insatisfeito e afastado do cargo, de aprovar o impeachment do secretário Hegseth FRACASSOU!\", escreveu o departamento.\nO presidente Donald Trump também comemorou o resultado. Em uma publicação nas redes sociais, ele afirmou que a tentativa dos democratas de aprovar o impeachment de Hegseth \"fracassou miseravelmente\". \nTrump disse que todos os republicanos, com exceção de Thomas Massie, votaram a favor do secretário e atribuiu o resultado às vitórias militares dos Estados Unidos na Venezuela e no Irã, além dos números recordes de recrutamento nas Forças Armadas. \n'Bode expiatório' após 'onda azul'\nO pedido de impeachment ocorre após a derrota do Partido Republicano nas urnas nas eleições de meio de mandato, as midterms. \nA sigla do presidente Trump perdeu o controle tanto na Câmara quanto no Senado, no que a imprensa americana chamou de \"onda azul\" — em referência à cor do Partido Democrata.\nA guerra no Irã é apontada como um dos principais fatores que provocaram a derrocada republicana e colocou Hegseth, chefe do Pentágono na mira tanto de democratas quanto de seus correligionários republicanos.\nPara Sandra Cohen, colunista do g1, o secretário de Guerra estava na berlinda antes mesmo do desastre eleitoral republicano da semana passada, mas rapidamente ele passou a ser o bode expiatório da eleição.\nAs acusações de Thomas Massie contra Hegseth\nO deputado americano Thomas Massie (republicano do Kentucky) concede entrevista coletiva sobre sua proposta de impeachment do secretário de Defesa, Pete Hegseth, no Capitólio, em Washington, nos Estados Unidos, em 9 de novembro de 2026.\nReuters/Evelyn Hockstein\nO deputado Thomas Massie reuniu oito acusações contra Pete Hegseth. O relatório foi lido no plenário da Câmara na segunda.\nPara o republicano, o secretário de Guerra abusou dos poderes do cargo e desrespeitou a Constituição americana ao executar e manter operações militares sem a autorização exigida por lei.\nConfira abaixo as 8 acusações do processo de impeachment contra Hegseth:\nTravar a guerra contra o Irã sem autorização do Congresso.\nDesobedecer à ordem de retirada do Irã, mesmo após Câmara e Senado aprovarem uma resolução para retirar as tropas.\nManter operações no Irã além do prazo legal de 60 dias previsto em lei.\nEnfraquecer a proteção de civis ao reduzir mecanismos de prevenção e investigação de mortes causadas pelas operações militares.\nAutorizar execuções extrajudiciais de suspeitos de tráfico, por meio de ataques contra embarcações suspeitas de transportar drogas no Mar do Caribe e no Oceano Pacífico.\nIntimidar o senador democrata Mark Kelly, após o parlamentar defender que militares podem se recusar a cumprir ordens ilegais.\nCapturar Nicolás Maduro sem autorização do Congresso.\nConduzir a guerra no Iêmen sem autorização do Congresso.\nComo funciona o processo de impeachment?\nA Constituição dos EUA determina que cabe à Câmara dos Deputados iniciar processos de impeachment. Já o Senado é responsável por julgar as acusações e decidir se investigado deve ser condenado e afastado do cargo.\nO processo pode começar com uma investigação feita por deputados.\nDepois de analisar as acusações, a Câmara vota se o secretário deve sofrer impeachment.\nPara que o impeachment seja aprovado na Câmara, é necessária maioria simples dos votos, ou seja, mais da metade dos parlamentares presentes.\nNo caso de Hegseth, o deputado Thomas Massie apresentou diretamente um pedido de impeachment, sem passar por uma investigação de uma comissão da Câmara.\nSe a Câmara tivesse aprovado o impeachment, o processo seguiria para o Senado, onde os parlamentares decidiriam se Hegseth deveria ser condenado e afastado do cargo. \nImpeachment improvável\nPete Hegseth e Donald Trump em foto de arquivo.\nReuters/Kevin Lamarque\nApesar da pressão política, o afastamento de Hegseth já era considerado improvável.\nFontes do Congresso ouvidas pela agência Reuters avaliavam que o impeachment até poderia conseguir votos suficientes para avançar na Câmara, mesmo com os republicanos ainda no controle da Casa. Os democratas só assumirão a maioria em 3 de janeiro.\nNo entanto, a situação seria diferente no Senado. Para condenar Hegseth seriam necessários votos de dois terços dos parlamentares. Atualmente, os republicanos ocupam 53 das 100 cadeiras, o que tornaria esse resultado pouco provável.\nO único secretário de Guerra dos EUA que já sofreu impeachment foi William Belknap, em 1876. Ele renunciou ao cargo antes da votação na Câmara, mas o processo continuou no Senado, que acabou o absolvendo por falta de votos.",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 23:02:54 -0000"
-    },
-    {
-      "id": "0016d0ab9ac5",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "EUA: Hegseth chama pedido de impeachment de 'farsa' e diz que processo coloca militares americanos na mira",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/10/eua-pete-hegseth-reage-a-pedido-de-impeachment.ghtml",
-      "summary": "O secretário de Defesa dos EUA, Pete Hegseth, discursa durante uma reunião informativa sobre a guerra com o Irã, no Pentágono\nREUTERS/Nathan Howard\nO secretário de Guerra e chefe do Pentágono, Pete Hegseth, reagiu nesta terça-feira (10) ao pedido de impeachment apresentado pelo congressista republicano Thomas Massie, do estado de Kentucky, na última segunda. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEm coletiva de imprensa no Pentágono, o secretário classificou o movimento como uma \"farsa\" e um \"espetáculo político\" que fracassará. Ele também disse que Massie é um \"descontente e derrotado\". \n\"É um espetáculo político, um manifesto pessoal movido por ego e ressentimento, planejado para os últimos dias de um homem no Congresso, com o objetivo de prejudicar este presidente, este país e, o que é mais irresponsável, os guerreiros que o defendem. É uma farsa e uma manobra política, e todos sabem disso\", afirmou.\nHegseth acrescentou que o pedido não é um ato patriótico, e sim uma \"sabotagem\", que deixa os \"militares americanos na mira\" de inimigos externos.\nEle ainda ordenou os militares a ignorarem a questão e seguirem com as atribuições sob a gestão Trump.\n“Vamos deixar claro o que essa resolução realmente faz. Ela diz aos nossos inimigos — o Irã, os cartéis, todos os adversários que estão observando — que os Estados Unidos vão, de fato, punir seus próprios combatentes e sua liderança civil por executarem com sucesso operações militares legais\", disse Hegseth.\nDurante a coletiva, o secretário reforçou que o pedido de impeachment é uma questão essencialmente política que \"brinca com a Constituição e ataca a cadeia de comando\". \nO pedido do correligionário vem em meio a uma crescente dentro do Partido Republicano por culpar a guerra no Irã e, consequentemente, Hegseth, pela derrota histórica nas urnas durante as eleições de meio de mandato, as \"midterms\".\nUm dos críticos do conflito é o vice-presidente JD Vance. Logo após o anúncio do resultado das eleições, na última semana, ele foi uma das primeiras vozes republicanas a apontar a guerra contra o Irã como o principal fator que levou à derrota do partido.\nNa coletiva, Hegseth disse que respeita Vance e não \"apontaria dedos\" para o vice de Donald Trump, mas reforçou a legalidade das ações do Departamento de Guerra.\nEm um discurso fortemente nacionalista, o secretário defendeu todas as políticas implementadas durante a gestão Trump — como a guerra no Irã, a captura de Nicolás Maduro e as medidas contra o narcotráfico na América Latina — e disse que \"faria tudo de novo\". \n\"Não vamos nos desculpar por colocar as vidas dos americanos na frente\", afirmou Hegseth.\nApós \"onda azul\", Pete Hegseth vira alvo dos próprios republicanos; entenda\nSAIBA MAIS: Secretário de Guerra de Trump é alvo de pedido de impeachment: veja as 8 acusações apresentadas contra Hegseth\nConfira abaixo as 8 acusações do processo de impeachment contra Hegseth:\nTravar a guerra contra o Irã sem autorização do Congresso.\nDesobedecer à ordem de retirada do Irã, mesmo após Câmara e Senado aprovarem uma resolução para retirar as tropas.\nManter operações no Irã além do prazo legal de 60 dias previsto em lei.\nEnfraquecer a proteção de civis ao reduzir mecanismos de prevenção e investigação de mortes causadas pelas operações militares.\nAutorizar execuções de suspeitos de tráfico, por meio de ataques contra embarcações suspeitas de transportar drogas no Oceano Pacífico.\nIntimidar o senador democrata Mark Kelly, após o parlamentar defender que militares podem se recusar a cumprir ordens ilegais.\nCapturar Nicolás Maduro sem autorização do Congresso.\nConduzir a guerra no Iêmen sem autorização do Congresso.\nTrump elogia Hegseth após coletiva: \"nota 10\"\nMomentos após a coletiva de imprensa, o presidente dos EUA, Donald Trump, elogiou a fala de Hegseth. \nPelas redes sociais, Trump disse que o secretário recebe \"nota 10\" (ou A+, conforme o sistema de notas nas escolas americanas).\n\"Pete Hegseth recebe um \"A\"+++ pela defesa contra um ex-congressista insatisfeito, irritado e derrotado, Thomas Massie, um PERDEDOR TOTAL!\", disse Trump.",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "Folha de São Paulo"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 13:03:50 -0000"
-    },
-    {
-      "id": "05700b519c44",
+      "id": "014c19611ba0",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula 4 tende a adotar caminho do meio, para desgosto de gregos e troianos",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-4-tende-a-adotar-caminho-do-meio-para-desgosto-de-gregos-e-troianos.shtml",
-      "summary": "A julgar pelo que disse o presidente Luiz Inácio Lula da Silva sobre planos de despesas e receitas e o que vazou até agora, Lula 4 vai desagradar aos que o odeiam e aos que o amam, a gregos e troianos econômicos.\nLeia mais (11/10/2026 - 20h48)",
+      "title": "Redução da maioridade penal, defendida por Lula, tem oposição ampla dentro do governo",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/reducao-da-maioridade-penal-defendida-por-lula-tem-oposicao-ampla-dentro-do-governo.shtml",
+      "summary": "Pauta tradicional de políticos de direita, a redução da maioridade ganhou o apoio do presidente Lula (PT) no fim da campanha eleitoral. Ao defender a redução de 18 anos para 16 para crimes hediondos, Lula marcou uma inflexão histórica, em confronto com a oposição interna das principais áreas do governo envolvidas no tema.\nLeia mais (11/11/2026 - 04h15)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "11 Nov 2026 04:15:00 -0300"
+    },
+    {
+      "id": "5a2ed788bff7",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Número de obras paralisadas do PAC cai após governo Lula questionar metodologia do TCU",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/numero-de-obras-paralisadas-do-pac-cai-apos-governo-lula-questionar-metodologia-do-tcu.shtml",
+      "summary": "O número de obras do PAC (Programa de Aceleração de Crescimento) paralisadas no governo federal despencou após a Casa Civil questionar os critérios usados pelo TCU (Tribunal de Contas da União) para classificar empreendimentos como interrompidos.\nLeia mais (11/11/2026 - 04h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "11 Nov 2026 04:00:00 -0300"
+    },
+    {
+      "id": "95f8a3d74716",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Alas do PT disputam 7 ministérios de Lula 4 enquanto Centrão negocia cargos",
+      "link": "https://www.cnnbrasil.com.br/politica/alas-do-pt-disputam-7-ministerios-de-lula-4-enquanto-centrao-negocia-cargos/",
+      "summary": "Partido do presidente da República mira pastas com projeção, recursos e capilaridade",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "Estadão",
-        "G1 - Mundo",
+        "Folha de São Paulo",
         "G1 - Política"
       ],
       "score": 80,
-      "publishedRaw": "10 Nov 2026 20:48:00 -0300"
-    },
-    {
-      "id": "fc944474069e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PT discute alternativas à redução da maioridade penal apoiada por Lula na campanha",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/pt-discute-alternativas-a-reducao-da-maioridade-penal-apoiada-por-lula-na-campanha.shtml",
-      "summary": "O diretório nacional do PT vai discutir na sexta-feira (13) a redução da maioridade penal, objeto de embates internos na sigla. Historicamente contrário à redução, o partido vai debater o assunto após a proposta ter sido defendida na campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT).\nLeia mais (11/10/2026 - 20h45)",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "10 Nov 2026 20:45:00 -0300"
-    },
-    {
-      "id": "78b2d9f61b3e",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Secretário de Defesa escapa de impeachment após manobra do Partido Republicano",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/camara-dos-eua-barra-avanco-de-impeachment-de-secretario-de-defesa.shtml",
-      "summary": "A Câmara dos Estados Unidos aprovou nesta terça-feira (10) uma manobra para barrar o avanço do pedido de impeachment contra o secretário de Defesa, Pete Hegseth, poupando um dos nomes fortes do governo Donald Trump de uma votação sobre seu afastamento após a derrota dos republicanos nas eleições legislativas da semana passada.\nLeia mais (11/10/2026 - 20h22)",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "CNN Brasil",
-        "G1 - Mundo"
-      ],
-      "score": 80,
-      "publishedRaw": "10 Nov 2026 20:22:00 -0300"
-    },
-    {
-      "id": "56e5bc5eca77",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Trump comemora rejeição pela Câmara de impeachment contra Hegseth",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-comemora-rejeicao-pela-camara-de-impeachment-contra-hegseth/",
-      "summary": "Presidente dos Estados Unidos afirmou que secretário de Defesa é um \"grande patriota americano\" e citou vitória em operações na Venezuela e no Irã",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 23:57:03 +0000"
-    },
-    {
-      "id": "18372c6700f0",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Republicanos barram proposta de impeachment de Pete Hegseth",
-      "link": "https://www.cnnbrasil.com.br/internacional/republicanos-barram-proposta-de-impeachment-de-pete-hegseth/",
-      "summary": "Líderes do partido na Câmara enviaram o pedido apresentado contra o secretário de Defesa dos EUA para uma comissão interna",
-      "tags": [
-        "impeachment"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Mundo"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 23:38:00 +0000"
+      "publishedRaw": "Wed, 11 Nov 2026 07:05:22 +0000"
     },
     {
       "id": "3f47619aa154",
@@ -337,49 +304,12 @@
         "Lula"
       ],
       "crossOutlets": [
+        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 80,
       "publishedRaw": "Tue, 10 Nov 2026 23:36:44 +0000"
-    },
-    {
-      "id": "544f554fe54a",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Tarcísio de Freitas diz que ‘é claro’ que Flávio Bolsonaro ‘tem direito’ de ser candidato em 2030",
-      "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-diz-que-e-claro-que-flavio-bolsonaro-tem-direito-de-ser-candidato-em-2030/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro",
-        "Tarcísio de Freitas"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Tue, 10 Nov 2026 16:16:45 +0000"
-    },
-    {
-      "id": "e1b92972b01f",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "PF vai refazer relatórios sobre ministros do STF citados no Master",
-      "link": "https://www.poder360.com.br/poder-justica/pf-vai-refazer-relatorios-sobre-ministros-do-stf-citados-no-master/",
-      "summary": "Corporação não atendeu às exigências do presidente da Corte, Edson Fachin; delegados que coordenavam as investigações foram afastados",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "Wed, 11 Nov 2026 00:09:34 +0000"
     },
     {
       "id": "bb36e7463f39",
@@ -393,30 +323,11 @@
         "eleições"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 77,
       "publishedRaw": "Mon, 09 Nov 2026 19:40:33 GMT"
-    },
-    {
-      "id": "d108f41ef7c4",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Papa faz referência ao conflito diplomático Argentina-Brasil, incitando Milei a superar tensões com Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/10/papa-faz-referencia-ao-conflito-diplomatico-argentina-brasil-incitando-milei-a-superar-tensoes-com-lula.ghtml",
-      "summary": "O Papa Leão XIII discursa para autoridades, membros da sociedade civil e do corpo diplomático, ao lado do presidente argentino Javier Milei\nREUTERS/Yara Nardi\nFoi uma mensagem diplomática, nas entrelinhas, que passou quase despercebida, mas que vários diplomatas captaram com a sensibilidade da linguagem característica. \nLogo no seu primeiro discurso durante sua viagem à Argentina, ao lado do presidente Javier Milei, o Papa Leão XIV fez uma intervenção veemente e equilibrada de forte teor político na qual defendeu o diálogo, o respeito e a procura perseverante de acordos para superar graves tensões numa referência indireta às atuais relações diplomáticas da Argentina com o Brasil, mais especificamente entre Milei e Lula.\n“Os legítimos interesses de cada nação devem ser defendidos por meio do diálogo, do respeito pelo direito e da procura perseverante de acordos. A América do Sul soube encontrar, nos momentos difíceis da sua história, caminhos de negociação e de entendimento para superar graves tensões”, indicou o Papa, num trecho do seu discurso de 25 minutos, para logo pedir:\n“A Argentina é chamada a preservar essa vontade de diálogo e a contribuir para que continue a dar frutos”, apontou Leão XIV num momento em que as relações diplomáticas entre Argentina e Brasil, eixo da integração regional, foram rebaixadas ao passo prévio à ruptura, com a retirada dos embaixadores no dia 4 de agosto passado.\nEsse foi o segundo momento do discurso no qual o papa menciona a América do Sul como o espaço no qual a Argentina está inserida com laços indissolúveis com os seus vizinhos.\n“Os grandes rios unem territórios; os ecossistemas vão de um país a outro; a energia, os alimentos, o conhecimento e a mobilidade humana criam laços que ultrapassam fronteiras. Por isso, pensar no futuro da Argentina leva-nos também a olhar para os povos com os quais ela compartilha este continente. A América do Sul possui uma enorme riqueza humana e natural, e os seus povos mantêm laços históricos e tradições culturais que proporcionam um amplo campo de cooperação”, descreveu Leão XIV na sua mensagem perante políticos e diplomatas.\nMonsenhor Jorge Lozano, arcebispo de San Juan e presidente da comissão episcopal de comunicação social confirmou à RFI que o papa também aludia à tensão diplomática entre Brasil e Argentina como um ponto que deve ser superado.\n “Não há um governo que tenha o direito de cortar com décadas de comunhão e de participação bilateral. Pode haver mais afinidade de um governo com outro, mas a falta de afinidade ideológica não pode ir contra de uma trajetória de construção comunitária dos nossos povos”, sublinhou o arcebispo, um dos responsáveis pela comunicação da visita papal.\n As boas relações com os países vizinhos foram evocadas por Leão XIV numa chamada de atenção a Milei para o nível de rebaixamento diplomático das atuais relações da Argentina com o Brasil.\n“Esta é uma contribuição da vida da Igreja aos nossos povos. Na constituição do Conselho Episcopal Latino-americano e do Caribe, a experiência de caminhar juntos como Igreja na região é uma experiência muito forte”, explicou Jorge Lozano à RFI.\nPapa Leão XIV celebra missa para mais de 2 milhões de pessoas em Buenos Aires\nRelação bilateral ao mínimo \nNo passado dia 26 de julho, o embaixador brasileiro em Buenos Aires, Júlio Bitelli, foi chamado para consultas a Brasília, depois que, no dia anterior, o presidente argentino, Javier Milei, insultasse o presidente Lula, chamando-o de “ladrão”, de “corrupto” e de “presidiário”, durante o lançamento da candidatura presidencial de Flávio Bolsonaro em São Paulo. \nNão há precedentes de um presidente atacar outro no território do vizinho.\nMilei proferiu os insultos ao lado do ministro das Relações Exteriores da Argentina, o chanceler Pablo Quirno, quem aplaudiu e incentivou cada palavra de Milei.\nEm 4 de agosto, depois de Milei ter repetido as agressões contra o presidente Lula, o chanceler Mauro Vieira reduziu o nível da relação diplomática com a Argentina, mantendo o embaixador Bitelli em Brasília e deixando a Embaixada do Brasil em Buenos Aires ao nível de encarregado de negócios. O mesmo aconteceu do lado argentino em Brasília.\nSegundo declarações posteriores do ministro brasileiro das Relações Exteriores, Mauro Vieira, o Brasil esperava um sinal do governo argentino para desandar o conflito diplomático. Porém, passados 15 dias das eleições no Brasil, que consagraram a reeleição do presidente Lula, Javier Milei continua sem nem mesmo cumprimentar o seu par brasileiro pela vitória.\nLEIA TAMBÉM:\nBrasil rebaixa relações com a Argentina: relembre os ataques de Milei a Lula e a escalada da crise diplomática\nAntecedentes de intervenção do papa em conflito \nAgora no g1\nA maior intervenção de um papa num conflito bilateral envolvendo a Argentina aconteceu em dezembro de 1978. Diferentemente de um conflito meramente diplomático, o Papa João Paulo II evitou uma guerra iminente entre a Argentina e o Chile pela soberania das ilhas Picton, Nueva e Lennox, no Canal de Beagle, na margem Sul da Terra do Fogo.\nNo Vaticano, João Paulo II convocou os embaixadores e ofereceu a mediação da Santa Sé, enviando urgentemente o cardeal Antonio Samoré a Buenos Aires. A aceitação da proposta, no último minuto, interrompeu a mobilização bélica, quando as tropas já estavam prontas para atacar.\nApós anos de negociações discretas, em novembro de 1984, foi assinado o Tratado de Paz e Amizade no Vaticano, posteriormente ratificado por meio de uma consulta popular na Argentina.\nEm abril de 1987, já com a Democracia restaurada na Argentina, João Paulo II visitou a Argentina, sendo a última vez que um Papa visitou o país. Foram necessários mais de 39 anos para uma nova visita, a atual do Papa Leão XIV que também tem como objetivo completar a viagem pendente do seu antecessor, o Papa Francisco, quem não retornou à sua terra natal durante os 12 anos do seu papado.",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 76,
-      "publishedRaw": "Tue, 10 Nov 2026 12:56:56 -0000"
     },
     {
       "id": "ccc36066544f",
@@ -437,57 +348,21 @@
       "publishedRaw": "Tue, 10 Nov 2026 17:24:25 +0000"
     },
     {
-      "id": "8dd69e344b27",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Relator vota para multar Meta em R$ 7,5 milhões por descumprir ordem do TSE",
-      "link": "https://www.cnnbrasil.com.br/politica/tse-meta-julgamento-eleicoes/",
-      "summary": "Marco Aurélio Bellizze apontou atrasos, falta de transparência e cumprimento parcial de determinações impostas à empresa durante o segundo turno",
-      "tags": [
-        "TSE"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 73,
-      "publishedRaw": "Wed, 11 Nov 2026 00:13:06 +0000"
-    },
-    {
-      "id": "434582ce06a2",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Governo acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/10/governa-acerta-com-congresso-projeto-de-ajuste-fiscal-de-05percent-do-pib-para-2027.ghtml",
-      "summary": "Governo prevê ajuste fiscal de 0,5% do PIB em 2027\nO governo articula com o Senado a apresentação ainda nesta semana de um projeto de lei complementar (PLP) de ajuste fiscal de meio ponto do Produto Interno Bruto (PIB) para o ano de 2027, equivalente a uma economia entre R$ 70 bilhões a R$ 80 bilhões.\nSegundo assessores diretos do presidente Lula, ele autorizou as medidas e a discussão mesmo antes do seu retorno ao país, e o ajuste será feito sem afetar as promessas de campanha de Lula, ou seja, sem estelionato eleitoral.\nA ideia do PLP, que nasce do Congresso, é dar autonomia para os senadores apresentarem as medidas. Com isso, o governo dá aos parlamentares o protagonismo da apresentação das medidas e espera, com isso, acelerar a sua aprovação até o início de dezembro.\nO texto deve ser apresentado por um senador aliado. Nomes como Eduardo Braga (MDB-AM) ou Jaques Wagner (PT-BA) são citados como possíveis autores. \nO presidente do Senado, Davi Alcolumbre (União-AP), acertou a estratégia com o ministro Dario Durigan. Os dois se reuniram nesta segunda-feira (9) para tratar do andamento das propostas.\nPara garantir o enxugamento de 0,5% do PIB - algo em torno de R$ 70 a R$ 80 bilhões - a proposta irá retirar receitas extraordinárias da base de cálculo do reajuste dos pisos constitucionais de saúde e educação, assim como o do fundo Constitucional do Distrito Federal, como exclusão de receitas adicionais de petróleo e gás.\nA regra já vale para situações de déficit fiscal e, se aprovada, valerá para caso de superávit também. Além disso, será um superávit sem exclusão de pagamentos para o seu cálculo, como precatórios. Será um superávit cheio, sem exceções.\nEm reunião do ministro da Fazenda, Dario Durigan, com o presidente do Senado, Davi Alcolumbre, e com senadores aliados do governo, Durigan ouviu de senadores a proposta de incluir no texto um pedido de prefeitos para que parte dos fundos possam ser redirecionados entre educação e saúde, de acordo com a necessidade dos municípios.\nOutra perna do ajuste fiscal discutido seria um novo corte linear de benefícios tributários, em um percentual a ser decidido pelo parlamento, que pode ser de 10%, o que pode gerar uma economia na casa de R$ 25 bilhões.\nO governo avalia também criar condições para que as promessas eleitorais do presidente sejam postas em prática em etapas, na medida que valores do orçamento sejam liberados.\nNesta terça-feira (10), em encontro com deputados para discutir reforma tributária, Durigan também pediu ajuda para que o Congresso mantenha o ajuste no texto do Congresso, sem afrouxar regras ou retirar setores das medidas.\nO plano apresentado pelo ministro a integrantes do Congresso prevê o ajuste de 0,5% do PIB em 2027, 1% em 2028, 1,25% e, 2029 e 1,75% do PIB em 2030.\nImagem ilustrativa de cédulas de dinheiro\nReprodução/ RBS TV",
-      "tags": [
-        "Congresso"
-      ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 68,
-      "publishedRaw": "Tue, 10 Nov 2026 22:03:53 -0000"
-    },
-    {
-      "id": "5877a90719e4",
+      "id": "bb8e2c2e19d2",
       "source": "G1 - Mundo",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "EUA: Maioria quer que novo Congresso ponha fim à guerra de Trump contra Irã, aponta Reuters/Ipsos",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/10/eua-guerra-ira-reuters-ipsos.ghtml",
-      "summary": "O presidente dos EUA, Donald Trump, conversa ao lado do secretário de Defesa, Pete Hegseth, durante uma reunião de gabinete na Sala do Gabinete da Casa Branca, em Washington, DC, EUA, em 27 de maio de 2026\nREUTERS/Evan Vucci\nPesquisa Reuters/Ipsos divulgada nesta terça-feira (10) mostra que a maioria dos norte-americanos deseja que o recém-eleito Congresso dos EUA, de maioria democrata, tome medidas para pôr fim à guerra com o Irã e revogar as tarifas impostas pelo presidente Donald Trump.\nO resultado da pesquisa reflete a principal discussão tema das midterms: o impacto das políticas de Donald Trump no custo de vida da população. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA pesquisa, realizada durante quatro dias e concluída na segunda-feira, mostrou que 71% dos norte-americanos — incluindo 93% dos democratas e 51% dos republicanos — querem que o Congresso dos EUA aprove uma lei que ponha fim ao conflito com o Irã, iniciado por Trump em parceria com Israel, aliado dos EUA, em fevereiro.\nAgora no g1\nNas eleições de meio de mandato, as midterms, os democratas conquistaram a maioria no Senado e na Câmara dos Deputados. Não se via um número tão grande de democratas eleitos para o Capitólio desde 2008.\nEm meio à rejeição dos norte-americanos à guerra no Irã, também cresce um movimento dentro do Partido Republicano para culpar o conflito pela derrota nas urnas. \nNa segunda-feira (9), o deputado republicano Thomas Massie entrou com um pedido de impeachment contra Pete Hegseth, secretário de Guerra e chefe do Pentágono, por operações militares dos EUA realizadas sem autorização do Congresso. \nHegseth é um dos principais defensores da guerra no Irã, entre outras medidas militaristas da gestão Trump.\nEm coletiva nesta terça-feira (10), o secretário classificou a medida como \"sabotagem\" e disse que o movimento enfraquece as Forças Armadas americanas, colocando militares \"na mira\" de inimigos estrangeiros.",
+      "title": "Câmara dos EUA barra pedido de impeachment de secretário de Guerra de Trump",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/10/em-manobra-republicana-camara-envia-impeachment-de-secretario-de-guerra-de-trump-a-comissao-e-adia-votacao.ghtml",
+      "summary": "Secretário de Guerra, Pete Hegseth, durante coletiva à imprensa no Pentágono\nEvelyn Hockstein/Reuters\nA Câmara dos Deputados dos Estados Unidos aprovou nesta terça-feira (10) uma manobra republicana para barrar a votação do pedido de impeachment contra Pete Hegseth, secretário de Guerra do governo Trump e chefe do Pentágono.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nA proposta foi aprovada por 211 votos a 204. Com a decisão, os artigos de impeachment apresentados pelo deputado republicano Thomas Massie serão enviados à Comissão de Assuntos Judiciários da Câmara, controlada pelos republicanos.\nNa prática, a decisão impede que as acusações sejam submetidas à votação do plenário neste momento. \nComo os republicanos têm maioria na comissão, o partido passa a controlar a análise do pedido e pode impedir que ele avance para uma votação pelos demais deputados. \nA proposta também pode ficar parada no colegiado até o fim da atual legislatura, em janeiro de 2027.\nO pedido foi apresentado na segunda-feira (9) por Massie, que pertence ao mesmo partido de Donald Trump. A iniciativa prevê oito artigos de impeachment contra Hegseth.\nMais cedo nesta terça, Hegseth se defendeu das acusações em entrevista a jornalistas no Pentágono. O secretário chamou o pedido de impeachment contra ele de \"farsa\" e um \"espetáculo político\" que fracassará. Hegseth também atacou o autor da proposta, Thomas Massie.\n\"É um espetáculo político, um manifesto pessoal movido por ego e ressentimento, planejado para os últimos dias de um homem no Congresso, com o objetivo de prejudicar este presidente, este país e, o que é mais irresponsável, os guerreiros que o defendem. É uma farsa e uma manobra política, e todos sabem disso\", afirmou.\nLogo após o resultado, o Departamento de Guerra publicou em uma rede social uma imagem gerada por inteligência artificial que mostra Massie chorando.\n\"A tentativa do ex-deputado, insatisfeito e afastado do cargo, de aprovar o impeachment do secretário Hegseth FRACASSOU!\", escreveu o departamento.\nO presidente Donald Trump também comemorou o resultado. Em uma publicação nas redes sociais, ele afirmou que a tentativa dos democratas de aprovar o impeachment de Hegseth \"fracassou miseravelmente\". \nTrump disse que todos os republicanos, com exceção de Thomas Massie, votaram a favor do secretário e atribuiu o resultado às vitórias militares dos Estados Unidos na Venezuela e no Irã, além dos números recordes de recrutamento nas Forças Armadas. \n'Bode expiatório' após 'onda azul'\nO pedido de impeachment ocorre após a derrota do Partido Republicano nas urnas nas eleições de meio de mandato, as midterms. \nA sigla do presidente Trump perdeu o controle tanto na Câmara quanto no Senado, no que a imprensa americana chamou de \"onda azul\" — em referência à cor do Partido Democrata.\nA guerra no Irã é apontada como um dos principais fatores que provocaram a derrocada republicana e colocou Hegseth, chefe do Pentágono na mira tanto de democratas quanto de seus correligionários republicanos.\nPara Sandra Cohen, colunista do g1, o secretário de Guerra estava na berlinda antes mesmo do desastre eleitoral republicano da semana passada, mas rapidamente ele passou a ser o bode expiatório da eleição.\nAs acusações de Thomas Massie contra Hegseth\nO deputado americano Thomas Massie (republicano do Kentucky) concede entrevista coletiva sobre sua proposta de impeachment do secretário de Defesa, Pete Hegseth, no Capitólio, em Washington, nos Estados Unidos, em 9 de novembro de 2026.\nReuters/Evelyn Hockstein\nO deputado Thomas Massie reuniu oito acusações contra Pete Hegseth. O relatório foi lido no plenário da Câmara na segunda.\nPara o republicano, o secretário de Guerra abusou dos poderes do cargo e desrespeitou a Constituição americana ao executar e manter operações militares sem a autorização exigida por lei.\nConfira abaixo as 8 acusações do processo de impeachment contra Hegseth:\nTravar a guerra contra o Irã sem autorização do Congresso.\nDesobedecer à ordem de retirada do Irã, mesmo após Câmara e Senado aprovarem uma resolução para retirar as tropas.\nManter operações no Irã além do prazo legal de 60 dias previsto em lei.\nEnfraquecer a proteção de civis ao reduzir mecanismos de prevenção e investigação de mortes causadas pelas operações militares.\nAutorizar execuções extrajudiciais de suspeitos de tráfico, por meio de ataques contra embarcações suspeitas de transportar drogas no Mar do Caribe e no Oceano Pacífico.\nIntimidar o senador democrata Mark Kelly, após o parlamentar defender que militares podem se recusar a cumprir ordens ilegais.\nCapturar Nicolás Maduro sem autorização do Congresso.\nConduzir a guerra no Iêmen sem autorização do Congresso.\nComo funciona o processo de impeachment?\nA Constituição dos EUA determina que cabe à Câmara dos Deputados iniciar processos de impeachment. Já o Senado é responsável por julgar as acusações e decidir se investigado deve ser condenado e afastado do cargo.\nO processo pode começar com uma investigação feita por deputados.\nDepois de analisar as acusações, a Câmara vota se o secretário deve sofrer impeachment.\nPara que o impeachment seja aprovado na Câmara, é necessária maioria simples dos votos, ou seja, mais da metade dos parlamentares presentes.\nNo caso de Hegseth, o deputado Thomas Massie apresentou diretamente um pedido de impeachment, sem passar por uma investigação de uma comissão da Câmara.\nSe a Câmara tivesse aprovado o impeachment, o processo seguiria para o Senado, onde os parlamentares decidiriam se Hegseth deveria ser condenado e afastado do cargo. \nImpeachment improvável\nPete Hegseth e Donald Trump em foto de arquivo.\nReuters/Kevin Lamarque\nApesar da pressão política, o afastamento de Hegseth já era considerado improvável.\nFontes do Congresso ouvidas pela agência Reuters avaliavam que o impeachment até poderia conseguir votos suficientes para avançar na Câmara, mesmo com os republicanos ainda no controle da Casa. Os democratas só assumirão a maioria em 3 de janeiro.\nNo entanto, a situação seria diferente no Senado. Para condenar Hegseth seriam necessários votos de dois terços dos parlamentares. Atualmente, os republicanos ocupam 53 das 100 cadeiras, o que tornaria esse resultado pouco provável.\nO único secretário de Guerra dos EUA que já sofreu impeachment foi William Belknap, em 1876. Ele renunciou ao cargo antes da votação na Câmara, mas o processo continuou no Senado, que acabou o absolvendo por falta de votos.",
       "tags": [
-        "Congresso"
+        "impeachment"
       ],
       "crossOutlets": [
-        "G1 - Economia",
-        "G1 - Política"
+        "CNN Brasil"
       ],
-      "score": 68,
-      "publishedRaw": "Tue, 10 Nov 2026 13:41:29 -0000"
+      "score": 75,
+      "publishedRaw": "Tue, 10 Nov 2026 23:02:54 -0000"
     },
     {
       "id": "0920e3d642b4",
@@ -521,6 +396,21 @@
     },
     {
       "id": "434582ce06a2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Governo acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/10/governa-acerta-com-congresso-projeto-de-ajuste-fiscal-de-05percent-do-pib-para-2027.ghtml",
+      "summary": "Governo prevê ajuste fiscal de 0,5% do PIB em 2027\nO governo articula com o Senado a apresentação ainda nesta semana de um projeto de lei complementar (PLP) de ajuste fiscal de meio ponto do Produto Interno Bruto (PIB) para o ano de 2027, equivalente a uma economia entre R$ 70 bilhões a R$ 80 bilhões.\nSegundo assessores diretos do presidente Lula, ele autorizou as medidas e a discussão mesmo antes do seu retorno ao país, e o ajuste será feito sem afetar as promessas de campanha de Lula, ou seja, sem estelionato eleitoral.\nA ideia do PLP, que nasce do Congresso, é dar autonomia para os senadores apresentarem as medidas. Com isso, o governo dá aos parlamentares o protagonismo da apresentação das medidas e espera, com isso, acelerar a sua aprovação até o início de dezembro.\nO texto deve ser apresentado por um senador aliado. Nomes como Eduardo Braga (MDB-AM) ou Jaques Wagner (PT-BA) são citados como possíveis autores. \nO presidente do Senado, Davi Alcolumbre (União-AP), acertou a estratégia com o ministro Dario Durigan. Os dois se reuniram nesta segunda-feira (9) para tratar do andamento das propostas.\nPara garantir o enxugamento de 0,5% do PIB - algo em torno de R$ 70 a R$ 80 bilhões - a proposta irá retirar receitas extraordinárias da base de cálculo do reajuste dos pisos constitucionais de saúde e educação, assim como o do fundo Constitucional do Distrito Federal, como exclusão de receitas adicionais de petróleo e gás.\nA regra já vale para situações de déficit fiscal e, se aprovada, valerá para caso de superávit também. Além disso, será um superávit sem exclusão de pagamentos para o seu cálculo, como precatórios. Será um superávit cheio, sem exceções.\nEm reunião do ministro da Fazenda, Dario Durigan, com o presidente do Senado, Davi Alcolumbre, e com senadores aliados do governo, Durigan ouviu de senadores a proposta de incluir no texto um pedido de prefeitos para que parte dos fundos possam ser redirecionados entre educação e saúde, de acordo com a necessidade dos municípios.\nOutra perna do ajuste fiscal discutido seria um novo corte linear de benefícios tributários, em um percentual a ser decidido pelo parlamento, que pode ser de 10%, o que pode gerar uma economia na casa de R$ 25 bilhões.\nO governo avalia também criar condições para que as promessas eleitorais do presidente sejam postas em prática em etapas, na medida que valores do orçamento sejam liberados.\nNesta terça-feira (10), em encontro com deputados para discutir reforma tributária, Durigan também pediu ajuda para que o Congresso mantenha o ajuste no texto do Congresso, sem afrouxar regras ou retirar setores das medidas.\nO plano apresentado pelo ministro a integrantes do Congresso prevê o ajuste de 0,5% do PIB em 2027, 1% em 2028, 1,25% e, 2029 e 1,75% do PIB em 2030.\nImagem ilustrativa de cédulas de dinheiro\nReprodução/ RBS TV",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [],
+      "score": 64,
+      "publishedRaw": "Tue, 10 Nov 2026 22:03:53 -0000"
+    },
+    {
+      "id": "434582ce06a2",
       "source": "G1 - Economia",
       "tipo": "mainstream",
       "category": "Economia",
@@ -530,10 +420,8 @@
       "tags": [
         "Congresso"
       ],
-      "crossOutlets": [
-        "G1 - Mundo"
-      ],
-      "score": 63,
+      "crossOutlets": [],
+      "score": 59,
       "publishedRaw": "Tue, 10 Nov 2026 22:03:53 -0000"
     },
     {
@@ -550,6 +438,21 @@
       "crossOutlets": [],
       "score": 57,
       "publishedRaw": "Tue, 10 Nov 2026 21:56:37 +0000"
+    },
+    {
+      "id": "0d9b8f514e9d",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pressão para adiar implementação da reforma tributária cresce, mas deputados descartam mudança no calendário",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/11/pressao-para-adiar-implementacao-da-reforma-tributaria-cresce-mas-deputados-descartam-mudanca-no-calendario.ghtml",
+      "summary": "Entidades empresariais e representantes do setor tributário têm pressionado o governo e o Congresso Nacional a adiar para 2028 o início da implementação da reforma tributária sobre o consumo, prevista para 1º de janeiro de 2027. Nesta terça-feira (10), deputados que participaram de uma reunião com o ministro da Fazenda, Dario Durigan, descartaram a possibilidade de mudança no calendário. \nSegundo eles, o governo e o Congresso mantêm o compromisso de iniciar a implementação em janeiro de 2027.\n“Não há nenhuma conversa. O presidente da Câmara e o presidente do Senado conversaram já com o ministro. O presidente da Câmara me disse hoje: não é ideia nenhuma que a gente tenha adiamento”, afirmou Joaquim Passarinho (PL-PA), presidente da Frente Parlamentar do Empreendedorismo.\nAgora no g1\nNa semana passada, Durigan afirmou que o governo não pretende adiar o início da cobrança da Contribuição sobre Bens e Serviços (CBS), prevista para janeiro de 2027. Ele disse que haverá um programa de conformidade para evitar penalidades a contribuintes que cometerem erros de boa-fé.\n“Eu vou tranquilizar os setores porque a gente tem feito uma série de medidas para dizer para os contribuintes, para as diferentes lideranças empresariais do país, nós vamos ter programa de conformidade em que, se tiver de boa-fé o contribuinte, não vai haver penalidade”, afirmou.\nA reforma prevê a substituição gradual de tributos sobre o consumo pela CBS, de competência federal, e pelo Imposto sobre Bens e Serviços (IBS), de estados e municípios. A transição começa em 2027 e será concluída em 2033.\nCompromisso com o calendário\nO deputado federal Cláudio Cajado (PP-BA), um dos relatores da reforma na Câmara, disse que Durigan foi categórico ao defender a continuidade do cronograma.\n“O ministro Dario Durigan foi extremamente objetivo e taxativo de que [o governo] vai avançar com a reforma tributária. O que está sendo dito de que eventualmente poderia ser adiado não é verdade”, afirmou.\nSegundo Cajado, o presidente do Senado, Davi Alcolumbre (União-AP), se comprometeu a votar a resolução que trata da alíquota da CBS. Na Câmara, a expectativa é avançar com a medida provisória do Imposto Seletivo assim que for designado um relator.\nO deputado afirmou que 2027 será um ano de ajustes e que erros cometidos de boa-fé poderão ser corrigidos sem aplicação de multas.\n“Esse próximo ano de 2027 é de ajustes. Eles vão ser feitos. Quando houver erro de boa intenção, haverá correção. Não terá multa”, declarou.\nOs deputados também levaram a Durigan preocupações sobre o impacto da reforma para empresas do Simples Nacional. Segundo Passarinho, o ministro se comprometeu a estudar alternativas para manter a simplicidade do sistema.\nReforma Tributária vai mexer na forma como impostos são cobrados no país\nReprodução/TV Globo\nAlíquota alta\n▶️No final de outubro, o TCU aprovou proposta para que a alíquota de referência CBS seja de 11,3% em 2027. O valor será encaminhado ao Congresso Nacional. Caberá ao Senado fixar o valor final da alíquota, que será cobrada a partir de 2027, até 15 de dezembro.\n🔎A proposta ficou acima de estimativas anteriores do setor privado e do Comitê Gestor do IBS, dos estados, que apontavam uma tributação de até 9,4% — gerando forte repercussão negativa no setor produtivo.\n▶️Junto com o imposto dos estados e municípios, com cobrança integral prevista para 2033, a previsão de analistas é que o futuro imposto sobre o consumo atinja 30%. Se confirmada, seria maior do que a alíquota de todos os países desenvolvidos.",
+      "tags": [
+        "reforma tributária"
+      ],
+      "crossOutlets": [],
+      "score": 53,
+      "publishedRaw": "Wed, 11 Nov 2026 03:00:00 -0000"
     }
   ]
 }
