@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:15:01.138949+00:00",
+  "generated_at": "2026-11-15T01:13:40.164925+00:00",
   "items": [
     {
       "id": "1393dae0d508",
@@ -17,6 +17,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -39,6 +40,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -61,6 +63,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -83,6 +86,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "Poder360"
       ],
@@ -104,6 +108,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "Poder360"
@@ -126,11 +131,104 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "Poder360"
       ],
       "score": 85,
       "publishedRaw": "Sat, 14 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "id": "6f17b3d6f759",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Acertos e divergências são esperados em gênios políticos', diz leitor sobre FHC e Lula",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/acertos-e-divergencias-sao-esperados-em-genios-politicos-diz-leitor-sobre-fhc-e-lula.shtml",
+      "summary": "FHC\n\"O desprezo histórico por FHC\" (Mariliz Pereira Jorge, 13/11). O largo sorriso do ex-presidente FHC ao passar a faixa para Lula, que derrotara o candidato de seu partido, selou o que os dois compartilhavam de mais importante para o país, o respeito à democracia. As presenças mútuas no velório e no hospital com o falecimento de dona Ruth e Marisa mostraram a dignidade da Presidência. Erros, acertos e divergências são esperados em gênios políticos dedicados à grandeza do país.\nJosé Bueno (São Paulo, SP)\nLeia mais (11/14/2026 - 21h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "14 Nov 2026 21:00:00 -0300"
+    },
+    {
+      "id": "93a1106d83dc",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Lula 4 deve equilibrar a dívida pública, dizem leitores",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/lula-4-deve-equilibrar-a-divida-publica-dizem-leitores.shtml",
+      "summary": "Espero que o Estado gaste mais com o desenvolvimento do país do que pagando juros da dívida; taxação das grandes fortunas e sobre aplicações financeiras ainda isentas. Foco em educação, saúde e meio ambiente.\nMarian Dias (São Paulo, SP)\nLeia mais (11/14/2026 - 20h30)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "14 Nov 2026 20:30:00 -0300"
+    },
+    {
+      "id": "50df783f5b5f",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Células do câncer do colo de útero são estudadas para o combate da doença",
+      "link": "https://www.cnnbrasil.com.br/saude/celulas-do-cancer-do-colo-de-utero-sao-estudadas-para-o-combate-da-doenca/",
+      "summary": "Estudo brasileiro usa linfócitos retirados de tumores de pacientes com câncer do colo do útero para desenvolver nova terapia em laboratório",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 14 Nov 2026 23:20:57 +0000"
+    },
+    {
+      "id": "e445a0461953",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Múcio sai e Vieira deve ficar, articulando o sonho de Lula, o Prêmio Nobel da Paz",
+      "link": "https://www.estadao.com.br/politica/eliane-cantanhede/mucio-sai-e-vieira-deve-ficar-articulando-o-sonho-de-lula-o-premio-nobel-da-paz/",
+      "summary": "",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Mundo",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "Sat, 14 Nov 2026 23:00:00 +0000"
     },
     {
       "id": "72600be4372e",
@@ -146,6 +244,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -168,6 +267,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -190,6 +290,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -199,35 +300,13 @@
       "publishedRaw": "Fri, 13 Nov 2026 20:59:16 +0000"
     },
     {
-      "id": "3e902760b872",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Toffoli dá três dias para chapa de Lula explicar indícios de irregularidades em contas de campanha",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/toffoli-da-tres-dias-para-chapa-de-lula-explicar-indicios-de-irregularidades-em-contas-de-campanha/",
-      "summary": "",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Fri, 13 Nov 2026 20:18:02 +0000"
-    },
-    {
-      "id": "3eeaf7541251",
+      "id": "a78cd047039e",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula e outros 34 alvos da Lava Jato foram eleitos em 2026",
-      "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-outros-34-alvos-da-lava-jato-foram-eleitos-em-2026/",
-      "summary": "Outros 40 que tiveram seus nomes ligados à operação tentaram uma vaga, mas não tiveram sucesso; investigações e condenações foram anuladas ou arquivadas",
+      "title": "Helder pede a Lula auxílio de 2 salários mínimos para pescadores",
+      "link": "https://www.poder360.com.br/poder-economia/helder-pede-a-lula-auxilio-de-2-salarios-minimos-para-pescadores/",
+      "summary": "Senador eleito pelo Pará propõe pagamento em parcela única ou em duas vezes a trabalhadores afetados pela estiagem",
       "tags": [
         "Lula"
       ],
@@ -235,152 +314,13 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Sat, 14 Nov 2026 20:55:44 +0000"
-    },
-    {
-      "id": "d2b74b6b5052",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Vitória no Brasil serve de lição contra “extrema direita”, diz Lula",
-      "link": "https://www.poder360.com.br/poder-governo/vitoria-no-brasil-serve-de-licao-contra-extrema-direita-diz-lula/",
-      "summary": "Presidente está nas Filipinas para participar da cúpula da Asean como convidado; a um jornal do país, disse que outras nações podem aprender com a mobilização da esquerda brasileira nas eleições",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "CNN Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Sat, 14 Nov 2026 20:34:07 +0000"
-    },
-    {
-      "id": "dfe5285bc8e3",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
-      "summary": "Ministro Luiz Fux durante julgamento no Supremo\nLuiz Silveira/STF\nO ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribunal Federal (STF). Ainda não há data para a retomada do caso, já que o presidente da Corte, ministro Edson Fachin, precisará colocar a ação em pauta.\nNo plenário virtual, três ministros já tinham votado e acompanhado o relator Flávio Dino para confirmar as regras definidas pelo ministro para o início da escala 5x2 em 16 de dezembro. Agora, o placar fica zerado e os ministros terão que recomeçar o julgamento.\nEnquanto o plenário do STF não toma uma decisão, a liminar de Flávio Dino continua valendo. Nela, o ministro mantém para 16 de dezembro o início da escala 5x2 e permite que, durante a primeira etapa da transição, a jornada de 42 horas semanais seja distribuída em cinco dias.\nEsses cinco dias com expedientes de até 8 horas e 24 minutos por dia, sem pagamento de adicional de hora extra pelos 24 minutos que ultrapassam as oito horas.\nA regra vale mesmo se não houver acordo ou convenção coletiva até 15 de dezembro (entenda mais abaixo).\nEscala 5X2 está mantida a partir de 16/ Dezembro\nOs ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes já tinham confirmado as regras definidas por Dino. O plenário virtual iria até 23h59 de 23 de novembro. Agora, cada um dos ministros precisará votar novamente quando Fachin colocar o tema em pauta no plenário do Supremo.\nO que prevê a decisão de Dino\nA mudança na escala de trabalho foi aprovada pelo Congresso e prevê uma redução gradual da jornada máxima semanal.\nA primeira etapa começa em 16 de dezembro de 2026, quando o limite passa de 44 para 42 horas semanais, com dois dias de repouso remunerado. A redução definitiva para 40 horas semanais está prevista para dezembro de 2027.\nUm dos impasses levados ao STF envolvia justamente essa etapa de transição. Como a nova regra manteve o limite ordinário de oito horas diárias, a divisão das 42 horas pelos cinco dias de trabalho resulta em jornadas de oito horas e 24 minutos.\nNa liminar agora submetida aos demais ministros, Flávio Dino autorizou esses 24 minutos adicionais sem incidência de hora extra durante o período intermediário, mesmo quando patrões e sindicatos não tiverem chegado a acordo coletivo até 15 de dezembro.\nA decisão também afastou travas rígidas de tempo, semanais e mensais, para o aproveitamento dos repousos remunerados.\nCom isso, acordos e convenções coletivas poderão definir quando os dois dias de folga serão usufruídos, desde que o direito aos dois descansos seja preservado.\nFlávio Dino também estabeleceu prazo de 90 dias para revisão de acordos coletivos, determinou que a redução da jornada não poderá provocar redução salarial e deu 180 dias para o Congresso regulamentar regimes diferenciados para setores específicos e regras de adaptação para micro e pequenas empresas.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 14 Nov 2026 19:55:35 -0000"
-    },
-    {
-      "id": "a005cd477101",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fachin defende indicação de uma mulher negra para o STF",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
-      "summary": "Fachin defende indicação de uma mulher negra para o STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º Encontro Nacional de Juízas e Juízes Negros (Enajun). \n\"Eu olhava o auditório e eu via as manifestações das magistradas que me precederam e certamente me vinha à cabeça que quem dê direito para definir uma próxima vaga da Suprema Corte Brasileira aqui estivesse saberia que há magistradas negras à altura desse lugar para honrar o Brasil e o povo brasileiro\", disse, sendo ovacioado.\nA referência foi ao presidente Luiz Inácio Lula da Silva (PT), a quem cabe indicar um nome para o Supremo. A escolha precisa ser aprovada por pelo menos 41 dos 81 senadores. \nO STF nunca teve uma ministra negra. Cármen Lúcia é a única mulher entre os dez integrantes atuais do tribunal. \nVaga aberta desde outubro de 2025\nA cadeira está vaga desde a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025. Lula indicou o advogado-geral da União, Jorge Messias, mas o Senado rejeitou o nome em abril deste ano, por 42 votos a 34. Foi a primeira vez em 132 anos que o Senado derrubou uma indicação para o Supremo. \nO encontro em que Fachin discursou reuniu magistrados para discutir formas de ampliar a presença de pessoas negras nos espaços de decisão do Judiciário. A programação começou na quarta-feira (11) e terminou nesta sexta no Centro Cultural da Justiça Federal, no Centro do Rio.\nRio sedia até amanhã encontro de juízas e juízes negros\nFachin discursou a favor da indicação de uma magistrada negra para o STF\nReprodução/TV Globo",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 13 Nov 2026 20:10:44 -0000"
-    },
-    {
-      "id": "9c8b5e4fa45b",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
-      "summary": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2.\nEm manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário não confirme alguns pontos da decisão de Dino e preserve as regras aprovadas pelo Congresso Nacional.\nA Casa concorda, porém, com pontos centrais da liminar, entre eles a manutenção do calendário aprovado pelo Congresso, que prevê jornada de 42 horas semanais e dois dias de repouso a partir de 16 de dezembro.\nEntre os pontos contestados estão a possibilidade de jornada diária de até oito horas e 24 minutos durante a transição, mesmo sem acordo ou convenção coletiva, e a flexibilização dos limites para a compensação dos dois dias de descanso.\nEscala 5X2 está mantida a partir de 16/ Dezembro\nA manifestação ocorre enquanto o plenário virtual do STF analisa a liminar de Dino. Nesta sexta-feira (13), o ministro Alexandre de Moraes acompanhou o relator, e o placar chegou a 2 a 0 pela confirmação integral da decisão.\nOs pontos contestados pela Câmara\nA Advocacia da Câmara apresentou questionamentos a diferentes pontos da decisão. Veja alguns abaixo:\nJornada de até 8h24 sem acordo coletivo: a Câmara sustenta que a emenda condicionou a ampliação da jornada diária durante a transição à negociação coletiva.\nCompensação dos dias de descanso: a Casa contesta a retirada das travas semanais e mensais para compensação das folgas e a possibilidade de uma regulamentação temporária pelo Executivo nos primeiros 90 dias, caso a negociação coletiva fracasse. Segundo a Câmara, a retirada dos limites pode levar a longos períodos consecutivos de trabalho.\nRegimes diferenciados: a Câmara discorda do prazo de 180 dias estabelecido por Dino para que o Congresso regulamente regimes diferenciados de jornada e repouso para atividades específicas.\nMicro e pequenas empresas: também contesta o prazo de 180 dias para a regulamentação de medidas de adaptação para microempresas e empresas de pequeno porte.\nContratos públicos: a Câmara questiona a redução, de um ano para 180 dias, do prazo de adaptação dos contratos administrativos previsto na emenda.\nEmpresas estatais: a Casa é contrária à extensão às empresas estatais que exploram atividade econômica em regime de concorrência da exceção ao controle de jornada prevista para trabalhadores de alta qualificação e remuneração do setor privado.\nCâmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2\nDivulgação / Câmara dos Deputados\nCâmara defende texto aprovado pelo Congresso\nNa manifestação, a Advocacia da Câmara afirmou que a Emenda Constitucional 141/2026 foi resultado de amplo debate no Congresso e aprovada por maiorias expressivas na Câmara e no Senado.\n“A Emenda Constitucional n. 141/2026 resulta de amplo debate público e de deliberação parlamentar legítima, concluída por maiorias expressivas nas duas Casas do Congresso Nacional.”\nA Câmara argumentou ainda que o Congresso, ao aprovar a mudança constitucional, buscou equilibrar os interesses de trabalhadores e empregadores e criou uma transição gradual, com previsões específicas para negociação coletiva, contratos com a administração pública e empresas de menor porte.\nSegundo a Advocacia da Câmara, propostas para ampliar os prazos foram discutidas durante a tramitação e rejeitadas. Por isso, defendeu que a emenda permaneça válida integralmente, sem as alterações promovidas na decisão de Dino.\nA emenda foi promulgada pelo Congresso em 16 de outubro. Ela prevê a redução gradual da jornada máxima de 44 para 40 horas semanais, sem redução salarial, e garante dois dias de repouso remunerado por semana. A primeira fase começa em 16 de dezembro, com limite de 42 horas semanais.\nNa Câmara, a proposta foi aprovada por 472 votos a 22 no primeiro turno e 461 a 19 no segundo. No Senado, foram 75 votos favoráveis e um contrário nos dois turnos.\nO que Dino decidiu\nFlávio Dino concedeu a liminar na quinta (12). Além da jornada de até 24 minutos além das 8 horas habituais, durante a fase de 42 horas semanais, o ministro definiu regras sobre acordos coletivos, salários, compensação de folgas, pequenas empresas, contratos públicos e empresas estatais.\nDino manteve afastou a possibilidade de uma passagem direta das atuais 44 horas para 40 horas semanais caso empresas e sindicatos não tenham concluído negociações coletivas.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 13 Nov 2026 16:42:59 -0000"
-    },
-    {
-      "id": "dc92901eea30",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Aliados pedem que Alcolumbre defenda fim de superinquéritos do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/aliados-pedem-que-alcolumbre-defenda-fim-de-superinqueritos-do-stf.shtml",
-      "summary": "Aliados de Davi Alcolumbre (União-AP) afirmam que os acenos que ele tem feito em defesa de uma reforma do Judiciário, como a instituição de mandatos para ministros do STF e idade mínima para indicações, são bem-vindos para conquistar votos de bolsonaristas, mas insuficientes.\nLeia mais (11/14/2026 - 18h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "14 Nov 2026 18:00:00 -0300"
-    },
-    {
-      "id": "f223e6a6bc5b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fux interrompe julgamento virtual da escala 6x1 e manda caso para plenário do STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml",
-      "summary": "O ministro do STF (Supremo Tribunal Federal) Luiz Fux interrompeu o julgamento do plenário virtual sobre o fim da escala 6x1 e pediu que o caso seja julgado no plenário físico. A ação já contava com quatro votos -do relator Flávio Dino, que foi seguido por Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes.\nLeia mais (11/14/2026 - 17h06)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "14 Nov 2026 17:06:00 -0300"
-    },
-    {
-      "id": "1e7de2bd5c64",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Janones critica ação da “extrema-esquerda” contra ajuste fiscal de Lula",
-      "link": "https://www.cnnbrasil.com.br/politica/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
-      "summary": "Das Filipinas, deputado federal também afirmou que \"Exército do Lula\" será essencial para garantir governabilidade do presidente frente ao Congresso de maioria conservadora",
-      "tags": [
-        "esquerda",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 14 Nov 2026 19:43:05 +0000"
+      "publishedRaw": "Sat, 14 Nov 2026 23:01:07 +0000"
     },
     {
       "id": "8834474fb1d2",
@@ -397,6 +337,7 @@
       "crossOutlets": [
         "BBC Brasil",
         "CNN Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -404,82 +345,6 @@
       ],
       "score": 84,
       "publishedRaw": "Sat, 14 Nov 2026 15:32:42 +0000"
-    },
-    {
-      "id": "6c943d7dcbf3",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reforma do Judiciário: grupo do STF quer adiar debate para buscar pacto com Executivo e Legislativo",
-      "link": "https://www.estadao.com.br/politica/reforma-do-judiciario-grupo-do-stf-quer-adiar-debate-para-buscar-pacto-com-executivo-e-legislativo/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 14 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "77123de04fa9",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "STF declara inconstitucionalidade de emenda que muda regras para eleição de dirigentes de tribunais",
-      "link": "https://www.estadao.com.br/politica/stf-declara-inconstitucionalidade-de-emenda-que-muda-regras-para-eleicao-de-dirigentes-de-tribunais-nprp/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 13 Nov 2026 23:18:24 +0000"
-    },
-    {
-      "id": "5465af3a110e",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Recado da semana é o de que ministros do STF não podem ser investigados",
-      "link": "https://www.estadao.com.br/politica/carlos-andreazza/recado-da-semana-e-o-de-que-ministros-do-stf-nao-podem-ser-investigados/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 84,
-      "publishedRaw": "Fri, 13 Nov 2026 21:00:00 +0000"
-    },
-    {
-      "id": "b072eaf8187c",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Fux leva julgamento de transição da 6 X 1 ao plenário físico do STF",
-      "link": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/",
-      "summary": "Três ministros já haviam acompanhado o voto do relator, Flávio Dino, no plenário virtual da Corte; julgamento será reiniciado após medida de Fux",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sat, 14 Nov 2026 20:38:30 +0000"
     },
     {
       "id": "3a3a91807b0d",
@@ -496,6 +361,7 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Mundo",
         "G1 - Política",
         "Poder360"
@@ -518,12 +384,70 @@
         "BBC Brasil",
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
       "score": 82,
       "publishedRaw": "Sat, 14 Nov 2026 12:01:08 -0000"
+    },
+    {
+      "id": "715a8b05af51",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ministério Público nega pedido para reabrir caso da rachadinha contra Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-publico-nega-pedido-para-reabrir-caso-da-rachadinha-contra-flavio-bolsonaro.shtml",
+      "summary": "O Ministério Público do Rio de Janeiro negou um pedido feito pelo deputado federal Rui Falcão (PT-SP) para reabrir a investigação da suspeita de rachadinha contra o senador Flávio Bolsonaro (PL-RJ), candidato derrotado a presidente.\nLeia mais (11/14/2026 - 21h00)",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "14 Nov 2026 21:00:00 -0300"
+    },
+    {
+      "id": "0e03dd17c496",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
+      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Sat, 14 Nov 2026 01:02:30 +0000"
+    },
+    {
+      "id": "efb50c12f3f6",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Atlas/Bloomberg: 52% acham errada a decisão de Flávio Bolsonaro de deixar o País",
+      "link": "https://www.estadao.com.br/politica/atlasbloomberg-52-acham-errada-a-decisao-de-flavio-bolsonaro-de-deixar-o-pais-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Flávio Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Fri, 13 Nov 2026 21:13:00 +0000"
     },
     {
       "id": "9a7f04b1d6be",
@@ -539,6 +463,7 @@
       "crossOutlets": [
         "CNN Brasil",
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Mundo",
         "G1 - Política",
@@ -548,40 +473,130 @@
       "publishedRaw": "Wed, 11 Nov 2026 19:48:44 GMT"
     },
     {
-      "id": "efb50c12f3f6",
-      "source": "Estadão",
+      "id": "dfe5285bc8e3",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Atlas/Bloomberg: 52% acham errada a decisão de Flávio Bolsonaro de deixar o País",
-      "link": "https://www.estadao.com.br/politica/atlasbloomberg-52-acham-errada-a-decisao-de-flavio-bolsonaro-de-deixar-o-pais-nprp/",
-      "summary": "",
+      "title": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
+      "summary": "Ministro Luiz Fux durante julgamento no Supremo\nLuiz Silveira/STF\nO ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribunal Federal (STF). Ainda não há data para a retomada do caso, já que o presidente da Corte, ministro Edson Fachin, precisará colocar a ação em pauta.\nNo plenário virtual, três ministros já tinham votado e acompanhado o relator Flávio Dino para confirmar as regras definidas pelo ministro para o início da escala 5x2 em 16 de dezembro. Agora, o placar fica zerado e os ministros terão que recomeçar o julgamento.\nEnquanto o plenário do STF não toma uma decisão, a liminar de Flávio Dino continua valendo. Nela, o ministro mantém para 16 de dezembro o início da escala 5x2 e permite que, durante a primeira etapa da transição, a jornada de 42 horas semanais seja distribuída em cinco dias.\nEsses cinco dias com expedientes de até 8 horas e 24 minutos por dia, sem pagamento de adicional de hora extra pelos 24 minutos que ultrapassam as oito horas.\nA regra vale mesmo se não houver acordo ou convenção coletiva até 15 de dezembro (entenda mais abaixo).\nEscala 5X2 está mantida a partir de 16/ Dezembro\nOs ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes já tinham confirmado as regras definidas por Dino. O plenário virtual iria até 23h59 de 23 de novembro. Agora, cada um dos ministros precisará votar novamente quando Fachin colocar o tema em pauta no plenário do Supremo.\nO que prevê a decisão de Dino\nA mudança na escala de trabalho foi aprovada pelo Congresso e prevê uma redução gradual da jornada máxima semanal.\nA primeira etapa começa em 16 de dezembro de 2026, quando o limite passa de 44 para 42 horas semanais, com dois dias de repouso remunerado. A redução definitiva para 40 horas semanais está prevista para dezembro de 2027.\nUm dos impasses levados ao STF envolvia justamente essa etapa de transição. Como a nova regra manteve o limite ordinário de oito horas diárias, a divisão das 42 horas pelos cinco dias de trabalho resulta em jornadas de oito horas e 24 minutos.\nNa liminar agora submetida aos demais ministros, Flávio Dino autorizou esses 24 minutos adicionais sem incidência de hora extra durante o período intermediário, mesmo quando patrões e sindicatos não tiverem chegado a acordo coletivo até 15 de dezembro.\nA decisão também afastou travas rígidas de tempo, semanais e mensais, para o aproveitamento dos repousos remunerados.\nCom isso, acordos e convenções coletivas poderão definir quando os dois dias de folga serão usufruídos, desde que o direito aos dois descansos seja preservado.\nFlávio Dino também estabeleceu prazo de 90 dias para revisão de acordos coletivos, determinou que a redução da jornada não poderá provocar redução salarial e deu 180 dias para o Congresso regulamentar regimes diferenciados para setores específicos e regras de adaptação para micro e pequenas empresas.",
       "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
-        "G1 - Política"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 78,
-      "publishedRaw": "Fri, 13 Nov 2026 21:13:00 +0000"
+      "score": 80,
+      "publishedRaw": "Sat, 14 Nov 2026 19:55:35 -0000"
     },
     {
-      "id": "0e03dd17c496",
+      "id": "a005cd477101",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Fachin defende indicação de uma mulher negra para o STF",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
+      "summary": "Fachin defende indicação de uma mulher negra para o STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º Encontro Nacional de Juízas e Juízes Negros (Enajun). \n\"Eu olhava o auditório e eu via as manifestações das magistradas que me precederam e certamente me vinha à cabeça que quem dê direito para definir uma próxima vaga da Suprema Corte Brasileira aqui estivesse saberia que há magistradas negras à altura desse lugar para honrar o Brasil e o povo brasileiro\", disse, sendo ovacioado.\nA referência foi ao presidente Luiz Inácio Lula da Silva (PT), a quem cabe indicar um nome para o Supremo. A escolha precisa ser aprovada por pelo menos 41 dos 81 senadores. \nO STF nunca teve uma ministra negra. Cármen Lúcia é a única mulher entre os dez integrantes atuais do tribunal. \nVaga aberta desde outubro de 2025\nA cadeira está vaga desde a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025. Lula indicou o advogado-geral da União, Jorge Messias, mas o Senado rejeitou o nome em abril deste ano, por 42 votos a 34. Foi a primeira vez em 132 anos que o Senado derrubou uma indicação para o Supremo. \nO encontro em que Fachin discursou reuniu magistrados para discutir formas de ampliar a presença de pessoas negras nos espaços de decisão do Judiciário. A programação começou na quarta-feira (11) e terminou nesta sexta no Centro Cultural da Justiça Federal, no Centro do Rio.\nRio sedia até amanhã encontro de juízas e juízes negros\nFachin discursou a favor da indicação de uma magistrada negra para o STF\nReprodução/TV Globo",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 13 Nov 2026 20:10:44 -0000"
+    },
+    {
+      "id": "9c8b5e4fa45b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml",
+      "summary": "A Câmara dos Deputados se manifestou ao Supremo Tribunal Federal (STF) contra parte da decisão do ministro Flávio Dino que definiu regras para a transição da escala 6x1 para a 5x2.\nEm manifestação enviada à Corte, a Advocacia da Câmara defendeu que o plenário não confirme alguns pontos da decisão de Dino e preserve as regras aprovadas pelo Congresso Nacional.\nA Casa concorda, porém, com pontos centrais da liminar, entre eles a manutenção do calendário aprovado pelo Congresso, que prevê jornada de 42 horas semanais e dois dias de repouso a partir de 16 de dezembro.\nEntre os pontos contestados estão a possibilidade de jornada diária de até oito horas e 24 minutos durante a transição, mesmo sem acordo ou convenção coletiva, e a flexibilização dos limites para a compensação dos dois dias de descanso.\nEscala 5X2 está mantida a partir de 16/ Dezembro\nA manifestação ocorre enquanto o plenário virtual do STF analisa a liminar de Dino. Nesta sexta-feira (13), o ministro Alexandre de Moraes acompanhou o relator, e o placar chegou a 2 a 0 pela confirmação integral da decisão.\nOs pontos contestados pela Câmara\nA Advocacia da Câmara apresentou questionamentos a diferentes pontos da decisão. Veja alguns abaixo:\nJornada de até 8h24 sem acordo coletivo: a Câmara sustenta que a emenda condicionou a ampliação da jornada diária durante a transição à negociação coletiva.\nCompensação dos dias de descanso: a Casa contesta a retirada das travas semanais e mensais para compensação das folgas e a possibilidade de uma regulamentação temporária pelo Executivo nos primeiros 90 dias, caso a negociação coletiva fracasse. Segundo a Câmara, a retirada dos limites pode levar a longos períodos consecutivos de trabalho.\nRegimes diferenciados: a Câmara discorda do prazo de 180 dias estabelecido por Dino para que o Congresso regulamente regimes diferenciados de jornada e repouso para atividades específicas.\nMicro e pequenas empresas: também contesta o prazo de 180 dias para a regulamentação de medidas de adaptação para microempresas e empresas de pequeno porte.\nContratos públicos: a Câmara questiona a redução, de um ano para 180 dias, do prazo de adaptação dos contratos administrativos previsto na emenda.\nEmpresas estatais: a Casa é contrária à extensão às empresas estatais que exploram atividade econômica em regime de concorrência da exceção ao controle de jornada prevista para trabalhadores de alta qualificação e remuneração do setor privado.\nCâmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2\nDivulgação / Câmara dos Deputados\nCâmara defende texto aprovado pelo Congresso\nNa manifestação, a Advocacia da Câmara afirmou que a Emenda Constitucional 141/2026 foi resultado de amplo debate no Congresso e aprovada por maiorias expressivas na Câmara e no Senado.\n“A Emenda Constitucional n. 141/2026 resulta de amplo debate público e de deliberação parlamentar legítima, concluída por maiorias expressivas nas duas Casas do Congresso Nacional.”\nA Câmara argumentou ainda que o Congresso, ao aprovar a mudança constitucional, buscou equilibrar os interesses de trabalhadores e empregadores e criou uma transição gradual, com previsões específicas para negociação coletiva, contratos com a administração pública e empresas de menor porte.\nSegundo a Advocacia da Câmara, propostas para ampliar os prazos foram discutidas durante a tramitação e rejeitadas. Por isso, defendeu que a emenda permaneça válida integralmente, sem as alterações promovidas na decisão de Dino.\nA emenda foi promulgada pelo Congresso em 16 de outubro. Ela prevê a redução gradual da jornada máxima de 44 para 40 horas semanais, sem redução salarial, e garante dois dias de repouso remunerado por semana. A primeira fase começa em 16 de dezembro, com limite de 42 horas semanais.\nNa Câmara, a proposta foi aprovada por 472 votos a 22 no primeiro turno e 461 a 19 no segundo. No Senado, foram 75 votos favoráveis e um contrário nos dois turnos.\nO que Dino decidiu\nFlávio Dino concedeu a liminar na quinta (12). Além da jornada de até 24 minutos além das 8 horas habituais, durante a fase de 42 horas semanais, o ministro definiu regras sobre acordos coletivos, salários, compensação de folgas, pequenas empresas, contratos públicos e empresas estatais.\nDino manteve afastou a possibilidade de uma passagem direta das atuais 44 horas para 40 horas semanais caso empresas e sindicatos não tenham concluído negociações coletivas.",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 13 Nov 2026 16:42:59 -0000"
+    },
+    {
+      "id": "d4d893a261f9",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PGR reforça ao STF pedido de crédito extra de R$ 324 milhões para pagar penduricalhos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pgr-reforca-ao-stf-pedido-de-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos.shtml",
+      "summary": "A PGR (Procuradoria-Geral da República) reforçou ao STF (Supremo Tribunal Federal) a demanda para que o governo abra um crédito extraordinário para bancar verbas extras de integrantes do Ministério Público ainda neste ano.\nLeia mais (11/14/2026 - 22h01)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "14 Nov 2026 22:01:00 -0300"
+    },
+    {
+      "id": "6c943d7dcbf3",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Cármen Lúcia conclui que Jair Bolsonaro feriu liberdade de imprensa ao bloquear jornalistas no X",
-      "link": "https://www.estadao.com.br/politica/carmen-lucia-conclui-que-bolsonaro-feriu-a-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-nprp/",
+      "title": "Reforma do Judiciário: grupo do STF quer adiar debate para buscar pacto com Executivo e Legislativo",
+      "link": "https://www.estadao.com.br/politica/reforma-do-judiciario-grupo-do-stf-quer-adiar-debate-para-buscar-pacto-com-executivo-e-legislativo/",
       "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
+        "STF"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 77,
-      "publishedRaw": "Sat, 14 Nov 2026 01:02:30 +0000"
+      "score": 80,
+      "publishedRaw": "Sat, 14 Nov 2026 08:30:00 +0000"
+    },
+    {
+      "id": "77123de04fa9",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "STF declara inconstitucionalidade de emenda que muda regras para eleição de dirigentes de tribunais",
+      "link": "https://www.estadao.com.br/politica/stf-declara-inconstitucionalidade-de-emenda-que-muda-regras-para-eleicao-de-dirigentes-de-tribunais-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 13 Nov 2026 23:18:24 +0000"
+    },
+    {
+      "id": "5465af3a110e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Recado da semana é o de que ministros do STF não podem ser investigados",
+      "link": "https://www.estadao.com.br/politica/carlos-andreazza/recado-da-semana-e-o-de-que-ministros-do-stf-nao-podem-ser-investigados/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Folha de São Paulo",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "Fri, 13 Nov 2026 21:00:00 +0000"
     },
     {
       "id": "2b3b2182af40",
@@ -595,10 +610,45 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
+        "Estadão",
+        "Folha de São Paulo"
+      ],
+      "score": 79,
+      "publishedRaw": "Fri, 13 Nov 2026 18:02:31 -0000"
+    },
+    {
+      "id": "82dbb332d458",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Cidadania convoca Congresso para votar incorporação pelo Progressistas",
+      "link": "https://www.cnnbrasil.com.br/politica/cidadania-convoca-congresso-para-votar-incorporacao-pelo-progressistas/",
+      "summary": "Reunião extraordinária será por videoconferência no próximo dia 21; se aprovada, medida extingue o partido e encerra federação com o PSDB",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
         "Estadão"
       ],
-      "score": 74,
-      "publishedRaw": "Fri, 13 Nov 2026 18:02:31 -0000"
+      "score": 68,
+      "publishedRaw": "Sat, 14 Nov 2026 23:21:45 +0000"
+    },
+    {
+      "id": "274f9856be63",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Voto distrital misto volta a ser debatido no Congresso após décadas de tentativas e rejeições",
+      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/voto-distrital-misto-volta-a-ser-debatido-no-congresso-apos-decadas-de-tentativas-e-rejeicoes/",
+      "summary": "",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "CNN Brasil"
+      ],
+      "score": 68,
+      "publishedRaw": "Sat, 14 Nov 2026 17:52:00 +0000"
     },
     {
       "id": "d4176959f50e",
@@ -616,19 +666,19 @@
       "publishedRaw": "Sat, 14 Nov 2026 03:00:00 -0000"
     },
     {
-      "id": "274f9856be63",
-      "source": "Estadão",
+      "id": "2957d36f53e3",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Voto distrital misto volta a ser debatido no Congresso após décadas de tentativas e rejeições",
-      "link": "https://www.estadao.com.br/politica/voce-sabia-curiosidades-politica/voto-distrital-misto-volta-a-ser-debatido-no-congresso-apos-decadas-de-tentativas-e-rejeicoes/",
-      "summary": "",
+      "title": "Árvore de Natal do parque Villa-Lobos, em SP, acende luzes e atrai famílias na inauguração",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/arvore-de-natal-do-parque-villa-lobos-em-sp-acende-luzes-e-atrai-familias-na-inauguracao.shtml",
+      "summary": "Com gorros de Papai Noel na cabeça, o público assistiu à árvore de Natal montada no parque Villa-Lobos, na zona oeste de São Paulo, se iluminar pela primeira vez na noite deste sábado (14).\nLeia mais (11/14/2026 - 20h14)",
       "tags": [
-        "Congresso"
+        "família"
       ],
       "crossOutlets": [],
-      "score": 64,
-      "publishedRaw": "Sat, 14 Nov 2026 17:52:00 +0000"
+      "score": 58,
+      "publishedRaw": "14 Nov 2026 20:14:00 -0300"
     }
   ]
 }
