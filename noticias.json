@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:59:18.954774+00:00",
+  "generated_at": "2026-11-17T10:33:51.115108+00:00",
   "items": [
     {
       "id": "3a984072b839",
@@ -15,10 +15,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 16 Nov 2026 23:05:53 +0000"
@@ -36,35 +36,14 @@
         "Lula"
       ],
       "crossOutlets": [
-        "CNN Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
       "score": 90,
       "publishedRaw": "Mon, 16 Nov 2026 08:46:29 GMT"
-    },
-    {
-      "id": "89d5774e43bb",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Sánchez e Lula conversam sobre a ameaça da extrema direita antes das eleições na Espanha",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/sanchez-e-lula-conversam-sobre-a-ameaca-da-extrema-direita-antes-das-eleicoes-na-espanha.ghtml",
-      "summary": "Lula e primeiro-ministro da Espanha, Pedro Sánchez.\nRicardo Stuckert/PR\nO primeiro-ministro da Espanha, Pedro Sánchez, conversou com o presidente do Brasil, Luiz Inácio Lula da Silva, sobre a defesa da democracia diante da \"ameaça de extrema direita\", durante um encontro nesta segunda-feira (16) em Madri, a menos de duas semanas das eleições gerais espanholas de 29 de novembro.\nAo longo do dia, Sánchez também se reunirá em Madri com o presidente do Uruguai, Yamandú Orsi, outro aliado de esquerda na América Latina, uma região que nos últimos anos se inclinou para a direita.\nNa sua chegada ao Palácio de la Moncloa, sede do governo espanhol, Lula foi recebido por Sánchez com um abraço e um aperto de mãos.\nPrimeiro-ministro espanhol recebe Lula em Madri\nNo encontro, \"os dois mandatários abordaram o futuro da ONU e a importância de defender as instituições democráticas e a coesão social diante da ameaça da extrema direita\", afirma um comunicado divulgado pelo governo espanhol.\n\"Reforçamos a importância de combater o discurso de ódio e desinformação da extrema direita e de promover uma agenda de inclusão social que fortaleça a democracia\", escreveu Lula no X.\nAlém disso, em uma reunião posterior fora de Moncloa, ambos conversaram sobre \"a situação da esquerda ocidental e o modelo progressista que defendem, baseado na melhoria das condições de trabalho e em uma tributação justa como mecanismos para gerar prosperidade\", afirmou o Partido Socialista (PSOE) de Sánchez.\nUm ato de campanha anunciado inicialmente com Lula e Sánchez foi \"cancelado\", segundo o PSOE.\nLula, que aos 81 anos acaba de fazer a primeira viagem internacional após sua reeleição, precisou cancelar discursos por problemas na garganta.\nRouquidão de Lula: o que pode explicar a voz falha do presidente\nSánchez demonstra confiança em vencer as eleições de 29 de novembro, apesar de, segundo as pesquisas, estar atrás da direita nas intenções de voto.\nSe vencer, a direita poderá precisar do apoio da extrema direita para formar governo.\nLula venceu de forma surpreendente o segundo turno da eleição presidencial no fim de outubro contra o senador Flávio Bolsonaro, que foi o candidato mais votado no primeiro turno.\n\"Aconteceu no Brasil. Acabou de acontecer nos Estados Unidos (nas eleições de meio mandato). E acontecerá em breve na Espanha. A onda ultra à qual pretendem subir a direita e a extrema direita na Espanha já não cresce: desmorona\", afirmou Sánchez no início de novembro.",
-      "tags": [
-        "eleições",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 87,
-      "publishedRaw": "Mon, 16 Nov 2026 17:48:12 -0000"
     },
     {
       "id": "89d5774e43bb",
@@ -81,9 +60,11 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo"
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 89,
       "publishedRaw": "Mon, 16 Nov 2026 17:48:12 -0000"
     },
     {
@@ -101,50 +82,53 @@
         "BBC Brasil",
         "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Economia",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Mon, 16 Nov 2026 13:58:25 -0000"
     },
     {
-      "id": "bf0275d101ca",
-      "source": "G1 - Política",
+      "id": "8352691dd7b6",
+      "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula se reúne com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml",
-      "summary": "Presidente Lula e o premiê da Espanha, Pedro Sánchez, em 2026.\n Ricardo Stuckert/PR\n \nO presidente Luiz Inácio Lula da Silva (PT) se reuniu nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, na Espanha. Ele chegou ao Palácio de la Moncloa por volta das 7h (horário de Brasília). \nSegundo o Planalto, os dois líderes trataram da agenda bilateral e da conjuntura política e econômica mundial. Reforçaram a importância de combater o discurso de ódio e desinformação da extrema-direita. \nTambém discutiram a importância de \"promover uma agenda de inclusão social que fortaleça a democracia no mundo, na qual as eleições na América Latina e Europa jogam um papel central'. \nLula realiza sua primeira viagem internacional após ser reeleito para o quarto mandato presidencial. Na semana passada, o petista embarcou para a Turquia e depois seguiu para as Filipinas. A previsão é que o presidente embarque para Brasília ainda nesta segunda.\nLula volta a defender o multilateralismo como caminho para a prosperidade e a paz\nEm Madri, Lula realiza uma reunião restrita com o espanhol Pedro Sánchez no Palácio da Moncloa. Depois, o presidente participa de uma reunião ampliada e faz a foto oficial do encontro.\nO primeiro-ministro espanhol participa das eleições no país, que estão previstas para o fim de novembro. Sánchez busca um apoio público de Lula e chegou a convidar o deputado André Janones (Rede-MG) para contribuir com sua campanha política.\nLula e primeiro-ministro da Espanha, Pedro Sánchez.\nRicardo Stuckert/PR\nGiro pelo exterior\nCom uma comitiva que contou com Janones, Celso Amorim, assessor especial para assuntos internacionais, e ministros de seu governo, Lula fez sua primeira parada na Turquia para a COP 31, realizada na cidade turca de Antália.\n➡️ COP se refere ao termo em inglês Conferece of Parties, ou Conferência das Partes. A cúpula é um evento anual que reúne representantes de diversos países, além de diplomatas, cientistas, sociedade civil e empresas privadas.\nAntes da conferência do clima, teve reunião com o presidente turco, Recep Tayyip Erdogan. Segundo o governo brasileiro, os presidentes defenderam a ampliação do comércio entre os dois países e Lula destacou o interesse de estabelecer uma parceria \"mais robusta na área de defesa\" com a Turquia.\nJá na COP, o presidente Lula cobrou que os países ricos cumpram os compromissos assumidos no enfrentamento às mudanças climáticas.\nNo primeiro discurso internacional após a reeleição, Lula mencionou que a crise climática também é marcada por desigualdades sociais e entre os países.\nNa sequência, defendeu o princípio das “responsabilidades comuns, mas diferenciadas”, segundo o qual as nações desenvolvidas têm maior responsabilidade no enfrentamento da crise climática.\n“Os países ricos se desenvolveram às custas do planeta e devem cumprir seus compromissos”, afirmou Lula.\nLogo em seguida, no sábado (14), Lula seguiu para Manila, nas Filipinas, onde o petista se encontrou com o presidente filipino Ferdinand Marcos Jr. O presidente brasileiro defendeu que Brasil e Filipinas têm potencial para integrar cadeias produtivas nas áreas de minerais críticos, semicondutores e microeletrônica.\nSegundo Lula, a ideia é aproximar centros de pesquisa, universidades e empresas dos países na área. O Brasil detém a segunda maior reserva global de terras raras. Já as Filipinas possuem um parque industrial voltado à montagem e produção de chips e componentes eletrônicos.\nNo domingo (15), Lula participou da 49ª cúpula da Associação de Nações do Sudeste Asiático (Asean). Na ocasião, o petista defendeu o aprofundamento das relações comerciais e diplomáticas com o bloco. \nLula afirmou que o Brasil está aberto a investimentos estrangeiros no setor de minerais críticos, mas que não permitirá a exploração desses recursos sem agregação de valor em território nacional.\nO presidente também manifestou interesse em ampliar a cooperação com o bloco nas áreas de alta tecnologia, biocombustíveis, defesa e segurança alimentar.\nSegundo Lula, o comércio entre o Brasil e os países da Asean movimentou US$ 38,4 bilhões em 2025, tornando o bloco o quinto maior parceiro comercial brasileiro.\nLula com o presidente da Espanha, Pedro Sánchez, em 2023.\nRicardo Stuckert/PR",
+      "title": "'Lula tem que ficar em paz para fazer a escolha dele', diz Marina Silva sobre ministério",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/11/lula-tem-que-ficar-em-paz-para-fazer-a-escolha-dele-diz-marina-silva-sobre-ministerio.shtml",
+      "summary": "Em uma sala na COP31, em Antália, no último sábado (14), Marina Silva (Rede) respondia pacientemente à última pergunta desta repórter, mesmo sob os apelos de seu assessor. Estavam atrasados para encontrar o secretário-executivo da agência climática da ONU, Simon Stiell.\nLeia mais (11/17/2026 - 05h00)",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Mon, 16 Nov 2026 03:00:00 -0000"
+      "score": 85,
+      "publishedRaw": "17 Nov 2026 05:00:00 -0300"
     },
     {
-      "id": "6760c4688d0d",
-      "source": "G1 - Política",
+      "id": "eda32b41a8d5",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-diz-que-buscou-novos-parceiros-em-vez-de-ficar-chorando-apos-tarifaco-dos-eua.ghtml",
-      "summary": "Lula diz que buscou novos parceiros em vez de 'ficar chorando' após tarifaço dos EUA\nO presidente Luiz Inácio Lula da Silva (PT) afirmou neste domingo (15) que o Brasil buscou diversificar suas parcerias comerciais após o tarifaço imposto pelos Estados Unidos.\nA declaração foi dada à imprensa em Manila, nas Filipinas, onde Lula participou da 49ª cúpula da Associação de Nações do Sudeste Asiático (Asean).\nLula disse que, diante das tarifas impostas pelo governo americano, o Brasil decidiu procurar novos parceiros comerciais em vez de “ficar chorando”.\n“Ao invés da gente ficar chorando ou implorando para que o governo americano investisse no Brasil, a gente resolveu procurar outros parceiros para a gente vender e para a gente comprar.”\nSegundo Lula, os Estados Unidos respondem atualmente por 9,2% do comércio exterior brasileiro. O presidente afirmou que as trocas comerciais com a China cresceram cerca de 20%; com a Alemanha, 15,8%; com a Indonésia, cerca de 15%; e com o Vietnã, 13%.\nLula defendeu o multilateralismo e afirmou que pretende dobrar o volume de comércio com os países da Asean, que movimentou US$ 38,4 bilhões em 2025.\nO ministro das Relações Exteriores, Mauro Vieira, disse que o governo brasileiro espera avançar nas negociações para se tornar parceiro pleno de diálogo da Asean em 2027, quando Singapura assumirá a presidência do bloco.\nDurante a cúpula, Lula defendeu o aprofundamento das relações entre o Brasil e o Sudeste Asiático. O presidente também se reuniu com o primeiro-ministro do Canadá, Mark Carney, com quem discutiu a conclusão do acordo comercial entre o Mercosul e o país.\nLula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais\nQuarto mandato\nLula afirmou que pretende investir em ciência, tecnologia, indústria digital, economia verde e economia criativa durante seu quarto mandato.\n“O Brasil precisa sair do rol dos países eternamente em vias de desenvolvimento e se transformar num país desenvolvido”, disse.\nO presidente também defendeu a atração de investimentos estrangeiros para a exploração e a industrialização de minerais críticos e terras raras em território nacional, com foco na produção de chips e baterias.\nEleições brasileiras\nLula também comentou o resultado das eleições presidenciais e destacou a participação de jovens, mulheres e idosos no pleito.\nO presidente afirmou que a população brasileira assumiu a responsabilidade de impedir o que chamou de “volta do retrocesso”.\nLula disse ainda ter ficado surpreso com o interesse dos países asiáticos pelas eleições brasileiras e com a repercussão de sua vitória na região.\nMeio ambiente\nAo comentar sua participação na COP31, na Turquia, Lula destacou a apresentação de um roteiro para a redução do uso de combustíveis fósseis e os esforços brasileiros para ampliar o financiamento climático.\nO presidente defendeu o Fundo Florestas Tropicais para Sempre, que prevê retorno financeiro aos investidores e remuneração aos países pela preservação de suas florestas.\n“Ninguém está pedindo esmola, nós estamos pedindo investimento para que a gente possa cumprir com nossa tarefa”, afirmou.\nLula disse ainda considerar possível que o Brasil alcance a meta de desmatamento zero até 2030.",
+      "title": "Fazenda muda critério e esconde documentos da MP das bets, bandeira da campanha de Lula",
+      "link": "https://www.estadao.com.br/politica/fazenda-muda-criterio-e-esconde-documentos-da-mp-das-bets-bandeira-da-campanha-de-lula/",
+      "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
         "Folha de São Paulo",
-        "G1 - Mundo"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Sun, 15 Nov 2026 06:58:47 -0000"
+      "score": 85,
+      "publishedRaw": "Tue, 17 Nov 2026 08:30:00 +0000"
     },
     {
       "id": "683da277c94d",
@@ -160,70 +144,131 @@
       "crossOutlets": [
         "BBC Brasil",
         "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 84,
+      "score": 85,
       "publishedRaw": "Mon, 16 Nov 2026 19:24:53 +0000"
     },
     {
-      "id": "a55fcab1fe55",
-      "source": "Estadão",
+      "id": "01b874a52766",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "PSB vê João Campos e Alckmin como certos no Lula 4, mas enfrenta incertezas sobre Tebet e França",
-      "link": "https://www.estadao.com.br/politica/psb-ve-joao-campos-e-alckmin-como-certos-no-lula-4-mas-enfrenta-incertezas-sobre-tebet-e-franca/",
-      "summary": "",
+      "title": "Mercado quer que o povo pobre viva na miséria, diz Lula na Espanha",
+      "link": "https://www.poder360.com.br/poder-governo/mercado-quer-que-o-povo-pobre-viva-na-miseria-diz-lula-na-espanha/",
+      "summary": "Em Madri para apoiar reeleição de Sánchez, presidente disse que precisa fazer do seu 4º mandato \"o mais responsável\"",
       "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Mon, 16 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "08717176620f",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula vs. esquerda radical",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/11/lula-vs-esquerda-radical.shtml",
-      "summary": "Há muito o que se criticar no plano Moretti: primeiro, o impacto. Os R$ 56 bilhões previstos pelo governo são um pouco maiores que os R$ 40 bilhões de gastos prometidos na campanha, e o superávit que sobra depende das previsões otimistas do governo quanto às receitas no ano que vem. Segundo, a fonte do ajuste: a maior parte do impacto virá de aumento de receita, ou seja, de aumento de carga tributária numa economia que já tem impostos altos para um país em desenvolvimento. E, mesmo assim, é melhor que nada. A resposta pessimista do mercado seria ainda pior se o governo não apresentasse nada.\nLeia mais (11/16/2026 - 20h49)",
-      "tags": [
-        "esquerda",
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Mundo",
+        "Folha de São Paulo",
+        "G1 - Economia",
         "G1 - Política"
       ],
-      "score": 83,
-      "publishedRaw": "16 Nov 2026 20:49:00 -0300"
+      "score": 85,
+      "publishedRaw": "Tue, 17 Nov 2026 09:23:02 +0000"
     },
     {
-      "id": "adc499ffaa1c",
-      "source": "CNN Brasil",
+      "id": "b70080c00f61",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Mandato no STF e amplitude lideram debate sobre reforma do Judiciário",
-      "link": "https://www.cnnbrasil.com.br/politica/mandato-no-stf-e-amplitude-lideram-debate-sobre-reforma-do-judiciario/",
-      "summary": "Plataforma do Grupo Prerrogativas recebeu 86 propostas na primeira semana; sugestões incluem mudanças em outros órgãos do sistema de Justiça e o fim dos supersalários",
+      "title": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-16/",
+      "summary": "Durigan debate reforma tributária no Senado, Moretti se reúne com bancada do PT e ministros estarão em Roma",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 85,
+      "publishedRaw": "Tue, 17 Nov 2026 09:15:37 +0000"
+    },
+    {
+      "id": "dc18965b69f2",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+      "summary": "No domingo (15), o vice-presidente Geraldo Alckmin afirmou que, ao voltar para o Brasil, o presidente Lula vai trabalhar na formação do ministério para o próximo governo. Lula fez seu primeiro giro internacional pós-reeleição sem nenhuma indicação para a Esplanada – diferentemente de 2022, quando, a essa altura, já havia anunciado quem comandaria as pastas da Fazenda, Relações Exteriores e Meio Ambiente. Há muita expectativa também pelo nome que Lula deve apresentar ainda este ano para o Supremo Tribunal Federal. Em paralelo, a equipe econômica se esforça para aprovar no Congresso o pacote fiscal que, nas contas do governo, irá economizar até R$ 60 bilhões. Nesse sentido, Lula tem dois nós para desatar: de um lado, o mercado financeiro vem considerando as medidas de ajuste fiscal insuficientes; de outro, alas mais à esquerda da base governista rejeitam a proposta. \nNeste episódio, Victor Boyadjian conversa com a jornalista Ana Flor, que acompanha de perto as movimentações do governo. Ana lista alguns dos favoritos para posições-chave do quarto mandato de Lula e conta o que aliados do presidente têm dito sobre o que pensa o presidente para a formação do ministério. Ela também explica o pacote fiscal apresentado pelo ministro do Planejamento, Bruno Moretti, e as repercussões dele nos setores de esquerda e na Faria Lima. \nConvidado: Ana Flor, comentarista da GloboNews e colunista do g1.\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nLula tem mais força que Dilma para conciliar ajuste fiscal e PT\nO que você precisa saber:\nHugo Motta pode debater projeto de ajuste fiscal com líderes na Câmara já na próxima semana;\nBB: expectativa eleitoral do agronegócio por perdão de dívidas rurais ajuda a explicar tombo no resultado;\nGoverno descarta adiamento da reforma tributária;\nGoverno acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027;\nDólar dispara 2% e bate R$ 5,79, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal.\n O Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio.\nDinheiro, PIB, economia\nNatalia Filippin/G1",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 17 Nov 2026 03:30:01 -0000"
+    },
+    {
+      "id": "88f2778f6317",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+      "summary": "O caso Master completa um ano nesta terça-feira (17), com o banqueiro Daniel Vorcaro preso, a expectativa de uma primeira denúncia pela Procuradoria-Geral da República (PGR) e uma série de apurações ainda em andamento.\nO caso também avançou sobre políticos e ministros e provocou uma crise no Supremo Tribunal Federal (STF).\nVorcaro está preso atualmente no 19º Batalhão da Polícia Militar no Distrito Federal, conhecido como Papudinha. A rotina na prisão envolve atividades de jardinagem, limpeza da cela, musculação, leitura de livros e reuniões com advogados e recebe visitas de poucos familiares.\nAgora no g1\nCerca de dez dias antes de ser preso, no fim da tarde do dia 6 de novembro de 2025, Daniel Vorcaro escreveu para seu assessor jurídico: \"As pessoas precisam entender que eu cheguei num ponto em que vou explodir tudo\". E completou: \"agora, chega. Cansei de ser operado e resolver o problema de todo mundo\".\nNaquele momento, Vorcaro pressionava pela liberação de uma operação que julgava essencial para evitar a quebra do Banco Master. Ele tentava viabilizar a alienação de ações do Banco de Brasília (BRB).\nA tensão em torno do banqueiro, que ostentava influência nos Três Poderes da República, se estendeu pelos próximos dez dias. Além disso, segundo relatórios da Polícia Federal, envolveram tratativas para evitar ações da Justiça, numa indicação de que ele tinha conhecimento prévio de uma futura operação policial, e até um plano para fugir do país.\nA mobilização foi interrompida na noite do dia 17 de novembro, quando forças policiais interceptaram Vorcaro no aeroporto de Guarulhos (SP), quando ele estava prestes a embarcar em jato particular com destino final aos Emirados Árabes. O banqueiro foi preso pela primeira vez. \nDesde então, o banqueiro foi solto, usou tornozeleira eletrônica, voltou a ser preso no dia 4 de março de 2026 em nova fase da Operação Compliance Zero, teve duas propostas de delação premiada rejeitadas e foi indiciado pela Polícia Federal como líder de organização criminosa.\nA Procuradoria-Geral da República analisa os elementos reunidos pela PF e pode oferecer a primeira denúncia contra o banqueiro por um esquema de supostas fraudes bilionárias em transações entre o Banco Master e o BRB.\nA defesa nega qualquer irregularidade e diz que não houve fraude fiscal e nem prejuízo para o BRB.\nNesta quarta-feira (18), a Operação Compliance completa um ano. O caso, que começou na Justiça Federal do DF, foi levado ao Supremo e enfrenta um de seus momentos mais sensíveis depois de provocar uma crise sem precedentes na Corte.\nHá ainda uma ofensiva da defesa para tentar tirar Vorcaro da prisão e uma tentativa de buscar nulidades da investigação.\nDaniel Vorcaro\nDivulgação\nInvestigação\nA Operação Compliance Zero reúne 10 fases que investigam crimes como organização criminosa, corrupção, lavagem de dinheiro, gestão fraudulenta, vazamento de dados sigilosos e até uso de milícia digital e privada contra adversários.\nEm outubro, a PF fez os primeiros indiciamentos ao Supremo. Foram 15 alvos, entre eles, Daniel Vorcaro e o ex-presidente do BRB Paulo Henrique Costa. A PF concluiu que há indícios de crimes. \nAs operações investigadas foram feitas entre julho de 2024 e outubro de 2025. Nesse período, o Master vendeu ao BRB R$ 17,5 bilhões em carteiras de crédito.\nSegundo a Polícia Federal, pelo menos R$ 12,2 bilhões correspondiam a créditos que não tiveram existência comprovada. A investigação afirma que as carteiras eram vendidas ao BRB, que liberava bilhões de reais sem realizar as verificações necessárias.\nO caso está sob análise da PGR para decidir se eles serão acusados ou não.\nA PF ainda analisa vários desdobramentos do Master, inclusive, braços que envolvem políticos. Nas próximas semanas, os investigadores devem tomar os depoimentos do senador reeleito Jaques Wagner (PT) e do senador eleito Rui Costa (PT), como investigados.\nA PF investiga se Jaques teria recebido suposta propina de R$ 6 milhões em troca de atuação legislativa a favor do banco. O senador nega e critica a ação da PF. Rui Costa deve ser ouvido sobre negócios do Master envolvendo o crédito consignado. O senador também nega ligação com irregularidades envolvendo negócios do Master. \nA PF também vai tomar depoimentos e analisar perícias sobre o suposto pagamento de propina de Vorcaro ao senador Ciro Nogueira (PP-PI), apontado como \"destinatário central\" de vantagens indevidas pagas por Vorcaro e descrevem o vínculo entre os dois como \"funcional e instrumental\".\nO senador que perdeu a reeleição também teve despesas com viagens internacionais pagas pelo banqueiro que somam mais de R$ 488 mil.\nA defesa vem repudiando qualquer acusação de ilicitude sobre a conduta e a atuação parlamentar do senador, afirmando que ele não participou de atividades ilegais e que permanece à disposição da Justiça para prestar esclarecimentos.\nEm uma das frentes, a PF também investiga o financiamento do filme Dark Horse, que trata da história do ex-presidente Jair Bolsonaro.\nInquérito sobre financiamento do filme Dark Horse\nO senador Flávio Bolsonaro (PL), que está nos Estados Unidos, é investigado. A PF apura suspeitas de lavagem de dinheiro, evasão de divisas, corrupção e outros possíveis crimes relacionados ao financiamento da produção.\nOs investigadores querem aprofundar repasses feitos por Vorcaro a pedido de Flávio Bolsonaro. A PF apontou \"divergência contábil severa\" nos documentos nos apresentados pela produtora do filme.\nTambém estão pendentes as investigações sobre a contratação de influenciadores para atacar o Banco Central após a liquidação do Master no dia 18 de novembro do ano passado e as ações dos grupos ligados a Vorcaro para ações violentas e vazamentos de dados sigilosos da PF e do MPF.\nA PF também deve entregar ao Supremo relatório sobre menções a ministros da Corte. \nImpasse\nAs investigações do Master arrastaram o Supremo para uma crise institucional diante das ligações de ministros e parentes com Vorcaro. \nEm fevereiro, o ministro Dias Toffoli deixou a relatoria do Master, após ter atos questionados pelos investigadores, como a determinação de uma acareação sem que depoimentos tivessem sido tomados, e principalmente depois que o ministro admitiu ser sócio da empresa da família que vendeu participação em um resort para fundos ligados ao banqueiro Daniel Vorcaro. \nO novo relator, André Mendonça, também vivenciou desgastes com a PF por determinações envolvendo o Master. O embate foi ampliado depois que Mendonça determinou a elaboração de um relatório sobre as menções e achados envolvendo o colega Alexandre de Moraes no Master. \nO relatório apontou Moraes como interlocutor de 52 mensagens do banqueiro, que demonstravam apreensão com as investigações e pedindo interferência, além de suposta  análise e edição de um contrato de R$ 130 milhões, assinado entre o Banco Master e o escritório de advocacia Barci de Moraes, de Viviane Barci, esposa do ministro, com o Master. \nMendonça pediu que o plenário decidisse sobre investigar o colega. Moraes nega diálogos com Vorcaro e irregularidades.\nEm reação, Moraes determinou que a PF enviasse ao Supremo relatório de inteligência, sem valor probatório, que questionavam a conduta de Mendonça na relatoria dos casos Master e INSS. \nA medida foi adotada dentro do inquérito das fake news e com pedido de investigação por abuso de autoridade, improbidade administrativa e crime de responsabilidade.\nO caso de Moraes começou a ser analisado pelo plenário numa sessão marcada por brigas e trocas de acusações entre os ministros. Depois surgiram novas citações a ministros ou parentes no Master. \nA PF promete entregar a análise neste mês. Com impasse sobre a situação dos colegas, Fachin assumiu a relatoria temporária de casos urgentes do Master.\nBanqueiro, pastor e empresários: quem são os principais alvos da PF no caso do Banco Master?\nGetty Images via BBC\nLiberdade\nA defesa de Vorcaro também contesta a atuação do presidente do STF, Edson Fachin, no caso. Ele assumiu temporariamente a condução das investigações do caso Master após a crise provocada pela divulgação de mensagens envolvendo integrantes da Corte.\nO argumento é que o Regimento Interno do Supremo não autoriza o presidente deslocar a condução do processo para a presidência e atribuir a si próprio competência  para decidir questões da investigação. \nPor isso, os advogados defendem que as decisões sobre pedidos urgentes devem ser analisadas pelo ministro mais antigo do tribunal, Gilmar Mendes.\nAlém de Vorcaro, também estão presos:\nHenrique Vorcaro, pai de Vorcaro;\nFelipe Vorcaro, primo de Vorcaro;\nRodrigo Pimenta Franco Avelar Campos, apontado pela Polícia Federal como integrante do núcleo chamado “Os Meninos”, que atuava como hacker no esquema: prisão preventiva;\nVictor Lima Sedlmaier, integrante do núcleo chamado “Os Meninos”, que atuava como hacker no esquema: prisão preventiva;\nMarilson Roseno, policial aposentado considerado líder operacional do núcleo chamado “A Turma”: prisão preventiva;\nManoel Mendes Rodrigues, “Manolo Dom”, é apontado pela PF como operador do jogo do bicho no Rio de Janeiro e integrante do núcleo chamado“A Turma”: prisão preventiva;\nFabiano Zettel, cunhado e operador financeiro de Vorcaro: prisão preventiva;\nDaniel Monteiro, considerado um dos principais operadores jurídico-financeiros ligados a Vorcaro: prisão preventiva;\nSebastião Monteiro Junior:  policial federal aposentado e ex-integrante do grupo “A Turma”: prisão preventiva;\nPaulo Henrique Costa, ex-presidente do BRB: prisão preventiva;\nAnderson Wander da Silva Lima, apontado como agente “infiltrado” dentro da própria Polícia Federal em benefício do grupo ligado à família Vorcaro: prisão preventiva.\nDavid Henrique Alves, apontado como líder do núcleo tecnológico, é considerado foragido. Ele teve prisão preventiva decretada.\nOutros quatro investigados estão com restrições impostas pela Justiça, como Belline Santana, então chefe do Departamento de Supervisão Bancária do Banco Central e Paulo Sérgio Neves de Souza, ex-diretor de Fiscalização do BC. \nDefesa questiona provas\nA defesa do banqueiro tem indicado que pode questionar a validade das provas obtidas no Caso Master, em especial o material no celular de Daniel Vorcaro, que é a principal fonte de elementos do caso, especialmente as que atingiram ministros do STF e políticos.\nOs advogados não descartam pedir a nulidade de toda investigação do caso Master se ficar comprovado que houve adulteração nos dados brutos do celular.\nUm relatório de uma perícia preliminar foi entregue ao Supremo apontando que os lacres originais que guardavam o celular apreendido de Vorcaro foram rompidos em momento não documentado, sem fotografias das embalagens antes ou depois do exame, e que arquivos foram criados e modificados após a apreensão.\nA decisão sobre o questionamento da prova deve ocorrer após acesso e análise do material bruto.",
       "tags": [
         "STF"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão"
+        "Estadão",
+        "Poder360"
       ],
-      "score": 80,
-      "publishedRaw": "Tue, 17 Nov 2026 00:03:10 +0000"
+      "score": 84,
+      "publishedRaw": "Tue, 17 Nov 2026 03:00:00 -0000"
+    },
+    {
+      "id": "87fa467c354e",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Aliados lamentam possibilidade de ‘perder’ Simone Tebet para o STF",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/aliados-lamentam-possibilidade-de-perder-simone-tebet-para-o-stf/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 17 Nov 2026 08:30:00 +0000"
+    },
+    {
+      "id": "dbfb7c8099b2",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Deputado do PT e Prerrogativas pedem ao STF que Flávio deixe de receber salário de senador",
+      "link": "https://www.estadao.com.br/politica/deputado-do-pt-e-prerrogativas-pedem-ao-stf-que-flavio-deixe-de-receber-salario-de-senador-nprp/",
+      "summary": "",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 17 Nov 2026 01:55:59 +0000"
     },
     {
       "id": "b77ae5c0a284",
@@ -238,45 +283,51 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "CNN Brasil"
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 80,
+      "score": 84,
       "publishedRaw": "Mon, 16 Nov 2026 22:31:55 +0000"
     },
     {
-      "id": "24432c40bd88",
-      "source": "Folha de São Paulo",
+      "id": "47372910ba4e",
+      "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Viúva do presidente haitiano assassinado em 2021 vai disputar as eleições",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/viuva-do-presidente-haitiano-assassinado-em-2021-vai-disputar-as-eleicoes.shtml",
-      "summary": "De acordo com o site do conselho eleitoral do Haiti, a ex-primeira-dama Martine Moise será candidata à Presidência. Essas serão as primeiras eleições que o país, mergulhado em uma profunda crise de violência, organizará em mais de uma década.\nLeia mais (11/16/2026 - 21h03)",
+      "title": "Caso Master faz 1 ano com apuração sobre ministros do STF travada",
+      "link": "https://www.poder360.com.br/poder-justica/caso-master-faz-1-ano-com-apuracao-sobre-ministros-do-stf-travada/",
+      "summary": "Relatório da PF aponta 52 mensagens para Moraes; Fachin determinou apuração de citações aos 10 ministros",
       "tags": [
-        "eleições"
+        "STF"
       ],
       "crossOutlets": [
-        "G1 - Mundo",
+        "BBC Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 78,
-      "publishedRaw": "16 Nov 2026 21:03:00 -0300"
+      "score": 84,
+      "publishedRaw": "Tue, 17 Nov 2026 09:00:55 +0000"
     },
     {
-      "id": "fac57de4516c",
-      "source": "CNN Brasil",
+      "id": "dc18965b69f2",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Política",
-      "title": "Marinho e Tereza criticam Moraes por negar visita a Bolsonaro: “Arbitrário”",
-      "link": "https://www.cnnbrasil.com.br/politica/marinho-e-tereza-criticam-moraes-por-negar-visita-a-bolsonaro-arbitrario/",
-      "summary": "Ministro do STF afirma que a prisão domiciliar não pode ser utilizada como \"escritório político\"; ambos os senadores disputarão a presidência do Senado em fevereiro",
+      "category": "Economia",
+      "title": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+      "summary": "No domingo (15), o vice-presidente Geraldo Alckmin afirmou que, ao voltar para o Brasil, o presidente Lula vai trabalhar na formação do ministério para o próximo governo. Lula fez seu primeiro giro internacional pós-reeleição sem nenhuma indicação para a Esplanada – diferentemente de 2022, quando, a essa altura, já havia anunciado quem comandaria as pastas da Fazenda, Relações Exteriores e Meio Ambiente. Há muita expectativa também pelo nome que Lula deve apresentar ainda este ano para o Supremo Tribunal Federal. Em paralelo, a equipe econômica se esforça para aprovar no Congresso o pacote fiscal que, nas contas do governo, irá economizar até R$ 60 bilhões. Nesse sentido, Lula tem dois nós para desatar: de um lado, o mercado financeiro vem considerando as medidas de ajuste fiscal insuficientes; de outro, alas mais à esquerda da base governista rejeitam a proposta. \nNeste episódio, Victor Boyadjian conversa com a jornalista Ana Flor, que acompanha de perto as movimentações do governo. Ana lista alguns dos favoritos para posições-chave do quarto mandato de Lula e conta o que aliados do presidente têm dito sobre o que pensa o presidente para a formação do ministério. Ela também explica o pacote fiscal apresentado pelo ministro do Planejamento, Bruno Moretti, e as repercussões dele nos setores de esquerda e na Faria Lima. \nConvidado: Ana Flor, comentarista da GloboNews e colunista do g1.\nO podcast O Assunto é produzido por: Luiz Felipe Silva, Luiz Gabriel Franco, Juliene Moretti, Stéphanie Nascimento, Marco Antônio Martins e Thomé Granemann. Na apresentação: Natuza Nery.\nLula tem mais força que Dilma para conciliar ajuste fiscal e PT\nO que você precisa saber:\nHugo Motta pode debater projeto de ajuste fiscal com líderes na Câmara já na próxima semana;\nBB: expectativa eleitoral do agronegócio por perdão de dívidas rurais ajuda a explicar tombo no resultado;\nGoverno descarta adiamento da reforma tributária;\nGoverno acerta com Congresso projeto de ajuste fiscal que pode chegar a R$ 80 bi em 2027;\nDólar dispara 2% e bate R$ 5,79, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal.\n O Assunto é o podcast diário produzido pelo g1, disponível em todas as plataformas de áudio e no YouTube. Desde a estreia, em agosto de 2019, o podcast O Assunto soma mais de 168 milhões de downloads em todas as plataformas de áudio.\nDinheiro, PIB, economia\nNatalia Filippin/G1",
       "tags": [
-        "Bolsonaro"
+        "Lula"
       ],
       "crossOutlets": [
-        "G1 - Política"
+        "BBC Brasil",
+        "Estadão",
+        "Folha de São Paulo",
+        "G1 - Política",
+        "Poder360"
       ],
-      "score": 74,
-      "publishedRaw": "Tue, 17 Nov 2026 00:44:25 +0000"
+      "score": 82,
+      "publishedRaw": "Tue, 17 Nov 2026 03:30:01 -0000"
     },
     {
       "id": "65e9dce7215a",
@@ -290,41 +341,9 @@
         "Bolsonaro",
         "pré-candidato"
       ],
-      "crossOutlets": [
-        "CNN Brasil"
-      ],
-      "score": 73,
+      "crossOutlets": [],
+      "score": 69,
       "publishedRaw": "Mon, 16 Nov 2026 12:43:31 -0000"
-    },
-    {
-      "id": "8d4f0144fda9",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Futuro secretário de Educação do RJ validou censura ao livro 'O Avesso da Pele' em escolas do Paraná",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/futuro-secretario-de-educacao-do-rj-validou-censura-ao-livro-o-avesso-da-pele-em-escolas-do-parana.shtml",
-      "summary": "O governador eleito do Rio de Janeiro, Douglas Ruas (PL), anunciou nesta segunda-feira (16) o professor de matemática Anderfábio Oliveira dos Santos como futuro secretário estadual de Educação.\nLeia mais (11/16/2026 - 22h15)",
-      "tags": [
-        "censura"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "16 Nov 2026 22:15:00 -0300"
-    },
-    {
-      "id": "3eb79783ec04",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Regulação concorrencial de plataformas digitais não é censura",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/regulacao-concorrencial-de-plataformas-digitais-nao-e-censura.shtml",
-      "summary": "Desde setembro de 2025 tramita no Congresso Nacional o projeto de lei 4.675, que propõe um marco para a regulação concorrencial das grandes plataformas digitais e atribui novas competências ao Cade (Conselho Administrativo de Defesa Econômica).\n\nNão há aqui improviso: o texto foi precedido de uma tomada de subsídios ampla, que ouviu empresas, especialistas e a sociedade civil, e de uma análise cuidadosa das experiências de outros países que já enfrentaram, ou ainda enfrentam, o mesmo desafio.\nLeia mais (11/16/2026 - 22h00)",
-      "tags": [
-        "censura"
-      ],
-      "crossOutlets": [],
-      "score": 68,
-      "publishedRaw": "16 Nov 2026 22:00:00 -0300"
     },
     {
       "id": "ce56a78ef11d",
@@ -337,9 +356,58 @@
       "tags": [
         "Congresso"
       ],
-      "crossOutlets": [],
-      "score": 64,
+      "crossOutlets": [
+        "Poder360"
+      ],
+      "score": 68,
       "publishedRaw": "Mon, 16 Nov 2026 19:27:03 +0000"
+    },
+    {
+      "id": "854039ff6755",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
+      "link": "https://www.poder360.com.br/poder-congresso/leia-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira/",
+      "summary": "Senado debate ajuste fiscal e crédito à exportação; Câmara discute big techs, CBS e Desenrola 3.0",
+      "tags": [
+        "Congresso"
+      ],
+      "crossOutlets": [
+        "Estadão"
+      ],
+      "score": 68,
+      "publishedRaw": "Tue, 17 Nov 2026 09:15:41 +0000"
+    },
+    {
+      "id": "03c3f988f06b",
+      "source": "G1 - Mundo",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Talibã censura até o críquete no Afeganistão",
+      "link": "https://g1.globo.com/mundo/blog/sandra-cohen/noticia/2026/11/17/taliba-censura-ate-o-criquete-no-afeganistao.ghtml",
+      "summary": "Soldados do Talibã comemoram um ano da saída dos Estados Unidos do Afeganistão\nEbrahim Noroozi/AP\nO regime Talibã, que há cinco anos retomou o controle do Afeganistão, proibiu as estações de rádio de Kandahar de transmitir reportagens e comentários sobre o críquete, o esporte mais popular do país. O esporte não está proibido, mas a medida priva os torcedores de receberem informações básicas relacionadas ao críquete, como os resultados das partidas.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO veto às rádios, antecipado pela agência de notícias AFP, ocorre às vésperas do relançamento da  Premier League do Afeganistão, em dezembro nos Emirados Árabes Unidos. O torneio terá a participação de cinco equipes e foi autorizada pelo Talibã.\nA transmissão dos jogos pela TV já havia sido extinta, restando às rádios a única opção de transmissão. Por enquanto, a proibição parece estar limitada a Kandahar, no Sul do país, onde nasceu o líder talibã, Hibatullah Akhundzada. Os motivos não  foram explicados.\nChefe do Talibã, Mawlawi Hibatullah Akhundzada, em foto sem data\nTalibã/AFP\nDesde que assumiu o governo, o regime permitiu a prática do críquete apenas para os homens. Impedidas de jogar, as atletas da equipe feminina fugiram do país e se exilaram na Austrália, onde formaram um time de refugiadas.\nEm julho passado, elas foram reconhecidas pelo Conselho Internacional de Críquete, que anunciou financiamento para a equipe e a promessa de disputar eventos classificatórios até 2030.\nA situação dramática das mulheres afegãs foi descrita como \"apartheid de gênero\" pela ONG Human Rights Watch. Elas foram proibidas de frequentar escolas, praticar esportes e ocupar cargos públicos. O Talibã impôs mais de 230 decretos, que retiram os seus direitos básicos, como o acesso à educação e à liberdade de movimento. Também não podem falar em público, cantar ou ler em voz alta.\nA fundadora do Arquivo de Justiça do Afeganistão, Metra Mehran, classifica as restrições como um \"um sistema de opressão de gênero institucionalizado\". Segundo ela, o Código de Processo Penal formalizou a discriminação e legitimou a violência contra as mulheres. \nA Human Rights Watch considera que este código deixa as sobreviventes de abusos sem acesso à Justiça e desmantela ainda mais as proteções para mulheres. A idade mínima para o casamento de meninas, por exemplo, foi eliminada.\nTalibã proíbe mulheres de frequentar universidades no Afeganistão",
+      "tags": [
+        "censura"
+      ],
+      "crossOutlets": [],
+      "score": 67,
+      "publishedRaw": "Tue, 17 Nov 2026 07:00:00 -0000"
+    },
+    {
+      "id": "a835ae40faf3",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
+      "summary": "Brasília (DF) 25/10/2026  Eleitores votam em colégio da Cidade Estrutural, Região Administrativa de Brasília.  Foto: Fabio Rodrigues-Pozzebom/ Agência Brasil\nFabio Rodrigues-Pozzebom/ Agênc / Fotográfo/Agência Brasil\nAdolescentes de 16 a 17 anos foram mais às urnas no segundo turno das eleições de 2026. O comparecimento dessa faixa etária foi o maior desde 2014, segundo levantamento do g1 feito a partir de dados da Justiça Eleitoral.\nSiga o canal do g1 no WhatsApp\nAo todo, 1,4 milhão de jovens dessa faixa etária votaram no segundo turno, o equivalente a 88% dos 1,6 milhão de adolescentes aptos a votar no Brasil e no exterior. Em 2014, no mesmo período, a participação foi de 78,7% dos adolescentes. \n🔎 No Brasil, o voto é facultativo para adolescentes de 16 e 17 anos. Isso significa que eles podem participar das eleições, mas não são obrigados a comparecer às urnas.\nAgora no g1\nParticipação cresce nas últimas eleições presidenciais\nOs dados do Tribunal Superior Eleitoral (TSE) mostram uma trajetória de crescimento da taxa de comparecimento dos adolescentes nos segundos turnos das eleições presidenciais desde 2014.\nLEIA MAIS:\n4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos\nNaquele ano, 78,72% dos jovens de 16 e 17 anos inscritos na Justiça Eleitoral compareceram às urnas. Em 2018, o percentual subiu para 81,3% e, em 2022, chegou a 82,9%.\nEm 2026, a taxa alcançou 88%, o maior índice entre as quatro eleições presidenciais analisadas.\nVeja a evolução do comparecimento de adolescentes no segundo turno:\ngif mostra evolução do comparecimento e abstenção de eleitores de 16 e 17 no segundo turno das eleições de 2014 a 2026\nArte/g1\n2014: 1.289.988 votaram, ou 78,72% dos aptos;\n2018: 1.138.713 votaram, ou 81,30%;\n2022: 1.755.942 votaram, ou 82,95%;\n2026: 1.438.505 votaram, ou 88,02%.\nComparecimento também aumentou entre os turnos de 2026\nEleitor registra voto no 2º turno das Eleições 2026 em Pernambuco\nReprodução/TV Globo\nO crescimento da participação dos adolescentes também foi observado na comparação entre o primeiro e o segundo turnos das eleições deste ano.\nNo primeiro turno, 1.426.988 jovens de 16 e 17 anos compareceram às urnas, o equivalente a 87,32% dos eleitores aptos dessa faixa etária.\nJá no segundo turno, o número subiu para 1.438.505, um aumento de 11.517 adolescentes.\nCom isso, a taxa de comparecimento passou de 87,32% para 88,02%, uma alta de aproximadamente 0,70 ponto percentual entre as duas etapas da votação.\nJovens de 16 anos tiveram maior participação\nApesar do voto facultativo para a idade dele, jovem de 17 anos foi às urnas em Mogi das Cruzes/SP\nJoão Belarmino/TV Diário\nEntre os adolescentes, os eleitores de 16 anos registraram uma taxa de comparecimento superior à dos jovens de 17 anos no segundo turno de 2026.\nDos 606.603 eleitores de 16 anos aptos a votar, 541.882 compareceram às urnas, o equivalente a 89,33%.\nEntre os jovens de 17 anos, foram 896.623 votantes em um universo de 1.027.641 eleitores, uma participação de 87,25%.\nOs dados consideram os eleitores registrados no Brasil e no exterior e foram extraídos das estatísticas de comparecimento e abstenção da Justiça Eleitoral.\nNo exterior, participação dos adolescentes caiu em relação a 2022\nUrnas eletrônicas destinadas ao exterior passam pelo processo de carga e lacração\nTV Globo\nNa contramão do crescimento registrado no Brasil, a taxa de comparecimento dos adolescentes de 16 e 17 anos que vivem no exterior caiu em relação às eleições de 2022.\nNo segundo turno de 2026, 1.281 jovens dessa faixa etária votaram fora do país, o equivalente a 52,6% dos 2.431 adolescentes aptos a participar da eleição.\nEm 2022, o comparecimento havia sido de 62%, uma diferença de 9,38 pontos percentuais em relação a este ano.\nRELEMBRE:\nA menos de um ano da eleição, TSE incentiva jovens a tirar título de eleitor",
+      "tags": [
+        "urnas"
+      ],
+      "crossOutlets": [],
+      "score": 65,
+      "publishedRaw": "Tue, 17 Nov 2026 03:00:01 -0000"
     },
     {
       "id": "e1d6ef3347c8",
@@ -357,34 +425,19 @@
       "publishedRaw": "Mon, 16 Nov 2026 22:35:04 -0000"
     },
     {
-      "id": "5f07de4be045",
+      "id": "fd42efb1f67d",
       "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "OCDE: Renda real das famílias tem leve queda no 2º trimestre",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ocde-renda-real-das-familias-tem-leve-queda-no-2o-trimestre/",
-      "summary": "Alta dos preços ao consumidor neutralizou o avanço da renda nominal em diversos países, enquanto o PIB real per capita seguiu em expansão",
+      "title": "Donos viajam, Shih Tzu aproveita escapada e ‘namora’ com Pitbull da família: 2 anos depois, o filhote do casal virou estrela nas redes",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/donos-viajam-shih-tzu-aproveita-escapada-e-namora-com-pitbull-da-familia-2-anos-depois-o-filhote-do-casal-virou-estrela-nas-redes/",
+      "summary": "À CNN Brasil, dono do cãozinho contou que o \"date\" entre os pets aconteceu há cerca de dois anos e meio",
       "tags": [
         "família"
       ],
       "crossOutlets": [],
       "score": 58,
-      "publishedRaw": "Tue, 17 Nov 2026 00:35:49 +0000"
-    },
-    {
-      "id": "b3d5bbc2c8ae",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bets estão associadas à saída de R$ 40,4 bi das famílias, diz Comsefaz",
-      "link": "https://www.poder360.com.br/poder-economia/bets-estao-associadas-a-saida-de-r-404-bi-das-familias-diz-comsefaz/",
-      "summary": "Estudo compara transferências via Pix com projeção de cenário sem a expansão das apostas",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Tue, 17 Nov 2026 01:12:42 +0000"
+      "publishedRaw": "Tue, 17 Nov 2026 10:00:21 +0000"
     },
     {
       "id": "e4adc6b54986",
