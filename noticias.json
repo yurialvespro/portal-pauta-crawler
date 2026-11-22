@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-11-21T21:01:30.039109+00:00",
+  "generated_at": "2026-11-22T01:30:07.060465+00:00",
   "items": [
+    {
+      "id": "1f376302bcd8",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes autoriza visitas dos filhos a Bolsonaro durante internação, mas proíbe celulares e câmeras",
+      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-autoriza-visitas-dos-filhos-a-bolsonaro-durante-internacao-mas-proibe-celulares-e-cameras/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "CNN Brasil",
+        "Folha de São Paulo",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 90,
+      "publishedRaw": "Sat, 21 Nov 2026 16:33:48 +0000"
+    },
     {
       "id": "c8e623b90a72",
       "source": "G1 - Política",
@@ -16,32 +39,51 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Economia"
       ],
       "score": 89,
       "publishedRaw": "Fri, 20 Nov 2026 03:00:00 -0000"
     },
     {
-      "id": "1f376302bcd8",
-      "source": "Estadão",
+      "id": "7615a541a6d6",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Moraes autoriza visitas dos filhos a Bolsonaro durante internação, mas proíbe celulares e câmeras",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-autoriza-visitas-dos-filhos-a-bolsonaro-durante-internacao-mas-proibe-celulares-e-cameras/",
-      "summary": "",
+      "title": "Abdômen agudo obstrutivo: entenda quadro que atinge Jair Bolsonaro",
+      "link": "https://www.cnnbrasil.com.br/saude/abdomen-agudo-obstrutivo-entenda-quadro-que-atinge-jair-bolsonaro/",
+      "summary": "Boletim médico diz que ex-presidente está estável, mas sem previsão de alta; Gastroenterologista explica que cirurgia precisa ser avaliada e geralmente ocorre em casos graves",
       "tags": [
         "Bolsonaro",
-        "Lula"
+        "Jair Bolsonaro"
       ],
       "crossOutlets": [
-        "BBC Brasil",
-        "G1 - Economia",
+        "Estadão",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 89,
-      "publishedRaw": "Sat, 21 Nov 2026 16:33:48 +0000"
+      "score": 86,
+      "publishedRaw": "Sat, 21 Nov 2026 23:39:06 +0000"
+    },
+    {
+      "id": "9a6512d33fad",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 86,
+      "publishedRaw": "Fri, 20 Nov 2026 20:24:30 +0000"
     },
     {
       "id": "e166a60f4730",
@@ -57,11 +99,51 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Economia"
       ],
       "score": 84,
       "publishedRaw": "Sat, 21 Nov 2026 14:27:51 -0000"
+    },
+    {
+      "id": "7345aa3d346a",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Plano fiscal mostra que Lula ainda aposta em remendos",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/plano-fiscal-mostra-que-lula-ainda-aposta-em-remendos.shtml",
+      "summary": "O Senado aprovou quase na íntegra o projeto de contenção de despesas e aumento de receitas do governo Luiz Inácio Lula da Silva (PT), cujo objetivo declarado é viabilizar um superávit fiscal no próximo ano. Pacotes do gênero costumam ao menos mitigar temores instalados quanto à situação das contas públicas. Não foi o que ocorreu desta vez.\nLeia mais (11/21/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "21 Nov 2026 22:00:00 -0300"
+    },
+    {
+      "id": "75391fd58921",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "'Mercado financeiro é chantagista por natureza', diz leitor sobre pressão econômica a Lula 4",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/mercado-financeiro-e-chantagista-por-natureza-diz-leitor-sobre-pressao-economica-a-lula-4.shtml",
+      "summary": "Desafios econômicos\nLeia mais (11/21/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política"
+      ],
+      "score": 84,
+      "publishedRaw": "21 Nov 2026 22:00:00 -0300"
     },
     {
       "id": "7e6420da4928",
@@ -76,9 +158,9 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 84,
       "publishedRaw": "Sat, 21 Nov 2026 08:30:00 +0000"
@@ -96,32 +178,88 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 84,
       "publishedRaw": "Fri, 20 Nov 2026 15:00:00 +0000"
     },
     {
-      "id": "b204e10609e7",
-      "source": "Poder360",
+      "id": "3300b18ccb24",
+      "source": "G1 - Política",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Lula diz que mercado financeiro não vai ensiná-lo a governar",
-      "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar/",
-      "summary": "Presidente chamou agentes da Faria Lima de “yuppies” e prometeu ampliar participação popular no orçamento",
+      "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
+      "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico\nO ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado na tarde desta sexta-feira (20), após sentir dores abdominais.\nSegundo o boletim médico, \"foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica\".\nAinda segundo o boletim, Bolsonaro \"encontra-se estável clinicamente, consciente, orientado e em respiração espontânea\", mas sem previsão de alta hospitalar.\nO boletim é assinado pelos médicos Brasil Caiado (cardiologista), Leandro Echenique (cardiologista), Claudio Birolini (cirurgião do aparelho digestivo), Antonio Aurélio Fagundes Junior (coordenador da UTI Geral) e Allisson Barcelos Borges (diretor-geral do hospital).\nNo primeiro boletim médico divulgado pelo hospital na sexta-feira, os médicos haviam informado que o ex-presidente deu entrada com \"quadro de dor e distensão abdominal\" e encontrava-se \"internado para realização de exames e investigação diagnóstica\".\n🔎 Atualmente, Bolsonaro cumpre uma pena de 27 anos e 3 meses de prisão após ser condenado por tentativa de golpe de Estado. Desde 24 de março deste ano ele está em prisão domiciliar humanitária, autorizada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\nDesde que começou a cumprir a pena, em novembro de 2025, Bolsonaro esteve internado no hospital DF Star diversas vezes.\nNeste sábado, Moraes atendeu a um pedido da defesa e autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação.\nNa decisão, Moraes ressaltou que as visitas precisam seguir as regras internas do hospital e que está proibida a entrada de \"celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\".",
       "tags": [
-        "Lula"
+        "Bolsonaro"
       ],
       "crossOutlets": [
-        "BBC Brasil",
+        "CNN Brasil",
         "Estadão",
-        "G1 - Economia",
-        "G1 - Política"
+        "Poder360"
       ],
-      "score": 84,
-      "publishedRaw": "Sat, 21 Nov 2026 17:45:47 +0000"
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 17:16:23 -0000"
+    },
+    {
+      "id": "46729dbb8b8b",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
+      "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília. \nO magistrado atendeu a um pedido feito em caráter de urgência pela defesa do ex-presidente. A autorização também vale para a enteada Letícia Firmo, filha da ex-primeira-dama Michelle Bolsonaro. \nBolsonaro deu entrada no hospital particular na tarde desta sexta-feira (20) após apresentar um quadro de dor e distensão abdominal. \nA equipe médica observa o quadro para decidir sobre necessidade de nova cirurgia, a depender da evolução do ex-presidente, segundo informação do cardiologista Brasil Caiado neste sábado. \n🔎Bolsonaro tem outros dois filhos: o ex-deputado Eduardo Bolsonaro, que deixou o Brasil em 2025, e o senador Flávio Bolsonaro (PL-RJ), que fugiu do país após a derrota na eleição presidencial de outubro deste ano. Ambos estão nos Estados Unidos.\nNa decisão deste sábado, Moraes ressalta que as visitas precisam seguir as regras internas do hospital e também proíbe a entrada “de celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\" de Bolsonaro.\nNesta sexta, o ex-presidente deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal, após avaliação do médico Brasil Caiado.\nDe acordo com a equipe, exames feitos no hospital identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nMédico de Jair Bolsonaro fala sobre internação do ex-presidente\nSegundo boletim médico e informações do médico Brasil Caiado desta sexta-feira (veja no vídeo acima), o ex-presidente está estável, consciente e recebendo medicação. Uma nova cirurgia não está descartada.\nEm uma rede social, o filho Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, comentou neste sábado o estado de saúde do pai, afirmando que os médicos colocaram uma sonda nasal no ex-presidente para retirada de resíduos alimentares. Ele também disse que Jair Bolsonaro estava com dores e enjoos.\nProcedimentos cirúrgicos\nCondenado a 27 anos e 3 meses de prisão por tentativa de golpe, Bolsonaro iniciou o cumprimento da pena em novembro de 2025 e passou por sucessivas internações ao longo do último ano. \nEm dezembro de 2025, foi submetido a uma cirurgia de hérnia inguinal bilateral; em janeiro de 2026, sofreu uma queda e um traumatismo cranioencefálico leve enquanto estava detido na Superintendência da Polícia Federal.\nEm março de 2026, após ser internado com suspeita de broncopneumonia quando estava na Papudinha, obteve de Alexandre de Moraes o benefício da prisão domiciliar humanitária, posteriormente prorrogado a pedido dos advogados em razão do quadro clínico.\nJair Bolsonaro e Alexandre de Moraes\nJN",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 15:48:34 -0000"
+    },
+    {
+      "id": "e085e2fdd076",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Defesa de Bolsonaro pede a Moraes  autorização para visitas diárias de filhos durante internação",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
+      "summary": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília.\nBolsonaro deu entrada no hospital particular na tarde desta sexta-feira (20) após apresentar um quadro de dor e distensão abdominal. \n\"Diante da nova circunstância e considerando o período de internação hospitalar, requer, em caráter de urgência, seja autorizado o ingresso de seus filhos Carlos Nantes Bolsonaro e Jair Renan Bolsonaro, bem como [de sua filha], para que possam visitá-lo diariamente, enquanto perdurar a internação\", afirma a defesa no pedido enviado a Moraes.\n🔎Bolsonaro tem outros dois filhos: o ex-deputado Eduardo Bolsonaro, que deixou o Brasil em 2025, e o senador Flávio Bolsonaro (PL-RJ), que fugiu do país após a derrota na eleição presidencial de outubro deste ano. Ambos estão nos Estados Unidos.\nNesta sexta, o ex-presidente deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal, após avaliação do cardiologista Brasil Caiado.\nMédico de Jair Bolsonaro fala sobre internação do ex-presidente\nDe acordo com a equipe médica, exames feitos no hospital identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nSegundo boletim médico e informações do médico Brasil Caiado desta sexta-feira (veja no vídeo acima), o ex-presidente está estável, consciente e recebendo medicação. Uma nova cirurgia não está descartada.\nEm uma rede social, o filho Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, comentou neste sábado o estado de saúde do pai, afirmando que os médicos colocaram uma sonda nasal no ex-presidente para retirada de resíduos alimentares. Ele também disse que Jair Bolsonaro estava com dores e enjoos.\nProcedimentos cirúrgicos\nCondenado a 27 anos e 3 meses de prisão por tentativa de golpe, Bolsonaro iniciou o cumprimento da pena em novembro de 2025 e passou por sucessivas internações ao longo do último ano. \nEm dezembro de 2025, foi submetido a uma cirurgia de hérnia inguinal bilateral; em janeiro de 2026, sofreu uma queda e um traumatismo cranioencefálico leve enquanto estava detido na Superintendência da Polícia Federal.\nEm março de 2026, após ser internado com suspeita de broncopneumonia quando estava na Papudinha, obteve de Alexandre de Moraes o benefício da prisão domiciliar humanitária, posteriormente prorrogado a pedido dos advogados em razão do quadro clínico.\nO ex-presidente da República, Jair Messias Bolsonaro (PL), em imagem de arquivo\nWilton Junior/Estadão Conteúdo",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 12:14:12 -0000"
+    },
+    {
+      "id": "85bfd5ca9ff0",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro é internado após sentir dores abdominais",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
+      "summary": "Bolsonaro é levado a hospital por dor abdominal\nO ex-presidente Jair Bolsonaro foi internado na tarde desta sexta-feira (20) para realizar exames após sentir dores abdominais. A informação foi confirmada pelo médico do ex-presidente.\nSegundo boletim médico, Bolsonaro deu entrada no hospital com \"quadro de dor e distensão abdominal. No momento encontra-se internado para realização de exames e investigação diagnóstica\". \nDe acordo com o médico Brasil Caiado, o ex-presidente passou por exames, que mostrou uma obstrução parcial no intestino delgado com aderências na parede abdominal. \nBolsonaro está recebendo medicamentos e ficará em observação nas próximas 24 horas. Os médicos não descartam a possibilidade de uma cirurgia. Segundo Caiado, o ex-presidente está estável e consciente.\nO ex-presidente deixou sua casa, em Brasília, onde cumpre prisão domiciliar, e foi escoltado até o hospital DF Star pela Polícia Militar do Distrito Federal.\nSegundo a PMDF, a solicitação ocorreu após avaliação realizada pelo médico Brasil Caiado, que compareceu ao local e constatou a necessidade de encaminhamento para atendimento hospitalar.\n🔎 Bolsonaro cumpre atualmente uma pena de 27 anos e 3 meses de prisão. Desde o dia 24 de março deste ano, ele está sob prisão domiciliar humanitária, autorizada por Moraes por um prazo inicial de 90 dias, para que o ex-presidente se recupere de uma broncopneumonia.\nDesde que começou a cumprir a pena por tentativa de golpe de Estado, em novembro de 2025, Bolsonaro voltou ao hospital diversas vezes. \nO quadro de saúde também foi levado em consideração pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ao autorizar, em março de 2026, que o ex-presidente passasse a cumprir temporariamente prisão domiciliar por razões humanitárias.\nSequelas da facada\nBolsonaro foi esfaqueado em 6 de setembro de 2018, durante um ato de campanha em Juiz de Fora (MG), e passou pela primeira cirurgia ainda na cidade. Em 12 de setembro de 2018, já internado em São Paulo, precisou ser operado novamente para desobstruir o intestino.\nEm janeiro de 2019, foi submetido a uma nova cirurgia, desta vez para retirar a bolsa de colostomia colocada depois da facada. Em setembro de 2019, voltou a ser operado para corrigir uma hérnia que surgiu na cicatriz de uma das intervenções anteriores.\nO ex-presidente também passou por procedimentos sem relação direta com o atentado. Em janeiro de 2020, fez uma vasectomia. Em setembro de 2020, passou por uma cirurgia para a retirada de um cálculo na bexiga.\nEm julho de 2021, quando ainda ocupava a Presidência da República, Bolsonaro foi levado para São Paulo após apresentar um quadro de obstrução intestinal, além de dores abdominais e soluços persistentes.\nO ex-presidente Jair Bolsonaro foi condenado a 27 anos e 3 meses de prisão\nPablo Porciuncula/AFP\nAs aderências intestinais, cicatrizações decorrentes das cirurgias realizadas após a facada, são uma das possíveis causas das obstruções apresentadas pelo ex-presidente.\nEm abril de 2025, Bolsonaro voltou a passar mal durante um evento no Rio Grande do Norte e precisou ser hospitalizado. Na ocasião, o vereador Carlos Bolsonaro afirmou que o pai havia sido avaliado por problemas relacionados às aderências provocadas pelas cirurgias anteriores.\nCirurgia de hérnia e crises de soluço\nJá preso na Superintendência da Polícia Federal, em Brasília, Bolsonaro foi internado no hospital DF Star e operado em 25 de dezembro de 2025 para corrigir uma hérnia inguinal bilateral.\nA cirurgia foi autorizada por Alexandre de Moraes depois de um laudo da Polícia Federal. O procedimento foi a oitava cirurgia de Bolsonaro desde a facada de 2018.\nA operação durou cerca de três horas e meia e terminou sem intercorrências. Durante a internação, os médicos também fizeram ajustes nas medicações utilizadas pelo ex-presidente para controlar crises de soluço e o refluxo gastroesofágico.\nQueda na prisão\nPoucos dias depois de receber alta, Bolsonaro voltou a precisar de atendimento médico.\nNa madrugada de 6 de janeiro de 2026, o ex-presidente passou mal e caiu na sala onde cumpria pena. Segundo o cirurgião Claudio Birolini, Bolsonaro sofreu um traumatismo cranioencefálico leve.\nEm 7 de janeiro de 2026, ele foi levado ao DF Star, onde realizou exames como tomografia, ressonância e eletroencefalograma. Os resultados descartaram a suspeita de uma crise convulsiva, e Bolsonaro retornou à Superintendência da Polícia Federal.\nAinda em janeiro de 2026, Bolsonaro foi transferido para a Papudinha, em Brasília, onde passou a contar com estrutura de atendimento médico e fisioterapia. A defesa continuou pedindo ao STF autorização para que ele cumprisse a pena em casa.\nBroncopneumonia e prisão domiciliar\nEm 13 de março de 2026, Bolsonaro apresentou um mal-estar na Papudinha e foi levado de ambulância ao DF Star. Segundo o cardiologista Brasil Caiado, a suspeita inicial era de pneumonia.\nO episódio não foi o primeiro atendimento hospitalar nos meses anteriores. Em setembro de 2025, quando ainda estava em prisão domiciliar, Bolsonaro havia precisado de atendimento após apresentar vômitos, tontura e queda da pressão arterial.\nDiante do quadro apresentado em março, Alexandre de Moraes concedeu, ainda em março de 2026, prisão domiciliar humanitária por 90 dias ao ex-presidente. A medida teve parecer favorável da Procuradoria-Geral da República (PGR).\nCirurgia no ombro\nEm 1º de maio de 2026, Bolsonaro foi novamente internado no DF Star, com autorização de Alexandre de Moraes e parecer favorável da PGR, para passar por uma cirurgia no ombro direito.\nO procedimento foi realizado para reparar o manguito rotador. Segundo relatórios médicos enviados ao STF, Bolsonaro havia apresentado melhora clínica geral depois do quadro de pneumonia bilateral.\nQuadro de saúde\nEm junho de 2026, a defesa de Bolsonaro pediu ao STF a prorrogação da prisão domiciliar. Os advogados afirmaram que as condições médicas que justificaram a concessão do benefício tinham\"características permanentes\".\nSegundo relatório médico, as crises de soluço se intensificaram durante o período de prisão domiciliar, e as doses de medicamentos chegaram ao chamado\"limite terapêutico de segurança\".\nDo ponto de vista cardiológico, o ex-presidente estava estável, mas continuava apresentando cansaço, fadiga e oscilações no equilíbrio. A defesa também solicitou novos exames para investigar problemas como esofagite, gastrite e refluxo.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Fri, 20 Nov 2026 20:15:13 -0000"
     },
     {
       "id": "1b775d17e716",
@@ -138,68 +276,125 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Economia",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Economia"
       ],
       "score": 83,
       "publishedRaw": "Fri, 20 Nov 2026 03:00:01 -0000"
     },
     {
-      "id": "9a6512d33fad",
-      "source": "Estadão",
+      "id": "a80cc562524b",
+      "source": "CNN Brasil",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Jair Bolsonaro dá entrada em hospital após dores abdominais, diz Carlos",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-da-entrada-em-hospital-apos-dores-abdominais-diz-carlos/",
-      "summary": "",
+      "title": "Michelle chega a Brasília e vai ao hospital encontrar Bolsonaro",
+      "link": "https://www.cnnbrasil.com.br/politica/michelle-chega-a-brasilia-e-vai-ao-hospital-encontrar-bolsonaro/",
+      "summary": "Senadora eleita afirmou que pretende verificar o quadro clínico do marido, internado na UTI com abdômen agudo obstrutivo",
       "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 20 Nov 2026 20:24:30 +0000"
-    },
-    {
-      "id": "2064e0446011",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes vota para deixar Flávio Bolsonaro sem passaportes e proibido de ter contato com Willer Tomaz",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/moraes-vota-para-deixar-flavio-bolsonaro-sem-passaportes-e-proibido-de-ter-contato-com-willer-tomaz/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro",
-        "Flávio Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 82,
-      "publishedRaw": "Fri, 20 Nov 2026 14:50:48 +0000"
-    },
-    {
-      "id": "91e3b7c683af",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Jair Bolsonaro trata obstrução intestinal na UTI em Brasília",
-      "link": "https://www.poder360.com.br/poder-justica/jair-bolsonaro-trata-obstrucao-intestinal-na-uti-em-brasilia/",
-      "summary": "Ex-presidente está estável, consciente e respira sem aparelhos; equipe médica mantém jejum e sonda gástrica",
-      "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
+        "Bolsonaro"
       ],
       "crossOutlets": [
         "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Sun, 22 Nov 2026 00:37:31 +0000"
+    },
+    {
+      "id": "1cd475d82f9f",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 10:28:18 +0000"
+    },
+    {
+      "id": "da5c94a72e63",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após viagem, Michelle vai a hospital em que Bolsonaro está internado",
+      "link": "https://www.poder360.com.br/poder-gente/apos-viagem-michelle-vai-a-hospital-em-que-bolsonaro-esta-internado/",
+      "summary": "Senadora eleita e ex-primeira-dama retornou de viagem neste sábado; ela estava em Israel desde a semana passada",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
         "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Sat, 21 Nov 2026 17:37:20 +0000"
+      "score": 83,
+      "publishedRaw": "Sun, 22 Nov 2026 01:13:12 +0000"
+    },
+    {
+      "id": "4714bdab51d2",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro tem tornozeleira retirada durante internação na UTI",
+      "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/",
+      "summary": "Ministro do STF Alexandre de Moraes determinou que equipamento seja recolocado após alta hospitalar; ex-presidente está internado em Brasília",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 23:42:13 +0000"
+    },
+    {
+      "id": "ace708d89a95",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Pastores oram por melhora de Bolsonaro em frente a hospital",
+      "link": "https://www.poder360.com.br/poder-brasil/pastores-oram-por-melhora-de-bolsonaro-em-frente-a-hospital/",
+      "summary": "Ex-presidente está internado na UTI do hospital DF Star, em Brasília, com obstrução intestinal",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 23:39:34 +0000"
+    },
+    {
+      "id": "47b5e2f4fc2a",
+      "source": "Poder360",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
+      "link": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
+      "summary": "Ex-presidente está internado na UTI com obstrução intestinal; sacerdote afirma que aguarda pedido da defesa para realizar visita religiosa",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "CNN Brasil",
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 83,
+      "publishedRaw": "Sat, 21 Nov 2026 22:55:24 +0000"
     },
     {
       "id": "e166a60f4730",
@@ -215,8 +410,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Sat, 21 Nov 2026 14:27:51 -0000"
@@ -235,8 +430,8 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "G1 - Política",
-        "Poder360"
+        "Folha de São Paulo",
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Sat, 21 Nov 2026 06:00:00 -0000"
@@ -254,9 +449,9 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Sat, 21 Nov 2026 09:01:48 GMT"
@@ -274,102 +469,12 @@
       ],
       "crossOutlets": [
         "Estadão",
+        "Folha de São Paulo",
         "G1 - Economia",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
       "score": 81,
       "publishedRaw": "Thu, 19 Nov 2026 20:39:07 GMT"
-    },
-    {
-      "id": "3300b18ccb24",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-      "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico\nO ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado na tarde desta sexta-feira (20), após sentir dores abdominais.\nSegundo o boletim médico, \"foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica\".\nAinda segundo o boletim, Bolsonaro \"encontra-se estável clinicamente, consciente, orientado e em respiração espontânea\", mas sem previsão de alta hospitalar.\nO boletim é assinado pelos médicos Brasil Caiado (cardiologista), Leandro Echenique (cardiologista), Claudio Birolini (cirurgião do aparelho digestivo), Antonio Aurélio Fagundes Junior (coordenador da UTI Geral) e Allisson Barcelos Borges (diretor-geral do hospital).\nNo primeiro boletim médico divulgado pelo hospital na sexta-feira, os médicos haviam informado que o ex-presidente deu entrada com \"quadro de dor e distensão abdominal\" e encontrava-se \"internado para realização de exames e investigação diagnóstica\".\n🔎 Atualmente, Bolsonaro cumpre uma pena de 27 anos e 3 meses de prisão após ser condenado por tentativa de golpe de Estado. Desde 24 de março deste ano ele está em prisão domiciliar humanitária, autorizada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\nDesde que começou a cumprir a pena, em novembro de 2025, Bolsonaro esteve internado no hospital DF Star diversas vezes.\nNeste sábado, Moraes atendeu a um pedido da defesa e autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação.\nNa decisão, Moraes ressaltou que as visitas precisam seguir as regras internas do hospital e que está proibida a entrada de \"celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\".",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 21 Nov 2026 17:16:23 -0000"
-    },
-    {
-      "id": "46729dbb8b8b",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-      "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília. \nO magistrado atendeu a um pedido feito em caráter de urgência pela defesa do ex-presidente. A autorização também vale para a enteada Letícia Firmo, filha da ex-primeira-dama Michelle Bolsonaro. \nBolsonaro deu entrada no hospital particular na tarde desta sexta-feira (20) após apresentar um quadro de dor e distensão abdominal. \nA equipe médica observa o quadro para decidir sobre necessidade de nova cirurgia, a depender da evolução do ex-presidente, segundo informação do cardiologista Brasil Caiado neste sábado. \n🔎Bolsonaro tem outros dois filhos: o ex-deputado Eduardo Bolsonaro, que deixou o Brasil em 2025, e o senador Flávio Bolsonaro (PL-RJ), que fugiu do país após a derrota na eleição presidencial de outubro deste ano. Ambos estão nos Estados Unidos.\nNa decisão deste sábado, Moraes ressalta que as visitas precisam seguir as regras internas do hospital e também proíbe a entrada “de celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\" de Bolsonaro.\nNesta sexta, o ex-presidente deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal, após avaliação do médico Brasil Caiado.\nDe acordo com a equipe, exames feitos no hospital identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nMédico de Jair Bolsonaro fala sobre internação do ex-presidente\nSegundo boletim médico e informações do médico Brasil Caiado desta sexta-feira (veja no vídeo acima), o ex-presidente está estável, consciente e recebendo medicação. Uma nova cirurgia não está descartada.\nEm uma rede social, o filho Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, comentou neste sábado o estado de saúde do pai, afirmando que os médicos colocaram uma sonda nasal no ex-presidente para retirada de resíduos alimentares. Ele também disse que Jair Bolsonaro estava com dores e enjoos.\nProcedimentos cirúrgicos\nCondenado a 27 anos e 3 meses de prisão por tentativa de golpe, Bolsonaro iniciou o cumprimento da pena em novembro de 2025 e passou por sucessivas internações ao longo do último ano. \nEm dezembro de 2025, foi submetido a uma cirurgia de hérnia inguinal bilateral; em janeiro de 2026, sofreu uma queda e um traumatismo cranioencefálico leve enquanto estava detido na Superintendência da Polícia Federal.\nEm março de 2026, após ser internado com suspeita de broncopneumonia quando estava na Papudinha, obteve de Alexandre de Moraes o benefício da prisão domiciliar humanitária, posteriormente prorrogado a pedido dos advogados em razão do quadro clínico.\nJair Bolsonaro e Alexandre de Moraes\nJN",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 21 Nov 2026 15:48:34 -0000"
-    },
-    {
-      "id": "e085e2fdd076",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Defesa de Bolsonaro pede a Moraes  autorização para visitas diárias de filhos durante internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-      "summary": "A defesa de Jair Bolsonaro pediu neste sábado (21) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília.\nBolsonaro deu entrada no hospital particular na tarde desta sexta-feira (20) após apresentar um quadro de dor e distensão abdominal. \n\"Diante da nova circunstância e considerando o período de internação hospitalar, requer, em caráter de urgência, seja autorizado o ingresso de seus filhos Carlos Nantes Bolsonaro e Jair Renan Bolsonaro, bem como [de sua filha], para que possam visitá-lo diariamente, enquanto perdurar a internação\", afirma a defesa no pedido enviado a Moraes.\n🔎Bolsonaro tem outros dois filhos: o ex-deputado Eduardo Bolsonaro, que deixou o Brasil em 2025, e o senador Flávio Bolsonaro (PL-RJ), que fugiu do país após a derrota na eleição presidencial de outubro deste ano. Ambos estão nos Estados Unidos.\nNesta sexta, o ex-presidente deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal, após avaliação do cardiologista Brasil Caiado.\nMédico de Jair Bolsonaro fala sobre internação do ex-presidente\nDe acordo com a equipe médica, exames feitos no hospital identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nSegundo boletim médico e informações do médico Brasil Caiado desta sexta-feira (veja no vídeo acima), o ex-presidente está estável, consciente e recebendo medicação. Uma nova cirurgia não está descartada.\nEm uma rede social, o filho Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, comentou neste sábado o estado de saúde do pai, afirmando que os médicos colocaram uma sonda nasal no ex-presidente para retirada de resíduos alimentares. Ele também disse que Jair Bolsonaro estava com dores e enjoos.\nProcedimentos cirúrgicos\nCondenado a 27 anos e 3 meses de prisão por tentativa de golpe, Bolsonaro iniciou o cumprimento da pena em novembro de 2025 e passou por sucessivas internações ao longo do último ano. \nEm dezembro de 2025, foi submetido a uma cirurgia de hérnia inguinal bilateral; em janeiro de 2026, sofreu uma queda e um traumatismo cranioencefálico leve enquanto estava detido na Superintendência da Polícia Federal.\nEm março de 2026, após ser internado com suspeita de broncopneumonia quando estava na Papudinha, obteve de Alexandre de Moraes o benefício da prisão domiciliar humanitária, posteriormente prorrogado a pedido dos advogados em razão do quadro clínico.\nO ex-presidente da República, Jair Messias Bolsonaro (PL), em imagem de arquivo\nWilton Junior/Estadão Conteúdo",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 21 Nov 2026 12:14:12 -0000"
-    },
-    {
-      "id": "85bfd5ca9ff0",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro é internado após sentir dores abdominais",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
-      "summary": "Bolsonaro é levado a hospital por dor abdominal\nO ex-presidente Jair Bolsonaro foi internado na tarde desta sexta-feira (20) para realizar exames após sentir dores abdominais. A informação foi confirmada pelo médico do ex-presidente.\nSegundo boletim médico, Bolsonaro deu entrada no hospital com \"quadro de dor e distensão abdominal. No momento encontra-se internado para realização de exames e investigação diagnóstica\". \nDe acordo com o médico Brasil Caiado, o ex-presidente passou por exames, que mostrou uma obstrução parcial no intestino delgado com aderências na parede abdominal. \nBolsonaro está recebendo medicamentos e ficará em observação nas próximas 24 horas. Os médicos não descartam a possibilidade de uma cirurgia. Segundo Caiado, o ex-presidente está estável e consciente.\nO ex-presidente deixou sua casa, em Brasília, onde cumpre prisão domiciliar, e foi escoltado até o hospital DF Star pela Polícia Militar do Distrito Federal.\nSegundo a PMDF, a solicitação ocorreu após avaliação realizada pelo médico Brasil Caiado, que compareceu ao local e constatou a necessidade de encaminhamento para atendimento hospitalar.\n🔎 Bolsonaro cumpre atualmente uma pena de 27 anos e 3 meses de prisão. Desde o dia 24 de março deste ano, ele está sob prisão domiciliar humanitária, autorizada por Moraes por um prazo inicial de 90 dias, para que o ex-presidente se recupere de uma broncopneumonia.\nDesde que começou a cumprir a pena por tentativa de golpe de Estado, em novembro de 2025, Bolsonaro voltou ao hospital diversas vezes. \nO quadro de saúde também foi levado em consideração pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ao autorizar, em março de 2026, que o ex-presidente passasse a cumprir temporariamente prisão domiciliar por razões humanitárias.\nSequelas da facada\nBolsonaro foi esfaqueado em 6 de setembro de 2018, durante um ato de campanha em Juiz de Fora (MG), e passou pela primeira cirurgia ainda na cidade. Em 12 de setembro de 2018, já internado em São Paulo, precisou ser operado novamente para desobstruir o intestino.\nEm janeiro de 2019, foi submetido a uma nova cirurgia, desta vez para retirar a bolsa de colostomia colocada depois da facada. Em setembro de 2019, voltou a ser operado para corrigir uma hérnia que surgiu na cicatriz de uma das intervenções anteriores.\nO ex-presidente também passou por procedimentos sem relação direta com o atentado. Em janeiro de 2020, fez uma vasectomia. Em setembro de 2020, passou por uma cirurgia para a retirada de um cálculo na bexiga.\nEm julho de 2021, quando ainda ocupava a Presidência da República, Bolsonaro foi levado para São Paulo após apresentar um quadro de obstrução intestinal, além de dores abdominais e soluços persistentes.\nO ex-presidente Jair Bolsonaro foi condenado a 27 anos e 3 meses de prisão\nPablo Porciuncula/AFP\nAs aderências intestinais, cicatrizações decorrentes das cirurgias realizadas após a facada, são uma das possíveis causas das obstruções apresentadas pelo ex-presidente.\nEm abril de 2025, Bolsonaro voltou a passar mal durante um evento no Rio Grande do Norte e precisou ser hospitalizado. Na ocasião, o vereador Carlos Bolsonaro afirmou que o pai havia sido avaliado por problemas relacionados às aderências provocadas pelas cirurgias anteriores.\nCirurgia de hérnia e crises de soluço\nJá preso na Superintendência da Polícia Federal, em Brasília, Bolsonaro foi internado no hospital DF Star e operado em 25 de dezembro de 2025 para corrigir uma hérnia inguinal bilateral.\nA cirurgia foi autorizada por Alexandre de Moraes depois de um laudo da Polícia Federal. O procedimento foi a oitava cirurgia de Bolsonaro desde a facada de 2018.\nA operação durou cerca de três horas e meia e terminou sem intercorrências. Durante a internação, os médicos também fizeram ajustes nas medicações utilizadas pelo ex-presidente para controlar crises de soluço e o refluxo gastroesofágico.\nQueda na prisão\nPoucos dias depois de receber alta, Bolsonaro voltou a precisar de atendimento médico.\nNa madrugada de 6 de janeiro de 2026, o ex-presidente passou mal e caiu na sala onde cumpria pena. Segundo o cirurgião Claudio Birolini, Bolsonaro sofreu um traumatismo cranioencefálico leve.\nEm 7 de janeiro de 2026, ele foi levado ao DF Star, onde realizou exames como tomografia, ressonância e eletroencefalograma. Os resultados descartaram a suspeita de uma crise convulsiva, e Bolsonaro retornou à Superintendência da Polícia Federal.\nAinda em janeiro de 2026, Bolsonaro foi transferido para a Papudinha, em Brasília, onde passou a contar com estrutura de atendimento médico e fisioterapia. A defesa continuou pedindo ao STF autorização para que ele cumprisse a pena em casa.\nBroncopneumonia e prisão domiciliar\nEm 13 de março de 2026, Bolsonaro apresentou um mal-estar na Papudinha e foi levado de ambulância ao DF Star. Segundo o cardiologista Brasil Caiado, a suspeita inicial era de pneumonia.\nO episódio não foi o primeiro atendimento hospitalar nos meses anteriores. Em setembro de 2025, quando ainda estava em prisão domiciliar, Bolsonaro havia precisado de atendimento após apresentar vômitos, tontura e queda da pressão arterial.\nDiante do quadro apresentado em março, Alexandre de Moraes concedeu, ainda em março de 2026, prisão domiciliar humanitária por 90 dias ao ex-presidente. A medida teve parecer favorável da Procuradoria-Geral da República (PGR).\nCirurgia no ombro\nEm 1º de maio de 2026, Bolsonaro foi novamente internado no DF Star, com autorização de Alexandre de Moraes e parecer favorável da PGR, para passar por uma cirurgia no ombro direito.\nO procedimento foi realizado para reparar o manguito rotador. Segundo relatórios médicos enviados ao STF, Bolsonaro havia apresentado melhora clínica geral depois do quadro de pneumonia bilateral.\nQuadro de saúde\nEm junho de 2026, a defesa de Bolsonaro pediu ao STF a prorrogação da prisão domiciliar. Os advogados afirmaram que as condições médicas que justificaram a concessão do benefício tinham\"características permanentes\".\nSegundo relatório médico, as crises de soluço se intensificaram durante o período de prisão domiciliar, e as doses de medicamentos chegaram ao chamado\"limite terapêutico de segurança\".\nDo ponto de vista cardiológico, o ex-presidente estava estável, mas continuava apresentando cansaço, fadiga e oscilações no equilíbrio. A defesa também solicitou novos exames para investigar problemas como esofagite, gastrite e refluxo.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Fri, 20 Nov 2026 20:15:13 -0000"
-    },
-    {
-      "id": "1cd475d82f9f",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-faz-limpeza-com-sonda-diz-carlos-npr/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 21 Nov 2026 10:28:18 +0000"
     },
     {
       "id": "5c148ca0e1a3",
@@ -383,9 +488,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Sat, 21 Nov 2026 03:00:00 -0000"
     },
     {
@@ -400,9 +506,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 20 Nov 2026 14:21:48 -0000"
     },
     {
@@ -417,9 +524,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 20 Nov 2026 11:43:51 -0000"
     },
     {
@@ -434,10 +542,29 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão"
+        "Estadão",
+        "Folha de São Paulo"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 20 Nov 2026 11:01:26 -0000"
+    },
+    {
+      "id": "fe3cffcc0939",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "OAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/oab-sp-alerta-stf-que-pejotizacao-pode-gerar-perdas-de-r-200-bi-por-ano.shtml",
+      "summary": "A OAB-SP entregou ao presidente do STF (Supremo Tribunal Federal), ministro Edson Fachin, uma nota técnica que aponta que a pejotização pode gerar perdas de arrecadação na ordem de R$ 200 bilhões por ano.\nLeia mais (11/21/2026 - 20h00)",
+      "tags": [
+        "STF"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 80,
+      "publishedRaw": "21 Nov 2026 20:00:00 -0300"
     },
     {
       "id": "fc9e598b5667",
@@ -451,70 +578,26 @@
         "STF"
       ],
       "crossOutlets": [
+        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 75,
+      "score": 80,
       "publishedRaw": "Fri, 20 Nov 2026 22:00:14 +0000"
     },
     {
-      "id": "8fc71166d211",
-      "source": "CNN Brasil",
+      "id": "0bb686da2248",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Governo Trump acelera deportações antes de liderança democrata no Congresso",
-      "link": "https://www.cnnbrasil.com.br/internacional/eua-aceleram-gastos-com-deportacoes-antes-de-democratas-assumirem-controle/",
-      "summary": "Agência de segurança dos EUA triplicou os gastos anuais e comprometeu bilhões em logística e infraestrutura",
+      "title": "Zanin suspende Congresso do Cidadania, que incorporaria partido ao PP",
+      "link": "https://www.estadao.com.br/politica/zanin-suspende-congresso-do-cidadania-que-incorporaria-partido-ao-pp/",
+      "summary": "",
       "tags": [
         "Congresso"
       ],
       "crossOutlets": [],
       "score": 64,
-      "publishedRaw": "Sat, 21 Nov 2026 19:00:48 +0000"
-    },
-    {
-      "id": "b99df95796c2",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Radicais de direita e esquerda se unem nos equívocos",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/radicais-de-direita-e-esquerda-se-unem-nos-equivocos.shtml",
-      "summary": "Radicais de modo geral se equivocam mais ou menos da mesma maneira, independentemente do espectro ideológico a que pertençam.\nLeia mais (11/21/2026 - 16h45)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "21 Nov 2026 16:45:00 -0300"
-    },
-    {
-      "id": "d0700ef48b4b",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Como a esquerda lidará com as consequências políticas da economia que propõe?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/como-a-esquerda-lidara-com-as-consequencias-politicas-da-economia-que-propoe.shtml",
-      "summary": "Quem faz cenários econômicos de modo desassombrado ora ainda estimaria que o PIB de 2027 pode cair 0,5% e até crescer perto de um medíocre, mas reconfortante, 1,5%, a depender de hipóteses mais ou menos pessimistas. Tais estimativas costumam estar erradas, se por mais não fosse porque há fatores fora do nosso controle, como juros nos EUA ou preços de commodities. De 2025 a meados de 2026, o ambiente externo ajudou. Agora, difícil.\nLeia mais (11/21/2026 - 16h25)",
-      "tags": [
-        "esquerda"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "21 Nov 2026 16:25:00 -0300"
-    },
-    {
-      "id": "35739130b1fb",
-      "source": "CNN Brasil",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Alice Wegmann fala de rumores de namoro com Carrão: “Até família shippava”",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/alice-wegmann-fala-de-rumores-de-namoro-com-carrao-ate-familia-shippava/",
-      "summary": "Durante entrevista a artista relembrou bastidores de novela e afirmou que os dois são parceiros de festas",
-      "tags": [
-        "família"
-      ],
-      "crossOutlets": [],
-      "score": 58,
-      "publishedRaw": "Sat, 21 Nov 2026 20:46:07 +0000"
+      "publishedRaw": "Sat, 21 Nov 2026 23:56:52 +0000"
     },
     {
       "id": "3fd986509556",
