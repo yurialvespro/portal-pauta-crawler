@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:42:58.541849+00:00",
+  "generated_at": "2026-11-23T03:37:41.603975+00:00",
   "items": [
     {
       "id": "1f376302bcd8",
@@ -15,6 +15,7 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
+        "CNN Brasil",
         "Folha de São Paulo",
         "G1 - Economia",
         "G1 - Política",
@@ -45,13 +46,13 @@
       "publishedRaw": "Sat, 21 Nov 2026 14:27:51 -0000"
     },
     {
-      "id": "b7c383b3b98e",
+      "id": "660c69513d36",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Chanceler argentino repete Milei e, sem provas, coloca em dúvida vitória de Lula",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/chanceler-argentino-repete-milei-e-sem-provas-coloca-em-duvida-vitoria-de-lula.shtml",
-      "summary": "O ministro das Relações Exteriores da Argentina, Pablo Quirno, disse, neste sábado (21), sem nenhuma evidência, que \"situações\" colocaram em dúvida o processo eleitoral brasileiro deste ano.\nLeia mais (11/22/2026 - 18h57)",
+      "title": "Real se desvaloriza mais de 17% desde vitória de Lula e impulsiona ativos de proteção",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/real-se-desvaloriza-mais-de-17-desde-vitoria-de-lula-e-impulsiona-ativos-de-protecao.shtml",
+      "summary": "O real é a moeda que mais se desvalorizou desde a vitória de Lula (PT) entre as 20 divisas mais negociadas do mundo, com recuo de 17,65%. O levantamento considera a lista do BIS (espécie de banco dos bancos centrais) das moedas com maior volume de negociações em operações financeiras.\nLeia mais (11/22/2026 - 23h00)",
       "tags": [
         "Lula"
       ],
@@ -63,7 +64,28 @@
         "Poder360"
       ],
       "score": 85,
-      "publishedRaw": "22 Nov 2026 18:57:00 -0300"
+      "publishedRaw": "22 Nov 2026 23:00:00 -0300"
+    },
+    {
+      "id": "efaa4a1a6bf2",
+      "source": "Folha de São Paulo",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "PF veta entrevistas de carcereiro de Lula sobre livro em que relata bastidores da prisão do petista",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/pf-veta-entrevistas-de-carcereiro-de-lula-sobre-livro-em-que-relata-bastidores-da-prisao-do-petista.shtml",
+      "summary": "A PF (Polícia Federal) não autorizou o agente Jorge Chastalo Filho a dar entrevistas sobre o livro \"Banho de Sol\" (editora WMF Martins Fontes), em que relata os 580 dias em que acompanhou Lula (PT) na prisão, entre abril de 2018 e novembro de 2019.\nLeia mais (11/22/2026 - 22h00)",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "G1 - Economia",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 85,
+      "publishedRaw": "22 Nov 2026 22:00:00 -0300"
     },
     {
       "id": "e1637225e21e",
@@ -150,13 +172,13 @@
       "publishedRaw": "Sat, 21 Nov 2026 08:30:00 +0000"
     },
     {
-      "id": "2e7afef0e27a",
+      "id": "4b2df993e179",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Aldo Rebelo diz que Lula foi “patético” ao participar da COP31",
-      "link": "https://www.poder360.com.br/poder-brasil/aldo-rebelo-diz-que-lula-foi-patetico-ao-participar-da-cop31/",
-      "summary": "Ex-presidente da Câmara afirma que petista se assemelha a Silvério dos Reis e sucumbe a agenda colonialista do século 21 ao se posicionar pelo redução do uso dos combustíveis fósseis",
+      "title": "Estudantes de gestão pública pedem a Lula demissão de Esther Dweck",
+      "link": "https://www.poder360.com.br/poder-governo/estudantes-de-gestao-publica-pedem-a-lula-demissao-de-esther-dweck/",
+      "summary": "Manifesto da Fenecap será entregue a Lula na 2ª feira (23.nov); entidade cita falta de diálogo e defende regulamentação das profissões",
       "tags": [
         "Lula"
       ],
@@ -168,29 +190,7 @@
         "G1 - Política"
       ],
       "score": 85,
-      "publishedRaw": "Sun, 22 Nov 2026 21:36:07 +0000"
-    },
-    {
-      "id": "0b8f02ab4434",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Direita tem muitos craques e esquerda só Lula de líder, diz Flávio",
-      "link": "https://www.poder360.com.br/poder-congresso/direita-tem-muitos-craques-e-esquerda-so-lula-de-lider-diz-flavio/",
-      "summary": "Senador diz que pretende disputar a Presidência em 2030 se Jair Bolsonaro continuar inelegível e o Congresso aprovar mudanças no sistema eleitoral",
-      "tags": [
-        "esquerda",
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Política"
-      ],
-      "score": 84,
-      "publishedRaw": "Sun, 22 Nov 2026 21:47:52 +0000"
+      "publishedRaw": "Mon, 23 Nov 2026 00:57:43 +0000"
     },
     {
       "id": "fc3c3ed55060",
@@ -226,8 +226,8 @@
         "Jair Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 82,
       "publishedRaw": "Fri, 20 Nov 2026 20:24:30 +0000"
@@ -285,8 +285,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 79,
       "publishedRaw": "Sun, 22 Nov 2026 16:54:30 -0000"
@@ -303,8 +303,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 79,
       "publishedRaw": "Sat, 21 Nov 2026 17:16:23 -0000"
@@ -321,8 +321,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 79,
       "publishedRaw": "Sat, 21 Nov 2026 15:48:34 -0000"
@@ -339,8 +339,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 79,
       "publishedRaw": "Sat, 21 Nov 2026 12:14:12 -0000"
@@ -357,11 +357,29 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Poder360"
+        "CNN Brasil",
+        "Estadão"
       ],
       "score": 79,
       "publishedRaw": "Fri, 20 Nov 2026 20:15:13 -0000"
+    },
+    {
+      "id": "ade2db6f93fc",
+      "source": "CNN Brasil",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Michelle diz que endoscopia de Bolsonaro tem resultado “muito positivo”",
+      "link": "https://www.cnnbrasil.com.br/politica/michelle-diz-que-endoscopia-de-bolsonaro-tem-resultado-muito-positivo/",
+      "summary": "Ex-presidente Jair Bolsonaro segue internado na UTI (Unidade de Tratamento Intensivo) do hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política"
+      ],
+      "score": 79,
+      "publishedRaw": "Mon, 23 Nov 2026 02:12:07 +0000"
     },
     {
       "id": "90dd38dfb5b7",
@@ -375,8 +393,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 79,
       "publishedRaw": "Sun, 22 Nov 2026 16:16:22 +0000"
@@ -393,8 +411,8 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
+        "CNN Brasil",
+        "G1 - Política"
       ],
       "score": 79,
       "publishedRaw": "Sun, 22 Nov 2026 12:08:50 +0000"
@@ -411,29 +429,11 @@
         "Bolsonaro"
       ],
       "crossOutlets": [
-        "G1 - Política",
-        "Poder360"
-      ],
-      "score": 79,
-      "publishedRaw": "Sat, 21 Nov 2026 10:28:18 +0000"
-    },
-    {
-      "id": "d13d7f01ef15",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
-      "link": "https://www.poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital/",
-      "summary": "Internado na UTI desde 6ª feira (20.nov), ex-presidente recebe tratamento para uma obstrução intestinal; médicos dizem que quadro é estável",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão",
+        "CNN Brasil",
         "G1 - Política"
       ],
       "score": 79,
-      "publishedRaw": "Sun, 22 Nov 2026 20:06:54 +0000"
+      "publishedRaw": "Sat, 21 Nov 2026 10:28:18 +0000"
     },
     {
       "id": "5c148ca0e1a3",
@@ -487,23 +487,6 @@
       "publishedRaw": "Fri, 20 Nov 2026 11:43:51 -0000"
     },
     {
-      "id": "d52f448da232",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Caso Master: Mendonça pede, e Fachin torna público relatório da PF com menções ao ministro do STF",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
-      "summary": "Mendonça abre mão de sigilo de documentos\nO ministro André Mendonça , do Supremo Tribunal Federal (STF), pediu nesta sexta-feira (20) ao presidente da Corte, Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a Mendonça no caso Master.\nApós o pedido, Fachin atendeu à solicitação e retirou o sigilo do relatório sobre Mendonça, que estava em segredo por determinação do presidente do STF. Os relatórios que tratam de outros ministros do STF seguem sob sigilo.\nO relatório sobre Mendonça é um dos documentos enviados pela PF à presidência da Corte nesta semana e que estão no centro da crise do Master no Supremo.\nOs relatórios geraram uma crise também na Polícia Federal – que levou ao afastamento de dois delegados e a críticas à direção-geral do órgão em relação à autonomia de investigadores.\n\"Nesse contexto, considerando que [o relatório] Pet nº 17.146 diz respeito exclusivamente à minha pessoa, registro que renuncio expressamente ao sigilo relacionado às informações ali contidas e, por conseguinte, solicito à Vossa Excelência que dê ampla publicidade à íntegra dos autos da Pet nº 17.146, franqueando o acesso aos autos a qualquer do povo\", disse Mendonça no pedido para que esse documento seja tornado público.\nRelatório detalha tentativa de aproximação com Vorcaro\nO blog apurou que medida foi lida, internamente, na Corte, como uma forma de o ministro declarar que menções a ele não têm indicação de suposta prática de crimes. \nE, segundo interlocutores, que o caso dele é diferente do de outros magistrados, que têm mensagens e outros indícios que demandam mais explicações e podem até gerar a abertura de investigação criminal.\nOutros ministros receberam relatórios\nAndré Mendonça em sessão plenária do STF - 15/10/2026\nGustavo Moreno/STF\nNesta semana, o presidente do STF enviou cópia dos relatórios produzidos pela PF sobre as relações do banqueiro Daniel Vorcaro, ex-dono do Banco Master, aos ministros que foram citados no material.\nAo menos cinco ministros confirmaram que o material foi disponibilizado pela presidência do STF. Segundo esses relatos, os documentos só trazem citações a eles. Não há informações sobre colegas.\nAo todo, a PF entregou 10 relatórios a Fachin. Desses, seis já foram arquivados. O presidente do STF encaminhou à Procuradoria-Geral da República (PGR) quatro \"para exame e avaliação das providências que entender cabíveis\" em 15 dias.\nCaberá à PGR avaliar se o conteúdo justifica a abertura de uma apuração, se é preciso aprofundar os fatos narrados com novas diligências, se há dados para medidas mais gravosas, como uma denúncia, ou se é o caso de arquivamento.\nAlém disso, Fachin informou que as informações recebidas serão mantidas, no momento, em sigilo. Mendonça se antecipou e pediu a divulgação do documento que tem menções a ele.\nO diretor-geral da PF, Andrei Rodrigues, se reuniu na noite de quarta-feira (18) com Fachin para entregar os relatórios citando os ministros do tribunal mencionados ou que trocaram mensagens com o ex-banqueiro Daniel Vorcaro.\nO material deve detalhar menções e citações aos ministros sem avançar sobre condutas criminosas ou não. Os documentos chegaram ao STF quando a primeira fase da Operação Compliance Zero, que investiga as fraudes do Master e suas conexões, completou um ano.",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 75,
-      "publishedRaw": "Fri, 20 Nov 2026 11:01:26 -0000"
-    },
-    {
       "id": "0db92b587496",
       "source": "Estadão",
       "tipo": "mainstream",
@@ -519,23 +502,6 @@
       ],
       "score": 75,
       "publishedRaw": "Sun, 22 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "fc9e598b5667",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
-      "link": "https://www.estadao.com.br/politica/gilmar-diz-nao-ver-problema-em-abertura-de-sigilo-sobre-relatorio-de-ministros-do-stf-e-master/",
-      "summary": "",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 75,
-      "publishedRaw": "Fri, 20 Nov 2026 22:00:14 +0000"
     },
     {
       "id": "0bb686da2248",
@@ -581,21 +547,6 @@
       "crossOutlets": [],
       "score": 58,
       "publishedRaw": "Sat, 21 Nov 2026 08:30:00 +0000"
-    },
-    {
-      "id": "4cdba1327a06",
-      "source": "Poder360",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reforma tributária é positiva para nanoempreendedores, diz associação",
-      "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-e-positiva-para-nanoempreendedores-diz-associacao/",
-      "summary": "Adriana Colloca, do setor de vendas diretas, destacou a isenção de IBS e CBS e a dispensa de obrigações acessórias para a categoria",
-      "tags": [
-        "reforma tributária"
-      ],
-      "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Sun, 22 Nov 2026 21:13:37 +0000"
     },
     {
       "id": "6f5390a91b2d",
