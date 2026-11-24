@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:49:46.525888+00:00",
+  "generated_at": "2026-11-24T12:15:42.677753+00:00",
   "items": [
     {
       "id": "827af45842d6",
@@ -17,12 +17,9 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
-      "score": 92,
+      "score": 86,
       "publishedRaw": "Mon, 23 Nov 2026 15:07:33 -0000"
     },
     {
@@ -40,36 +37,30 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
-      "score": 90,
+      "score": 85,
       "publishedRaw": "Mon, 23 Nov 2026 19:58:57 -0000"
     },
     {
-      "id": "8b62e08b1887",
-      "source": "Folha de São Paulo",
+      "id": "24ae1e6c4b16",
+      "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "'O povo está sem paciência', diz leitora sobre insistência de Lula com Messias para STF",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/o-povo-esta-sem-paciencia-diz-leitora-sobre-insistencia-de-lula-com-messias-para-stf.shtml",
-      "summary": "Para o Supremo\nLeia mais (11/23/2026 - 22h00)",
+      "title": "Eduardo Bolsonaro recorre de condenação no STF por difamação contra Tabata Amaral",
+      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-recorre-de-condenacao-no-stf-por-difamacao-contra-tabata-amaral-nprp/",
+      "summary": "",
       "tags": [
         "STF",
-        "Lula"
+        "Bolsonaro",
+        "Eduardo Bolsonaro"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Estadão",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 90,
-      "publishedRaw": "23 Nov 2026 22:00:00 -0300"
+      "score": 85,
+      "publishedRaw": "Tue, 24 Nov 2026 00:11:48 +0000"
     },
     {
       "id": "cf252f3baf63",
@@ -85,13 +76,10 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 85,
       "publishedRaw": "Mon, 23 Nov 2026 18:23:19 +0000"
     },
     {
@@ -108,14 +96,164 @@
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 90,
+      "score": 85,
       "publishedRaw": "Mon, 23 Nov 2026 17:46:20 +0000"
+    },
+    {
+      "id": "6a2d1540479b",
+      "source": "BBC Brasil",
+      "tipo": "mainstream",
+      "category": "Internacional",
+      "title": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
+      "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Governo federal abriu documentos da gestão anterior e reviu decisões de sigilo, mas continua negando informações com base na proteção de dados pessoais e da segurança presidencial, incluindo gastos do cartão corporativo.",
+      "tags": [
+        "Bolsonaro",
+        "Lula"
+      ],
+      "crossOutlets": [
+        "Estadão",
+        "G1 - Política",
+        "Poder360"
+      ],
+      "score": 84,
+      "publishedRaw": "Tue, 24 Nov 2026 11:28:48 GMT"
+    },
+    {
+      "id": "7606f8947606",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
+      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro",
+        "Jair Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 82,
+      "publishedRaw": "Mon, 23 Nov 2026 19:51:59 +0000"
+    },
+    {
+      "id": "1e6b9e8be0ee",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "De olho no Lula 4, Centrão garante vitória do ajuste fiscal, mas governo precisa dar segundo passo",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/de-olho-no-lula-4-centrao-garante-vitoria-do-ajuste-fiscal-mas-governo-precisa-dar-um-segundo-passo.ghtml",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo\nDe olho na montagem dos ministérios do próximo governo Luiz Inácio Lula da Silva (PT), os partidos do Centrão ajudaram o presidente a obter uma vitória nesta segunda-feira (23) na Câmara dos Deputados, em operação comanda pelo presidente da Casa, Hugo Motta (Republicanos-PB).\nCom isso, o ajuste fiscal do governo foi aprovado na Câmara por um placar folgado, 353 votos a favor e 128 contra. As principais legendas do Centrão garantiram ao governo 178 votos. Os líderes destes partidos estão negociando com o presidente do PT, Edinho Silva, espaços no próximo governo.\nEncerrada votação, o próprio presidente da Câmara, Hugo Motta, deixou claro que o governo precisa adotar novas medidas fiscais, e que o ideal seria enviá-las ainda este ano ao Congresso. \nAfinal, ontem o mercado começou tenso por causa do ajuste fiscal e do cenário internacional. O dólar chegou a bater em pouco mais de R$ 6, mas recuou ao longo do dia, fechando em R$ 5,93, valor do fechamento da última quinta-feira. Sexta-feira (20) foi feriado.\nDiscussão e votação de propostas legislativas\nVinicius Loures / Câmara dos Deputados\nOs partidos do Centrão deram a maioria dos seus votos para a vitória do governo. Uma maior divisão foi observada só no PP. O governo conseguiu votos até no oposicionista PL, sete votaram a favor da proposta e Lula.\nDo placar da vitória na votação do texto-base, 353 votos a favor e 128 contra, o Centrão ficou assim:\nUnião Brasil - 44 sim e seis não\nPSD - 42 sim e cinco não\nRepublicanos - 36 sim e quatro não\nPodemos - 23 sim e quatro não\nPP - 33 sim e 12 não\nO MDB, que forma mais a frente ampla, também votou majoritariamente com o governo. Foram 33 sim e 4 não. O PSDB, que negocia uma federação com os emedebistas, deram 15 votos sim e um não.\nNo PT, 67 votaram sim e três não votaram: Lindbergh Farias e Natália Bonavides se abstiveram e Kiko Celeguim não registrou presença.\nPróximos passos\nAgora, a dúvida é sobre quando virão as medidas da segunda etapa. Enquanto os investidores cobram, o ministro da Fazenda, Dario Durigan, com o aval do presidente Lula, já começa a fechar as medidas fiscais da segunda etapa que serão focadas em conter o crescimento das despesas obrigatórias.\nA dúvida, porém, permanece. Durigan será o responsável pela implementação destas medidas e elas serão anunciadas ainda neste ano.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 10:48:38 -0000"
+    },
+    {
+      "id": "3aa2c4f2a658",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Após Câmara aprovar ajuste fiscal de Lula, Hugo Motta defende novas medidas ainda em 2026",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/apos-camara-aprovar-ajuste-de-lula-hugo-motta-defende-novas-medidas-fiscais-ainda-em-2026.ghtml",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo\nO presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), defendeu nesta segunda-feira (23) que o governo do presidente Luiz Inácio Lula da Silva (PT) adote novas medidas na economia ainda em 2026. \nA declaração foi feita após a Câmara aprovar o projeto de ajuste fiscal proposto pelo governo federal.\n\"Eu espero [...] que o governo possa se conscientizar de que é necessário, ainda nesse ano, tomarmos mais algumas medidas no que diz respeito à economia do país\", afirmou Hugo Motta durante a votação da proposta do governo.\nSegundo ele, as eventuais medidas não devem prejudicar a população mais pobre nem comprometer políticas consideradas prioritárias pelo presidente.\n\"Eu não estou aqui defendendo que prejudiquemos os mais pobres ou que o presidente abra mão daquilo que é para ele um pilar de sustentação da sua trajetória política, mas que tenhamos condições de ter um ambiente econômico mais saudável, com a queda na taxa de juros\", declarou.\nAo defender novas medidas, Hugo Motta também mencionou a alta do dólar e seus efeitos sobre a inflação e a população de menor renda.\n\"Infelizmente, o que vimos acontecer foi a alta do preço do dólar. Isso impacta diretamente na inflação, prejudica os que mais precisam e tira aquilo que é mais importante para todos nós, que é proteger as pessoas mais carentes\", disse.\nPara o presidente da Câmara, as novas medidas permitiriam que o país começasse 2027 em um cenário econômico diferente. \n\"Nós precisamos fazer um ajuste econômico importante, quem sabe ainda nesse ano, para que o Brasil entre o ano 2027 com um novo cenário\", afirmou.\nMotta disse ainda que o ajuste fiscal foi aprovado com apoio de partidos de centro, que classificou como \"fundamentais\" para o resultado. O presidente da Câmara afirmou que vai trabalhar para consolidar uma base de apoio ao governo Lula entre estes partidos.\nO presidente da República, Luiz Inácio Lula da Silva (PT)(e), e o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), durante a cerimônia de assinatura da medida provisória da reforma do setor elétrico, no Palácio do Planalto, em Brasília (DF), em 21 de maio de 2025.\nWilton Junior/Estadão Conteúdo\nAjuste aprovado pela Câmara\nOs deputados aprovarem o projeto de ajuste fiscal enviado pelo governo na noite desta segunda. O texto-base recebeu 353 votos favoráveis, 128 contrários e cinco abstenções.\nA proposta prevê medidas para reduzir despesas e ampliar receitas e busca permitir o cumprimento da meta prevista no Orçamento de 2027. \nSegundo estimativa do Ministério do Planejamento, as medidas podem representar um impacto de até R$ 56 bilhões nas contas públicas no próximo ano.\nEntre os pontos do projeto estão um novo corte de 10% em incentivos e benefícios tributários e mudanças nas despesas discricionárias. O texto também permite que o Executivo limite o uso de créditos tributários de empresas para compensar impostos devidos à Receita Federal.\nHugo Motta decidiu acelerar a análise da proposta na Câmara e convocou sessão para esta segunda, dia em que normalmente não há votações no plenário. \nSegundo o presidente da Casa, a decisão ocorreu diante da preocupação do Congresso com a alta do dólar e com a perspectiva de juros elevados.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 03:49:09 -0000"
+    },
+    {
+      "id": "d50614a1721c",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
+      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+      "summary": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de até R$ 56 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelos senadores.. Proposta prevê limite de 2% no crescimento de gastos em anos nos quais o contingenciamento for necessário.. Projeto também propõe novo corte linear de 10% em benefícios que governo dá a diferentes setores da economia.. Com a proposta, o governo pretende conter o crescimento das despesas públicas e aumentar a arrecadação.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 03:38:46 -0000"
+    },
+    {
+      "id": "53bed302c653",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Ajuste fiscal de Lula teve Moretti como criador e principal articulador; ministro enfrentou resistência de ala governista",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/ajuste-fiscal-de-lula-teve-moretti-como-criador-e-principal-articulador-ministro-enfrentou-resistencia-de-ala-governista.ghtml",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo\nO ministro do Planejamento e Orçamento, Bruno Moretti, foi o principal formulador e também o principal negociador do governo para aprovar o projeto de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT), aprovado na Câmara dos Deputados, na segunda-feira (23).\nVeja como votaram os deputados e partidos\nO ministro também atuou para tentar reduzir as resistências ao texto, principalmente entre parlamentares de esquerda do PT, PSOL e PCdoB. \nNa segunda-feira (23), Moretti também esteve com Lula no Palácio da Alvorada, residência oficial da Presidência da República, nas últimas conversas antes da votação do projeto. \nTambém estiveram no Alvorada o ministro da Fazenda, Dario Durigan, e o senador Eduardo Braga (MDB-AM), relator do projeto no Senado Federal. \nAntes da análise do tema pelo plenário da Câmara, Moretti se reuniu com as bancadas do PSOL e do PCdoB. Durante a discussão da proposta no plenário da Câmara, no entanto, integrantes da base do governo demonstraram insatisfação com a proposta encabeçada pelo ministro.\nApesar do apoio explícito do presidente Lula (PT) ao texto, o vice-líder do governo no Congresso, deputado Lindbergh Farias (PT-RJ), discursou contra o texto e se absteve da votação. \nO ministro do Planejamento e Orçamento, Bruno Moretti.\nFábio Rodrigues Pozzebom/Agência Brasil\nLindbergh foi um dos integrantes do governo mais vocalmente contra o projeto. Ele é acompanhado dos deputados do Psol. Entre os argumentos, está que o Brasil não precisa de um ajuste fiscal e sim de investimentos. No entanto, o grupo é minoria entre os apoiadores do governo.\nOutras quatro deputadas votaram como o parlamentar fluminense:\nCélia Xakriabá (PSOL-MG);\nErika Hilton (PSOL-SP);\nNatália Bonavides (PT-RN); e \nProfessora Luciene (PSOL-SP).\nOutros dez parlamentares do PSOL se posicionaram em obstrução ao projeto de ajuste fiscal.\nArticulação de Moretti\nEntre os movimentos para convencer os parlamentares a aprovar a proposta, Moretti participou de uma audiência na Comissão Mista de Orçamento (CMO). \nO ministro apresentou as linhas gerais da proposta, que tem um impacto de até R$ 56 bilhões nas contas públicas em 2027.\nNo dia em que o texto-base foi aprovado pelo Senado, o ministro participou de conversas com parlamentares e lideranças do Congresso Nacional para explicar as medidas e buscar apoio. \nEm meio à pressão do setor produtivo e de governadores, as negociações seguiram, com a atuação do ministro nos bastidores.  \nEm 13 de novembro, Moretti se reuniu com o presidente da Câmara, Hugo Motta (Republicanos-PB), para tratar da tramitação da proposta na Casa. \nTambém conversou com a bancada do PT na Câmara, em meio à resistência de parlamentares governistas a pontos do pacote.\nAs tratativas em torno do texto avançaram até a votação final no Senado. Moretti acompanhou a articulação no plenário, enquanto os senadores aliados do governo buscavam evitar alterações expressivas no texto.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 03:35:16 -0000"
+    },
+    {
+      "id": "0bc5a3c335c1",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Entenda projeto de ajuste fiscal de até R$ 56 bilhões para governo Lula aprovado pela Câmara",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/24/entenda-projeto-de-ajuste-fiscal-de-ate-r-56-bilhoes-para-governo-lula-aprovado-pela-camara.ghtml",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo\nA Câmara dos Deputados aprovou nesta segunda-feira (23) o projeto de lei que realiza um ajuste fiscal nas contas públicas para que seja possível cumprir a meta do orçamento de 2027.  \nO Senado finalizou a votação na última quinta-feira (19) e o presidente da Câmara, Hugo Motta (Republicanos-PB), convocou sessão para segunda para analisar o texto, mesmo sendo um dia no qual normalmente não há votação nos plenários do Congresso.\nA votação acelerada foi um pedido do governo atendido por Motta diante do que ele chamou de \"preocupação do Congresso com essa alta do dólar e a perspectiva de uma alta taxa de juros\". \nO ajuste fiscal foi enviado ao Congresso Nacional pelo governo. O projeto define uma série de medidas que podem levar a uma economia de até R$ 56 bilhões, pelas contas do senador Eduardo Braga (MDB-AM), relator no Senado, como cortes de incentivos e benefícios tributários, mudanças nas despesas discricionárias — aquelas em que não há imposição legal para ser realizada. \nEntenda as principais mudanças propostas pelo governo (clique no menu abaixo): \nRedução de benefícios tributários\nCréditos tributários \nCálculo do piso da saúde \nLimitação extra para os gastos \nAmpliação do rol de gastos que podem ser contingenciados \nFundos públicos\nRedução dos supersalários\nLei Kandir\nSubsídio ao diesel fora da meta\nRedução de benefícios tributários \nO projeto prevê mudanças nas regras de concessão de incentivos e benefícios tributários. A principal delas é a efetivação de uma defesa antiga do governo Lula (PT): o corte linear de 10% em benefícios que o governo dá aos mais diferentes setores da economia. \nO corte de benefícios é uma defesa do Ministério da Fazenda ainda sob o comando de Fernando Haddad (PT). No final de 2025, já houve o corte de 10%. Na época, o governo estimava ganho de R$ 19,8 bilhões nas contas públicas.  \nAgora, o projeto encabeçado pelo ministro Bruno Moretti amplia esse corte em mais 10%. Ou seja, o corte linear nos últimos dois anos chegará a 20%. \nPlenário da Câmara dos Deputados durante sessão conjunta do Congresso Nacional destinada à deliberação de Projetos de Lei\nCarolina Curi/Agência Senado\nCréditos tributários \nUma das mudanças mais criticadas pela oposição é a medida autoriza o Executivo a limitar a utilização de créditos tributários para compensar outros impostos devidos à Receita Federal. \nAtualmente, empresas que possuem créditos tributários podem deixar de pagar certos impostos. \n🔎 Crédito presumido é um benefício fiscal que permite à empresa aproveitar valores a mais pagos anteriormente ao governo para pagar novos impostos devidos. Esse valor é calculado como imposto pago e reduz a carga tributária final da empresa. \nPelo projeto, o governo poderá estabelecer restrições a essas compensações, com percentuais diferenciados conforme o valor ou o tipo de crédito utilizado. A ideia é proibir a compensação cruzada, ou seja, usar crédito de um tipo de imposto para pagar outro tipo. \nA medida poderá ser adotada em momentos nos quais o governo entre em contenção de gastos. \n➡️Na prática, a restrição pode aumentar a arrecadação em dinheiro no curto prazo, porque parte dos tributos que seria pago com créditos terá de ser efetivamente paga, com dinheiro, pelas empresas. \nO trecho levou a duras críticas do setor produtivo. Em nota, 57 entidades criticaram o fato de o texto não determinar um prazo para as compensações retornarem depois de uma eventual decisão do governo. \n\"O texto não diz se o crédito retido será devolvido, em que prazo ou com que correção, e a regra valeria a partir da publicação da lei\", diz a nota. \nMudanças no cálculo do piso da saúde \nOutra medida que levou a crítica é a parte do projeto altera a base de cálculo para determinadas despesas vinculadas à arrecadação, como o piso da saúde. \nO texto prevê que, até 2030, a receita do imposto sobre a exportação de petróleo não seja considerada no cálculo de determinadas despesas obrigatórias, como acontece hoje. \nSegundo o ministro Bruno Moretti, a intenção é retirar receitas extraordinárias relacionadas ao petróleo da base de cálculo de despesas constitucionais. A exclusão dessas receitas reduz o montante que obrigatoriamente precisa ser destinado à área. \nMoretti defendeu que a mudança segue a lógica de que a arrecadação com petróleo só cresceu de forma extraordinária devido ao aumento no preço do combustível causado pelo conflito no Oriente Médio e não é uma receita que é contínua, o que infla os gastos com o piso da saúde. \nA ideia é não contar com ganhos extraordinários — que podem não acontecer no futuro – para a conta de gastos que são contínuos e devem sempre ser realizados. Cálculos indicam que a Saúde pode deixar de receber cerca de R$ 9 bilhões em 2027. \nA retirada dessas receitas do cálculo do piso já está em vigor em 2026, mas em caráter temporário. Com o projeto, a medida poderá ser prorrogada até 2030. \nLimitação extra para os gastos \nUm dos principais pontos do projeto é a alteração das regras de crescimento das despesas públicas. Atualmente, o arcabouço fiscal permite que os gastos federais cresçam, acima da inflação, entre 0,6% e 2,5% ao ano, dependendo do comportamento das receitas. \nCom o projeto, em anos em que o governo precisar cortar gastos para cumprir a meta, o teto será de 2%. \nO texto também amplia a possibilidade de corte de despesas, permitindo que o Executivo bloqueie recursos mesmo quando a projeção do resultado das contas públicas estiver dentro da margem inferior de tolerância da meta fiscal. \nAmpliação do rol de gastos que podem ser contingenciados \nAtualmente, somente as despesas discricionárias, aquelas que o governo pode decidir se e quanto vai gastar, podem ser congeladas temporariamente (contingenciadas, no jargão econômico) para cumprir as metas fiscais. \nCom a proposta, os gastos obrigatórios que não estão na Constituição Federal também estarão sujeitos à contenção. Segundo o economista Felipe Salto, esse conjunto de despesas representou R$ 388 bilhões em 2026. \nNeste caso e no do gatilho adicional para a contenção de gastos, as mudanças são permanentes e valerão para todos os anos. \nFundos públicos \nUma medida para dar flexibilidade para o governo gerenciar o orçamento é a que muda as regras sobre recursos com destinos específicos, como os fundos públicos. Com o projeto, até 40% do dinheiro que não for utilizado dos fundos no ano anterior poderão ser destinados a despesas públicas previstas na Constituição. \nPara isso, o projeto altera a Lei de Responsabilidade Fiscal – que proíbe o uso dos saldos desses fundos. No entanto, o projeto atual mantém a proibição de remanejar recursos de áreas essenciais, como saúde, educação, segurança pública, seguridade social, desenvolvimento social e de repasses a estados e municípios. \nRedução dos supersalários \nO projeto também prevê medidas relacionadas aos chamados supersalários do funcionalismo público. O texto estabelece um prazo de até 60 dias para que o Congresso aprove uma proposta que regulamente os pagamentos de servidores acima do teto – atualmente cerca de R$ 46,3 mil.  \nO projeto não elimina diretamente os chamados penduricalhos, pagamentos adicionais que podem fazer a remuneração de servidores ultrapassar o teto. Isso terá que ser definido no Congresso Nacional. \nLei Kandir \nO projeto altera os repasses anuais da União a estados e municípios para compensar perdas com a não cobrança do imposto estadual em exportações. O repasse, previsto na Lei Kandir, é atualmente de R$ 4 bilhões. \nCom o texto aprovado pelo Congresso, a transferência será de R$ 2 bilhões por ano até 2030. \nSubsídio ao diesel fora da meta \nApesar das medidas de contenção de despesas, o projeto também prevê uma flexibilização das regras fiscais para permitir gastos com subsídios ao diesel, que estão sendo feitos pela guerra no Oriente Médio. \nA proposta autoriza o governo a desconsiderar até R$ 10,5 bilhões em despesas extraordinárias para estabilizar os preços do combustível na meta fiscal de 2026. Os recursos estão relacionados à concessão de subvenções econômicas a produtores e importadores de diesel. \nA exclusão das despesas da meta fiscal não significa que os gastos deixarão de existir ou de afetar as contas públicas. A medida apenas permite que sejam desconsiderados na avaliação do cumprimento da meta fiscal.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 03:35:06 -0000"
+    },
+    {
+      "id": "4a2093f61074",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Câmara aprova projeto de ajuste fiscal que prevê economia de até R$ 56 bilhões para governo Lula; proposta segue para sanção",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-aprova-projeto-de-ajuste-fiscal.ghtml",
+      "summary": "Câmara aprova texto-base do pacote de ajuste fiscal do governo\nA Câmara dos Deputados aprovou nesta segunda-feira (23) o projeto de lei que realiza um ajuste fiscal nas contas públicas para que seja possível cumprir a meta do orçamento de 2027. A proposta segue para sanção do presidente Luiz Inácio Lula da Silva (PT).\nO texto-base da proposta foi aprovado por 353 votos sim contra 128 votos e 5 abstenções.\nVeja como votaram os deputados e partidos.\nOs deputados analisaram ainda sugestões de alteração em pontos específicos do texto, os chamados \"destaques\". No entanto, todos foram rejeitados.\n💵O projeto consiste em uma série de medidas que podem levar a uma economia de até R$ 56 bilhões já no próximo ano, entre elas há cortes de incentivos e benefícios tributários, mudanças nas despesas discricionárias — aquelas em que não há imposição legal para ser realizada (Veja mais detalhes abaixo).\nO Senado finalizou a votação na última quinta-feira (19) e o presidente da Câmara, Hugo Motta (Republicanos-PB), convocou sessão para segunda para analisar o texto, mesmo sendo um dia no qual normalmente não há votação nos plenários do Congresso.\nA votação acelerada foi um pedido do governo atendido por Motta diante do que ele chamou de \"preocupação do Congresso com essa alta do dólar e a perspectiva de uma alta taxa de juros\".\nApós a aprovação da proposta, Motta defendeu que o governo  adote novas medidas na economia ainda em 2026.\n\"Eu espero [...] que o governo possa se conscientizar de que é necessário, ainda nesse ano, tomarmos mais algumas medidas no que diz respeito à economia do país\", afirmou Hugo Motta durante a votação da proposta do governo.\nO ajuste fiscal foi enviado ao Congresso pelo governo na semana passada.\nO relator do projeto na Câmara, deputado Mauro Benevides Filho (PDT-CE), disse que apesar de seu parecer ser integralmente favorável ao projeto aprovado pelo Senado, ele acredita haver espaço para mudanças em projetos futuros.\nA prioridade, no momento, foi a celeridade na aprovação da medida, motivo pelo qual ele decidiu manter o conteúdo aprovado pelos senadores. \nDurante a discussão da proposta no plenário, integrantes da base do governo demonstraram insatisfação com a proposta encabeçada pelo ministro do Planejamento, Bruno Moretti.\nLEIA TAMBÉM: Ajuste fiscal de Lula teve Moretti como criador e principal articulador; ministro enfrentou resistência de ala governista\nApesar do apoio explícito do presidente Lula (PT) ao texto, o vice-líder do governo no Congresso, deputado Lindbergh Farias (PT-RJ), discursou contra o texto e declarou que iria se abster da votação.\nLindbergh foi um dos integrantes do governo mais vocalmente contra o projeto. Ele é acompanhado dos deputados do Psol. Entre os argumentos, está que o Brasil não precisa de um ajuste fiscal e sim de investimentos. No entanto, o grupo é minoria entre os apoiadores do governo.\nPlenário da Câmara dos Deputados durante sessão conjunta do Congresso Nacional destinada à deliberação de Projetos de Lei\nCarolina Curi/Agência Senado\nAbaixo, veja o detalhamento das principais mudanças propostas pelo governo:\nRedução de benefícios tributários \nO projeto prevê mudanças nas regras de concessão de incentivos e benefícios tributários. A principal delas é a efetivação de uma defesa antiga do governo Lula (PT): o corte linear de 10% em benefícios que o governo dá aos mais diferentes setores da economia. \nO corte de benefícios é uma defesa do Ministério da Fazenda ainda sob o comando de Fernando Haddad (PT). No final de 2025, já houve o corte de 10%. Na época, o governo estimava ganho de R$ 19,8 bilhões nas contas públicas.\nAgora, o projeto encabeçado pelo ministro Bruno Moretti amplia esse corte em mais 10%. Ou seja, o corte linear nos últimos dois anos chegará a 20%. \nBruno Moretti, ministro do Planejamento e Orçamento\nEdilson Rodrigues/Agência Senado\nCréditos tributários \nUma das mudanças mais criticadas pela oposição é a medida autoriza o Executivo a limitar a utilização de créditos tributários para compensar outros impostos devidos à Receita Federal. \nAtualmente, empresas que possuem créditos tributários podem deixar de pagar certos impostos. \n🔎 Crédito presumido é um benefício fiscal que permite à empresa aproveitar valores a mais pagos anteriormente ao governo para pagar novos impostos devidos. Esse valor é calculado como imposto pago e reduz a carga tributária final da empresa. \nPelo projeto, o governo poderá estabelecer restrições a essas compensações, com percentuais diferenciados conforme o valor ou o tipo de crédito utilizado. A ideia é proibir a compensação cruzada, ou seja, usar crédito de um tipo de imposto para pagar outro tipo. \nA medida poderá ser adotada em momentos nos quais o governo entre em contenção de gastos. \n➡️Na prática, a restrição pode aumentar a arrecadação em dinheiro no curto prazo, porque parte dos tributos que seria pago com créditos terá de ser efetivamente paga, com dinheiro, pelas empresas. \nO trecho levou a duras críticas do setor produtivo. Em nota, 57 entidades criticaram o fato de o texto não determinar um prazo para as compensações retornarem depois de uma eventual decisão do governo. \n\"O texto não diz se o crédito retido será devolvido, em que prazo ou com que correção, e a regra valeria a partir da publicação da lei\", diz a nota. \nMudanças no cálculo do piso da saúde \nOutra medida que levou a crítica é a parte do projeto altera a base de cálculo para determinadas despesas vinculadas à arrecadação, como o piso da saúde. \nO texto prevê que, até 2030, a receita do imposto sobre a exportação de petróleo não seja considerada no cálculo de determinadas despesas obrigatórias, como acontece hoje. \nSegundo o ministro Bruno Moretti, a intenção é retirar receitas extraordinárias relacionadas ao petróleo da base de cálculo de despesas constitucionais. A exclusão dessas receitas reduz o montante que obrigatoriamente precisa ser destinado à área. \nMoretti defendeu que a mudança segue a lógica de que a arrecadação com petróleo só cresceu de forma extraordinária devido ao aumento no preço do combustível causado pelo conflito no Oriente Médio e não é uma receita que é contínua, o que infla os gastos com o piso da saúde. \nA ideia é não contar com ganhos extraordinários — que podem não acontecer no futuro – para a conta de gastos que são contínuos e devem sempre ser realizados. Cálculos indicam que a Saúde pode deixar de receber cerca de R$ 9 bilhões em 2027. \nA retirada dessas receitas do cálculo do piso já está em vigor em 2026, mas em caráter temporário. Com o projeto, a medida poderá ser prorrogada até 2030. \nLimitação extra para os gastos \nUm dos principais pontos do projeto é a alteração das regras de crescimento das despesas públicas. Atualmente, o arcabouço fiscal permite que os gastos federais cresçam, acima da inflação, entre 0,6% e 2,5% ao ano, dependendo do comportamento das receitas. \nCom o projeto, em anos em que o governo precisar cortar gastos para cumprir a meta, o teto será de 2%. \nO texto também amplia a possibilidade de corte de despesas, permitindo que o Executivo bloqueie recursos mesmo quando a projeção do resultado das contas públicas estiver dentro da margem inferior de tolerância da meta fiscal. \nAmpliação do rol de gastos que podem ser contingenciados \nAtualmente, somente as despesas discricionárias, aquelas que o governo pode decidir se e quanto vai gastar, podem ser congeladas temporariamente (contingenciadas, no jargão econômico) para cumprir as metas fiscais. \nCom a proposta, os gastos obrigatórios que não estão na Constituição Federal também estarão sujeitos à contenção. Segundo o economista Felipe Salto, esse conjunto de despesas representou R$ 388 bilhões em 2026. \nNeste caso e no do gatilho adicional para a contenção de gastos, as mudanças são permanentes e valerão para todos os anos. \nFundos públicos \nUma medida para dar flexibilidade para o governo gerenciar o orçamento é a que muda as regras sobre recursos com destinos específicos, como os fundos públicos. Com o projeto, até 40% do dinheiro que não for utilizado dos fundos no ano anterior poderão ser destinados a despesas públicas previstas na Constituição. \nPara isso, o projeto altera a Lei de Responsabilidade Fiscal – que proíbe o uso dos saldos desses fundos. No entanto, o projeto atual mantém a proibição de remanejar recursos de áreas essenciais, como saúde, educação, segurança pública, seguridade social, desenvolvimento social e de repasses a estados e municípios. \nRedução dos supersalários \nO projeto também prevê medidas relacionadas aos chamados supersalários do funcionalismo público. O texto estabelece um prazo de até 60 dias para que o Congresso aprove uma proposta que regulamente os pagamentos de servidores acima do teto – atualmente cerca de R$ 46,3 mil.  \nO projeto não elimina diretamente os chamados penduricalhos, pagamentos adicionais que podem fazer a remuneração de servidores ultrapassar o teto. Isso terá que ser definido no Congresso Nacional. \nLei Kandir \nO projeto altera os repasses anuais da União a estados e municípios para compensar perdas com a não cobrança do imposto estadual em exportações. O repasse, previsto na Lei Kandir, atualmente é de R$ 4 bilhões. \nCom o texto aprovado pelo Congresso, a transferência será de R$ 2 bilhões por ano até 2030. \nSubsídio ao diesel fora da meta \nApesar das medidas de contenção de despesas, o projeto também prevê uma flexibilização das regras fiscais para permitir gastos com subsídios ao diesel, que estão sendo feitos pela guerra no Oriente Médio. \nA proposta autoriza o governo a desconsiderar até R$ 10,5 bilhões em despesas extraordinárias para estabilizar os preços do combustível na meta fiscal de 2026. Os recursos estão relacionados à concessão de subvenções econômicas a produtores e importadores de diesel. \nA exclusão das despesas da meta fiscal não significa que os gastos deixarão de existir ou de afetar as contas públicas. A medida apenas permite que sejam desconsiderados na avaliação do cumprimento da meta fiscal.",
+      "tags": [
+        "Lula"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão",
+        "Poder360"
+      ],
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 01:33:27 -0000"
     },
     {
       "id": "5252591c82fa",
@@ -131,165 +269,122 @@
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "Poder360"
       ],
-      "score": 85,
+      "score": 80,
       "publishedRaw": "Mon, 23 Nov 2026 17:03:15 -0000"
     },
     {
-      "id": "a0863bce8a09",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
-      "summary": "Valdo: Baixa do dólar depende de nome para Fazenda\nO presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pode seguir pressionado.\nEsse quadro deve se manter até que o petista defina um nome \"forte\" para o Ministério da Fazenda ou, ao menos, anuncie medidas fiscais mais profundas, com capacidade de estabilizar o crescimento da dívida pública e reduzi-la já no último ano do seu quarto mandato.\nNa semana passada, Lula deu novas sinalizações de que não irá seguir o tempo do mercado e vai tomar suas decisões na equipe econômica no seu tempo. \n⚠️O risco, alertam aliados do petista, é que, neste caso, o dólar pode ultrapassar R$ 6, pressionando uma inflação que pode chegar a perto de 6%, tornando a administração da política econômica no seu quarto mandato bem mais difícil.\nLula tem dito que terá responsabilidade fiscal, mas que não vai ser refém do mercado. O problema é que o mercado quem financia a dívida pública. \nSe os recursos ali aplicados migrarem para investimentos fora do país em ritmo e intensidade acelerados, o dólar vai subir ainda mais. \nO cenário seria péssimo para o ano que vem, com inflação em alta, juros no mínimo em 13,75% ao ano e economia desacelerando para a casa de 1% do PIB ou até menos.\nNeste caso, Lula será obrigado a fazer um ajuste fiscal mais forte do que gostaria, sob o risco de ter uma tempestade perfeita na economia pela frente. \nPor isso, conselheiros tem defendido que ele defina seu ministro da Fazenda ainda em novembro, com a missão de propor medidas fiscais em reduzam o crescimento das despesas obrigatórias.\nO mercado tem alertado que o seu cenário da dívida pública não bate com o do governo. A dívida pública em setembro chegou a 82,9% do PIB. No final do ano, pode bater em 83,5% do PIB. \nPara a equipe de Lula, em 2030 a dívida se estabilizaria e começaria a cair no ano seguinte. Nas contas de economistas do mercado, ele seguiria subindo, assustando investidores que aplicam seus recursos no Brasil.\nO presidente brasileiro Luiz Inácio Lula da Silva, em imagem de arquivo\nROLEX DELA PENA/Pool via REUTERS",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 23 Nov 2026 12:00:28 -0000"
-    },
-    {
-      "id": "1b1325ec4f4e",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) exonerou temporariamente o ministro da Secretaria de Relações Institucionais (SRI), José Guimarães, responsável pela articulação política do governo com o Congresso. A exoneração, assinada na quinta-feira (19), foi publicada nesta segunda-feira (23) no \"Diário Oficial da União\".\nA medida permite que Guimarães reassuma seu mandato na Câmara dos Deputados e participe das discussões sobre emendas parlamentares e da votação do projeto de ajuste fiscal do Executivo, prevista para esta segunda na Casa.\n\"A Secretaria de Relações Institucionais da Presidência informa que a exoneração do ministro José Guimarães, publicada no 'Diário Oficial da União', ocorre a pedido e em caráter temporário, para o cumprimento de compromissos parlamentares, na Câmara, relacionados à destinação de emendas e à participação na deliberação sobre o projeto [do ajuste fiscal]\", informou a SRI em uma rede social.\nGuimarães estava licenciado do mandato desde que assumiu a chefia da pasta no governo Lula. Após a conclusão da votação na Câmara, ele deve retornar ao comando do ministério.\nA exoneração faz parte do esforço do Palácio do Planalto para garantir a aprovação rápida da proposta de ajuste, que já recebeu aval do Senado na semana passada.\nO projeto na pauta\nAjuste fiscal deve ser votado nesta segunda-feira (23) na Câmara dos Deputados\nPara evitar que o projeto precise retornar à análise dos senadores, o relator na Câmara, deputado Mauro Benevides Filho (União Brasil-CE), manteve integralmente o texto aprovado no Senado.\nO presidente da Câmara, Hugo Motta (Republicanos-PB), decidiu pautar a matéria nesta segunda-feira, dia em que tradicionalmente não ocorrem votações em plenário, para demonstrar apoio à redução de gastos públicos.\nAntes de poderem analisar o conteúdo da proposta, os deputados precisam aprovar um requerimento para que o texto tramite em regime de urgência.\nEncabeçado pelo ministro do Planejamento e Orçamento, Bruno Moretti, o pacote busca conter o crescimento das despesas obrigatórias e ampliar a arrecadação federal, com impacto fiscal projetado em R$ 50 bilhões para 2027, segundo estimativa do relator no Senado, Eduardo Braga (MDB-AM).\nNo sábado (21), Lula afirmou que a iniciativa não configura uma \"reforma\", mas sim um \"ajuste\" necessário para assegurar a \"governança sobre o orçamento no ano que vem\", reiterando que o governo não fará cortes em programas sociais.\nEntre os principais pontos do texto, estão:\nteto de 2% para o crescimento real das despesas nos anos em que houver necessidade de contingenciamento;\nredução linear de 10% em incentivos e benefícios tributários concedidos a diversos setores da economia;\naval para o Executivo restringir o uso de créditos tributários cruzados, quando empresas usam créditos de um tributo para abater outros impostos, em momentos de contenção de gastos.\nJosé Guimarães e Lula, em imagem de arquivo\nRicardo Stuckert / PR",
-      "tags": [
-        "Lula"
-      ],
-      "crossOutlets": [
-        "BBC Brasil",
-        "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
-        "Poder360"
-      ],
-      "score": 85,
-      "publishedRaw": "Mon, 23 Nov 2026 11:12:40 -0000"
-    },
-    {
-      "id": "24ae1e6c4b16",
+      "id": "870a3115076c",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Eduardo Bolsonaro recorre de condenação no STF por difamação contra Tabata Amaral",
-      "link": "https://www.estadao.com.br/politica/eduardo-bolsonaro-recorre-de-condenacao-no-stf-por-difamacao-contra-tabata-amaral-nprp/",
-      "summary": "",
-      "tags": [
-        "STF",
-        "Bolsonaro",
-        "Eduardo Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Folha de São Paulo",
-        "G1 - Política"
-      ],
-      "score": 85,
-      "publishedRaw": "Tue, 24 Nov 2026 00:11:48 +0000"
-    },
-    {
-      "id": "0bfb640d6abd",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Local incerto e não sabido’: Moraes manda Flávio se defender de denúncia por calúnia contra Lula",
-      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/local-incerto-e-nao-sabido-moraes-manda-flavio-se-defender-de-denuncia-por-calunia-contra-lula/",
+      "title": "Governadores de oposição buscam diálogo com Lula para garantir recursos aos Estados após a eleição",
+      "link": "https://www.estadao.com.br/politica/governadores-de-oposicao-buscam-dialogo-com-lula-para-garantir-recursos-aos-estados-apos-a-eleicao/",
       "summary": "",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 85,
-      "publishedRaw": "Mon, 23 Nov 2026 17:31:10 +0000"
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 08:30:00 +0000"
     },
     {
-      "id": "8c53953b6d64",
+      "id": "a19d7495f8e6",
       "source": "Poder360",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Após divergências, Câmara aprova texto-base do ajuste fiscal de Lula",
-      "link": "https://www.poder360.com.br/poder-congresso/apos-divergencias-camara-aprova-texto-base-do-ajuste-fiscal-de-lula/",
-      "summary": "Plenário aprovou por 353 votos a favor, 128 contra e 5 abstenções depois de acordo para votação em urgência; impacto pode chegar a R$ 50 bi",
+      "title": "PF quer comprar 3 blindados por R$ 11,4 milhões para proteger Lula",
+      "link": "https://www.poder360.com.br/poder-governo/pf-quer-comprar-3-blindados-por-r-114-milhoes-para-proteger-lula/",
+      "summary": "Blindagem exigida é uma das mais elevadas; corporação cita atentados contra autoridades para justificar aquisição",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política"
       ],
-      "score": 85,
-      "publishedRaw": "Tue, 24 Nov 2026 01:38:39 +0000"
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 12:00:18 +0000"
     },
     {
-      "id": "9c25ae3614ee",
-      "source": "G1 - Economia",
+      "id": "fba13a413aaa",
+      "source": "Poder360",
       "tipo": "mainstream",
-      "category": "Economia",
-      "title": "Durigan vê pacote fiscal como 'primeiro passo' e diz discutir ajuste nas contas diariamente com Lula",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/23/durigan-evento-itau.ghtml",
-      "summary": "Dario Durigan, ministro da Fazenda\nWashington Costa/MF\nO ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (23) que o pacote fiscal em discussão no Congresso Nacional é apenas um \"primeiro passo\" para ajustar as contas públicas e que novas medidas serão necessárias nos próximos anos.\nEle também disse que tem conversado praticamente todos os dias com o presidente Luiz Inácio Lula da Silva (PT) sobre a importância do equilíbrio fiscal.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\n\"Tenho conversado com o presidente, acho que diariamente desde o fim das eleições, e tenho enfatizado a importância de termos esse caminho da responsabilidade fiscal\", afirmou. \nAs declarações foram feitas durante participação remota no Macro Vision 2026, evento realizado pelo Itaú BBA, em São Paulo. \nAgora no g1\nSegundo Durigan, o projeto em análise na Câmara dos Deputados permitirá avançar no ajuste do Orçamento de 2027, mas não será suficiente para os anos seguintes.\n\"Esse seria um primeiro passo que já nos coloca em um caminho mínimo para ajustar o orçamento, pelo menos para o próximo ano, o que não vai prescindir de novas medidas para os anos à frente\", disse.\nO ministro defendeu ainda a necessidade de reverter a trajetória de déficits primários registrada pelo país nos últimos anos e avançar para superávits recorrentes e crescentes a partir de 2027.\n🔎 O déficit primário ocorre quando o governo gasta mais do que arrecada, sem considerar os juros da dívida pública. Já o superávit primário é o resultado contrário: quando as receitas superam as despesas, também sem incluir os juros.\nDurigan afirmou que a meta é alcançar um superávit primário entre 1,5% e 2% do PIB no fim do próximo mandato de Lula. Para isso, defendeu o fortalecimento do arcabouço fiscal, com a redução das exceções às regras e maior controle dos gastos públicos.\nNesse sentido, a expectativa é que a Câmara dos Deputados vote nesta segunda-feira a mais recente proposta de ajuste fiscal do governo. Já aprovada pelo Senado, a medida prevê uma economia de até R$ 50 bilhões no ano que vem.\nAinda assim, o pacote é considerado insuficiente por agentes do mercado financeiro, que cobram medidas estruturais para conter o avanço da dívida pública.\nA desconfiança dos investidores em relação à situação fiscal do país também tem pressionado os ativos brasileiros. O dólar chegou aos R$ 6 nesta segunda-feira, maior valor desde abril de 2025, enquanto o Ibovespa tem registrado sucessivas quedas.\nDurigan reconheceu que parte do mercado financeiro considera insuficiente a trajetória de superávits prevista pelo governo, mas defendeu a estratégia de melhorar gradualmente os resultados das contas públicas.\n\"Algumas pessoas com quem já conversei do mercado financeiro dizem que é pouco. Pode ser pouco, mas uma trajetória em que a gente faça superávits crescentes nos próximos anos, a começar do ano que vem, eu acho que é algo razoável\", afirmou.\nSegundo o ministro, o objetivo principal é \"retomar o grau de investimento, fazer superávit robusto\" e dar mais previsibilidade ao futuro, algo que considera uma demanda \"razoável\" do mercado.\nCaminho para a redução dos juros\nDurigan também defendeu que o governo avance no ajuste das contas para criar condições para a redução dos juros no Brasil. \nAs taxas de juros de longo prazo, negociadas no mercado financeiro, dispararam após as eleições. Já a Selic, taxa básica de juros do país, está em 13,75% ao ano. Com isso, o Brasil segue com os maiores juros reais do mundo, descontada a inflação projetada para os próximos 12 meses.\n\"Nós melhoramos uma série de indicadores do resultado primário, de indicadores sociais, mas falta um pedaço. Falta uma última milha, que, sem dúvida, é ajustar o fiscal para que a gente dê as condições corretas, estruturais, para que haja uma redução da taxa de juros no país\", afirmou.\nDurigan ponderou, porém, que o cenário internacional adverso pode limitar a queda dos juros no Brasil, mesmo com os esforços do governo para melhorar seus resultados.\nEntre os fatores de preocupação está a perspectiva de que o Federal Reserve (Fed), banco central dos Estados Unidos, volte a elevar os juros e os mantenha em patamares elevados por mais tempo. \n🔎 Juros mais altos nos EUA tornam os investimentos em dólar mais atraentes, o que pode desvalorizar o real, encarecer produtos importados e pressionar a inflação no Brasil. Esse cenário dificultaria a redução dos juros por aqui.\n\"O desafio é esse: gerar resultados positivos no fiscal, de modo que a gente dê condição para a taxa de juros diminuir, ainda que pouco, dado o cenário mundial bastante difícil\", afirmou Durigan.\nO ministro também afastou a possibilidade de uma mudança radical na condução da política econômica no próximo mandato de Lula. Segundo ele, o país atravessa um período natural de indefinição diante do início de um novo governo.\n\"Nós não vamos ter, seja de um lado, carta branca no Ministério da Fazenda, seja de outro, mudança radical, como alguns chegaram a sugerir\", afirmou. \"Vamos seguir perseguindo um superávit crescente\", concluiu.",
+      "category": "Política",
+      "title": "Agenda de Lula: leia os compromissos do presidente 3ª feira",
+      "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-3a-feira-6/",
+      "summary": "Presidente se reúne com ministros e auxiliares no Palácio do Planalto e entrega cartas credenciais a embaixadores",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
         "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Mundo",
-        "G1 - Política",
-        "Poder360"
+        "G1 - Política"
       ],
-      "score": 82,
-      "publishedRaw": "Mon, 23 Nov 2026 17:27:22 -0000"
+      "score": 80,
+      "publishedRaw": "Tue, 24 Nov 2026 09:15:36 +0000"
     },
     {
-      "id": "883c5bd5e1c4",
-      "source": "G1 - Mundo",
+      "id": "2e74baa9b679",
+      "source": "G1 - Política",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "Bolsonaro continua na UTI após ser internado por dores abdominais; ex-presidente está com pneumonia",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
+      "summary": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intestinal. \nSegundo declaração da equipe médica esta segunda-feira (23), o tratamento será clínico neste momento, e uma nova cirurgia está descartada enquanto houver melhora do quadro.\nBolsonaro foi internado na tarde de sexta-feira (20), após sentir dores abdominais. Exames identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, decorrentes das sucessivas cirurgias feitas desde a facada sofrida em 2018.\nNo sábado (21), o hospital informou que Bolsonaro estava estável, consciente, orientado e respirando espontaneamente. O tratamento inclui hidratação, jejum, suporte nutricional e o uso de uma sonda gástrica.\nAgora no g1\nSegundo o cardiologista Brasil Caiado, a primeira tomografia realizada após a internação mostrou uma suboclusão do intestino delgado. Devido ao histórico de múltiplas cirurgias, os médicos decidiram inicialmente adotar um tratamento conservador e acompanhar a evolução do quadro.\nBolsonaro permaneceu estável no sábado e na manhã de domingo. À tarde, no entanto, passou a apresentar maior distensão abdominal, piora das dores, queda na saturação de oxigênio depois de um episódio de vômito e também teve calafrios. \nUma nova bateria de exames identificou uma pneumonia bilateral decorrente de broncoaspiração, situação em que conteúdo do aparelho digestivo chega às vias respiratórias. \nSegundo o médico, o quadro pulmonar é menos intenso do que o registrado em uma internação anterior de Bolsonaro, em março. \nAcúmulo de fibras\nOutra preocupação dos médicos era o fato de a sonda gástrica utilizada para retirar conteúdo do aparelho digestivo não estar funcionando adequadamente. Ao trocar o equipamento, os profissionais constataram que ele estava entupido. A equipe decidiu então realizar uma endoscopia. \nO exame identificou grande quantidade de material fibroso acumulado no estômago e também no duodeno. \nBirolini afirmou que a equipe recebeu a informação de que Bolsonaro havia aumentado nas últimas semanas e meses o consumo de fibras, como verduras, saladas e frutas com casca. Parte do material encontrado no estômago e no duodeno foi retirada por meio da endoscopia.\nAinda segundo o cirurgião, houve uma \"melhora significativa\" da distensão abdominal e do desconforto depois do procedimento.\n Bolsonaro cumpre pena em prisão domiciliar em Brasília. Arquivo: 9 de setembro de 2025\nWilton Junior/Estadão Conteúdo\nCirurgia é descartada neste momento\nCom a melhora, a equipe médica afirmou que o tratamento será prioritariamente clínico e que uma cirurgia está destacado neste momento. \nA possibilidade de uma nova operação vinha sendo avaliada desde o início da internação. Na sexta-feira, os médicos ainda não descartavam uma intervenção e acompanhavam a evolução do quadro.\nBolsonaro já teve outros episódios de obstrução intestinal desde a facada recebida durante a campanha presidencial de 2018. \nAs diferentes cirurgias realizadas desde então provocaram aderências no abdômen, ou seja, cicatrizes internas que podem prender partes do intestino e dificultar seu funcionamento.\nEm abril de 2025, o ex-presidente passou por uma cirurgia de cerca de 12 horas para tratar uma obstrução parcial do intestino. Na ocasião, os médicos identificaram o chamado \"abdômen hostil\", caracterizado por aderências e cicatrizes internas que tornam novas intervenções mais complexas.\nBolsonaro permanece sem previsão de alta. O último boletim divulgado antes da atualização da equipe médica informava que ele estava clinicamente estável e permanecia na UTI, em tratamento clínico, jejum e suporte nutricional.",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "Estadão"
+      ],
+      "score": 79,
+      "publishedRaw": "Mon, 23 Nov 2026 20:21:46 -0000"
+    },
+    {
+      "id": "315ed210f90c",
+      "source": "Estadão",
+      "tipo": "mainstream",
+      "category": "Política",
+      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
+      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
+      "summary": "",
+      "tags": [
+        "Bolsonaro"
+      ],
+      "crossOutlets": [
+        "BBC Brasil",
+        "G1 - Política"
+      ],
+      "score": 79,
+      "publishedRaw": "Mon, 23 Nov 2026 15:21:07 +0000"
+    },
+    {
+      "id": "ceb93d68a113",
+      "source": "BBC Brasil",
       "tipo": "mainstream",
       "category": "Internacional",
-      "title": "Sánchez tenta impedir vitória da direita na Espanha e volta a citar Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/sanchez-tenta-impedir-vitoria-direita-e-extrema-direita-espanha.ghtml",
-      "summary": "O primeiro-ministro espanhol, Pedro Sánchez, apresenta o plano de cidadania e integração, no encerramento do prazo para candidaturas à amnistia migratória, em Madrid, Espanha\nREUTERS/Violeta Santos Moura\nO primeiro-ministro socialista Pedro Sánchez tenta desafiar, nas eleições do próximo domingo (29), as pesquisas que antecipam uma vitória dos conservadores, que poderiam governar com o apoio da extrema direita —algo que seria inédito desde o fim da ditadura na Espanha.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO resultado das eleições antecipadas, inicialmente previstas para 2027, será acompanhado de muito perto nas capitais europeias, já que pode alterar os equilíbrios dentro da União Europeia (UE). Além disso, o bloco terá uma série de votações decisivas em 2027, na França, Polônia e Itália. \n\"Rumo à vitória, vamos votar, vencer e governar por mais quatro anos\", afirmou Sánchez durante um comício no fim de semana. Ele também voltou a citar a reeleição do presidente Lula e pediu para que os eleitores sigam o exemplo brasileiro por meio da mobilização popular (leia mais abaixo).\nO político socialista de 54 anos se consolidou como um líder internacional da esquerda durante seu governo, que já dura oito anos. No entanto, ele se tornou uma figura altamente polarizadora na Espanha e atualmente aparece nas pesquisas de intenção de voto atrás de Alberto Núñez Feijóo, líder do Partido Popular (PP, de direita), de 65 anos. Mas a diferença diminuiu nos últimos dias. \n\"Não confiem nas pesquisas (...) Nós os conhecemos, são capazes de tudo e, feridos, são ainda mais perigosos\", advertiu Feijóo em um evento de campanha, no qual foi categórico: \"A Espanha precisa de limpeza. A Espanha precisa de mudança e, juntos, vamos conseguir isso\".\nAgora no g1\nAs pesquisas apontam uma vitória do PP, mas longe da maioria absoluta no Congresso, em uma repetição do resultado das legislativas de 2023, quando, apesar de ter ficado em segundo lugar, Sánchez conseguiu reunir apoios para ser reeleito.\nAssim, o PP pode precisar do apoio do partido de extrema direita Vox, terceira força política do país, que quase dobraria o número de cadeiras no Congresso.\nVox e PP já governam juntos várias regiões, mas a extrema direita não participa do governo central desde o retorno da democracia, após a morte do ditador Francisco Franco, em 1975.\nA situação de Sánchez é mais complicada devido à fragilidade de outros partidos de esquerda, cujo apoio foi crucial para mantê-lo no poder em 2023.\nEvitar 'retrocesso'\nEm comício no final de semana, Pedro Sánchez pediu aos eleitores que evitem \"o retrocesso\" —que, segundo ele, significaria um eventual governo de coalizão entre PP e Vox—, após os avanços de seu governo na área social, para o feminismo e os direitos LGBTQIA+, tudo isso enquanto a economia espanhola, a quarta maior da UE, mantém seu dinamismo.\n“Se tudo isso conseguimos com um governo de coalizão em minoria parlamentar, o que não poderíamos conseguir para Canárias e para a Espanha com um Governo de maioria absoluta de cadeiras e deputados e deputadas progressistas? Por isso é preciso se mobilizar, é preciso ir votar no próximo dia 29 de novembro e é preciso votar na cor vermelha do Partido Socialista. É isso que temos de fazer para frear a involução: mobilização. Essa é a única receita, a que tiveram nos Estados Unidos, a que Lula teve no Brasil e a que teremos na Espanha no próximo dia 29 de novembro”, afirmou Sánchez em um comício nas Canárias.\nPresidente da Internacional Socialista, o premiê espanhol já entrou em choque com o presidente dos EUA, Donald Trump, e com o premiê israelense, Benjamin Netanyahu, por conta das guerras no Irã e em Gaza. Além disso, na contramão de muitos de seus parceiros europeus, Sánchez é um defensor da imigração em uma Espanha que envelhece e precisa de mão de obra.\nSánchez tentou capitalizar a indignação diante da crise de acesso à moradia na Espanha e conseguiu aprovar medidas para restringir despejos forçados e a aquisição de imóveis por grandes fundos de investimento.\nPorém, qualquer benefício eleitoral para Sánchez parece incerto. A oposição o culpa por não conseguir frear o aumento dos custos da moradia e dos bens de consumo em geral.\nSánchez \"tem que sair já, por decência e por respeito aos espanhóis. Feijóo não sei se é o candidato (ideal), mas precisamos de mudança\", afirmou à agência de notícias AFP Pedro Suárez, um empresário de 64 anos.\n\"Eu acho que este país avançou bastante nos últimos anos. Muitas coisas foram conquistadas na área social\", declarou Pilar Sánchez, de 64 anos, eleitora do chefe de Governo socialista.\n'Regeneração institucional'\nFeijóo, que governou a Galícia durante 13 anos, pede a renúncia de Sánchez há vários anos devido aos escândalos de corrupção em seu entorno, pelas concessões aos independentistas da Catalunha e por sua incapacidade de aprovar o orçamento do Estado.\nCom a promessa de uma \"regeneração institucional\", o PP também critica a avalanche de migrantes em julho na cidade espanhola de Ceuta, localizada no norte da África, e as duas colisões de trens de alta velocidade neste ano, que provocaram 115 mortes.\nPor sua vez, o Vox destacou em sua campanha seu discurso anti-imigração.\n\"Aqui há muitas pessoas que estão vivendo de benefícios sociais que são necessários aos espanhóis e que não têm que estar na Espanha. Estas pessoas, nós vamos convidar que retornem\", disse em um comício o líder do partido, Santiago Abascal, antes de afirmar que os \"estupradores\" e \"assassinos\" devem estar \"nas prisões de seus países\".",
+      "title": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Estima-se que o projeto tenha impacto de até R$ 56 bilhões. Mas o 'Plano Moretti' vem sendo recebido com pessimismo no mercado financeiro e críticas por alguns dos aliados do PT.",
       "tags": [
         "Lula"
       ],
       "crossOutlets": [
-        "BBC Brasil",
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Mon, 23 Nov 2026 10:33:27 -0000"
+      "score": 76,
+      "publishedRaw": "Tue, 24 Nov 2026 02:50:44 GMT"
     },
     {
       "id": "04a92f659896",
@@ -304,14 +399,11 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
-      "publishedRaw": "Mon, 23 Nov 2026 12:46:58 GMT"
+      "score": 76,
+      "publishedRaw": "Tue, 24 Nov 2026 03:01:46 GMT"
     },
     {
       "id": "52838d7902ae",
@@ -326,13 +418,10 @@
       ],
       "crossOutlets": [
         "Estadão",
-        "Folha de São Paulo",
-        "G1 - Economia",
-        "G1 - Mundo",
         "G1 - Política",
         "Poder360"
       ],
-      "score": 82,
+      "score": 76,
       "publishedRaw": "Thu, 19 Nov 2026 20:39:07 GMT"
     },
     {
@@ -347,29 +436,10 @@
         "STF"
       ],
       "crossOutlets": [
-        "Estadão",
-        "Folha de São Paulo"
+        "Estadão"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Mon, 23 Nov 2026 14:35:47 -0000"
-    },
-    {
-      "id": "0cce46009895",
-      "source": "Folha de São Paulo",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Reformar o STF?",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/reformar-o-stf.shtml",
-      "summary": "Uma instituição pode ser reformada pelo que faz mal ou pelo que faz bem e desagrada a quem tem poder para reformá-la. À primeira hipótese dá-se o nome de reforma; à segunda cabe melhor revanche, e esta, quando em resposta a decisões contramajoritárias, ensina ao tribunal que acertar custa caro. O debate se reduziu a um receituário de três linhas: criar mandatos, acabar com as decisões monocráticas e retirar da corte a competência criminal.\nLeia mais (11/23/2026 - 22h00)",
-      "tags": [
-        "STF"
-      ],
-      "crossOutlets": [
-        "Estadão",
-        "G1 - Política"
-      ],
-      "score": 80,
-      "publishedRaw": "23 Nov 2026 22:00:00 -0300"
     },
     {
       "id": "42e725120734",
@@ -383,159 +453,40 @@
         "STF"
       ],
       "crossOutlets": [
-        "Folha de São Paulo",
         "G1 - Política"
       ],
-      "score": 80,
+      "score": 75,
       "publishedRaw": "Mon, 23 Nov 2026 19:24:00 +0000"
     },
     {
-      "id": "7606f8947606",
+      "id": "43448ef1b136",
       "source": "Estadão",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Jair Bolsonaro tem pneumonia e segue internado na UTI, apesar de melhora clínica",
-      "link": "https://www.estadao.com.br/politica/jair-bolsonaro-tem-pneumonia-e-segue-internado-na-uti-apesar-de-melhora-clinica/",
+      "title": "TSE deve aprovar federação entre Solidariedade, Avante e PRD",
+      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/tse-deve-aprovar-federacao-entre-solidariedade-avante-e-prd/",
       "summary": "",
       "tags": [
-        "Bolsonaro",
-        "Jair Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 77,
-      "publishedRaw": "Mon, 23 Nov 2026 19:51:59 +0000"
-    },
-    {
-      "id": "2e74baa9b679",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro continua na UTI após ser internado por dores abdominais; ex-presidente está com pneumonia",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
-      "summary": "O ex-presidente Jair Bolsonaro (PL) continuará internado na Unidade de Terapia Intensiva (UTI) do Hospital DF Star, em Brasília, após apresentar dores e distensão abdominal e ser diagnosticado com uma obstrução intestinal. \nSegundo declaração da equipe médica esta segunda-feira (23), o tratamento será clínico neste momento, e uma nova cirurgia está descartada enquanto houver melhora do quadro.\nBolsonaro foi internado na tarde de sexta-feira (20), após sentir dores abdominais. Exames identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, decorrentes das sucessivas cirurgias feitas desde a facada sofrida em 2018.\nNo sábado (21), o hospital informou que Bolsonaro estava estável, consciente, orientado e respirando espontaneamente. O tratamento inclui hidratação, jejum, suporte nutricional e o uso de uma sonda gástrica.\nAgora no g1\nSegundo o cardiologista Brasil Caiado, a primeira tomografia realizada após a internação mostrou uma suboclusão do intestino delgado. Devido ao histórico de múltiplas cirurgias, os médicos decidiram inicialmente adotar um tratamento conservador e acompanhar a evolução do quadro.\nBolsonaro permaneceu estável no sábado e na manhã de domingo. À tarde, no entanto, passou a apresentar maior distensão abdominal, piora das dores, queda na saturação de oxigênio depois de um episódio de vômito e também teve calafrios. \nUma nova bateria de exames identificou uma pneumonia bilateral decorrente de broncoaspiração, situação em que conteúdo do aparelho digestivo chega às vias respiratórias. \nSegundo o médico, o quadro pulmonar é menos intenso do que o registrado em uma internação anterior de Bolsonaro, em março. \nAcúmulo de fibras\nOutra preocupação dos médicos era o fato de a sonda gástrica utilizada para retirar conteúdo do aparelho digestivo não estar funcionando adequadamente. Ao trocar o equipamento, os profissionais constataram que ele estava entupido. A equipe decidiu então realizar uma endoscopia. \nO exame identificou grande quantidade de material fibroso acumulado no estômago e também no duodeno. \nBirolini afirmou que a equipe recebeu a informação de que Bolsonaro havia aumentado nas últimas semanas e meses o consumo de fibras, como verduras, saladas e frutas com casca. Parte do material encontrado no estômago e no duodeno foi retirada por meio da endoscopia.\nAinda segundo o cirurgião, houve uma \"melhora significativa\" da distensão abdominal e do desconforto depois do procedimento.\n Bolsonaro cumpre pena em prisão domiciliar em Brasília. Arquivo: 9 de setembro de 2025\nWilton Junior/Estadão Conteúdo\nCirurgia é descartada neste momento\nCom a melhora, a equipe médica afirmou que o tratamento será prioritariamente clínico e que uma cirurgia está destacado neste momento. \nA possibilidade de uma nova operação vinha sendo avaliada desde o início da internação. Na sexta-feira, os médicos ainda não descartavam uma intervenção e acompanhavam a evolução do quadro.\nBolsonaro já teve outros episódios de obstrução intestinal desde a facada recebida durante a campanha presidencial de 2018. \nAs diferentes cirurgias realizadas desde então provocaram aderências no abdômen, ou seja, cicatrizes internas que podem prender partes do intestino e dificultar seu funcionamento.\nEm abril de 2025, o ex-presidente passou por uma cirurgia de cerca de 12 horas para tratar uma obstrução parcial do intestino. Na ocasião, os médicos identificaram o chamado \"abdômen hostil\", caracterizado por aderências e cicatrizes internas que tornam novas intervenções mais complexas.\nBolsonaro permanece sem previsão de alta. O último boletim divulgado antes da atualização da equipe médica informava que ele estava clinicamente estável e permanecia na UTI, em tratamento clínico, jejum e suporte nutricional.",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 74,
-      "publishedRaw": "Mon, 23 Nov 2026 20:21:46 -0000"
-    },
-    {
-      "id": "641bc8d52afd",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
-      "summary": "Ex-presidente Jair Bolsonaro\nPablo Porciuncula/AFP\nO ex-presidente Jair Bolsonaro está clinicamente estável, informou o Hospital DF Star na tarde deste domingo (22). Bolsonaro está internado na unidade de terapia intensiva (UTI) com diagnóstico de abdômen agudo obstrutivo. Segundo o boletim médico, não há previsão de alta.\nO informe diz, ainda, que Jair Bolsonaro mantém \"tratamento clínico, jejum e suporte nutricional\". \nO boletim médico é assinado pelos médicos Brasil Caiado (cardiologista), Leandro Echenique (cardiologista), Claudio Birolini (cirurgião do aparelho digestivo), Antonio Aurélio Fagundes Junior (coordenador da UTI Geral) e Allisson Barcelos Borges (diretor-geral do hospital).\nMichelle diz que Bolsonaro passou a noite sem dor e fez exames de imagem\n🔎 Atualmente, Bolsonaro cumpre uma pena de 27 anos e 3 meses de prisão após ser condenado por tentativa de golpe de Estado. Desde 24 de março deste ano ele está em prisão domiciliar humanitária, autorizada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\nDesde que começou a cumprir a pena, em novembro de 2025, Bolsonaro esteve internado no hospital DF Star diversas vezes.\nNeste sábado, Moraes atendeu a um pedido da defesa e autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação.\nNa decisão, Moraes ressaltou que as visitas precisam seguir as regras internas do hospital e que está proibida a entrada de \"celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios. \nVeja a íntegra do boletim médico:\nBrasília, 22 de novembro de 2026 – O hospital DF Star informa que o expresidente da república Jair Messias Bolsonaro encontra-se internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo. Paciente apresenta-se clinicamente estável, mantendo tratamento clínico, jejum e suporte nutricional. Segue sem previsão de alta hospitalar.\nDr. Brasil Caiado - Cardiologista\nDr. Leandro Echenique - Cardiologista\nDr. Claudio Birolini - Cirurgião do Aparelho Digestivo\nDr. Antônio Aurélio Fagundes Júnior - Coordenador da UTI Geral\nDr. Allisson B. Barcelos Borges – Diretor-Geral",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 74,
-      "publishedRaw": "Sun, 22 Nov 2026 16:54:30 -0000"
-    },
-    {
-      "id": "3300b18ccb24",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-      "summary": "Bolsonaro está na UTI em estado estável, diz boletim médico\nO ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21). Ele foi internado na tarde desta sexta-feira (20), após sentir dores abdominais.\nSegundo o boletim médico, \"foram iniciadas medidas clínicas como hidratação, manutenção do jejum oral com suporte nutricional e passagem de sonda gástrica\".\nAinda segundo o boletim, Bolsonaro \"encontra-se estável clinicamente, consciente, orientado e em respiração espontânea\", mas sem previsão de alta hospitalar.\nO boletim é assinado pelos médicos Brasil Caiado (cardiologista), Leandro Echenique (cardiologista), Claudio Birolini (cirurgião do aparelho digestivo), Antonio Aurélio Fagundes Junior (coordenador da UTI Geral) e Allisson Barcelos Borges (diretor-geral do hospital).\nNo primeiro boletim médico divulgado pelo hospital na sexta-feira, os médicos haviam informado que o ex-presidente deu entrada com \"quadro de dor e distensão abdominal\" e encontrava-se \"internado para realização de exames e investigação diagnóstica\".\n🔎 Atualmente, Bolsonaro cumpre uma pena de 27 anos e 3 meses de prisão após ser condenado por tentativa de golpe de Estado. Desde 24 de março deste ano ele está em prisão domiciliar humanitária, autorizada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\nDesde que começou a cumprir a pena, em novembro de 2025, Bolsonaro esteve internado no hospital DF Star diversas vezes.\nNeste sábado, Moraes atendeu a um pedido da defesa e autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação.\nNa decisão, Moraes ressaltou que as visitas precisam seguir as regras internas do hospital e que está proibida a entrada de \"celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\".",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 74,
-      "publishedRaw": "Sat, 21 Nov 2026 17:16:23 -0000"
-    },
-    {
-      "id": "46729dbb8b8b",
-      "source": "G1 - Política",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-      "summary": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante internação\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou que três filhos de Jair Bolsonaro — Carlos, Jair Renan e a filha menor de idade — possam visitar o ex-presidente diariamente enquanto durar sua internação no Hospital DF Star, em Brasília. \nO magistrado atendeu a um pedido feito em caráter de urgência pela defesa do ex-presidente. A autorização também vale para a enteada Letícia Firmo, filha da ex-primeira-dama Michelle Bolsonaro. \nBolsonaro deu entrada no hospital particular na tarde desta sexta-feira (20) após apresentar um quadro de dor e distensão abdominal. \nA equipe médica observa o quadro para decidir sobre necessidade de nova cirurgia, a depender da evolução do ex-presidente, segundo informação do cardiologista Brasil Caiado neste sábado. \n🔎Bolsonaro tem outros dois filhos: o ex-deputado Eduardo Bolsonaro, que deixou o Brasil em 2025, e o senador Flávio Bolsonaro (PL-RJ), que fugiu do país após a derrota na eleição presidencial de outubro deste ano. Ambos estão nos Estados Unidos.\nNa decisão deste sábado, Moraes ressalta que as visitas precisam seguir as regras internas do hospital e também proíbe a entrada “de celulares, câmeras ou quaisquer outros aparelhos eletrônicos que possam registrar imagens ou áudios\" de Bolsonaro.\nNesta sexta, o ex-presidente deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal, após avaliação do médico Brasil Caiado.\nDe acordo com a equipe, exames feitos no hospital identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nMédico de Jair Bolsonaro fala sobre internação do ex-presidente\nSegundo boletim médico e informações do médico Brasil Caiado desta sexta-feira (veja no vídeo acima), o ex-presidente está estável, consciente e recebendo medicação. Uma nova cirurgia não está descartada.\nEm uma rede social, o filho Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, comentou neste sábado o estado de saúde do pai, afirmando que os médicos colocaram uma sonda nasal no ex-presidente para retirada de resíduos alimentares. Ele também disse que Jair Bolsonaro estava com dores e enjoos.\nProcedimentos cirúrgicos\nCondenado a 27 anos e 3 meses de prisão por tentativa de golpe, Bolsonaro iniciou o cumprimento da pena em novembro de 2025 e passou por sucessivas internações ao longo do último ano. \nEm dezembro de 2025, foi submetido a uma cirurgia de hérnia inguinal bilateral; em janeiro de 2026, sofreu uma queda e um traumatismo cranioencefálico leve enquanto estava detido na Superintendência da Polícia Federal.\nEm março de 2026, após ser internado com suspeita de broncopneumonia quando estava na Papudinha, obteve de Alexandre de Moraes o benefício da prisão domiciliar humanitária, posteriormente prorrogado a pedido dos advogados em razão do quadro clínico.\nJair Bolsonaro e Alexandre de Moraes\nJN",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "Estadão"
-      ],
-      "score": 74,
-      "publishedRaw": "Sat, 21 Nov 2026 15:48:34 -0000"
-    },
-    {
-      "id": "315ed210f90c",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
-      "link": "https://www.estadao.com.br/politica/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-nprp/",
-      "summary": "",
-      "tags": [
-        "Bolsonaro"
-      ],
-      "crossOutlets": [
-        "G1 - Política"
-      ],
-      "score": 74,
-      "publishedRaw": "Mon, 23 Nov 2026 15:21:07 +0000"
-    },
-    {
-      "id": "a3d54737ad09",
-      "source": "Estadão",
-      "tipo": "mainstream",
-      "category": "Política",
-      "title": "Pesquisa mostra que 91% dos advogados apoiam eleições diretas para o Conselho Federal da OAB",
-      "link": "https://www.estadao.com.br/politica/coluna-do-estadao/pesquisa-mostra-que-91-dos-advogados-apoiam-eleicoes-diretas-para-o-conselho-federal-da-oab/",
-      "summary": "",
-      "tags": [
-        "eleições"
+        "TSE"
       ],
       "crossOutlets": [],
-      "score": 69,
-      "publishedRaw": "Mon, 23 Nov 2026 17:56:14 +0000"
+      "score": 64,
+      "publishedRaw": "Tue, 24 Nov 2026 12:00:00 +0000"
     },
     {
-      "id": "e937f8148029",
-      "source": "G1 - Mundo",
-      "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Justiça da Espanha concede anistia definitiva a líder separatista catalão Carles Puigdemont",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/justica-espanhola-concede-anistia-definitiva-ao-lider-independentista-catalao-puigdemont.ghtml",
-      "summary": "Carles Puigdemont faz sinal de resistência em foto de 2024, quando ele compareceu para fazer um discurso para apoiadores em Barcelona e depois, fugiu de novo.\nLorena Sopena/Reuters\nO Tribunal Supremo espanhol aplicou a lei de anistia ao líder independentista catalão Carles Puigdemont e encerrou o processo por sua implicação na tentativa fracassada de secessão dessa região espanhola em 2017, o que lhe permite voltar livremente ao país nove anos depois.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\n\"Declara-se o arquivamento definitivo dos fatos (...), por extinção da eventual responsabilidade penal por anistia de D. Carles Puigdemont\", indicou a decisão divulgada nesta segunda-feira (23), e que representa a última etapa da aplicação da polêmica lei aprovada pelo Parlamento espanhol em 2024. \nA decisão foi divulgada a menos de uma semana das eleições gerais de 29 de novembro na Espanha e após uma legislatura marcada, entre outros fatores, pela aprovação da lei de anistia.\nAgora no g1\n \nA polêmica norma foi a moeda de troca paga pelo primeiro-ministro socialista Pedro Sánchez para se reeleger no fim de 2023, graças, entre outros, ao apoio necessário dos partidos independentistas catalães, incluindo o Juntos pela Catalunha, de Puigdemont.\nEmbora o Parlamento espanhol tenha aprovado a lei há dois anos, Puigdemont e outros líderes independentistas ainda não haviam se beneficiado dela porque o Tribunal Supremo decidiu que a legislação não era aplicável aos investigados por crime de desvio de fundos.\nMas o Tribunal Constitucional, ao qual os afetados haviam recorrido, a validou em outubro e, pouco depois, o Supremo revogou as ordens de prisão contra o separatista.\nLEIA TAMBÉM:\nJustiça revoga mandado de prisão de líder separatista catalão\nForagido, separatista catalão desafia polícia ao surgir de surpresa em comício em Barcelona, discursar e desaparecer\nSánchez tenta impedir vitória da direita na Espanha e volta a citar triunfo de Lula",
-      "tags": [
-        "anistia"
-      ],
-      "crossOutlets": [],
-      "score": 67,
-      "publishedRaw": "Mon, 23 Nov 2026 16:35:08 -0000"
-    },
-    {
-      "id": "149ea9d97a7a",
+      "id": "c17126af3b55",
       "source": "Folha de São Paulo",
       "tipo": "mainstream",
       "category": "Política",
-      "title": "Após derrota nas urnas, Trump ataca governador da Califórnia, possível candidato em 2028",
-      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-nas-urnas-trump-ataca-governador-da-california-possivel-candidato-em-2028.shtml",
-      "summary": "Após a derrota republicana nas eleições legislativas dos Estados Unidos, o presidente Donald Trump voltou sua mira nesta segunda-feira (23) para um possível adversário de seu partido na disputa pela Casa Branca em 2028, o governador democrata da Califórnia, Gavin Newsom, a quem acusou de proteger assassinos e abandonar famílias de vítimas de crimes violentos.\nLeia mais (11/23/2026 - 21h09)",
+      "title": "Esquerda tem mais a oferecer ao governo do que briga com a Faria Lima",
+      "link": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml",
+      "summary": "No terceiro mandato de Lula, a dívida bruta do Brasil passou de 71,7% do PIB (Produto Interno Bruto) no fim de 2022 para 82,9% em 2026, e, se o país não mudar de rumo, pode chegar a 95,7% do PIB ao fim do próximo mandato, segundo a IFI (Instituição Fiscal Independente).\nLeia mais (11/24/2026 - 08h00)",
       "tags": [
-        "urnas"
+        "esquerda"
       ],
       "crossOutlets": [],
-      "score": 65,
-      "publishedRaw": "23 Nov 2026 21:09:00 -0300"
+      "score": 58,
+      "publishedRaw": "24 Nov 2026 08:00:00 -0300"
     },
     {
       "id": "8df45ceb7a48",
@@ -553,20 +504,19 @@
       "publishedRaw": "Tue, 24 Nov 2026 01:01:24 +0000"
     },
     {
-      "id": "8b587c943152",
-      "source": "G1 - Mundo",
+      "id": "7ef93849d6a2",
+      "source": "G1 - Economia",
       "tipo": "mainstream",
-      "category": "Internacional",
-      "title": "Polarização na França: líder da extrema-esquerda ganha terreno em disputa com Marine Le Pen",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/melenchon-lider-da-extrema-esquerda-francesa-ganha-terreno-em-pesquisa-eleitoral-no-segundo-turno.ghtml",
-      "summary": "Jean-Luc Mélenchon, candidato do partido francês de esquerda França Insubmissa (LFI) à Presidência da França em 2027, discursa durante um comício de campanha em Le Bourget, nos arredores de Paris, na França, no sábado, 7 de novembro de 2026.\nTeresa Suarez/AP\nO candidato presidencial de extrema-esquerda francês Jean-Luc Mélenchon ganhou cinco pontos percentuais em um mês em um possível confronto entre ele e a líder de extrema-direita Marine Le Pen, mostrou pesquisa da Toluna Harris Interactive divulgada nesta segunda-feira (23).\nMélenchon é considerado o candidato com maiores chances de enfrentar Le Pen no segundo turno das eleições francesas, que são disputadas em dois turnos. Apesar disso, as pesquisas mostram que Le Pen segue como a grande favorita.\nMarine Le Pen concede entrevista à TV TF1, da França, após ser declarada inelegível, em 31 de março de 2025\nThomas Samson/Pool via Reuters\nA pesquisa mostra Le Pen com uma larga vantagem, com 65% dos votos, contra 35% de Mélenchon.\nNo entanto, o levantamento aponta um aumento no apoio a Mélenchon em um curto período, mesmo que seu partido tenha sido acusado pelo governo de incitar protestos violentos em outubro.\nO ministro da Justiça, Gérald Darmanin, afirmou na semana passada que Mélenchon poderia derrotar Le Pen no segundo turno, enquanto a líder dos Verdes, Marine Tondelier, deixou em aberto a possibilidade de apoiar Mélenchon.\nAgora no g1",
+      "category": "Economia",
+      "title": "Família gaúcha cria IA que 'degusta' vinhos e ajuda a desenvolver novas receitas",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/24/familia-gaucha-cria-ia-que-degusta-vinhos-e-ajuda-a-desenvolver-novas-receitas.ghtml",
+      "summary": "Família do RS desenvolve inteligência artificial que 'degusta' vinho e cria novas receitas\nJá pensou em tomar um vinho desenvolvido com a ajuda de inteligência artificial? Em Três de Maio, no Rio Grande do Sul, a família Hilgert criou um algoritmo capaz de sugerir novas misturas da bebida e avaliar seu potencial em premiações.\nA IA foi desenvolvida pelo engenheiro Gabriel Hilgert. Ele explica que, ao inserir amostras de vinho no sistema, o algoritmo consegue simular milhares de receitas e indicar a que considera melhor.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nPara desenvolver a tecnologia, Gabriel cadastrou milhares de vinhos premiados no mundo todo. A partir desses dados, a IA passou a identificar características presentes em bebidas de ótima qualidade.\nHoje, quando a máquina recebe uma nova amostra, ela cruza informações de aroma, cor e sabor, além de indicar combinações para agradar ao paladar.\nDepois que a nova receita é definida, o vinho é produzido e passa por uma análise humana. A enóloga Viviane Hilgert verifica o aroma, a cor e o sabor do resultado. A bebida também é avaliada por clientes. Somente depois dessas etapas é definido se o vinho será produzido em grande escala.\nHá dois anos, foi lançado o primeiro rótulo com a colaboração da inteligência artificial. O vinho combina quatro uvas de diferentes safras, todas cultivadas nos parreirais da família.\nAntes de a bebida chegar ao mercado, a IA estimou que o vinho alcançaria 90 pontos em uma competição. No concurso em que participou, recebeu nota 91.42.\nA família já vendeu mais de mil garrafas desse primeiro vinho. Agora, quer criar um novo rótulo combinando uvas cultivadas em propriedades vizinhas.\nLeia também:\nAcerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa\nAcerola na carne? Veja como a fruta virou conservante natural de alimentos",
       "tags": [
-        "esquerda",
-        "polarização"
+        "família"
       ],
       "crossOutlets": [],
-      "score": 53,
-      "publishedRaw": "Mon, 23 Nov 2026 20:47:46 -0000"
+      "score": 51,
+      "publishedRaw": "Tue, 24 Nov 2026 07:00:00 -0000"
     },
     {
       "id": "a304ecd31728",
